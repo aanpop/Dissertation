@@ -1,0 +1,1369 @@
+Common Waters: Japan, South Korea, and Maritime Security
+Assistance in Southeast Asia
+Ryan Ashley, Jada Fraser
+Asia Policy, Volume 18, Number 2, April 2023, pp. 101-126 (Article)
+
+Published by National Bureau of Asian Research
+DOI: https://doi.org/10.1353/asp.2023.0021
+
+For additional information about this article
+https://muse.jhu.edu/article/893910
+
+[146.110.152.37] Project MUSE (2025-09-03 15:50 GMT)
+
+asia policy, volume 18, number 2 ( april 2023 ) , 101–26
+•
+
+http://asiapolicy.org
+
+•
+
+Common Waters:
+Japan, South Korea, and Maritime
+Security Assistance in Southeast Asia
+Ryan Ashley and Jada Fraser
+
+[146.110.152.37] Project MUSE (2025-09-03 15:50 GMT)
+
+ryan ashley is an active duty U.S. Air Force officer and a PhD student at
+
+the University of Texas at Austin’s Lyndon B. Johnson School of Public Affairs
+(United States). He is a Graduate Fellow at the Clements Center for National
+Security and a Lecturer with the Air Force Special Operations School, where he
+teaches courses on Japanese politics, culture, and security. His work has been
+published by Nikkei Asia, Pacific Affairs, and War on the Rocks. He can be
+reached at <rashley@utexas.edu>.
+
+jada fraseris an MA student in Asian Studies in the Edmund A. Walsh
+
+School of Foreign Service at Georgetown University and Editor-in-Chief of the
+Georgetown Journal of Asian Affairs (United States). She is a member of the
+Young Leaders Program and a U.S.-Japan Next Generation Fellow with Pacific
+Forum. She has worked as a policy research fellow at the Edwin O. Reischauer
+Center for East Asian Studies at the Johns Hopkins School of Advanced
+International Studies and as a research assistant for the Japan chair at the
+Center for Strategic and International Studies. Her work has been published by
+Nikkei Asia, the Lowy Institute, and the Australian Strategic Policy Institute.
+She can be reached at <jcf136@georgetown.edu>.
+
+keywords:japan-korea cooperation; southeast asia; south china sea;
+mekong river; quad plus
+
+© The National Bureau of Asian Research
+One Union Square, Suite 1012, 600 University Street, Seattle, Washington 98101 USA
+
+asia policy
+
+executive summary
+This article proposes that Southeast Asia is an ideal space for cooperation
+between Japan and South Korea, given that both countries share strategic
+priorities in the region.
+
+main argument
+Although Japan and South Korea’s bilateral ties are typically defined by
+long-standing issues over historical issues and territorial disputes, each
+country shares a wide set of geopolitical interests, leading to an “Asian
+paradox” of mismatched priorities. This paradox is clearly visible in Southeast
+Asia. While Tokyo’s strategic ties with the subregion, often via the Association
+of Southeast Asian Nations (ASEAN), are deeper and predate Seoul’s, South
+Korea is increasingly expanding its own relations with the region alongside
+its growing security outreach across the Asia-Pacific. As a result, Japan’s
+and South Korea’s interests and activities are meeting in strategic spaces in
+Southeast Asia, such as the South China Sea and the Mekong River basin.
+Despite sharing common goals in these spaces, so far Seoul and Tokyo have
+not collaborated in their efforts. While many hurdles still limit direct security
+cooperation between Japan and South Korea, even indirect cooperation
+in shared strategic spaces in Southeast Asia could provide both countries
+an opportunity to build trust and provide security benefits to countries in
+Southeast Asia.
+
+policy implications
+• The U.S. can incentivize Japan–South Korea cooperation in Southeast Asia
+through the Quad Plus framework.
+• Expanding the General Security of Military Information Agreement
+between Japan and South Korea could be a method of increasing their
+cooperation in Southeast Asia.
+• To achieve greater cooperation toward these aims, the U.S. should support
+strategic latitude for Japan and South Korea in Southeast Asia.
+
+ashley and fraser
+
+•
+
+common waters
+
+I
+
+n November 2021 the newest flagship of the Philippine Navy’s
+state-of-the-art frigate class, the BRP Jose Rizal, conducted exercises with
+the JS Kaga, the unofficial aircraft carrier of the Japan Maritime Self-Defense
+Force.1 This military engagement, hailed in both Manila and Tokyo as a
+further step toward growing the countries’ burgeoning strategic relationship,
+belied the crucial role played by another Asian maritime power—the Republic
+of Korea (ROK, or South Korea). In the bidding process, Hyundai Heavy
+Industries, a South Korean conglomerate, was chosen over competitors from
+Germany, India, and Spain to build the Jose Rizal for the Philippine Navy.
+The ship is also armed with anti-ship missiles and torpedoes designed for the
+ROK Navy.2 While the exercises of the Kaga and the Jose Rizal contributed to
+strengthening Japanese-Philippine maritime ties, these exercises would not
+have been possible without the expertise and industry of South Korea.
+This example is but one of many highlighting the importance of growing
+maritime security relations between Japan, South Korea, and Southeast Asia,
+comprising the member states of the Association of Southeast Asian Nations
+(ASEAN). For Southeast Asia, a region with increasingly contested strategic
+maritime spaces, Japan and South Korea are welcome security partners that
+provide access to technology, industry, capacity building, and training, as
+well as a degree of strategic assurance. For Japan, Southeast Asian maritime
+security is a long-standing strategic priority, and expanding Japan’s reach
+in the region is an ongoing imperative. For South Korea, Southeast Asia is
+a region of growing importance, especially as it continues to perceive itself
+as dependent on the trade and energy flows through Southeast Asia’s global
+commons, and Seoul desires to expand and deepen its diplomatic heft in
+the region.
+This article argues that a triangular maritime security relationship
+between Japan, South Korea, and Southeast Asia provides opportunities for
+all three parties—and especially for cooperation between Seoul and Tokyo.
+Despite their fraught relationship, Japan and South Korea share several
+strategic priorities in Southeast Asia. Crucially, these shared interests are also
+prioritized by Southeast Asian leaders, lending credence to the potential for
+a triangular relationship that is increasingly beneficial for all. Nevertheless,
+the weakest link in this triangle is the relationship between Seoul and Tokyo.
+
+1 Jairo Bolleda, “PH Navy Holds Passing Exercises with Japanese Vessels,” Rappler, November 15, 2021
+u
+
+https://www.rappler.com/nation/photos-philippine-navy-holds-passing-exercises-japanese-vessels.
+
+2 “Philippine Navy’s First Jose-Rizal Class Frigate Leaves South Korea,” Janes Defence, May 18, 2020
+
+https://www.janes.com/defence-news/news-detail/2020/05/18/be6cf6ea-2d6d-4350-a37d6bed47605667.
+u
+
+[ 103 ]
+
+asia policy
+
+Strengthening maritime cooperation in Southeast Asia between Japan and
+South Korea would thus benefit all parties, as well as implicitly serve the
+strategic aims of the United States.
+This article is organized into four sections:
+u
+
+u
+
+u
+
+u
+
+pp. 104–7 provide a brief background on the Japan-ROK relationship
+and summarize what the authors identify as the main narratives
+surrounding Seoul-Tokyo reconciliation to distinguish the article’s
+recommendations for facilitating cooperation from previous stalled
+attempts.
+pp. 107–13 lay out a methodology for understanding the triangular
+relationship described above.
+pp. 113–24 provide two case studies of potential maritime cooperation
+between Japan and South Korea in Southeast Asia: the South China Sea
+and the Mekong River basin.
+pp. 124–26 summarize the argument made in the article and provide
+recommendations for U.S. policymakers on how to best support the
+consolidation of a mutually beneficial security triangle in the heart of
+this priority region for security.
+
+the japan-rok relationship
+As many analysts of Northeast Asia emphatically argue, Japan and
+South Korea’s strategic alignment is expansive, underscored by the countries’
+democratic values and their shared perceptions of their regional security
+environment (regarding North Korea and, increasingly, China). Yet their
+dearth of cooperation belies their common interests.3 The two countries’
+inability to effectively and sustainably work together, often referred to as the
+“Gordian knot” of U.S. strategy in Asia,4 remains one of the United States’
+greatest challenges in forging a coherent network of like-minded allies and
+partners in the Asia-Pacific. This “Asian paradox” represents a serious threat
+to stability in East Asia in the face of an ever more assertive China and a
+3 Michael J. Green and Nicholas Szechenyi, Power and Order in Asia: A Survey of Regional
+
+Expectations (Washington, D.C.: Center for Strategic and International Studies [CSIS],
+July 2014) u http://csis-website-prod.s3.amazonaws.com/s3fs-public/legacy_files/files/
+publication/140605_Green_PowerandOrder_WEB.pdf; and Jada Fraser, “The Cornerstone
+and the Linchpin: Reconstituting U.S.-ROK-Japan Trilateral Security Cooperation,” Pacific
+Forum, Issues & Insights, no. 22, November 2022, 1–12 u https://pacforum.org/publication/
+the-cornerstone-and-the-linchpin-reconstituting-u-s-rok-japan-trilateral-security-cooperation.
+
+4 Daniel Sneider, “Cutting the Gordian Knot in South Korea–Japan Relations,” East Asia Forum,
+
+April 4, 2022 u https://www.eastasiaforum.org/2022/04/04/cutting-the-gordian-knot-insouth-korea-japan-relations; and Mintaro Oba and Ji-Young Lee, “Pragmatic Stability, Latent
+Tensions,” Comparative Connections 22, no. 1 (2020): 119–26 u https://cc.pacforum.org/2020/05/
+pragmatic-stability-latent-tensions.
+
+[ 104 ]
+
+[146.110.152.37] Project MUSE (2025-09-03 15:50 GMT)
+
+ashley and fraser
+
+•
+
+common waters
+
+nuclear North Korea. Coined in 2013 by former South Korean president Park
+Guen-hye in her address to a joint session of the U.S. Congress, the term
+“Asian paradox” highlights the disconnect between South Korea and Japan’s
+“growing economic interdependence on the one hand, and backward political,
+security cooperation on the other.”5 As the United States faces a widening gulf
+between its resources and goals, improving cooperation with and among its
+most important allies in Northeast Asia is now more critical than ever.
+Numerous historical grievances frustrate meaningful Japan-ROK
+cooperation, such as the use of forced labor and “comfort women” (a term
+referring to Korean and other women forced into sexual slavery by the Imperial
+Japanese Army).6 Previous attempts at reconciliation between Japan and
+South Korea include efforts at “grand bargain” compromises, “threat focused”
+strategies, and various levels of U.S.-involved mediation paths. Notably, there
+are also observers who argue that the relationship has no hope for improvement
+and therefore that focusing on mending it is a waste of time and resources.
+Brad Glosserman and Scott Snyder provide an example of a “grand
+bargain” compromise in their book The Japan–South Korea Identity Clash.
+An agreement to improve relations, they argue, would rest on a series
+of government statements and actions in which the United States would
+recognize its role in both the origination and perpetuation of many of the
+historical flashpoints in the Japan-ROK bilateral relationship; Japan would
+acknowledge government responsibility for the crimes perpetrated against
+South Koreans, pay reparations to individual “comfort women” and forced
+laborers, and relinquish its claims to the disputed Dokdo/Takeshima islands;
+and South Korea would accept the Japanese offer as definitive and would
+pledge to commence a forward-looking relationship with Japan.7
+“Threat focused” strategies, including those proposed by realist scholars
+such as Michael Green and Victor Cha, keep the bilateral relationship focused
+on shared security threats like North Korea. In his “quasialliance theory,” Cha
+argues that Japan and South Korea are more likely to cooperate during times
+
+5 Katrin Katz, “Korea-Japan Relations, 50 Years In: Demystifying the Paradox of Cyclical Tensions
+
+and Rapprochement,” CSIS, August 13, 2015, 1 u https://csis-prod.s3.amazonaws.com/s3fs-public/
+legacy_files/files/publication/150813_Korea_Japan_Relations_50_Years.pdf; and Jada Fraser,
+“Textbook Diplomacy: Nationalism and Historical Narrative Reconstruction in the Japan–South
+Korea Relationship” (BA thesis, College of Liberal Arts, University of Texas at Austin, April 2020)
+u https://liberalarts.utexas.edu/irg/honors/theses.php.
+
+6 Jada Fraser, “Abe Shinzo and the Japan–South Korea Relationship: Near- and Long-Term Legacies,”
+
+Pacific Forum, July 11, 2022 u https://pacforum.org/publication/pacnet-35-abe-shinzo-and-thejapan-south-korea-relationship-near-and-long-term-legacies.
+
+7 Brad Glosserman and Scott A. Snyder, The Japan–South Korea Identity Clash: East Asian Security
+
+and the United States (New York: Columbia University Press, 2015), 172–73.
+
+[ 105 ]
+
+asia policy
+
+when they are uncertain about the U.S. commitment to the region.8 Green
+has argued that even while compromises between Japan and South Korea on
+historical issues remain remote, cooperation in areas of mutual interest can
+productively strengthen the relationship. Green, among others, has previously
+proposed a multipronged approach that involves addressing separate
+issues through different channels to lower the costs of an all-or-nothing
+solution—such as the grand bargain compromise—and create space and time
+for incremental progress.9
+“Pro-U.S. mediation” strategies, like one described by Mark Manyin,
+consider Washington to have a necessary role in pushing for improvement in
+Japan-ROK relations.10 Conversely, the “nonintervention” school of thought
+sees U.S. intervention in the conflict as ineffectual and believes that Japan-ROK
+relations will see sustainable improvement only when driven exclusively by
+South Korea and Japan.11 Finally, there are those that fall into the “no hope”
+camp and argue that working to bridge the divide between the two countries
+is not worth the time and resources. This point of view is often promulgated
+by the far left in South Korea and far right in Japan, and it can also be seen in
+Samuel Huntington’s article “Clash of Civilizations?”12
+As argued by one of the present authors elsewhere, it is important
+to think creatively about ways to facilitate coordination that reflects the
+respective strategies of both countries.13 While acknowledging the existing
+8 Victor D. Cha, Alignment Despite Antagonism: The United States-Korea-Japan Security Triangle
+
+(Stanford: Stanford University Press, 2000).
+
+9 Michael J. Green, “The Japan-Korea Impasse and the Security of Northeast Asia,” Nippon,
+
+November 5, 2019 u https://www.nippon.com/en/in-depth/a06403/the-japan-korea-impasse-andthe-security-of-northeast-asia.html.
+
+10 Mark E. Manyin, “Managing Japan-South Korea Tensions,” Council on Foreign Relations,
+
+Discussion Paper, December 2015 u https://www.cfr.org/sites/default/files/pdf/2015/12/
+Discussion_Paper_Korea_Japan_Manyin.pdf.
+
+11 Daniel Sneider and Cheol Hee Park, “Resolved: The United States Can Fix the Japan-South
+
+Korea Problem,” CSIS, Debating Japan, no. 4, July 9, 2021 u https://www.csis.org/analysis/
+resolved-united-states-can-fix-japan-south-korea-problem.
+
+12 Samuel P. Huntington, “The Clash of Civilizations?” Foreign Affairs, 1993, 22–49 u https://
+
+doi.org/10.2307/20045621; Cheol Hee Park, “South Korean Views of Japan: A Polarizing Split
+in Coverage,” Korean Economic Institute, June 24, 2020 u http://keia.org/sites/default/files/
+publications/kei_jointus-korea_2020_2.4.pdf; and Colleen Sharkey, “Japanese Far-Right Hate
+Group Helped Popularize Anti-Korean Sentiment,” University of Notre Dame, Keough School of
+Global Affairs, August, 25, 2021 u https://keough.nd.edu/japanese-far-right-hate-group-helpedpopularize-anti-korean-sentiment. For more on how left-wing Korean nationalism and right-wing
+Japanese nationalism exacerbate tensions in the bilateral relationship, see Gi-wook Shin, “The
+Perils of Populist Nationalism,” Stanford University, Walter H. Shorenstein Asia-Pacific Research
+Center, Commentary, September 2019 u https://fsi-live.s3.us-west-1.amazonaws.com/s3fs-public/
+shin_perils_of_populist_nationalism.pdf.
+
+13 Fraser, “The Cornerstone and the Linchpin”; and Nicholas Szechenyi, Hannah Fodale,
+
+and Jada Fraser, “The Case for U.S.-Japan-ROK Cooperation on Democracy Support
+in the Indo-Pacific Region,” CSIS, November 3, 2021 u https://www.csis.org/analysis/
+case-us-japan-rok-cooperation-democracy-support-indo-pacific-region.
+
+[ 106 ]
+
+ashley and fraser
+
+•
+
+common waters
+
+literature on Japan-ROK cooperation, this article proposes a different avenue
+for such collaboration by the two countries—one that highlights the potential
+for mutual security and commercial non-zero-sum gains—thereby deepening
+security relationships in Southeast Asia. Japan and South Korea share
+geopolitical goals, economic interests, and defense capabilities that would
+make expanding maritime security assistance in Southeast Asia a unique,
+mutually beneficial point of convergence. Such cooperation would fill the
+demand for maritime security cooperation in Southeast Asia more efficiently
+by streamlining duplicative efforts and reducing redundancies. As Japan
+and South Korea are both increasing defense spending while facing human
+resource and fiscal constraints, collaboration on maritime security efforts in
+Southeast Asia would enable both countries to save resources and allocate
+them elsewhere. Moreover, this article’s recommendation for Japan and South
+Korea to partner with Southeast Asian countries is in line with empirical
+evidence that Japan-ROK cooperation tends to be more easily pursued
+when other countries are included.14 Although this article does not argue
+that successful instances of Japan-ROK maritime security cooperation in
+Southeast Asia would sequentially and necessarily lead to great improvements
+in their diplomatic relationship, it makes the case that less politically sensitive
+areas of security cooperation would build trust and normalize some aspects of
+the security relationship, benefiting Southeast Asia as well.
+
+methodology
+This article postulates that relations between Japan, South Korea, and
+Southeast Asia constitute three legs of a supply-and-demand security triangle.
+Japan and South Korea, the suppliers of the security relationship, sit at the
+bottom of the triangle, feeding Southeast Asian demand on the top. The
+strongest, most established relationship within the triangle is that between
+Japan and Southeast Asia. At the bottom of the triangle, Japan and South Korea
+share links of investment and trade but few security ties. This is currently the
+weakest leg of the triangular relationship. Figure 1 illustrates this triangle.
+
+14 Naoko Aoki, “Takeaways from a Time of Increased Friction: South Korea-Japan Security
+
+Cooperation from 2015 to Present,” Korea Economic Institute, September 23, 2021 u https://
+keia.org/publication/takeaways-from-a-time-of-increased-friction-south-korea-japan-securitycooperation-from-2015-to-present; and Sarah Teo, “South Korea’s Defence Diplomacy in East
+Asia,” S. Rajaratnam School of International Studies, Policy Brief, December 1, 2013 u http://www.
+jstor.org/stable/resrep05835.
+
+[ 107 ]
+
+asia policy
+
+FIGURE 1
+Japan–South Korea–Southeast Asia Triangle
+•
+•
+•
+•
+•
+
+Ships
+Aircraft
+Technology
+Training
+Professional military
+education
+• Exercises
+• Official development
+assistance
+• Free and Open IndoPacific programs
+
+Japan
+
+Southeast Asia
+•
+•
+•
+•
+
+•
+•
+•
+•
+
+ASEAN access
+Strategic trust
+Regional influcence
+Markets
+
+• General Security of Military
+Information Agreement (GSOMIA)
+• U.S. alliances
+
+Ships
+Aircraft
+Training
+Official development
+assistance
+• New Southern Policy
+programs
+
+South Korea
+
+As noted above, the triangle is far from equally balanced. Japan and
+Southeast Asia share deep and dynamic relationships on both security and
+economic matters based on decades of trust-building and mutually beneficial
+arrangements, with Japan supplying the security needs of Southeast Asia. South
+Korea and Southeast Asia, on the other hand, share comparatively modest but
+growing security ties. While South Korea does not have the same stature as
+Japan in Asia, the former is an increasingly welcome security partner across
+ASEAN and provides crucial resources that Japan lacks, such as purpose-built
+warships. Once more, though South Korea’s economic and security relations
+with Southeast Asian states are less developed than those with Japan, South
+Korea enjoys growing trust and access in the region, bolstered by its reliable
+supply of security assistance.15
+While each leg of this security triangle is crucial, this article focuses
+on the relationship between Japan and South Korea, as this relationship is
+arguably the weakest link among all three parties. Japan and South Korea,
+outside of their alliance relationships with the United States, are both net
+
+15 For further context on the growing relationship between South Korea and Southeast Asia, see,
+
+for example, Kathryn Botto, “South Korea Beyond Northeast Asia: How Seoul Is Deepening
+Ties with India and ASEAN,” Carnegie Endowment for International Peace, October 19, 2021 u
+https://carnegieendowment.org/2021/10/19/south-korea-beyond-northeast-asia-how-seoul-isdeepening-ties-with-india-and-asean-pub-85572.
+
+[ 108 ]
+
+[146.110.152.37] Project MUSE (2025-09-03 15:50 GMT)
+
+ashley and fraser
+
+•
+
+common waters
+
+suppliers of security assistance and have little need for each other’s military
+hardware or training opportunities. Therefore, despite the fact that Japan and
+South Korea are closely aligned in geopolitical terms, they fail to cooperate
+effectively on defense matters.16 This is because leaders in both countries are
+often inclined to see the other as a liability, sharing an overall alignment on
+regional goals but ignoring the other as either a potential source of supply or
+demand for security partnerships.
+This lack of motivation to cooperate stands in stark contrast with
+Southeast Asian nations’ eagerness to partner with both Japan and South
+Korea on defense-related initiatives. Conventional analyses of the region,
+and ASEAN as a whole, frequently stress Southeast Asia’s desire to “not be
+forced to choose” in the developing great-power competition between the
+United States and China.17 Southeast Asia’s modern sense of regionalism
+is rooted in its history of colonization and imperialism, followed by the
+bloody ideological conflicts of the Cold War. Yet, despite a desire to remain
+nonaligned from any one great power, the countries of Southeast Asia face
+myriad security challenges, namely from the territorial ambitions of China.
+As such, Southeast Asia faces two seemingly contradictory needs: increasing
+military assistance from outside powers, while avoiding alignment on either
+side of the U.S.-China rivalry.
+Here, South Korea and Japan prove ideal partners. Each is a modernized and
+sophisticated military power that desires greater security ties with the region and
+holds similarly skeptical views of China’s goals in the region. Both countries are
+also robust maritime powers, able to provide training, support, and resources for
+Southeast Asia’s greatest security need: navies and coast guards.18 Importantly,
+thus far, ASEAN states’ building of closer relations with Japan and South Korea
+has not antagonized China enough to spark a diplomatic backlash from Beijing.19
+16 Michael J. Green and Cheol Hee Park, “Assessing the Direction of South Korea–Japan Relations in a
+
+New Era,” CSIS, Commentary, October 6, 2020 u https://www.csis.org/analysis/assessing-directionsouth-korea-japan-relations-new-era; and Green and Szechenyi, Power and Order in Asia.
+
+17 Multiple versions of this commonly used phrase exist across media relevant to Southeast Asia.
+
+For examples, see Jonathan Stromseth, “Don’t Make Us Choose: Southeast Asia in the Throes of
+U.S.-China Rivalry,” Brookings Institution, October 2019 u https://www.brookings.edu/research/
+dont-make-us-choose-southeast-asia-in-the-throes-of-us-china-rivalry.
+
+18 While South Korea is not typically included in the category of “maritime powers” through force of
+
+its navy alone, this article will consider South Korea an influential maritime power thanks to the
+combined capabilities of its navy, shipbuilding sector, and maritime weapons sales capacity.
+
+19 Koki Shigenoi, ed., “Japan’s Role for Southeast Asia Amidst the Great Power Competition and
+
+Its Implications for the EU-Japan Partnership,” Konrad Adenauer Stiftung, April 2022 u https://
+www.kas.de/documents/267709/18041095/Japan%27s+role+in+South+East+Asia+amidst+the+g
+reat+power+competition+%28English%29.pdf/160eef85-d166-9d09-3388-f6a30afdbe10?version
+=1.0&t=1651136707700; and Lee Jaehyon, “New Emphasis Needed: South Korea’s New Southern
+Policy and ASEAN,” ISEAS Perspective, no. 110 (2020) u https://www.iseas.edu.sg/wp-content/
+uploads/2020/09/ISEAS_Perspective_2020_110.pdf.
+
+[ 109 ]
+
+asia policy
+
+Japan and South Korea, too, have their own motivations for deepening
+security ties with Southeast Asia. Despite Seoul and Tokyo’s current
+estrangement, each holds a large stake in maintaining the U.S.-backed security
+order in the Indo-Pacific region. This order is buttressed by the free movement
+of trade and goods across strategic chokepoints such as the Malacca Strait and
+South China Sea, both of which are in Southeast Asia. Japan and South Korea
+also depend on these waterways to import the vast majority of their energy
+and to transport their exports to Africa, Europe, and South Asia.20
+The geopolitical importance of Southeast Asia to modern Japan has been
+well understood by leaders in Tokyo for more than a century. In the decades
+following the Meiji Restoration in 1868, political doctrines of “southward
+expansion” (nanshin-ron) stressed the importance of the region as a natural
+sphere of economic and political influence for Japanese imperial control.21
+A highly militarized version of the doctrine became official national policy
+in 1935 and motivated Imperial Japan’s invasion of the region in the early
+years of World War II.22 Despite its defeat and occupation, Japan continued to
+prioritize the region in the postwar period, albeit now as a zone of economic
+reconstruction rather than military conquest. Throughout the Cold War, Japan
+rebuilt trust with countries across the region through economic outreach and
+“heart-to-heart” diplomacy.23 The foreign policy doctrines of Prime Ministers
+Shigeru Yoshida and Takeo Fukuda, for example, both placed Southeast Asia
+as a priority in Tokyo’s grand strategy.
+Today, surveys suggest that Japan is the most trusted country among
+political and economic leaders in Southeast Asia, enabling Tokyo to freely
+and easily engage with the region on economic and security affairs.24 Indeed,
+Southeast Asia is central to Japan’s “Free and Open Indo-Pacific” strategy,
+which stresses the importance of free trade, defense cooperation, and
+regional integration.25 Japan is also the region’s largest sovereign investor,
+largest source of foreign aid, and consistently in the top-three trade partners
+20 “Asia Region Is Most Dependent on Middle East Crude Oil, LNG Supplies,” Reuters,
+
+January 8, 2020 u https://www.reuters.com/article/asia-mideast-oil-factbox/
+factbox-asia-region-is-most-dependent-on-middle-east-crude-oil-lng-supplies-idINKBN1Z71VW.
+
+21 Hajime Shimizu, Southeast Asia in Modern Japanese Thought: The Development and Transformation
+
+of “Nanshin Ron” (Canberra: Australian National University, 1980).
+
+22 Ibid.
+23 Toru Yano, “The ‘Fukuda Doctrine’ and Its Implications for Southeast Asia: A Japanese Perspective,”
+
+Southeast Asian Affairs (1978): 60–64 u http://www.jstor.org/stable/27908336.
+
+24 Sharon Seah et al., “The State of Southeast Asia: 2022 Survey Report,” ISEAS–Yusof Ishak Institute,
+
+February 2022 u https://www.iseas.edu.sg/wp-content/uploads/2022/02/The-State-of-SEA-2022_
+FA_Digital_FINAL.pdf.
+
+25 Ministry of Foreign Affairs (Japan), “Foreign Policy: Free and Open Indo-Pacific,” May 16, 2022 u
+
+https://www.mofa.go.jp/policy/page25e_000278.html.
+
+[ 110 ]
+
+ashley and fraser
+
+•
+
+common waters
+
+of each Southeast Asian country.26 Put simply, Japan remains an economic
+powerhouse in Southeast Asia with a great deal of strategic access and influence
+as a result. The Kishida administration’s ambitious new National Security
+Strategy, released in December 2022, commits Japan to even greater security
+and economic outreach to Southeast Asia, signaling its high prioritization of
+a continued presence in the region.27
+Since the decades following the division of the peninsula at the end of the
+Korean War, South Korea, too, has long recognized the strategic importance
+of Southeast Asia. During the postwar consolidation of the South Korean
+government, engagement with Southeast Asia mainly hinged on the diplomatic
+battle with North Korea to secure international recognition and legitimacy.28
+Since the early 1970s, South Korea has, to varying degrees, sought to develop
+relations with countries in Southeast Asia based on “economic diplomacy
+and diplomatic pragmatism.”29 From the late 1990s through the early years
+of the 2000s, South Korea’s self-recognition as an important middle power
+accelerated its outreach as a “bridge” between Southeast and Northeast Asia
+and as a “model of economic success and democratic development [that]
+developing Southeast Asian countries [could] adopt.”30 During the same
+time, hallyu, or the “Korean wave” of pop culture, proved a hit in Southeast
+Asia.31 In addition to increasing the value of ASEAN-ROK trade—Korean
+cultural exports to ASEAN countries increased from $800 million in 2015 to
+$1.3 billion in 2017—hallyu enhances South Korea’s soft power and is utilized
+in support of the country’s foreign policy goals.32
+
+26 “A Glimpse into Japan’s Understated Financial Heft in South-East Asia,” Economist, August 14,
+
+2021 u https://www.economist.com/finance-and-economics/2021/08/14/a-glimpse-into-japansunderstated-financial-heft-in-south-east-asia.
+
+27 Cabinet of Japan, National Security Strategy of Japan (Tokyo, December 2022) u https://www.cas.
+
+go.jp/jp/siryou/221216anzenhoshou/nss-e.pdf.
+
+28 David I. Steinberg, “South Korea in Southeast Asia: Enhancing Returns and Reassurances,”
+
+Southeast Asian Affairs (1995): 74–88 u http://www.jstor.org/stable/27912120.
+
+29 Brian Bridges, “From ASPAC to EAS: South Korea and Southeast Asia,” Asian Affairs 41, no. 2
+
+(2014): 33–55 u http://www.jstor.org/stable/44074542.
+
+30 Hallyu describes the rise in popularity of Korean popular culture content including television
+
+dramas, movies, pop songs and their associated celebrities. Sarah Teo, Bhubhindar Singh, and See
+Seng Tan, “Southeast Asian Perspectives on South Korea’s Middle Power Engagement Initiatives,”
+Asian Survey 56, no. 3 (2016): 555–80 u https://www.jstor.org/stable/26364373.
+
+31 Shim Doobo, “Korean Wave in Southeast Asia,” Kyoto Review of Southeast Asia 11 (2011) u https://
+
+kyotoreview.org/issue-11/korean-wave-in-southeast-asia/#:~:text=Since%20the%20late%20
+1990s%2C%20an,of%20Korean%20popular%20culture%20in.
+
+32 Primastuti Handayani, “Korean Wave in ASEAN Keeps Going Strong,” Jakarta Post, April 25, 2019
+
+https://www.thejakartapost.com/news/2019/04/25/korean-wave-in-asean-keeps-going-strong.
+html; and Dal Yong Jin, “The Korean Wave,” Georgetown Journal of International Affairs, May 26,
+2020 u https://gjia.georgetown.edu/2020/05/26/the-korean-wave.
+u
+
+[ 111 ]
+
+asia policy
+
+Former president Moon Jae-in’s signature foreign policy, the New
+Southern Policy (NSP), was to some extent a reformulation of South Korea’s
+strategy of the past several decades. The NSP sought to elevate South Korea’s
+relations with Southeast and South Asia to the same level as relations with
+China, Japan, and the United States. Importantly, the NSP was motivated
+by the need to diversify economic and security relations amid U.S.-China
+strategic competition—as being in the middle of this competition is an
+uncomfortable position that South Korea and Southeast Asia both intimately
+understand. South Korea also has strong economic interests in the region.
+Since 2017, the ten member countries of ASEAN have ranked as South Korea’s
+second-largest trading partner (after China), with trade volume more than
+tripling from $61.8 billion in 2006 to $189.5 billion in 2021.33 In addition,
+between 2012 and 2021, South Korean foreign direct investment in Southeast
+Asia more than doubled, underscoring the government’s recognition of the
+region’s growing strategic significance (Figure 2).34
+The “peace pillar” of the NSP focused on deepening security relations with
+Southeast Asia, though this pillar often faced criticism as the least substantial
+element of the policy, as it avoided potentially sensitive areas of traditional
+security cooperation.35 South Korea’s military ties with the region remain
+comparatively less developed than its economic and soft-power linkages.
+However, the ASEAN-ROK Defense Ministerial Dialogue, recently launched
+in November 2021, heavily emphasizes maritime security cooperation in its
+action plan.36 Most notably, the Yoon Suk-yeol administration’s “Strategy
+for a Free, Peaceful, and Prosperous Indo-Pacific Region” places a renewed
+emphasis on deepening both economic and defense relations with Southeast
+Asia.37 Seemingly, then, Japan’s and South Korea’s strategic aims in Southeast
+Asia (and even those of the United States) are not in conflict with one
+another. Rather, they share enough alignment to suggest that the region is a
+33 Association of Southeast Asian Nations Member States (ASEAN), “The Nineteenth AEM-ROK
+
+Consultation,” Joint Media Statement, September 16, 2022 u https://asean.org/wp-content/
+uploads/2022/09/ADOPTED-AEM-ROK-19-Media-Statement.pdf; and “S. Korea, ASEAN
+to Upgrade Their FTA,” Korea Herald, July 27, 2021 u https://www.koreaherald.com/view.
+php?ud=20210727000496.
+
+34 “Statistics of Foreign Direct Investment,” Korea Eximbank u https://stats.koreaexim.go.kr/en/
+
+enMain.do.
+
+35 Kathryn Botto, “South Korea Beyond Northeast Asia: How Seoul Is Deepening Ties with
+
+India and ASEAN,” Carnegie Endowment for International Peace, October 19, 2021 u https://
+carnegieendowment.org/2021/10/19/south-korea-beyond-northeast-asia-how-seoul-isdeepening-ties-with-india-and-asean-pub-85572.
+
+36 “S. Korea, ASEAN Launch New Defense Ministerial Dialogue,” Yonhap News Agency, November
+
+10, 2021 u https://en.yna.co.kr/view/AEN20211110009400325.
+
+37 Ministry of Foreign Affairs (ROK), Strategy for a Free, Peaceful, and Prosperous Indo-Pacific Region
+
+(Seoul, December 2022) u https://www.mofa.go.kr/eng/brd/m_5676/view.do?seq=322133.
+
+[ 112 ]
+
+ashley and fraser
+
+•
+
+common waters
+
+FIGURE 2
+South Korean FDI in Southeast Asia
+
+Source: “Statistics of Foreign Direct Investment,” Korea Eximbank u https://stats.koreaexim.go.kr/en/
+enMain.do.
+
+[146.110.152.37] Project MUSE (2025-09-03 15:50 GMT)
+
+logical point of collaboration between two like-minded countries. The Yoon
+administration’s outreach campaign to Tokyo to work together on increasing
+pragmatic cooperation holds promising potential for strengthening the
+Japan-ROK leg of the security triangle with Southeast Asia.38
+
+case studies
+South China Sea
+Japan, South Korea, and many Southeast Asian countries share similar
+interests and concerns regarding security in the South China Sea. All three
+parties are heavily reliant on South China Sea trade routes for their economic
+and food security. The assertive and provocative actions of China’s People’s
+
+38 Lee Haye-ah, “Yoon, Japan’s Kishida Agreed to Seek Quick Settlement of Forced Labor
+
+Issue: Official,” Yonhap News Agency, November 16, 2022 u https://en.yna.co.kr/view/
+AEN20221116008500315; and Terrence Matsuo, “Uncertain Prospects for Yoon’s Japan
+Initiative,” Korea Economic Institute, August 2, 2022 u https://keia.org/the-peninsula/
+uncertain-prospects-for-yoons-japan-initiative.
+
+[ 113 ]
+
+asia policy
+
+Liberation Army (PLA) Navy in the South China Sea, motivated by the
+country’s disputed claims within its so-called nine-dash line, directly threaten
+the integrity of these sea lanes and hold all parties’ access at risk. Japan and
+South Korea can cooperate to bolster maritime security efforts with Southeast
+Asian countries to secure open access and safeguard rule of law in the South
+China Sea along two main lines of effort: coordinating maritime capacitybuilding activities to reduce redundancies and coordinating technology
+transfers to improve maritime domain awareness capabilities.
+The South China Sea can be considered a global flashpoint due to the
+vast amounts of international trade transiting its sea lanes. Approximately
+one-third of global maritime trade passes through the area, a proportion
+that increases for the large economies of Northeast Asia.39 Japan’s and South
+Korea’s most important shipping routes transit the South China Sea: in 2016,
+42% of Japan’s trade and approximately 50% of South Korea’s trade transited
+the South China Sea.40
+An extremely important subset of trade for Japan and South Korea is
+energy. Sea lanes in the South China Sea carry approximately 85%–90% of
+Japan’s and South Korea’s oil imports and 33% of Japan’s and South Korea’s
+liquefied natural gas (LNG) imports.41 Both states are increasingly reliant on
+Australia, the largest LNG exporter in the world as of 2021, for supplies, and
+most Australian LNG exports pass through the South China Sea.42 Japan and
+several Southeast Asian countries also share resource extraction interests in
+the South China Sea, as the area is estimated to hold modest but significant
+LNG deposits. Many of the disputes between Southeast Asian claimant
+states and China center on rights to drilling and resource exploration, and
+China’s assertive posture prevents Japan from exploring partnering options
+for energy extraction.43
+
+39 Uptin Saiidi, “Here’s Why the South China Sea Is Highly Contested,” CNBC, February 7, 2018 u
+
+https://www.cnbc.com/2018/02/07/heres-why-the-south-china-sea-is-highly-contested.html.
+
+40 “How Much Trade Transits the South China Sea?” CSIS, China Power, updated January 25, 2021
+
+https://chinapower.csis.org/much-trade-transits-south-china-sea; author’s own calculations
+based on “How Much Trade Transits the South China Sea?”; and “South Korean Foreign
+Trade in Figures,” Santander Trade Portal, May 2022 u https://santandertrade.com/en/portal/
+analyse-markets/south-korea/foreign-trade-in-figures.
+u
+
+41 Mikkal E. Herberg, “The Role of Energy in Disputes over the South China Sea,” National Bureau of
+
+Asian Research, June 28, 2016 u https://www.nbr.org/publication/the-role-of-energy-in-disputesover-the-south-china-sea.
+
+42 Josh Lewis, “Australia Remains World’s Top LNG Exporter but It Could Lose Its Crown
+
+This Year,” Upstream, January 19, 2022 u https://www.upstreamonline.com/lng/
+australia-remains-worlds-top-lng-exporter-but-it-could-lose-its-crown-this-year/2-1-1147625.
+
+43 Semiha Karaoglu, “The South China Sea Dispute and Its Challenges to Japan’s Economic Interests,”
+
+Asia Power Watch, August 31, 2020 u https://asiapowerwatch.com/the-south-china-sea-disputeand-its-challenges-to-japans-economic-interests.
+
+[ 114 ]
+
+ashley and fraser
+
+•
+
+common waters
+
+Perhaps the most underappreciated factor driving state interests in
+the South China Sea is fishing. The impact of dwindling fish stocks for
+food security will only continue to impel intervention by regional states,
+considering each country’s level of food dependence. The South China Sea
+is home to about half of the world’s fishing vessels and produces around 12%
+of the global fish catch.44 Seafood accounts for between a third and a half of
+the protein intake in many Southeast Asian countries, as well as in Japan and
+South Korea, increasing anxiety across the region that these worrying trends
+in fishing could lead to a human security crisis. Data reveals that South China
+Sea fishing stocks have declined by 75%–95% since the 1950s, and catch rates
+have decreased by 66%–75% in the past two decades.45 Unprecedented levels
+of illegal, unreported, and unregulated (IUU) fishing further complicate
+fishing viability in the sea. Tellingly, when looking at the ten worst-performing
+countries in IUU fish exports and imports, only two countries—Germany
+and India—are not fishing in the South China Sea.46
+Given these shared interests and concerns regarding the South China
+Sea, Japan and South Korea are unsurprisingly each unilaterally involved in
+providing maritime security assistance to Southeast Asian countries. Both
+countries share strategic interests in seeing more capable Southeast Asian
+claimant states contribute to safeguarding open sea lanes in the South China
+Sea. By assisting with capacity-building and training activities with Southeast
+Asian coast guards and navies, Japan and South Korea enhance these
+countries’ ability to resist PLA Navy pressure. But more could be done, with
+greater efficacy, if these efforts were coordinated between Japan, South Korea,
+and each Southeast Asian partner country.
+Japan has provided maritime assistance to Southeast Asia since the
+1960s, when the Japan Self-Defense Forces began re-engaging in the global
+security community.47 Significant concerns over China’s military power
+projection capabilities and the PLA Navy’s assertive posture over territorial
+
+44 Asyura Salleh, “The South China Sea: Preventing the Tyranny of the Commons,” Diplomat,
+
+January 4, 2020 u https://thediplomat.com/2020/01/the-south-china-sea-preventing-the-tyrannyof-the-commons/#:~:text=Fishery%20stocks%20in%20the%20South%20China%20Sea%20are%20
+necessary%20to,of%20the%20world’s%20fishing%20vessels.
+
+45 Gregory B. Poling, “Illuminating the South China Sea’s Dark Fishing Fleets,” CSIS, January 9, 2019
+u
+
+https://ocean.csis.org/spotlights/illuminating-the-south-china-seas-dark-fishing-fleets.
+
+46 Kevin Varley et al., “Fight Over Fish Fans a New Stage of Conflict in South China Sea,” Bloomberg,
+
+September 2, 2020 u https://www.bloomberg.com/graphics/2020-dangerous-conditions-in-depletedsouth-china-sea.
+
+47 Hanh Ngyuen, “Maritime Capacity-Building Cooperation between Japan and Vietnam: A Confluence
+
+of Strategic Interests,” ISEAS Perspective, no. 128 (2021) u https://www.iseas.edu.sg/articlescommentaries/iseas-perspective/2021-148-maritime-capacity-building-cooperation-between-japanand-vietnam-a-confluence-of-strategic-interests-by-hanh-nguyen.
+
+[ 115 ]
+
+asia policy
+
+and maritime disputes in the South China Sea catalyzed exponential growth
+in Japan’s assistance to the other South China Sea claimant states. The Japan
+Maritime Self-Defense Force only began conducting meaningful bilateral
+capacity-building exercises with Southeast Asian navies in the past decade,
+but cooperation has quickly and steadily grown.
+In particular, Japanese and Philippine maritime forces enjoy especially
+strong military-to-military ties and began cooperating in bilateral naval
+exercises in 2012. The Philippines and Japan share a number of “firsts” for
+Japan in the region. For example, the Philippines hosted the first deployment of
+Japanese armored vehicles to Southeast Asia after World War II, and it was the
+first country to acquire Japanese defense equipment of any kind. It was also the
+first site for deployment of Japan’s Amphibious Rapid Deployment Brigade.48
+Most recently, in the first-ever “2+2” summit, a meeting of the two countries’
+foreign and defense ministers, Japan and the Philippines agreed to pursue a
+reciprocal access agreement. The joint statement from the meeting agreed on
+the need to facilitate combined exercises in the face of China’s increasingly
+assertive pursuit of sovereignty claims in regional waters and “strongly opposed
+actions that may increase tensions” in the South China Sea.49
+While South Korea has a shorter history of maritime security cooperation
+with Southeast Asian states, this cooperation has accelerated in the past decade
+amid growing concerns about aggressive PLA Navy actions in the South China
+Sea. As highlighted above, ROK-Philippines defense ties are steadily growing.
+Beyond the delivery of the Philippine Navy’s first two guided-missile frigates,
+BRP Jose Rizal and BRP Antonio Luna by Hyundai Heavy Industries, the
+South Korean government also donated a Pohang-class corvette that is now
+considered one of the most capable and heavily armed ships of the Philippine
+fleet. In a recent development, one of the Jose Rizal–class frigates was equipped
+with South Korean–made SSM-700K C-Star anti-ship cruise missiles, the first
+time any Philippine Navy ship has been thus equipped.50 The ROK Navy and
+the Philippine Navy regularly hold bilateral talks, conduct officer exchanges,
+and run education, training, and other capability-development programs.51
+48 John Bradford, “Southeast Asia: A New Strategic Nexus for Japan’s Maritime Strategy,”
+
+Center for International Maritime Security, September 21, 2020 u https://cimsec.org/
+southeast-asia-a-new-strategic-nexus-for-japans-maritime-strategy.
+
+49 “Joint Statement of the Inaugural Japan-Philippines Foreign and Defense Ministerial Meeting (‘2+2’),”
+
+Department of Foreign Affairs (Philippines), April 9, 2022 u https://dfa.gov.ph/dfa-news/statementsand-advisoriesupdate/30364-joint-statement-of-the-inaugural-japan-philippines-foreign-anddefense-ministerial-meeting-2-2.
+
+50 Collin Koh, Twitter, June 3, 2022 u https://twitter.com/CollinSLKoh/status/1532632799366131713.
+51 Priam Nepomuceno, “PH, S. Korea to Deepen Maritime Security Ties,” Philippine News Agency,
+
+March 25, 2021 u https://www.pna.gov.ph/articles/1134805.
+
+[ 116 ]
+
+[146.110.152.37] Project MUSE (2025-09-03 15:50 GMT)
+
+ashley and fraser
+
+•
+
+common waters
+
+In another first, the South Korean and Philippine defense ministers agreed
+to include the ROK Marine Corps in a combined exercise in the Philippines
+in October 2022.52 During the bilateral meeting, they also discussed progress
+in talks over a South Korean firm building patrol frigates for the Philippine
+Navy and “stressed that interoperability with Korean vessels will contribute
+to advancing the Philippine Navy’s combat power,” alluding to intentions to
+continue and expand combined exercises in the future.53
+Vietnam is also a high priority for both Japan and South Korea in defense
+matters. In 2011, Japan and Vietnam signed a memorandum of understanding
+(MOU) on capacity-building initiatives in defense, which covered areas
+such as personnel training, search and rescue, humanitarian assistance and
+disaster relief, counterterrorism, military medicine, information technology
+training, and peacekeeping.54 Since then, the two countries have issued joint
+statements on deepening security cooperation by building capacity in maritime
+law-enforcement activities and through developing coast guard information
+exchanges, military exchanges, and joint peacekeeping operations.55 Most
+recently, in September 2021 the two countries signed a defense and technology
+equipment transfer agreement that will facilitate Vietnam’s access to improved
+capabilities and increase interoperability between both countries’ coast guards
+and navies.56 In 2018, the South Korean and Vietnamese defense ministers
+signed a joint statement on defense cooperation, which was followed up a
+few months later by an MOU on “logistics support for peacekeeping forces,
+natural disasters, and humanitarian relief.”57 Admittedly, however, there has not
+been much bilateral progress in these areas in the years since the document
+was signed. While South Korea tends to prioritize Vietnam in terms of official
+development assistance, and the two countries share sociocultural ties, defense
+and security cooperation remains comparatively underdeveloped.
+Looking at the Philippines and Vietnam as example countries is
+helpful for understanding areas of overlap and opportunity in coordinating
+52 Martin Sadongdong, “3760 Troops from PH, U.S., Japan, South Korea Test Cohesion in Marine
+
+Training,” Manila Bulletin, October 3, 2022 u https://mb.com.ph/2022/10/03/3760-troops-fromph-us-japan-south-korea-test-cohesion-in-marine-training.
+
+53 “Marine Corps to Join Exercise in Philippines for First Time,” KBS World, June 3, 2022 u
+
+http://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=170096.
+
+54 Carl Thayer, “Vietnam’s Extensive Strategic Partnership with Japan,” Diplomat, October 14, 2014 u
+
+https://thediplomat.com/2014/10/vietnams-extensive-strategic-partnership-with-japan.
+
+55 Ngyuen, “Maritime Capacity-Building Cooperation between Japan and Vietnam.”
+56 Mari Yamiguchi, “Japan, Vietnam Sign Defense Transfer Deal amid China Worries,” Associated Press,
+
+September 12, 2021 u https://apnews.com/article/technology-china-japan-tokyo-kamala-harris-9bf9
+9b9422489050fcb0dde811741714.
+
+57 Prashanth Parameswaran, “What’s in the New Vietnam–South Korea Defense Pact?” Diplomat, June 7,
+
+2018 u https://thediplomat.com/2018/06/whats-in-the-new-vietnam-south-korea-defense-pact.
+
+[ 117 ]
+
+asia policy
+
+Japan-ROK maritime security cooperation in Southeast Asia. Japan and South
+Korea both hold combined exercises, conduct training programs, and have
+robust defense cooperation relationships with the Philippines. Coordinating
+exercises and training programs would maximize the effectiveness of these
+efforts by eliminating redundancies and focusing on specific goals, such as
+enhancing maritime surveillance capabilities and maritime law-enforcement
+abilities to respond to IUU fishing. With Vietnam, despite some recent steps
+to upgrade the security aspect of the ROK-Vietnam relationship, sufficient
+defense cooperation as well as training and capacity-building programs are
+still lacking. Under the Yoon Suk-yeol administration there is fertile ground
+to improve cooperation with Vietnam in these areas, and the heavy emphasis
+on maritime security cooperation in the new action plan of the ROK-ASEAN
+Defense Ministerial Dialogue underscores such an opportunity. As Japan is
+already pursuing these forms of maritime security cooperation with Vietnam,
+efforts should be made to coordinate trilaterally with South Korea.
+Defense technology transfers from South Korea and Japan to partner
+countries in Southeast Asia could also be better coordinated to accomplish
+these same goals: reduce redundancies, improve maritime domain awareness
+competencies, and enhance coast guard capabilities. For example, South Korea
+excels in maritime radar technology and is set to begin mass production of
+the new, indigenously developed Maritime Surveillance Radar-II.58 Seoul
+should make efforts to pursue defense technology transfer agreements with
+Southeast Asian countries for this maritime surveillance radar technology.
+Japan’s P-1 maritime surveillance aircraft similarly would be an ideal focus
+of future defense technology transfer agreements in the region. The P-1
+employs a state-of-the-art Toshiba HPS-106 active electronically scanned
+array radar, which uses four antennas to provide 360-degree coverage and
+infrared/light detection systems for surface detection. It was also the first
+operational aircraft in the world to make use of a fly-by-optics control system.59
+Through the coordination of maritime surveillance technology transfers to
+Southeast Asian states, coastal radar systems from South Korea and aircraft
+radar systems from Japan can complement the interests of all states involved.
+The Quad Plus or ad hoc Quad activities make the most sense as a
+venue to coordinate these efforts. The group’s membership already contains
+58 Ik-hwan Kim, “LIG Nex1 Signs Maritime Surveillance Radar-II Defense Contract,” Korea
+
+Economic Daily, December 23, 2022 u https://www.kedglobal.com/aerospace-defense/
+newsView/ked202212230019.
+
+59 “Bangladesh Navy Could Acquire Kawasaki P-1 Maritime Patrol Aircraft,” Navy Recognition,
+
+January 7, 2022 u https://navyrecognition.com/index.php/naval-news/naval-news-archive/2022/
+january/11223-bangladesh-navy-could-acquire-kawasaki-p-1-maritime-patrol-aircraft.html.
+
+[ 118 ]
+
+ashley and fraser
+
+•
+
+common waters
+
+two of Southeast Asia’s largest security partners—the United States and
+Australia—as well as Japan. Moreover, in 2022 the Quad announced a new
+initiative, the Indo-Pacific Partnership for Maritime Domain Awareness
+(IPPMDA), which seeks to share satellite data on illicit activity in the Indian
+and Pacific Oceans with countries across the region.60 By enhancing the
+capacity of Southeast Asian countries to be more than passive receivers of
+this data and instead actively contribute to maritime surveillance, the efforts
+of the new IPPMDA initiative can be amplified. Beyond boosting Southeast
+Asian countries’ maritime security capabilities, this coordination is in the
+national self-interest of both Japan and South Korea. The best-case scenario
+for the region is a virtuous cycle of capability and capacity improvement.
+Southeast Asian countries with improved defense capabilities and capacity
+can contribute more to regional maritime security. This, in turn, would free
+up resources that Japan and South Korea would otherwise be expending
+on trying to fill that gap, allowing them to invest even further in the region
+and on their own forces—an increasing priority for both countries. Rather
+than competing for influence in the region in a zero-sum way, Japan and
+South Korea can achieve positive gains by coordinating maritime security
+cooperation with Southeast Asian countries.
+
+Mekong River
+South Korea and Japan are both large investors in mainland Southeast
+Asia, particularly in the greater Mekong subregion of Laos, Thailand,
+Cambodia, and southern Vietnam. The Mekong River serves as the lifeblood
+of this subregion, which is home to a population of roughly 300 million, by
+providing the primary source of water, calories, and economic opportunity
+for 60 million people.61 Japan and South Korea each have the opportunity to
+expand their security partnerships with the Mekong subregion across three
+lines of effort: riverine maritime domain awareness, riverine law enforcement,
+and investments and construction that support more sustainable damming,
+thus contributing to human and economic security.
+Japan’s modern security relations in the Mekong subregion began
+with its leadership of the United Nations Transitional Authority in
+
+60 Zack Cooper and Gregory Poling, “The Quad Goes to Sea,” War on the Rocks, May 24, 2022 u
+
+https://warontherocks.com/2022/05/the-quad-goes-to-sea.
+
+61 Brian Eyler, Last Days of the Mighty Mekong (London: Zed Books, 2019).
+
+[ 119 ]
+
+asia policy
+
+Cambodia (UNTAC).62 By taking a primary position in rebuilding Cambodia’s
+human security, Japan witnessed firsthand the importance of the Mekong River
+for the entire subregion. Within approximately a decade, Japan had staked
+a strong leadership claim in the Mekong subregion, pledging $1.5 billion in
+Mekong-related investments in 2003, and demonstrated its larger commitment
+to Southeast Asia by signing ASEAN’s Treaty of Amity and Cooperation in
+2004.63 With these initiatives as a baseline, each successive government in
+Tokyo continued to deepen Japanese outreach to the Mekong. For example,
+in 2009, the government launched its own Japan-Mekong summit, providing
+a long-term investment pledge of $5 billion toward infrastructure, medical
+aid, and government improvement projects in the region. This placed Japan
+solidly as the largest donor and investor in the Mekong.64 These now-yearly
+summits are complemented by several other regular meetings of ministers,
+development agencies, and investment organizations focused specifically on
+Japan-Mekong opportunities and initiatives. The Mekong River also factors
+into Japan’s bilateral ties in the region, with one example being its May 2022
+defense agreement with Thailand that allows for future exports of maritime
+radars and other relevant technologies.65
+Despite having a larger focus on economic development in the Mekong,
+Tokyo is willing to sign onto more strategic initiatives there too, including
+those led by the United States. In 2019, Secretary of State Mike Pompeo
+criticized Chinese actions along the Mekong River at the Lower Mekong
+Initiative ministerial meeting in Bangkok and announced a series of
+multilateral initiatives on electricity, technology, governance, and criminal
+justice that included Japan, South Korea, and ASEAN. These U.S.-led activities
+are, unsurprisingly, intended to oppose increasing Chinese influence in
+the subregion.66 It is also no surprise that Japan’s overall vision for security
+assistance to Southeast Asia—its “Vientiane Vision”—was promulgated in a
+Mekong riverine state. Included in the Vientiane Vision is an initiative for
+
+62 Tadashi Ikeda, The Road to Peace in Cambodia: Japan’s Role and Involvement (Tokyo: Tokyo
+
+University Press, 1998).
+
+63 Kanako Takahara, “ASEAN Leaders Arrive in Tokyo ahead of Landmark Two-Day Summit,”
+
+Japan Times, December 11, 2003 u https://www.japantimes.co.jp/news/2003/12/11/national/
+asean-leaders-arrive-in-tokyo-ahead-of-landmark-two-day-summit.
+
+64 Ministry of Foreign Affairs (Japan), “Mekong-Japan Action Plan 63,” November 7, 2009 u
+
+https://www.mofa.go.jp/region/asia-paci/mekong/summit0911/action.html.
+
+65 “Kishida Agrees to Defense Deal with Thailand,” Japan Times, May 3, 2022 u https://www.
+
+japantimes.co.jp/news/2022/05/03/national/politics-diplomacy/kishida-thailand-defense-deal.
+
+66 “China ‘‘Taking Control’ of Mekong River via Dam-Building Spree, U.S. Warns,” South
+
+China Morning Post, August 2, 2019 u https://www.scmp.com/news/china/article/3021062/
+china-taking-control-vital-mekong-river-through-dam-building-spree-mike.
+
+[ 120 ]
+
+[146.110.152.37] Project MUSE (2025-09-03 15:50 GMT)
+
+ashley and fraser
+
+•
+
+common waters
+
+training maritime police forces that is focused on countering organized crime
+and piracy along key waterways.67
+While South Korean efforts in the Mekong have been comparatively
+modest, Seoul is increasingly a player in the Mekong River basin’s human
+security efforts. Its outreach to the Mekong subregion began in earnest in
+2011 with the first Mekong-ROK Foreign Ministers’ Meeting, at which South
+Korea promulgated its Han River Declaration. Under the declaration, South
+Korea pledged to undertake sustainable development in the Mekong River
+basin, narrow development gaps within ASEAN, and foster cooperation
+within East Asia to promote a larger regional community.68 In the years since,
+South Korea has proposed two additional Mekong-ROK “plans of action,”
+identifying six priority sectors: information and communication technology,
+human resource development, green growth, water resource management,
+rural development, and infrastructure.69
+In September 2019, President Moon initiated the “ROK-Mekong Vision”
+at the first ROK-Mekong head-of-state-level summit. This vision included an
+expanded economic and cultural initiative based on a three-pillar approach
+of people-to-people exchanges, sustainable development, and prosperity
+through “experience sharing.” Of note, this new vision included an explicit
+sub-priority of advancing nontraditional security—the first official mention
+of security in ROK–Mekong subregion relations.70 While South Korean efforts
+have thus far not included security cooperation, Seoul is well-positioned to
+provide such assistance to the Mekong countries. South Korea boasts a robust
+navy, a capable shipbuilding industry, and an advanced technology sector
+active in the development of tools that are useful for maritime security.
+The first sector ripe for Japan-ROK cooperation is building the maritime
+domain awareness capabilities of the Mekong riverine states. Although it
+is typically associated with larger bodies of water, like the South China Sea
+67 Prashanth Parameswaran, “Vientiane Vision 2.0 Puts Japan’s Asia Security Role into Focus,”
+
+Diplomat, November 19, 2019 u https://thediplomat.com/2019/11/vientiane-vision-2-0-putsjapans-asia-security-role-into-focus.
+
+68 Mekong Institute, “A Decade of Mekong–Republic of Korea Cooperation,” December 22, 2021 u
+
+https://www.mekonginstitute.org/news-activities/detail/2021/09/22/a-decade-of-mekong-r.
+
+69 “Ambassador Attached to the Ministry for Mekong Cooperation Delivered a Keynote
+
+Address at the Mekong–Republic of Korea (ROK) Regional Forum on the 10th
+Anniversary of the Establishment of the Mekong–ROK Cooperation,” Ministry of Foreign
+Affairs (Thailand),Press Release, October 8, 2021 u https://www.mfa.go.th/en/content/
+mekong-rok-10th-anniversary-2?cate=5d5bcb4e15e39c306000683e.
+
+70 “Press Statement by the Prime Minister of the Kingdom of Thailand for the 1st Mekong-
+
+ROK Summit,” Ministry of Foreign Affairs (Thailand), Press Release, November 27, 2019 u
+https://www.mfa.go.th/en/content/111769-press-statement-by-the-prime-minister-of-thekingdom-of-thailand-for-the-1st-mekong-rok-summit?page=5d5bd3cb15e39c306002a9ac&me
+nu=5d5bd3dc15e39c306002ab1c.
+
+[ 121 ]
+
+asia policy
+
+or the Pacific Ocean, maritime domain awareness is a critical capability for
+large rivers such as the Mekong. Each riverine state struggles with managing
+relevant information from the river that is critical to national security and
+sovereignty, ranging from the number of boats passing through a country’s
+territorial waters to the level of water flows following a weather event.71 Both
+South Korea and Japan regularly showcase their own top-line technologies
+in maritime domain awareness, including Japanese space-based information
+systems and South Korean maritime radar.
+A practical example of assistance that Japan and South Korea can provide
+is water quality monitoring. Information on the Mekong River’s “health”
+(i.e., water flows, biological habitats, and ship activity) is often lacking,
+despite the efforts of the interregional Mekong River Commission (MRC).
+Both Seoul and Tokyo can provide funding, training, and operational support
+for local governments to install and operate the water sensors that provide
+critical information on ecological and security concerns. This support could
+be noncompetitive, as Japan and South Korea could collaborate and pool
+resources in the MRC as a third party.
+A second example of potential Japan-ROK cooperation is bolstering
+riverine policing in the region. The Mekong River is infamous as a conduit
+for drug trafficking and crime, dating back to its association with the Golden
+Triangle of drug cultivation in the mid-twentieth century. Today, the Mekong
+River is the heart of a larger regional illicit network of drug, contraband, and
+human smuggling with an economic value estimated at $71 billion.72 Beyond
+their human cost and the associated rise in regional crime and corruption,
+these illicit activities compound the traditional security threat posed by
+China to the region. By pointing to the failures of the riverine states in the
+so-called 2011 Mekong River massacre, in which organized criminals killed
+thirteen Chinese sailors allegedly carrying methamphetamine pills, China
+successfully asserted its right to deploy a law-enforcement presence along
+Laotian, Cambodian, and sometimes Thai portions of the river.73 Today,
+China pressures the riverine countries to conduct combined patrols with its
+People’s Armed Police maritime units, often under the umbrella of its own
+Mekong regional body, the Lancang-Mekong Cooperation organization.
+
+71 Eyler, Last Days, 96–98.
+72 United Nations Mission in Thailand, “Drug Trade in Golden Triangle Grows despite Pandemic,”
+
+September 5, 2020 u https://thailand.un.org/en/91513-drug-trade-golden-triangle-grows-despitepandemic.
+
+73 Eyler, Last Days; and Prashanth Parameswaran, “China’s Mekong Security Role in the Headlines
+
+with New Joint Patrols,” Diplomat, March 31, 2020 u https://thediplomat.com/2020/03/
+chinas-mekong-security-role-in-the-headlines-with-new-joint-patrols.
+
+[ 122 ]
+
+ashley and fraser
+
+•
+
+common waters
+
+Japan has a long history of training overseas law enforcement, including
+those in Cambodia during its leadership of UNTAC.74 Additionally, maritime
+law enforcement is one of the named initiatives of its Free and Open
+Indo-Pacific initiative. Vietnam is currently the largest recipient of Japanese
+law-enforcement assistance, including a 2020 grant of six coast guard patrol
+boats worth $345 million and a $2.84 million grant to the Public Security
+Ministry in Hanoi for unspecified counterterrorism equipment.75 Vietnam
+is not alone in desiring Japanese law-enforcement assistance. Thailand, for
+example, has cited Japan as a model for its own policing reform.76
+In 2015 the Korean National Police Agency (KNPA) launched the “K-cop”
+program to export South Korean police training and resources to developing
+countries. The program’s backers explicitly name the KNPA’s rehabilitation of
+its historically negative reputation as an example for governments with their
+own poor human rights histories. Vietnam is the primary recipient of this
+program so far, with a recent example of law-enforcement cooperation being
+a 2021 collaboration on digital criminal science research between the KNPA
+and the Vietnamese Public Security Ministry.77
+Law-enforcement assistance offers Japan and South Korea the opportunity
+to deepen their strategic ties with Southeast Asian states and improve regional
+security, while also working on a more cooperative basis. Ideally, such support
+could be deconflicted (if not coordinated) between Japan and South Korea,
+allowing each country to provide its own unique training and support
+capabilities without competing with the other for time or resources. Both
+countries can also offer lessons on how to carry out internal police reform as
+well as improve human rights in places with a history of troubled governance.
+A third area for Japan-ROK cooperation in the Mekong subregion is
+in addressing the nontraditional and human security threats caused by
+widespread upstream damming along the river. Although not included in
+most Western definitions of security, damming projects on the Mekong River
+(known as the Lancang River upstream in China) have profound implications
+for regional food and economic security. Mitigating these risks through
+human security projects is increasingly a priority within the subregion and a
+
+74 Ikeda, The Road to Peace.
+75 Huynh Tam Sang, “Vietnam-Japan Relations: Growing Importance in Each Other’s Eyes,” ISEAS
+
+Perspective, no. 31 (2021) u https://www.iseas.edu.sg/articles-commentaries/iseas-perspective/202031-vietnam-japan-relations-growing-importance-in-each-others-eyes-by-huynh-tam-sang.
+
+76 “Japan Police Model Cited,” Nation (Thailand), August 9, 2017 u https://www.nationthailand.com/
+
+in-focus/30323346.
+
+77 Ministry of Public Security (Vietnam), “MPS and National Police Agency of the Republic of Korea
+
+Continue Project on Improving Criminal Science Capacity,” August 4, 2021.
+
+[ 123 ]
+
+asia policy
+
+leading cause of the riverine states’ demand for greater overseas investment
+and aid. In 2021 a meeting between ASEAN and the MRC specifically
+identified “water security” as one of the region’s top priorities, calling for
+greater regional management of water resources to be a national priority of
+each member government.78
+A notable example of the impact of damming on the subregion’s food
+security is the depletion of fish stocks. The MRC estimates that upstream
+damming has led to a 40% drop in fish stocks in the last ten years. Because
+millions of Lao, Thai, Cambodians, and Vietnamese depend on Mekong
+River fish for upward of 80% of their daily protein intake, human security
+concerns such as declining fish stocks can outweigh more traditional hard
+security issues in regional capitals.79 Yet these same governments still hope to
+harness the potential of the Mekong River for hydroelectricity, making a fully
+conservationist vision for the river implausible. Japan and South Korea can
+bolster their credentials in Southeast Asia by providing an alternative source
+of sustainable investment in improving water management infrastructure.
+This would help arrest the human security and livelihood concerns caused
+by current damming, which in turn will decrease the burden of negative side
+effects, such as drug and human trafficking, on local governments.
+As with the previously outlined areas for cooperation targeted by Japan
+and South Korea, both countries have preexisting resources and capabilities
+well suited to this task. Certainly, Japan is ahead of South Korea in some
+respects, having already pledged $7 billion in 2016 toward water infrastructure
+along the Mekong.80 Yet South Korea has much to offer in the effort, including
+investments in Korean-made water desalination technologies, a recent focus
+area of the government. Most importantly, both Seoul and Tokyo have the
+sort of regional trust necessary to gain access to Mekong River development,
+a highly sensitive national resource for local governments.
+
+conclusion and policy options
+Japan and South Korea share strategic priorities in Southeast Asia, as
+evidenced by both countries’ prioritization of deeper security relations with
+countries across the region. Southeast Asian countries, in turn, widely welcome
+78 Mekong River Commission, “Water Security in the Mekong and ASEAN Key to a Safe and
+
+Sustainable Future,” August 24, 2021 u https://www.mrcmekong.org/news-and-events/news/
+pr-20210824.
+
+79 Eyler, Last Days.
+80 Ibid.
+
+[ 124 ]
+
+ashley and fraser
+
+•
+
+common waters
+
+these increased ties, as Japan and South Korea can provide advanced military
+capabilities without the drawbacks of U.S.-China great-power competition.
+Yet larger tensions between Japan and South Korea have thus far precluded
+any coordination on security matters. However, security cooperation in
+Southeast Asia can be viewed as a diplomatic opportunity for Japan and South
+Korea even if more immediate bilateral relations are strained.
+Such cooperation would also benefit U.S. foreign policy goals. Despite its
+appeal as a non-U.S. option, Japanese and South Korean defense cooperation
+in Southeast Asia would improve military capabilities and maritime
+domain awareness in the region, directly contributing to U.S. security goals.
+Washington should incentivize South Korea and Japan to deepen their
+security partnerships in Southeast Asia and directly appeal to both countries
+to coordinate and collaborate wherever possible. This is especially true now
+during an apparent window of increased Seoul-Tokyo cooperation under
+the Yoon administration. The United States can promote such beneficial
+cooperation in the following ways:
+1. Incentivize Japan-ROK cooperation via Quad Plus. One of the avenues
+reopened to Seoul-Tokyo relations by Yoon is collaboration via Quad
+Plus groupings (i.e., working groups that include more than the main
+four Quad members: the United States, Japan, Australia, and India).
+Specifically, the United States should advocate for a South Korean
+presence in all Quad Plus activities regarding the South China Sea,
+the Mekong River, and maritime domain awareness capacity building.
+2. Expand the General Security of Military Information Agreement
+(GSOMIA). As one of the hallmark institutions of Japan-ROK
+cooperation, GSOMIA allows for limited information and intelligence
+sharing between Seoul and Tokyo. Although the agreement currently
+focuses on North Korean missile threats, GSOMIA is ideal to act as
+a clearinghouse to deconflict exports of sensitive technologies to
+third-party countries. Such a move could come with an additional
+benefit of institutionalizing and “normalizing” information sharing
+between Japan and South Korea through GSOMIA on less contentious
+geopolitical areas, which could increase the durability of the agreement
+during future ebbs in the bilateral relationship.
+3. Support Japanese and South Korean strategic latitude in Southeast
+Asia. This article argues that South Korea and Japan each can offer
+Southeast Asia several comparative advantages in maritime security,
+even compared to the United States. As such, Washington should
+not see its role as “valuing” its allies’ alignment with immediate
+U.S. security actions in Southeast Asia. Rather, Washington should
+take a more pragmatic approach that encourages both countries to
+pursue their own relationships and comparative advantages free of
+[ 125 ]
+
+asia policy
+
+association with harder-edged U.S. security actions in the region.
+This will allow Seoul and Tokyo to maintain their appeal as lower-risk
+security partners in Southeast Asia, while still indirectly advancing
+U.S. national security interests in upholding freedom of navigation
+and a rules-based order in the Indo-Pacific.
+In sum, Japan and South Korea face a unique opportunity for cooperation
+in Southeast Asia through maritime security. To be sure, prospects for
+improved ties face obstacles, as evidenced in the more widely discussed areas
+of wartime memory and bilateral military exercises. Nevertheless, Southeast
+Asia offers a zone of potential cooperation that appeals to their mutual
+self-interests and can remain somewhat separate from the fraught issues of
+bilateral reconciliation. While this article is not suggesting that coordinating
+maritime security activities in Southeast Asia will necessarily help bridge these
+more enduring issues in the Japan-ROK relationship, such coordination can
+serve as a basic trust-building measure and result in net gains by contributing
+to stronger security forces throughout the region. 
+
+[ 126 ]
+
+

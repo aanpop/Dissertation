@@ -1,0 +1,1670 @@
+Marine Policy 165 (2024) 106229
+
+Contents lists available at ScienceDirect
+
+Marine Policy
+journal homepage: www.elsevier.com/locate/marpol
+
+The legal basis for Chinese vessels navigating in the South China Sea☆
+Yen-Chiang Chang a, Xingyi Duan b, Ling Yang c, *
+a
+
+Institute of Bohai and Yellow Sea Studies, School of Law, Dalian Maritime University, China
+School of Law, Dalian Maritime University, China
+c
+Institute of Shipping Development, Dalian Maritime University, China
+b
+
+A R T I C L E I N F O
+
+A B S T R A C T
+
+Keywords:
+The Right of Navigation
+The South China Sea
+UNCLOS
+Enforcement Jurisdiction
+Regional Cooperation
+
+The South China Sea is widely recognised as one of the most complex regions in the world, owing to territorial
+sovereignty and maritime delimitation disputes among different coastal States, as well as the involvement of
+States outside the region. In order to effectively protecting the security of their sovereignty and maritime enti­
+tlements, regional States have enacted a series of restrictive regulations on vessel navigation at the domestic
+level. Some of these domestic laws fall directly within the scope authorised by the United Nations Convention on
+the Law of the Sea, IMO conventions, and other general international laws. However, there are also instances
+where certain practices lack support from existing international legal norms. Additionally, the extensive presence
+of disputed waters in the South China Sea introduces significant uncertainty regarding the effectiveness of na­
+tional laws in this region. This paper aims to clarify the legal regimes related to navigation rights at both the
+aspects of international law and regional States’ domestic law. The goal is to examine whether the navigation
+restrictions imposed by South China Sea regional States on vessels have binding force on Chinese vessels. Based
+on this analysis, recommendations are provided to help Chinese vessels exercise navigation rights more effec­
+tively in the South China Sea and to promote regional cooperation by safeguarding such rights.
+
+1. Introduction
+China’s maritime activities in the South China Sea (hereinafter the
+SCS) have faced criticism from other regional States and many nonregional States, especially when Chinese vessels navigate and engage
+in related activities in disputed waters [1]. The opposition to China’s
+maritime activities is not only rooted in dissatisfaction with China’s
+various maritime claims in the SCS, which they believed such claims
+breached other States’ sovereign rights and maritime entitlements, but
+also stems from China’s interference in the navigation of other regional
+States and external States such as the United States. For instance, China
+has repeatedly expelled Vietnamese and Filipino fishing vessels from its
+exclusive economic zone and disputed waters [2]. Additionally, China
+has actively intercepted U.S. warships navigating in the SCS [3]. Due to
+these actions being widely criticised for undermining the principle of
+"freedom navigation", regional States may take countermeasures, such
+as expulsion or restrictions on the navigation of some Chinese private
+
+vessels and official vessels. Currently, China’s navigation rights in the
+SCS face increasingly serious challenges [4]. As a key participant in the
+region and a major maritime power without dispute, China aims to
+actively change this situation. One crucial aspect is to reassess, from a
+legal standpoint, whether Chinese vessels should still enjoy navigation
+rights in different areas of the SCS given the current circumstances.
+It can be argued that China’s previous interventions in the navigation
+activities of other States in the region have, to a considerable extent,
+placed China’s assertion of navigation rights in a passive position [5].
+However, a potentially confusing issue arises here: does China’s inter­
+ference with the navigation of vessels from other States imply a denial of
+their navigation rights in the corresponding waters? In reality, based on
+China’s official responses to such incidents, as well as its longstanding
+diplomatic assertions and domestic legislation, China has never explic­
+itly denied the basic navigation rights of other States in waters under its
+jurisdiction—specifically, the freedom of navigation in its exclusive
+economic zone (EEZ) and the right of innocent passage in its territorial
+
+☆
+The fieldwork is supported by the following project: Basic Research Funds for Central Universities, Humanities and Social Sciences, China. Research on Building a
+Maritime Community with a Shared Future and Safeguarding National Maritime Security Grant No. 3132023705. National Social Science Fundamental Commis­
+sioned Project, China: Study on Domestic Rule of Law and Foreign Rule of Law Coordination in Global Environmental Governance, Grant No. 23＆ZD166.
+* Corresponding author.
+E-mail addresses: rudieger@hotmail.com, ycchang@dlmu.edu.cn (Y.-C. Chang), 5206105@qq.com (X. Duan), yangling@dlmu.edu.cn (L. Yang).
+
+https://doi.org/10.1016/j.marpol.2024.106229
+Received 10 November 2023; Received in revised form 14 May 2024; Accepted 23 May 2024
+Available online 25 May 2024
+0308-597X/© 2024 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies.
+
+Y.-C. Chang et al.
+
+Marine Policy 165 (2024) 106229
+
+sea [6].1
+Taking the example of China’s expulsion of Vietnamese and Filipino
+fishing vessels, although the outcomes suggested a reduction in the
+navigation rights of the corresponding foreign fishing vessels, the pur­
+pose of these vessels’ navigation was to fish in the EEZ where China
+asserts its sovereign rights and jurisdiction, and China’s expulsion ac­
+tions were taken to defend its sovereign rights, not to deny their navi­
+gation rights. If foreign vessels impaired the sovereign rights and
+exclusive jurisdiction of a coastal State, some restrictions imposed by the
+coastal State on the navigation are inevitable, and this does not imply a
+denial of the navigation rights of foreign vessels per se. In fact, in the "M/
+V Saiga" case in the International Tribunal for the Law of the Sea
+(ITLOS), there was a direct involvement of coastal State imposing re­
+strictions on navigation rights. However, the tribunal emphasised that
+bunkering at sea and navigation activities are distinct, and if bunkering
+at sea falls within the scope of the coastal State’s sovereign rights and
+jurisdiction under Article 56 of the United Nations Convention on the
+Law of the Sea (Hereinafter “UNCLOS”), the coastal State has the right to
+restrict activities conducted by foreign vessels.2 While China’s assertion
+of sovereign rights and exclusive jurisdiction in the corresponding wa­
+ters is highly disputed, the actions taken by China to defend these rights
+do not imply a denial of the navigation rights of foreign vessels in the
+corresponding waters. Similarly, the question of whether Chinese ves­
+sels have navigation rights should also be strictly distinguished from the
+purpose of the navigation of Chinese vessels.
+Obviously, UNCLOS has established a basic framework for the nav­
+igation rights of various vessels. However, it is also worth noting that
+many States, including China, have imposed additional restrictions on
+the navigation rights of different types of foreign vessels in their terri­
+torial seas and EEZs through domestic laws outside the scope of UNCLOS
+[7]. Additionally, regional States also impose restrictions on other ac­
+tivities that vessels may undertake. Although these restrictions do not
+imply a denial of the vessels’ navigation rights per se, they may poten­
+tially have a certain adverse impact on the specific exercise of these
+rights by vessels, just like the "M/V Saiga" case revealed. In the SCS,
+where multiple claimant States assert sovereignty, sovereign rights, and
+jurisdiction over the same waters, the navigation rights in disputed
+waters face significant uncertainty.
+This article will provide an in-depth analysis of the impact of current
+international law, as well as the domestic laws of regional States in the
+SCS, on the issue of navigation rights of Chinese vessels. It aims to clarify
+whether these domestic legal rules receive the support of enforcement
+jurisdiction according to international law. Given the complexity of
+maritime disputes in the SCS, the article will explore the nature of
+Chinese vessels’ navigation rights in such disputed waters. Additionally,
+the article will propose targeted recommendations for China and other
+claimants to effectively safeguard their navigation rights, which, to
+provide a basis for cooperation and mutual benefit, ensuring the pro­
+tection of fundamental navigation rights in the SCS and laying the
+groundwork for the effective resolution of maritime disputes in the
+future.
+
+SCS, China has implemented relevant domestic legislation to establish a
+legal basis for a range of marine activities in the area, while also
+reforming its coast guard regime to increase patrols and scientific
+research activities in the region [11]. These measures demonstrate
+China’s commitment to protecting its existing rights and interests in the
+SCS and its determination to exercise these rights in accordance with the
+law.
+Despite China’s active efforts to safeguard the navigation rights of its
+vessels in the SCS, the increasing complexity of territorial sovereignty
+and maritime entitlements disputes between China and other regional
+States has led to persistent challenges to the navigation rights. Some
+regional States perceive China’s maritime activities in the SCS, including
+activities of vessels, as a threat to their territorial security and a serious
+infringement on their own maritime entitlements. In response, they have
+taken a series of countermeasures [12]. Although China’s proposal to
+ease tensions in the SCS through cooperation in maritime security and
+joint resource exploration [13], some regional States still perceive these
+measures as aimed at gaining physical control over the islands in the SCS
+and bolstering its military-strategic interests. This, in turn, further ex­
+acerbates the current regional tensions and oppositional stance [14].
+With the active involvement of external powers such as the United
+States, Vietnam and the Philippines have been actively cooperating with
+the United States in various aspects of SCS security and maritime law
+enforcement activities [12,15,16]. The Biden administration emphasises
+that the purpose of such cooperation is to counter China’s illegal ac­
+tivities in the regional States’ exclusive economic zones (such as fishing)
+[17]. Therefore, once such cooperation is fully achieved, it can naturally
+be seen as these States may not only completely regard the disputed
+waters as their exclusive economic zones and improve their law
+enforcement abilities, but also seek to further strengthen their sover­
+eignty and maritime rights claims by involving external forces [18].
+Furthermore, China has imposed some restrictions on the navigation of
+vessels, especially fishing vessels and supply vessels from claimant
+States, in the waters where China has asserted jurisdiction, when such
+foreign vessels navigating in disputed waters, they may face challenges
+from the Chinese Coast Guard.[19] In turn, some regional States have
+proposed or applied countermeasures, advocating for restrictions on
+Chinese vessels’ navigation rights as well [20,21]. Further, after the
+United States forces intervene the SCS, due to China’s historically
+assertive stance towards vessels of claimant States, the navigational
+rights of various Chinese vessels will face even greater practical chal­
+lenges [22]. This has directly challenged the legitimacy of China’s
+navigation rights in the SCS. Furthermore, some regional States have
+enacted domestic laws imposing varying degrees of restrictions on the
+navigation rights of foreign vessels, some of which go beyond the pro­
+visions of UNCLOS. For example, there are additional restrictions on the
+innocent passage rights of warships in territorial seas and archipelagic
+waters [7]. This adds another layer of complexity for China’s vessels
+navigating in the SCS, as they are subject to the impact of different
+regional States’ domestic laws.
+To evaluate whether all types of Chinese vessels have the right to
+navigate in the SCS, a comprehensive assessment is necessary, based on
+the provisions of international law, particularly UNCLOS, and regional
+States’ domestic laws regarding the right to navigate of all vessels.
+Furthermore, during the implementation of the law, it is also necessary
+to consider which international regulations and which State’s domestic
+law may affect the navigational rights of vessels in each specific mari­
+time zone in the SCS.
+
+2. Navigation status of Chinese vessels in the SCS
+The SCS is a semi-enclosed sea bordered by China, the Philippines,
+Vietnam, Malaysia, Indonesia, and Brunei. Despite disputes over the
+sovereignty of maritime features in the SCS and unresolved maritime
+demarcation, the sea’s crucial role in the global shipping system remains
+undisputed [8]. The area’s strategic significance has significantly
+increased due to continuous developments in oil, gas, and other natural
+resources [9,10]. In order to protect China’s rights and interests in the
+
+3. The international legal basis for Chinese vessels sailing in the
+SCS
+The law of the sea, particularly UNCLOS, establishes a fundamental
+legal framework for the right of navigation. This framework, originating
+from Hugo Grotius’ "the Freedom of the Seas," asserts the principle that,
+in essence, navigation on the seas should be free [23]. Despite the
+
+1
+
+See China Exclusive Economic Zone and Continental Shelf Act 1998, Article 11.
+2
+See ITLOS, The M/V "SAIGA" Case (Saint Vincent and the Grenadines v.
+Guinea), Prompt Release, Judgment of 4 December 1997, para.59.
+2
+
+Y.-C. Chang et al.
+
+Marine Policy 165 (2024) 106229
+
+territorial seas.9 In the EEZ and continental shelf, if activities of a foreign
+vessel beyond the right of navigation which fall within the scope of
+sovereign rights or exclusive jurisdiction of the coastal State under Ar­
+ticles 56 or 77 of UNCLOS, the coastal State can unilaterally restrict the
+navigation activities of vessels and, in certain circumstances, detain
+vessels. Cases such as the "M/V Saiga" and "M/V Virginia G" involve
+situations where certain activities of vessels fall within the scope of the
+coastal State’s sovereign rights and exclusive jurisdiction, impacting the
+navigation rights of vessels due to the coastal State’s jurisdiction.10
+Even in the high seas, vessels are not necessarily subject only to the
+jurisdiction of the flag State; UNCLOS provides a clear legal basis for
+other States to intervene in the navigation of vessels on the high seas in
+the Part VII. Firstly, if a vessel is engaged in activities such as slavery,
+piracy, drug trafficking, or illegal broadcasting that harm the overall
+maritime interests of humanity, all States have the right to board and
+inspect the vessel and take other jurisdictional measures to prevent such
+illegal activities.11 Secondly, if a vessel has previously violated the laws
+and regulations of a coastal State in its jurisdictional waters, the coastal
+State, based on the right of hot pursuit, can pursue the foreign vessel
+navigating on the high seas.12 These situations allow non-flag States,
+based on the right of hot pursuit, to have enforcement jurisdiction over
+vessels in specific circumstances, thereby imposing certain restrictions
+on the freedom of navigation of vessels on the high seas.
+Therefore, while UNCLOS affirms and explicitly supports freedom of
+navigation, it does not imply that States, especially coastal States,
+cannot interfere with the navigation rights of foreign vessels in different
+maritime zones. The provisions in UNCLOS providing coastal States with
+some space to take unilateral actions interfering with vessels’ activities,
+which may also impact their navigational rights.
+
+unprecedented expansion of coastal States’ jurisdiction in the oceans
+with the birth of UNCLOS, where approximately 40% of the waters fall
+under the jurisdiction of various coastal States [24], the protection of the
+right of navigation has consistently received widespread recognition
+globally, which, in territorial seas, although these waters are considered
+a component of the coastal State’s territory, foreign vessels have the
+right of innocent passage through these waters.3 Once outside territorial
+seas, foreign vessels generally enjoy the freedom of navigation. This
+applies to various types of private vessels as well as official vessels,
+represented by warships, all of which fall within the legal regime of the
+right of navigation under UNCLOS.
+While the right of navigation for vessels remains a core institution in
+the law of the sea, other intricate legal regimes established by UNCLOS
+inevitably has various implications on the exercise of the right of navi­
+gation. Generally, navigation itself is not the final purpose of vessels;
+rather, it is a means for vessels to achieve their other purposes [25]. For
+instance, for fishing vessels, navigation is an indispensable means to
+reach ideal fishing grounds and secure a bountiful catch. For warships,
+navigation is a means to reach a destination and accomplish specific
+military objectives. Therefore, although the right of navigation for
+vessels is not directly affected by the expansion of coastal States’ sov­
+ereign rights and jurisdictional authority, and these vessels may not
+necessarily navigate solely for the above-mentioned objectives, some of
+the objectives of vessel navigation may fall directly within the scope of
+coastal States’ sovereignty, sovereign rights, and exclusive jurisdiction.
+As a result, various treaties and regulations, including UNCLOS itself,
+the International Convention for the Safety of Life at Sea (SOLAS),4the
+International Regulations for Preventing Collisions at Sea (COLREGS),5
+the International Convention for the Prevention of Pollution from ves­
+sels (MARPOL),6 the International Convention on Standards of Training,
+Certification, and Watchkeeping for Seafarers (STCW),7 as well as other
+jurisdictional regimes arising from general international law, are closely
+related to the exercise of the right of navigation for vessels.
+
+3.2. The navigation regime of foreign vessels in IMO conventions
+Besides UNCLOS, various international conventions from the Inter­
+national Maritime Organisation (IMO), including SOLAS, COLREGS,
+MARPOL, and STCW, also contain a series of provisions related to the
+navigation rights of vessels. Furthermore, it is worth noting that due to
+the existence of the renvoi provisions in UNCLOS, the provisions of these
+conventions need to be considered combine with UNCLOS to clarify how
+the navigation rights of vessels from different States are affected when
+navigating in different waters [26].
+As a fundamental international legal framework to ensure maritime
+safety, SOLAS aims to provide a set of safety standards for the con­
+struction, equipment installation, and operation of vessels.13 Chapter V
+of SOLAS contains a series of provisions regarding the right to navigate,
+including search and rescue services, hydrographic services, ship route
+delineation, and ship traffic services.14 Although SOLAS is typically
+
+3.1. The navigation regime of foreign vessels in UNCLOS
+UNCLOS establishes various jurisdictional regimes for different
+maritime zones, and these regimes involve the navigation rights of
+vessels at different levels. In the territorial sea, as stipulated in Article 21
+of UNCLOS, coastal States can impose certain restrictions on innocent
+passage to ensure safe and orderly navigation, protect and preserve the
+marine environment, and safeguard submarine cables and pipelines. 8 In
+the contiguous zone, coastal states exercise control over "customs,
+immigration, fiscal, and sanitary", and regulations within its territory or
+3
+4
+
+3.
+
+UNCLOS, Article 17.
+International Convention for the Safety of Life at Sea, 1974, 1184 U.N.T.S.
+
+9
+
+See UNCLOS, Article 33.
+“It has already been indicated that laws or regulations on bunkering of
+fishing vessels may arguably be classified as laws or regulations on activities
+within the scope of the exercise by the coastal State of its sovereign rights to
+explore, exploit, conserve and manage the living resources in the exclusive
+economic zone.” See ITLOS, The M/V "SAIGA" Case (Saint Vincent and the
+Grenadines v. Guinea), Prompt Release, Judgment of 4 December 1997, para.63.
+“The Tribunal is of the view that article 58 of the Convention is to be read
+together with article 56 of the Convention. The Tribunal considers that article
+58 does not prevent coastal States from regulating, under article 56, bunkering
+of foreign vessels fishing in their exclusive economic zones.” See ITLOS, The M/
+V "Virginia G" Case (Panama/Guinea-Bissau), Judgment of 14 April 2014,
+paras.220–223.
+11
+UNCLOS, Articles 99–109.
+12
+UNCLOS, Article 111.
+13
+IMO. International Convention for the Safety of Life at Sea (SOLAS), 1974.
+https://www.imo.org/en/About/Conventions/Pages/International-Conven­
+tion-for-the-Safety-of-Life-at-Sea-(SOLAS),-1974.aspx
+14
+SOLAS, Chapter V.
+
+5
+
+10
+
+Convention on the International Regulations for Preventing Collisions at
+Sea, 1972, 1050 U.N.T.S. 16.
+6
+Protocol of 1978 relating to the International Convention for the prevention
+of pollution from ships, 1973, 2057 U.N.T.S. 68
+7
+The International Convention on Standards of Training, Certification and
+Watchkeeping for Seafarers, 1978, 1361, 1362, U.N.T.S. 23001.
+8
+“The coastal State may adopt laws and regulations, in conformity with the
+provisions of this Convention and other rules of international law, relating to
+innocent passage through the territorial sea, in respect of all or any of the
+following: (a) the safety of navigation and the regulation of maritime traffic; (b)
+the protection of navigational aids and facilities and other facilities or in­
+stallations; (c) the protection of cables and pipelines; (d) the conservation of the
+living resources of the sea; (e) the prevention of infringement of the fisheries
+laws and regulations of the coastal State; (f) the preservation of the environ­
+ment of the coastal State and the prevention, reduction and control of pollution
+thereof; (g) marine scientific research and hydrographic surveys; (h) the pre­
+vention of infringement of the customs, fiscal, immigration or sanitary laws and
+regulations of the coastal State. ” See UNCLOS, Article 21.
+3
+
+Y.-C. Chang et al.
+
+Marine Policy 165 (2024) 106229
+
+based on flag State jurisdiction and does not explicitly define the status
+of coastal States, most regulations in Chapter V, like hydrographic ser­
+vices, vessels’ routeing, and vessel traffic services cannot take legal ef­
+fects without the participation of the coastal State, and all of them can
+directly impact the exercise of navigation rights of vessels [27]. There­
+fore, SOLAS implicitly grants coastal States the authority to impose
+specific requirements on foreign vessels in their waters under specific
+circumstances, including certain restrictions on the navigation rights of
+foreign vessels [28].
+COLREGS, which aimed to provide a safe navigation circumstance of
+vessels, many of its provisions also directly or indirectly related to the
+right of navigation, such as the rules for traffic separation schemes, the
+rule of safe speed, and the actions to be taken to avoid collisions.15 Those
+provisions further incorporated by UNCLOS through renvoi and become
+a part of jurisdictional rights of coastal States. For example, in the ter­
+ritorial sea regime, the provisions of COLREGS serve as rules of reference
+absorbed by the regulations of innocent passage in Article 21.16 In the
+regime of archipelagic waters, ships are explicitly required to comply
+with COLREGS when exercising the right of transit passage. Beyond the
+territorial sea, Article 221 of UNCLOS grants coastal States the right to
+take necessary measures to prevent maritime incidents, with COLREGS
+being the primary set of rules of reference for such measures.17 In the
+“Enrica Lexie” case, the arbitral tribunal emphasises that “the widely
+accepted status of COLREGS and its close relationship with UNCLOS, so
+violation of COLREGS may be considered a violation of UNCLOS.”18; It is
+worth noting that because COLREGS applies to all vessels, warships and
+non-commercial government vessels are equally subject to its legal
+binding force.19
+MARPOL is currently the most widely accepted international
+convention for the protection of the marine environment. Similar to
+most of other IMO conventions, MARPOL primarily relies on the juris­
+diction of the flag State and, does not explicitly define the legal status of
+coastal States [29]. However, due to the legal effect of renvoi in UNCLOS,
+the provisions of MARPOL, especially those in its first two mandatory
+annexes concerning oil pollution and the noxious liquid substances in
+bulk, can be internalised under Articles 211 and 220 of UNCLOS. This
+viewpoint has also received explicit support from the "Duzgit Integrity
+Arbitration" tribunal. 20Consequently, these provisions become part of
+the system under UNCLOS and serve as a basis for coastal States to
+interfere with the navigation of foreign ships.
+Finally, the Manila Amendments to the STCW will also impose
+certain restrictions on the navigation rights of vessels under its juris­
+diction. The Convention establishes standards for the deck department,
+engine department and radio department and deals with all members of
+the ship’s complement. In each case the Convention prescribes mini­
+mum age levels, minimum periods of sea-going service and certification
+requirements [30]. If a coastal State determines that the crew of a ship
+navigating in a maritime area under its jurisdiction does not meet the
+requirements of the Manila Amendments to the STCW, it can restrict the
+ship’s navigation on these grounds [31]. This situation also happened in
+the "Duzgit Integrity Arbitration" case.21
+While most of the aforementioned IMO conventions do not explicitly
+define the legal status of coastal States, on the one hand, these con­
+ventions have been widely accepted by the vast majority of States
+
+worldwide and have acquired universal binding force [32]. Therefore,
+ships from nearly all States worldwide are required to comply with these
+IMO conventions during their navigation, and their navigational rights
+inevitably face corresponding constraints. On the other hand, the pres­
+ence of renvoi provisions in UNCLOS amplifies the effectiveness of these
+IMO conventions, further becoming the basis for coastal States to restrict
+specific activities of foreign ships in their jurisdictional waters.
+3.3. The navigation regime of foreign vessels in general international law
+UNCLOS and IMO conventions jointly provide the legal basis for
+coastal States to regulate the navigational rights of foreign ships at the
+treaty level, but this is not exhaustive. According to general interna­
+tional law, coastal States also have the right to further restrict the
+navigational activities of foreign ships in the area under or beyond their
+national jurisdiction based on forms such as protective jurisdiction and
+objective territorial jurisdiction.
+Protective jurisdiction refers to a State’s right to exercise jurisdiction
+over foreign subjects, objects, and activities beyond its national territory
+based on the protection of its significant interests [33]. In the historical
+development of maritime law, the introduction of protective jurisdiction
+came relatively late. In the "Torrey Canyon" oil pollution damage case in
+1967, as UNCLOS had not yet been adopted, the jurisdictional waters
+where States could claim sovereignty and jurisdiction were generally
+considered limited to territorial seas and contiguous zones [34]. Ships
+beyond territorial seas and contiguous zones were, in principle, subject
+to the jurisdiction of the flag state (Liberia). As the most directly affected
+State by the oil pollution, the United Kingdom requested the predecessor
+of IMO—the International Maritime Consultative Organization—to
+determine whether it had the right to intervene in the case based on
+protective jurisdiction. In the end, the UK received the support of IMCO
+[35]. As one of the widely accepted extraterritorial jurisdictional rights,
+protective jurisdiction can also serve as an important legal basis for
+States to intervene in the navigation rights of foreign ships, especially
+when facing threaten to State’s security.
+Due to the relatively high threshold for the exercise of protective
+jurisdiction, some coastal States have attempted to incorporate objective
+territorial jurisdiction into the maritime legal system to lower the
+threshold for the exercise of extraterritorial jurisdiction [36]. Objective
+territorial jurisdiction, also known as the "effects doctrine," does not
+consider where the damaging actions originated; instead, it focuses on
+whether they have a tangible impact on the interests of the State
+asserting jurisdiction [37]. In the field of marine environmental pro­
+tection, some marine powers, have applied objective territorial juris­
+diction, significantly lowering the thresholds for asserting jurisdiction
+over foreign entities, objects, and actions [38].
+Additionally, even practices lacking clear jurisdictional foundations
+may, if adopted by more States, become part of customary international
+law or be absorbed into future treaties agreed upon by the international
+community, thereby acquiring legitimate binding force [39]. For
+instance, before UNCLOS was established, Canada declared a 100-nauti­
+cal-mile anti-pollution zone in arctic waters under the 1970 Canadian
+Environmental Protection Act. This domestic practice was incorporated
+into UNCLOS ice-covered waters regime in Article 234 [40], and became
+a part of customary international law eventually. A detailed analysis of
+this situation will be provided in the subsequent sections, and it will not
+be reiterated in this part.
+In summary, despite UNCLOS explicitly establishing the core status
+of the right of navigation for vessels, States still retain considerable
+leeway to impose restrictions on the navigation rights of foreign vessels.
+On the one hand, this may be based on provisions within international
+treaties and general international law, with considerations for maritime
+traffic safety or marine environmental protection and conservation,
+leading to non-discriminatory restrictions on the navigation rights of
+vessels from various States. On the other hand, some restrictions stem
+from the aim to safeguard national security and other maritime
+
+15
+IMO. Convention on the International Regulations for Preventing Collisions
+at Sea, 1972 (COLREGs). https://www.imo.org/en/About/Conventions/Pages/
+COLREG.aspx
+16
+UNCLOS, Article 21.
+17
+UNCLOS, Article 221.
+18
+The ’Enrica Lexie’ Incident (Italy v. India), Award on May 21, 2020. para.566.
+19
+COLREGs, Article 1.1.
+20
+The Duzgit Integrity Arbitration (Malta v. São Tomé and Príncipe), Award on
+Sep 5, 2016. para.316, 321.
+21
+Id, para. 289.
+
+4
+
+Y.-C. Chang et al.
+
+Marine Policy 165 (2024) 106229
+
+entitlements, which may get support from general international law.
+Therefore, while UNCLOS grants basic navigation rights to Chinese
+vessels in the SCS, Chinese vessels still need to pay attention to relevant
+treaties, general international law, and domestic laws of SCS States to
+accurately assess whether their navigation rights or related actions are
+subject to any restrictions.
+
+stipulates that within the scope of China’s EEZ and continental shelf
+(including territorial sea, contiguous zone and other waters within
+China’s jurisdiction), Chinese competent authorities have the power to
+take necessary measures to safeguard various sovereign rights and
+jurisdictional rights, including the right to board, inspect, arrest, detain,
+pursue, and exercise suitable judicial procedures.24
+For the second category, the Maritime Traffic Safety Law,25 this is the
+most important domestic legal basis for the navigation of Chinese ves­
+sels. The law provides detailed provisions on vessel seaworthiness, ob­
+ligations during vessel navigation, and the jurisdictional scope of
+competent authorities.26 As the legal binding force of the Maritime
+Traffic Safety Law is limited to waters under Chinese jurisdiction, it does
+not have extraterritorial effect on waters clearly outside China’s juris­
+diction. 27
+Finally, there are other laws related to the right of navigation to
+vessels, mainly the Marine Environmental Protection Law,28 and the
+Coast Guard Law.29 The former outlines a series of environmental pro­
+tection obligations during vessel navigation, while the latter empowers
+the coast guard to take enforcement measures corresponding to any
+violations of Chinese laws and regulations within China’s jurisdictional
+waters, including the use of force to a certain extent [22]. It is note­
+worthy that the extraterritorial application scope of these two laws is
+broader. For the Marine Environmental Protection Law, any act causing
+pollution within waters under Chinese jurisdiction can directly trigger
+the application of this law.30 As for the Coast Guard Law, it authorises
+cooperation between the Chinese coast guard and law enforcement
+agencies of other States, thereby granting greater enforcement powers in
+a wider range of waters.31
+In the latest official map released by China in 2023, the vast majority
+of the SCS is encompassed within the "Ten-Dash Line" [44]. To date,
+China has not officially explained or clarified the meaning of the
+Ten-Dash Line, and the publication of this map has led to unanimous
+opposition from claimant States in the SCS and external nations such as
+the United States [45]. However, from a domestic law perspective, as the
+aforementioned Chinese domestic laws explicitly state that their legal
+effects extend to all maritime zones under China’s jurisdiction, so when
+Chinese vessels navigating within the Ten-Dash Line, they are subject to
+comply with such domestic laws based on the dual standards of terri­
+torial jurisdiction and flag State jurisdiction imposed by these laws.
+Outside the Ten-Dash Line, as all aforementioned laws lack pro­
+visions based on flag State jurisdiction, only the Marine Environmental
+Protection Law establishes extraterritorial jurisdiction based on the
+protective jurisdiction. Therefore, Chinese domestic laws lack extrater­
+ritorial applicability, and there is no explicit legal binding force for
+Chinese vessels outside the Ten-Dash Line.
+
+4. Domestic regulations that exert practical constraints on the
+navigation of Chinese vessels
+Based on the analysis above, it can be seen that States in the SCS have
+the right to impose certain restrictions on the navigation rights of
+foreign vessels within the scope of sovereignty, sovereign rights, and
+jurisdiction as defined by treaties and general international law. In order
+to effectively exercise the rights granted to coastal States by the inter­
+national legal mechanisms mentioned above, including China, States in
+the SCS have each established their own regulations on the navigation
+rights of vessels in different waters. However, it is important to note that
+although States can impose various direct or indirect restrictions on the
+navigation rights of vessels through legislation, these domestic laws
+should may not have direct binding force on Chinese vessels without the
+support of enforcement jurisdictional bases [41].
+4.1. The Regulation of vessel navigation in domestic laws among regional
+states
+Under the legal regimes established and recognised by UNCLOS,
+States in the SCS region should implemented rules regarding vessel
+navigation in their domestic law. The reason of this phenomenon, on the
+one hand, in their role as contracting parties fulfilling treaty obligations
+under UNCLOS and IMO conventions. Since UNCLOS and IMO con­
+ventions are all non-self-executing treaties [42,43], implementing them
+through domestic laws is the basic form of fulfilling pacta sunt servanda
+for contracting parties. On the other hand, some SCS States have enacted
+legislation that may goes beyond the scope of existing international law
+authorizations, like the restriction of the right of innocent passage of
+warships in territorial seas. The main purpose of such legislation is to
+safeguard their existing maritime interests and lend support to other
+claims of sovereignty and maritime rights.
+4.1.1. Domestic laws of China
+For the navigation rights of Chinese vessels in the SCS, China’s do­
+mestic legal provisions undoubtedly have the most direct binding force.
+Within the territorial seas of China, Chinese vessels naturally need to
+comply with the regulations of China’s domestic law and submit to
+competent authorities based on territorial jurisdiction. In other SCS
+waters beyond China’s territorial seas, if the relevant domestic laws
+concerning navigation rights have extraterritorial applicability, then
+based on the authorization of UNCLOS and the general principle of
+jurisdiction in international law, Chinese vessels also have the obligation
+to comply with the relevant provisions of Chinese domestic laws.
+The Chinese domestic laws concerning the right of navigation for
+vessels can be categorised into three types: laws governing maritime
+zones under China’s jurisdiction, laws related to maritime traffic safety,
+and other laws relevant to the right of navigation. For the first category,
+there are two major domestic laws related to navigation regimes, which,
+the Law of the Territorial Sea and Contiguous Zone,22 and the Law of the
+Exclusive Economic Zone and the Continental Shelf.23 Both of the laws
+
+4.1.2. Domestic laws of the Philippines
+The Philippines is one of the States with the most intense sovereignty
+disputes with China in the SCS, and it was the petitioner in the South
+
+24
+
+Id, Article 12.
+Maritime Traffic Safety Law of the People’s Republic of China. Order No. 79
+of the President of the People’s Republic of China.
+26
+Id, Article 1, 2.
+27
+Id, Article 2.
+28
+Marine Environment Protection Law of the People’s Republic of China.
+Order No. 12 of the President of the People’s Republic of China.
+29
+The Coast Guard Law of the People’s Republic of China, Feb 1st, 2021,
+Order No. 71 of the President of the People’s Republic of China.
+30
+Marine Environment Protection Law of the People’s Republic of China,
+Article 2 (3).
+31
+The Coast Guard Law of the People’s Republic of China, Articles 63–65.
+25
+
+22
+The Law of the People’s Republic of China on the Territorial Sea and the
+Contiguous Zone. Order No. 55 of the President of the People’s Republic of
+China.
+23
+The Law of the People’s Republic of China on the Exclusive Economic Zone
+and the Continental Shelf. Order No. 6 of the President of the People’s Republic
+of China.
+
+5
+
+Y.-C. Chang et al.
+
+Marine Policy 165 (2024) 106229
+
+China Sea Arbitration.32 In this case, the Philippines opposed the navi­
+gation and other activities of various types of Chinese vessels, arguing
+that these activities violated international regulations such as UNCLOS
+and COLREGS.33 The claims made by the Philippines in the Arbitration
+are not solely directed at the navigation activities of Chinese vessels. The
+primary objective of the Philippines is to challenge China’s "nine-dash
+line" and a series of sovereign and maritime claims. Based on the views
+of the arbitral tribunal, certain actions by Chinese vessels have been
+deemed to have caused harm to the sovereign rights of the Philippines.34
+Following the SCS Arbitration, the Philippines has continued to protest
+against the navigation activities and related activities of Chinese vessels
+in the SCS [46]. Therefore, when Chinese vessels navigate in the waters
+of the SCS, especially in areas under the jurisdiction or actual control of
+the Philippines, it is important for Chinese vessels to pay attention to
+their obligations under domestic laws of the Philippines.
+As a typical archipelagic State, the Philippines explicitly asserts
+sovereignty and jurisdiction over its jurisdictional waters including
+archipelagic waters based on the provisions of UNCLOS and other treaty
+laws. It claims sovereign rights and jurisdiction over the waters, over­
+lying airspace, and underlying submarine areas, further recognizing the
+legal status of archipelagic waters as equivalent to internal waters.35
+This assertion is evidently different from UNCLOS, but the Supreme
+Court of the Philippines eventually acknowledged the right of innocent
+passage in archipelagic waters as part of customary international law.36
+So the right of innocent passage in archipelagic waters is also recognised
+and incorporated into domestic laws of the Philippines, implying that
+Chinese vessels can exercise the right of innocent passage in the archi­
+pelagic waters of the Philippines. And what is noteworthy is that the
+Pilipino domestic law does not provide separate regimes for innocent
+passage rights concerning warships.
+According to domestic laws of the Philippines, closely related to the
+navigation rights of foreign vessels are a series of executive orders
+adjusting navigation rights and special laws regulating various activities
+of ships. Regarding the former, such as Executive Order No. 656 issued
+on February 26, 1981, explicitly establishes a specialised committee in
+the Philippines to investigate whether foreign vessels have illegally
+entered Philippine waters and whether violations of legal provisions
+have occurred after entering Philippine waters.37 For the latter, the
+Philippine Fisheries Code of 1998 (Republic Act No. 8550) is the most
+direct legislation specifically addressing the navigation of foreign vessels
+in the Filipinos waters. It proclaimed that the fisheries resources in
+
+Philippine waters should, in principle, be utilised by Filipinos and
+foreign vessels navigating in Philippine waters also bear additional
+environmental protection obligations.38 Further, in the Marine Pollution
+Decree of 1976, it further specifies that in navigable waters of the
+Philippines, any vessel is obligated to refrain from dumping oil, waste,
+and various types of pollutants.39
+Overall, the provisions of the Filipinos domestic law regarding the
+navigation rights of foreign vessels largely align with the principles set
+forth in international treaty law, primarily UNCLOS. Although the Fili­
+pinos domestic law does not possess significant extraterritorial appli­
+cability to maritime areas beyond its sovereignty and jurisdiction, as the
+maritime areas claimed by the Philippines for jurisdiction overlap with
+those claimed by China and other claimant States in the SCS, so when
+Chinese vessels navigating in disputed waters related to the Philippines,
+domestic laws above may have direct binding force to them. The
+Philippines may, based on the principles of territorial sovereignty and
+international treaties like UNCLOS, trigger the application of its do­
+mestic law, potentially adversely affecting the navigation rights of
+Chinese vessels.
+4.1.3. Domestic law of Vietnam
+Vietnam is another State in the SCS region with significant sover­
+eignty and maritime rights disputes with China, and tensions have
+escalated recently [47]. Some provisions in Vietnam’s domestic law
+differ from those in UNCLOS, when Chinese vessels navigating in Viet­
+namese jurisdictional waters, those Vietnamese domestic laws require
+special attention.
+Firstly, the 2003 Law on the National Border in Vietnam specifies
+legal regimes for innocent passage in territorial seas. It explicitly stip­
+ulates that Vietnamese competent authority can, for reasons of defense,
+security, and other special reasons or at the suggestion from the gov­
+ernment, temporarily suspend or restrict the entry and exit of personnel,
+vehicles, or goods from the national border.40 This includes the exercise
+of innocent passage rights. In the 2012 Law of the Sea of Vietnam further
+clarified that foreign warships must notify Vietnamese authorities in
+advance when exercising innocent passage rights in Vietnam’s territorial
+seas.41
+Apart from additional restrictions on innocent passage rights at the
+territorial sea level, Vietnam’s regulations on the navigation system
+generally follow UNCLOS. For example, vessels must respect Vietnam’s
+territorial sovereignty, sovereign rights, and jurisdiction during navi­
+gation. Even in the EEZ, activities that threaten territorial sovereignty
+and Vietnam’s national security are prohibited.42 While Vietnam’s legal
+system mentioned above does not demonstrate extraterritorial applica­
+bility, similar to the Philippines, Vietnam emphasises in legislative
+documents such as the Statement of 12 November 1982 that it in­
+corporates the Paracel Islands and the Spratly Islands, as well as related
+waters, into its jurisdiction.43 Therefore, the spatial effectiveness of its
+domestic law aligns significantly with the maritime areas claimed by
+China and other States. For Chinese vessels, navigating and take part in
+specific maritime activities in the waters of the Paracel Islands or the
+Spratly Islands may directly trigger the application of Vietnamese do­
+mestic law. The more stringent navigation regulations in territorial seas
+and EEZs pose considerations that various types of Chinese vessels,
+especially warships, need to assess carefully during navigation.
+
+32
+On 22 January 2013, the Republic of the Philippines instituted arbitral
+proceedings against the People’s Republic of China under Annex VII to the
+United Nations Convention on the Law of the Sea (the “Convention”). The
+arbitration concerned the role of historic rights and the source of maritime
+entitlements in the South China Sea, the status of certain maritime features in
+the South China Sea, and the lawfulness of certain actions by China in the South
+China Sea that the Philippines alleged to be in violation of the Convention.
+China adopted a position of non-acceptance and non-participation in the pro­
+ceedings. See the South China Sea Arbitration (PCA), https://pca-cpa.org/en/
+cases/7/.
+33
+The South China Sea Arbitration (PCA), Award on 12 July 2016, para.1067.
+34
+Id, para. 716, 757, 814, 992.
+35
+1973 Constitution of the Republic of the Philippines, Article 1. AN ACT TO
+AMEND CERTAIN PROVISIONS OF REPUBLIC ACT NO. 3046, AS AMENDED BY
+REPUBLIC ACT NO. 5446, TO DEFINE THE ARCHIPELAGIC BASELINE OF THE
+PHILIPPINES AND FOR OTHER PURPOSES, Section 3.
+36
+Bureau of Oceans and International Environmental and Scientific Affairs,
+United States Department of State, Limits in the Seas, No. 142, Philippines:
+Archipelagic and Other Maritime Claims and Boundaries, September 15, 2014,
+https://www.state.gov/wp-content/uploads/2019/10/LIS-142.pdf.
+37
+AMENDING EXECUTIVE ORDER NO. 81, SERIES OF 1976, CREATING A
+COMMITTEE TO COORDINATE THE INVESTIGATION, HANDLING AND
+DISPOSITION OF APPREHENDED ILLEGAL ENTRANTS AND FOREIGN VESSELS
+VIOLATING PHILIPPINE LAWS. https://lawphil.net/executive/execord/
+eo1981/eo_656_1981.html.
+
+38
+The Philippine Fisheries Code of 1998 (Republic Act No. 8550), Section 5.
+https://faolex.fao.org/docs/pdf/phi16098.pdf.
+39
+The Marine Pollution Decree of 1976, https://www.officialgazette.gov.ph/
+1976/08/18/presidential-decree-no-979-s-1976/.
+40
+The 2003 Law on the National Border in Vietnam, Article 17.
+41
+The 2012 Law of the Sea of Vietnam, Article 12 (2).
+42
+Id, Article 22.
+43
+Statement of 12 November 1982 by the Government of the Socialist Re­
+public of Vietnam on the Territorial Sea Baseline of Vietnam.
+
+6
+
+Y.-C. Chang et al.
+
+Marine Policy 165 (2024) 106229
+
+4.1.4. Domestic laws of other regional states
+Compared to the Philippines and Vietnam, Malaysia, Indonesia, and
+Brunei do not have prominent sovereignty and maritime rights disputes
+with China in the SCS in the past. However, after the South China Sea
+Arbitration and the release of China’s official maps in 2023, these States
+shifted their positions sharply to opposing China’s claims [48]. This has
+escalated the disputes, increasing the practical risks for Chinese vessels
+navigating in the corresponding national waters and disputed areas.
+In terms of Malaysia’s domestic legislation, its legal framework for
+territorial waters and EEZs doesn’t significantly differ from UNCLOS.
+However, certain jurisdictional aspects have been detailed, such as the
+1984 Exclusive Economic Zone Act refines jurisdiction over marine
+environmental protection and marine scientific research.44 It in­
+corporates not only UNCLOS, but also some provisions from IMO con­
+ventions, and emphasises that foreign vessels conducting marine
+scientific research need government approval and must comply with
+subsequent obligations.45
+Indonesia enacted the Indonesia Maritime Law 2014 to regulate
+various maritime affairs, including maritime jurisdiction and navigation
+rights, along with specific provisions for marine environmental protec­
+tion and maritime safety.46 These regulations broadly adhere to
+UNCLOS. Apart from this law, Indonesia also has specific legislation,
+some of which directly adjusts navigation rights. For example, Regula­
+tion No.36 of Foreign ships Innocent Passage in the Indonesia Waters in
+1962, requires prior notification for military and non-commercial
+governmental vessels passing through territorial seas to exercise inno­
+cent passage.47 Fishing vessels and marine scientific vessels also have
+specific obligations when they navigating in the jurisdictional waters.48
+The Act of the Republic relating to the Indonesian Waters (Act No. 6 of
+1996) further divides innocent passage rights and separately regulates
+innocent passage rights in archipelagic waters, requiring foreign vessels
+to follow Indonesia’s designated sea lanes; otherwise, passage is not
+considered innocent.49 Further, the design of sea lanes also has led to
+some controversies, with the United States challenging Indonesia’s
+maritime claims by military aircraft [49].
+Brunei has historically maintained a relatively mild attitude towards
+China, and its domestic maritime legislation has been relatively slow to
+develop. In order to protect its domestic fisheries resources, Brunei has
+regulations stipulating that even if foreign vessels obtain fishing permits,
+they are only allowed to operate in the third and fourth fishing zones and
+are prohibited from conducting activities in other fishing zones [50,51].
+When foreign vessels, especially fishing vessels, navigate in the corre­
+sponding waters of Brunei, they will be subject to restrictions and in­
+spections as a result.
+In summary, it can be observed that the basic regulations on navi­
+gation rights in the domestic legislation of the SCS regional States
+generally align with the fundamental provisions of UNCLOS. The dif­
+ferences primarily lay in the innocent passage of warships in territorial
+seas (Vietnam, Indonesia) and the innocent passage rights of warships in
+archipelagic waters (Philippines, Indonesia). Additionally, based on
+UNCLOS granting sovereignty over territorial seas and sovereign rights
+and jurisdiction over EEZs, some regional States have made more
+detailed provisions in their domestic laws regarding the protection of
+
+fisheries resources, marine scientific research, marine environmental
+protection, and other aspects. These regulations, in various ways, may
+directly or indirectly impact the navigation rights of Chinese vessels in
+the SCS.
+4.2. Do Chinese vessels need to comply with the domestic laws of regional
+states when navigating in the SCS
+While States in the SCS region have established various restrictive
+domestic laws for the navigation rights of foreign vessels, these domestic
+laws may not necessarily have binding force on foreign vessels. Specif­
+ically, regarding territorial seas and archipelagic waters, even though
+they are integral parts of respective States’ territories with sovereignty
+and jurisdiction, UNCLOS explicitly establishes the right of innocent
+passage. Therefore, if States wish to impose restrictions on the right of
+innocent passage for specific vessels such as warships, these restrictive
+measures must be supported by other legitimate legal basis.
+For restrictions imposed by States on navigation rights in waters
+beyond territorial seas or on other maritime activities that may affect
+navigation rights, such restrictions must have legal justification pro­
+vided by UNCLOS and other international legal rules. Otherwise, these
+regulations may not achieve legally binding force to foreign vessels
+through the enforcement jurisdiction [52]. This section will analyse
+whether these domestic legislations can be upheld through enforcement
+jurisdiction.
+4.2.1. Analysis of the right of innocent passage in territorial seas and
+archipelagic waters
+According to UNCLOS provisions, both territorial seas and archipe­
+lagic waters are integral parts of the coastal State’s territory. Apart from
+the right of innocent passage, the coastal state enjoys full sovereignty
+over both water areas. There is no disagreement over the right of
+innocent passage for various private vessels in these waters. However,
+for official ships, as UNCLOS itself does not clearly specify whether
+warships and non-commercial government vessels have the right of
+innocent passage, approximately 40 States have enacted legislation
+restricting the right of innocent passage for warships [53,54]. These
+States are mostly located in Asia, Africa, and other developing and un­
+derdeveloped regions. Historically, many of these developing States
+have faced challenges from warships of maritime powers, leading to the
+adoption of legislation and policies restricting the right of innocent
+passage for warships as a result of lessons learned from historical ex­
+periences [55]. In the SCS, including China, Vietnam, the Philippines,
+and Indonesia, there are arrangements that impose restrictions on the
+innocent passage rights of warships.
+Therefore, whether further restrictions on the right of innocent
+passage for warships can be supported by existing national maritime
+laws needs to be analysed from the perspectives of enforcement juris­
+diction. If a State imposes restrictions on the innocent passage rights of
+warships only at prescriptive jurisdiction but without implementation,
+even though its assertion lacks an international legal basis at the level of
+prescriptive jurisdiction, it would not trigger state responsibility. As
+discussed in the "Lotus" case by the PCIJ, a State’s prescriptive juris­
+diction is not necessarily constrained by existing international law.50
+However, if a State expects its domestic laws imposing additional re­
+strictions on the right of innocent passage to be effectively implemented
+without violating international law and incurring State’s responsibility,
+support must be found according to enforcement jurisdiction from
+existing international law rules. The most direct legal basis is UNCLOS,
+where Article 21 explicitly allows coastal States to impose restrictions
+for categories such as traffic safety, marine environmental protection,
+marine scientific research, and hydrographic measurements.51
+
+44
+Exclusive Economic Zone Act, 1984, Act No. 311. An Act pertaining to the
+exclusive economic zone and certain aspects of the continental shelf of Malaysia and
+to provide for the regulations of activities in the zone and on the continental shelf and
+for matters connected therewith. Part II.
+45
+Id, part V.
+46
+Law of the Sea (Law No. 32 of 2014).
+47
+Regulation No.36 of Foreign Ships Innocent Passage in the Indonesia Waters
+in 1962, part IV.
+48
+Id, part II and part III.
+49
+The Act of the Republic relating to the Indonesian Waters (Act No. 6 of
+1996), Article 19.
+
+50
+51
+
+7
+
+Lotus Case (France v. Turkey), PCIJ, the judgment of 7 September 1927, p.20.
+UNCLOS, Article 21.
+
+Y.-C. Chang et al.
+
+Marine Policy 165 (2024) 106229
+
+However, restrictions on warships are not specified among these rea­
+sons. Other provisions, such as Article 19 of UNCLOS, allow coastal
+States to restrict the innocent passage of warships if they pose a threat to
+the peace of the coastal state or use force against the coastal state.52 Still,
+direct and undifferentiated restrictions on the innocent passage of all
+warships cannot be justified within the scope of Article 19.
+Clearly, UNCLOS does not provide a clear basis for coastal States to
+limit the right of innocent passage of warships. However, this does not
+mean that coastal States cannot find enforcement jurisdictional bases to
+support their domestic legislation. General international law can serve
+as an important basis for enforcement jurisdiction to some extent. The
+preamble of UNCLOS states, "affirming that matters not regulated by this
+Convention continue to be governed by the rules and principles of
+general international law,"53 indicating that UNCLOS provisions do not
+exhaust all rules of the law of the sea, and it provides a direction for
+finding enforcement jurisdiction regarding restrictions on the innocent
+passage of warships.
+Considering that the territorial sea is an integral part of the coastal
+State’s territory, coastal States, for the purpose of protecting its sover­
+eignty and national security, may require prior notification from war­
+ships. This is due to the unique nature of warships, making it difficult for
+coastal States to determine whether their activities go beyond the scope
+of innocent passage. Based on the characteristics of the difficulty in
+detecting the actions of warships and the significant threat to national
+sovereignty, there is an opinion advocating that the passage of warships
+is inherently non-innocent [56]. This argument has persisted since
+Grotius. Although Article 21 of UNCLOS lists numerous circumstances
+that should not be considered as innocent passage, and this argument
+has become an important legal basis for States like the United States to
+exercise Freedom of Navigation Operations (FONOPs) [57], it is still
+doubtful whether this article can exhaust all non-innocent circum­
+stances, especially in the current dynamic development stage of the law
+of the sea [58]. This view has received considerable support, and also a
+major reason why over 40 coastal States have enacted regulations
+restricting the innocent passage of warships. For instance, apart from the
+basic requirements that warships need to follow, such as weapons not in
+firing position and submarines must be on the surface, the abundance of
+weapons and equipment carried by warships makes them potentially
+threatening to coastal States—especially in situations where there is a
+real conflict of interest between the flag State and the coastal State.
+Some restrictions of warships, while recognizing the basic principle of
+innocent passage for warships, falls within the scope of Article 2(4) of
+the United Nations Charter,54 as it aims to prevent warships from
+engaging in activities that could jeopardise the territorial integrity and
+national security of the coastal state without its knowledge.
+Moreover, the navigation of warships itself may have negative im­
+pacts on the coastal state’s management of its territorial sea and the
+navigation of other foreign vessels. the presence of naval fleets may
+exert practical pressure on maritime traffic order, and COLREGS may be
+a source for coastal States to impose restrictions on the right of innocent
+passage of warships in order to maintain its maritime traffic order. These
+factors can be considered as legitimate reasons for coastal States to
+impose certain restrictions on the innocent passage of warships.
+In addition to the support provided by general international law for
+enforcement jurisdiction, according to ILC’s Draft Conclusions on
+Identification of Customary International Law, domestic laws of various
+States can themselves serve as a basis for the establishment of customary
+international law,55 or be absorbed by international treaties related to
+the navigation of warships in the future, thereby formally becoming a
+
+binding international legal system. For example, in the aviation domain,
+around 20 States currently assert air defense identification zones
+(ADIZs), and these claims may potentially become part of customary
+international law with universal legal binding force in the future [59].
+Some practices, such as the additional requirements imposed by the
+former Soviet Union and Canada on navigation in Arctic waters, were
+later absorbed by Article 234 of UNCLOS [40]. Hence, there is no need to
+doubt that the international legal system governing the navigation of
+foreign vessels may evolve in the future as more States engage in prac­
+tices that go beyond existing treaties and general international law
+provisions. In this sense, coastal States that harbor concerns about the
+passage of warships in their territorial seas, by explicitly constraining
+the innocent passage of warships at the level of prescriptive jurisdiction
+within their domestic laws, may generate externalities that extend far
+beyond the practice itself [60]. These constraints may contribute to the
+development of international law specifically addressing issues related
+to the navigation of warships.
+For Chinese warships, considering that China itself supports to limit
+the right of innocent passage of warships,56 and the navigation of war­
+ships has sensitive impacts on the security and stability of regional States
+in the SCS. Therefore, if other SCS States impose restrictions on the
+innocent passage of warships within their domestic laws, Chinese war­
+ships should, to the greatest extent possible, respect the requirements of
+those coastal States’ domestic laws. On one hand, this would not
+fundamentally deprive warships of their right of navigation, and on the
+other hand, showing respect for the domestic laws of other regional
+States may encourage foreign vessels reciprocal compliance with
+China’s domestic laws, which can achieve a win-win situation.
+4.2.2. Analysis of the navigation rights of Chinese vessels in disputed waters
+Compared to potential restrictions on warships in the territorial seas
+of some regional States, something more practical for Chinese vessels is
+the uncertainty of their rights of navigation in disputed waters of the
+SCS. Disputed waters refer to areas where two or more States claim
+sovereignty, sovereign rights, and jurisdiction [61]. While territorial
+disputes over maritime areas are can be found globally, the issue is
+particularly irreconcilable in the SCS [8]. This is primarily due to
+China’s long-standing claim, represented by the nine-dash line and
+ten-dash line, asserting rights over the majority of the SCS—a claim not
+recognised by regional States and most States with interests in the SCS,
+such as the United States [62].
+Since the 1970s, China’s claims over maritime features have been
+occupied by different regional States, particularly the Philippines,
+Vietnam, and Malaysia, among others [8]. This situation making it
+challenging for any single State, including China, to exert complete
+control over the Spratlys and Paracels. In 2013, frustrated with the lack
+of progress in negotiations with China over the disputes in the SCS, the
+Philippines unilaterally initiated arbitration under Annex VII of
+UNCLOS. While the arbitration did not directly address the issue of
+sovereignty over maritime features in the SCS, many of its rulings were
+seen to have a negative impact on China’s sovereignty and maritime
+entitlement claims [63]. These included rulings which denied the legal
+status of the nine-dash line and China’s historical rights, the tribunal
+also proclaimed that China had infringed the sovereign rights and
+jurisdiction of the Philippines’ EEZ.57 Despite the arbitration ruling,
+China refused to recognise or enforce it, leading to increased tensions in
+the regional order of the SCS. After China released its official map in
+2023, reiterating its claims in the SCS, it faced intensified opposition
+from regional States, further complicating the situation.
+
+52
+
+56
+
+Id, Article 19.
+Id, Preamble.
+54
+UN Charter, Article 2(4).
+55
+Draft Conclusions on Identification of Customary International Law, Con­
+clusions 5, 6 and 10.
+
+The Law of the People’s Republic of China on the Territorial Sea and the
+Contiguous Zone. Order No. 55 of the President of the People’s Republic of
+China, Article 6.
+57
+The South China Sea Arbitration (PCA). Award on July 12th, 2016.
+para.1203.3 (2)(9)(10).
+
+53
+
+8
+
+Y.-C. Chang et al.
+
+Marine Policy 165 (2024) 106229
+
+Another major reason for the complexity and difficulty in resolving
+the disputes in the SCS’s disputed waters is China’s longstanding unclear
+altitude to the meaning of its nine-dash line (and subsequent ten-dash
+line) [64]. Despite the arbitral tribunal of the SCS rejecting the sover­
+eign nature of the waters within the nine-dash line, China’s official
+stance, along with unofficial proclaims represented by the Chinese So­
+ciety of International Law, has consistently opposed the tribunal’s views
+[65]. Furthermore, China has emphasised its historical rights in the SCS
+without providing specific details about the content of these historical
+rights. This lack of clarity makes it unambiguous whether China con­
+siders the SCS as internal waters, territorial waters, EEZs, or other types
+of maritime areas [66].
+While the complex disputes in the SCS do not inherently deny vessels
+basic rights of navigation in the region, the uncertainty of maritime
+sovereignty requires Chinese vessels navigating through disputed waters
+to consider the domestic laws of all the interested States in a disputed
+zone. The activities of various types of vessels may fall within the
+jurisdictional scope of the domestic laws of multiple States simulta­
+neously. Regarding China’s domestic laws, despite lacking jurisdictional
+provisions based on a territorial connection, major maritime laws such
+as the Coast Guard Law, the Marine Environmental Protection Law, and
+Maritime Traffic Safety Law explicitly state they should apply to "all
+waters within China’s jurisdiction." These disputed waters inside the
+ten-dash line would fall within this scope [67]. For the Philippines and
+Vietnam, other two major claimant States in the SCS, both have specified
+their jurisdiction in domestic maritime laws, covering activities such as
+fishing, marine scientific research, and exploration and exploitation of
+natural resources in their respective regions. Therefore, when Chinese
+vessels navigate through disputed waters—especially those contested by
+China itself—compliance with specific navigation regulations and the
+ability to undertake certain maritime activities become crucial issues.
+Evidently, solely from the perspective of domestic law, the domestic
+laws of these three States do not provide specific responses to the SCS
+disputes. Therefore, activities falling within the sovereign rights and
+jurisdictional scope stipulated in Articles 56 and 77 of UNCLOS will
+directly trigger jurisdictional conflicts at the domestic law field. Clearly,
+the attribution of disputed areas in the SCS and other conflicts is chal­
+lenging to resolve in the short term. Under this situation, the most
+effective strategy for Chinese vessels to protect their navigation rights
+and participate in other maritime activities is to assess the actual law
+enforcement capabilities of each coastal state in specific disputed wa­
+ters. If Chinese law enforcement capabilities is stronger in an area,
+Chinese vessels should primarily adhere to Chinese domestic law while
+have due regard to the rights of other States as per UNCLOS provisions
+[68,69].58 In regions where Chinese law enforcement capabilities are
+weaker, vessels should avoid to take actions that violate the domestic
+laws of States with stronger law enforcement. This by no means implies
+that Chinese vessels can disregard international law or the domestic laws
+of other States in waters where China’s law enforcement capabilities are
+stronger. Instead, it only refers to situations where there is a conflict
+between the domestic laws of different States in disputed waters (such as
+exercising the right of innocent passage or engaging in fishing, marine
+scientific research, etc.). For example, when navigating near the Spratly
+Islands, which simultaneously claimed by China, the Philippines, Viet­
+nam, and Malaysia, if Vietnam’s law enforcement capabilities are
+stronger in a specific maritime area, Chinese fishing vessels should
+better avoid navigating and participating in fishing activities in this
+maritime area to minimise their potential risks of navigation. Consid­
+ering that the domestic laws of regional States regarding navigation
+regimes are not far away from UNCLOS, simultaneously adhering to the
+regulations of each State’s domestic law is not likely to significantly
+
+impede the navigational rights of vessels.
+In addition to the efforts made by Chinese vessels themselves to
+ensure their rights of navigation, it is more crucial that authorities of
+China and other regional States should jointly strive to protect and
+maintain basic navigation rights of vessels. From the perspective of
+domestic law, China has left room for international cooperation. For
+instance, both the Coast Guard Law and the Marine Environmental
+Protection Law explicitly stipulated that to reach effective international
+cooperation as a fundamental principle.59 Avoiding enforcement con­
+flicts that could impact the navigation rights of vessels is naturally an
+important cooperative objective. During the process of law enforcement
+jurisdiction, States should also consider the actual connections of
+jurisdiction between different States [70]. If other States have clearer
+actual connections compared to them, it should be considered to either
+relinquish jurisdiction or at least allow joint jurisdiction with relevant
+States. This approach can be a means to ensure respect for jurisdictional
+rights by other parties in corresponding situations, as well as to safe­
+guard overall navigation order and regional order.
+It must be acknowledged that, following the "Declaration on the
+Conduct of Parties in the South China Sea," there has not been significant
+progress in resolving the regional disputes. Some attempts to address the
+disputes, such as the Philippines’ unilateral initiation of the South China
+Sea Arbitration, proved to escalate tensions instead [71]. Undoubtedly,
+disputes over sovereignty are not issues that can be effectively resolved
+in a short period. However, ensuring the right of navigation for vessels in
+disputed waters is something that could be resolved relatively quickly.
+This depends, on the one hand, on the responses of the ships themselves
+and, on the other hand, on the cooperation of States regarding the issue
+of navigation rights. Therefore, Chinese vessels should adopt flexible
+strategies to maximise the protection of their navigation rights in
+disputed waters. The competent authorities of China and other regional
+parties should also achieve breakthrough cooperation on safeguarding
+navigation rights in disputed waters as soon as possible.
+4.3. Immunity of non-commercial government ships
+Another issue closely related to the navigation rights of Chinese
+vessels is what kinds of Chinese vessels can enjoy immunity which may
+not classified as warships. UNCLOS establishes a set of specific pro­
+visions for non-commercial government ships, including the immunity
+within territorial seas and on the high seas.60 Moreover, noncommercial government ships are legitimate entities for the exercise
+of boarding and hot pursuit rights, which are major jurisdictional rights
+possessed by States in the high seas.61
+China currently operates two main types of non-commercial gov­
+ernment vessels in the SCS: law enforcement vessels excluding warships,
+and vessels engaged in scientific research and other activities [72]. For
+the former, a significant number of Coast Guard vessels have become
+central to regional disputes in recent years. Some States even argue that
+China’s coast guard vessels essentially fall within the category of war­
+ships [73]. The legal status of Coast Guard vessels primarily affects their
+innocent passage rights in the territorial seas of other States, rather than
+significantly impacting their immunity. Besides those Coast Guard ves­
+sels, there are also Chinese militia vessels participate in different ac­
+tivities in disputed waters. These militia vessels also serve as the
+frontline in conflicts between China and other claimant states in the SCS
+[74]. Although these militia vessels are largely influenced by the Chi­
+nese government, their operators are often not government officials, and
+the vessels do not possess documentation showing requisition by the
+59
+
+The Coast Guard Law of the People’s Republic of China, Feb 1st, 2021, Article
+63–65. Marine Environment Protection Law of the People’s Republic of China,
+Article 10 (2).
+60
+UNCLOS, Article 32.
+61
+Id, Articles 109, 110.
+
+58
+The principle of due regard is one of the fundamental principle in UNCLOS,
+which means that States, while exercising maritime rights and fulfilling their
+obligations, take into account the rights and maritime interests of other States.
+
+9
+
+Y.-C. Chang et al.
+
+Marine Policy 165 (2024) 106229
+
+Chinese government [75]. As a result, these militia vessels find it chal­
+lenging to receive the protection of immunity provided by UNCLOS
+[76].
+For the latter, such as vessels involved in activities such as scientific
+research, because many of China’s research vessels are not directly
+owned or operated by the government but are belonged to various in­
+stitutions, including public universities [66]. In the event of a dispute,
+can these vessels claim jurisdictional exemptions based on UNCLOS
+provisions?
+Although public universities and other public institutions are not a
+branch of the Chinese government, the 2021 Regulations on the
+Administration of State-owned Assets of Administrative Institutions
+stipulate that assets owned by public institutions through ’financial
+allocation, allocation, transfer, or replacement, and donation’ should be
+recognised as state-owned assets.62 As China is a unitary State, there is
+no difference in ownership between State-owned assets owned by public
+institutions and government assets. Therefore, public universities’ sci­
+entific research vessels can obtain the immunity specified in Article 32
+of UNCLOS by analogy with governmental non-commercial vessels. So if
+a public university’s scientific research ship can be deemed a stateowned asset, even if it violated international rules like UNCLOS or do­
+mestic laws of a coastal State, it can use immunity as a shield to avoid
+detention or litigation. Conversely, if research vessels are owned by
+private research institutions, they do not fall within the scope of
+immunity.
+In the situation where a significant number of Chinese vessels
+involved in maritime activities in the SCS are either warships or noncommercial government ships, there are two aspects to consider. On
+the one hand, these vessels may face certain restrictions due to addi­
+tional regulations by coastal States regarding innocent passage rights.
+On the other hand, immunity can, at least, safeguard them from most
+enforcement measures. For other States in the SCS, they should also
+respect and implement the immunity status of non-commercial gov­
+ernment vessels, avoiding enforcement measures against Chinese vessels
+that go beyond the scope of UNCLOS.
+
+numerous non-commercial government ships in China. It is essential to
+ascertain whether there are additional restrictions on their navigation in
+the jurisdictional waters of other States and, when encountering law
+enforcement measures beyond UNCLOS provisions, promptly inform the
+authorities of the coastal State by themselves and the relevant Chinese
+authorities. Due to the difficulty of resolving the current sovereignty and
+maritime rights disputes in the SCS in the short term, when navigating in
+disputed waters, it is necessary for all types of Chinese vessels to flexibly
+comply with the domestic legislation of different States based on their
+navigation purposes and a comparison of law enforcement capabilities
+in the disputed waters of the regional States, thus ensuring their navi­
+gation rights to the maximum extent possible and avoid some potential
+legal risks. If there is no conflict among the domestic laws of various
+coastal States in the areas involved in navigation and other maritime
+activities, Chinese vessels should comply with the domestic laws of all
+related coastal States. However, if conflicts arise, such as in the exercise
+of innocent passage rights or engaging other maritime activities like
+fishing and marine scientific research, where vessels cannot clearly
+ascertain the attribution of maritime entitlements in the waters, it is
+necessary to assess which coastal State’s domestic law to comply with
+based on law enforcement capabilities. Further, when Chinese vessels
+may engage in activities beyond mere navigation within a disputed
+maritime zone, especially any activities that could fall within the scope
+of sovereign rights and jurisdiction of coastal States, they should further
+notify Chinese authorities to assess the legal and political risks associ­
+ated with their actions. Both the Chinese government and other
+competent authorities bear the responsibility of minimising the poten­
+tial adverse effects of navigation and related activities on regional sta­
+bility. The objective is to proactively maintain normal navigation
+procedures and prevent any disruption to the stability of disputed
+maritime regions resulting from navigation and other maritime
+activities.
+Second, concerning Chinese domestic law, although current Chinese
+domestic law theoretically covers all waters within the ten-dash line, it
+lacks crucial legislation based on flag State jurisdiction. Flag State
+jurisdiction is one of the fundamental jurisdictional rights in maritime
+navigation regimes, particularly for vessels navigating outside territorial
+seas. For China, flag State jurisdiction holds additional significance,
+serving as a critical pathway for fulfilling its treaty obligations under
+UNCLOS and IMO conventions. For instance, Article 94(7) of UNCLOS
+and almost all IMO convention obligations require flag State jurisdiction
+for their execution. Furthermore, as China has not explicitly clarified the
+legal status of the nine-dash line/ten-dash line, the jurisdictional rights
+of waters inside the dash-lines are unknown. The stipulation of flag State
+jurisdiction can ensure that Chinese vessels navigate in all SCS waters in
+compliance with China’s domestic laws, particularly in the absence of
+clear legal status for the discontinuous line and waters within the line.
+Therefore, it is imperative for China to promptly legislate flag State
+jurisdiction and the corresponding legal regimes at the domestic law
+level.
+Third, the right of navigation of Chinese vessels in the SCS should be
+further consolidated through regional cooperation. In such cooperation,
+States should prioritise the fundamental goal of safeguarding the right of
+navigation. Even if some vessels are engaged in activities that may
+violate sovereign rights and jurisdiction, coastal States should not
+directly expel them in the absence of direct evidence. Instead, they
+should distinguish the right of navigation from other activities, funda­
+mentally ensuring that different vessels all have basic navigational
+rights. Although many States in the SCS have significant differences in
+their sovereignty claims over the maritime features of the SCS and
+related maritime entitlements, it is in the common interest of all States to
+protect the right of navigation of vessels [77]. At present, States in the
+SCS have cooperated on disaster rescue in the region [78]. In the future,
+cooperation should be further expanded to protect the right of naviga­
+tion, in order to reduce the interference of law enforcement activities of
+various States on normal navigation. Different international treaties,
+
+5. Suggestions on the right of navigation of Chinese vessels in
+the SCS
+In summary, whether from the perspective of international law or
+domestic law, Chinese vessels, as well as vessels from all States world­
+wide, should enjoy the rights of navigation in the SCS. This includes the
+right of innocent passage in the territorial seas of other States and
+freedom of navigation beyond territorial seas. Under the authorization
+of UNCLOS, IMO conventions, and other general international laws,
+domestic laws have the space to regulate maritime navigation rights
+additionally.
+Generally speaking, the regulations in domestic laws of regional
+States regarding vessel navigation rights do not significantly violate
+UNCLOS or other international legal rules. However, due to the vast
+disputed waters in the SCS, Chinese vessels still inevitably face chal­
+lenges such as uncertainty in jurisdictional authorities and unclear
+compliance with laws during navigation. To more effectively safeguard
+the basic navigation rights of Chinese vessels, maintain the fundamental
+order of navigation in the region, and achieve cooperation and coordi­
+nation among regional States in terms of navigational rights, this article
+proposes the following recommendations:
+First, regarding the vessels themselves, various types of Chinese
+vessels should clearly understand their legal status under international
+law and the domestic laws of regional States in the SCS, as well as the
+navigation rights they are entitled to. This is especially crucial for the
+62
+2021 Regulations on the Administration of State-owned Assets of Admin­
+istrative Institutions. Order of the State Council of the People’s Republic of
+China, No.738, Article 2.
+
+10
+
+Y.-C. Chang et al.
+
+Marine Policy 165 (2024) 106229
+
+References
+
+including UNCLOS, stipulate that all States should notify the flag State in
+a timely manner when they take measures such as the arrest or detention
+of foreign vessels.63 However, due to the fragmentation of various
+cooperation and coordination mechanisms, the law enforcement on
+specific vessels cannot be known to the flag State on time. Considering
+the importance of the SCS to world shipping, the article suggested that a
+law enforcement communication mechanism be established among the
+coastal States around the SCS to ensure navigation rights, re-examine
+law enforcement processing procedures, eliminate misunderstandings
+and ensure the navigation order in the SCS.
+Fourth, State in the region should further expand the path of SCS
+cooperation based on the right of navigation, including reaching a new
+agreement which aimed to provide resolution of the current disputes. As
+the article mentioned before, since the "Declaration on the Conduct of
+Parties in the South China Sea", there has been a lack of breakthrough
+progress in maintaining the order in the SCS by regional State, with most
+adopting unilateral measures. Indeed, some unilateral measures may
+contribute to the short-term maximization of a State’s maritime in­
+terests, but in the long-term, if major regional States cannot reach a
+consensus on the distribution of interests, it will be challenging to
+effectively safeguard the interests of all the regional States [79]. The
+right of navigation is currently the most easily agreed-upon aspect
+among State in the SCS region. Not only is the SCS itself a global com­
+mon maritime passage, but the right of navigation is also the funda­
+mental path for regional State to further implementing their maritime
+claims. Therefore, State can attempt to use cooperation in safeguarding
+the right of navigation as a breakthrough. After the "Declaration on the
+Conduct of Parties in the South China Sea", they can further establish
+new regional treaties, clarifying the obligations and direction of coop­
+eration that regional State will shoulder in resolving SCS disputes.
+
+[1] Z.H. Zheng, What do contradictory statements made by the Philippines and the
+United States reveal for the South China Sea? South China Sea Strateg. Situat.
+Probing Initiat. (SCSPI) (2021). 〈http://www.scspi.org/en/dtfx/what-do-contrad
+ictory-statements-made-philippines-and-united-States-reveal-south-china-sea-0〉.
+[2] Aljazeera, Philippines accuses China of targeting fishing boats in South China Sea,
+Dec. 9, 2023. Available in: https://www.aljazeera.com/news/2023/12/9/
+philippines-condemns-chinese-actions-in-south-china-sea#:~:text=Manila%
+20says%20Chinese%20coastguard%20shot,in%20disputed%20South%20China%
+20Sea.&text=The%20Philippines%20has%20accused%20the,in%20the%20South
+%20China%20Sea.
+[3] NBC News, China says U.S. warship ‘illegally’ entered waters in the South China
+Sea. Available in: https://www.nbcnews.com/news/world/china-says-us-navyship-illegally-intruded-waters-south-china-sea-rcna127859.
+[4] L. Kuok, How China’ s actions in the South China Sea undermine the rule of law,
+Global China, November 18 (2019). Available in: 〈https://www.brookings.edu/w
+p-content/uploads/2019/11/FP_20191118_china_scs_law_kuok.pdf〉.
+[5] C. Wirth V. Schatz, South China Sea “Lawfare”: Fighting over the Freedom of
+Navigation, (GIGA Focus Asien, 5). Hamburg: GIGA German Institute of Global and
+Area Studies - Leibniz-Institut für Globale und Regionale Studien, Institut für AsienStudien, 5 (2020) 11. Available in: https://nbn-resolving.org/urn:nbn:de:0168ssoar-69366-1.
+[6] The Ministry of Foreign Affairs of the People’s Republic of China, Statement of the
+Government of the People’s Republic of China on China’s Territorial Sovereignty
+and Maritime Rights and Interests in the South China Sea, July 12 (2016).
+Available in: 〈https://www.fmprc.gov.cn/nanhai/eng/snhwtlcwj_1/201607/t2
+0160712_8527297.htm#:~:text=China%20is%20the%20first%20to,in%20the%
+20South%20China%20Sea〉.
+[7] U.S. Navy Destroyer Conducts Freedom of Navigation Operation in the South China
+Sea, From Commander, U.S. 7th Fleet Public Affairs, November 27 (2023).
+Available in: 〈https://www.cpf.navy.mil/Newsroom/News/Article/359842
+0/us-navy-destroyer-conducts-freedom-of-navigation-operation-in-the-south-c
+hina-s/〉.
+[8] Z. Gao, B.B. Jia, The nine-dash line in the South China Sea: history, status, and
+implications, Am. J. Int. Law 107 (1) (2013) 98–123, https://doi.org/10.5305/
+amerjintelaw.107.1.0098.
+[9] B. Hayton, The South China Sea: the Struggle for Power in Asia, Yale University
+Press, 2014.
+[10] M.E. Herberg, The role of energy in disputes over the South China Sea, Marit.
+Aware. Proj. (28) (2016). 〈https://map.nbr.org/wp-content/uploads/2020/09/an
+alysis_herberg_062816.pdf〉 (Available in).
+[11] Q.R. Wang, China’s maintenance of the rights and interests of the South China Sea
+since the 18th CPC national congress, Acad. J. Jiny-.-. 4 (2021) 85–93, https://doi.
+org/10.16392/j.cnki.14-1057/c.2021.04.010.
+[12] S. Burgess, Confronting China’s maritime expansion in the South China Sea,
+J. Indo-Pac. Aff. 3 (3) (2020) 122.
+[13] X. Hu, Joining hands with ASEAN states to promote cooperation and governance in
+the South China sea, South China Sea Strateg. Situat. Probing Initiat. (SCSPI),
+Novemb. (24) (2023). 〈http://www.scspi.org/en/dtfx/joining-hands-asean-Statespromote-cooperation-and-governance-south-china-sea〉 (Available in).
+[14] M. Ernst, Control through cooperation? Assessing China’s economic and militarystrategic interests in the South China Sea, J. Territ. Marit. Stud. 9 (2022) 7.
+[15] Y.C. Chang, et al., Legal or illegal?—Transferring jurisdiction in the course of
+maritime law enforcement, Heliyon 10 (4) (2024), https://doi.org/10.1016/j.
+heliyon.2024.e26265.
+[16] U.S. Embassy Manila, Joint Statement on the Philippines-United States Bilateral
+Strategic Dialogue, April 25 (2024). Available in: 〈https://ph.usembassy.gov/joint
+-statement-on-the-philippines-united-states-bilateral-strategic-dialogue/〉.
+[17] U.S. National Security Council, Statement from National Security Advisor Robert C.
+O’Brien, October 23 (2020). Available in: 〈https://trumpwhitehouse.archives.gov
+/briefings-statements/statement-national-security-advisor-robert-c-obrien102320/〉.
+[18] Y. Yan, 2020, Legal Boundaries of U.S. Coast Guard Operations in the South China
+Sea, Dec. 24, 2020. Available in: http://www.scspi.org/en/dtfx/legal-boundariesus-coast-guard-operations-south-china-sea.
+[19] The Maritime Executive, China Coast Guard Cutter Hits Philippine Supply Boat in
+S. China Sea, OCT 22, 2023. Available in: 〈https://maritime-executive.com/
+article/china-coast-guard-cutter-hits-philippine-supply-boat-in-s-china-sea〉.
+[20] Reuters, Philippine legislator proposes law to keep Chinese boats, planes in check,
+October 26, 2022. Available in: 〈https://www.reuters.com/world/asia-pacific/p
+hilippine-legislator-proposes-law-keep-chinese-boats-planes-check-2022-10-26/〉.
+[21] Reuters, Chinese Ships Leave Vietnam Waters After Hanoi Protest, June 6, 2023.
+Available in: https://www.usnews.com/news/world/articles/2023-06-06/chineseships-leave-vietnam-waters-after-us-china-talks.
+[22] Y.C. Chang, Analysis of maritime law enforcement under the circumstances of
+jurisdiction transfer, Asia-Pac. Secur. Marit. Aff. 6 (2022) 49–50, https://doi.org/
+10.19780/j.cnki.ytaq.2022.6.3.
+[23] H. Grotius, The Freedom of the Seas, or, The Right Which Belongs to the Dutch to
+take part in the East Indian trade, The Lawbook Exchange, Ltd, 2001.
+[24] R.P. Pedrozo, Military activities in the exclusive economic zone: East Asia focus,
+Int. Law Stud. 90 (1) (2014) 15.
+[25] J.J. Gao, The meaning and scope of freedom of navigation — examination of
+tribunal practice under the United Nations convention on the law of the sea, Stud.
+Law Bus. 38 (1) (2021) 193.
+
+6. Conclusion
+Undoubtedly, whether based on international law or domestic laws,
+the fundamental navigational rights of various types of Chinese vessels
+in the SCS should be safeguarded. However, due to conflicts among
+regional States over sovereignty and maritime rights, these navigational
+rights are to some extent affected. Therefore, in the short term, Chinese
+vessels should adapt their navigation strategies to the current conflict
+situation in the SCS, ensuring compliance with the domestic laws of the
+interested States and international legal provisions. Looking ahead,
+regional States should also engage in various cooperative mechanisms to
+safeguard navigational rights. The cooperation can serve as a crucial
+starting point for the improvement of regional relations, thereby pro­
+moting more extensive and profound cooperation in the region over the
+long term.
+CRediT authorship contribution statement
+Ling Yang: Funding acquisition. Xingyi Duan: Writing – original
+draft. Yen-Chiang Chang: Writing – review & editing, Supervision.
+Declaration of Competing Interest
+This is a short statement to confirm that there is no conflict of interest
+for this piece of work. All authors agree with the terms and the name
+order that places in the paper.
+Data Availability
+No data was used for the research described in the article.
+
+63
+
+UNCLOS, Article 94 (6).
+11
+
+Y.-C. Chang et al.
+
+Marine Policy 165 (2024) 106229
+[51] Ministry of Commerce of the People’s Republic of China, Overview of Brunei
+Fisheries Development (in Chinese), April 3, 2007. Available in: 〈http://bn.
+mofcom.gov.cn/article/ztdy/200704/20070404527129.shtml〉.
+[52] V.A.M.F. Ventura, Sovereignty and Jurisdiction in the Law of the Sea.
+Environmental Jurisdiction in the Law of the Sea, Springer, Cham, 2020,
+pp. 85–108, https://doi.org/10.1007/978-3-030-50543-1_4.
+[53] The U.S., Office of Ocean Affairs, LIS No. 112 - United States (US) Responses to
+Excessive National Maritime Claims, (1992) 61.
+[54] A.D. Ton, Innocent passage of warships: international law and the practice of East
+Asian littoral states, Asia-Pac. J. Ocean Law Policy 1 (2) (2016) 210–243.
+[55] C. Bianco, et al., What is innocent? Freedom of navigation versus coastal states’
+rights in the law of the sea, Ocean Dev. Int. Law 54 (3) (2023) 349–374, https://
+doi.org/10.1080/00908320.2023.2267406.
+[56] G.R. Ballester, The right of innocent passage of warships: a debated issue, Rev. De.
+Derecho Puertorriqueño 54 (2014) 96.
+[57] J.G. Odom, FONOPs to preserve the right of innocent passage? Despite popular
+misconception, that is hardly mission impossible, Diplomat 2 (2016). 〈https://ssrn.
+com/abstract=2741238〉.
+[58] M. Ge, On the innocent passage of warships, Chin. J. Marit. Law 2 (2019) 32.
+[59] Q. Cao, Practice of air defense identification zones and the rules of customary
+international law, Mar. L. Pol. ’Y. 1 (2022) 96.
+[60] Z. Liu, X. Duan, The application of bilateral investment treaty in non-territorial
+waters: a study on the issue of the protection of sea-related investments,
+J. Shanghai Univ. Int. Bus. Econ. 272 (1) (2024) 94.
+[61] S. Mirski, The South China Sea Dispute: A Brief History, Foreign Relations &
+International Law, June 8 (2015) 2021. Available in: 〈https://huongduongtxd.co
+m/SCSdispute_history.pdf〉.
+[62] J.A. Cohen, Forecasting the Aftermath of a Ruling on China’ s Nine-Dash Line,
+Foreign Policy, 2016.
+[63] I.B. Kardon, China can say “no ”: analyzing china’s rejection of the South China Sea
+arbitration: toward a new era of international law with Chinese characteristics,
+Univ. Pa. Asian Law Rev. 13 (2018) 1.
+[64] K. Zou, China’s U-shaped line in the South China Sea revisited, Ocean Dev. Int. Law
+43 (1) (2012) 18–34.
+[65] Chinese Society of International Law, The South China Sea Arbitration Awards: A
+Critical Study, Chin. J. Int. Law 17 (2) (2018) 207–748, https://doi.org/10.1093/
+chinesejil/jmy012.
+[66] R. McLaughlin, The law of the sea and PRC gray-zone operations in the South
+China Sea, Am. J. Int. Law 116 (4) (2022) 821–835.
+[67] B.B. Jia, Historic Rights in International Law: Current State of the Law and Two
+Issues, Chinese Yearbook of International Law, 2019, pp. 30–63.
+[68] R.E. Fife, Obligations of ‘due regard’ in the exclusive economic zone: their context,
+purpose and state practice, Int. J. Mar. Coast. Law 34 (1) (2019) 43–55.
+[69] China officially insists the principle of due regard when taking any maritime
+activities in the South China Sea. Available in: 〈https://www.un.org/Depts/los/
+clcs_new/submissions_files/mys_12_12_2019/20210816ChnNvUNch.pdf〉.
+[70] K. Załucki, Extraterritorial jurisdiction in international law, Int. Community Law
+Rev. 17 (4-5) (2015) 403–412, https://doi.org/10.1163/18719732-12341312.
+[71] F. Zhang, Assessing China’s response to the South China Sea arbitration ruling,
+Aust. J. Int. Aff. 71 (4) (2017) 440–459.
+[72] Y.C. Chang, S.R. Xin, X. Zhang, A proposal for joint marine scientific research
+activities in the disputed maritime areas of the South China Sea, Coast. Manag. 50
+(3) (2022) 215–236.
+[73] D. Guilfoyle, E.S.Y. Chan, Lawships or warships? Coast guards as agents of (in)
+stability in the Pacific and South and East China Sea, Mar. Policy 140 (2022)
+105048.
+[74] H. Zhang, S. Bateman, Fishing militia, the securitization of fishery and the South
+China Sea dispute, Contemp. Southeast Asia 39 (2) (2017) 288–314.
+[75] P.F. Matthew, H. Brian, P.R. Aidan, Surveying the Seas–China’s Dual-Use Research
+Operations In the Indian Ocean, Cent. Strateg. Int. Stud. (2024).
+[76] K. Furuya, Law enforcement measures against Chinese maritime militia, Int. Law
+Stud. 100 (1) (2023) 20.
+[77] J. Ma, Conflict and coordination of national jurisdiction for navigation safety in the
+South China Sea, Soc. Sci. J. 6 (2016) 46–53.
+[78] M. Zhang, Cooperative rescue in the South China Sea: experience and
+enlightenment, N. Orient 1 (2011) 32–36, https://doi.org/10.3969/j.issn.1004700X.2011.01.006.
+[79] Y. Sun, et al., The construction and governance of regional maritime security order
+in the South China Sea: conference report, Mar. Policy 126 (2021) 104438.
+
+[26] P. Tzeng, Supplemental jurisdiction under UNCLOS, Houst. J. Int. Law 38 (2016)
+499–535.
+[27] I. Parlov, Coastal state jurisdiction over ships in need of assistance, maritime
+casualties and shipwrecks. Coastal State Jurisdiction over Shipwrecks, 8, Brill
+Nijhoff, 2022, pp. 239–294, 10.1163/9789004515079_009.
+[28] International Convention for the Safety of Life at Sea (SOLAS), 1974. IMO.
+Available in: 〈https://www.imo.org/en/About/Conventions/Pages/Internation
+al-Convention-for-the-Safety-of-Life-at-Sea-(SOLAS),-1974.aspx〉.
+[29] J. Huang (Jeanne), J.X. Hu, Can free trade agreements enhance MARPOL 73/78
+compliance? Tulane Marit. Law J. 43 (2018) 59–89.
+[30] IMO, IMO and the safety of navigation, January 1998. Available in: 〈https://www
+cdn.imo.org/localresources/en/OurWork/Safety/Documents/SAFETYOFNAVIGAT
+ION21998final.pdf〉.
+[31] STCW Manila Amendments and updated training, Warsash Maritime School.
+Available in: 〈https://maritime.solent.ac.uk/maritime-industry/stcw-manila-amen
+dments〉.
+[32] H. Zhang, Q.W. Wang, Maritime safety management of foreign vessels in China:
+new institutional developments and potential implications, Ocean Coast. Manag.
+218 (2022) 106023, https://doi.org/10.1016/j.ocecoaman.2021.106023.
+[33] J. Crawford, Brownlie’s Principles of Public International Law, 9th Edition, Oxford
+University Press, 2019, p. 447.
+[34] A.E. Utton, Protective measures and the torrey canyon, Boston Coll. Ind. Commer.
+Law Rev. 9 (1967) 613.
+[35] C.C. Emanuelli, The right of intervention of coastal states on the high seas in cases
+of pollution casualites, Univ. N. Brunsw. Law J. 25 (1976) 79–81.
+[36] J. Zhang, Judicial Approach of Extraterritorial Application, in: Public Law in the
+United States, 19, Nanjing University Law Journal, 2023, p. 133.
+[37] Z. Gao, Z. Liu, Extraterritorial Application of China s Marine Environmental
+Protection Laws: International Practices, Major Issues, and Feasible Suggestions,
+Chinese Journal of Maritime Law, 2024. 〈https://link.cnki.net/urlid/21.1584.
+d.20231228.0014.002〉.
+[38] N.L. Dobson, C. Ryngaert, Provocative climate protection: EU ’extraterritorial’
+regulation of maritime emissions, Int. Comp. Law Q. 66 (2) (2017) 295–333.
+[39] J. Kolasa, Unilateral acts of a state in the process of forming customary
+international law, Wroclaw Rev. Law, Adm. Econ. 8 (2) (2018) 59–71.
+[40] S. Li, Unilateral actions in the development of the law of the sea, Mar. Policy 153
+(2023) 105658.
+[41] S.P. Liao, Administrative law enforcement from the perspective of extraterritorial
+applicable law system of China, Adm. Law Rev. 2 (2023) 55–67.
+[42] IMO, A maritime treaty is adopted or amended – what happens next? International
+treaties can only become law when implemented into national legislation, Sep. 28,
+2017. Available in: 〈https://www.imo.org/en/MediaCentre/PressBriefings/Page
+s/24-legal-workshop.aspx#:~:text=%E2%80%8BIMO%20treaties%20are%20not,
+(IMO)%20are%20well%20known〉.
+[43] United Nations Open-ended Informal Consultative Process on Oceans and the Law
+of the Sea (ICP), 10th session, 〈https://www.un.org/depts/los/consultative_pr
+ocess/documents/10_A.Blanco-Bazan.pdf〉.
+[44] China Daily, 2023 edition of national map released, Aug. 28th, 2023. Available in:
+〈https://www.chinadaily.com.cn/a/202308/28/WS64ec91c2a31035260b81ea5b.
+html〉.
+[45] Global Voice, The Chinese 2023 map has nothing new, But why are China’ s
+neighbours mad about it?, Sep. 5th, 2023. Available in: 〈https://globalvoices.org
+/2023/09/05/the-chinese-2023-map-has-nothing-new-but-why-are-chinas-ne
+ighbours-mad-about-it/〉.
+[46] M.F.A. Quintos, The Philippines: hedging in a post-arbitration South China Sea?
+Asian Polit. Policy 10 (2) (2018) 261–282.
+[47] A. Waddell, Domestic Challenges and International Policy of Vietnam and China in
+the South China Sea Dispute, PhD Diss., UNSW Sydney, (2020). Available in: 〈htt
+ps://doi.org/10.26190/unsworks/22179〉.
+[48] Aljazeera, Malaysia rejects new China map claiming entire South China Sea, Aug.
+31th, 2023. Available in: 〈https://www.aljazeera.com/news/2023/8/31/malaysia
+-rejects-new-china-map-claiming-entire-south-china-sea〉.
+[49] United States Department of State, Bureau of Oceans and International
+Environmental and Scientific Affairs, Limits in the Seas, No. 141 Indonesia:
+Archipelagic and other Maritime Claims and Boundaries, 141 (2014) 5. Available
+in: 〈https://www.state.gov/wp-content/uploads/2020/02/LIS-141.pdf〉.
+[50] High Commission of Brunei Darussalam in Australia, Business in Brunei, QUICK
+FACTS ON BRUNEI DARUSSALAM. Available in: 〈https://www.mfa.gov.bn/aus
+tralia-canberra/SitePages/businessinbrunei.aspx〉.
+
+12
+
+

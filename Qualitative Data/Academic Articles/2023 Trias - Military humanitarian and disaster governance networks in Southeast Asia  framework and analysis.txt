@@ -1,0 +1,1928 @@
+doi:10.1111/disa.12542
+
+Military humanitarian and disaster
+governance networks in Southeast Asia:
+framework and analysis
+Angelo Paolo L. Trias Associate Research Fellow, S. Rajaratnam School of
+International Studies, Nanyang Technological University, Singapore, and
+Alistair D.B. Cook Senior Fellow and Coordinator, Humanitarian Assistance and
+Disaster Relief Programme, Centre for Non-Traditional Security Studies, S. Rajaratnam
+School of International Studies, Nanyang Technological University, Singapore
+
+Behind humanitarian assistance and disaster relief (HADR) efforts are governance networks
+of actors working together to facilitate, coordinate, and deliver joint aid and response initiatives.
+Militaries are key stakeholders in these networks because of their unique capabilities, particularly
+in Southeast Asia. This paper explores the role of military governance networks in shaping
+HADR affairs. It presents a framework for examining military-to-military relational structures
+in humanitarian and disaster contexts using network theory and social network analysis. It also
+assesses the nature of military ties and their influence on two capability areas essential to humanitarian activities in the region: (i) the distribution of military assets and equipment used in HADR;
+and (ii) the coordination of HADR exercises and training. This paper seeks to provide insights
+into how governance network features and properties affect the capacity of ASEAN (Association of Southeast Asian Nations) militaries to use available resources efficiently and to achieve
+shared objectives in regional disaster response.
+Keywords: Association of Southeast Asian Nations (ASEAN), disaster relief,
+governance, humanitarian assistance, military, network, Southeast Asia
+
+Introduction
+Challenges in regional humanitarian and disaster governance efforts
+Southeast Asia is one of the most disaster-prone parts of the world due to its physical
+location and geographical features (Shi et al., 2015; UNOCHA, 2016). Widespread
+and recurring disaster-related damage and losses continue to impede socioeconomic
+development gains and threaten the human security of states and communities in this
+geographical area (Uitto and Shaw, 2016; CRED and UNDRR, 2020). The 10
+Member States of the Association of Southeast Asian Nations (ASEAN) remain committed to developing strategies and institutions in order to create a more secure and
+resilient region; there is a consensus that they can accomplish more together (ASEAN,
+2016b; Rum, 2016). The Member States are Brunei Darussalam, Cambodia, Indonesia, Laos, Malaysia, Myanmar, the Philippines, Singapore, Thailand, and Vietnam
+(ASEAN, 2008).
+Disasters, 2023, 47(1): 205−241. © 2022 The Authors Disasters © 2022 ODI
+
+Angelo Paolo L. Trias and Alistair D.B. Cook
+
+ASEAN is an intergovernmental regional grouping, established, on 8 August 1967,
+to promote sociocultural, economic, political, and security cooperation among its
+Member States (ASEAN, 2020). One of its milestones is the ratification of the ASEAN
+Agreement on Disaster Management and Emergency Response (AADMER) in 2009
+(Ferris and Pentz, 2013). The AADMER is the world’s first legally-binding regional
+treaty on disaster management cooperation that provides the framework and arrangements for coordinating humanitarian assistance and facilitating joint disaster relief
+efforts in Southeast Asia (Cook, 2018; Simm, 2018; Center for Excellence in Disaster
+Management and Humanitarian Assistance, 2019). Through the AADMER, and
+amidst other competing regional priorities, humanitarian assistance and disaster management efforts receive dedicated and ongoing political, financial, and administrative support (ASEAN, 2006). Sustained progress and the continuous investment of
+ASEAN Member States in humanitarian assistance and disaster management efforts
+led to a growing preference for nationally-led, regionally-supported, and internationalas-necessary disaster governance models (ASEAN, 2016c; Cook and Chen, 2019,
+p. 23). The AADMER also set forth a grander ‘one ASEAN, one response’ vision to
+move towards faster and collective responses to disasters inside and outside the region
+(ASEAN, 2016a).
+There are, however, two key challenges that can undermine regional humanitarian
+and disaster governance efforts. The first pertains to the increasing uncertainty of
+disasters in our new climate reality that can overwhelm national capacities and worsen
+regional transboundary effects (Hore et al., 2017; Glasser, 2020). It also appears that
+the changing climate is contributing to the tightening of linkages between different
+hazards, amplifying risks and generating new ones, and facilitating cascading or
+compounding disasters (Hallegatte, 2014; Cradock-Henry et al., 2020). Regional
+organisations, such as ASEAN, that play an intermediary role between global cooperation and national sovereignty are well positioned to respond constructively and
+creatively to evolving risks at different governance levels (Hollis, 2015; O’Donnell,
+2017; Cook and Chen, 2022). ASEAN will have to invest continuously in enhancing
+mechanisms and strengthening regional cooperation vital to preparing for potentially
+more extreme hazards and simultaneous disaster impacts in the region (Fetzek,
+Fleishman, and Rezzonico, 2021). The prospect of more extreme hazards and simultaneous disasters has implications for militaries in the wider Asia-Pacific, both as
+first responders and as contributors to climate change. This is increasingly shaping
+security narratives, including military strategy (Bateman and Bergin, 2020; Jayaram,
+2021; Kameyama and Ono, 2021).
+ASEAN militaries have considerable influence, even control, over the structure and
+culture of civilian national disaster management organisations (NDMOs). Several
+civilian NDMOs in the region are often headed by former, even active, defence
+officials, and their organisational practices are partly, if not predominantly, military
+(Malešič, 2015). The military’s role in humanitarian and disaster governance in
+Indonesia, for example, continues to expand. Military officers were assigned to lead
+the national and local response to the Central Sulawesi earthquake and tsunami on
+
+14677717, 2023, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/disa.12542 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+206
+
+28 September 2018, not civilian NDMO staff (AHA Centre, 2018a). The military’s
+operational command of the airbridges to affected sites meant that access, coverage, and prioritisation of aid and relief efforts were also under its control (Trias and
+Cook, 2021). A few months later, on 8 January 2019, Presidential Regulation No.1/2019
+was signed, concerning the National Disaster Management Agency, and from then on,
+members of the Indonesian National Armed Forces and National Police were legally
+permitted to hold the position of Head of the NDMO (President of the Republic of
+Indonesia, 2019).
+The militarisation of humanitarian and disaster governance is reflected at the
+regional level. The ASEAN Coordinating Centre for Humanitarian Assistance on
+disaster management (AHA Centre), responsible for facilitating cooperation and coordination of disaster management within the union, is governed by the NDMO of
+Member States (AHA Centre, 2022). Therefore, operationalising the AHA Centre’s
+mandate requires the support of the armed forces given their influence and control
+over several NDMOs, and is subsequently shaped by political-security factors. The
+activities of the AHA Centre cannot be considered as strictly neutral and impartial
+given the embeddedness and active participation of militaries in ASEAN response.
+For instance, the ASEAN Standard Operating Procedure for Regional Standby
+Arrangements and Coordination of Joint Disaster Relief and Emergency Response
+Operations (SASOP) relies on military assets (AHA Centre, 2018b). A key satellite
+warehouse of the Disaster Emergency Logistics System for ASEAN (DELSA) is inside
+a military camp (Embassy of Japan in the Philippines, 2019). When the AHA Centre
+assisted during the Siege of Marawi in 2017, it fully adhered to the strict guidelines,
+priority items, and limited access set by the Government of the Philippines through
+its Armed Forces—the assistance was not mainly driven by the needs expressed by
+the affected communities (Trias and Gong, 2020).
+These governance challenges are likely to extend to climate security-related activities owing to mounting interest and the future engagement of the military due to
+the geopolitical and security implications (Smith, 2011; Reppert, 2021). The main
+concerns are not whether disaster relief is optimal under military leadership or
+whether humanitarian assistance can be neutral and impartial when militaries are
+involved. Rather, a deeper understanding of the different ways and the extent to
+which more authoritative, centralised, and top-down approaches that characterise
+military operations may stifle or overpower inclusive, decentralised, and participatory methods adopted by civilians is more important because risk reduction and
+disaster management require a whole-of-society effort and diverse solutions. Military
+response, although beneficial in the immediate term, does not necessarily strengthen
+local capacities and meet the longer-term needs of disaster-affected populations
+(Clifford, 2021).
+At least in Southeast Asia, military engagement in humanitarian assistance and
+disaster relief (HADR) will continue, and there are no signs that indicate otherwise.
+What is needed is a reassessment of four areas: (i) balancing of the dual-function
+doctrine of the military; (ii) dependencies of civilian institutions on the military;
+
+207
+
+14677717, 2023, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/disa.12542 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Military humanitarian and disaster governance networks in Southeast Asia
+
+Angelo Paolo L. Trias and Alistair D.B. Cook
+
+(iii) laws to regulate military involvement in policy implementation; (iv) and frameworks to oversee military engagement in civilian affairs in risk and disaster contexts
+(Sebastian, Syailendra, and Indrabayu, 2018).
+The second key challenge that can also undermine regional humanitarian and disaster governance efforts, and which is the focus of this paper, is the increasing plurality
+of actors engaged in humanitarian and disaster-related affairs ( Jones, Manyena, and
+Walsh, 2015; Duda, Kelman, and Glick, 2020). Disaster risk reduction and management require the participation of multiple actors—operating at different spatial scales
+and in different jurisdictions and sectors—because it is a complex societal problem
+that cannot be addressed by hierarchical decision-making and linear policymaking
+processes only (Raschky, 2008).
+The various interactions of different stakeholders present more opportunities for
+building partnerships and collective action. But they also produce many competing
+interests that contradict inclusive and participatory approaches that make humanitarian and disaster management activities more relevant and sustainable (Trias, Lassa,
+and Surjan, 2019; Clark-Ginsberg, 2020). Regional organisations such as ASEAN not
+only represent networks of diverse affinities and connections, but they also ‘reflect
+a wider range of shared risks’ (O’Donnell, 2017, p. 328). Regional organisations need
+to continue learning more about the humanitarian and disaster governance networks
+of which they are part and surrounded by so that they can utilise them effectively and
+better serve at-risk and disaster-affected populations.
+Humanitarian and disaster governance networks:
+focus on the military and HADR
+A diverse and vast network of actors, including governments, multilateral bodies,
+non-governmental organisations (NGOs), faith groups, local communities, and academia, co-govern humanitarian aid and disaster management efforts (Lassa, 2011).
+Militaries are vital to this network due to their unique capabilities—for instance,
+having the equipment and skills to conduct strategic airlifts quickly, such as the
+Lockheed C-130 Hercules turboprop aircraft that can operate in hard-to-reach and
+chaotic disaster contexts (Ferris, 2012). This was glaringly evident by the number
+of foreign actors and military assets deployed following Typhoon Haiyan in 2013
+and the Central Sulawesi earthquake and tsunami in 2018 (UNOCHA, 2013; AHA
+Centre and UN OCHA, 2018). However, research on how defence forces connect
+and interact among themselves and with other network actors is limited, creating a
+gap in public understanding and oversight of military engagement in humanitarian
+and disaster affairs.
+Humanitarian and disaster governance networks have economic, social, and political dimensions (Tierney, 2012; Barnett, 2013). The effectiveness of these networks
+largely depends on the capacity of actors to cooperate with each other to enable,
+coordinate, and implement the overall assistance and response to disasters at different
+scales and levels of society (Forino, Bonati, and Calandra, 2018). Poor governance and
+
+14677717, 2023, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/disa.12542 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+208
+
+institutional failures resulting from a lack of cooperation among stakeholders are
+primary drivers of risk and susceptibility to disasters (Ahrens and Rudolph, 2006).
+The economic features of governance networks revolve around resource dependencies among actors and the controlled exchange of assets and supplies needed for aid
+and relief efforts (Pfeffer and Salancik, 1978; Jackson, 2010). Social aspects of governance networks include cultural affinities and shared traits that facilitate or limit
+associations and cooperation between actors (Tajfel and Turner, 1986; Melo Zurita
+et al., 2015). The political dimensions of governance networks centre on power and
+influence and their application to coerce or persuade other actors what, how, and
+why to prioritise certain humanitarian and disaster activities over the rest (Parsons,
+1963; Kahler, 2009).
+Similarly, the different militaries planning and conducting HADR missions are
+linked together by a complex web of relationships. HADR is a military construct
+widely used in the defence and security sector—it is not a humanitarian concept or
+a disaster management term. HADR activities assist with saving lives, alleviating
+suffering, and maintaining public safety. But it is essentially a military mission driven
+by other factors such as defence capabilities, security alliances, domestic politics, and
+foreign policy (Yates and Bergin, 2011; Canyon, Ryan, and Burkle, Jr., 2020). One
+should note that we use ‘military humanitarian and disaster governance networks’
+and ‘military HADR networks’ interchangeably in this paper.
+The military deployments to support aid efforts around the world are increasing
+despite several guidelines advising the use of defence forces only as a matter of last
+resort (UNOCHA, 2007; APC-MADRO, 2014). The growing use of militaries
+results from the widening gap between the affected populations’ needs and resource
+demands, and civilian capacity to meet both in rapid onset and large-scale emergencies and disasters (Hofmann and Hudson, 2009; Canyon, Ryan, and Burkle, Jr.,
+2017). Militaries continue to be the primary responders of ASEAN Member States
+during crises and calamities and are among the first to be mobilised when Southeast
+Asian governments send or receive HADR missions (Ear, Cook, and Canyon, 2017;
+ROAP, UN OCHA, 2018).
+The centrality of Southeast Asian militaries means that efforts seeking to improve
+regional humanitarian and disaster governance cannot fully succeed without military
+cooperation. This requires an understanding of the HADR governance networks of
+which they are part and the nature of their ties in emergency and disaster settings.
+There is, however, a shortage of studies outside of military institutions that offer
+such insights. Most HADR reports by military institutions focus on a single or a few
+militaries only, such as those published by the Center for Excellence in Disaster Management and Humanitarian Assistance (2022) about foreign missions of the United
+States and partner militaries. Non-military organisations such as the United Nations
+Office for the Coordination of Humanitarian Affairs share data on the foreign military assets involved in a response, usually in an infographic (UNOCHA, 2013; AHA
+Centre and UNOCHA, 2018). But nothing beyond that can help map the military
+HADR network in Southeast Asia.
+
+209
+
+14677717, 2023, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/disa.12542 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Military humanitarian and disaster governance networks in Southeast Asia
+
+Angelo Paolo L. Trias and Alistair D.B. Cook
+
+Most military involvement in HADR mainly occurs in three areas: emergency
+preparedness; emergency response; and assisting in the transition to recovery (Gaydos
+and Luz, 1994; Caballero-Anthony, Cook, and Chen, 2021). This engagement is
+captured in the Asia-Pacific Regional Guidelines for the Use of Foreign Military Assets in
+Natural Disaster Response Operations (APC-MADRO, 2014). This paper explores military HADR networks in Southeast Asia using network theory and social network
+analysis (SNA). It investigates two military activities used to build and strengthen
+relations that are critical to enhancing HADR cooperation. One is supplying or
+transferring HADR-related assets and equipment, as well as the support to operate
+and maintain them. The other is conducting or participating in HADR exercises and
+training to enhance confidence-building (trust) and interoperability.
+The paper aims to offer insights into the ways in which military governance networks shape HADR by asking who is supplying what to whom and who is participating with whom in what. It examines the ties (i) between ASEAN militaries, their
+HADR assets and equipment, and the militaries providing it, and (ii) between ASEAN
+militaries, the HADR exercises and training they conduct or participate in, and the
+militaries that host or coordinate such exercises and training. It seeks to widen our
+understanding of the structure and dynamics of military HADR governance networks
+in Southeast Asia in particular and provide a basis to assess the larger humanitarian
+and disaster governance landscape in general.
+The study attempts to address two main questions. The first is: how does the
+distribution of military HADR assets and equipment affect the capacity of ASEAN
+militaries to equip themselves sufficiently and mobilise for a regional response? Here
+we consider the resource dependencies and supply directions that can facilitate or
+limit the use of equipment and interoperability in aid and relief efforts. The second
+question is: how does participation in military HADR exercises and training affect
+the capacity of ASEAN militaries to prepare adequately and participate in a regional
+response. We consider close associations, cultural affinities, and shared traits that can
+influence the organisation of HADR cooperation and mould regional HADR objectives. How militaries interact in HADR activities and in the relationships that arise
+from them can indicate how well they can cooperate in actual HADR missions.
+Military HADR cooperation requires confidence-building and the ability to work
+in conjunction—both of which are formed and nurtured through pre-existing relationships before a regional response. Answering these two questions can generate
+knowledge about the ways certain military activities contribute to developing trust
+and enabling interoperability for regional HADR cooperation. Such knowledge can
+provide a better understanding of how to improve the governance of HADR networks
+for the benefit of at-risk and affected communities.
+This paper focuses on exercises and training because the effectiveness of and cooperation in HADR missions, like other forms of disaster response, depend on the
+levels of emergency preparedness among the actors involved and trust among them
+(Tan, 2012). Exercises and training help strengthen emergency preparedness because
+they offer participating militaries the opportunity to test contingency plans together,
+
+14677717, 2023, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/disa.12542 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+210
+
+familiarise themselves with each other’s concept of operations, and observe how partner militaries use their assets (Puckett, 2021). These activities establish what militaries call ‘interoperability’, the ability of military equipment or groups to operate
+in conjunction.
+Exercises and training also assist in confidence-building. The seeds of cooperation,
+especially in response contexts, are planted much earlier. Pre-existing relationships
+or social ties formed during ‘peacetime’ facilitate cooperation during a response.
+Trust among responders is nurtured through shared experiences before disasters, such
+as participating in exercises and training (Cook, 2018). It is essential, therefore, to
+study the networked interaction of militaries through their participation in exercises
+and training. The extent to which defence forces can use available resources efficiently
+and achieve shared objectives in regional disaster response depends on the levels of
+interoperability and trust—both of which are developed by participating in exercises
+and training (RCG, 2017; Spandler, 2022).
+Similarly, the distribution of military assets used in HADR is also an indicator
+of trust and interoperability. Several military assets are dispatched during HADR
+missions. But they are primarily designed for combat operations. A given military
+will not supply or donate military assets to another military unless their defence
+agenda and security interests are aligned, or at the very least support each other. A
+commonality in military equipment has some disadvantages, such as restricting innovation in design or affecting operational capability because of forced design compromises (Held, Newsome, and Lewis, 2011). However, commonality of military
+equipment can also increase operational flexibility and reduce procurement and
+logistical burden (Held, Newsome, and Lewis, 2011). Such factors can enhance the
+interoperability of partner militaries in foreign missions, including HADR.
+Analysing humanitarian and disaster governance networks
+A network is a structure of interconnected people or things that relate to or transact with each other to fulfil objectives and gain advantages by operating as a whole
+(Barabási, 2002; Newman, 2010). It has three main components: nodes representing
+social or physical entities; the links referring to the ties and associations of nodes;
+and an overall structure that emerges from how the nodes are connected (Newman,
+Barabási, and Watts, 2006; McCulloh, Armstrong, and Johnson, 2013). Network
+theory offers frameworks, methods, and tools to view, interpret, and study the webs
+of relationships behind many complex political, social, and economic systems that we
+are part of and depend on (Lewis, 2009; Barabási, 2016).
+The basis of network thinking was introduced together with graph theory in
+mathematics back in the 1730s (Biggs, Lloyd, and Wilson, 1986). But it was only
+during the 1930s that a systematic approach to the study of networks emerged in the
+field of sociology (Freeman, 2004). Soon after recognising the ubiquity of networks
+and the value of understanding them, various disciplines started to contribute to
+developing the science of networks (Biagini, Kauermann, and Meyer-Brandis, 2019).
+
+211
+
+14677717, 2023, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/disa.12542 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Military humanitarian and disaster governance networks in Southeast Asia
+
+Angelo Paolo L. Trias and Alistair D.B. Cook
+
+Following the advent of computational advancements in the 1970s and increased
+access to large datasets in the 1990s, network science eventually became a distinct
+and separate discipline at the turn of the twenty-first century (National Research
+Council, 2005).
+SNA applies network science to explore social processes and phenomena such as
+the spread of behaviours, diffusion of practices, and organisation of groups (Scott,
+1991; Christakis and Fowler, 2009). The basic assumptions of SNA are: (i) all social
+actors and their activities are interconnected; (ii) social actors and their ties shape
+how their social environment functions; and (iii) the social environment, in turn,
+influences how the social actors behave (Wasserman and Faust, 1994; Kadushin, 2012).
+The idea behind using SNA is that a better understanding of the structure and
+dynamics of social networks can enable us to maximise their utility, such as creating
+common ground for interaction or reducing their unwanted effects like blocking the
+transfer of negative sentiments (Scott and Carrington, 2011; Borgatti, Everett, and
+Johnson, 2013).
+SNA in humanitarian and disaster studies started to pick up in the 2000s, and the
+literature continues to grow. The use of social network paradigms and ideas to
+unpack humanitarian issues is not new (Stephenson, Jr., 2006; Seybolt, 2009). But
+humanitarian research that applies SNA seems to focus on two themes: (i) information exchange and inter-organisational coordination in humanitarian assistance; and
+(ii) increased efficiency and operational performance of humanitarian logistics (Moore,
+Eng, and Daniel, 2003; Ngamassi, Maitland, and Tapia, 2014; Tacheva and Simpson,
+2019). Work that engages with other areas of humanitarian action, such as protection and advocacy, receives less attention (Hajiheydari, Salehi, and Goudarzi, 2018;
+Cachia and Ramos, 2020). SNA in disaster studies is quite developed, more so than
+in humanitarian studies. SNA applies across different phases of the disaster lifecycle
+and governance levels of disaster practices, including at the individual, community,
+and national level ( Jones and Faas, 2017; Du et al., 2020).
+However, we observe that there is limited SNA-related humanitarian and disasterrelated research that examines these three elements together: inter-organisational
+networks; at the regional level; and focusing on military cooperation. This is a
+critical gap because humanitarian and disaster-related efforts are complex and huge
+undertakings that require not only the participation of one or a few organisations,
+but also often involve groups of different kinds of organisations working together.
+Previous studies demonstrate that complex connections and interactions of various
+organisations exist in pre-disaster, during disaster, and post-disaster contexts (Kapucu,
+Arslan, and Collins, 2010; Lassa, 2015; McCann et al., 2016).
+Humanitarian and disaster SNA studies at the regional level are few and far between
+—another significant research gap. Regional institutions, the intermediaries between
+global cooperation and national sovereignty, offer pathways and alternatives to collaborative and innovative responses to crises and risks. For example, ASEAN convinced the Government of Myanmar to open up to the international community
+and proactively managed foreign assistance during the response to Cyclone Nargis in
+
+14677717, 2023, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/disa.12542 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+212
+
+Figure 1. Proposed analytical framework
+
+Source: authors.
+
+14677717, 2023, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/disa.12542 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+213
+Military humanitarian and disaster governance networks in Southeast Asia
+
+Angelo Paolo L. Trias and Alistair D.B. Cook
+
+2008 (Creach and Fan, 2008; Cook, 2010). Recently, in 2018, the AHA Centre was
+assigned for the first time by a Member State, instead of by the United Nations as
+a body, to facilitate and coordinate international and non-governmental offers of
+assistance during the response to the Central Sulawesi earthquake and tsunami (Trias
+and Cook, 2021). The assignment of the ASEAN coordinating centre came at a time
+when Indonesia was dealing with simultaneous disasters requiring overlapping
+responses. But the experience also highlighted ASEAN’s aspiration to collectively
+respond with speed, scale, and solidarity to disasters in the region (AHA Centre,
+2017). More network analysis at the regional level, similar to that conducted by Bisri,
+Suma, and Malole (2019), is needed to gain a deeper understanding of the evolving
+role and operational limitations of the regional group as it strives towards a ‘one
+ASEAN, one response’ model.
+The centrality of Southeast Asian militaries in humanitarian and disaster governance means that efforts to improve regional aid and relief endeavours cannot fully
+succeed without military cooperation. Cooperating with militaries requires an understanding of the social networks and the nature of their ties in humanitarian and
+disaster contexts. But it appears that a relatively low proportion of SNA-related
+humanitarian and disaster research centres on military-to-military cooperation.
+HADR networks of militaries are understudied, and publicly available research tends
+to explore the military’s role at the national and local level, not at the regional and
+international level (Zaw and Lim, 2017; Azhar, Malik, and Muzaffar, 2019). Studies
+on the networks behind civil-military relations in humanitarian and disaster contexts are not that many either, mostly focusing on ways to improve the interface in
+similar functional areas like command and control and logistics, rather than on ways
+in which the actors interact and the relational patterns that emerge (Tatham and
+Rietjens, 2015; Wolbers, 2016). We propose a framework for analysing regional
+military HADR governance networks as a contribution to ongoing efforts to narrow
+the said research lacunae (see Figure 1 above).
+
+Methods and tools
+This research follows a six-step exploratory SNA process utilised by researchers who
+studied disaster risk governance networks in the Asia-Pacific (Trias, Lassa, and Surjan,
+2019). The six steps are data selection, collection, preparation, conversion, network
+analysis, and network visualisation and exploration.
+Data selection and collection
+We gathered our research data from Jane’s Sentinel Security Assessments. Janes is a global
+agency for open-source intelligence, specialising in military equipment and capabilities, defence industry and markets, and country risk and threat appraisals relevant to
+national security (Janes, 2022c). It provides timely and verified information to government agencies, national militaries, defence manufacturers, and security companies
+
+14677717, 2023, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/disa.12542 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+214
+
+to help them make insightful decisions. We selected Janes for our research because
+it has one of the most comprehensive and updated military capabilities and equipment inventory databases, covering 190 countries (Janes, 2022b). Using Janes allowed
+us to gather unclassified profiles and standardised assessments of ASEAN Member
+State militaries and to compare similar data needed for our research with one another
+( Janes, 2022a).
+Jane’s Sentinel Security Assessments, in particular, contain independent analysis of
+military structure, administration, assets, and capabilities (Jane’s by IHS Markit, 2019).
+They offer unclassified and structured data and evaluations of national military deployments, tasks, operations, training areas, military exercises, core assets, equipment-inservice, and partner militaries. They supply data on what military assets are procured,
+supplied, or donated for HADR, as well as information on HADR exercises and
+training that militaries attend, coordinate, or host.
+Jane’s Sentinel Security Assessments do not provide structured information specifically on military cooperation in humanitarian and disasters contexts. Therefore, there
+are missing attributes in the data, such as who reached out to whom first, indicating
+the direction of the social tie. But the data are sufficient for the research because
+this study only focuses on whether militaries interact with each other vis-à-vis the
+HADR activities that we are interested in examining and how frequently they do so
+—an emphasis on the strength of their social ties.
+Jane’s Sentinel Security Assessments of the militaries of the 10 ASEAN Member States
+—Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, the Philippines, Singapore,
+Thailand, and Vietnam—were gathered online between November 2018 and January
+2019. There are three security assessments for each Member State: one for their army;
+one for their navy; and one for their air force. Relevant data from 30 Jane’s Sentinel
+Security Assessments were reviewed and included in this research in total (10 ASEAN
+Member States multiplied by three assessments each, one for each military branch).
+We used convenience and purposive sampling strategies, and purposefully selected
+Jane’s Sentinel Security Assessments of ASEAN Member State militaries only because
+they are our research focus. Although we examine their HADR partnerships with
+other foreign defence forces in the region, we do so based on their HADR-related
+social ties to ASEAN Member State militaries only.
+Data preparation and conversion
+We cleaned the raw data before coding it into frequency tables and node–link (affiliation) lists using Microsoft Excel spreadsheets. Cleaning entailed, for instance, merging
+duplicates and creating standardised names for the entries. Coding involved sorting
+and categorising data to facilitate analysis.
+To filter out the data relevant to military HADR cooperation in Southeast Asia,
+we reviewed the Jane’s Sentinel Security Assessments of the three military branches of
+each ASEAN Member State. The result is a consolidation of two sets of information:
+HADR assets and equipment; and HADR exercises and training. The following
+
+215
+
+14677717, 2023, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/disa.12542 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Military humanitarian and disaster governance networks in Southeast Asia
+
+Angelo Paolo L. Trias and Alistair D.B. Cook
+
+Table 1. Nodes and links list (affiliation list)
+Column A
+
+Column B
+
+Column C
+
+Node (actor)
+
+Links (connections and interactions)
+
+Node (actor)
+
+ASEAN Member State
+militaries
+
+ Assets and equipment they utilise for HADR 
+
+Partner militaries supplying or
+donating the assets
+
+ASEAN Member State
+militaries
+
+ HADR exercises and training they participate in 
+
+Partner militaries coordinating the
+activities/co-hosting the event
+
+Source: authors.
+
+keywords aided the search for research data: humanitarian; disaster; assistance; relief;
+HADR; search; and rescue. Then, we coded them into node–link lists, a format that
+an SNA software can read and process (see Table 1).
+For example, when we saw a report of a joint exercise between the Philippines and
+the United States military that had a HADR element, we recorded it. Similarly, we
+documented the military assets used by the Armed Forces of the Philippines for HADR
+missions, such as the C-130. We coded the following data in this manner: the Philippines (AESAN Member State military/coordinator or host)  Balikatan (exercise
+with HADR component)  the US (partner military), and the Philippines (ASEAN
+Member State military/user)  C130 (a military asset used in HADR missions) 
+the US (partner military/source). The result is a node–link list (affiliation list) that
+indicates: (i) who is supplying or donating what HADR assets and equipment to
+whom; and (ii) who is participating with whom in what HADR exercise and training.
+Data network analysis and network visualisation and exploration
+Gephi 0.9.2 software was used to run standard SNA metrics and to produce and navigate graphs representing networks (Bastian, Heymann, and Jacomy, 2009). First, we
+analysed the raw data using descriptive statistics to identify interesting patterns and
+points for network analysis. Next, we examined the macro features of the network
+structure and the micro properties of its nodes and links. (Table 2 provides a summary
+of the SNA metrics and guiding questions used in our research.) Lastly, we explored
+network visualisations to reveal context and spot details about the network that can be
+overlooked when using only aggregated and static numerical measures and graphs.
+
+Results and findings
+Overview of the data
+This research reviews 30 Jane’s Sentinel Security Assessments—one profile per military
+branch of 10 ASEAN Member States. Our keywords tag more than 40 foreign militaries involved in regional HADR efforts (see Figure 2a). It appears that only a few
+non-ASEAN defence forces participate regularly in Southeast Asian HADR activities,
+and that 80 per cent of the assets and equipment being used for HADR are employed
+
+14677717, 2023, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/disa.12542 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+216
+
+Table 2. SNA metrics and guiding questions
+Level of analysis
+
+SNA metrics
+
+Description/guiding questions
+
+Macro level
+Overall network
+structure
+
+A. Size of the network
+
+Refers to the number of nodes and links in the network as
+well as the directions and distances of links between nodes.
+
+1. Number of nodes and links
+
+1. How many nodes (military actors) are there and
+how many links (HADR connections) are present
+between them?
+2. Is there a direction associated with the links in
+the network?
+3. How near/far apart are the two most distant nodes
+in the network when traversing the shortest path
+between them?
+4. What is the average number of links a node passes
+through to reach another node along the shortest
+path between them?
+
+2. Type of network
+3. Network diameter
+
+4. Average path length
+
+B. Connectivity of the network
+
+Refers to the extent to which the nodes are linked in a
+network and the distribution of links among the nodes.
+
+5. Network density
+
+5. How close/far off is the actual number of links as
+compared to the maximum number of potential links
+in the network?
+6. What is the average number of links per network node?
+
+6. Average degree
+C. Modularity of the network
+
+Refers to the levels of segmentation/integration of the
+components of a network.
+
+7. Weakly connected components
+
+10. Number of communities
+
+7. Is there a path between every pair of nodes in the
+network when the directions of their links are
+disregarded?
+8. Is there a path between every pair of nodes in the
+network when the directions of their links are
+considered?
+9. How segmented/integrated are the components of
+the network?
+10. How many sub-networks exist in the network?
+
+A. Degree centrality
+
+Refers to the number of links a given node has.
+
+1. Degree
+
+1. How many links does a given node have regardless of
+its directions?
+2. How many links go towards a given node?
+3. How many links move out from a given node?
+
+8. Strongly connected components
+
+9. Modularity
+
+Micro level
+Individual nodes
+and links
+
+2. In-degree
+3. Out-degree
+B. Betweenness centrality
+
+Refers to the number of times a node serves as a conduit
+between two or more distant or disconnected nodes.
+4. How often does a node act as a bridge along the
+shortest path between two or more nodes in the
+network?
+
+Source: authors, adapted from Wasserman and Faust (1994), Lewis (2009), Scott and Carrington (2011),
+Kadushin (2012), Borgatti, Everett, and Johnson (2013), and Barabási (2016).
+
+217
+
+14677717, 2023, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/disa.12542 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Military humanitarian and disaster governance networks in Southeast Asia
+
+Angelo Paolo L. Trias and Alistair D.B. Cook
+
+by just one-half of the ASEAN militaries (see Figure 2b). These findings indicate that
+there are only several significant regional HADR actors and that there are considerable differences in the HADR capacities of ASEAN militaries.
+Airlifts and sealifts are the most commonly used assets and equipment in HADR.
+Rotary-wing types appear more frequently than fixed-wing types, but there is no
+common make or model that is as widely used across ASEAN militaries as the
+Lockheed C-130 Hercules. There are also no clear patterns in the data suggesting
+that specific types of crafts, docks, frigates, ships, and vessels are generally favoured
+by ASEAN militaries for HADR (see Figure 2b).
+Figure 2a. National militaries tagged by HADR keywords (frequency)
+
+Figure 2b. HADR assets/equipment of ASEAN militaries: use (left) and types (right)
+
+Figure 2c. HADR exercises and training attended by ASEAN militaries (frequency)
+
+Source: authors.
+
+14677717, 2023, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/disa.12542 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+218
+
+The 10 most attended HADR-related exercises and training account for an overwhelming 85 per cent of the total search hits (see Figure 2c). This means that militaries participate regularly in only a very few regional HADR events, which also seem
+to be coordinated or hosted by just a handful of influential actors. ASEAN navies
+appear to be the most active military branch in HADR. Not only do they assume
+leadership roles in high-profile and large multilateral exercises with HADR elements,
+such as KOMODO, MILAN, and RIMPAC, but they also engage frequently in bilateral training with allies.
+Macro-level network analysis
+We conducted a micro-level network analysis to explore how militaries are interconnected in the HADR governance network and what are the structural patterns
+that emerge from their relationships. Table 3 provides a summary of the overall network features of the (i) military-to-military network in Southeast Asia, (ii) military
+HADR network: assets and equipment, and (iii) military HADR network: exercises
+and training, based on data sourced from ASEAN military security assessments.
+The size of a social network refers to the presence and scale of relational pathways that allow actors to strengthen commonalities, channel influence, and transfer
+resources (Lewis, 2009; Barabási, 2016). We see from the number of nodes and links
+as well as the network diameters that the military HADR exercises and training
+network is the largest of all the networks under review. The same network also has
+the lowest node–link ratio and a relatively low average path length considering its high
+number of links compared to the other two HADR networks. Militaries appear to
+be more open to interacting with each other in HADR exercises and training than
+transacting HADR assets and equipment or building military relations in general.
+All HADR networks studied here have average path lengths that do not exceed
+three, which means that there are only three degrees of separation at most among
+militaries. Also common among the three HADR networks, though, is that their
+links are, by and large, directed. Many military interactions seem imbalanced or
+non-mutual despite the close distances of militaries in the HADR networks, indicating that certain social preferences, power dynamics, or resource dependencies are
+affecting HADR relationships.
+The connectivity of a social network refers to the extent and the distribution of
+links between and among actors (Wasserman and Faust, 1994; Scott and Carrington,
+2011). We observe from density measures that more than 90 per cent of potential
+connections in all three networks are unfulfilled. On average, militaries in the HADR
+networks have between 1.5 and 4 links with other militaries. But low network densities suggest that their connections may be narrow in scope or concentrated among
+those with which they are already familiar.
+The modularity of a social network refers to the ways in which the components
+of the network are segmented and integrated (Kadushin, 2012; Borgatti, Everett, and
+Johnson, 2013). We observe that there are no separate components in the three networks.
+
+219
+
+14677717, 2023, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/disa.12542 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Military humanitarian and disaster governance networks in Southeast Asia
+
+Angelo Paolo L. Trias and Alistair D.B. Cook
+
+Table 3. Summary of macro-level network analysis
+Military-to-military
+network in
+Southeast Asia
+
+Military HADR
+network: assets
+and equipment
+
+Military HADR
+network: exercises
+and training
+
+Total number of nodes
+
+53
+
+82
+
+87
+
+Total number of links
+
+348
+
+152
+
+776
+
+Type of network
+
+Directed
+
+Directed
+
+Directed
+
+Network diameter
+
+3
+
+4
+
+7
+
+Average path length
+
+1.54
+
+1.71
+
+2.98
+
+Network density
+
+0.086
+
+0.020
+
+0.036
+
+Average degree
+
+4.472
+
+1.659
+
+3.103
+
+Weakly connected components
+
+1
+
+1
+
+1
+
+Strongly connected components
+
+45
+
+80
+
+63
+
+Modularity
+
+1.136
+
+0.529
+
+0.378
+
+Number of communities
+
+4
+
+10
+
+7
+
+Metrics
+
+Size of the network
+
+Connectivity of the network
+
+Modularity of the network
+
+Source: authors.
+
+Even if a given military has only one link to another in the same network, it can, in
+principle, use that direct connection to reach out to, or be reached by, any other military in the network through existing relational pathways, ignoring the directionality
+of links.
+Communities are groups of nodes, or sub-networks of actors, that have denser connections between themselves because they either have strong dependencies with each
+other, a close alignment of objectives, or shared attributes. The higher number of
+communities and strongly connected components of the military HADR assets and
+equipment network—despite having the lowest number of links and average degree
+in comparison to the other two networks—suggests that militaries become more
+cliquish and particular in who they relate with when acquiring, transferring, or supplying HADR-related resources.
+Micro-level network analysis
+We also conducted a micro-level network analysis to examine how the militaries are
+embedded in the network and the nature of their relationships with each other.
+Table 4 provides a summary of the properties of ASEAN nodes and links in the
+(i) military-to-military network in Southeast Asia, (ii) military HADR network:
+assets and equipment, and (iii) military HADR network: exercises and training, based
+
+14677717, 2023, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/disa.12542 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+220
+
+Table 4. Summary of micro-level network analysis
+Military
+
+Degree
+
+In-degree
+
+Out-degree
+
+Betweenness
+centrality
+
+ASEAN military network in Southeast Asia
+Brunei
+
+37
+
+6
+
+31
+
+29.2036
+
+Cambodia
+
+13
+
+8
+
+5
+
+0.8452
+
+Indonesia
+
+48
+
+7
+
+41
+
+71.4536
+
+Laos
+
+15
+
+6
+
+9
+
+0.4000
+
+Malaysia
+
+44
+
+7
+
+37
+
+38.8583
+
+Myanmar
+
+23
+
+5
+
+18
+
+6.7976
+
+Philippines
+
+36
+
+6
+
+30
+
+16.1369
+
+Singapore
+
+27
+
+7
+
+20
+
+4.8274
+
+Thailand
+
+42
+
+8
+
+34
+
+71.8583
+
+Vietnam
+
+21
+
+9
+
+12
+
+19.6190
+
+ASEAN military HADR network: assets and equipment
+Brunei
+
+4
+
+0
+
+4
+
+0.0000
+
+Cambodia
+
+1
+
+0
+
+1
+
+0.0000
+
+Indonesia
+
+12
+
+1
+
+11
+
+28.0000
+
+Laos
+
+0
+
+0
+
+0
+
+0.0000
+
+Malaysia
+
+10
+
+0
+
+10
+
+0.0000
+
+Myanmar
+
+5
+
+0
+
+5
+
+0.0000
+
+Philippines
+
+15
+
+0
+
+15
+
+0.0000
+
+Singapore
+
+14
+
+3
+
+11
+
+67.0000
+
+Thailand
+
+13
+
+0
+
+13
+
+0.0000
+
+Vietnam
+
+5
+
+0
+
+5
+
+0.0000
+
+ASEAN military HADR network: exercises and training
+Brunei
+
+13
+
+5
+
+8
+
+184.6777
+
+Cambodia
+
+13
+
+7
+
+6
+
+100.1442
+
+Indonesia
+
+10
+
+5
+
+5
+
+285.6825
+
+Laos
+
+6
+
+5
+
+1
+
+12.0876
+
+Malaysia
+
+13
+
+8
+
+5
+
+341.0204
+
+Myanmar
+
+11
+
+7
+
+4
+
+165.7819
+
+Philippines
+
+17
+
+7
+
+10
+
+261.3478
+
+Singapore
+
+13
+
+11
+
+2
+
+211.6289
+
+Thailand
+
+15
+
+9
+
+6
+
+368.7540
+
+Vietnam
+
+13
+
+9
+
+4
+
+216.8749
+
+Source: authors.
+
+221
+
+14677717, 2023, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/disa.12542 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Military humanitarian and disaster governance networks in Southeast Asia
+
+Angelo Paolo L. Trias and Alistair D.B. Cook
+
+on data sourced from ASEAN military security assessments. Degree and betweenness centrality measures allow us to assess how significant, influential, and critical a
+given military is in HADR governance networks.
+Militaries with high degrees are significant because they have more connections
+that accord them with more means to access HADR resources and to participate in
+HADR activities. Those with high in-degrees have more HADR connections going
+towards them and are strategically poised to influence others seeking to interact with
+them. Those with high out-degrees make more HADR connections than their peers
+and have more opportunities to shape HADR efforts as they actively reach out to
+others in the network.
+Militaries with high betweenness centrality are critical to governance networks
+because they are conduits for the passing of essential HADR resources and activities
+to other militaries in the network. They are a bridging point between nodes that
+do not have connections or are distant from each other. They hold the network structure together; without them, certain network functions will be disrupted, reduced,
+or lost.
+Indonesia, Malaysia, and Thailand have the most connections overall among ASEAN
+militaries, whereas Vietnam, Laos, and Cambodia are the least connected. Defence
+forces with which ASEAN militaries are well-connected are those of Australia, China,
+the US, Canada, France, India, South Korea, the Netherlands, New Zealand, the
+Russian Federation (Russia), and the United Kingdom. Vietnam, Thailand, and
+Cambodia have the most incoming links in Southeast Asia, whereas the Philippines,
+Laos, and Myanmar have the lowest in-degrees. ASEAN military out-degrees seem
+to reflect the same ranking as degree measures. It also appears that most of Southeast Asia’s military links are directed towards Australian, Chinese, and US defence
+forces. Thailand, Indonesia, and Malaysia have high betweenness centrality overall, whereas Singapore, Cambodia, and Laos have low scores as compared to other
+ASEAN militaries.
+We observe that the Philippines, Singapore, and Thailand have the most overall
+and outgoing HADR assets and equipment-related links among ASEAN militaries.
+Brunei, Cambodia, and Laos consistently have low degree, in-degree, out-degree,
+and betweenness centrality rankings in this network. We also discern that the US
+military has the single highest number of connections—up to 50 per cent more than
+the most connected ASEAN military. France, Russia, Spain, and UK defence forces
+have a relatively high number of connections with ASEAN militaries. The same foreign militaries have the highest number of incoming links. Singapore and Indonesia
+are the only Southeast Asian militaries that are not at the bottom of in-degree rankings. Both of them also have relatively high betweenness centrality scores in comparison to their regional peers.
+Looking at the HADR exercises and training network, we see that the Philippines,
+Thailand, and Malaysia have the highest number of overall connections among
+ASEAN militaries. The militaries of Myanmar, Indonesia, and Laos are the least connected in Southeast Asia. Foreign militaries involved in regional HADR exercises and
+
+14677717, 2023, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/disa.12542 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+222
+
+training direct most of their links to Singapore, Thailand, and Vietnam. Not so
+many non-ASEAN military links go towards Brunei, Indonesia, and Laos. However,
+in terms of out-degree rankings, Singapore drops down to near Laos, whereas Brunei
+climbs up the list to close to the Philippines.
+Thailand, Malaysia, and Indonesia frequently act as bridging points between
+those that host and participate in regional HADR exercises and training. Myanmar,
+Cambodia, and Laos rarely function as conduits for such events. Non-ASEAN
+militaries that scored high with respect to centrality measures in the two previous
+networks also occupy the top ranks in this network. The only main difference is
+that Japan has climbed up the list and Russia has dropped down to the middle.
+Network visualisation and exploration
+The Fruchterman–Reingold layout makes it easier to spot who the central actors are
+because it pulls in highly significant, influential, and critical nodes towards the centre
+of the network. The size of the nodes indicates their degree or betweenness centrality ranking. The bigger the node, the more connections it has, or the more it acts as
+a bridging point between nodes. The lines represent the links between nodes. The
+thicker the line, the stronger the connection. For example, an arrow from the US
+pointing to the Philippines denotes that the US is supplying a HADR asset or coordinating a HADR exercise with the Philippines.
+Figure 3 offers a visualisation of the network of relations of the ASEAN and foreign militaries involved in Southeast Asian affairs. In the degree graph, we see that
+Thailand, Indonesia, and Malaysia have significantly more means of accessing material resources flowing into the network, such as military intelligence and equipment.
+They are well-positioned to circulate themselves and influence others in the network.
+Brunei and the Philippines appear to have more connections than Singapore, but
+both are not as central. Other ASEAN militaries have visibly smaller node sizes and
+are scattered around the centre. The betweenness centrality graph highlights the
+critical positions that Thailand and Indonesia occupy in the network. Both of their
+militaries seem to create and maintain the greatest number of links that bring in and
+hold together ASEAN and other defence forces operating in the region.
+The superiority of the US as the single most connected and central actor with
+respect to the military HADR assets and equipment network in Southeast Asia is
+demonstrated in Figure 4. Thailand and the Philippines are closest to the US among
+ASEAN militaries; Indonesia, Malaysia, and Singapore surround the centre. We
+observe wider distances in the node positions of ASEAN militaries as compared to
+the previous network; several are now farther away and found at the fringes. Looking
+at the betweenness centrality graph, we note the increase in the node size of Singapore, whereas the US and other ASEAN militaries, except Indonesia, have become
+smaller. These observations point up (i) strong resource dependencies in the network,
+and (ii) considerable differences in the capacity of ASEAN militaries to acquire, transfer, or supply assets and equipment for HADR.
+
+223
+
+14677717, 2023, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/disa.12542 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Military humanitarian and disaster governance networks in Southeast Asia
+
+Figure 3. Military network in Southeast Asia
+Degree centrality		
+
+Betweenness centrality
+
+Source: authors.
+
+14677717, 2023, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/disa.12542 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Angelo Paolo L. Trias and Alistair D.B. Cook
+224
+
+Degree centrality		
+
+Betweenness centrality
+
+Source: authors.
+
+14677717, 2023, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/disa.12542 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Figure 4. Military HADR network: assets and equipment
+
+225
+Military humanitarian and disaster governance networks in Southeast Asia
+
+Figure 5. Military HADR network: exercises and training
+Degree centrality		
+
+Betweenness centrality
+
+Source: authors.
+
+14677717, 2023, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/disa.12542 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Angelo Paolo L. Trias and Alistair D.B. Cook
+226
+
+The regional military HADR exercises and training connections network visualisation (see Figure 5) depicts that the Thai and Philippine militaries are once again
+well-connected and central actors. Malaysia and Indonesia are the closest nearby
+countries among regional peers. Both also often function as bridging points in this
+network. We notice that more foreign militaries are closer to the centre as compared
+to the previous two networks, indicating greater participation in training and exercise than in the military network in Southeast Asia (see Figure 3) and the military
+HADR network: assets and equipment (see Figure 4). The US military, though, is
+the only non-ASEAN actor found at the core. KOMODO, RIMPAC, Cobra Gold,
+EXCOORES, and MILAN are the most attended regional military HADR events.
+Turning to the betweenness centrality graph, Instruction Support considerably increased
+in node size. Multilateral exercises may have a wider participant base and a large platform for shaping HADR efforts, but bilateral activities like peer-to-peer training
+can also offer many pathways to directly influencing HADR actors.
+
+Discussion
+Governance is essentially about power, relationships, and accountability or who decides,
+who influences, and who are held accountable (Hodgson, 2006). Disaster governance is known to have political, social, and economic dimensions (Tierney, 2012).
+Similarly, humanitarian governance ‘is the attempt to regulate the humanitarian
+field—including rules, structures, and mechanisms’, with power and inequality being
+its central aspects (Aalen, 2020). Networks, representing a web of relationships of
+collective actors or structures that shape behaviour and practice, are critical to understanding how power is generated or reduced, how agency is increased or decreased,
+and how governance becomes effective or ineffective (Kahler, 2009). In this section,
+we analyse how the overall network structure and the nature of military HADR
+relations, such as resource dependencies, their direction, close associations, and shared
+traits, can facilitate or limit the capabilities, interoperability, partnerships, and operational readiness that affect regional HADR governance.
+The research results indicate that military governance networks in Southeast Asia
+have no separate components. Several clusters and communities exhibit high assortativity and denser inter-group relations (Tajfel and Turner, 1986). Using Gillmann’s
+(2010) typology for inter-agency coordination of humanitarian efforts during disasters, the network of interest visibly shows that there are relatively few central and
+dominant actors (‘lead agency type’, with some actors deciding and controlling network activities). Yet, a fully connected network also suggests that all militaries are
+linked to each other somehow, disregarding the directions of ties. This is advantageous from a governance standpoint because the extent to which actors in a network
+can cooperate largely depends on whether a path exists between them (Myerson,
+1977). Militaries in these networks can access or reach any other military through
+their current connections in principle. Therefore, the network of interest provides
+
+227
+
+14677717, 2023, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/disa.12542 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Military humanitarian and disaster governance networks in Southeast Asia
+
+Angelo Paolo L. Trias and Alistair D.B. Cook
+
+many channels to bring about a ‘lead partnership type’ structure wherein several
+actors take part in joint strategic and operational decisions (Gillmann, 2010). This
+network feature affords opportunities to form, facilitate, and strengthen military
+HADR cooperation, even though it appears to revolve and function around a few
+central and dominant actors. A network analysis study using Gillman’s (2010) typologies reveals that humanitarian operations—considering the coherence, coverage,
+and connectedness of the aid and relief efforts—seem to perform better under lead
+partnership types rather than lead agency types (Bisri, 2016).
+Looking at the nature of individual ties of militaries in the network, several issues
+are evident that can create HADR governance challenges. Only a few significant,
+influential, and critical actors shape and influence regional HADR efforts. Resources
+are a basis of power, resource dependence and power are correlated, and power over
+resources is relational (Pfeffer and Salancik, 1978; Jackson, 2010). We observe that
+militaries that occupy central positions in the HADR assets and equipment network
+come from countries that are home to global arms suppliers or thriving defence
+industries, such as France and the UK. Significant actors like the US Armed Forces
+establish more connections because of their control over the exchange of the most
+used HADR resources in the region. Having more connections increases their interactions and capacity to influence others, which in turn makes them even more
+central to the network. This social process, known as the ‘rich get richer’ dynamic,
+can perpetuate and widen positional inequality and restricts less connected actors
+from reaping the benefits that social networks present (Coleman, 1988; Christakis
+and Fowler, 2009).
+Our findings confirm the primacy of the US military in the region, not just in
+HADR matters, because HADR is only a component of defence. The relational properties of the US in the network of interests illustrates that it is still the dominant
+security provider. The command and control-like structures and response-oriented
+practices favoured by the US military will likely remain operational despite the push
+of the larger humanitarian and disaster management community to move towards
+more proactive disaster risk reduction activities like prevention, mitigation, and
+recovery efforts (Canyon, Ryan and Burkle, Jr., 2017). But the current set-up can
+also enable the US military to put into practice the ‘unified action’ and ‘whole of
+government’ approaches it is promoting for success in relation to foreign humanitarian assistance ( Joint Chiefs of Staff, 2019). Militaries in the region with defence
+agreements and security alliances with the US, including Japan, the Philippines,
+and Thailand, will continue to benefit the most, HADR-wise, from the current USled order.
+Similarly, militaries with high centrality in the network can use their dominant
+and influential positions to restrict changes to the status quo and limit the HADR
+capabilities of defence forces not aligned with them. For instance, foreign military
+powers can block the distribution or supply of assets and equipment with sensitive
+military technology to those armed forces they deem as ‘hostile’ and ‘unfriendly’. This
+can disrupt the interoperability of militaries engaged in HADR missions seeking
+
+14677717, 2023, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/disa.12542 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+228
+
+to serve at-risk and disaster-affected populations in the region, because using similar
+assets and equipment can potentially increase resource efficiencies and reduce logistical and procurement burdens. And it can marginalise and limit the participation of
+other military HADR actors that do not have the same kinds of assets and equipment.
+Geopolitical flashpoints, such as the territorial disputes in the South China Sea
+(SCS), are mainly driven by military modernisation and the growing assertiveness
+of the parties involved. For instance, the struggle for dominance between China and
+other major powers with a vested interest in the region, most notably the US, continues to heighten the risk of escalation and regional conflict (Kim, 2015; International
+Crisis Group, 2021). ASEAN Member States themselves have multiple unresolved
+competing maritime claims in the SCS (Raine and Le Mière, 2013). However, geopolitical tensions in the region also present an opportunity for the regional group
+to push for more independence and sovereignty in defence and mitigate the various
+pressures applied by foreign powers competing in Southeast Asia. One way to do
+this is to support each other in developing a regional defence economy. ASEAN militaries seeking to lessen their dependencies and positional disadvantage in this network
+need to reduce their reliance on foreign military support. Indonesia and Singapore
+are cases from which other ASEAN Member States can learn. Both countries have
+major defence imports, but they continue to create investment incentives that revitalise their local defence industries (Grevatt and Rahmat, 2018; Matthews and Koh,
+2019). This partly explains why the betweenness centrality of Indonesia and Singapore in military HADR assets and equipment is significantly higher than that of the
+other ASEAN Member States.
+Militaries that are significant and influential in regional HADR exercises and
+training networks tend to be those that organise and host such events and activities.
+Multilateral events such as KOMODO, RIMPAC, Cobra Gold, EXCOORES, and
+MILAN create repeated connections and multiplexity in their ties because they
+usually involve similar sets of participants. This reflects the ‘orchestrated alliances’
+typology, wherein some central actors function as consensus builders and intermediators between less central actors (Gillmann, 2010). That said, we also observe that
+bilateral HADR activities such as instructional support and joint missions create
+pathways to high profile large-scale HADR events. This network property resembles
+the ‘loose alliances’ typology that enables actors to operate more fluidly between
+emergent structures (Gillmann, 2010). These peer-to-peer cooperation platforms
+not only allow militaries from more distant middle powers like Australia and New
+Zealand to participate in HADR affairs in the region, but they also allow them to
+mobilise other defence forces towards their HADR priorities and objectives without
+actively competing with other actors at the same time.
+Several studies use network analysis to explore interorganisational networks in
+humanitarian and disaster contexts besides those mentioned in the previous paragraphs.
+Scholars such as Naim Kapucu and colleagues have comprehensively studied interorganisational network coordination in crises and disasters (Kapucu, 2005; Kapucu
+et al., 2010; Kapucu, Arslan, and Collins, 2010). Network analysis has also been used
+
+229
+
+14677717, 2023, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/disa.12542 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Military humanitarian and disaster governance networks in Southeast Asia
+
+Angelo Paolo L. Trias and Alistair D.B. Cook
+
+to study how responders, both individual entities and agencies, communicate in emergency response and how brokerage roles form and function (Kapucu, 2006; Butts,
+Petrescu-Prahova, and Cross, 2007; Lind et al., 2008). These studies, though, focus
+only on the local and national level and do not look into military cooperation in any
+particular way. Similarly, some research uses network analysis to study military cooperation in humanitarian and disaster contexts (Zaw and Lim, 2017; Azhar, Malik, and
+Muzaffar, 2019), but it is also limited to the local and national levels of governance.
+The article by Trias, Lassa, and Surjan (2019) is the closest to our work because,
+although it concentrates on civilian actors and not military cooperation, it analyses
+the network features and properties of interorganisational networks at the regional
+level. It considers the impact of network structures and the nature of ties on regional
+disaster governance. We observe two similar findings in our network analysis study
+and that of Trias, Lassa, and Surjan (2019). First, both of the overall structures of the
+networks we explored have no separate components. This indicates that even though
+the humanitarian and disaster governance networks are growing, global–local interactions may also be getting denser (Lassa, 2011). No actor in the network is truly left
+out, connection-wise. Second, both networks only have a few actors with relatively
+high degree and betweenness centrality that can shape the distribution of resources
+and associations in the network. This signifies considerable positional inequality in
+the network that disproportionately benefits dominant and influential actors. Yet, it
+is also an opportunity for those closely connected to them to become more central,
+since it shortens the path that a given actor needs to move around the network.
+The main difficulty in investigating military HADR governance networks derives
+from the fact that HADR is also a form of regional force projection and security
+competition by proxy that allow rivalries to play out (Chong and Chang, 2016). It can
+be used as a tool for hard and soft power because national interests can find expression in HADR missions (Chong, 2015). HADR enables assisting states to flex their
+military muscles and project technological superiority by displaying their strategic
+lifts and loitering capability. It also presents the military with opportunities to collect intelligence on other militaries and to test capabilities outside of simulations.
+Furthermore, national militaries use HADR missions to demonstrate their adaptability and relevance to citizens, improve their image in a foreign country, and reinforce military alliances (Yates and Bergin, 2011; Canyon, Ryan, and Burkle, Jr., 2020).
+By displaying unique HADR capabilities, defence forces can rationalise efforts to
+augment military budgets and gain support for maintaining overseas military deployments. These considerations make it difficult to ascertain a military’s HADR capabilities based on access to assets and equipment and participation in HADR exercises
+and training alone.
+But before we can enhance HADR governance networks in Southeast Asia, we
+need to ensure first that the responding actors are adequately equipped and trained
+for joint HADR missions. Indonesia, Malaysia, the Philippines, Singapore, and
+Thailand appear to have more HADR capabilities than other ASEAN militaries in
+terms of availability of resources and preparedness to respond. Operationalisation of
+
+14677717, 2023, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/disa.12542 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+230
+
+the ‘one ASEAN, one response’ vision cannot be fully achieved until all ASEAN
+militaries, especially Cambodia and Laos, have sufficient HADR-related assets and
+equipment and actively participate in HADR exercises and training. An alternative
+implementation of the vision would require collective agreement to deploy niche
+capacities on behalf of ASEAN (Melo Zurita et al., 2015). The second Joint Task
+Force to Promote Synergy with Other Relevant ASEAN Bodies on Humanitarian
+Assistance and Disaster Relief (JTF on HADR), part of the ASEAN Militaries Ready
+Group, proposed the development of guidelines on the use of the ASEAN flag or logo
+when deploying assets and human resources to humanitarian emergencies. If the
+ASEAN Defence Ministers Meeting implements this proposal, it can assist in moving
+the debate beyond simple differentiation between bilateral and multilateral efforts
+and what constitutes a ‘one ASEAN, one response’ (Cook, 2017).
+The networks under review here give us an idea of what resources militaries
+involved in HADR can use and how they can contribute to joint HADR missions in
+Southeast Asia. Such information can serve as an evidence base for further assessments
+of the HADR capabilities of military actors, specifically those from the ASEAN
+region. Our network analysis shows the points of convergence or divergence that
+support or constrain the efficient use of available HADR resources besides current
+regional standby arrangements. It also presents alternative pathways to achieving
+shared HADR objectives beyond existing cooperation platforms. We cannot completely harness the collective strengths of military HADR actors unless we first have
+a better understanding of their resources and operational readiness. Our research is a
+step towards enhanced comprehension of how military HADR actors interconnect.
+
+Limitations and recommendations
+In general, military involvement in foreign HADR missions can be studied in two
+ways. The first is to examine military engagement within the established and formal coordination architecture of disaster response. The Multinational Coordination
+Centre (MNCC), tested and used in the ASEAN region for years, is an example
+(Jumamil-Mercado et al., 2015). The MNCC is a recognised operational framework
+for coordinating foreign military assistance (RCG, 2017), which operates under the
+guidance of the affected state’s military—when activated—to achieve common situational awareness and unity of effort ( Jumamil-Mercado et al., 2015). It is also the
+primary platform for facilitating information sharing, joint planning, and task division between civilian humanitarian and military actors (RCG, 2017). The Center
+for Excellence in Disaster Management and Humanitarian Assistance (2022), a unit
+directly reporting to the United States Indo-Pacific Command, and the Regional
+Consultative Group (RGC) on Humanitarian Civil-Military Coordination for Asia
+and the Pacific, regularly reports on the development of the MNCC.
+The second way is to explore the informal networks that arise from the relationships between and the interactions of militaries involved in HADR. This is the focus
+of our research, which centres on the network features and properties arising from
+
+231
+
+14677717, 2023, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/disa.12542 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Military humanitarian and disaster governance networks in Southeast Asia
+
+Angelo Paolo L. Trias and Alistair D.B. Cook
+
+military connections that do not necessarily occur in an MNCC when activated.
+There are various forms of military HADR cooperation, but our research focuses
+on other types, such as those demonstrated in the distribution of assets and equipment and participation in exercises and training. We believe that studying these
+networks generates insights that may not be captured or noticeable when assessing
+only military engagement in an MNCC. We hope that policymakers and practitioners working to improve the MNCC and developing mechanisms to strengthen
+military HADR cooperation find our research results helpful.
+There is currently no dedicated and publicly available database that records and
+publishes military HADR activities similar to what we have analysed here. However,
+this is not an isolated case. There is a lack of transparent sharing of military HADR
+cooperation data, in general, especially with people outside of the defence establishment. There could be several reasons for this. One possible explanation is the primacy of confidentiality and the secrecy surrounding military missions. The strict
+‘need to know’ basis for sharing information in the military may be one of the factors
+why limited access to and uniformity of data relating to military cooperation in
+HADR missions persist.
+Another possible reason is that military missions have political and security dimensions (as mentioned earlier in this paper). Information about defence capabilities is
+sensitive because they relate to security alliances, domestic politics, and foreign policy. Governments sending their militaries to cooperate in HADR missions may be
+actively competing in other defence-related areas, such as selling military equipment
+to affected states. It is critical to reflect on these factors when considering military
+HADR cooperation.
+But these issues are not entirely exclusive to the military. The civilian humanitarian community is also grappling with similar data governance challenges associated
+with transparency, data protection, implications for donor funding, and data security
+and misuse (Bell et al., 2021). The International Committee of the Red Cross has
+developed and revised the Handbook on Data Protection in Humanitarian Action since
+2015, but the humanitarian community as a whole has been slow in developing and
+implementing relevant protocols and guidelines and in working with governments
+to develop appropriate legal frameworks. Consequently, access to and protection of
+disaggregated humanitarian data remain piecemeal and ad hoc.
+As there is no specific and readily available data on military HADR governance
+networks, we explored connections and interactions that reflect military cooperation in HADR, such as those indicated by the distribution of assets and equipment
+and participation in exercises and training. The study of these activities identifies
+the points of convergence or divergence that support or constrain the efficient use of
+available HADR resources besides regional standby arrangements. It also presents
+alternative pathways to achieving shared HADR objectives beyond existing cooperation platforms. We have demonstrated that alternative data, such as Jane’s Sentinel
+Security Assessments, can be useful even if not optimal. HADR reporting is not
+standardised and this can affect the accuracy and quality of network analysis. Some
+assessments contain more or less HADR information than others. Data on HADR
+
+14677717, 2023, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/disa.12542 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+232
+
+assets, equipment, exercises, and training are not uniform and consistently recorded.
+It is advisable, therefore, to develop and maintain an open and standardised HADR
+database to document the evolution of military HADR networks and capabilities
+in the region as the global risk environment and humanitarian landscape change.
+All network studies can be expanded. Although we considered the HADR links
+between ASEAN militaries and foreign counterparts, it is not the primary objective
+of our research to scrutinise the extent and character of such ties outside of Southeast Asian affairs. Future research, however, can use our HADR network visualisations as a reference for investigating prospects for inter-regional partnerships, such
+as the recent push for stronger disaster governance cooperation between Southeast
+Asian and Southwest Pacific countries (Cook and Chen, 2019, 2022).
+By concentrating our network analysis on the ways in which regional HADR
+actors are connected rather than separated, we run the risk of oversimplifying the
+Southeast Asian context and dynamics. While the ASEAN community is relatively
+small, it is incredibly diverse. There are also many opportunities for new studies to
+engage in meaningful comparative analysis by narrowing the focus and scope of
+HADR network studies. For instance, contrasting the subregional networks of mainland versus maritime Southeast Asia can reveal distinct HADR governance approaches
+and issues related to geography.
+Another consideration is that ASEAN militaries have different HADR-related
+capabilities because their security functions vary. Some defence forces specialise in
+military medicine (Brunei), emergency engineering support (Malaysia and Vietnam),
+humanitarian mine action (Cambodia and Laos), swift and deepwater rescue (Thailand), critical infrastructure protection and urban response operations (Singapore),
+and village-level counterinsurgency operations (Indonesia and the Philippines). It
+might also be of interest to appraise the various HADR roles of special forces and
+reservists in Southeast Asia. Niche research on the local behaviour and activities of
+ASEAN militaries may offer us novel ideas on how to improve the regional functions and dynamics of HADR governance networks.
+Our research and this paper are only the first steps towards a collective effort to
+conduct more comprehensive and sophisticated network analysis studies. These progress through four stages. First is the ‘description’ stage, where the features and properties of a network of interest are analysed using SNA metrics and visualisation
+techniques. Second is the ‘explain’ stage, where the analysis focuses on how a network functions by applying relevant theories. When we know more about a given
+network, we can start to develop frameworks by detailing associations. Third is the
+‘prediction’ stage, where the goal is to understand network behaviour and generate
+models for comparative studies. Here, researchers can test the reliability of their
+conclusions and make inferences through simulations. Fourth is the ‘manage’ stage,
+where the aspiration is to learn how to optimise the network of interest and gain the
+capability to study multilayered and dynamic networks of similar nature. Our research
+is a contribution to stage one. We sincerely hope that other researchers and future
+work continue the effort to analyse military HADR governance networks in stages
+two, three, and four.
+
+233
+
+14677717, 2023, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/disa.12542 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Military humanitarian and disaster governance networks in Southeast Asia
+
+Angelo Paolo L. Trias and Alistair D.B. Cook
+
+Conclusion
+This paper explores the structures behind HADR governance networks in Southeast Asia and the nature of ties between ASEAN militaries and their military partners.
+While the overall military HADR network is fully connected, with no separate
+components, only a few significant, influential, and critical actors are shaping and
+influencing regional HADR efforts. In the region, these are Indonesia, Malaysia, the
+Philippines, Singapore, and Thailand. The HADR capabilities of ASEAN militaries
+vary—several are not sufficiently equipped and adequately prepared to participate in
+regional humanitarian responses. Globally, Australia, Canada, China, France, India,
+New Zealand, Russia, Spain, the UK, and the US militaries occupy central positions
+in the network, as they control the supply and transfer of HADR-related assets and
+equipment and coordinate and host HADR exercises and training.
+We have proposed and demonstrated the use of an analytical framework to assist
+researchers and policymakers seeking to learn about the ways in which militaries
+connect and interact in HADR governance networks and the structural patterns that
+emerge from their relationships. This paper offers insights into how defence forces
+can build HADR relations, balance HADR positional inequalities in the networks,
+and narrow HADR capability gaps. It also puts forward suggestions for future studies
+because research on military HADR networks is not a one-off effort, but an ongoing
+endeavour to acquire further understanding of HADR governance as an essential
+component of the global risk environment and international humanitarian landscape.
+
+Data availability statement
+The data that support the findings of this study are available from the corresponding
+author upon reasonable request.
+
+Correspondence
+Alistair D.B. Cook, S. Rajaratnam School of International Studies, Nanyang Technological University, 50 Nanyang Avenue, Block S4, Level B3, Singapore 639798.
+E-mail: iscook@ntu.edu.sg
+
+References
+Aalen, L. (2020) ‘Governance’. In A. De Lauri (ed.) Humanitarianism: Keywords. Brill, Leiden. pp. 84–86.
+AHA Centre (ASEAN Coordinating Centre for Humanitarian Assistance on disaster management)
+(2017) ASEAN Joint Disaster Response Plan. September. AHA Centre, Jakarta.
+AHA Centre (2018a) Situation Update No. 7: M 7.4 Earthquake & Tsunami. Sulawesi, Indonesia. Friday,
+5 October 2018, 19:00 hrs (UTC+7). AHA Centre, Jakarta.
+AHA Centre (2018b) Standard Operating Procedure for Regional Standby Arrangements and Coordination of
+Joint Disaster Relief and Emergency Response Operations (SASOP). Version 2. AHA Centre, Jakarta.
+
+14677717, 2023, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/disa.12542 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+234
+
+AHA Centre (2022) ‘About the AHA Centre’. Website. https://ahacentre.org/about-us/ (last accessed
+on 15 September 2022).
+AHA Centre and UN OCHA (United Nations Office for the Coordination of Humanitarian Affairs)
+(2018) Central Sulawesi Earthquake: International Deployed Assets (as of 07 October 2018). https://reliefweb.
+int/report/indonesia/central-sulawesi-earthquake-international-deployed-assets-07-october-2018
+(last accessed on 15 September 2022).
+Ahrens, J. and P.M. Rudolph (2006) ‘The importance of governance in risk reduction and disaster
+management’. Journal of Contingencies and Crisis Management. 14(4). pp. 207–220.
+APC-MADRO (Asia-Pacific Conferences on Military Assistance to Disaster Relief Operations)
+(2014) Asia-Pacific Regional Guidelines for the Use of Foreign Military Assets in Natural Disaster Response
+Operations. Version 8.01, 14 January 2014. United Nations Office for the Coordination of Humanitarian Affairs, Bangkok.
+ASEAN (Association of Southeast Asian Nations) (2006) ASEAN Agreement on Disaster Management and
+Emergency Response. ASEAN Secretariat, Jakarta.
+ASEAN (2008) The ASEAN Charter. First reprint. January. https://asean.org/wp-content/uploads/
+images/archive/publications/ASEAN-Charter.pdf (last accessed on 15 September 2022).
+ASEAN (2016a) ASEAN Declaration on One ASEAN, One Response: ASEAN Responding to Disasters as
+One in the Region and Outside the Region. 9 September. https://asean.org/asean-declaration-on-oneasean-one-response-asean-responding-to-disasters-as-one-in-the-region-and-outside-the-region/
+(last accessed on 15 September 2022).
+ASEAN (2016b) ASEAN Vision 2025 on Disaster Management. https://asean.org/wp-content/uploads/
+2021/01/fa-220416_DM2025_email.pdf (last accessed on 15 September 2022).
+ASEAN (2016c) Joint Statement of the Association of Southeast Asian Nations (ASEAN) for the World
+Humanitarian Summit: National Leadership & Regional Partnership for Resilient ASEAN. 25 May.
+https://asean.org/joint-statement-of-the-association-of-southeast-asian-nations-asean-for-theworld-humanitarian-summit-national-leadership-regional-partnership-for-resilient-asean/ (last
+accessed on 15 September 2022).
+ASEAN (2020) ‘Our communities’. Website. https://asean.org/our-communities (last accessed on
+15 September 2022).
+Azhar, A., M.N. Malik, and A. Muzaffar (2019) ‘Social network analysis of army public school
+shootings: need for a unified man-made disaster management in Pakistan’. International Journal of
+Disaster Risk Reduction. 34 (March). pp. 255–264.
+Barabási, A-L. (2002) Linked: How Everything is Connected to Everything Else and What it Means for
+Business, Science, and Everyday Life. Perseus Books Group, New York, NY.
+Barabási, A-L. (2016) Network Science. Cambridge University Press, Cambridge.
+Barnett, M.N. (2013) ‘Humanitarian governance’. Annual Review of Political Science. 16 (May). pp. 379–398.
+Bastian, M., S. Heymann, and M. Jacomy (2009) ‘Gephi: an open source software for exploring and
+manipulating networks’. In E. Adar et al. (eds.) Proceedings of the Third International AAAI Conference on Web and Social Media. San Jose, California, USA. 17–20 May 2009. AAAI Press, Menlo Park, CA.
+pp. 361–362.
+Bateman, S. and A. Bergin (2020) ‘Naval, national security and defence issues from climate change’.
+In J. McDonald, J. McGee, and R. Barnes (eds) Research Handbook on Climate Change, Oceans and
+Coasts. Edward Elgar Publishing, Cheltenham. pp. 409–424.
+Bell, D., M. Lycett, A. Marshan, and A. Monaghan (2021) ‘Exploring future challenges for big data
+in the humanitarian domain’. Journal of Business Research. 131 ( July). pp. 453–468.
+Biagini, F., G. Kauermann, and T. Meyer-Brandis (2019) ‘Introduction’. In F. Biagini, G. Kauermann,
+and T. Meyer-Brandis (eds.) Network Science: An Aerial View. Springer, Cham. pp. 1–4.
+Biggs, N., E.K. Lloyd, and R.J. Wilson (1986) Graph Theory: 1736–1936. Oxford University Press, New
+York, NY.
+
+235
+
+14677717, 2023, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/disa.12542 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Military humanitarian and disaster governance networks in Southeast Asia
+
+Angelo Paolo L. Trias and Alistair D.B. Cook
+
+Bisri, M.B.F. (2016) ‘Comparative study on inter-organizational cooperation in disaster situations
+and impact on humanitarian aid operations’. Journal of International Humanitarian Action. 1 ( July).
+Article number: 8. https://doi.org/10.1186/s41018-016-0008-6.
+Bisri, M.B.F., D. Suma, and Y. Malole (2019) ‘Regional centrality and the shift of humanitarian
+landscape: the case of ASEAN’. In A. Kamal et al. (eds.) ARMOR: ASEAN Risk Monitor and
+Disaster Management Review. ASEAN Coordinating Centre for Humanitarian Assistance on disaster
+management, Jakarta. pp. 147–172.
+Borgatti, S.P., M.G. Everett, and J.C. Johnson (2013) Analyzing Social Networks. Sage Publications,
+Thousand Oaks, CA.
+Butts, C.T., M. Petrescu-Prahova, and B.R. Cross (2007) ‘Responder communication networks in
+the World Trade Center disaster: implications for modeling of communication within emergency
+settings’. Journal of Mathematical Sociology. 31(2). pp. 121–147.
+Caballero-Anthony, M., A.D.B. Cook, and C. Chen (2021) ‘Re-imagining the global humanitarian
+system: emerging dynamics in the Asia-Pacific’. International Journal of Disaster Risk Reduction. 56
+(April). Article number: 102098. https://doi.org/10.1016/j.ijdrr.2021.102098.
+Cachia, R. and D.H. Ramos (2020) ‘Network analysis as a tool for humanitarian protection: research
+and practice’. Journal of International Humanitarian Action. 5 (June). Article number: 5. https://doi.org/
+10.1186/s41018-020-00071-7.
+Canyon, D.V., B.J. Ryan, and F.M. Burkle, Jr. (2017) ‘Military provision of humanitarian assistance
+and disaster relief in non-conflict crises’. Journal of Homeland Security and Emergency Management.
+14(3). Article number: 20170045. https://doi.org/10.1515/jhsem-2017-0045.
+Canyon, D.V., B.J. Ryan, and F.M. Burkle, Jr. (2020) ‘Rationale for military involvement in humanitarian assistance and disaster relief ’. Prehospital and Disaster Medicine. 35(1). pp. 92–97.
+Center for Excellence in Disaster Management and Humanitarian Assistance (2019) ASEAN Disaster
+Management Reference Handbook. Center for Excellence in Disaster Management and Humanitarian
+Assistance, Joint Base Pearl Harbor-Hickam, HI.
+Center for Excellence in Disaster Management and Humanitarian Assistance (2022) ‘Latest news and
+featured publications’. Website. https://www.cfe-dmha.org/ (last accessed on 15 September 2022).
+Chong, A. (2015) ‘Smart power and military force: an introduction’. Journal of Strategic Studies. 38(3).
+pp. 233–244.
+Chong, A. and J.Y. Chang (2016) ‘Security competition by proxy: Asia Pacific interstate rivalry in the
+aftermath of the MH370 incident’. Global Change, Peace and Security. 28(1). pp. 75–98.
+Christakis, N.A. and J.H. Fowler (2009) Connected: The Surprising Power of Our Social Networks and How
+They Shape Our Lives. Little Brown and Company, New York, NY.
+Clark-Ginsberg, A. (2020) ‘Disaster risk reduction is not “everyone’s business”: evidence from three
+countries’. International Journal of Disaster Risk Reduction. 43 (February). Article number: 101375.
+https://doi.org/10.1016/j.ijdrr.2019.101375.
+Clifford, J. (2021) ‘Bridging the gap between intentions and outcomes in military humanitarian
+assistance and disaster relief missions’. In D. Messelken and D. Winkler (eds.) Health Care in Contexts
+of Risk, Uncertainty, and Hybridity. Springer, Cham. pp. 145–166.
+Coleman, J.S. (1988) ‘Social capital in the creation of human capital’. American Journal of Sociology. 94
+(Supplement). pp. S95–S120.
+Cook, A.D.B. (2010) ‘Positions of responsibility: a comparison of ASEAN and EU approaches towards
+Myanmar’. International Politics. 47 (May). pp. 433–449.
+Cook, A.D.B. (2017) ‘One ASEAN, one response: ADMM and ADMM-plus contributions to humanitarian assistance’. In S. Teo and B. Singh (eds.) Roundtable on the Future of the ADMM/ADMM-Plus
+and Defense Diplomacy in the Asia-Pacific. S. Rajaratnam School of International Studies, Nanyang
+Technological University, Singapore. pp. 38–39.
+
+14677717, 2023, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/disa.12542 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+236
+
+Cook, A.D.B. (2018) ‘Siloes, synergies and prospects for humanitarian assistance and disaster relief
+in Southeast Asia’. In A. Chong (ed.) International Security in the Asia-Pacific. Palgrave Macmillan,
+Cham. pp. 357–375.
+Cook, A.D.B. and C. Chen (2019) ASEAN Strategic Policy Dialogue on Disaster Management: Building
+ASEAN’s Resiliency to Disaster. Event report: 21 August 2019. S. Rajaratnam School of International Studies, Nanyang Technological University, Singapore.
+Cook, A.D.B. and C. Chen (2022) ‘Disaster governance and prospects of inter-regional partnership
+in the Asia-Pacific’. The Pacific Review. 35(3). pp. 446–476.
+Cradock-Henry, N.A., J. Connolly, P. Blackett, and J. Lawrence (2020) ‘Elaborating a systems methodology for cascading climate change impacts and implications’. MethodsX. 7 (April). Article number:
+100893. https://doi.org/10.1016/j.mex.2020.100893.
+Creach, Y-K. and L. Fan (2008) ‘ASEAN’s role in the Cyclone Nargis response: implications, lessons
+and opportunities. Humanitarian Exchange. 41 (December). pp. 5–7.
+CRED (Centre for Research on the Epidemiology of Disasters) and UNDRR (United Nations Office
+for Disaster Risk Reduction) (2020) Human Cost of Disasters. An Overview of the Last 20 Years: 2000–
+2019. CRED, Louvain-la-Neuve, and UNDRR, Geneva.
+Du, L., Y. Feng, L. Yaning Tang, W. Kang, and W. Lu (2020) ‘Networks in disaster emergency management: a systematic review’. Natural Hazards. 103 (August). https://doi.org/10.1007/s11069-02004009-5.
+Duda, P., I. Kelman, and N. Glick (2020) ‘Informal disaster governance’. Politics and Governance. 8(4).
+pp. 375–385.
+Ear, J., A.D.B. Cook, and D.V. Canyon (2017) Disaster Response Regional Architectures: Assessing Future
+Possibilities. September. Daniel K. Inouye Asia-Pacific Center for Security Studies, Honolulu, HI.
+Embassy of Japan in the Philippines (2019) ‘Launching ceremony of the Disaster Emergency Logistics
+System for ASEAN (DELSA) satellite warehouse’. Website. Japan Information and Culture Center
+Press Release No. 52. 1 July. https://www.ph.emb-japan.go.jp/itpr_en/00_000908.html (last accessed
+on 15 September 2022).
+Ferris, E. (2012) Future Directions in Civil-Military Responses to Natural Disasters. ACMC Paper 5/2012.
+Australian Civil-Military Centre, Canberra, ACT.
+Ferris, E. and D. Pentz (2013) In the Neighborhood: The Growing Role of Regional Organizations in Disaster
+Risk Management. February. The Brookings Institution – London School of Economics Project on
+Internal Displacement, Washington, DC.
+Fetzek, S., R. Fleishman, and A. Rezzonico (2021) Climate Security and the Strategic Energy Pathway in
+Southeast Asia: Part of the ‘World Climate and Security Report 2020’ Briefer Series. Product of the Expert
+Group of the International Military Council on Climate and Security. February. Center for Climate
+and Security, Council on Strategic Risks, Washington, DC.
+Forino, G., S. Bonati, and L.M. Calandra (2018) Governance of Risk, Hazards and Disasters: Trends in
+Theory and Practice. Routledge, Abingdon.
+Freeman, L. (2004) The Development of Social Network Analysis: A Study in the Sociology of Science.
+Empirical Press, Vancouver, BC.
+Gaydos, J.C. and G.A. Luz (1994) ‘Military participation in emergency humanitarian assistance’.
+Disasters. 18(1). pp. 48–57.
+Gillmann, N. (2010) Interagency Coordination During Disaster: Strategic Choices for the UN, NGOs, and
+Other Humanitarian Actors in the Field. Nomos, Baden-Baden.
+Glasser, R. (2020) ‘The climate change imperative to transform disaster risk management’. International Journal of Disaster Risk Science. 11 (April). pp. 152–154.
+Grevatt, J. and R. Rahmat (2018) ‘Indonesia’s defence market poised to expand’. EMS Now website.
+5 November. https://www.emsnow.com/indonesias-defence-market-poised-to-expand/ (last
+accessed on 15 September 2022).
+
+237
+
+14677717, 2023, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/disa.12542 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Military humanitarian and disaster governance networks in Southeast Asia
+
+Angelo Paolo L. Trias and Alistair D.B. Cook
+
+Hajiheydari, N., M. Salehi, and A. Goudarzi (2018) ‘Optimizing humanitarian aids: formulating
+influencer advertisement in social networks’. In L. Rezgui, H. Afsarmanesh, and Y. Rezgui (eds.)
+Collaborative Networks of Cognitive Systems. Springer, Cham. pp. 101–110.
+Hallegatte, S. (2014) Natural Disasters and Climate Change. Springer, Cham.
+Held, T., B. Newsome, and M.W. Lewis (2011) The Advantages and Disadvantages of Seeking Commonality
+in Military Equipment. Research Brief RB-9623-A (2011). RAND Corporation, Santa Monica, CA.
+Hodgson, G.M. (2006) ‘What are institutions’. Journal of Economic Issues. 11(1). pp. 1–25.
+Hofmann, C-A. and L. Hudson (2009) ‘Military responses to natural disasters: last resort or inevitable
+trend?’. Humanitarian Exchange. 44 (September). pp. 29–31.
+Hollis, S. (2015) The Role of Regional Organizations in Disaster Risk Management: A Strategy for Global
+Resilience. Palgrave Macmillan, London.
+Hore, K., I. Kelman, J. Mercer, and J-C. Gaillard (2017) ‘Climate change and disasters’. In H. Rodríguez,
+W. Donner, and J.E. Trainor (eds.) Handbook of Disaster Research. Springer, Cham. pp. 145–159.
+International Crisis Group (2021) Competing Visions of International Order in the South China Sea. Asia
+Report No. 315. 29 November. International Crisis Group, Brussels.
+Jackson, M.O. (2010) Social and Economic Networks. Princeton University Press, Princeton, NJ.
+Jane’s by IHS Markit (2019) Jane’s Military and Security Assessments Intelligence Centre. Jane’s by IHS
+Markit, Washington, DC.
+Janes (2022a) ‘Military assessments’. Website. https://www.janes.com/country-risk-intelligence/
+military-assessments (last accessed on 15 September 2022).
+Janes (2022b) Military capabilities’. Website. https://www.janes.com/military-threat-intelligence/
+military-capabilities (last accessed on 15 September 2022).
+Janes (2022c) ‘About Janes’. Website. https://www.janes.com/about-janes/what-we-do (last accessed
+on 15 September 2022).
+Jayaram, D. (2021) ‘“Climatizing” military strategy? A case study of the Indian armed forces’. International Politics. 58 (August). pp. 619–639.
+Joint Chiefs of Staff (2019) Foreign Humanitarian Assistance. Joint Publication 3-29. 14 May. Joint
+Chiefs of Staff, Washington DC.
+Jones, E.C. and A.J. Faas (2017) Social Network Analysis of Disaster Response, Recovery, and Adaptation.
+Butterworth-Heinemann, Oxford.
+Jones, S., B. Manyena, and S. Walsh (2015) ‘Disaster risk governance: evolution and influences’. In
+A.E. Collins et al. (eds.) Hazards, Risks and Disasters in Society. Elsevier, Oxford. pp. 45–58.
+Jumamil-Mercado, G. et al. (2015) Advances in Civil-Military Coordination in Catastrophes: How the Philippines Turned Lessons Learned from Super Typhoon Haiyan (Yolanda) into Best Practices for Disaster Preparedness and Response. Center for Excellence in Disaster Management and Humanitarian Assistance,
+Joint Base Pearl Harbor-Hickam, HI.
+Kadushin, C. (2012) Understanding Social Networks: Theories, Concepts, and Findings. Oxford University
+Press, New York, NY.
+Kahler, M. (2009) Networked Politics: Agency, Power and Governance. Cornell University Press, Ithaca, NY.
+Kameyama, Y. and K. Ono (2021) ‘The development of climate security discourse in Japan’. Sustainability Science. 16 ( January). pp. 271–281.
+Kapucu, N. (2005) ‘Interorganizational coordination in dynamic context: networks in emergency
+response management’. Connections: Journal of International Network for Social Network Analysis. 26(2).
+pp. 33–48.
+Kapucu, N. (2006) ‘Interagency communication networks during emergencies: boundary spanners
+in multiagency coordination’. American Review of Public Administration Review. 36(2). pp. 207–225.
+Kapucu, N., T. Arslan, and M.L. Collins (2010) ‘Examining intergovernmental and interorganizational response to catastrophic disasters: toward a network-centered approach’. Administration and
+Society. 42(2). pp. 222–247.
+
+14677717, 2023, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/disa.12542 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+238
+
+Kapucu, N., T. Bryer, V. Garayev, and T. Arslan (2010) ‘Interorganizational network coordination
+under stress caused by repeated threats of disasters’. Journal of Homeland Security and Emergency
+Management. 7(1). https://doi.org/10.2202/1547-7355.1629.
+Kim, J. (2015) ‘Territorial disputes in the South China Sea: implications for security in Asia and
+beyond’. Strategic Studies Quarterly. 9(2). pp. 107–141.
+Lassa, J. (2011) ‘Disaster governance’. In P.K. Bradley and M. Statler (eds.) Encyclopedia of Disaster Relief.
+Sage Publications, Thousand Oaks, CA. pp. 113–114.
+Lassa, J. (2015) ‘Post disaster governance, complexity and network theory: evidence from Aceh, Indonesia
+after the Indian Ocean tsunami 2004’. PLOS Currents Disasters. 1 ( July). doi: 10.1371/4f7972ecec1b6.
+Lewis, T.G. (2009) Network Science: Theory and Practice. John Wiley and Sons, Hoboken, NJ.
+Lind, B.E., M. Tirado, C.T. Butts, and M. Petrescu-Prahova (2008) ‘Brokerage roles in disaster response:
+organisational mediation in the wake of Hurricane Katrina’. International Journal of Emergency Management. 5(1–2). pp. 75–99.
+Malešič, M. (2015) ‘The impact of military engagement in disaster management on civil-military
+relations’. Current Sociology. 64(7). pp. 980–998.
+Matthews, R. and C. Koh (2019) ‘Singapore’s defence–industrial ecosystem’. In K. Hartley and J. Belin
+(eds.) The Economics of the Global Defence Industry. Routledge, Abingdon. pp. 527–546.
+McCann, H., H. Fünfgeld, J. Brown, and R. Wylie (2016) Social Networks and Disaster Resilience: An
+Introduction. Report prepared for the Enhancing Networks for Resilience Project. Southern
+Grampians Glenelg Primary Care Partnership, Hamilton, VIC. https://www.researchgate.net/
+publication/309637981_Social_networks_and_disaster_resilience_an_introduction (last accessed
+on 16 September 2022).
+McCulloh, I., H. Armstrong, and A. Johnson (2013) Social Network Analysis with Applications. John
+Wiley and Sons, Hoboken, NJ.
+Melo Zurita, M.d.L., B. Cook, L. Harms, and A. March (2015) ‘Towards new disaster governance:
+subsidiarity as a critical tool’. Environmental Policy and Governance. 25(6). pp. 386–398.
+Moore, S., E. Eng, and M. Daniel (2003) ‘International NGOs and the role of network centrality in
+humanitarian aid operations: a case study of coordination during the 2000 Mozambique floods’.
+Disasters. 27(4). pp. 305–318.
+Myerson, R.B. (1977) ‘Graphs and cooperation in games’. Mathematics of Operations Research. 2(3).
+pp. 209–296.
+National Research Council (2005) Network Science. The National Academies Press, Washington, DC.
+Newman, M.E.J. (2010) Networks: An Introduction. Oxford University Press, New York, NY.
+Newman, M.E.J., A-L. Barabási, and D.J. Watts (2006) The Structure and Dynamics of Networks.
+Princeton University Press, Princeton, NJ.
+Ngamassi, L., C. Maitland, and A.H. Tapia (2014) ‘Humanitarian interorganizational information
+exchange network: how do clique structures impact network effectiveness?’. VOLUNTAS:
+International Journal of Voluntary and Nonprofit Organizations. 25 (December). pp. 1483–1508.
+O’Donnell, I. (2017) ‘Regional organisations doing disaster risk reduction including climate change
+adaptation’. In I. Kelman, J. Mercer, and J-C. Gaillard (eds.) The Routledge Handbook of Disaster
+Risk Reduction Including Climate Change Adaptation. Routledge, Abingdon. pp. 317–329.
+Parsons, T. (1963) ‘On the concept of political power’. Proceedings of the American Philosophical Society.
+107(3). pp. 232–262.
+Pfeffer, J. and G.R. Salancik (1978) The External Control of Organizations: A Resource Dependence Perspective. Harper and Row, New York, NY.
+President of the Republic of Indonesia (2019) Presidential Regulation No. 1 of 2019. https://www.
+berkasedukasi.com/2019/02/perpres-nomor-1-tahun-2019-bnpb.html (last accessed on 27 September 2022).
+
+239
+
+14677717, 2023, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/disa.12542 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Military humanitarian and disaster governance networks in Southeast Asia
+
+Angelo Paolo L. Trias and Alistair D.B. Cook
+
+Puckett, L.M. (2021) ‘Civil-military coordination in disaster preparedness and response’. Natural
+Hazards Review. 22(2). https://doi.org/10.1061/(ASCE)NH.1527-6996.0000446.
+Raine, S. and C. Le Mière (2013) Regional Disorder: The South China Sea Disputes. Routledge, Abingdon.
+Raschky, P.A. (2008) ‘Institutions and the losses from natural disasters’. Natural Hazards and Earth
+System Sciences. 8(4). pp. 627–634.
+RCG (Regional Consultative Group) (2017) Regional Consultative Group: Third Session. Humanitarian
+Civil-Military Coordination for Asia and the Pacific. Summary Report. RCG, Singapore.
+Reppert, C. (2021) Climate Change Response as an Emerging Battlespace in the South China Sea: Earning
+Trust and Credibility through HADR Exercises. United States Naval War College, Newport, RI.
+ROAP (Regional Office for Asia and the Pacific), UN OCHA (United Nations Office for the Coordination of Humanitarian Affairs) (2018) Disaster Response in Asia and the Pacific: A Guide to International Tools and Services. ROAP, UN OCHA, Bangkok.
+Rum, M. (2016) ‘The case of regional disaster management cooperation in ASEAN: a constructivist
+approach to understanding how international norms travel’. Southeast Asian Studies. 5(3). pp. 491–514.
+Scott, J. (1991) Social Network Analysis: A Handbook. Sage Publications, London.
+Scott, J. and P.J. Carrington (2011) The SAGE Handbook of Social Network Analysis. Sage Publications, London.
+Sebastian, L.C., E.A. Syailendra, and K. Indrabayu (2018) ‘Civil-military relations in Indonesia after
+the reform period’. Asia Policy. 13(3). pp. 49–78.
+Seybolt, T.B. (2009) ‘Harmonizing the humanitarian aid network: adaptive change in a complex
+system’. International Studies Quarterly. 53(4). pp. 1027–1050.
+Shi, P. et al. (2015) ‘World atlas of natural disaster risk’. In P. Shi and R. Kasperson (eds.) World Atlas
+of Natural Disaster Risk. Springer, Berlin. pp. 309–323.
+Simm, G. (2018) ‘Disaster response in Southeast Asia: the ASEAN Agreement on Disaster Response
+and Emergency Management’. Asian Journal of International Law. 8(1). pp. 116–142.
+Smith, P.J. (2011) ‘The geopolitics of climate change: power transitions, conflict and the future of military activities’. Conflict, Security and Development. 11(3). pp. 309–334.
+Spandler, K. (2022) ‘Saving people or saving face? Four narratives of regional humanitarian order in
+Southeast Asia’. The Pacific Review. 35(1), pp. 172–201.
+Stephenson, Jr., M. (2006) ‘Toward a descriptive model of humanitarian assistance coordination’.
+VOLUNTAS: International Journal of Voluntary and Nonprofit Organizations. 17 (March). pp. 40–56.
+Tacheva, Z. and N. Simpson (2019) ‘Social network analysis in humanitarian logistics research’.
+Journal of Humanitarian Logistics and Supply Chain Management. 9(3). pp. 492–514.
+Tajfel, H. and J.C. Turner (1986) ‘The social identity theory of intergroup behaviour’. In S. Worchel
+and W.G. Austin (eds.) The Social Identity Theory of Intergroup Behaviour. Nelson-Hall, Chicago, IL.
+pp. 7–24.
+Tan, S.S. (2012) ‘“Talking their walk”? The evolution of defense regionalism in Southeast Asia’. Asian
+Security. 8(3). pp. 232–250.
+Tatham, P. and S. Rietjens (2015) ‘Integrated disaster relief logistics: a stepping stone towards viable
+civil-military networks?’. Disasters. 40(1). pp. 7–25.
+Tierney, K. (2012) ‘Disaster governance: social, political, and economic dimensions’. Annual Review of
+Environment and Resources. 37 (November). pp. 341–363.
+Trias, A.P.L., J. Lassa, and A. Surjan (2019) ‘Connecting the actors, discovering the ties: exploring
+disaster risk governance network in Asia and the Pacific’. International Journal of Disaster Risk Reduction.
+33 (February). pp. 217–228.
+Trias, A.P.L. and A.D.B. Cook (2021) ‘Future directions in disaster governance: insights from the 2018
+Central Sulawesi earthquake and tsunami response’. International Journal of Disaster Risk Reduction.
+58 (May). Article number: 102180. https://doi.org/10.1016/j.ijdrr.2021.102180.
+
+14677717, 2023, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/disa.12542 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+240
+
+Trias, A.P.L. and L. Gong (2020) Governing Human-induced Disasters in Southeast Asia: Insights from the
+2017 Marawi Conflict. Policy Report. April. S. Rajaratnam School of International Studies, Nanyang
+Technological University, Singapore.
+Uitto, J.I. and R. Shaw (2016) ‘Sustainable development and disaster risk reduction: introduction’. In
+J.I. Uitto and R. Shaw (eds.) Sustainable Development and Disaster Risk Reduction: Introduction. Springer,
+Tokyo. pp. 1–12.
+UN OCHA (United Nations Office for the Coordination of Humanitarian Affairs) (2007) Oslo Guidelines: Guidelines on the Use of Military and Civil Defense Assets to Support United Nations Humanitarian
+Activities in Complex Emergencies. Revision 1.1, November. UN OCHA, Geneva.
+UN OCHA (2013) Philippines: Foreign Military Deployed Assets (As of 30 December 2013). https://relief
+web.int/report/philippines/philippines-foreign-military-deployed-assets-30-december-2013 (last
+accessed on 16 September 2022).
+UN OCHA (2016) Major Natural Hazards in Asia and the Pacific. 19 July. https://reliefweb.int/map/
+world/major-natural-hazards-asia-and-pacific (last accessed on 16 September 2022).
+Wasserman, S. and K. Faust (1994) Social Network Analysis: Methods and Applications. Cambridge University Press, Cambridge.
+Wolbers, J. (2016) ‘Enhancing network centric operations doctrine to support civil military cooperation in disaster management’. In R. Beeres et al. (eds.) NL ARMS Netherlands Annual Review of
+Military Studies 2016. Springer, The Hague. pp. 115–131.
+Yates, A. and A. Bergin (2011) More Than Good Deeds: Disaster Risk Management and Australian, Japanese
+and US Defence Forces. Special Report. Issue 43 (December). Australian Strategic Policy Institute,
+Canberra, ACT.
+Zaw, T.N. and S. Lim (2017) ‘The military’s role in disaster management and response during the
+2015 Myanmar floods: a social network approach’. International Journal of Disaster Risk Reduction.
+25 (October). pp. 1–21.
+
+241
+
+14677717, 2023, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/disa.12542 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Military humanitarian and disaster governance networks in Southeast Asia
+
+

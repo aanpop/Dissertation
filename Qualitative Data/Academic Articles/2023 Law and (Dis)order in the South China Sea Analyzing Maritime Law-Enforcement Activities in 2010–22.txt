@@ -1,0 +1,6887 @@
+Law and (Dis)order in the South China Sea: Analyzing
+Maritime Law-Enforcement Activities in 2010–22
+Hong Kong To Nguyen
+Asia Policy, Volume 18, Number 2, April 2023, pp. 127-164 (Article)
+
+Published by National Bureau of Asian Research
+DOI: https://doi.org/10.1353/asp.2023.0027
+
+For additional information about this article
+https://muse.jhu.edu/article/893916
+
+[146.110.152.37] Project MUSE (2025-09-03 15:48 GMT)
+
+asia policy, volume 18, number 2 ( april 2023 ) , 127–64
+•
+
+http://asiapolicy.org
+
+•
+
+Law and (Dis)order in the
+South China Sea: Analyzing Maritime
+Law-Enforcement Activities in 2010–22
+Hong Kong To Nguyen
+
+[146.110.152.37] Project MUSE (2025-09-03 15:48 GMT)
+
+hong kong to nguyenis a PhD student and MEXT scholar in
+
+International Relations at Ritsumeikan Asia Pacific University (Japan).
+She is also currently a researcher at the Center for Interdisciplinary
+Social Research at Phenikaa University in Hanoi, Vietnam. She was a
+WSD-Handa Fellow at the Pacific Forum in 2022. Ms. Nguyen received a
+BA in philosophy and political science from Columbia University and an
+MSc in international relations from Ritsumeikan Asia Pacific University.
+She can be reached at <hongkongt.nguyen@gmail.com>, <hongkong.
+nguyento@phenikaa-uni.edu.vn>, or on Twitter <@htn2107>.
+
+keywords: maritime security; coast guard; maritime law enforcement;
+south china sea; conflict escalation
+
+© The National Bureau of Asian Research
+One Union Square, Suite 1012, 600 University Street, Seattle, Washington 98101 USA
+
+asia policy
+
+executive summary
+This article assesses the role of maritime law-enforcement (MLE) vessels in
+an apparent trend of heightened competition in the South China Sea and
+identifies patterns in the maritime policing by MLE vessels of the disputing
+South China Sea claimants during unplanned encounters at sea.
+
+main argument
+The South China Sea disputes, involving six political entities—China, Taiwan,
+Vietnam, Malaysia, Brunei, and the Philippines—have been a political flashpoint
+in Southeast Asia since the 1970s. The emergence and growing prominence of
+civilian MLE vessels (conventionally known as marine police or coast guard
+vessels) suggests that disputants are taking new measures to assert their claims
+without overtly militarizing them. Maritime policing has increased in frequency
+and intensity in the past decade. Yet, when considering four factors—the use of
+forcible measures, physical damage, human injuries/casualties, and diplomatic
+protests—an analysis of publicly reported naval incidents in the South China
+Sea between 2010 and 2022 suggests that conflict escalation primarily happens
+at sea between the crews. Such incidents, which range from single-day events
+to months-long confrontations, have, in the worst cases, resulted in intense
+diplomatic standoffs lasting longer than two months. In general, however,
+disputants have refrained from taking hostile political or legal actions against
+harassment at sea.
+
+policy implications
+• Given that reducing misunderstanding and mitigating the risks of physical
+confrontations is of benefit to all the South China Sea disputants, ongoing
+talks for a code of conduct for the sea should include a proper legal
+framework for MLE operations. This framework—to be separate from
+the existing Code for Unplanned Encounters at Sea, which only applies to
+naval vessels—should stipulate the threat and/or use of force at sea by MLE
+vessels because coast guard enforcement duties may require different levels
+of force.
+• Disputants should re-establish and refocus talks to address joint fisheries
+and marine resource management in disputed waters. They would also
+benefit from reinforcing the regional hotline for maritime emergencies and
+setting up a crisis management hotline at the coast guard level.
+• Regional MLE agencies should increase communications both onshore
+and offshore and hold joint exercises and exchanges that would increase
+mutual understanding and trust, which would subsequently help prevent
+unexpected consequences.
+
+nguyen
+
+•
+
+law and (dis)order in the south china sea
+
+T
+
+he South China Sea, the largest semi-enclosed sea in the world,
+has been a political flashpoint in Southeast Asia since the 1970s.1
+Six political entities—China, Taiwan, Vietnam, Malaysia, Brunei, and the
+Philippines—have competing claims over some or all of the archipelagic
+structures in the sea, including the Spratly and Paracel Islands, islets,
+and rocks.2 While some disputed areas in the sea have never been fully
+explored and may be uninhabitable, the Spratly Island group is of particular
+contestation, with Vietnam, China, and Taiwan claiming it in its entirety
+and the Philippines, Brunei, and Malaysia claiming parts of it. Based on its
+so-called nine-dash-line map, China has made a claim to the South China Sea
+that covers nearly the sea’s entirety, and it has occupied the Paracel Islands since
+1974, despite competing claims by Taiwan and Vietnam. And while Indonesia
+does not claim territory in the South China Sea, it can also be considered a
+disputant in maritime conflicts because its exclusive economic zone (EEZ)
+overlaps with China’s nine-dash-line claim. Given that Indonesia and China
+frequently clash over fishing rights near Indonesia’s Natuna Islands, Indonesia
+is pertinent to activities in and decisions about the sea.
+Studies have shown that over the past decades parties to the disputes have
+adopted and adapted different tactics, whether military, administrative, or
+diplomatic, to assert and solidify their South China Sea claims.3 One increasingly
+prominent tactic has been the dispatch of maritime law-enforcement (MLE)
+vessels to patrol and exercise maritime police authority in their own EEZs and
+the contested waters. While many MLE agencies within the member states of
+the Association of Southeast Asian Nations (ASEAN) are now under civilian
+jurisdiction (see Appendix 1), the operational spectrum of these organizations
+still involves not only civil defense but also different levels of combat duties. In
+the absence of a manual or uniform framework for MLE operations, there is
+
+1 Barry Buzan, A Sea of Troubles? Sources of Dispute in the New Ocean Regime, Adelphi Paper 9, no.
+
+11 (London: International Institute for Strategic Studies, 1978). See also Choon-ho Park, “The
+South China Sea Disputes: Who Owns the Islands and the Natural Resources?” Ocean Development
+& International Law 5, no. 1 (1978): 29–59.
+
+2 This article uses English-language names for disputed South China Sea features to avoid any
+
+appearance of bias. Although names are not the basis for determining sovereignty, the naming of
+maritime features and zones, especially disputed ones, has long been a way for parties to date and
+defend their claims. For instance, Vietnam refers to the South China Sea as the “East Sea” (Bien
+Dong) and has Vietnamese-language names for the Spratly Islands (Truong Sa) and Paracel Islands
+(Hoang Sa).
+
+3 Andrew Chubb, “Dynamics of Assertiveness in the South China Sea: China, the Philippines, and
+
+Vietnam, 1970–2015,” National Bureau of Asian Research, NBR Special Report, no. 99, May 2022
+u https://www.nbr.org/wp-content/uploads/pdfs/publications/sr99_dynamicsofassertiveness_
+may2022.pdf. See also Christopher D. Yung and Patrick McNulty, “An Empirical Analysis of
+Claimant Tactics in the South China Sea,” National Defense University, Strategic Forum, August
+2015 u https://ndupress.ndu.edu/Portals/68/Documents/stratforum/SF-289.pdf.
+
+[ 129 ]
+
+asia policy
+
+a heightened risk that maritime incidents in the South China Sea will escalate
+beyond the threshold of peaceful actions or those that can be settled by
+civilian law enforcement alone. As the number of fishing vessels, coast guard
+vessels, and naval vessels from actors in the South China Sea has increased in
+recent years, clashes in the contested waters have become more frequent. In
+short, the growing prominence of MLE activities in Southeast Asia is driven
+by four developments: (1) expanding maritime commerce, (2) new security
+challenges drawing in more state and nonstate actors, (3) protracted maritime
+and territorial disputes, and (4) increased interactions with foreign partners
+and their maritime aid.4
+Given the generally intractable nature of maritime territorial conflicts
+and the difficulty of managing tensions in multiparty disputes over territorial
+issues, this article explores the operations of MLE vessels from both legal
+and practical perspectives in the South China Sea. In particular, the article
+identifies the patterns of maritime policing by MLE vessels of dispute
+claimants during unplanned encounters at sea. On that basis, the article draws
+insights regarding MLE operations in the management of territorial disputes.
+This research provides an updated analysis on the role of MLE in what
+appears to be a competing, rather than cooperative, trend in the regional
+maritime domain. Until now, the only dataset on South China Sea incidents
+is one that has been compiled by the China Power Project at the Center for
+Strategic and International Studies (CSIS).5 But given that the CSIS dataset
+has not been updated since early 2020 and that the data coding leaves many
+questions unanswered, the author has re-collected, verified, and recoded the
+raw data on these maritime incidents. This research yields a new, up-to-date, and
+more suitable dataset on MLE activities in the South China Sea. In particular,
+the revised dataset provides information, where available, on the presence of
+forcible measures, physical damage and/or human casualties involved in an
+MLE incident, diplomatic responses by involved parties’ governments, the
+involvement of any third party, and the invocation of international law.
+The dataset supports and supplements the argument that maritime
+policing may have increased in frequency and intensity. At the same time,
+the outcomes of many maritime incidents suggest that, even with three
+factors reported—the use of forcible measures, physical damage, and human
+
+4 Prashanth Parameswaran, “Managing the Rise of Southeast Asia’s Coast Guards,” Wilson
+
+Center, February 2019 u https://www.wilsoncenter.org/sites/default/files/media/documents/
+publication/2019-02_managing_the_rise_of_southeast_asias_coast_guards.pdf.
+
+5 “Are Maritime Law Enforcement Forces Destabilizing Asia?” Center for Strategic and International
+
+Studies (CSIS), ChinaPower, 2020 u https://chinapower.csis.org/maritime-forces-destabilizing-asia.
+
+[ 130 ]
+
+nguyen
+
+•
+
+law and (dis)order in the south china sea
+
+injuries or casualties—such incidents did not escalate beyond confrontation
+at sea and post-incident diplomatic complaints. In worse scenarios, vessel
+confrontations and standoffs dragged on from one to two months, causing
+longer diplomatic rifts. Furthermore, of the 115 incidents recorded between
+2010 and 2022, only two cases involving the Philippines and China—the
+Scarborough Shoal incident spanning April–May 2012 and the Second
+Thomas Shoal incident during March 9–29, 2014—were addressed in the
+award of the Permanent Court of Arbitration in July 2016.6 None of the cases
+were brought to a regional maritime security forum (for example, the ASEAN
+Regional Forum) or another international judicial forum (for example, the
+International Tribunal for the Law of the Sea). That means that the majority
+of maritime incidents in the South China Sea fizzled out with no party being
+held accountable for violent actions at sea, despite local fishers’ complaints
+and official diplomatic protests. The findings imply an implicit coordinated
+effort by disputants in the South China Sea to contain conflict escalation to
+the maritime domain. In other words, tensions might flare up at sea among
+participating vessels and individuals and result in diplomatic standoffs, but
+disputants have mostly refrained from taking hostile political or legal action
+against harassment at sea.
+Notable empirical findings also point out that clashes at sea involving a
+fishing vessel and an MLE vessel could escalate toward aggression. According
+to the evidence, half the time when carrying out their law-enforcement duties,
+MLE vessels were reportedly taking actions more aggressive than the expected
+international practice (for example, making hostile maneuvers, ramming the
+opposing vessel in a dangerous manner, cutting cable, opening fire, shooting
+water cannons, and sinking the opposing vessel, among others). Moreover,
+China was found to be the major instigator in these maritime incidents, with
+the China Coast Guard involved in 71% of the cases. Drawing on evidence
+from these examples, this article calls for reigniting negotiations among the
+regional parties for a joint fisheries management scheme and building greater
+practical cooperation among MLE agencies (such as more frequent exercises
+and use of hotlines to avoid or manage incidents). Discussions on finalizing a
+code of conduct for the South China Sea, whether as a binding agreement or
+
+6 Lyle J. Morris, “The Crucial South China Sea Ruling No One Is Talking About,” Diplomat,
+
+September 9, 2016 u https://thediplomat.com/2016/09/the-important-south-china-sea-rulingno-one-is-talking-about; and Carlyle Thayer, “The China-Philippines Face Off at Scarborough
+Shoal: Back to Square One?” E-International Relations, April 26, 2012 u https://www.e-ir.
+info/2012/04/26/the-china-philippines-face-off-at-scarborough-shoal-back-to-square-one.
+
+[ 131 ]
+
+asia policy
+
+not, should also consider the jurisdictional complexity of MLE authorizations
+and the management of maritime incidents involving MLE vessels.
+The remainder of this article is organized as follows:
+u
+
+u
+
+u
+u
+
+u
+
+pp. 132–40 examine the theory and practice of maritime policing in
+Southeast Asia.
+pp. 140–44 explain the data construction process used to evaluate
+maritime incidents in the South China Sea.
+pp. 144–61 assess findings from the data.
+pp. 161–62 conclude by calling for a more comprehensive legal authority
+framework for MLE operations in the South China Sea that is binding or
+holds regional parties accountable for the benefit of all claimants to the sea.
+pp. 163–64 provide appendixes.
+
+maritime policing: theory and practice
+MLE vessels, more conventionally referred to as marine police or coast
+guard vessels, are often operated by a civilian government agency that is
+separate from, though likely coordinates with, naval vessels for the purpose
+of patrolling, policing, and protecting fisheries and other marine resources.7
+While there is a growing body of research into the development of MLEs
+in the Asia-Pacific region, with considerable focus on Southeast Asia,8 the
+linkage between MLE operations and the management of disputes, not least
+in the South China Sea, remains debatable. On the one hand, as civilian
+or paramilitary organizations, MLE bodies, at an institutional level, have
+the potential to facilitate regional maritime cooperation and confidence
+building.9 On the other hand, MLE vessels are being increasingly deployed
+not just as a tool to police territorial waters but also as an instrument of
+foreign policy in waters beyond the limits of national jurisdiction. Given that
+an increasing use of force has been noted in many maritime encounters,10
+
+7 Rob McLaughlin, “Authorizations for Maritime Law Enforcement Operations,” International
+
+Review of the Red Cross 98, no. 902 (2016): 465–90; and Anthony Bergin, “A New Regional
+Maritime Confidence Building Measure: The Indo-Pacific Maritime Law Enforcement Centre,”
+Australian Journal of Maritime & Ocean Affairs 13, no. 3 (2021): 150–56.
+
+8 See, for example, Bergin, “A New Regional Maritime Confidence Building Measure”;
+
+Parameswaran, “Managing the Rise of Southeast Asia’s Coast Guards”; and “Are Maritime Law
+Enforcement Forces Destabilizing Asia?”
+
+9 Sam Bateman, “Coast Guards: New Forces for Regional Order and Security,” East-West Center,
+
+Asia-Pacific Issues, no. 68, January 2003 u https://scholarspace.manoa.hawaii.edu/server/api/core/
+bitstreams/3c374e89-f25e-4f1c-844f-9eed49358562/content.
+
+10 Lyle J. Morris, “Blunt Defenders of Sovereignty: The Rise of Coast Guards in East and Southeast
+
+Asia,” Naval War College Review 70, no. 2 (2017): 75–112.
+
+[ 132 ]
+
+nguyen
+
+•
+
+law and (dis)order in the south china sea
+
+it is important to understand the legal complexity of maritime policing and
+the use of force at sea.
+
+[146.110.152.37] Project MUSE (2025-09-03 15:48 GMT)
+
+Legal Authorizations
+The exercise of law-enforcement powers at sea by states against foreign
+vessels is premised on states’ territorial jurisdiction as well as a set of
+principles in customary international law, including the 1982 United Nations
+Convention on the Law of the Sea (UNCLOS). Examples include the principle
+of self-defense, which is considered an exception to the prohibition against the
+use of force under Article 2(4) of the UN Charter and customary international
+law, and the sovereign immunity granted to foreign warships and other
+government vessels operated for noncommercial purposes under Articles 32,
+95, 96, and 236 of UNCLOS.11 However, in addition to sovereign rights over
+a coastal state’s territorial sea, which extends 12 nautical miles (nm) from the
+baseline, UNCLOS also grants a coastal state two additional sovereign rights:
+the right to natural resources in its EEZ, which extends up to a maximum of
+200 nm from the coastal baseline, and the right to exploitation of resources in
+the seabed and subsoil of its continental shelf, which can extend seaward up
+to a maximum of 350 nm from the baseline.12
+Thus, UNCLOS grants coastal states and foreign states different rights
+and duties in different maritime zones (see Figure 1). In particular, the
+coastal state has complete and exclusive sovereign rights in its internal waters,
+including its territorial sea. These rights encompass the jurisdiction under
+Article 28 to arrest or investigate on board a foreign ship that has infringed on
+local laws while lying in or passing through the territorial sea.13 Beyond the
+territorial sea, Article 27 of UNCLOS authorizes the coastal state to exercise
+criminal jurisdiction on board a foreign vessel only if (1) the consequences of
+the crime extend to the coastal state, (2) the crime disturbs the peace or order
+of the coastal state and the territorial sea, (3) the shipmaster, a diplomatic
+agent, or a consular official of the flag state has asked for assistance from local
+authorities, or (4) action is needed to intercept illicit drug traffic.14
+What can be seen is that the extended maritime zones require coastal
+states to build the appropriate institutions to exercise their power and rights
+
+11 United Nations, “United Nations Convention on the Law of the Sea,” December 10, 1982 u https://
+
+www.un.org/depts/los/convention_agreements/texts/unclos/unclos_e.pdf.
+
+12 Ibid., Part V.
+13 Ibid., Art. 28.
+14 Ibid., Art. 27.
+
+[ 133 ]
+
+asia policy
+
+FIGURE 1
+Maritime Zones and Rights for
+Coastal States and Foreign States under UNCLOS
+Internal waters
+
+International waters
+12 nm
+
+24 nm
+
+200 nm
+
+Territorial sea
+Contiguous zone
+Exclusive economic zone (EEZ)
+
+Land
+
+Baseline
+
+High seas
+
+maximum
+350 nm
+
+Continental shelf
+
+The area
+
+Foreign state
+
+Coastal state
+
+Deep seabed
+
+Complete and exclusive rights
+over sovereign territory
+
+No right of
+navigation;
+right of free
+access to
+ports
+
+Sovereign
+rights (FISC
+enforcement
+jursidiction)
+
+Rights to innocent passage (private
+or military) and transit passage
+
+Sovereign rights
+for exploring,
+exploiting,
+conserving, and
+managing living
+and nonliving
+resources
+
+Sovereign
+rights to
+resources in
+the seabed and
+subsoil
+
+Rights to
+freedom of
+navigation and
+overflight, laying
+of submarine
+pipes and cables,
+and “other
+internationally
+lawful uses”
+
+Freedom of navigation and overflight,
+laying of submarine pipes and cables,
+constructing artificial islands, fishing,
+and marine scientific research
+
+No sovereign
+rights
+
+Note: FISC stands for fiscal, immigration, sanitary, and customs.
+
+at sea, as well as to oversee and even defend offshore areas beyond their
+territorial sea. Developing maritime surveillance and enforcement in addition
+to a naval force also makes sense when considering the legal ramifications. As
+warships and military vessels are immune from arrest, detention, and seizure,
+whether in internal or international waters, any actions taken against them
+would be difficult and risk provoking a conflict. In contrast, an MLE vessel can
+arrest or board a foreign ship as part of its maritime policing authorization.
+This action might not be seen as provocative but does raise questions about
+the limitations within which MLE vessels operate.
+[ 134 ]
+
+nguyen
+
+•
+
+law and (dis)order in the south china sea
+
+In sum, Articles 27, 28, 73, 105, 110, and 111 of UNCLOS lay out the
+jurisdiction of coastal states concerning foreign vessels.15 On this basis, the
+legal authority framework for MLE can be summed up in eight types of actions:
+(1) patrolling, (2) signaling, stopping, blocking, restricting the maneuvering
+space of another vessel, or boarding the suspect vessel, (3) searching the suspect
+vessel or the people aboard, (4) detaining or arresting people aboard the
+suspect vessel and/or the suspect vessel itself, (5) seizing items on the suspect
+vessel, (6) escorting, directing, or steaming the suspect vessel, with its people
+and cargo, to a state port or similar place for investigation, (7) conducting an
+investigation, and (8) subsequently prosecuting or imposing administrative
+action or sanction.16 A typical example of maritime patrolling and policing is
+the interception of a fishing vessel for either alleged illegal fishing or fishing
+in a disputed zone.
+While the legal bases for MLE actions are generally agreed upon, as
+institutionalized in several countries’ coast guard acts and regulations, there
+remain significant hurdles to identifying the appropriate maritime policing
+authority and distinguishing the suitable use of force at sea. The issue is
+further complicated by the fact that several South China Sea disputants
+have issued regulations or laws that effectively authorize MLE forces to use
+arms in the hot pursuit of a foreign vessel encroaching on the disputant’s
+territorial sea and leaving toward the high seas. For instance, in 2015,
+Vietnam enacted a decree that authorizes the use of “tool and weapon in line
+with the law” in exercising the right of hot pursuit, though it did not specify
+which weapons the law allows.17 Similarly, there have been concerns about
+the use of force under China’s new Maritime Police Law, which took effect
+on February 1, 2022, as maritime police agencies are given the right to take
+“all necessary measures, including the use of weapons” and “to take measures
+such as forced eviction” to stop foreign vessels or individuals from infringing
+on China’s territorial sovereignty, sovereign rights, or jurisdiction.18 While
+the use of weapons in maritime policing, especially during hot pursuit,
+15 Article 73 relates to notice of enforcement actions, Article 105 to seizure of a pirate ship, Article
+
+110 to the right of visit, and Article 111 to the right of hot pursuit.
+
+16 See also McLaughlin, “Authorizations for Maritime Law Enforcement Operations.”
+17 See Government of the Socialist Republic of Vietnam, “Nghi dinh so: 71/2015/NĐ-CP ve quan ly
+
+hoat dong cua nguoi, phuong tien trong khu vuc bien gioi bien nuoc Cong Hoa Xa Hoi Chu Nghia
+Viet Nam” [Decree No: 71/2015/ND-CP on the Management of Activities of Persons, Vehicles and
+Craft in Maritime Boundary Areas of the Socialist Republic of Vietnam], Thu vien phap luat, 2015
+u https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-dinh-71-2015-ND-CP-quan-lyhoat-dong-nguoi-phuong-tien-trong-khu-vuc-bien-gioi-bien-Viet-Nam-289138.aspx.
+
+18 For an English translation and analysis of Articles 21 and 22, see Raul (Pete) Pedrozo, “Maritime
+
+Police Law of the People’s Republic of China,” International Law Studies 97, no. 465 (2021) u
+https://digital-commons.usnwc.edu/cgi/viewcontent.cgi?article=2960&context=ils.
+
+[ 135 ]
+
+asia policy
+
+might be justified, the deployment of firearms against foreign vessels, in
+general, appears inconsistent with international law wherein foreign warships
+and noncommercial government vessels receive sovereign immunity. By
+comparison, the Philippine Coast Guard has the most detailed, publicly
+available rules governing the use of force, with different levels of force outlined
+for various scenarios in restraining a suspect vessel and/or countering a
+physical attack.19 Overall, the lack of coherent rules concerning the use of
+force during an engagement in the region heightens risks for miscalculation
+and misunderstanding in unplanned encounters at sea. Given that all relevant
+parties consider such an outcome undesirable, a standardized legal framework
+for MLE agencies and coast guard vessels in the South China Sea is necessary.
+
+Law-Enforcement Practices in the South China Sea
+In practice, maritime policing in the South China Sea faces
+treacherous currents, not just because of overlapping jurisdictions in the
+disputed waters but for several other reasons. First, there are insufficient
+cooperative mechanisms among regional coast guards (Table 1)—and the
+mechanisms that currently exist are inadequate because they are either
+too narrow in scope or not effective enough. For instance, although the
+dispute claimants are all parties to the Regional Cooperation Agreement
+on Combating Piracy and Armed Robbery against Ships in Asia (ReCAAP),
+this multilateral agreement focuses mainly on promoting and enhancing
+government-to-government cooperation against piracy and armed
+robbery of ships in Asia. Launched in November 2006, ReCAAP now has
+21 members across four continents and runs the Information Sharing Centre
+in Singapore that encourages member coast guards to share information
+and engage in capacity building for combating piracy and armed robbery.
+In intra-ASEAN cooperation, two cooperative mechanisms stand out, yet
+neither is adequately inclusive: the Malacca Strait Patrol initiative, which
+involves Singapore, Indonesia, Malaysia, and Thailand; and the trilateral
+maritime patrol arrangement in the Sulu and the Celebes Seas through
+the Trilateral Cooperative Arrangement that involves Indonesia, Malaysia,
+and the Philippines. Since 2015, the ASEAN Coast Guard Forum has also
+
+19 Department of Environment and Natural Resources (Philippines) et al., Coastal Law
+
+Enforcement, Philippine Coastal Management Guidebook Series, no. 8 (Cebu City: Coastal
+Resources Management Project, 2001) u https://faspselib.denr.gov.ph/sites/default/files//
+Publication%20Files/crmguidebook8.pdf.
+
+[ 136 ]
+
+nguyen
+
+•
+
+law and (dis)order in the south china sea
+
+TABLE 1
+List of Notable Cooperation Initiatives on Maritime Security
+in Southeast Asia
+#
+
+Year
+
+Initiative
+
+1
+
+2004
+
+Malacca Strait Sea Patrols (MSP)
+
+Indonesia, Malaysia,
+Singapore, and Thailand
+
+Multilateral
+
+Heads of Asian Coast Guard
+Agencies Meeting (HACGAM)
+
+Australia, Bahrain,
+Bangladesh, Brunei,
+Cambodia, China, India,
+Indonesia, Japan, Laos,
+Malaysia, Maldives,
+Myanmar, Pakistan, South
+Korea, Singapore, Sri Lanka,
+Thailand, Turkey, and
+Vietnam
+
+Multilateral
+
+Multilateral
+
+2
+
+2004
+
+Participating parties
+
+Characteristic
+
+3
+
+2006
+
+Regional Cooperation
+Agreement on Combating
+Piracy and Armed Robbery
+against Ships in Asia (ReCAAP)
+
+21 contracting parties:
+Australia, Bangladesh,
+Brunei, Cambodia, China,
+Denmark, Germany, India,
+Japan, Laos, Myanmar, the
+Netherlands, Norway, the
+Philippines, Singapore,
+South Korea, Sri Lanka,
+Thailand, the United
+Kingdom, the United States,
+and Vietnam
+
+4
+
+2015
+
+ASEAN Coast Guard Forum
+(ACGF)
+
+ASEAN member states
+
+Multilateral
+
+5
+
+2016
+
+Guidelines for Hotline
+Communications among
+Senior Officials of the
+Ministries of Foreign Affairs of
+China and the ASEAN Member
+States in Response to Maritime
+Emergencies
+
+China and ASEAN member
+states
+
+Multilateral
+
+6
+
+2016
+
+Code for Unplanned
+Encounters at Sea (CUES)
+
+China and ASEAN member
+states
+
+Multilateral
+
+7
+
+2016
+
+Memorandum of
+understanding on cooperation
+
+China Coast Guard and
+Vietnam Coast Guard
+
+Bilateral
+
+8
+
+2016
+
+Memorandum of
+understanding on cooperation
+
+China Coast Guard and
+Philippine Coast Guard
+
+Bilateral
+
+9
+
+2017
+
+Trilateral maritime patrols in
+the Sulu and Celebes Seas
+
+Indonesia, Malaysia, and
+the Philippines
+
+Multilateral
+
+10
+
+2021
+
+Memorandum of
+understanding on cooperation
+in strengthening maritime
+security and safety
+
+Vietnam Coast Guard
+and Indonesian Maritime
+Security Agency
+
+Bilateral
+
+2022
+
+Memorandum of
+understanding on information
+exchange and cooperation to
+effectively address emerging
+maritime issues
+
+Vietnam Coast Guard
+and Malaysian Maritime
+Enforcement Agency
+
+Bilateral
+
+11
+
+[ 137 ]
+
+asia policy
+
+been a platform for South China Sea claimants to discuss cooperation and
+coordination among regional MLE agencies.20
+What is missing, however, is a clear template for crisis communication at
+sea, such as continuous “hotline” communication channels or a set of unified
+coast guard protocols that progress from low to high in terms of crisis level.
+In fact, in September 2016 leaders from China and ASEAN jointly approved
+a set of guidelines for hotline communications among senior officials in
+response to maritime emergencies in the South China Sea. At the same
+meeting, ASEAN and China issued a joint statement on adopting the Code
+for Unplanned Encounters at Sea (CUES).21 However, it is unclear whether
+the regional hotline has been conducive to defusing tensions, given that China
+often insists on solving any disagreements through bilateral channels. This
+is evidenced by the decision in January 2023 by China and the Philippines
+to set up their own hotline for maritime rows.22 The extent to which CUES
+contributes to dispute management at sea is also questionable since it only
+covers naval ships and naval aircraft and not coast guard vessels. Though
+there have been talks about extending CUES to MLE vessels, the proposal
+faces considerable resistance from the latter, as a CUES-like agreement would
+prevent MLE vessels from using certain operational tactics that are part of
+their enforcement roles, including shouldering and ramming other vessels.23
+Second, although there is increased spending and reinforcement for the
+coast guard and maritime border response capabilities in the region, this
+development has been uneven.24 For instance, Singapore, with its small EEZ,
+
+20 The ASEAN coast guards are members of the Heads of Asian Coast Guard Agencies Meeting,
+
+which was established in 2004 to create a collaborative framework on maritime law enforcement.
+
+21 CUES was agreed upon at the 2014 Western Pacific Naval Symposium and is broadly accepted by
+
+Pacific states, but its implementation is voluntary and nonbinding. Taiwan also observes the CUES
+protocols although not a signatory to the agreement. See “The 19th China-ASEAN Summit Adopts
+Guidelines for Hotline Communications among Senior Officials of the Ministries of Foreign
+Affairs of China and ASEAN Member States in Response to Maritime Emergencies,” Ministry
+of Foreign Affairs (PRC), 2016 u https://www.fmprc.gov.cn/mfa_eng/topics_665678/2016zt/
+LKQCXDYHZLDRXLHYBDLWJXZSFW/201609/t20160912_704176.html; and “Joint Statement
+on the Application of the Code for Unplanned Encounters at Sea in the South China Sea,” ASEAN,
+September 7, 2016 u https://asean.org/wp-content/uploads/2016/09/Joint-Statement-on-theApplication-of-CUES-in-the-SCS-Final.pdf.
+
+22 Jacob Lazaro, “Manila, Beijing to Set up ‘Hotline’ on Maritime Row,” Philippine Daily Inquirer, December
+
+30, 2022 u https://newsinfo.inquirer.net/1710429/manila-beijing-to-set-up-hotline-on-maritime-row.
+
+23 Sam Bateman, “CUES and Coast Guards,” East Asia Forum, October 7, 2016 u https://www.
+
+eastasiaforum.org/2016/10/07/cues-and-coast-guards; and Lim Han Wei, “Code for Unplanned
+Encounters at Sea and Maritime Stability in the Indo-Pacific,” Pointer: Journal of the Singapore
+Armed Forces 42, no. 2 (2016): 12–24.
+
+24 John Coyne, Ashleigh Sharpe, and Dione Hodgson, “Mice That Roar: Patrol and Coastal Combatants
+
+in ASEAN,” Australian Strategic Policy Institute, August 2018 u https://s3-ap-southeast-2.
+amazonaws.com/ad-aspi/2018-07/SR%20124%20Mice%20that%20roar.pdf?VersionId=K7KInSTu.
+kzziSN0XxssGqszZOjh0eYW.
+
+[ 138 ]
+
+nguyen
+
+•
+
+law and (dis)order in the south china sea
+
+[146.110.152.37] Project MUSE (2025-09-03 15:48 GMT)
+
+focuses more on near-shore modernization and fast-response capabilities,
+whereas other ASEAN states seek to strengthen patrols to demonstrate
+physical presence and responses within their EEZs.25 The opaque investment in
+and uneven development of coast guard equipment and capabilities, coupled
+with historical distrust within the region and sensitivities over sovereignty,
+present a dormant risk for any interstate conflict involving naval, militia, or
+coast guard units to escalate quickly.
+Third, the intricacy of navigating MLE in the South China Sea is also
+complicated by the growing prominence of “maritime militias”—composed
+of fishers and fishing vessels—in Southeast Asia. The securitization of fishing
+in the South China Sea stems from the securitization of the dispute over the
+waterway and its features.26 In this sense, claimants are not just investing in
+military buildup but also enhancing the presence of civilian fishery surveillance
+and fishing fleets.27 Among the claimants, China has the largest maritime
+militia, with a fishing fleet estimated to range from 200,000 to 800,000 vessels.28
+In contrast, the Philippines has over 247,000 fishing vessels, while Vietnam has
+over 95,000 registered fishing vessels.29 Since the 2010s, China has been utilizing
+its maritime militia and fishing fleets to exercise fishing rights and stake out
+territorial claims within China’s nine-dash line. Such a move is part of China’s
+gray-zone tactics—“coercive actions that are shy of armed conflict but beyond
+normal diplomatic, economic, and other activities.”30 These tactics are seen as
+a policy instrument to assert, bit by bit, China’s jurisdictional, economic, and
+geopolitical interests in the sea.31 In particular, Chinese fishing fleets reportedly
+have been frequently escorted by the China Coast Guard, the People’s Liberation
+Army Navy, and the People’s Armed Forces Maritime Militia, with the coast
+
+25 Coyne, Sharpe, and Hodgson, “Mice That Roar.”
+26 Hongzhou Zhang and Sam Bateman, “Fishing Militia, the Securitization of Fishery and the South
+
+China Sea Dispute,” Contemporary Southeast Asia 39, no. 2 (2017): 288–314.
+
+27 Derek Grossman, “Military Build-up in the South China Sea,” in The South China Sea: From a
+
+Regional Maritime Dispute to Geo-Strategic Competition, ed. Leszek Buszynski and Do Thanh Hai
+(London: Routledge, 2019), chap. 12.
+
+28 Ian Urbina, “How China’s Expanding Fishing Fleet Is Depleting the World’s Oceans,” Yale
+
+Environment 360, August 17, 2020 u https://e360.yale.edu/features/how-chinas-expandingfishing-fleet-is-depleting-worlds-oceans.
+
+29 Vu Thi Phuong Thanh, “Countries Fishery Trade: Vietnam,” Southeast Asian Fisheries
+
+Development Center, 2019 u http://www.seafdec.org/county-fisheries-trade-viet-nam; and
+Napoleon Salvador J. Lamarca, “Fisheries Country Profile: Philippines,” Southeast Asia Fisheries
+Development Center, 2017 u http://www.seafdec.org/fisheries-country-profile-philippines.
+
+30 Bonny Lin et al., “A New Framework for Understanding and Countering China’s Gray Zone
+
+Tactics,” RAND Corporation, Research Brief, 2022 u https://www.rand.org/pubs/research_briefs/
+RBA594-1.html.
+
+31 Luo Shuxian and Jonathan G. Panter, “China’s Maritime Militia and Fishing Fleets,” Military Review
+
+101, no. 1 (2021): 6–21.
+
+[ 139 ]
+
+asia policy
+
+guard being empowered to lead patrolling activities in the contiguous zone and
+territorial waters China claims in the South China Sea.
+Fourth, the less aggressive nature of MLE vessels does not necessarily
+imply that encounters at sea will not result in a military response. Here lie two
+assumptions: first, MLE vessels are less threatening in terms of their potential
+use of force to the vessels of other nations during unplanned encounters at
+sea; and, second, the civilian, jurisdictional nature of coast guards signals a
+focus on administrative policing rather than an intent to escalate conflict. Yet,
+if one party assumes a low likelihood of military response by a coast guard,
+there is a risk that it would end up taking even more provocative actions.
+This section has reviewed the legal and practical aspects of maritime
+policing and the notable MLE challenges for claimants in the South China
+Sea. The following sections explain the data construction process and discuss
+findings from the data.
+
+materials and method
+Data Collection
+The construction of the dataset on maritime incidents in the South China
+Sea relies on raw data provided by CSIS.32 Changes were made to the coding
+of the actions and outcome, with the addition of five columns denoting
+whether there is (1) the threat of forcible measures, (2) the use of forcible
+measures, (3) diplomatic protests (only protests by diplomatic officials or
+organizations count), (4) the mediation of a third party, and (5) the invocation
+of international law to settle the incident or to seek a judicial ruling on the
+case. Table 2 summarizes how the main variables are coded.33
+
+Data Justification and Validity
+The data collected for this research continues to be a work in progress.
+There are three major points to note in the use of this dataset.
+First, the coding system is subject to fine-tuning. During the data
+collection and verification process, which began in October 2021 and ended
+in January 2023, the author coded, recoded, and updated the data five times
+
+32 “Are Maritime Law Enforcement Forces Destabilizing Asia?”
+33 The author conducted the coding scheme and process and thus may present subjective biases.
+
+As this project progresses, one or two more coders will be added to verify the data, ensuring the
+validity of the dataset.
+
+[ 140 ]
+
+nguyen
+
+•
+
+law and (dis)order in the south china sea
+
+TABLE 2
+Coding Scheme for a Reconstructed Dataset
+on Maritime Incidents in the South China Sea
+#
+
+Variable name
+
+Explanation
+
+1
+
+Start date
+
+The date when the incident was reported to have
+started
+
+2
+
+End date
+
+The date when the incident was reported to have
+ended
+
+3
+
+Actor 1, Actor 2,
+Actor 3, Actor 4, etc.
+
+The first, second, third, fourth actor, etc. involved in the
+incident
+
+4
+
+Unit 1, Unit 2, Unit 3,
+Unit 4, etc.
+
+The operational unit, i.e., the type of vessel, of the first,
+second, third, fourth actor, etc. involved
+
+5
+
+No. Unit 1, No.
+Unit 2, No. Unit 3,
+No. Unit 4, etc.
+
+The number of operational units—i.e., the vessels, of
+the first, second, third, fourth actor, etc. involved
+
+6
+
+Action1, Action2,
+Action 3, Action 4,
+etc.
+
+The actions of the first, second, third, fourth actor, etc.,
+respectively (see Appendix 2 for the detailed coding
+scheme for actions divided by three main vessel types:
+MLE vessels, fishing vessels, and other vessels)
+
+7
+
+Incident location
+
+The location where the incident was reported to have
+happened
+
+8
+
+Incident area
+
+The area where the incident location lies within
+
+Instigator
+
+This variable is different from the coding of actor
+because it records which party was the first to take
+action against the other party, not merely the first
+party to be present. “None” indicates there is no
+instigator whereas “N/A” indicates information on who
+instigated the incident was unclear and thus
+not available.
+
+10
+
+Opposing party
+
+This variable is different from the coding of actor
+because it records which party took the opposing
+stance during the incident, not merely the second
+party to be present. “None” indicates there is no
+opposing party whereas “N/A” indicates information on
+who opposed during the incident was unclear and thus
+not available.
+
+11
+
+Physical damage
+
+Whether the incident resulted in any reported damage
+to a vessel or other kind of physical destruction
+
+12
+
+Human injuries
+
+Whether the incident resulted in any reported injuries
+or deaths among a vessel’s crew
+
+Threat of forcible
+measures
+
+Whether any party threatened to take forcible
+measures—defined as a coercive attempt to compel
+another vessel to take or not take a certain specific action
+or to take an action against its own will. These actions
+may include but are not limited to, aiming or directing
+weapons, closing in within weapon-release range, closing
+in at a high speed, firing warning shots (not directly at
+the target), issuing a verbal threat of force if the other
+party does not comply, issuing verbal demand to get
+personnel on the other vessel to deboard the vessel or to
+surrender, and maneuvering vessels in a close vicinity and
+dangerous manner.
+
+9
+
+13
+
+[ 141 ]
+
+asia policy
+
+Table 2 continued
+#
+
+Variable name
+
+Explanation
+
+14
+
+Use of forcible
+measures
+
+Whether any party actually used forcible measures—
+defined as a deployment of any kind of weapon aimed
+at attacking another vessel, whether for maritime
+policing or not. These actions may include, but are not
+limited to, shooting water cannons, ramming vessels
+against one another, opening fire, throwing rocks or
+stones, and using mines or explosives.
+
+15
+
+Diplomatic protests
+
+Whether any party lodged a formal diplomatic protest
+
+16
+
+Third party
+
+Whether a third party unrelated to the incident was
+invited to join the settlement of the incident
+
+17
+
+International law
+
+Whether any party resorted to international law to settle
+the incident or brought the case to an international
+legal forum to seek a judicial ruling on the incident
+
+18
+
+Source(s)
+
+The citations to the articles reporting the incident
+
+to ensure accuracy and bring clarity to both the actions taken by different
+actors involved and the outcomes of these actions. The literature on maritime
+enforcement authorizations highlights the complexity of categorizing MLE
+actions, particularly the threat or use of force undertaken by MLE vessels
+during their missions at sea.34 For this reason, the coding for this dataset is
+drawn from the commonly authorized actions for MLE (see Appendix 2).35
+Additionally, the binary categorization of “threat of forcible measures” and “use
+of forcible measures” should be understood in merely descriptive terms, not
+by their strict legal definitions. Going forward, one can analyze the difference
+between the use of force as prohibited by international law (Article 2 of the
+UN Charter) and the use of arms as part of law-enforcement activities in
+specific cases. It remains to be seen whether such cases could become points
+of legal contention in an already heated dispute.
+Second, the incidents collected are subject to biased reporting from
+the dispute claimants and the author’s limited foreign-language ability in
+compiling these reports. The author assembled available news reports in
+English, Vietnamese, and Chinese on maritime incidents in the South China
+Sea between 2010 and 2022. However, the dataset is inevitably nonexhaustive,
+
+34 Yen-Chiang Chang, “The Use of Force during Law Enforcement in Disputed Maritime Areas,”
+
+Marine Policy, no. 124 (2021) u https://doi.org/10.1016/j.marpol.2020.104382. See also Atsuko
+Kanehara, “The Use of Force in Maritime Security and the Use of Arms in Law Enforcement under
+the Current Wide Understanding of Maritime Security,” Japan Review 3, no. 2 (2019) u https://
+www.jiia-jic.jp/en/japanreview/pdf/05JapanReview_Vol3_No2_Kanehara.pdf.
+
+35 McLaughlin, “Authorizations for Maritime Law Enforcement Operations.”
+
+[ 142 ]
+
+nguyen
+
+•
+
+law and (dis)order in the south china sea
+
+not just because there may be reports in other languages that the author has
+missed but also because certain claimants may have political reasons to report
+or underreport specific incidents. For example, between December 21, 2019,
+and February 21, 2020, an intense maritime standoff broke out between
+Malaysian, Chinese, and Vietnamese vessels that went unreported in the
+media.36 The detailed positions and movements of vessels could be tracked
+using the vessels’ shipboard automatic identification systems, which is how
+CSIS’s Asia Maritime Transparency Initiative (AMTI) studied this case. The
+dataset also does not include incidents reported in general terms but notes
+their recording for analytical purposes. For example, according to a report
+from AMTI in 2021, Chinese coast guard and maritime militia vessels had
+been harassing Malaysian oil and gas vessels on a “daily basis” for the past
+two years.37 Similarly, the Beijing-based South China Sea Strategic Situation
+Probing Initiative also publishes reports, one of which argues that Vietnamese
+fishing vessels “frequently” intruded into China’s jurisdictional waters in
+2020.38 Meanwhile, the Vietnam Coast Guard reported 32,000 cases of foreign
+vessels encroaching into Vietnamese waters between 2010 and 2021, of which
+over 10,000 cases were identified by Vietnam as violations of the law at sea.39
+Clearly, the perspective of the reporting party and the perspective of the
+disputants involved is relevant to evaluating claims of violations.
+Third, the dataset would benefit from a data validity test as there is only
+one coder to date. The goal for this project is to provide a systematic and
+potentially open dataset on these maritime incidents and related events in the
+South China Sea so that readers and future researchers can check the validity
+of the coding as well as the reported outcomes. Once complete, the dataset
+will be of considerable benefit to researchers studying the South China Sea as
+well as to Indo-Pacific maritime security.
+Fourth, it is important to consider the difference between “maritime
+incidents” and other maritime events: the former refers to a bilateral or
+multilateral encounter and confrontation at sea, whereas the latter covers
+36 “Malaysia Picks a Three-Way Fight in the South China Sea,” CSIS, Asia Maritime Transparency Initiative,
+
+February 21, 2020 u https://amti.csis.org/malaysia-picks-a-three-way-fight-in-the-south-china-sea.
+
+37 Amy Chew, “China Harasses Malaysian Oil and Gas Vessels on a ‘Daily’ Basis, Asia Maritime
+
+Transparency Initiative Says,” South China Morning Post, October 25, 2021 u https://www.scmp.com/
+week-asia/politics/article/3153648/china-harassing-malaysian-oil-and-gas-vessels-daily-basis-asia.
+
+38 Wang Tengfei and Song Runxi, “Vietnamese Illegal Fishing and Maritime Conflicts Continue in
+
+2021,” South China Sea Strategic Situation Probing Initiative, December 31, 2021 u http://www.
+scspi.org/en/dtfx/vietnamese-illegal-fishing-and-maritime-conflicts-continue-2021.
+
+39 Le Quang Dao, “Canh sat bien Viet Nam nang cao chat luong, hieu qua thuc thi phap luat tren
+
+bien” [Vietnam Coast Guard Improves the Quality and Efficiency of Law Enforcement at Sea], Tạp
+chí quoc phong toan dan, 2022 u http://tapchiqptd.vn/vi/bien-dao-viet-nam/canh-sat-bien-vietnam-nang-cao-chat-luong-hieu-qua-thuc-thi-phap-luat-tren-bien/19175.html.
+
+[ 143 ]
+
+asia policy
+
+nonconfrontational events. For instance, in March 2021, about two hundred
+Chinese fishing boats were seen at Whitsun Reef for several weeks, triggering
+a flurry of diplomatic exchanges and protests involving the Philippines,
+China, the United States, and Vietnam. While the incident was considered
+“unprecedented in scale and notable for its duration,”40 it was not included
+in this dataset because no physical confrontation occurred. The dataset,
+however, did track unplanned encounters reported in April 2021 that followed
+this event. The author is involved with assembling another dataset on notable
+events in the South China Sea and has already summarized and published
+data on events from 2022.41
+The expanding presence of the Chinese maritime militia in the South China
+Sea poses threats to the disputants. Therefore, it should be studied in conjunction
+with both the activities of Chinese MLE vessels and the overall activities and
+tactics of other claimants in the contested waters. However, the scope of this
+article is more narrowly focused on the behavior patterns of MLE forces in the
+South China Sea. Thus, while fishing vessels are part of the present study, the
+discussion focuses more on the role of MLE in these maritime incidents.
+Last, the data collection begins with 2010 for two reasons: first, events
+earlier than 2010 are hard to collect and compile systematically due to the lack
+of available resources; second, while incidents occurred in the 1990s, maritime
+frictions waned for a time with China’s adoption of a diplomatic offensive
+in the early 2000s. For instance, the 2002 ASEAN-China Declaration on the
+Conduct of Parties in the South China Sea encouraged confidence-building
+measures among the disputants, although it was nonbinding.
+
+findings and discussion
+Maritime Incidents
+The reconstructed dataset adds 41 lines to the list of maritime incidents
+initially tracked by CSIS, of which 24 incidents dated from 2010 to 2020 and
+17 incidents from 2021 to 2022. Overall, there were 115 reported maritime
+incidents in the South China Sea between 2010 and 2022. Table 3 presents an
+overview of the data.
+40 Samir Puri and Greg Austin, “What the Whitsun Reef Incident Tells Us about China’s Future
+
+Operations at Sea,” International Institute for Strategic Studies, April 9, 2021 u https://www.iiss.
+org/blogs/analysis/2021/04/whitsun-reef-incident-china.
+
+41 Hong-Kong Nguyen, Pham-Muoi Nguyen, and Viet-Ha Nguyen, “South China Sea in 2022: Deadlock
+
+or Not, Disputant States Press Advantages,” ISEAS–Yusof Ishak Institute, Fulcrum, January 25, 2023
+u https://fulcrum.sg/south-china-sea-in-2022-deadlock-or-not-disputant-states-press-advantages.
+
+[ 144 ]
+
+[146.110.152.37] Project MUSE (2025-09-03 15:48 GMT)
+
+nguyen
+
+•
+
+law and (dis)order in the south china sea
+
+Of the 115 incidents recorded for this study, China was the instigator
+in 85 incidents, or 73.9%. Vietnam and the Philippines were the two biggest
+opposing parties, raising their opposition in 57 and 28 incidents (49.6% and
+24.3% of the total), respectively.
+The high number of clashes recorded in 2014 is due to the oil rig
+standoff between Vietnam and China. The heated maritime confrontations
+and diplomatic exchanges, which lasted from May 1 to July 15, started after
+the China National Offshore Oil Corporation deployed its Haiyang Shiyou
+981 oil rig for the first time in Vietnam-claimed waters.42 Vessel ramming
+by both sides and months-long anti-China protests in Vietnam followed the
+oil rig’s deployment.
+In the overall timeline, there was an evident surge of incidents between
+2014 and 2017 and a dramatic decline from 2018. There are three potential
+explanations. First, the dataset relies on publicly available reports of maritime
+incidents in English, Chinese, and Vietnamese. That means incidents reported
+in local languages in Malaysia and Brunei might be underrepresented.
+Second, as noted above, disputants will decide whether to publicize a
+maritime incident, particularly one that involves China, depending on their
+economic and political motives. There are reasons to believe that when
+Vietnam or the Philippines wants to pressure China on disputes involving
+the South China Sea, their respective governments may be more vocal about
+maritime incidents. In a similar way, governments might also choose not to
+report or make public certain incidents as a deliberate attempt to contain a
+conflict behind closed doors. Malaysia, in particular, tends to keep out of
+public view any maritime clashes with China, as well its concern regarding
+Chinese coast guard vessels in Malaysia’s EEZ north of Borneo.43 Malaysia’s
+reticence is likely due to the fact that China has been Malaysia’s top trading
+partner for thirteen consecutive years.44 Third, claimants and interested
+parties to the disputes may have developed new tactics to protect their
+claims without resorting to physical confrontations and aggression. These
+tactics include mobilizing maritime militias and deploying military assets on
+artificial islands constructed on shoals and reefs in disputed parts of the sea.
+42 Michael Green et al., “Counter-Coercion Series: China-Vietnam Oil Rig Standoff,” CSIS, Asia
+
+Maritime Transparency Initiative, June 12, 2017 u https://amti.csis.org/counter-co-oil-rig-standoff.
+
+43 Ralph Jennings, “Why Malaysia, Normally Calm, Is Upset with China over a Maritime Dispute,”
+
+Voice of America, June 9, 2021 u https://www.voanews.com/a/east-asia-pacific_voa-news-china_
+why-malaysia-normally-calm-upset-china-over-maritime-dispute/6206796.html.
+
+44 Department of Statistics Malaysia Official Portal, “Malaysia External Trade Statistics Bulletin,
+
+December 2022,” January 18, 2023 u https://www.dosm.gov.my/v1/index.php?r=column/
+cthemeByCat&cat=139&bul_id=T2VpdEM4a2lsa1FUWm13U2xUN2ZTQT09&menu_id=azJjRW
+pYL0VBYU90TVhpclByWjdMQT09.
+
+[ 145 ]
+
+Philippines' EEZ
+
+Spratly Islands
+
+Spratly Islands
+
+China;
+Philippines
+
+Indonesia
+
+Indonesia
+
+Malaysia
+
+Malaysia
+
+Malaysia;
+Vietnam
+
+Philippines
+
+Philippines
+
+Philippines
+
+Philippines
+
+Taiwan
+
+Vietnam
+
+Vietnam
+
+Vietnam
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+[ 146 ]
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+China
+
+Spratly Islands
+
+Paracel Islands
+
+Gulf of Tonkin
+
+Spratly Islands
+
+West Philippine Sea
+
+West Pacific Ocean
+
+Spratly Islands
+
+Philippines' EEZ
+
+Malaysia's EEZ
+
+North Natuna Sea
+
+Natuna Islands
+
+Palawan, Philippines
+
+Area
+
+China
+
+Opposing
+party
+
+China
+
+Instigator
+
+–
+
+2
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+2010
+
+1
+
+1
+
+–
+
+–
+
+–
+
+–
+
+2
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+2011
+
+–
+
+2
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+2012
+
+–
+
+3
+
+–
+
+–
+
+–
+
+–
+
+1
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+1
+
+2013
+
+–
+
+8
+
+–
+
+–
+
+–
+
+–
+
+2
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+2014
+
+4
+
+11
+
+1
+
+–
+
+–
+
+–
+
+2
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+2015
+
+–
+
+3
+
+–
+
+–
+
+–
+
+–
+
+5
+
+–
+
+–
+
+1
+
+–
+
+–
+
+–
+
+1
+
+–
+
+2016
+
+–
+
+1
+
+–
+
+–
+
+–
+
+–
+
+1
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+2017
+
+–
+
+2
+
+–
+
+–
+
+–
+
+–
+
+1
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+2018
+
+Reported Maritime Incidents in the South China Sea, 2010–22
+
+TABLE 3
+
+1
+
+1
+
+–
+
+–
+
+–
+
+–
+
+1
+
+–
+
+1
+
+1
+
+–
+
+–
+
+1
+
+–
+
+–
+
+2019
+
+–
+
+2
+
+–
+
+–
+
+1
+
+–
+
+–
+
+–
+
+–
+
+–
+
+1
+
+–
+
+–
+
+–
+
+–
+
+2020
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+5
+
+2
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+2021
+
+–
+
+–
+
+–
+
+1
+
+1
+
+1
+
+1
+
+–
+
+–
+
+–
+
+–
+
+1
+
+–
+
+–
+
+–
+
+2022
+
+asia policy
+
+[ 147 ]
+
+China
+
+Taiwan
+
+Vietnam
+
+Vietnam
+
+Philippines
+
+Thailand
+
+None
+
+None
+
+Philippines
+
+None
+
+None
+
+Philippines
+
+N/A
+
+Vietnam
+
+N/A
+
+N/A
+
+Philippines
+
+China
+
+Malaysia
+
+N/A
+
+Vietnam
+
+Vietnam
+
+China
+
+Indonesia
+
+Indonesia
+
+China
+
+China;
+Philippines
+
+Spratly Islands
+
+Disputed location
+
+Philippines' EEZ
+
+Luzon Strait
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+Southern part of the
+South China Sea
+
+Vietnam's EEZ
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+2
+
+Spratly Islands
+
+Spratly Islands
+
+Spratly Islands
+
+Spratly Islands
+
+Vietnam's EEZ
+
+Natuna Islands
+
+Natuna Islands
+
+–
+
+–
+
+–
+
+2010
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+1
+
+2011
+
+–
+
+–
+
+–
+
+1
+
+–
+
+–
+
+–
+
+1
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+2012
+
+–
+
+–
+
+1
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+1
+
+–
+
+–
+
+–
+
+2013
+
+–
+
+–
+
+–
+
+1
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+1
+
+1
+
+–
+
+2014
+
+1
+
+–
+
+1
+
+–
+
+–
+
+–
+
+–
+
+1
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+2015
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+1
+
+–
+
+–
+
+3
+
+–
+
+–
+
+1
+
+2016
+
+–
+
+1
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+1
+
+1
+
+–
+
+–
+
+–
+
+–
+
+2017
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+2018
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+1
+
+–
+
+–
+
+–
+
+–
+
+2019
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+2020
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+2021
+
+–
+
+–
+
+–
+
+–
+
+1
+
+1
+
+1
+
+–
+
+1
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+2022
+
+•
+
+Indonesia
+
+Paracel Islands
+
+China
+
+Spratly Islands
+
+Vietnam's EEZ
+
+Vietnam
+
+Area
+
+Vietnam;
+China
+
+Opposing
+party
+
+China
+
+Instigator
+
+Table 3 continued
+
+nguyen
+law and (dis)order in the south china sea
+
+[ 148 ]
+
+Indonesia
+
+Vietnam;
+Indonesia
+
+Area
+
+–
+
+Natuna Islands
+
+Spratly Islands
+
+Paracel Islands
+
+Vietnam's EEZ
+
+North Natuna Sea
+
+Natuna Islands
+
+Gulf of Tonkin
+
+Taiwan Strait
+
+Spratly Islands
+
+Hua Islet
+
+Gulf of Thailand
+
+Note: N/A indicates information not available.
+
+–
+
+Vietnam;
+China
+
+Vietnam;
+China
+
+Total
+
+Vietnam;
+China
+
+Indonesia
+
+Vietnam
+
+None
+
+China
+
+Vietnam
+
+Vietnam;
+China
+
+Taiwan; China
+
+Taiwan;
+China
+
+Vietnam
+
+Vietnam
+
+Taiwan
+
+Indonesia
+
+China
+
+Taiwan
+
+Vietnam
+
+Vietnam
+
+Opposing
+party
+
+Thailand
+
+Instigator
+
+Table 3 continued
+
+–
+7
+
+4
+
+1
+
+–
+
+–
+
+–
+
+–
+
+–
+
+1
+
+–
+
+–
+
+–
+
+2011
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+2010
+
+4
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+2012
+
+7
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+2013
+
+14
+
+–
+
+–
+
+–
+
+1
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+2014
+
+21
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+2015
+
+17
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+1
+
+–
+
+1
+
+2016
+
+6
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+1
+
+–
+
+2017
+
+3
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+2018
+
+9
+
+1
+
+–
+
+–
+
+–
+
+–
+
+–
+
+1
+
+–
+
+–
+
+–
+
+–
+
+2019
+
+6
+
+–
+
+–
+
+1
+
+–
+
+–
+
+1
+
+–
+
+–
+
+–
+
+–
+
+–
+
+2020
+
+7
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+2021
+
+10
+
+–
+
+–
+
+–
+
+–
+
+1
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+2022
+
+asia policy
+
+nguyen
+
+•
+
+law and (dis)order in the south china sea
+
+As such, the South China Sea remains an area of political volatility, despite the
+decrease in reported maritime incidents.
+In terms of the incident area, 38 of the previously mentioned total of
+115 clashes occurred in the Paracels (33.0%) and 41 clashes in the Spratlys
+(35.6%) (see Table 3). The others took place across the South China Sea’s
+waters—5 within what Vietnam claims as its EEZ, 4 within the Philippines’
+EEZ, 3 in the West Philippine Sea, 1 within Malaysia’s EEZ, and 13 in the
+contested waters around Indonesia’s Natuna Islands.
+
+Vessel Actions
+Table 4 shows the presence of threats and the use of forcible measures.
+The coding of forcible measures does not evaluate the legitimacy of the action;
+it only aims to demonstrate the frequency of forcible measures in maritime
+
+TABLE 4
+Count of Threat and Use of Forcible Measures by Instigator(s)
+
+Instigator(s)
+
+Threat of
+forcible
+measures
+
+No
+
+Use of forcible
+measures
+
+No
+
+No
+
+Yes
+
+China
+
+Yes
+
+12
+
+15
+
+54
+
+China;
+Philippines
+
+–
+
+1
+
+–
+
+Indonesia
+
+–
+
+4
+
+5
+
+Malaysia
+
+–
+
+–
+
+1
+
+N/A
+
+1
+
+1
+
+2
+
+None
+
+2
+
+–
+
+–
+
+Philippines
+
+1
+
+2
+
+2
+
+Taiwan
+
+–
+
+–
+
+2
+
+Taiwan; China
+
+–
+
+–
+
+1
+
+Thailand
+
+–
+
+–
+
+2
+
+Vietnam
+
+1
+
+2
+
+1
+
+Vietnam; China
+
+–
+
+–
+
+2
+
+Vietnam;
+Indonesia
+
+–
+
+–
+
+1
+
+17
+
+25
+
+73
+
+Total
+Note: N/A indicates information not available.
+
+[ 149 ]
+
+asia policy
+
+policing, whether as a threat or a real application. In the 115 reported
+incidents, 98 cases (85.2%) included the threat of forcible measures, of which
+73 cases note its escalation. Of these 73 cases, MLE vessels were present at
+47 (or 64.4% of cases involving the use of forcible measures). This finding
+suggests that many unplanned encounters at sea resulted in the use of forcible
+measures but not all of them are enacted by MLE vessels.
+To further understand the nature of the vessels’ actions, a systematic
+coding of the actions by vessel type provides insights into the reported actions
+during an encounter between two or more vessels (see also Appendix 2).
+Tables 5 and 6 present the number of incidents in which a vessel deployed by
+the first and second actors was involved in the reported maritime incidents over
+the past ten years. Besides the coding breakdown, the actions are eventually
+grouped as either “expected” or “provocative” by vessel types: fishing, MLE,
+or non-MLE/other. Findings from the figures highlight three points: (1) the
+prominent presence of fishing vessels from Vietnam and the Philippines in
+the South China Sea, (2) the frequent interactions between these fishing
+vessels and vessels from China, whether MLE, marine surveillance vessels, or
+naval vessels, and (3) the considerably high number of cases in which forcible
+actions are deemed “provocative” (65 cases with provocative actions out of
+73 incidents with the use of force, equivalent to 89%).
+Between 2010 and 2022, Vietnamese vessels were reported as first on the
+scene in 60 incidents of unplanned maritime encounters, with fishing vessels
+involved in 56 cases. By comparison, Philippine vessels were reportedly
+involved as the first actor in 24 incidents, with 13 cases involving the presence
+of fishing vessels. Chinese MLE vessels were identified as second actors on
+the scene in 50 of 82 incidents involving China (60.9%). At the same time,
+Chinese naval vessels were involved in 10 incidents (12.2%), and unidentified
+Chinese vessels were seen in 9 incidents (11.0%).
+Next, considering all actions and categorizing them by both vessel type
+and the type of actions (“expected” or “provocative”) shows the behavior
+patterns of MLE vessels even more clearly. Figure 2 shows that, of all the
+actions reportedly taken by MLE vessels, MLE vessels can be considered
+to have acted within the expectation of maritime policing approximately
+46.9% of the time, whereas unidentified or other vessels acted within
+expectations only 26.3% of the time. Here, while fishing vessels are found
+to be conducting fishing activities most of the time, as “expected,” there
+were many instances where such fishing activity was deemed “illegal” or
+“encroaching on the waters of others” and led to a violent clash at sea.
+
+[ 150 ]
+
+[ 151 ]
+
+Philippines
+
+Malaysia
+
+Indonesia
+
+–
+
+Marine surveillance
+vessel
+
+Expected
+
+Provocative
+
+Expected
+
+Fishing vessel
+
+–
+
+Expected
+
+–
+
+–
+
+–
+
+Expected
+
+–
+
+–
+
+Exploratory oil rig
+
+Expected
+
+Maritime law
+enforcement vessel
+
+2
+
+Supply vessels
+
+Expected
+
+Marine surveillance
+vessel
+
+–
+
+Expected
+
+Expected
+
+Navy vessel
+
+–
+
+Navy vessel
+
+Provocative
+
+Maritime law
+enforcement vessel
+
+–
+
+–
+
+Provocative
+
+Provocative
+
+–
+
+Marine surveillance
+vessel
+
+–
+
+Expected
+
+2010
+
+Expected
+
+Nature of
+action
+
+–
+
+1
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+1
+–
+
+–
+
+1
+
+1
+
+–
+
+1
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+2
+
+–
+
+–
+
+1
+
+–
+2
+
+–
+
+1
+
+2
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+2015
+
+2014
+
+2013
+
+–
+
+–
+
+–
+
+–
+
+–
+
+2012
+
+1
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+2011
+
+–
+
+–
+
+5
+
+–
+
+–
+
+–
+
+–
+
+1
+
+–
+
+–
+
+–
+
+–
+
+1
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+1
+–
+
+–
+
+–
+
+2017
+
+3
+
+–
+
+2016
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+2018
+
+–
+
+–
+
+1
+
+–
+
+–
+
+–
+
+–
+
+–
+
+1
+–
+
+–
+
+1
+
+–
+
+1
+
+1
+
+–
+
+–
+
+–
+
+–
+
+2020
+
+1
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+2
+
+–
+
+2019
+
+–
+
+–
+
+1
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+2
+
+–
+
+–
+
+1
+
+–
+
+2021
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+1
+
+2
+
+–
+
+–
+
+–
+
+–
+
+2022
+
+1
+
+1
+
+12
+
+1
+
+1
+
+1
+
+1
+
+3
+
+3
+
+5
+
+1
+
+1
+
+10
+
+1
+
+Total
+
+•
+
+China
+
+Fishing vessel
+
+Exploratory oil rig
+
+Vessel type
+
+TABLE 5
+
+First-Actor Involvement by Detailed Vessel Type, 2010–22
+
+[146.110.152.37] Project MUSE (2025-09-03 15:48 GMT)
+
+nguyen
+law and (dis)order in the south china sea
+
+[ 152 ]
+
+Vietnam
+
+Taiwan
+
+Philippines;
+Taiwan
+
+Philippines
+
+Vessel type
+
+–
+
+Provocative
+
+Expected
+
+Expected
+
+Supply vessels
+
+Provocative
+
+–
+
+–
+
+–
+
+–
+
+–
+–
+
+–
+
+–
+
+–
+
+1
+
+–
+
+–
+
+–
+
+Expected
+
+–
+2
+
+1
+
+–
+
+Provocative
+
+Maritime law
+enforcement vessel
+
+Marine surveillance
+vessel
+
+Fishing vessel
+
+–
+2
+
+–
+2
+
+–
+
+1
+
+Expected
+
+Expected
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+3
+
+–
+
+–
+
+–
+
+1
+
+–
+
+–
+
+–
+
+–
+
+1
+–
+
+–
+
+–
+
+–
+
+2013
+
+–
+
+–
+
+–
+
+2012
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+2011
+
+Provocative
+
+–
+
+Expected
+
+Maritime law
+enforcement vessel
+
+–
+
+Expected
+
+–
+
+–
+
+Marine surveillance
+vessel
+
+Expected
+
+–
+
+Fishing vessel
+
+Marine surveillance
+vessel
+
+Expected
+
+–
+
+Expected
+
+TV crew vessel
+
+–
+
+Provocative
+
+–
+
+–
+
+Expected
+
+Expected
+
+2010
+
+Nature of
+action
+
+Supply vessels
+
+Navy vessel
+
+Maritime law
+enforcement vessel
+
+Table 5 continued
+
+–
+
+1
+
+–
+
+–
+
+–
+
+8
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+2014
+
+–
+
+–
+
+–
+
+–
+
+–
+
+17
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+6
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+2
+
+1
+4
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+1
+
+–
+
+–
+
+2018
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+1
+
+–
+
+1
+
+–
+
+2017
+
+–
+
+2016
+
+–
+
+2015
+
+–
+
+1
+
+–
+–
+
+1
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+1
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+4
+
+–
+
+–
+
+1
+
+–
+
+1
+
+–
+
+–
+
+–
+
+–
+
+–
+1
+
+–
+
+–
+
+1
+
+1
+–
+
+2022
+
+2021
+
+2
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+2020
+
+–
+
+–
+
+–
+
+–
+
+3
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+2019
+
+1
+
+1
+
+1
+
+1
+
+1
+
+55
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+2
+
+1
+
+2
+
+Total
+
+asia policy
+
+[ 153 ]
+
+Malaysia
+
+Indonesia
+
+China
+
+Expected
+
+Provocative
+
+Maritime law
+enforcement
+vessel
+
+Navy vessel
+
+–
+
+–
+
+–
+
+Provocative
+
+Navy vessel
+
+–
+
+–
+
+–
+
+Provocative
+
+–
+
+–
+
+–
+
+Expected
+
+–
+
+–
+
+–
+
+Expected
+
+–
+
+Provocative
+
+Maritime law
+enforcement
+vessel
+
+–
+3
+
+1
+
+Expected
+
+Fishing vessel
+
+Navy vessel
+
+–
+
+–
+
+Provocative
+
+N/A
+
+1
+1
+
+1
+–
+
+Provocative
+
+Expected
+
+Maritime law
+enforcement
+vessel
+
+–
+
+–
+
+Provocative
+–
+
+–
+2
+
+2
+
+Expected
+
+Provocative
+
+2011
+
+2010
+
+Nature of
+action
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+1
+
+–
+
+–
+
+–
+
+1
+
+–
+
+1
+
+–
+
+2012
+
+–
+
+–
+
+–
+
+–
+
+1
+
+–
+
+–
+
+1
+
+–
+
+1
+
+–
+
+2
+
+–
+
+–
+
+2013
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+1
+
+–
+
+–
+
+8
+
+1
+
+–
+
+1
+
+1
+
+2014
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+6
+
+11
+
+1
+
+–
+
+–
+
+–
+
+2015
+
+1
+
+1
+
+2
+
+–
+
+–
+
+–
+
+1
+
+1
+
+1
+
+5
+
+1
+
+–
+
+–
+
+1
+
+2016
+
+–
+
+–
+
+1
+
+–
+
+1
+
+–
+
+–
+
+–
+
+2
+
+–
+
+–
+
+–
+
+1
+
+–
+
+2017
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+1
+
+–
+
+–
+
+2
+
+–
+
+–
+
+–
+
+–
+
+2018
+
+–
+
+–
+
+2
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+5
+
+1
+
+–
+
+–
+
+–
+
+2019
+
+–
+
+–
+
+–
+
+1
+
+–
+
+–
+
+–
+
+–
+
+–
+
+2
+
+–
+
+–
+
+–
+
+1
+
+2020
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+2
+
+2
+
+–
+
+–
+
+–
+
+2021
+
+–
+
+–
+
+–
+
+–
+
+1
+
+1
+
+–
+
+–
+
+–
+
+–
+
+4
+
+–
+
+–
+
+1
+
+2022
+
+1
+
+1
+
+5
+
+1
+
+3
+
+1
+
+7
+
+3
+
+9
+
+37
+
+13
+
+2
+
+5
+
+6
+
+Total
+
+•
+
+Marine
+surveillance
+vessel
+
+Fishing vessel
+
+Vessel type
+
+Second-Actor Involvement by Detailed Vessel Type, 2010–22
+
+TABLE 6
+
+nguyen
+law and (dis)order in the south china sea
+
+[ 154 ]
+–
+–
+
+–
+
+Provocative
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+2011
+
+–
+
+–
+
+2010
+
+Expected
+
+Expected
+
+Fishing
+vessel
+
+Marine
+surveillance
+vessel
+
+Provocative
+
+Maritime law
+enforcement
+vessel
+
+Expected
+
+Expected
+
+Navy vessel
+
+Fishing
+vessel
+
+Provocative
+
+Provocative
+
+Expected
+
+Maritime law
+enforcement
+vessel
+
+Navy vessel
+
+Provocative
+
+N/A
+
+Provocative
+
+Expected
+
+Fishing
+vessel
+
+Maritime law
+enforcement
+vessel
+
+Provocative
+
+Navy vessel
+
+Nature of
+action
+
+Note: N/A indicates information not available.
+
+Vietnam
+
+Taiwan
+
+Thailand
+
+Philippines
+
+N/A
+
+Malaysia
+
+Vessel type
+
+Table 6 continued
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+1
+
+–
+
+–
+
+–
+
+–
+
+–
+
+2012
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+1
+
+1
+
+–
+
+–
+
+–
+
+2013
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+1
+
+–
+
+1
+
+–
+
+–
+
+–
+
+2014
+
+–
+
+1
+
+–
+
+–
+
+1
+
+–
+
+1
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+2015
+
+–
+
+–
+
+–
+
+1
+
+–
+
+1
+
+–
+
+–
+
+–
+
+1
+
+–
+
+–
+
+1
+
+2016
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+1
+
+–
+
+–
+
+–
+
+–
+
+–
+
+2017
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+2018
+
+1
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+2019
+
+–
+
+–
+
+1
+
+–
+
+–
+
+–
+
+–
+
+1
+
+–
+
+–
+
+–
+
+–
+
+–
+
+2020
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+3
+
+–
+
+–
+
+–
+
+2021
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+1
+
+1
+
+1
+
+–
+
+2022
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+4
+
+1
+
+7
+
+1
+
+1
+
+1
+
+Total
+
+asia policy
+
+nguyen
+
+•
+
+law and (dis)order in the south china sea
+
+FIGURE 2
+All Actions, Simplified into Three Types of Vessels, 2010–22
+7
+(10.1%)
+62
+(89.9%)
+
+52
+(53.1%)
+
+Fishing vessels
+
+46
+(46.9%)
+
+MLE vessels
+Provocative
+
+28
+(73.7%)
+
+10
+(26.3%)
+
+Other
+Expected
+
+Conflict Escalation at Sea
+The empirical data points out a clear trend in conflict escalation at
+sea. Figure 3 proposes a theoretical framework for understanding the
+escalation of conflict intensity during unplanned maritime encounters. The
+chain of events, as demonstrated in the dataset, involves (1) vessels coming
+into contact in a disputed maritime zone, (2) confrontation, where verbal
+exchanges and resistance ensue, (3) physical interference, whereby threats of
+coercive measures and physical resistance follow, (4) stalemate, where the
+physical standoff continues with either the arrival of additional vessels or the
+refusal by one party to withdraw. This could be followed by either (5) the
+use of forcible measures, where actions such as detention, arrest, or seizure of
+assets are taken, with damages inflicted on physical assets and human beings,
+or (6) disengagement, wherein all parties withdraw, flee, chase away, or are
+released. Following either of these, (7) confrontation could occur, involving
+exchanges of verbal and official diplomatic protests and rebuttals.
+As discussed above, 85.2% of the reported incidents escalated to
+level 3—physical interference—where the threat of forcible measures
+was recorded (Table 4). Of these level 3 incidents, 74.5% escalated to
+level 5, where the use of forcible measures was reported. Nonetheless, all
+the incidents, regardless of the use of forcible measures, eventually ended
+at level 6, disengagement. The most prolonged standoff, which was widely
+reported, was the 2014 oil rig crisis between Vietnam and China, but that
+ended with China’s withdrawal of the oil rig. Another equally long standoff
+that was kept out of the public view was the one between Malaysia, China, and
+Vietnam from December 2019 to February 2020. It also ended in restraint and
+
+[ 155 ]
+
+asia policy
+
+withdrawal by the parties.45 Of the 111 incidents tracked here, only 65 cases
+(58.6%) include diplomatic protests. This highlights that not every unplanned
+encounter necessarily leads to level 7, diplomatic confrontation.
+Most notably, none of the incidents resulted in the mediation of a
+third party, and only two cases involving the Philippines and China were
+mentioned in the award of the Permanent Court of Arbitration in July 2016.
+There are two explanations for this outcome. First, China, which sees South
+China Sea disputes as a series of bilateral disputes, has repeatedly insisted
+that the disputes be settled only between the claimants, effectively ruling out
+
+FIGURE 3
+A Theoretical Framework for Conflict Escalation
+during an Unplanned Encounter at Sea
+
+5. Use of forcible
+measures
+Arrest and
+seizure, limited
+destruction
+
+Intensity level
+
+4. Stalemate (a)
+Prolonged
+physical
+standoff
+3. Physical
+interference
+Coercive threat
+or warning of
+punishment
+vs. physical
+resistance
+
+(c)
+(b)
+
+7. Confrontation
+Official verbal
+protests vs. verbal
+refutation
+
+2. Confrontation
+Verbal demands
+vs. verbal
+resistance
+
+6. Disengagement
+Release, chase
+away, flee
+
+1. Unplanned
+encounter
+in a disputed
+sea zone
+
+Time
+
+45 “Malaysia Picks a Three-Way Fight in the South China Sea.”
+
+[ 156 ]
+
+[146.110.152.37] Project MUSE (2025-09-03 15:48 GMT)
+
+nguyen
+
+•
+
+law and (dis)order in the south china sea
+
+the presence of non-claimant, third-party involvement in the management of
+these disputes. Second, just as disputants may resist involving a third party,
+they may also be reluctant to institute any kind of arbitral proceeding over
+a maritime incident, risking further provocative actions from China. Legal
+actions might also be ruled out for now considering how the 2016 arbitration
+between the Philippines and China did not prevent further conflict. Though
+the arbitral tribunal concluded that China breached the provisions of UNCLOS
+in several ways and made clear statements regarding Chinese vessels’ unlawful
+use of force,46 it did acknowledge having no jurisdiction with respect to the
+incidents as they were a “quintessentially military situation.”47 In particular,
+upon assessment of two incidents, namely the Scarborough Shoal incident in
+April–May 2012 and the Second Thomas Shoal incident March 9–29, 2014,
+the arbitral tribunal both rejected the practice of Chinese vessels maneuvering
+at high speed in close proximity to Philippine vessels, which is dangerous and
+contrary to the collision regulations to which China is a party, and criticized
+Chinese vessels for ramming Philippine vessels. The award, rejected by China,
+leaves open the issues of whether coast guards could use force to prevent
+non-innocent passage and whether a coast guard vessel can escort fishing
+vessels of their country in the EEZ of another country with the consideration
+that fishing in the EEZ of another country is a violation of UNCLOS.48 As
+China does not accept jurisdiction over disputes concerning military activities
+when it ratified UNCLOS, the tribunal excluded the incidents between the
+Philippines and China under Article 298(1b). Ultimately, this means bringing
+maritime incidents to an international tribunal can be complicated.
+A breakdown of incidents that resulted in level 7 of diplomatic confrontation
+reveals more insights. There were ten incidents with human injuries of various
+degrees, including casualty, but only eight resulted in diplomatic protests.
+Table 7 summarizes the overlapping of diplomatic protests, physical damages,
+and human injuries by instigators and injured parties. Drawing on this, three
+
+46 Permanent Court of Arbitration, “The South China Sea Arbitration (The Republic of Philippines
+
+v. The People’s Republic of China) Award,” PCA case no. 2013–19, July 12, 2016 u https://pcacpa.org/en/cases/7. In particular, the arbitral tribunal found China had breached UNCLOS
+by (1) temporarily prohibiting fishing within the EEZ and continental shelf of the Philippines,
+(2) failing to prevent Chinese vessels from fishing in the said area, which includes the Mischief
+Reef and Second Thomas Shoal, (3) preventing Filipino fishers from conducting traditional
+fishery activities at Scarborough Shoal, (4) constructing artificial islands, installations, and
+structures at Mischief Reef without the authorization of the Philippines, and (5) failing to
+prevent Chinese fishers from harvesting endangered species on a significant scale and destroying
+the coral reef ecosystem.
+
+47 Ibid., 456.
+48 Cameron Moore, Freedom of Navigation and the Law of the Sea: Warships, States and the Use of
+
+Force (London: Routledge Focus, 2021).
+
+[ 157 ]
+
+[ 158 ]
+
+–
+
+Vietnam
+
+–
+
+China
+–
+
+None
+–
+
+–
+
+Indonesia
+
+Vietnam; Indonesia Indonesia
+
+Vietnam
+
+–
+
+Taiwan; China
+
+Taiwan; China
+
+–
+
+China
+
+–
+
+None
+
+–
+
+Vietnam
+
+Philippines
+
+–
+
+N/A
+
+–
+
+–
+
+Philippines
+
+
+–
+
+Malaysia;
+Vietnam
+
+China
+
+–
+
+Malaysia
+
+China
+
+–
+
+2010
+
+China;
+Philippines
+
+Opposing party
+
+None
+
+N/A
+
+Indonesia
+
+China
+
+Instigator
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+
+
+–
+
+–
+
+–
+
+–
+
+2011
+
+–
+
+–
+
+–
+
+–
+
+
+
+–
+
+–
+
+–
+
+
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+2012
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+2013
+
+–
+
+
+
+–
+
+–
+
+–
+
+
+
+–
+
+–
+
+–
+
+–
+
+–
+
+
+
+–
+
+–
+
+–
+
+–
+
+2014
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+
+
+–
+
+–
+
+–
+
+–
+
+2015
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+
+
+
+
+–
+
+–
+
+
+
+2016
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+
+
+–
+
+–
+
+–
+
+–
+
+2017
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+
+
+
+
+–
+
+–
+
+–
+
+2018
+
+
+
+–
+
+–
+
+
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+
+
+–
+
+
+
+
+
+–
+
+2019
+
+–
+
+–
+
+
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+
+
+–
+
+–
+
+–
+
+–
+
+2020
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+
+
+–
+
+–
+
+–
+
+2021
+
+–
+
+–
+
+
+
+–
+
+–
+
+–
+
+
+
+
+
+–
+
+
+
+–
+
+–
+
+
+
+–
+
+–
+
+–
+
+2022
+
+Note: Whether physical damage occurred is indicated by  for no and  for yes. Whether human injury occurred is indicated by  for no and  for yes. N/A indicates information not available.
+
+No
+
+Diplomatic protest
+
+Diplomatic Protests Sorted by Instigator and Opposing Party, Tracked by Human Injury and Physical Damage
+
+TABLE 7
+
+asia policy
+
+[ 159 ]
+–
+
+Vietnam
+–
+
+–
+
+China
+
+Vietnam; China
+
+–
+
+Vietnam
+
+–
+
+Vietnam
+
+
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+
+
+–
+
+
+
+–
+
+–
+
+–
+
+2011
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+
+
+–
+
+–
+
+–
+
+–
+
+–
+
+2012
+
+–
+
+–
+
+–
+
+–
+
+–
+
+
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+
+
+–
+
+
+
+–
+
+–
+
+
+
+2013
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+
+
+–
+
+–
+
+–
+
+
+
+
+
+
+
+–
+
+
+
+–
+
+–
+
+–
+
+2014
+
+–
+
+–
+
+–
+
+
+
+–
+
+
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+
+
+–
+
+
+
+–
+
+–
+
+–
+
+2015
+
+–
+
+
+
+–
+
+
+
+–
+
+–
+
+–
+
+–
+
+
+
+–
+
+
+
+–
+
+–
+
+
+
+–
+
+
+
+
+
+–
+
+–
+
+2016
+
+–
+
+–
+
+
+
+–
+
+
+
+–
+
+–
+
+–
+
+–
+
+
+
+–
+
+–
+
+–
+
+–
+
+–
+
+
+
+–
+
+–
+
+–
+
+2017
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+2018
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+
+
+–
+
+–
+
+–
+
+
+
+–
+
+
+
+–
+
+
+
+–
+
+2019
+
+
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+
+
+–
+
+
+
+
+
+–
+
+–
+
+2020
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+
+
+–
+
+–
+
+–
+
+2021
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+
+
+
+
+–
+
+
+
+–
+
+2022
+
+Note: Whether physical damage occurred is indicated by  for no and  for yes. Whether human injury occurred is indicated by  for no and  for yes. N/A indicates information not available.
+
+Vietnam; China
+
+Taiwan
+
+Thailand
+
+–
+
+Taiwan
+
+–
+
+China
+
+Philippines
+
+–
+
+N/A
+
+N/A
+
+–
+
+Philippines
+
+–
+
+–
+
+China
+
+Vietnam
+
+–
+
+China
+
+–
+
+
+
+Vietnam
+
+Vietnam; China
+
+–
+
+Taiwan
+
+–
+
+Malaysia
+–
+
+–
+
+Philippines
+
+–
+
+Indonesia
+
+2010
+
+China
+
+Opposing party
+
+Malaysia
+
+Indonesia
+
+China; Philippines
+
+China
+
+Instigator
+
+•
+
+Yes
+
+Diplomatic protest
+
+Table 7 continued
+
+nguyen
+law and (dis)order in the south china sea
+
+asia policy
+
+notable observations can be made: (1) incidents leading to serious human
+injuries or casualties are scarce, (2) not every incident that harms physical
+assets or vessel crews has led to a diplomatic protest, and (3) the diplomatic
+protests lodged by Vietnam against China following these incidents were
+more frequent from 2010 to 2015 but appear to have been muted in recent
+years, even though incidents with physical damages were reported.
+The two cases where human injuries were reported but diplomatic
+complaints were not filed include one where Vietnam was the reported injured
+party but the vessel was unidentified.49 The other was a clash between Taiwanese
+coast guard patrol vessels and 28 Chinese fishing vessels on January 14, 2011,
+during which two Taiwanese coast guard officials and three Chinese fishermen
+were injured. The encounter escalated when a Taiwanese coast guard patrol
+sought to stop one Chinese fishing boat from illegally fishing in Taiwan’s
+territorial waters off the outlying islet of Little Kinmen, which is close to China’s
+southeastern coast. According to media reports, a coast guard unit intercepted
+the fishing boat, and two officials sought to board the vessel to inspect it, but the
+fishers allegedly attacked them with stones and bamboo poles.50
+Examining the ways MLE vessels and officials have dealt with unplanned
+encounters at sea over the past decade among several major claimants in
+the South China Sea confirms the growing prominence of MLE in policing
+and patrolling functions but also dispels the notion that MLE operations
+are being overtly militarized or destabilizing the disputes. Although there
+might have been more incidents at sea that were not publicly reported or
+protested, the emerging pattern of tensions escalating at sea and then fizzling
+out, together with the underreporting of incidents, points to the possibility
+that claimants either intentionally play down the maritime incidents or prefer
+to settle them behind closed doors. In this sense, it appears that a primary
+pattern of conflict escalation and de-escalation emerges both at sea and on
+shore in the South China Sea disputes. That is, unplanned encounters or an
+aggressive action by one party might cause physical or human harm, followed
+by heated diplomatic exchanges, but would end in disengagement. One clear
+explanation is the lack of a breakthrough in multilateral dispute negotiations
+and settlement. Short of a regional safety protocol for maritime encounters,
+
+49 Van Tanh, “Ngu dan Quang Ngai hanh nghe o vung bien Truong Sa bị tau nuoc ngoai uy hiep”
+
+[Quang Ngai Fishermen Fishing in Truong Sa/Spratlys Attacked by Foreign Ship], Bien phong,
+May 10, 2022 u https://www.bienphong.com.vn/ngu-dan-quang-ngai-hanh-nghe-o-vung-bientruong-sa-bi-tau-nuoc-ngoai-uy-hiep-post450600.html.
+
+50 “Coast Guard, PRC Fishermen Clash,” Taipei Times, January 15, 2011 u http://www.taipeitimes.
+
+com/News/front/archives/2011/01/15/2003493534.
+
+[ 160 ]
+
+nguyen
+
+•
+
+law and (dis)order in the south china sea
+
+the disputants face little to no repercussions for their vessels’ taking hostile
+and violent actions.
+The intensification of conflict during unplanned encounters at sea also
+illustrates the need to examine not just how MLE forces are run, whether they
+are authorized to use force, and to what extent they might use force, but also what
+kind of cooperative mechanisms are in place concerning MLE activities toward
+fisheries and marine governance. There is a clear lack of a cooperative channel
+for on-the-ground conflict management, which means that in virtually every
+maritime incident, the exchange of verbal demands and resistance escalated
+toward physical interference and resistance, and in more serious cases, the use of
+forcible measures led to physical destruction and human injuries. Since settling
+the disputes in the South China Sea among the multiple claimants is a difficult
+and arduous process, it is vital to finalize a more binding code of conduct that
+lays out the legal and practical frameworks for maritime policing in the area.
+
+conclusion
+This article provides empirical evidence on the handling of maritime
+incidents among multiple claimants in the South China Sea over a twelve-year
+period from 2010 to mid-2022. It also revisits the legal framework for maritime
+policing and identifies patterns of conflict escalation and de-escalation in
+reported unplanned encounters at sea. As a result of this discussion, the
+article makes three recommendations to improve the operations of MLE and
+defuse the possibilities of maritime conflict in the South China Sea.
+First, the nature of MLE operations in the South China Sea, and the trends
+seen in the data this article presents, suggest that a more comprehensive, legally
+binding framework is needed to hold regional parties accountable. Such a
+framework should address the jurisdictional complexity of MLE authorizations
+and the management of maritime incidents involving MLE vessels. Given the
+heightened risks for miscalculation and misunderstanding during unplanned
+encounters at sea, it is beneficial to all parties to establish such a unified
+maritime policing framework. This framework should be separate from CUES
+(which only applies to naval vessels) and should address four major issues:
+(1) the limits of threat and/or use of force at sea, including the use of lethal force
+for self-defense versus the use of lethal force for MLE purposes, (2) the rights,
+powers, and obligations for MLE officials and vessels in national laws and their
+compatibility with regional guidelines, (3) the right of hot pursuit and cases
+of hot pursuit toward or in a disputed maritime zone, and (4) humanitarian
+assistance, human rights, and law enforcement at sea.
+[ 161 ]
+
+asia policy
+
+Second, a safety protocol for MLE in the South China Sea should be
+accompanied by both the establishment of a joint fisheries management
+scheme and the reinforcement of the regional crisis management hotline. The
+findings from the data presented in this article shed light on how conflict
+escalation in the maritime domain in the South China Sea has been largely
+driven by participating vessels and individuals on the vessels rather than by
+the governments of respective parties. Fishers and MLE agents frequently
+come into contact because the vessels are stated to be fishing illegally, but
+there has been no proper channel or protocol to address the issues of illegal
+fishing or fishing in the disputed maritime zones. Although there are several
+regional fisheries organizations and a few existing arrangements, these
+provide technical support and capacity building rather than engage relevant
+parties in specific ways to manage the activities of fisheries and the existence
+of joint fisheries in a contested maritime area.51
+Last, MLE agencies in the region should increase communications onshore
+and offshore. More confidence-building measures, such as joint coast guard
+exercises and exchanges, would increase mutual understanding, would build
+greater relationships of trust, and could help prevent unforeseen encounters
+from escalating into naval clashes or political problems. For instance, in
+December 2022, for the first time, the Vietnam Coast Guard High Command
+organized an exchange with coast guard forces of six other countries, namely
+China, Indonesia, Malaysia, the Philippines, Thailand, and Cambodia.52
+Coincidentally, no maritime incidents were reported that month. Future
+research should dive deeper into the formation and transformation of MLE
+in response to emerging risks and threats at sea, as well as the connections
+between maritime policing and maritime militias. Increased cooperation
+and coordination among MLE forces could allow disputants to move beyond
+the issues of maritime delimitation and work together productively in a
+multilateral manner. 
+
+51 These bodies include the Southeast Asian Fisheries Development Center; Coral Triangle Initiative
+
+on Coral Reefs, Fisheries, and Food Security; Illegal, Unregulated, and Unreported Regional Plan
+of Action; Asia-Pacific Fishery Commission; and Partnerships in the Environmental Management
+for the Seas of East Asia, to name a few. There are also three multilateral fisheries arrangements that
+have overlapping but different memberships, namely the Regional Program of Action on Illegal,
+Unreported and Unregulated (IUU) Fishing; the ASEAN–Southeast Asia Fisheries Development
+Center Strategic (SEAFDEC) Partnership (ASSP); and the Coral Triangle Initiative. See Robert
+Pomeroy et al., “Improving Marine Fisheries Management in Southeast Asia: Results of a Regional
+Fisheries Stakeholder Analysis,” Marine Policy 65 (2016): 20–29.
+
+52 Thanh Ha, “Vietnam to Hold Exchange Program for Coast Guard Forces from 7 Countries Next
+
+Week,” Tuoi Tre News, December 2, 2022 u https://tuoitrenews.vn/news/politics/20221202/vietnamto-hold-exchange-program-for-coast-guard-forces-from-7-countries-next-week/70290.html.
+
+[ 162 ]
+
+nguyen
+
+•
+
+law and (dis)order in the south china sea
+
+APPENDIX 1
+Coast Guard or Equivalent Forces of
+China and Southeast Asian Countries
+Coast guard/
+equivalent
+
+Civilian/
+military
+
+Founding
+year
+
+Maritime force
+governing body
+
+Governing
+law
+
+Brunei
+
+Royal Brunei
+Marine Police
+
+Armed
+police
+
+1975
+
+Royal Brunei
+Police Force
+
+N/A
+
+Cambodia
+
+N/A
+
+Military
+
+N/A
+
+Royal
+Cambodian Navy
+
+N/A
+
+China
+
+China Coast
+Guard
+
+Armed
+police
+
+2013
+(the result of
+merging four
+MLE agencies)
+
+People’s Armed
+Police
+
+China Coast
+Guard Law
+(2021)
+
+Indonesia
+
+Indonesian
+Maritime
+Security
+Agency
+(BAKAMLA)
+
+Armed
+civilian
+
+2014
+
+Coordinating
+Ministry for
+Political, Legal,
+and Security
+Affairs
+
+Presidential
+Regulation
+No. 178
+(2014)
+
+Laos
+
+N/A
+
+Military
+
+N/A
+
+Laos Navy
+
+N/A
+
+Reassigned from
+the government
+of Malaysia to
+the Ministry of
+Home Affairs in
+2018
+
+Malaysian
+Maritime
+Enforcement
+Agency
+Act 2004
+(Act 633)
+
+Malaysia
+
+Malaysia
+Coast Guard
+
+Armed
+civilian
+
+2017
+(rebranded
+from the
+Malaysian
+Maritime
+Enforcement
+Agency set up
+in 2005)
+
+Myanmar
+
+N/A
+
+Military
+
+N/A
+
+Myanmar Army
+
+N/A
+
+Transferred from
+the Office of the
+President to the
+Department of
+Transportation in
+2009
+
+Philippine
+Coast Guard
+Law (2009)
+
+Philippines
+
+Philippines
+Coast Guard
+
+Armed
+civilian
+
+1901
+(originally
+the Bureau
+of Coast
+Guard and
+Transportation)
+
+Singapore
+
+Singapore
+Police Coast
+Guard
+
+Armed
+police
+
+1992
+
+Singapore Police
+Force
+
+N/A
+
+Thailand
+
+Thailand
+Coast Guard
+Squadron
+
+Military
+
+1992
+
+Royal Thai Navy
+
+N/A
+
+Timor-Leste
+
+N/A
+
+Military
+
+N/A
+
+Timor-Leste
+Defence Force
+(Falintil-FDTL)
+
+N/A
+
+1998
+(originally
+the Vietnam
+Marine Police)
+
+Under the
+management
+of the Vietnam
+government
+since 2013, but
+still under direct
+command of
+the Ministry of
+National Defense
+
+Law on
+Vietnam
+Coast Guard
+(2018)
+
+Vietnam
+
+Vietnam
+Coast Guard
+
+Armed
+civilian
+
+[ 163 ]
+
+asia policy
+
+APPENDIX 2
+Coding of Actions in the Dataset
+A
+
+MLE actions
+
+Code
+
+1
+
+Patrolling territorial waters, the contiguous zone, the EEZ,
+and the waters within the continental shelf
+
+Categorization
+
+M1
+
+2
+
+Signaling, chasing, stopping, blocking waterway,
+boarding the suspect vessel(s)
+
+M2
+
+3
+
+Searching the suspect vessel or the people aboard the
+suspect vessel(s)
+
+M3
+
+4
+
+Detaining or arresting people and/or the suspect vessel(s)
+
+M4
+
+5
+
+Seizing items on the suspect vessel(s)
+
+M5
+
+6
+
+Escorting, directing, or steaming the suspect vessel(s)
+and its people and cargo to a coastal state port or similar
+place for investigation
+
+M6
+
+7
+
+Conduct of investigation
+
+M7
+
+8
+
+Subsequent prosecution or imposition of administrative
+action (e.g., fine for a violation) or sanction
+
+M8
+
+9
+
+Taking actions that are more aggressive, disruptive,
+and provocative than usual maritime policing practices
+(e.g., hostile maneuvers; restricting the maneuvering
+space of the other vessel(s), such as by close-distance
+maneuvering; chasing; ramming a vessel in a dangerous
+manner that might result in capsizing; sound sirens;
+blowing massive horns; cutting cable; open fire; shooting
+water cannons; sinking a vessel, etc.)
+
+M9
+
+Provocative
+actions
+
+B
+
+Fishing vessel actions
+
+Code
+
+Categorization
+
+Expected
+actions
+
+1
+
+Fishing
+
+F1
+
+2
+
+Resting at sea
+
+F3
+
+3
+
+Finding refuge or seeking help at sea
+
+F4
+
+4
+
+Taking actions more aggressive and provocative than
+usual fishing practices (e.g., blocking waterway, cutting
+cable, resisting requests to stop, deploying weapons, etc.)
+
+F2
+
+Provocative
+actions
+
+C
+
+Other vessel actions (non-MLE and non-fishing vessels)
+
+Code
+
+Categorization
+
+1
+
+Drilling or oil rig deployment
+
+O1
+
+2
+
+Seismic survey, hydrographic research, TV/reporting crew
+
+O2
+
+3
+
+Patrolling and escort
+
+O3
+
+4
+
+Supply delivery
+
+O4
+
+5
+
+Detention
+
+O6
+
+6
+
+Taking aggressive actions outside the vesssel’s usual
+duties and activities (e.g., hostile maneuvers, intervening
+via physical means, cutting cable, flare shooting, open
+fire, water cannon use, stealing catch, etc.)
+
+O5
+
+Expected
+actions
+
+Expected
+actions
+
+Provocative
+actions
+
+Note: When a fishing vessel of party A conducts fishing activities in a disputed zone claimed by party B, the
+action can be considered unexpected by party B. However, in this coding scheme, “expected actions” merely
+denotes the descriptive nature of the fishing vessel’s action, not its legality.
+
+[ 164 ]
+
+

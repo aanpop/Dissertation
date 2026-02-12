@@ -1,0 +1,1156 @@
+578952
+
+research-article2015
+
+EJT0010.1177/1354066115578952European Journal of International RelationsHameiri and Jones
+
+Article
+
+Rising powers and state
+transformation: The case
+of China
+
+EJIR
+European Journal of
+International Relations
+﻿1­–27
+© The Author(s) 2015
+Reprints and permissions:
+sagepub.co.uk/journalsPermissions.nav
+DOI: 10.1177/1354066115578952
+ejt.sagepub.com
+
+Shahar Hameiri
+
+Murdoch University, Australia
+
+Lee Jones
+
+Queen Mary, University of London, UK
+
+Abstract
+This article draws attention to the transformation of statehood under globalisation as
+a crucial dynamic shaping the emergence and conduct of ‘rising powers’. That states
+are becoming increasingly fragmented, decentralised and internationalised is noted by
+some international political economy and global governance scholars, but is neglected
+in International Relations treatments of rising powers. This article critiques this neglect,
+demonstrating the importance of state transformation in understanding emerging
+powers’ foreign and security policies, and their attempts to manage their increasingly
+transnational interests by promoting state transformation elsewhere, particularly in their
+near-abroad. It demonstrates the argument using the case of China, typically understood
+as a classical ‘Westphalian’ state. In reality, the Chinese state’s substantial disaggregation
+profoundly shapes its external conduct in overseas development assistance and conflict
+zones like the South China Sea, and in its promotion of extraterritorial governance
+arrangements in spaces like the Greater Mekong Subregion.
+Keywords
+China, development assistance, Greater Mekong Subregion, International Relations
+theory, rising powers, South China Sea, state transformation
+
+Corresponding author:
+Lee Jones, School of Politics and International Relations, Queen Mary, University of London, Mile End Road,
+London, E1 4NS, UK.
+Email: l.c.jones@qmul.ac.uk
+
+2
+
+European Journal of International Relations ﻿
+
+Introduction
+Recently, ‘rising powers’ have gripped scholars and political leaders alike. The growing
+economic, military and diplomatic weight of states like China, India, Brazil and Russia
+is seen to herald a shift from a unipolar to a more multipolar world order, and possibly
+even serious great-power conflict. Despite the now-voluminous commentary on this phenomenon, we argue that International Relations (IR) has overlooked one crucial dimension. Contemporary states — even in non-Western regions — are increasingly fragmented,
+decentralised and internationalised, with significant consequences for rising powers’ foreign and security policies. First, fragmented and decentralised state apparatuses and
+quasi-market actors are increasingly pursuing their own independent interests and agendas overseas, generating conflict-ridden, incoherent policy output, often mistakenly
+interpreted as ‘grand strategy’. Second, as these institutions and actors acquire transnational interests, they are also vying to establish transboundary governance arrangements
+to manage them, particularly in neighbouring territories. Thus, state transformation
+within rising powers indirectly generates attempts to promote it elsewhere.
+Existing IR approaches overlook these dynamics because their focus is overwhelmingly
+systemic. They ask whether changing interstate power relations will violently disrupt the
+prevailing order, or whether there are sufficient constraints — military deterrence, economic interdependence, institutions or norms, depending on one’s theoretical orientation
+— to avoid serious conflict. Consequently, they do not consider that IR’s ‘units’ may have
+fundamentally changed, reshaping their interrelations. This neglects extensive literature on
+the transformation of statehood. For instance, political scientists have identified a general
+shift towards ‘regulatory statehood’, whereby central executives withdraw from ‘command
+and control’ activities to merely set broad targets for diverse national, subnational and private bodies (Majone, 1994). As Rosenau (2003) observed, this ‘fragmentation’ is often
+followed by novel forms of integration. Many agencies, regulatory bodies and subnational
+units have developed their own international policies and relationships, breaking the
+monopoly of foreign and defence ministries (Jayasuriya, 2001). Thus, state decentralisation has fostered ‘paradiplomacy’ by subnational agencies, turning them into quasi-autonomous foreign policy actors (Aldecoa and Keating, 1999). International political economy
+(IPE) and global governance scholars have explored how such changes have generated
+transgovernmental networks and networked, multilevel governance arrangements, particularly at the regional level (Cerny, 2010; Slaughter, 2004). However, IR scholars either dismiss these insights as irrelevant in the study of rising powers, which are assumed to be
+‘Westphalian’ states immune from such transformations, or even posit a reverse shift:
+it appears that a century of wars and diplomacy has brought the international system right back
+to where it was at its inception … the way [is] being paved back to Westphalia … by rising
+powers such as China, India and Brazil, who are staunch guardians of the principle of national
+sovereignty. (Flemes, 2013: 1016–1017)
+
+Even in IPE, scholars detect ‘an unacknowledged transition from the globalisation debate
+of the 1990s … to a more state-centric framework in which the rising powers and the
+West are locked in a zero-sum struggle for influence over global governance institutions’
+(Gray and Murphy, 2013: 185). This cyclical tendency is reflected in publication titles
+that ask ‘Will Asia’s past be its future?’ (Acharya, 2006), or whether the international
+
+Hameiri and Jones
+
+3
+
+system will go ‘Back to the future’ (Mearsheimer, 1990; cf. Chong and Hall, 2014). We
+suggest that this reflects more of a reluctance to update IR theoretical frameworks than
+any real-world reversal of the trends identified in existing scholarship.
+Our argument proceeds in three sections. The first surveys the leading IR approaches
+to rising powers — realist, liberal, constructivist, English School and neo-Marxist — to
+highlight their general neglect of state transformation. The second section explains how
+we conceptualise state transformation and why it matters for the study of rising powers.
+The third provides a case study of China, insights from which are also used in the preceding sections.
+China is selected because it is the most important rising power, and because it is a
+‘hard’ case for our argument, since IR scholars typically depict it as a unified, authoritarian regime ruling a ‘Westphalian’ state, clinging to norms of sovereignty and territorial
+integrity. Indeed, it is often presented as the ‘new Prussia’ (Goldstein, 2003), threatening
+precisely the aforementioned ‘return to Westphalia’. Conversely, Sinologists have long
+emphasised the rise of a ‘fragmented authoritarianism’ (Lieberthal, 1992), within an
+increasingly ‘deconstructed’ state (Goodman and Segal, 1994), whose internal architecture is ‘more like the European Community of the 1970s than the USA today’ (Breslin,
+2013: 70). IR scholars must take these established insights seriously.
+The first part of our case study synthesises this literature, showing how China’s state
+has become fragmented, decentralised and internationalised. The second demonstrates
+how disaggregated state apparatuses and quasi-independent, market-facing actors are
+increasingly acting overseas in ways not effectively coordinated in Beijing. Our examples — overseas development assistance in the Pacific and territorial conflicts in the
+South China Sea (SCS) — show that what is often perceived as menacing evidence of
+‘grand strategy’ may actually involve multilevel, inter-agency struggles and local economic imperatives. The case study’s third part shows how, as Chinese entities develop
+transnational interests, they extend their ‘governance frontier’ beyond China’s territory,
+promoting state transformation elsewhere. We focus on the Greater Mekong Subregion
+(GMS), where Chinese agencies — notably, Yunnan’s provincial administration — are
+promoting massive infrastructural development and governance changes to manage
+growing economic interdependence and non-traditional security threats. These ‘minicase studies’ concern highly controversial policy domains. They are necessarily brief,
+being unable to rehearse the vast literatures around each one, and therefore cannot deliver
+definitive proof for our argument. Nonetheless, these cases are absolutely central to
+questions about China’s rise: is China promoting an alternative to the ‘Washington
+Consensus’ using ‘rogue aid’? (Naím, 2007); will conflict in the SCS, East Asia’s major
+‘flashpoint’, lead to war? (Kaplan, 2014); and, is China being integrated into global economic flows in a liberal fashion (Ikenberry, 2008)? For each, we provide a ‘plausibility
+probe’, demonstrating how looking at these issues through the lens of state transformation sheds new light and helps explain apparently contradictory outcomes.
+
+IR and rising powers: The neglect of state transformation
+This section briefly surveys the main IR treatments of rising powers — realist, liberal,
+constructivist, English School and neo-Marxist approaches — to identify their core
+
+4
+
+European Journal of International Relations ﻿
+
+theses, but primarily to underscore their neglect of state transformation and how this
+constrains their utility.
+
+Realism
+Realists present international politics as a timeless power struggle between functionally
+identical states under anarchy. Power is understood materially, as the agglomeration of
+factors like the size of states’ territories, populations, economies and armed forces.
+Economic growth is seen as fungible into military power, and since states’ ambitions
+grow with their power, rapid economic development changes the balance of power, fostering insecurity and potentially armed conflict (Gilpin, 1981). Resource conflicts are
+particularly likely as competition for scarce commodities, particularly hydrocarbons,
+intensifies (Klare, 2001). Realists differ on whether conflict is avoidable. For offensive
+realists, war is virtually inevitable, with China’s rise seen as a major threat to the hitherto
+US-dominated world order (Mearsheimer, 2001, 2006). Defensive realists suggest that
+China could be ‘contained’ or deterred by new alliances (Kirshner, 2010; Ross, 2006).
+Realists ignore how states have transformed under globalisation, significantly weakening their explanatory traction. For example, many liberals and IPE scholars emphasise
+that economic transnationalisation has both heightened interdependence and rendered
+national accounting useless for estimating states’ power potential (Breslin, 2013). Indeed,
+Shambaugh (2013: 315) asserts that ‘China literally could not be contained’ even if the
+West wanted to, ‘precisely because of [its] existing integration in the global system’.
+More importantly for our argument, because realists neglect state transformation, they
+may misinterpret rising powers’ international behaviour. For instance, the notion that
+China is ‘grabbing’ natural resources, often in ‘alliance’ with ‘rogue’ states like Sudan,
+ignores the fact that, following deregulation, the formally state-owned enterprises (SOEs)
+involved are actually highly autonomous, market-driven entities selling commodities on
+global markets, not delivering them to China (Houser, 2008). Similarly, extensive decentralisation in China has fostered provincial ‘duke economies’ that are often more integrated with different overseas economies than with each other. Such disaggregation of
+statehood generates internal differences over external relations, not a single ‘national’
+position or ‘grand strategy’ (Goodman and Segal, 1994). For example, while Hainan
+Province benefits from advancing territorial claims in the SCS, over which it has formal
+administrative control, landlocked Yunnan Province is tied economically and institutionally to mainland Southeast Asia, so SCS conflicts damage its interests (Su, 2012b; Zha,
+2001). Such contradictory internal impulses could explain why Chinese policy in the
+SCS is ‘consistently inconsistent’, swinging between conciliation and provocation
+(Santicola, 2014). Since they neglect state transformation, realists overlook this possibility, dubiously reading sinister strategic motives into every action.
+
+Liberalism
+Liberals argue that rising powers’ conflict potential can be mitigated through economic
+interdependence and institutional enmeshment, which can encourage rational cooperation based on commerce and mutual gains. Accordingly, relative US decline need not
+portend the collapse of the US-created, liberal world order (Ikenberry, 2008; Keohane,
+
+Hameiri and Jones
+
+5
+
+1984). Outcomes will instead turn on whether rising powers are fully integrated into
+existing institutions or remain outsiders (Simpson, 2004). While most liberals are optimistic, some argue that intense economic interdependence could breed conflict, or question whether rising powers are generating middle classes sharing the rationalist,
+universalist attitudes needed to sustain global cooperation (Chin and Helleiner, 2008;
+Friedberg, 2005).
+While improving on realism, liberals largely overlook state transformation. Despite
+liberalism’s generic emphasis on identifying the domestic interests driving international
+behaviour, in practice, liberal treatments of rising powers are overwhelmingly systemic,
+focusing on the sustainability of international regimes. This is a serious oversight since
+state transformation arguably conditions how rising powers are affected by both economic interdependence and international institutions. Following decentralisation, the
+internationalisation of China’s economy has been heavily determined by provincial governments’ development strategies, which have generated both international cooperation
+and conflict (Chen, 2005). Yunnan Province, for example, has expanded Chinese state
+capitalism into the GMS, where it is the leading Chinese agency promoting regional
+integration (Su, 2012b). However, elsewhere, exploitative Chinese investment has generated severe societal backlash and intergovernmental conflict (Nung Wong et al., 2013).
+Moreover, inland regions, which are less globally integrated, have a more ‘conservative
+outlook’ than coastal provinces (Goodman and Segal, 1994: 18). These divergent interests can generate intrastate conflicts that profoundly condition the effects that international institutions have on Chinese conduct. For example, while some neoliberal
+technocrats in national ministries have promoted compliance with World Trade
+Organisation (WTO) rules, this is heavily compromised by provincial-level protectionism (Breslin, 2013: 91–99). Disaggregating the state is vital to assess whether interdependence and institutions can yield the effects that liberals anticipate.
+
+Constructivism
+Constructivists are also more optimistic than realists about rising powers’ impact on
+international order. They understand states as social actors whose interests and identities
+can be transformed through interaction, persuasion and socialisation; accordingly, rising
+powers may internalise prevailing norms, rather than overturning them (Acharya, 2006).
+Constructivists have argued that China has done so, that it is a ‘status quo’ power, pursuing only modest reforms within existing institutions (Johnston, 2003). Others emphasise
+rising powers’ historical culture, suggesting that, for example, China’s normative tradition of Confucian pacifism or benign Asian suzerainty will ensure a peaceful rise (Kang,
+2003; Wang, 2013). Contradictorily, however, some highlight a Chinese tradition of realpolitik, with more disturbing ramifications (Johnston, 1998).
+Constructivists thus treat rising powers like any other states — as coherent, unitary
+actors (even as ‘persons’ (Wendt, 2004)), with singular ‘identities’ — and largely neglect
+states’ internal reconfigurations. This is problematic because the question of which
+norms to adopt and what ‘identity’ to project are often hotly contested within rising powers, reflecting wider struggles for power and resources (see Shambaugh, 2013: ch. 2).
+Thus, while constructivists may demonstrate persuasively that small groups of officials
+in the Chinese Ministry of Foreign Affairs (MFA) have been ‘socialised’ into a normative
+
+6
+
+European Journal of International Relations ﻿
+
+international order promoted by the Association of Southeast Asian Nations (ASEAN)
+(Johnston, 2003), this does not necessarily mean that these norms will prevail in policymaking. In an era of state disaggregation and decentralisation, foreign policymaking is
+open to a far broader array of actors, pursuing sometimes contradictory interests and
+agendas. As a former US assistant secretary of state recalls, SCS conflicts have often
+reflected ‘unanticipated accidents and incidents’ involving ‘poorly coordinated elements
+in the military or border protection units’, not a national strategy, forcing the embarrassed MFA ‘to work carefully behind the scenes’ with the US to ‘untangle the mess’
+(Campbell, 2014). Without attention to state transformation, we cannot know whether
+normative socialisation will really restrain a rising power.
+
+English School
+The English School, or ‘international society’ approach, attends to power, ideas and institutions simultaneously. For its adherents, emerging powers are rising not in a vacuum,
+but in a pre-existing ‘anarchical society’, comprising deeply rooted ‘primary institutions’: shared norms and practices that structure international relations and condition
+states’ prospects of achieving great-power status (Buzan, 2004). Power capabilities are
+necessary, but insufficient: great power status is only awarded ‘socially’, when other
+states confer it in exchange for international ‘public goods’ (Goh, 2013). Like constructivists, most English School theorists suggest that emerging powers like China are rising
+within a US-dominated world order, rather than fundamentally challenging it (Goh,
+2013; Hurrell, 2006). However, others note many contradictions between Chinese rhetoric and behaviour, justifying fear of a ‘China threat’ (Buzan, 2010).
+Despite its considerable sophistication, the English School is constrained by its
+entrenched statism. ‘States’, seen as essentially unitary actors, are the supposed subjects
+of ‘international society’. Although non-governmental actors are assigned an increasingly important role, they are simply added alongside ‘states’ in ‘hybrid’ global governance arrangements (Buzan, 2004: ch. 4; Hurrell, 2008: ch. 4). States themselves have
+not changed: the English School’s leading theorist explicitly denies that ‘globalisation
+is … associated with and reflects a new kind of state’ (Hurrell, 2008: 203). Thus, this
+approach neglects to explore how different parts of rising powers’ states may be integrated very unevenly into different aspects of international society, and how struggles
+among them may ultimately determine whether a rising power respects or challenges
+international order.
+
+Neo-Marxism
+Neo-Marxist accounts of rising powers, the most sensitive of all to transnational dynamics, often focus on China. A Leninist strand emphasises the crisis-prone nature of the
+contemporary neoliberal order and the possibility of Sino-US inter-imperialist rivalry
+(Callinicos, 2009). Gramscian approaches analyse rising powers as challengers to US
+hegemony, which is founded upon a specific ‘historic bloc’ of class forces across many
+states that perceives US leadership as supporting its interests and receives flows of material benefits from it (Cox, 1987). Gramscians typically underscore this bloc’s solidity,
+
+Hameiri and Jones
+
+7
+
+arguing that China is fundamentally rising within it, albeit favouring a more ‘statist’
+approach to economic governance than Western governments (Saull, 2012; Stephen,
+2014). Finally, neo-Marxists influenced by World Systems Theory suggest that China is
+forging a new counter-hegemonic alliance of developing states (Arrighi, 2007).
+Only Gramscian approaches are at all sensitive to state transformation. The Leninist
+strand is an essentially ‘proto-realist’ account (Callinicos and Rosenberg, 2008: 85),
+paying no attention to changes in statehood. World Systems Theory generally neglects
+local class conflict and state institutions, simplistically presenting the latter ‘as emerging … from the (changing) requirements for the generation of [economic] surplus’
+(Brenner, 1977: 27). Gramscians have previously considered how hegemonic states
+promote state transformation, particularly in turning subordinate states into ‘transmission belts’ for US-dominated neoliberal capitalism (Cox, 1987). Nonetheless, contemporary Gramscians often treat rising-power states as monoliths, with apparently coherent
+‘state classes’ dominating their ‘state capitalism’, producing ‘national interests and state
+preferences’ that diverge from Western-liberal ones (Stephen, 2014). This quasi-realist
+approach marginalises contestation, fragmentation and internationalisation within states
+and ‘state classes’.
+
+The importance of state transformation for rising powers
+This section explains why state transformation, despite its neglect in mainstream IR, is
+important for understanding emerging powers, with specific reference to China. We
+argue that, under globalisation, states can no longer be understood as Weberian, sovereign monoliths, coherently ruling bounded territories. They are increasingly fragmented,
+decentralised and internationalised. Consequently, today’s emerging powers are quite
+different to Prussia, and are ‘rising’ in a very different environment.
+Our notion of state transformation is underpinned by Gramscian state theory, as
+developed by Poultanzas (1976) and Jessop (2008). This tradition is not unique in recognising state transformation: as already noted, it has been studied by many IPE, global
+governance and comparative politics scholars. However, this approach usefully avoids
+the apolitical functionalism of many mainstream accounts, which see state transformation merely as a rational response to problems of modern governance (e.g. Slaughter,
+2004). From a Gramscian perspective, states are neither the unitary actors of IR theory,
+expressing a ‘national interest’ or ‘identity’, nor politically neutral, rationally designed,
+problem-solving instruments; rather, they are institutional ensembles that reflect and
+embed historically evolving social power relations. As states distribute power and
+resources, the political representatives of social forces — particularly classes, class fractions and distributional coalitions, but also ethnic, religious and state-based groups —
+constantly struggle to transform state institutions to suit themselves and their allies.
+Accordingly, states are dynamic and historically contingent, reflecting changes in political-economy relations, particularly class formation and the political strategies of sociopolitical forces. Thus, how states evolve and are used is explained with reference to
+social conflict. This is preferable to another prevalent tendency: to merely categorise
+states as, for example, ‘pre-Westphalian’, ‘Westphalian’ and ‘post-Westphalian’
+(Sørensen, 2004). This only evaluates states against idealised benchmarks, and is often
+misleading: China, for example, is typically classified as ‘Westphalian’.
+
+8
+
+European Journal of International Relations ﻿
+
+Another merit of this approach is its sensitivity to scale. As political geographers have
+long recognised, different scales — for example, local, regional, national, global — privilege
+different interests and agendas. Consequently, social groups struggle to define a scale of
+governance that suits themselves and their allies. From this perspective, the dominance
+of the national scale of governance, reflected in the ideal-typical Weberian ‘nation-state’
+of much IR theory, is not natural, but a socially and politically produced historical artefact (Jessop, 2009). Thus, as social conflict evolves, governance may be ‘rescaled’ to
+new levels as forces embedded at different scales struggle for dominance.
+From this perspective, the consolidation of the European ‘nation-state’ — the hierarchically organised, territorially bounded, sovereign entity defined by Weber and adopted
+wholesale by IR theory — occurred only through princes’ centuries-long struggle to
+forcibly unify disparate territories and overcome competing authorities like city-states,
+rival aristocrats and the Catholic Church (Tilly, 1990). Contrary to the ‘myth of
+Westphalia’, this state form became dominant only in the 19th century; previously, transnational aristocratic politics dominated (Teschke, 2003). Even then, Western ‘nationstates’ coexisted alongside transnational empires well into the 20th century; it was only
+after two world wars, anti-colonial revolutions and the onset of the Cold War that this
+state form was finally universalised (Hobsbawm, 1987, 1994).
+The Weberian-Westphalian state was consolidated by specific post-Second World
+War global institutions based around ‘embedded liberalism’ (Ruggie, 1998). This regime
+was designed to support domestic social-democratic compacts between capital and
+labour, which bought industrial peace in exchange for rising living standards. The
+Keynesian Bretton Woods settlement assisted this by regulating global capital flows,
+empowering national leaders to protect and develop domestic industries, and enabling a
+Fordist mode of production in which a rising social wage sustained demand. The postwar global economic order thus consolidated ‘the primacy of national economies,
+national welfare states, and national societies managed by national states concerned to
+unify national territories and reduce uneven development’ (Jessop, 2009: 99). This even
+extended to post-colonial ‘quasi-states’, notwithstanding their relative incoherence
+(Jackson, 1990), which received support for developmental state projects. Their borders
+were also sanctified through norms of sovereign equality promoted through the United
+Nations (Barkin and Cronin, 1994), and great power interventions, while frequent, were
+nonetheless temporary, leaving the target’s formal sovereignty intact (Colás, 2008).
+Crucially, IR’s mainstream theories developed during, and were profoundly shaped by,
+this high tide of the ‘nation-state’.
+Since then, however, while modern statehood has fundamentally changed, IR theory
+has not kept up. In the 1970s, Western capitalism underwent severe crisis, disrupting the
+post-war social compact by generating widespread labour unrest and socio-political conflict. The crisis was addressed in favour of capital by the New Right, which defeated trade
+unions, curbed wage growth, privatised state assets and radically deregulated international trade and finance (Harvey, 2005). The state’s role was fundamentally reconfigured
+from supporting a social-democratic compact through developmentalist intervention to
+securing global competitiveness (Cerny, 1997). Corporatist institutions, and apparatuses
+directing industrial development, were dismantled. SOEs were extensively privatised, and
+regulatory powers were reassigned to quasi-autonomous or private organisations,
+
+Hameiri and Jones
+
+9
+
+including devolved local administrations. The central state shifted from a ‘command and
+control’ model, based on direct intervention to secure economic, social and political
+objectives, to a ‘regulatory’ model, whereby central government merely sets broad targets
+and regulations for diverse public and private actors (Majone, 1994).
+This model spread beyond the West through various mechanisms. Following the early
+1980s’ debt crisis, the International Monetary Fund (IMF) imposed structural adjustment
+programmes on many Southern states. Coupled with decades of subsequent ‘good
+­governance’ aid programmes, this has encouraged the dismantling of post-colonial
+developmental states in favour of ‘governance states’ focused on producing a sound
+regulatory environment for neoliberal capitalism (Harrison, 2004). The World Bank has
+also extensively promoted decentralisation in the South, further spurring the disaggregation of hitherto unitary states. Asia’s developmental states transformed more slowly, but
+this intensified after the 1997/ 1998 Asian financial crisis. Here, state restructuring was
+again compelled partly by IMF intervention, but also by the pressures of global financial
+markets and the emergence of transnational production networks, into which ruling elites
+increasingly sought to insert parts of their territories. Accordingly, regulatory states have
+emerged across the global South, including Asia (Dubash and Morgan, 2013).
+This state transformation carries significant consequences for global politics: the
+range of actors involved has broadened enormously, and, as deregulated transnational
+flows have intensified, these actors are seeking to manage their transboundary effects. As
+governmental authority has become fragmented and decentralised, national ministries
+and agencies, subnational administrations, and quasi-public and private regulators have
+increasingly developed their own overseas relationships and policies (Jayasuriya, 2001;
+Rosenau, 2003). The foreign policy duopoly of foreign and defence ministries has
+thereby evaporated. Reflecting the decreased privileging of the national scale, actors at
+multiple territorial scales are now struggling to exert power and authority (Jessop, 2009).
+Disaggregated functional bodies and technical experts have increasingly formed
+‘transgovernmental networks’ to coordinate regulatory policies (Slaughter, 2004), while
+subnational administrations pursue independent ‘paradiplomacy’ (Aldecoa and Keating,
+1999). This networking is seen as essential to manage the risks and threats generated by
+deregulation and globalisation. Accordingly, new scales of governance have emerged,
+from cross-border regions to regional and global regulatory regimes (Blatter, 2004;
+Hameiri and Jones, 2013; Keating, 2013). Diverse agents at multiple scales are increasingly networked into multilevel governance arrangements, where authority no longer
+emanates from ‘Weberian’ states, but is continually negotiated (Hooghe and Marks,
+2003). Elsewhere, institutions of powerful states have extended their ‘governance frontier’ beyond their borders to directly govern, or transform, other states seen to be ‘failing’
+(Hameiri, 2010).
+This uneven, contested process of state fragmentation, decentralisation and internationalisation carries significant consequences for understanding contemporary rising
+powers. Although more research is needed to fully theorise the implications, three can be
+identified now. First, insofar as they are undergoing state transformation, today’s rising
+powers may differ starkly from those of the 19th century. They may not be coherent
+‘Weberian’ or ‘Westphalian’ states. Different state apparatuses, allied with different nonstate forces, may well pursue different, even contradictory, agendas and be differentially
+
+10
+
+European Journal of International Relations ﻿
+
+integrated into transnational economic and security regimes. Central authorities may
+have difficulty coordinating these various elements, making their state’s ‘rise’ potentially
+conflict-ridden and difficult for outsiders to interpret, possibly sparking interstate conflict. Yet, what might appear as a threatening ‘grand strategy’ could simply be driven
+‘from below’ by increasingly autonomous state and/or private actors.
+Second, contemporary rising powers are not simply seeking to unify and develop
+national economies, as previously, but pursue growth by inserting parts of their territories and economies into transnational production and investment networks. Consequently,
+they are enmeshed in complex interdependence from the outset, profoundly shaping their
+interests. However, while some parts of their states and economies may become deeply
+intertwined with global economic processes, others are less so, potentially generating
+internal policy conflicts. Different elements might, for instance, promote involvement in
+international regimes as part of a struggle against their rivals. Moreover, that one part of
+a rising power’s state seems deeply embedded within existing international institutions
+does not mean that other parts are, or will be subordinate to those that are. The transnationalised nature of emerging powers’ economies and states also means that other states
+experience their ‘rise’ not merely as an ‘external’ power redistribution, but also internally, through the reconfiguration of their economies and attendant shifts in social composition, power and conflict. This may again produce serious interstate friction.
+Third, growing transnational linkages and associated vulnerabilities generate imperatives for rising powers to extend their ‘governance frontiers’ beyond their borders and
+participate in transnational, functional governance networks. For contemporary rising
+powers, the capacity to join and influence these networks is of increasing importance
+(Flemes, 2013), even being described as the ‘new sovereignty’ (Chayes and Chayes,
+1995). Again, different interests may exploit their variable capacity to transnationalise
+their activities in order to influence domestic power struggles. Accordingly, liberal, constructivist and neo-Marxist explorations of whether existing institutions are constraining
+or being transformed by rising powers must be extended from formal intergovernmental
+regimes to these functional networks, since they are also an important domain of struggle
+and conflict.1
+
+State transformation and the rise of China
+This section develops our conceptual claims empirically through a case study of China.
+IR scholars typically depict China as a highly coherent state, whose behaviour accordingly reflects a coherent ‘grand strategy’ (Goldstein, 2003), notwithstanding disagreements as to its content. As the quintessential ‘Westphalian’ state, China is said to offer
+‘no viable alternative to the Cold War structure of international relations based on absolute sovereignty, non-interference and traditional power balancing’ (Odgaard, 2007:
+216). Conversely, Sinologists have long argued that the Chinese state has undergone
+extensive disaggregation, decentralisation and internationalisation since the late 1970s.
+As Su (2012a: 4) insists: ‘we cannot treat the Chinese state as monolithic, or “China
+Inc.,” in which everything works in harmony … the Chinese state’s functionality is riddled with competing state agencies, problems of cross-department coordination, and
+mismatch between central and local policies’.
+
+Hameiri and Jones
+
+11
+
+Our first subsection synthesises these insights for the benefit of IR scholars, who have
+ignored them for too long. Our second and third subsections explore their implications
+for China’s rise: rivalries and incoherence in foreign and security policy; and efforts to
+extend China’s governance frontier to manage transnational issues.
+
+State transformation in China
+Since the reform era began in 1978, the Chinese state has experienced considerable disaggregation, the divestment of power and control to semi- and fully private actors, and
+the devolution of authority and resources to subnational agencies. These changes were
+designed to insert China into a global division of labour, and the consequent transnationalisation of production and investment has further spurred state transformation. The
+resultant incoherence is partially managed by mechanisms within the Chinese Communist
+Party (CCP) and recurrent efforts to recentralise authority at the national scale.
+The contested shift from Maoist state ‘socialism’ to state-managed capitalism is the
+primary driver of Chinese state transformation. This has massively shifted power and
+control over resources to a nascent bourgeoisie, mostly emerging from the CCP itself
+(Lu, 2000). Beginning with modest concessions to market mechanisms, by the 1990s, the
+state was privatising many small- and medium-sized enterprises and consolidating larger
+ones. Many of the resultant ‘giant conglomerates’ were then ‘corporatised’, remaining
+formally state-owned but operating as largely autonomous, self-financing capitalist
+enterprises (Zheng, 2004: 131–133). China’s national oil companies (NOCs), for example, now answer to foreign shareholders and are primarily driven by ‘corporate interests
+… rather than by the national interests of the Chinese state’ (Downs, quoted in Houser,
+2008: 151).
+Meanwhile, central state apparatuses have been reduced and reoriented to a coordinating function, and are less coherent. From the late 1990s, agencies associated with planning and direct economic management were abolished, the number of ministries
+contracted by 28%, and the civil service halved (Zheng, 2004: 91–106). The central
+government has withdrawn from directly controlling production and distribution, retreating to a ‘regulatory state’ model, setting broad macroeconomic policies for other public
+and private actors (Breslin, 2013). Piecemeal reforms have vastly reduced its coherence,
+with many ministries and agencies enjoying overlapping jurisdictions. For example,
+China’s oceans and energy policy are each overseen by 11 different ministerial-level
+agencies (ICG, 2012: 8; Meidan et al., 2009: 596–597).
+A second key element of China’s state transformation has been decentralisation to
+provincial governments and the incorporation of special administrative regions (SARs).
+To spur capitalist reform, provincial administrations were allowed to undertake governance experiments after 1980, and fiscal responsibilities were also devolved. They rapidly
+developed local businesses, privatised SOEs into the hands of local cadres and established internal protectionist measures, shattering the national economy into local ‘economic dukedoms’ (Zheng, 2004: 111–112). Notwithstanding repeated central government
+efforts to claw back power, and especially tax revenue, the provinces resisted and, by
+1994, ‘de facto federalism’ was established (Zheng, 2007). Since provincial governors
+rank alongside national ministers, the latter cannot issue them with direct instructions.
+
+12
+
+European Journal of International Relations ﻿
+
+Furthermore, some provincial governments have restructured their local administrations,
+entirely severing national ministries’ line control. Moreover, the incorporation of Macao
+and Hong Kong as SARs under the ‘one country, two systems’ formula has allowed them
+to retain their own legal, judicial and political systems, permitting even greater autonomy from Beijing. Accordingly, the interests of local and national leaders are now frequently at odds, generating endless struggles over the scale at which issues are governed.
+Central government initiatives regularly ‘encounter substantial obstruction and noncompliance’ from devolved administrations (Andrews-Speed, 2010: 28), while central
+agencies periodically seek to re-concentrate power in their hands. Overall, Breslin (2013:
+72) argues, China is now ‘a voluntary regulatory state, with local authorities still able to
+decide whether to adhere to central regulation or not’.
+A final aspect of China’s state transformation is the uneven internationalisation of
+state agencies and SOEs at different scales (Zweig, 2002). Some of these actors promote
+compliance with international governance systems, but others resist, while some formerly domestic entities have themselves acquired governance functions beyond China’s
+borders. This is not simply a functionalist response to growing economic interdependence, but also reflects internal power struggles, as some interests promote internationalisation to coerce domestic rivals.
+Consider, for example, the central bank, the People’s Bank of China (PBC). A historically ‘weak and marginalised institution’ (Bell and Feng, 2014: 198), despite
+notionally acquiring independent control of monetary policy in 1994, it has pursued
+internationalisation to empower itself and advance its reform agenda against powerful
+domestic opponents. The PBC’s reformist technocrats have struggled to impose neoliberal disciplines on domestic banks because powerful politico-economic interests
+benefit from politically directed credit, which has generated massive non-performing
+loan books. To outflank its opponents, the PBC has promoted compliance with the
+Basel Accords since 1990, thereby joining the main transgovernmental network governing global banking. The PBC also promoted strict compliance with WTO rules to
+expose domestic banks to foreign ownership and competition and compel further
+reforms (Walter and Howie, 2012). This sparked massive conflict with the Ministry of
+Finance (MOF) and Ministry of Commerce (MOFCOM), which resisted relinquishing
+control over credit allocation and feared a decline in bank asset values. Eventually, the
+PBC was stripped of regulatory control over commercial banking, which was, accordingly, only partially liberalised, violating Beijing’s WTO commitments (Breslin, 2014:
+1000; Walter and Howie, 2012).
+The PBC has also pursued the deregulation of China’s currency, the renminbi
+(RMB), through strategic internationalisation. Here, too, it faced stiff opposition since
+the RMB’s artificially low peg to the US dollar subsidises exporting companies, and
+because currency controls enhance government control over credit allocation. The
+PBC therefore promoted the RMB’s internationalisation, forging currency swap agreements with foreign central banks and fostering RMB trading centres in Hong Kong,
+Taipei and Shanghai. The price of ‘offshore’ RMB is thereby allowed to float, despite
+domestic exchange rate controls. It justified these moves by appealing to nationalists
+with talk of boosting China’s ‘influence’ and ‘power standing’ and reducing dependence on US dollar reserves. However, internationalisation was actually a deliberate
+
+Hameiri and Jones
+
+13
+
+PBC ploy to compel further domestic reform (Bell and Feng, 2014: 199; Cohen, 2012).
+Experts argue that internationalisation and currency controls are ultimately unsustainable, making further currency liberalisation — the PBC’s preferred outcome — inevitable (McCauley, 2013).
+To summarise, what outsiders may perceive as ‘an apparently powerful central government and unified system of governance’ is in fact ‘a fragmented and chaotic structure
+over which the central government has little control’. Outcomes reflect not authoritative
+central decisions, but ‘bargaining … horizontally between government ministries, agencies and state enterprises, as well as vertically, between different levels of government’,
+which ‘continues throughout implementation’ (Andrews-Speed, 2010: 22, 27). The
+Chinese state is actually a dynamic form of multilevel governance.
+The resultant incoherence is, however, partially mitigated through the containment of
+bargaining within the CCP and by sporadic recentralisation efforts. In ‘regulatory states’,
+the central state is not defunct; its role is redefined as laying down broad policy contours
+for others to follow (Majone, 1994). Although Chinese officials are highly adept at pushing the envelope, their latitude is constrained insofar as their career advancement occurs
+through the CCP, membership of which is de rigueur for officials, politicians and SOE
+managers. Moreover, the need for formal central approval and funding for major subnational initiatives constrains officials to forge alliances with national-level actors and present their initiatives as reflecting national priorities. Accordingly, leaders in Beijing
+retain significant power, even if they must frequently reassert it through savage purges,
+such as those that President Xi Jinping is currently undertaking. National leaders also
+periodically attempt to recentralise control institutionally. This often involves forming
+‘Leading Small Groups’ of the Politburo, designed to coordinate disparate state agencies,
+or ad hoc initiatives. These are of dubious efficacy, but do reassert ‘red lines’ for officials, preventing severe incoherence. Recentralisation drives can also have distinct policy outcomes.
+The aforementioned trends in state transformation are novel and epochal. They do not
+merely reflect long-standing problems of central ‘bureaucratic capacity’ or centre–
+periphery difficulties, which have plagued China as much as any modern state (Shue,
+1988), or herald a return to ‘pre-Westphalian’ 19th-century warlordism. Instead, they
+reflect the unprecedented disaggregation of a state-socialist regime that had earlier substantially unified China’s society and territory. While Mao attempted two rounds of
+decentralisation and recentralisation, this only involved shifting administrative responsibilities. Today, China’s provinces have acquired unprecedented legislative, political and
+managerial authority, while central control via the nomenklatura system has weakened
+substantially (Gong and Chen, 1994). Moreover, and uniquely, this occurred in tandem
+with massive marketisation, generating unprecedented competition among and between
+different tiers of government and their associated SOEs. Furthermore, these SOEs are
+now relatively autonomous, market-facing, profit-driven, internationalised actors, but
+they can also exploit their remaining links to state apparatuses — again, this is unprecedented in Chinese history. Combined, these changes have ‘fundamentally altered China’s
+command economy system and the power structure between the centre and localities’
+(Jia and Wang, 1994: 35, 38). Inter-scalar power struggles now occur constantly, without
+decisive resolution.
+
+14
+
+European Journal of International Relations ﻿
+
+The impact on foreign and security policy
+Accordingly, China’s rise does not reflect a monolithic state pursuing a coherent grand
+strategy. Instead, multiple state and quasi-private agencies, having become somewhat
+autonomous foreign policy actors, are pursuing uncoordinated and sometimes contradictory agendas overseas, notwithstanding efforts to coordinate them. This often provokes
+an anti-Chinese backlash and fears about China’s intentions. We demonstrate this by
+considering China’s aid programmes in the Pacific, and Chinese policies in the SCS.
+China’s state transformation has substantially fragmented and expanded the domain
+of foreign policy formation and implementation. The much-weakened MFA, while historically always subordinate to the CCP leadership, now faces ‘intense rivalry’ from
+other ‘foreign policy actors’ (Jakobsen and Knox, 2010: 10). These include the armed
+forces, MOF, MOFCOM, state security apparatuses, the central bank, the National
+Development and Reform Commission (NDRC) and the CCP’s International Department
+(Jakobsen and Knox, 2010: 4–16). Major corporatised SOEs are also de facto foreign
+policy actors. For example, Chinese NOCs, whose chairmen retain vice-ministerial rank,
+frequently operate abroad without regard for national priorities, being empowered to
+‘adapt, modify and even subvert government directives’ (Chen, 2009: 254–258).
+Accordingly, the NOCs ‘drive … China’s international energy agenda, rather than the
+government’ (Andrews-Speed, 2010: 53). Empowered to independently control their
+international economic relations, the provinces and SARs have also become quasi-autonomous foreign policy actors, concluding transboundary agreements with local and
+national governments as far afield as Africa (Chen et al., 2010; Li, 2014). Crucially, the
+MFA lacks formal authority to coordinate equally ranked agencies and, informally, the
+foreign minister reportedly ‘struggles to make the top 50 in the Central Committee’
+(Smith, 2014).
+Nonetheless, reflecting the ‘regulatory state’ model and inter-scalar contestation, the
+centre remains heavily involved in defining broad policy contours and periodically seeks
+to recentralise foreign policy authority. For example, Xi Jinping has created a State
+Security Committee and held a Diplomacy Work Conference in 2013, elaborating broad
+strategic contours for China’s many agencies to follow. Major policy shifts, like the
+announcement of an Air Defence Identification Zone over the East China Sea in
+November 2013, also remain contingent upon high-level approval. However, even such
+major initiatives can stem from bottom-up proposals as sectional interests frame their
+agendas in terms of the leadership’s broad policy statements, which are sometimes so
+broad that ‘one can justify almost anything’ (Jakobsen, 2014: 1). Moreover, as the main
+implementing agencies, subnational entities retain considerable latitude to shape outcomes, often diverging from Beijing’s intentions. Responding to the interstate frictions
+that this frequently creates, the MFA often strains to recentralise policy control — though
+its capacity to do so is limited.
+Chinese aid in the Pacific. Chinese foreign development assistance is widely seen as part
+of a broader hegemonic strategy, as ‘rogue aid’ designed to undermine the ‘Washington
+Consensus’ and Western promotion of ‘good governance’ and democracy (Naím, 2007).
+In the Pacific, some argue that China’s growing engagement, including aid
+
+Hameiri and Jones
+
+15
+
+disbursements, reflects an aggressive plan to ‘replace the United States as the preeminent
+power’ (Henderson and Reilly, 2003: 95). Others suggest that China is ‘soft balancing’
+against the US and Australia, or seeking to grab raw materials for Chinese industry
+(Lanteigne, 2012; Yang, 2009).
+In reality, rather than being part of a strategic ‘master plan’, Chinese aid is primarily
+driven from below, by commercial considerations, and is accordingly fragmented and
+incoherent. Although notionally centred upon MOFCOM, significant aid funds are allegedly concealed within numerous other ministries’ budgets, including Health, Education,
+Agriculture and Foreign Affairs, with MOFCOM unable to compel MOF to even disclose the total amount (Grimm et al., 2011: 7). This is a ‘recipe for chaos’ in Chinese aid
+policymaking and implementation (Brautigam, 2009: 116). In practice, Chinese aid is
+primarily driven and implemented ‘from below’ by various state-owned, private and
+hybrid companies, linked predominantly to subnational governments, which seek business opportunities by lobbying Chinese and Pacific state agencies to initiate aid-funded
+infrastructure and construction projects for them to undertake. These projects are frequently not linked to natural resources; instead, companies accept projects requested by
+recipient governments, with low profit margins, hoping to later receive more lucrative
+contracts (Brautigam, 2009). Thus, Chinese aid is mostly driven by ‘Chinese infrastructure companies in the Pacific, not aid agencies in Beijing’ (Smith, 2012).
+Two examples demonstrate this. Papua New Guinea (PNG) receives 58% of total
+Chinese aid in the Pacific. Chinese investment in a US$2.1 billion nickel mine has been
+presented as evidence that this aid seeks to facilitate a massive resource grab. In reality,
+Chinese engagement reflects independent, profit-seeking behaviour by diverse business
+actors. In 2012, 13 of the 20 largest Chinese enterprises registered in PNG were construction firms, while nearly half of Chinese investment comprised small- and mediumsized retail and wholesale businesses (Smith, 2013: 329). Accordingly, Chinese aid has
+mostly been devoted to infrastructure projects requested by the PNG government with no
+link to the mine, like student dormitories. Similarly, a sevenfold increase of Chinese aid
+to Fiji in 2007 was widely interpreted as a malign attempt to bolster Fiji’s new military
+regime against Australian sanctions. In reality, the increase had been agreed in 2006 as
+part of a wider pledge to Pacific governments, before the Fijian coup. Moreover, aside
+from one e-government project, it was all devoted to construction and infrastructure
+(Yang, 2011: 307–308). Far from expressing coherent, sinister, strategic intent, Chinese
+aid in the Pacific seems more driven by politically connected construction firms lobbying for tied aid to absorb their surplus capacity.
+The SCS. The SCS is even more seriously affected by inter-bureaucratic and multilevel
+strife within the Chinese state. Rich in fisheries and hydrocarbons, the SCS is widely
+regarded to be one of East Asia’s most serious ‘flashpoints’. China has issued vague but
+obdurate claims to a vast oceanic area — the so-called ‘nine-dashed line’ — which overlaps with those of six Southeast Asian states. Conflicts with Vietnam and the Philippines
+have been particularly acute in the mid-1990s and since 2012. This is widely interpreted
+— particularly by realists — as reflecting China’s growing power and strategic ambition,
+fuelling fears of armed conflict (Kaplan, 2014). The reality is far less coherent, reflecting
+a lack of consensus within China, even on the ‘nine-dashed line’.
+
+16
+
+European Journal of International Relations ﻿
+
+The MFA clearly does not control China’s SCS policy. While ‘theoretically responsible’, in practice, it is ‘largely bypassed by … more powerful players’ (ICG, 2012: 12). A
+further dozen national and subnational agencies have some jurisdiction here, including the
+Ministry of Agriculture’s Bureau of Fisheries Administration, China Marine Surveillance,
+provincial governments, the navy, the NOCs and six law enforcement agencies under four
+different ministries (ICG, 2012: 8). According to C. Chung (2004: 267–272), neither the
+MFA nor the Politburo’s Foreign Affairs Leading Small Group has ‘ultimate power and
+authority’ over the SCS; instead, decisions are made by ‘multiple autonomous actors’.
+Consequently, while the MFA promotes a relatively cooperative line — including ratifying and implementing the UN Convention on the Laws of the Sea (UNCLOS) in 1992,
+and negotiating a Declaration on the Conduct of Parties in the SCS with ASEAN in 2002
+— it is persistently undermined by other parts of China’s disaggregated state.
+The navy, for example, has repeatedly and successfully exploited SCS disputes to
+defend and expand its budget (Chung C-p, 2004: ch. 6). Apparently, this directly precipitated a 1988 military clash with Vietnam, resulting in China annexing the Paracel Islands
+(Garver, 1992). Similarly, in 1995, the navy seized Mischief Reef, claimed by the
+Philippines; this was apparently the price extracted for its support of incoming Premier
+Jiang Zemin (Storey, 1999).2
+China’s largely autonomous NOCs also generate conflict and crises. In the 1990s, due
+to the exhaustion of domestic hydrocarbon supplies and a profit crunch induced by state
+price controls, the NOCs exploited their influence and growing elite concerns about
+‘energy security’ to successfully lobby for a ‘go out’ policy, thereby internationalising
+their activities (Houser, 2008: 152–153). However, as relative latecomers, the NOCs
+found open oil and gas fields only in areas neglected by Western oil majors: ‘rogue’
+states like Sudan and disputed territories like the SCS. The MFA is left fending off subsequent international condemnation of their activity (Downs, 2008: 129). The China
+National Offshore Oil Company (CNOOC) asserts Chinese sovereignty over the whole
+nine-dashed-line area in the SCS as this vastly expands the concessions that it can offer
+to national and foreign companies. CNOOC has repeatedly issued such concessions,
+despite MFA disapproval, sparking disputes with neighbouring states (Beckman et al.,
+2013: 429–430).
+The NOCs have also rallied other state agencies to their cause. In 2007, the Chinese
+National Petroleum Company (CNPC) commissioned Canadian firm TransOcean to drill
+in the Zhongjiannan basin, an area partly disputed with Vietnam, which it had been exploring since 2004 with backing from the Ministry of Land and Resources (Xinhua.net, 2014).
+Vietnamese coastguards harassed CNPC’s survey vessels, but the latter summoned
+China’s State Oceanic Administration ships to protect them. These rammed the Vietnamese
+vessels, sparking an international incident (Bentley, 2014). The project was abandoned in
+2008 under MFA pressure (Downs, 2014). However, by 2012, CNOOC had procured its
+own deep-sea rig, which CNPC hired and deployed in Vietnamese waters in March 2014.
+The rig was accompanied by up to 80 Chinese vessels, including seven naval ships, suggesting that CNPC had also recruited the navy to its cause — or vice versa. This caused a
+massive diplomatic crisis. The MFA had to contradict its own policy by claiming that the
+rig was in Chinese territorial waters, implying, at minimum, a position violating UNCLOS
+(for a legal discussion, see Thayer, 2014).
+
+Hameiri and Jones
+
+17
+
+Some observers argued that this crisis reflected Xi’s centralisation drive and a new,
+aggressive ‘grand strategy’ from Beijing (Downs, 2014; Thayer, 2014). If true, this would
+reflect how constant inter-scalar struggles are shaping Chinese policy. However, these
+claims are questionable. CNPC’s activities display significant continuity, while, just
+before and after the crisis, the MFA and Xi were strongly pursuing improved relations
+with Vietnam. Rather than heralding a new coherence, then, the incident was arguably the
+latest of many contradictions produced by fragmented, interagency contestation (see
+Santicola, 2014). Jakobsen (2014: 1) insists that ‘there is no evidence’ that the crisis
+revealed ‘a grand strategy Xi is pursuing to coerce China’s neighbours in a tailored way
+towards a pre-defined goal’; rather, diverse, disaggregated actors are still exploiting ‘Xi’s
+very general guidelines on safeguarding maritime rights’ to ‘push their own agendas’.
+Hainan’s provincial government is another of these opportunistic actors. As Zhang
+(2012: 18) notes, unlike the MFA, ‘which is committed to avoid diplomatic and security
+conflicts with neighbouring countries, local governments are motivated by economic
+concerns’. The coastal provinces gained administrative control over China’s territorial
+waters in 1992. Subsequently, they developed their own local law enforcement agencies
+and rapaciously pursued maritime development opportunities. Hainan theoretically
+administers the entire nine-dashed-line area, which is 60 times larger than its own land
+surface. It thus has a strong interest in asserting maximalist territorial claims to promote
+its local fisheries industry.
+Following the industry’s deregulation in 1992, Hainan provided extensive financial
+support to state-owned and private fishing companies, increasing the fleet’s size tenfold
+from 1988 to 1997. Fisheries yields quadrupled, but the resultant overfishing of coastal
+waters subsequently forced the fleet into the SCS (Zha, 2001: 588–592). This should
+have been prevented by the national government’s adoption of UNCLOS and the Food
+and Agriculture Organization’s sustainability standards during 1999–2002, which ought
+to have reduced Hainan’s fishing fleet. However, as with many central initiatives, local
+governments resisted implementing these regulations, siding with local economic interests (Brans and Ferraro, 2012). Indeed, Hainan actively supported the fleet’s expansion
+into the SCS by subsidising expeditions, financing trawler upgrades and rescuing ships
+confronted by other countries’ coastguards (Ruwitch, 2014). From 1989 to 2010, there
+were 380 such confrontations, involving 750 Chinese vessels. Crucially, it is overwhelmingly these incidents that spark diplomatic crises, not military clashes (Zhang, 2012: 1).
+Recurrent SCS crises thus reflect the Chinese state’s transformation and partial internationalisation. Agencies ‘originally established to implement domestic policies … now
+play a foreign policy role. They have almost no knowledge of the diplomatic landscape
+and little interest in promoting the national foreign policy agenda’, and since they ‘enjoy
+significant autonomy’, the MFA cannot control them (ICG, 2012: 14). This explains why
+Chinese policy is ‘consistently inconsistent’, displaying ‘an almost incomprehensible
+level of unpredictability’ and ‘lack of any discernible strategy’ (Santicola, 2014) — not
+a sinister ‘grand strategy’ of phased expansion, as realists suggest. However, the consequences of state fragmentation are clearly very dangerous, contradicting more optimistic
+liberal and constructivist accounts. The Chinese government apparently recognises the
+risks: it recently sought to recentralise policy control under the MFA and amalgamate
+five maritime law enforcement agencies. However, this has apparently failed because the
+
+18
+
+European Journal of International Relations ﻿
+
+latter ‘do not want to relinquish their power’ (ICG, 2012: 18, 32–36; see also Jakobsen,
+2014: 17–20).
+
+Managing transboundary interests
+A second aspect of state transformation and China’s rise concerns growing Chinese
+efforts to manage transboundary interests acquired through economic transnationalisation. As China’s economy expands beyond its borders, so does the ‘governance frontier’ of its state apparatuses, particularly those of border provinces. Chinese agencies
+and SOEs seek to reshape other territories’ governance to pursue their (often divergent)
+interests. To illustrate this, we consider Chinese engagement in the GMS, a transnational integration project involving China, Vietnam, Laos, Cambodia, Myanmar and
+Thailand.
+Initially conceived by the Asian Development Bank, the GMS has greatly facilitated
+Beijing’s ‘going out’ strategy, designed to develop its poor, non-coastal regions by linking them economically to neighbouring states. It has involved the substantial ‘rescaling’
+of Chinese state apparatuses, constructing a complex, regionalised mode of multilevel
+governance (Su, 2012a). Following the ‘regulatory state’ model, while central government agencies like the MFA, MOF and the NDRC conclude broad agreements with other
+GMS member states, the detailed implementation is left to provincial governments,
+which are also formally GMS members: Yunnan Province, which became China’s main
+representative in 1992, and the Guangxi Zhuang Autonomous Region, which joined in
+2005. These provinces autonomously ‘receive foreign investments, set up economic
+zones, manage border trade and sign contracts for border cooperation with neighbouring
+countries’ (Colin, 2014: 112). Yunnanese SOEs and private firms have invested heavily
+across the GMS, notably, in hydropower, manufacturing, mining and agribusiness
+(Summers, 2013: 161–164). Exploiting national-level energy security concerns, Yunnan
+also joined with CNPC to successfully lobby Beijing for a US$5.3 billion oil and gas
+pipeline from Myanmar’s western coast to Yunnan in order to become a key base for
+China’s petrochemicals industry (Steinberg and Fan, 2013: 180–181; Su, 2014:
+100–102).
+In pursuit of economic opportunities, Yunnan has gradually acquired important transboundary governance functions. To facilitate trade and investment, the provincial government has promoted extensive transboundary transport infrastructure development,
+opening the Mekong River to large-scale shipping and constructing extensive road and
+rail links. It has also worked intensively with other national and subnational GMS governments to promote regulatory changes beneficial to Chinese investors, including the
+creation of transborder special economic zones (Summers, 2013).
+Yunnan has also moved to manage the negative side effects of its economic transnationalisation, which include piracy, transboundary crime and drug- and people-trafficking.
+Growing smuggling and piracy on the Mekong led Beijing to conclude an agreement for
+joint river patrols with Myanmar, Laos and Thailand in December 2011. This is implemented by the Yunnan Border Police’s Waters Division; they host a combined operations
+centre, coordinating day-to-day operations, and train and equip their Myanmar and
+Laotian counterparts (Hu, 2013). From April to June 2013 alone, 2500 arrests were made
+
+Hameiri and Jones
+
+19
+
+and drugs worth US$400 million were seized, alongside weapons and ammunition
+(Storey, 2013).
+A growing cross-border HIV epidemic, caused by drugs imported from the Golden
+Triangle, has also prompted Yunnan to initiate transboundary counter-narcotics initiatives. Yunnan has worked closely with the United Nations Office on Drugs and Crime
+to train Myanmar and Laotian counter-narcotics police, launching 107 joint cross-border operations against drug traffickers from 2002 to 2005 (Li and Zheng, 2009: 634).
+Additionally, Yunnan has promoted opium substitution in Myanmar and Laos. By 2006,
+Yunnanese technicians had visited over 3000 sites there, training over 1000 of their
+counterparts (Sheng, 2006: 112). Yunnan has also successfully lobbied Beijing to
+finance massive subsidies for Chinese agribusiness investments to replace poppy fields
+in GMS countries. Yunnan-based firms have invested over RMB1 billion in alternative
+plantation agriculture, covering up to 410,000 hectares (Sheng, 2006: 112; Su, 2013: 2).
+Although this might seem to validate liberal optimism about the cooperative impact
+of economic integration, in reality, Yunnan’s primarily economically motivated actions
+often have darker side effects that generate inter-scalar conflict and interstate friction. In
+Myanmar, for example, Yunnanese extractive and plantation investments have encouraged violent land grabs, undermined subsistence livelihoods and exacerbated ethnic conflict, severely compromising the opium substitution programme (ICG, 2009: 41).
+Moreover, while Beijing has supported the Myanmar government’s bans on border trade
+in timber and gems in order to reduce the income of the anti-government rebels ‘taxing’
+it, Yunnan has sought to defend the trade. Yangon holds Beijing accountable for these
+developments, creating serious intergovernmental tensions (ICG, 2009: 25–26, 40–41;
+Li and Lye, 2009: 266). Accordingly, national-level agencies have been forced to try to
+recentralise authority over China’s Myanmar policy in order to mitigate Yunnan’s errors
+and safeguard broader Chinese interests. Thus, in 2009, when Kachin forces resumed
+their rebellion against Yangon, partly to protest against rapacious resource extraction,
+Beijing intervened, mediating peace talks to try to stem the flow of refugees and the
+threat to its oil and gas pipeline (ICG, 2013).
+
+Conclusion
+We have argued that today’s rising powers are not the unitary states of much IR theorising;
+rather, reflecting transformations in the global political economy since the 1970s, they are
+increasingly fragmented, decentralised and internationalised. Consequently, different
+parts of rising powers’ states may pursue divergent or contradictory agendas, with outcomes reflecting disorganisation and conflict, not grand strategy. Different state and business interests may be unevenly integrated into international economic, diplomatic and
+institutional circuits, deepening these contradictions. Moreover, as transnational interests
+grow, so do rising powers’ interests in managing transboundary flows, threats and risks by
+extending their governance frontiers beyond their borders. We demonstrated these arguments using the case of China, conventionally considered a classic ‘Westphalian’ state but
+in reality a complex, multilevel governance system riven by contending interests.
+Clearly, we lack the space here to consider other rising powers. Nonetheless, there is
+prima facie evidence of similar trends elsewhere, suggesting a fruitful research agenda.
+
+20
+
+European Journal of International Relations ﻿
+
+For example, subnational diplomacy and governance rescaling has been observed in
+Brazil (Setzer, 2014), Russia (Sharafutdinova, 2003), India (Sridharan, 2003) and South
+Africa (Nganje, 2014). Naturally, these cases will not be identical to China. Since the
+transformation and operation of state apparatuses are driven by local socio-political conflicts, we anticipate considerable variation.
+Fully revising IR theory to incorporate state transformation is also impossible here,
+but some provisional insights can be offered. China’s internal fragmentation and struggles clearly generate quite incoherent, conflict-ridden outcomes. This may help to explain
+why even proponents of the same IR theory can identify supporting evidence for both
+pessimistic and optimistic accounts of China’s rise. The contradictory evidence reflects
+not a failure of interpretation, but a phenomenon being ignored by IR theory — state
+transformation. Once we attend to this, outcomes appear explicable, contingent and
+issue-specific, depending on the actors and interests involved. This does not mean, for
+example, that pessimistic realists are necessarily wrong that Chinese behaviour in the
+SCS is threatening and destabilising — it clearly is. However, this is not because ‘China’
+is pursuing some monolithic, expansionist ‘grand strategy’ reflecting growing power
+resources; rather, it reflects internal conflicts among disaggregated state and semi-private
+actors. Similarly, liberals, constructivists and English School theorists are not necessarily
+wrong to claim that some Chinese agencies are now heavily involved in international
+governance. However, they must recognise that others are not, and that long-run outcomes depend on struggles between contending agents and visions. Nor is such internationalisation necessarily inherently ‘liberal’ in content; it frequently is not, prompting
+backlashes that erode China’s so-called ‘soft power’. To generate more accurate analyses
+and predictions, IR scholars must incorporate the conflict-ridden dynamics of state transformation into their approaches.
+Our argument also has implications for practitioners. It suggests that traditional diplomatic practices, focused on interactions between foreign ministries, are insufficient to
+inform policies towards China, and possibly other rising powers. The MFA is simply not
+in control of Chinese foreign policy. To assume otherwise risks severe misinterpretation
+of events and disproportionate policy responses that could precipitate serious international conflict. To avoid this, diplomats should incorporate our insights into their work.
+They should broaden their contacts, data gathering and analysis to many more actors, and
+interpret rising powers’ behaviour not as monolithic, but as reflecting internal disaggregation and conflict. They need to identify and encourage those interests most amenable
+to peaceful cooperation, and they should help educate their own policymakers and publics about the realities of today’s rising powers.
+Acknowledgements
+The authors are very grateful for feedback on earlier drafts from Shaun Breslin, Rosemary Foot,
+Ruben Gonzalez-Vicente, Kanishka Jayasuriya, Ian Storey and the journal’s excellent editors and
+reviewers.
+
+Funding
+This research received no specific grant from any funding agency in the public, commercial or
+not-for-profit sectors.
+
+Hameiri and Jones
+
+21
+
+Notes
+1.
+2.
+
+Preliminary examples, albeit constrained by a continued neglect of state transformation,
+include Drezner (2008) and Mattli and Woods (2009).
+China’s territorial disputes often escalate as new leaders consolidate their power bases
+through purges and nationalist posturing. Zhang (2014) attributes recent tensions in the SCS
+to the handover to Xi.
+
+References
+Acharya A (2006) Will Asia’s past be its future? International Security 28(3): 149–164.
+Aldecoa F and Keating M (eds) (1999) Paradiplomacy in Action: The Foreign Relations of
+Subnational Governments. London: Frank Cass.
+Andrews-Speed P (2010) The institutions of energy governance in China. Institut Français des
+Relations Internationales, January.
+Arrighi G (2007) Adam Smith in Beijing: Lineages of the Twenty-First Century. London: Verso.
+Barkin JS and Cronin B (1994) The state and the nation: Changing rules and the norms of sovereignty in international relations. International Organization 48(1): 107–130.
+Beckman R, Schofield C, Townsend-Gault I et al. (2013) Factors conducive to joint development
+in Asia: Lessons learned for the South China Sea. In: Beckman R, Schofield C, TownsendGault I et al. (eds) Beyond Territorial Disputes in the South China Sea: Legal Frameworks
+for the Joint Development of Hydrocarbon Resources. Cheltenham: Edward Elgar, pp. 411–
+441.
+Bell S and Feng H (2014) How proximate and ‘meta-institutional’ contexts shape institutional
+change: Explaining the rise of the People’s Bank of China. Political Studies 62(1): 197–215.
+Bentley S (2014) Vietnam and China: A dangerous incident. The Diplomat, 12 February.
+Blatter J (2004) From ‘spaces of place’ to ‘spaces of flows’? Territorial and functional governance
+in cross-border regions in Europe and North America. International Journal of Urban and
+Regional Research 28(3): 530–548.
+Brans M and Ferraro G (2012) International agreements and the salience of domestic politics:
+Locus, focus and gradus. The case of fisheries policy reforms in China and Senegal. Journal
+of Comparative Policy Analysis: Research and Practice 14(1): 9–25.
+Brautigam D (2009) The Dragon’s Gift: The Real Story of China in Africa. Oxford: Oxford
+University Press.
+Brenner R (1977) The origins of capitalist development: A critique of neo-Smithian Marxism. New
+Left Review 104(1): 25–92.
+Breslin S (2013) China and the Global Political Economy. Basingstoke: Palgrave Macmillan.
+Breslin S (2014) Financial transitions in the PRC: Banking on the state? Third World Quarterly
+35(6): 996–1013.
+Buzan B (2004) From International to World Society? English School Theory and the Social
+Structure of Globalisation. Cambridge: Cambridge University Press.
+Buzan B (2010) China in international society: Is ‘peaceful rise’ possible? Chinese Journal of
+International Politics 3(1): 5–36.
+Callinicos A (2009) Imperialism and Global Political Economy. Cambridge: Polity.
+Callinicos A and Rosenberg J (2008) Uneven and combined development: The social-relational
+substratum of ‘the international’? An exchange of letters. Cambridge Review of International
+Affairs 21(1): 77–112.
+Campbell K (2014) Trouble at sea reveals the new shape of China’s foreign policy. Financial
+Times blog, 22 July. Available at: http://blogs.ft.com/the-a-list/2014/07/22/trouble-at-seareveals-the-new-shape-of-chinas-foreign-policy/ (accessed 25 July 2014).
+
+22
+
+European Journal of International Relations ﻿
+
+Cerny PG (1997) Paradoxes of the competition state: The dynamics of political globalization.
+Government and Opposition 32(2): 251–274.
+Cerny PG (2010) Rethinking World Politics: A Theory of Transnational Neopluralism. Oxford:
+Oxford University Press.
+Chayes A and Chayes AH (1995) The New Sovereignty: Compliance with International Regulatory
+Agreements. Boston, MA: Harvard University Press.
+Chen S (2009) Marketization and China’s energy security. Policy and Society 27(3): 249–260.
+Chen Z (2005) Coastal provinces and China’s foreign policy making. In: Hao Y and Su L (eds)
+China’s Foreign Policy Making: Societal Force and Chinese American Policy. Aldershot:
+Ashgate, pp. 187–208.
+Chen Z, Jian J and Chen D (2010) The provinces and China’s multi-layered diplomacy: The cases
+of GMS and Africa. The Hague Journal of Diplomacy 5(4): 331–356.
+Chin G and Helleiner E (2008) China as a creditor: A rising financial power? Journal of
+International Affairs 62(1): 87–102.
+Chong JI and Hall TH (2014) The lessons of 1914 for East Asia today: Missing the trees for the
+forest. International Security 39(1): 7–43.
+Chung C-p (2004) Domestic Politics, International Bargaining and China’s Territorial Disputes.
+London: Routledge Curzon.
+Chung C (2004) The Spratly Islands dispute: Decision units and domestic politics. PhD thesis,
+University of New South Wales.
+Cohen BJ (2012) The Yuan tomorrow? Evaluating China’s currency internationalisation strategy.
+New Political Economy 17(3): 361–371.
+Colás A (2008) Open doors and closed frontiers: The limits of American empire. European Journal
+of International Relations 14(4): 619–643.
+Colin S (2014) The participation of Yunnan Province in the GMS: Chinese strategies and impacts
+on border cities. In: Fau N, Khonthapane S and Taillard C (eds) Transnational Dynamics in
+Southeast Asia: The Greater Mekong Subregion and Malacca Straits Economic Corridors.
+Singapore: ISEAS, pp. 107–142.
+Cox RW (1987) Production, Power, and World Order: Social Forces in the Making of History.
+New York, NY: Columbia University Press.
+Downs ES (2008) Business interest groups in Chinese politics: The case of the oil companies. In:
+Li C (ed.) China’s Changing Political Landscape: Prospects for Democracy. Washington,
+DC: Brookings Institution Press, pp. 121–141.
+Downs ES (2014) Business and politics in the South China Sea: Explaining HYSY 981’s foray into
+disputed waters. China Brief XIV(12): 6–8.
+Drezner DW (2008) All Politics is Global: Explaining International Regulatory Regimes.
+Cambridge: Cambridge University Press.
+Dubash NK and Morgan B (eds) (2013) The Rise of the Regulatory State of the South: Infrastructure
+and Development in Emerging Economies. Oxford: Oxford University Press.
+Flemes D (2013) Network powers: Strategies of change in the multipolar system. Third World
+Quarterly 34(6): 1016–1036.
+Friedberg AL (2005) The future of US–China relations: Is confict inevitable? International
+Security 30(2): 7–45.
+Garver JW (1992) China’s push through the South China Sea: The interaction of bureaucratic and
+national interests. The China Quarterly 132: 999–1028.
+Gilpin R (1981) War and Change in the International System. Princeton, NJ: Princeton University
+Press.
+Goh E (2013) The Struggle for Order: Hegemony, Hierarchy, and Transition in Post-Cold War
+East Asia. Oxford: Oxford University Press.
+
+Hameiri and Jones
+
+23
+
+Goldstein A (2003) An emerging China’s emerging grand strategy. In: Ikenberry GJ and
+Mastanduno M (eds) International Relations Theory and the Asia-Pacific. New York, NY:
+Columbia University Press, pp. 57–106.
+Gong T and Chen F (1994) Institutional reorganization and its impact on decentralization. In: Jia
+H and Lin Z (eds) Changing Central–Local Relations in China: Reform and State Capacity.
+Boulder, CO: Westview Press, pp. 67–88.
+Goodman DSG and Segal G (eds) (1994) China Deconstructs: Politics, Trade and Regionalism.
+London: Routledge.
+Gray K and Murphy CN (2013) Introduction: Rising powers and the future of global governance.
+Third World Quarterly 34(2): 183–193.
+Grimm S, Rank R, McDonald M et al. (2011) Transparency of Chinese aid: An analysis of the
+published information on Chinese external financial flows. Publish What You Fund/Centre
+for Chinese Studies, Stellenbosch University, August.
+Hameiri S (2010) Regulating Statehood: State Building and the Transformation of the Global
+Order. Basingstoke: Palgrave Macmillan.
+Hameiri S and Jones L (2013) The politics and governance of non-traditional security. International
+Studies Quarterly 57(3): 462–473.
+Harrison G (2004) The World Bank and Africa: The Construction of Governance States. London:
+Routledge.
+Harvey D (2005) A Brief History of Neoliberalism. Oxford: Oxford University Press.
+Henderson J and Reilly B (2003) Dragon in paradise: China’s rising star in Oceania. The National
+Interest 72: 94–104.
+Hobsbawm EJ (1987) The Age of Empire, 1875–1914. London: Weidenfeld & Nicolson.
+Hobsbawm EJ (1994) The Age of Extremes: A History of the World, 1914–1991. New York, NY:
+Pantheon Books.
+Hooghe L and Marks G (2003) Unraveling the central state, but how? Types of multi-level governance. American Political Science Review 97(2): 233–243.
+Houser T (2008) The roots of Chinese oil investment abroad. Asia Policy 5(1): 141–166.
+Hu Y (2013) Patrols bring security to Mekong River. China Daily USA, 17 December.
+Hurrell A (2006) Hegemony, liberalism and global order: What space for would-be great powers?
+International Affairs 82(1): 1–19.
+Hurrell A (2008) On Global Order: Power, Values, and the Constitution of International Society.
+Oxford: Oxford University Press.
+ICG (International Crisis Group) (2009) China’s Myanmar Dilemma. Beijing: ICG.
+ICG (2012) Stirring Up the South China Sea. Beijing: ICG.
+ICG (2013) A Tentative Peace in Myanmar’s Kachin Conflict. Jakarta: ICG.
+Ikenberry GJ (2008) The rise of China and the future of the West: Can the liberal system survive?
+Foreign Affairs 87(1): 23–37.
+Jackson RH (1990) Quasi-States: Sovereignty, International Relations, and the Third World.
+Cambridge: Cambridge University Press.
+Jakobsen L (2014) China’s unpredictable maritime security actors. Lowy Institute Report,
+December.
+Jakobsen L and Knox D (2010) New Foreign Policy Actors in China. Stockholm: SIPRI.
+Jayasuriya K (2001) Globalisation and the changing architecture of the state: Regulatory state and
+the politics of negative coordination. Journal of European Public Policy 8(1): 101–123.
+Jessop B (2008) State Power: A Strategic-Relational Approach. Cambridge: Polity.
+Jessop B (2009) Avoiding traps, rescaling states, governing Europe. In: Keil R and Mahon R
+(eds) Leivathan Undone? Towards a Political Economy of Scale. Vancouver: UBC Press,
+pp. 87–104.
+
+24
+
+European Journal of International Relations ﻿
+
+Jia H and Wang M (1994) Market and state: Changing central–local relations in China. In: Jia H
+and Lin Z (eds) Changing Central–Local Relations in China: Reform and State Capacity.
+Boulder, CO: Westview Press, pp. 35–65.
+Johnston AI (1998) Cultural Realism: Strategic Culture and Grand Strategy in Chinese History.
+Princeton, NJ: Princeton University Press.
+Johnston AI (2003) Socialization in international institutions: The ASEAN way and International
+Relations theory. In: Ikenberry GJ and Mastanduno M (eds) International Relations Theory
+and the Asia-Pacific. New York, NY: Columbia University Press, pp. 107–162.
+Kang DC (2003) Getting Asia wrong: The need for new analytical frameworks. International
+Security 27(4): 57–85.
+Kaplan RD (2014) Asia’s Cauldron: The South China Sea and the End of a Stable Pacific. New
+York, NY: Random House.
+Keating M (2013) Rescaling the European State: The Making of Territory and the Rise of the
+Meso. Oxford: Oxford University Press.
+Keohane RO (1984) After Hegemony: Cooperation and Discord in the World Political Economy.
+Princeton, NJ: Princeton University Press.
+Kirshner J (2010) The tragedy of offensive realism: Classical realism and the rise of China.
+European Journal of International Relations 18(1): 53–75.
+Klare M (2001) Resource Wars: The New Landscape of Global Conflict. New York, NY: Owl
+Books.
+Lanteigne M (2012) Water dragon? China, power shifts and soft balancing in the South Pacific.
+Political Science 64(1): 21–38.
+Li C and Lye LF (2009) China’s policies towards Myanmar: A successful model for dealing with
+the Myanmar issue? China: An International Journal 7(2): 255–287.
+Li HY and Zheng Y (2009) Re-interpreting China’s non-intervention policy towards Myanmar:
+Leverage, interest and intervention. Journal of Contemporary China 18(61): 617–637.
+Li M (2014) Local liberalism: China’s provincial approaches to relations with Southeast Asia.
+Journal of Contemporary China 23(86): 275–293.
+Lieberthal KG (1992) Introduction: The ‘fragmented authoritarianism’ model and its limitations.
+In: Lieberthal KG and Lampton DM (eds) Bureaucracy, Politics, and Decision Making in
+Post-Mao China. Berkeley, CA: University of California Press, pp. 1–30.
+Lu X (2000) Booty socialism, bureau-preneurs, and the state in transition: Organizational corruption in China. Comparative Politics 32(3): 273–294.
+McCauley RN (2013) Renminbi internationalisation and China’s financial development. Journal
+of Chinese Economic and Business Studies 11(2): 101–115.
+Majone G (1994) The rise of the regulatory state in Europe. West European Politics 17(3): 77–101.
+Mattli W and Woods N (2009) The Politics of Global Regulation. Princeton, NJ: Princeton
+University Press.
+Mearsheimer JJ (1990) Back to the future: Instability in Europe after the Cold War. International
+Security 15(1): 5–56.
+Mearsheimer JJ (2001) The Tragedy of Great Power Politics. New York, NY: W.W. Norton & Co.
+Mearsheimer JJ (2006) China’s unpeaceful rise. Current History 105(690): 160–162.
+Meidan M, Andrews-Speed P and Xin M (2009) Shaping China’s energy policy: Actors and processes. Journal of Contemporary China 18(61): 591–616.
+Naím M (2007) Rogue aid. Foreign Policy, 1 March.
+Nganje F (2014) The developmental paradiplomacy of South African provinces: Context, scope
+and the challenge of coordination. Hague Journal of Diplomacy 9(2): 119–149.
+Nung Wong P, Aquino K, Lara-de Leon K et al. (2013) As wind, thunder and lightning: Local
+resistance to China’s resource led diplomacy in the Christian Philippines. South East Asia
+Research 21(2): 281–302.
+
+Hameiri and Jones
+
+25
+
+Odgaard L (2007) China: Security cooperation with reservations. In: Kirchner EJ and Sperling J
+(eds) Global Security Governance: Competing Perceptions of Security in the 21st Century.
+London: Routledge, pp. 199–218.
+Poulantzas N (1976) State, Power, Socialism. London: New Left Books.
+Rosenau JN (2003) Distant Proximities: Dynamics beyond Globalization. Princeton, NJ: Princeton
+University Press.
+Ross RS (2006) Balance of power politics and the rise of China: Accommodation and balancing in
+East Asia. Security Studies 15(3): 355–395.
+Ruggie JG (1998) Constructing the World Polity: Essays on International Institutionalisation.
+London: Routledge.
+Ruwitch J (2014) Satellites and seafood: China keeps fishing fleet connected in disputed waters.
+Reuters, 27 July.
+Santicola R (2014) China’s consistently inconsistent South China Sea policy. The Diplomat, 24
+May.
+Saull R (2012) Rethinking hegemony: Uneven development, historical blocs, and the world economic crisis. International Studies Quarterly 56(2): 323–338.
+Setzer J (2014) How subnational governments are rescaling environmental governance: The case
+of the Brazilian state of São Paulo. Journal of Environmental Policy & Planning (DOI:10.10
+80/1523908X.2014.984669).
+Shambaugh D (2013) China Goes Global: The Partial Power. Oxford: Oxford University Press.
+Sharafutdinova G (2003) Paradiplomacy in the Russian regions: Tatarstan’s search for statehood.
+Europe-Asia Studies 55(4): 613–629.
+Sheng L (2006) China–ASEAN cooperation against illicit drugs from the Golden Triangle. Asian
+Perspective 30(2): 97–126.
+Shue V (1988) The Reach of the State: Sketches of the Chinese Body Politic. Stanford, CA:
+Stanford University Press.
+Simpson G (2004) Great Powers and Outlaw States: Unequal Sovereigns in the International
+Legal Order. Cambridge: Cambridge University Press.
+Slaughter A-M (2004) A New World Order. Princeton, NJ: Princeton University Press.
+Smith G (2012) Are Chinese soft loans always a bad thing? Lowy Institute Interpreter Blog, 29
+March. Available at: http://www.lowyinterpreter.org/post/2012/03/29/Are-Chinese-softloans-always-a-bad-thing.aspx
+Smith G (2013) Beijing’s orphans? New Chinese investors in Papua New Guinea. Pacific Affairs
+86(2): 327–349.
+Smith G (2014) The top four myths about China in the Pacific. Lowy Interpreter blog, 18
+November. Available at: http://www.lowyinterpreter.org/post/2014/11/18/The-top-fourmyths-about-China-in-the-Pacific.aspx
+Sørensen G (2004) The Transformation of the State: Beyond the Myth of Retreat. Basingstoke:
+Palgrave Macmillan.
+Sridharan K (2003) Federalism and foreign relations: The nascent role of the Indian states. Asian
+Studies Review 27(4): 463–489.
+Steinberg DI and Fan H (2013) Modern China–Myanmar Relations: Dilemmas of Mutual
+Dependence. Copenhagen: NIAS Press.
+Stephen MD (2014) Rising powers, global capitalism and liberal global governance: A historical
+materialist account of the BRICs challenge. European Journal of International Relations
+20(4): 912–928.
+Storey I (1999) Creeping assertiveness: China, the Philippines and the South China Sea dispute.
+Contemporary Southeast Asia 21(1): 95–118.
+Storey I (2013) China’s growing security role in Southeast Asia raises hopes and fears. World
+Politics Review, 5 July.
+
+26
+
+European Journal of International Relations ﻿
+
+Su X (2012a) Rescaling the Chinese state and regionalization in the Great Mekong Subregion.
+Review of International Political Economy 19(2): 502–527.
+Su X (2012b) Transnational regionalization and the rescaling of the Chinese state. Environment
+and Planning-A 44(6): 1327–1347.
+Su X (2013) China’s antidrug policies in Southeast Asia’s Golden Triangle. Asia Pacific Bulletin
+234: 1–2.
+Su X (2014) Multi-scalar regionalization, network connections and the development of Yunnan
+Province, China. Regional Studies 48(1): 91–104.
+Summers T (2013) Yunnan — A Chinese Bridgehead to Asia: A Case Study of China’s Political
+and Economic Relations with its Neighbours. Oxford: Chandos.
+Teschke B (2003) The Myth of 1648: Class, Geopolitics, and the Making of Modern International
+Relations. London: Verso.
+Thayer CA (2014) China’s oil rig gambit: South China Sea game-changer? The Diplomat, 12
+May.
+Tilly C (1990) Coercion, Capital and European States, AD 900–1990. Oxford: Wiley-Blackwell.
+Walter CE and Howie FJT (2012) Red Capitalism: The Fragile Financial Foundations of China’s
+Extraordinary Rise, Revised and Updated. Singapore: John Wiley and Sons.
+Wang Y-K (2013) Harmony and War: Confucian Culture and Chinese Power Politics. New York,
+NY: Columbia University Press.
+Wendt A (2004) The state as person in international theory. Review of International Studies 30(2):
+289–316.
+Xinhua.net (2014) Experts talk about the Zhongjiannan drilling project. Xinhua, 16 July.
+Yang J (2009) China in the South Pacific: Hegemon on the horizon? The Pacific Review 22(2):
+139–158.
+Yang J (2011) China in Fiji: Displacing traditional players? Australian Journal of International
+Affairs 65(3): 305–321.
+Zha D (2001) Localizing the South China Sea problem: The case of China’s Hainan. The Pacific
+Review 14(4): 575–598.
+Zhang H (2012) China’s evolving fishing industry: Implications for regional and global maritime
+security. RSIS Working Paper 246/12. Available at: http://dr.ntu.edu.sg/handle/10220/9118
+(accessed 11 July 2014).
+Zhang J (2014) The domestic sources of China’s more assertive foreign policy. International
+Politics 51(3): 390–397.
+Zheng Y (2004) Globalization and State Transformation in China. Cambridge: Cambridge
+University Press.
+Zheng Y (2007) De Facto Federalism in China: Reforms and Dynamics of Central–Local
+Relations. Singapore: World Scientific.
+Zweig D (2002) Internationalizing China: Domestic Interests and Global Linkages. Ithaca, NY:
+Cornell University Press.
+
+Author biographies
+Shahar Hameiri (PhD, Murdoch) is senior lecturer in international politics and research fellow at
+the Asia Research Centre, School of Management and Governance, Murdoch University, Australia.
+He is the author of Regulating Statehood: State Transformation and the Changing Global Order
+(Palgrave Macmillan, 2010) and Governing Borderless Threats: Non-Traditional Security and the
+Politics of State Transformation (with Lee Jones) (Cambridge University Press, 2015).
+Lee Jones (DPhil, Oxford) is senior lecturer in the School of Politics and International Relations at
+Queen Mary, University of London, UK, and research associate at the Asia Research Centre,
+
+Hameiri and Jones
+
+27
+
+Murdoch University, Australia. He is the author of ASEAN, Sovereignty and Intervention in
+Southeast Asia (Palgrave Macmillan, 2012), Governing Borderless Threats: Non-Traditional
+Security and the Politics of State Transformation (with Shahar Hameiri) (Cambridge University
+Press, 2015) and Societies Under Siege: Exploring How International Economic Sanctions (Do
+Not) Work (Oxford University Press, 2015).
+
+

@@ -1,0 +1,1518 @@
+Asian Journal of Peacebuilding Vol. 10 No. 2 (2022): 355-386
+doi: 10.18588/202211.00a319
+
+Special Issue – Research Article
+
+Hedging via Institutions: ASEAN-led
+Multilateralism in the Age of the Indo-Pacific
+Cheng-Chwee Kuik
+
+This article unpacks the dynamics of group hedging in international relations
+by examining the Southeast Asian states’ collective efforts to use ASEAN-led
+multilateral institutions as a platform to hedge against a range of risks surrounding
+intensifying big-power rivalry and increasing global uncertainties. It argues that
+ASEAN’s collective hedging is a converged but not necessarily coordinated act.
+Despite the states’ diverging attributes and outlooks, they converge on shared
+vulnerabilities, collective memories, and disadvantaged positions. Southeast Asian
+states thus view ASEAN-based multilateralism as an indispensable, albeit insufficient,
+means to engage big powers and manage other challenges. Through the functions
+of institutional binding, buffering, and building, ASEAN’s group hedging serves to
+mitigate and offset risks while shaping Asian order amid deepening uncertainties in
+the age of the Indo-Pacific.
+Keywords	Hedging, ASEAN, multilateralism, regional institutions, US-China
+rivalry, East Asia
+
+Introduction: Hedging amid Hyper-Uncertainty
+Much has been written on hedging by individual states; relatively less on hedging
+at the group or collective level in international relations (exceptions include
+Pempel 2010; Rüland 2011; Kikuchi 2015; Kuik 2018; Ciorciari 2019; Oba 2019;
+Mueller 2021; Sim and Aminjonov 2022). This essay explores the phenomenon of
+“group hedging,” focusing on the member states of the Association of Southeast
+Asian Nations (ASEAN) and their collective efforts to use the ASEAN-led
+multilateral institutions to hedge against a wide array of risks amid growing bigpower rivalry and increasing global uncertainties.
+Specifically, the essay addresses how and why a group of self-interested states
+with diverse motivations came to pursue collective hedging via the ASEAN-led
+multilateralism throughout the post-Cold War decades. It also assesses the impact
+of such converged efforts on the evolving regional order in the face of intensifying
+© 2022 The Institute for Peace and Unification Studies, Seoul National University
+ISSN 2288-2693 Print, ISSN 2288-2707 Online
+
+356 Cheng-Chwee Kuik
+
+US-China rivalry across the Indo-Pacific. Since the focus is the use of regional
+institutions as a platform for hedging, this study uses the term “institutional
+hedging” interchangeably with “group hedging” and “collective hedging.”
+Why focus on group hedging when, some twenty years after “hedging” was
+introduced into the study of International Relations (IR), the concept of hedging
+remains contested at the individual state level? While there is still no consensus
+among IR scholars as to how best to define and operationalize hedging in world
+politics (Haacke and Ciorciari 2019; Haacke 2019; Jones and Jenne 2022; Chang
+2022), the decades-long conceptual debate on the term has identified several
+attributes distinguishing hedging from such alignment behavior as “balancing”
+and “bandwagoning.” These attributes—an avoidance of rigid commitment, an
+insistence on impartiality (or neutrality), activism for inclusive diversification, as
+well as the purposeful pursuing of mutually-counteracting measures—have been
+specified and operationalized (albeit unevenly and with different nomenclature)
+in the literature on hedging (Goh 2005; 2007; Kuik 2008; 2016a; 2022a; Jackson
+2014; Lim and Cooper 2015; Hoo 2016; Korolev 2016; Koga 2018; Kuik and Tso
+2022; Jones and Jenne 2022; Heng 2022). Moreover, there are growing scholarly
+works demonstrating that ASEAN states have been collectively using regional
+institutions to hedge external risks over the past decades (Rüland 2011; Tan 2020;
+Anwar 2020; Kuik 2021a; 2022a), as discussed below. These conceptual insights
+and empirical realities suggest that the time is ripe for theorizing hedging beyond
+and above state level.
+Hedging is defined here as insurance-maximizing behavior under highuncertainty and high-stakes conditions, where a rational actor (which may be a
+country or a group) mitigates and offsets risks by pursuing active impartiality,
+inclusive diversification, and prudent contradictions, with the ultimate goal of
+cultivating a fall-back position (Khong 2004; Kuik 2008; 2016b; 2020; 2022a;
+Tunsjø 2010; 2013; Kuik, Azizan, and Rahim 2012; Haacke and Ciorciari 2022;
+Kuik and Tso 2022). As instinctive human behavior, hedging prevails and persists
+as long as the systemic circumstances—particularly big-power relations and
+actions—are uncertain. As uncertainty deepens, so does hedging behavior.
+The growing US-China rivalry has increasingly made the contemporary era
+one of hyper uncertainty. Several interrelated trends indicate that this is likely to
+endure. To begin, the antagonism between the US and China is becoming more
+open, more intense, and more confrontational (Christensen 2020; Goldstein
+2020; Shambaugh 2020; Lampton 2021; Scobell 2021; Wang 2021). The actionreaction between the two contesting powers across the military and non-military
+chessboards, coupled with the broadening involvements of second-tier powers
+in and out of Asia, have intensified big power tensions and their smaller-state
+courtships in the Indo-Pacific region (Kuik 2021b; 2022a; 2022b).
+In the face of China’s growing power and increasing assertiveness in the
+East and South China Seas, the US, Australia, Japan, and India revived the
+
+Hedging via Institutions 357
+
+Quadrilateral Security Dialogue (Quad) in 2017. Each of these Quad members,
+alongside several European powers (France, Germany, and the Netherlands)
+and the European Union (EU) as a group, has released their respective IndoPacific documents and strategies. In September 2021, months after launching its
+Integrated Review (titled “Global Britain in a Competitive Age”), the post-Brexit
+United Kingdom joined Australia and the US to announce the AUKUS pact.
+Individual Quad members and European powers have dispatched military assets
+to the South China Sea and devised connectivity-development initiatives to push
+back China’s Belt and Road Initiative (BRI). The Group of Seven (G7) announced
+the Build Back Better World (B3W) initiative in June 2021, and the EU set up the
+Global Gateway in November 2021. These initiatives were followed by the launch
+of the Partnership for Global Infrastructure and Investment (PGII) by the G7 in
+June 2022. In May 2022, the US launched the Indo-Pacific Economic Framework
+(IPEF). In November 2022, South Korea announced its Indo-Pacific strategy.
+While these schemes are by design global in scope, Southeast Asia is at the center
+of courtships.
+These geopolitical and geo-economic developments are presenting both
+opportunities and challenges to ASEAN countries and other smaller states across
+the Indo-Pacific. Since 2020, as the world continues to battle the COVID-19
+pandemic, clouds of uncertainty loom larger on the strategic and security fronts.
+Observers and officials have warned about the increased likelihood of armed
+conflict over such potential hotspots as Taiwan and the South China Sea, as
+concerns over the Korean Peninsula endure. The widening sources and stresses
+of uncertainty have deepened the smaller states’ inclination to hedge, one way or
+another. From Seoul to Wellington, from Singapore to Jakarta, and from Bangkok
+to New Delhi, governments across the Indo-Pacific—even close allies and partners
+of the US—have sought to mitigate risks by diversifying their strategic and
+development bets (Pant and Joshi 2017; Atanassova-Cornelis 2020; Sahashi 2020;
+Kim 2021; Köllner 2021). They are insisting on not taking sides, while pursuing
+contradictory measures to cultivate fallback positions in the face of growing
+uncertainty (Kuik 2020; 2021a; Laksmana 2020).
+There are signs that regional groupings, most notably ASEAN and to some
+extent the EU (Ringsmose and Webber 2020; Didier 2021), have embraced
+hedging as well. Whether at the individual state or group level, hedging is a policy
+without pronouncement. Hedgers (both states and regional bodies) typically
+pursue hedging without announcing it as such. Doing otherwise would invite
+unwanted suspicion from contending big powers, defeating the very purpose of
+this deliberately ambiguous act, which include developing robust relationships
+to the greatest extent possible with both contending powers (working toward the
+best outcome); cultivating as many layers of protection as possible to offset the
+risks of uncertainties (preparing for the worst scenarios); and, ultimately, keeping
+all options open as long as possible.
+
+358 Cheng-Chwee Kuik
+
+This article argues that ASEAN’s group hedging is a converged but not
+necessarily coordinated act. ASEAN states are a group of highly diverse sovereign
+states with distinct identities, diverging interests, differing threat perceptions, and
+ongoing problems among them. These differences notwithstanding, the smalland medium-sized states are bonded by shared vulnerabilities vis-à-vis traditional
+and non-traditional security challenges. They are also bound by the past and
+the future: common historical memories of having been victims of Western
+colonialization and Cold War big-power politics, as well as a common outlook of
+viewing ASEAN-based multilateralism as an essential platform for them to “hang
+together” (Acharya 2001; Narine 2002; Ba 2009; Shanmugam 2015; Ciorciari 2017;
+Kuik 2022b). Such shared vulnerabilities and relative disadvantaged positions
+within the anarchic international system has pushed the Southeast Asian states to
+converge on ASEAN and the ASEAN-plus multilateral institutions, viewing them
+as indispensable, albeit imperfect and insufficient, means to hedge and offset
+external multiple risks (that none of the states can tackle alone), while pursuing
+interests aimed at serving the ruling elites’ internal political interests.
+The article proceeds as follows. The first part provides a literature overview of
+the roles and limitations of regional institutions for smaller states. Next, the article
+develops an analytical framework to unpack group hedging in international
+relations. It first offers conceptual distinctions between institutional hedging and
+institutional balancing, before tracing empirically how ASEAN states have sought
+to pursue collective hedging via ASEAN-based institutions to perform the triple
+functions of binding, buffering, and building. The third section discusses how
+and why secondary states have attempted to leverage the expanding ASEANled multilateralism to shape the evolving regional order and architecture in East
+Asia in the ways they have. Group hedging, like hedging at the individual state
+level, is driven primarily by the need to mitigate and offset risks (specifically, the
+potential dangers of aggression, entrapment, abandonment, polarization, group
+marginalization), much more than the desire to maximize returns. The final part
+of this article sums up the key findings and suggests directions for future research.
+
+Regional Institutions and Smaller States: Literature Overview
+Abundant literature exists on the merits and limitations of international institu­
+tions as a tool of statecraft in international relations. This tool has been variously
+described as an institutionalist, integrationist, or multilateralist approach (Haas
+1964; Keohane and Nye 1977; Keohane 1989; Ruggie 1993; Baldwin 1993), in
+which a state forges institutionalized cooperation with other countries who
+share similar values and common interests, either at the regional, intra-regional,
+or global level (Krasner 1983; Keohane 1990; 2002; Katzenstein 1997; 2005).
+International institutions are multilateral institutions, as three or more countries
+
+Hedging via Institutions 359
+
+pursue functional collaboration, economic integration, and/or political and
+strategic coordination among themselves (Keohane and Martin 1995). Institutions
+typically function in the Lockean and Kantian cultures of “interdependence,
+common fate, homogenization, and self-restraint,” which focus primarily on the
+possibilities of normatively regulated order and perpetual peace in the interstate
+society (Doyle 1997; Wendt 1999, 44, 317).
+A state’s attitude toward international institutions is a function of many
+factors, most notably its size and strength. All things being equal, the smaller and
+weaker states are more likely than the larger powers to rely more on institutions
+as their primary instrument. This is discernible in the smaller states’ common
+and long-standing practice to turn to global intergovernmental organizations
+(IGOs)—the United Nations (UN) and its various specialized agencies—to protect
+their sovereignty and security. It is also observable in the actors’ inclination
+to use regional mechanisms as key platforms to integrate their resources, augment
+their capabilities, and address their shared problems. These tendencies should not
+be surprising. As smaller states cannot afford the go-it-alone option, they choose
+the go-it-with-others option in order to cope better with the problems they are
+incapable of handling alone. Given the purpose of this article, this literature over­
+view shall focus on institutions at the regional level.
+How do regional institutions help smaller states pursue their interests and
+cope with external challenges? What downside does doing so entail? The vast
+majority of the literature highlights that, while regional institutions offer a crucial
+way for smaller states to pursue economic, diplomatic, and political goals, the
+role of regional institutions in tackling military security problems is often limited
+(especially when compared to military alliances).
+Economically, regional institutions and integration help smaller states com­
+pensate for their innate disadvantages in size and limited range of resources. As
+free-market liberals have long argued, economic integration with other coun­tries
+allows smaller economies to expand their export markets, exploit economies of
+scale, enhance efficiency and competitiveness, as well as facilitate two-way flow
+of resources, capital, skills, and technology (Balassa 1961; Schiff 2001). These
+help enlarge the smaller countries’ economic base, thereby over­coming their
+handicaps and enhancing their capabilities to weather external shocks and pursue
+growth (Benedict 1967; Payne 1987). Collaborating with other similarly-situated
+states is particularly crucial during negotiations on international trade, as the
+states’ bargaining positions vis-à-vis the larger economies will be boosted (Downes
+2004; Grynberg 2006).
+Politically and diplomatically, smaller states are drawn to regional institutions
+as they help to ameliorate the problems of power asymmetry. Because of the
+sovereign equality norm customarily enshrined (but not consistently enforced)
+in multilateral arrangements, smaller states are accorded status and voice equal
+to that of much larger states. This contrasts sharply with alliances, where smaller
+
+360 Cheng-Chwee Kuik
+
+actors risk losing their equality and freedom of action because of the hierarchical
+nature of big-power-led alliances. In multilateral institutions, smaller states can
+often preserve their formal equality with the larger actors; in some circumstances,
+they can even influence the major powers’ actions in ways difficult to achieve in
+alliance settings. By providing an essential platform for weaker states to come
+together and act collectively, institutions enable them to shape and internalize
+certain norms, “in ways that are congruent with their interests” (Hurrell 2000,
+4; Ingebritsen 2002). To quote Robert Keohane: “The small and middle powers’
+leaders realize that although they may be able to do little together, they can do
+virtually nothing separately. Through an international organization they can
+attempt to promote attitudes favorable to their survival—to develop, as it were,
+an international political culture shaped largely by themselves” [emphasis added]
+(Keohane 1969, 296).
+Roles: Issue-Linkage, Diffuse Reciprocity, and Binding
+Multilateral institutions entail several organizational features that make them
+norm-based (and thus politically favorable) platforms for small and secondary
+states. Three features are most significant, namely issue-linkage, diffuse reciprocity,
+and binding.
+In multilateral settings, most issues are intertwined, which allow member
+countries “to gain additional bargaining leverage by making [their] own behavior
+on a given issue contingent on others’ actions toward other issues” (Haas 1980;
+Axelrod and Keohane 1993, 99). The feature also contributes partially to what
+liberals have described as “diffuse reciprocity,” where actors “contribute [their]
+share, or behave well toward others, not because of ensuing rewards from specific
+actors, but in the interests of continuing satisfactory overall results for the group
+of which [they are] a part, as a whole” (Ruggie 1993, 11-12; Keohane 1986). The
+reciprocity is “diffuse” in that countries taking part in multilateral processes would
+expect “to yield a rough equivalence of benefits in the aggregate and over time”
+[emphasis added] (Ruggie 1993, 11), rather than to maximize benefits on all
+issues and at all times. For this reason, member states are more likely to make
+concessions on certain issues in exchange for returns on others. This is significant
+for smaller states, as it indicates that the multilateral interactions are more often a
+continuous, long-term process of give-and-take, rather than a situation where the
+strongest takes all. Over time, the process may dilute the major powers’ capability
+advantages, while enhancing the weaker states’ bargaining strengths across issueareas, thus mitigating the problems of power asymmetry.
+These effects are augmented by the binding function. According to Joseph
+Grieco, the institutional arrangements provide the secondary states with
+opportunities for having effective “voice opportunities” (Grieco 1993, 331). This
+yields what he calls “the binding thesis”: “if states share a common interest and
+undertake negotiations on rules constituting a collaborative arrangement, then
+
+Hedging via Institutions 361
+
+the weaker but still influential partners will seek to ensure that the rules so con­
+structed will provide for effective voice opportunities for them and will thereby
+prevent or at least ameliorate their domination by stronger partners” (ibid., 331).
+Daniel Deudney adds that the effects of binding are mutual: that is, the practice
+of establishing institutional links between political units actually serves to reduce
+each other’s autonomy (Deudney 1996, 213-216). John Ikenberry similarly notes:
+“Binding restricts the range of freedom of states—weak or strong—and when
+states bind to each other, they jointly reduce the role and consequences of power in
+their relationship” (Ikenberry 2001, 64). Randall Schweller describes the binding
+strategy as one of the alternate responses to rising powers, noting that binding
+serves to achieve three objectives: (a) “satisfy the prestige demands of the rising
+power”; (b) give the rising state “a greater opportunity to voice its concerns” and
+to co-shape international order; and (c) increase the costs for the rising power
+to exercise its might (Schweller 1999, 13). Together, these objectives would
+ameliorate “the revisionist elements of a rising power’s behavior” (Johnston and
+Ross 1999, 273).
+Limitations and Shortcomings
+This is not to say that institutions do not have weaknesses. As noted, institutions
+are of limited use when tackling military security dangers. In addition, states often
+incur political costs because of their participation in institutions, for example,
+when transnational policy coordination requires them to relinquish a degree of
+state control over an issue.
+Some scholars, particularly neorealists, have been skeptical about the role of
+institutions in world politics. John Mearsheimer contends that institutions matter
+“only on the margins” (Mearsheimer 1995, 7). Grieco maintains that “institutions
+are unable to mitigate anarchy’s constraining effects on interstate cooperation”
+(Grieco 1988, 116). In their view, there are two major obstacles to international
+cooperation: fear of cheating and, more importantly, state concerns about relative
+gains (Mearsheimer 1995). Michael Mastanduno adds that “relative position
+matters because nation-states exist in anarchy, without a higher governing
+authority. Anarchy breeds fear and distrust, leading nation-states to worry, at
+the extreme, that they will be conquered or destroyed by their more powerful
+counterparts” (Mastanduno 1991, 78).
+Neorealists also doubt the efficacy of institutions and international law in
+constraining state behavior, contending that, far from restraining big powers, the
+creation and functions of institutions are often subject to the actions of dominant
+actors in the international system. In Mearsheimer’s words, “institutions are
+basically a reflection of the distribution of power in the world. They are based on
+the self-interested calculations of the great powers, and they have no independent
+effect on state behavior” (Mearsheimer 1995, 7). Such skepticism has been refuted
+by liberals, who insist that concerns about relative gains and fear of cheating
+
+362 Cheng-Chwee Kuik
+
+matter only in one-off cooperation, and that diffuse reciprocity, issue-linkage, and
+binding matter more in continuous cooperation among states (Keohane 1986;
+Ruggie 1993).
+For liberals and constructivists, the advantages of institutions are mutually
+reinforcing. The effects of functional cooperation and economic integration, for
+instance, often spill over into high politics, leading to more political collaboration
+among neighboring countries. Intensified and sustained collaboration, in turn,
+is likely to cultivate mutual trust, facilitate further integration, deepen complex
+interdependence, strengthen collective actions, and even catalyze collective
+identity formation. These effects may enhance the smaller states’ capacities to
+mitigate security risks at both the intra- and extra-mural levels. Specifically,
+institutions may provide smaller states with a norm-based platform to build
+consensus, address bilateral disputes, manage intra-regional problems, curb local
+power’s aspirations for regional hegemony, and develop a regional identity among
+neighbors (Peters 1999; Acharya 2001; Ba 2006; Fennell 2022).
+Institutions may also provide smaller states with a common “buffer” mechanism
+to cope with the political and security challenges from the extra-regional powers
+(Leifer 1996; Khong 2004; Ba 2006; Goh 2007). Insofar as these benefits can be
+tapped efficiently, smaller states will be able to reduce the likelihood of bilateral
+tensions and regional conflicts, thus reducing the need—and the associated political
+costs—of turning to big-power-led alliance for security. Ultimately, these will
+enable the state elites to concentrate on their domestic developmental needs and
+political legitimacy, while maintaining a degree of state autonomy (Kuik 2022b).
+International institutions, however, are not a panacea. They have their down­
+sides, most of which are associated with collective action problems (Olson 1971),
+such as group size, provision of public goods, heterogeneity, institutional designs,
+distribution, defection, and so on (Kahler 1992; Koremenos, Lipson, and Snidal
+2001; Acharya and Johnston 2007). Very often, some organizations perform better
+because of their ability to address these issues. These problems aside, the primary
+weakness of institutions is their inability to provide credible measures to smaller
+states on the traditional military front, as compared to alliances. This is not to
+suggest that alliance is necessarily the first-choice option for smaller states. In
+fact, smaller states would turn to alliance only if and when they are confronted
+by a direct and imminent military threat. Short of that, weaker states are more
+likely to use regional and multilateral institutions as the cornerstone of their
+external policies, to be augmented and complemented by diplomacy, some form
+of alignments, and other bilateral and multilateral instruments of statecraft.
+
+Institutional Hedging: Mitigating Risks, Not Threats
+Institutional hedging, or group hedging, is distinguishable from country-level
+
+Hedging via Institutions 363
+
+hedging primarily in terms of modus operandi, but the two overlap in terms of
+policy ends and logic. While they mobilize means and resources at different levels,
+both group hedging and country-level hedging aim primarily at mitigating risks
+(rather than threats); they are both driven by the imperative of insuring against
+potential losses and possible dangers. This goal typically involves concurrent
+efforts in pursuing active impartiality, inclusive diversification, and prudent con­
+tradictions for cultivating a fall-back position. Such a goal distinguishes hedging
+from balancing, which is about pushing back and containing against a specific
+threat. As argued by a growing number of IR scholars, hedgers do not hedge
+against a single actor per se, but against a range of risks (Kuik 2016b; Ciorciari
+2019; Haacke and Ciorciari 2022; Heng 2022). There are multiple sources of risks,
+most notably the potential harms surrounding the big-power actions, but also
+neighbourhood complexities and non-traditional security challenges (Pempel
+2010; Rüland 2011; Tunsjø 2013; Strating 2019; Kuik 2020; Kuik and Tso 2022).
+Depending on who the hedger is and what the prevailing risks are, the means
+of hedging differ. A sovereign state typically hedges by using a combination of
+national- and sub-national-level political, diplomatic, developmental, and defence
+tools. A regional organization, on the other hand, predominantly hedges by using
+institutional means, organizational arrangements, or group-based actions for
+pursuing group ends. The transactions can be diplomatic, economic, and military
+in nature. For this reason, collective hedging by a regional group necessarily
+manifests in institutional hedging. The word “collective” connotes converged
+efforts but not necessarily coordinated acts. Converged efforts encompass indi­
+vidual member states’ shared tendency in using their regional grouping as a com­
+mon platform to pursue overlapping policy goals (in this case, hedging against
+the shared risks). They do not necessarily always involve a concerted group-wide
+coordination to synchronize and harmonize their policy elements.
+Institutional Hedging versus Institutional Balancing
+Institutional hedging is not to be confused with institutional balancing. Both
+involve the use of multilateral institutions as an instrument, but they are distin­
+guish­able from each other in three respects. First, in terms of policy ends, while
+institutional balancing aims to push back and counter threat (He 2008; Seungjoo
+Lee 2016; He and Feng 2020), institutional hedging aims to mitigate and offset
+a broad range of risks. Risk and threat are related but not identical. They overlap
+in terms of exposure to possible harm and potential danger, but diverge in the
+certainty and immediacy of such possibilities. That is, while risk refers to diffuse,
+fluid, and myriad sources of plausible harm or probable loss, threat refers to a
+direct, imminent, and clear-and-present danger (Haftendorn, Keohane, and
+Wallander 1999; Corry 2012: Kuik 2022a).
+Second, in terms of organizing principles, while institutional hedging involves
+impartiality (i.e., not taking sides with any big powers) and inclusivity (i.e.,
+
+364 Cheng-Chwee Kuik
+
+engaging with all key players), institutional balancing often manifests in a
+more straightforward alignment against a perceived threat. A good example of
+insti­tu­tional balancing is China and Russia’s use of the Shanghai Cooperation
+Organization vis-à-vis the perceived US threat, which is a contrast to ASEAN
+states’ impartial and inclusive approaches to multilateralism. Accordingly, institu­
+tional hedging is pursued through multiple indirect, mutually-counteracting
+measures (e.g., concurrent adoptions of selective deference and selective defiance)
+aimed at mitigating and offsetting perceived risks, whereas institutional balancing
+manifests in more direct measures aimed at countervailing a specific threat. Kai
+He observes two types of institutional balancing, namely inclusive and exclusive:
+the former means “binding the target states in the institutions,” whereas the latter
+refers to “keeping the target states out” (He 2008, 493). Seungjoo Lee (2016) uses
+the term “inter-institutional balancing” to describe a state’s behavior to create
+overlapping or separate institutions to balance against a target state, and the term
+“intra-institutional balancing” to denote strategy whereby rivalling states compete
+and cooperate within the same institution when the demand for public goods is
+high.
+Third, in terms of policy approaches, while institutional hedging and institu­
+tional balancing both involve the use of institutional means (i.e., inter-state
+institutional arrangements and organizational mechanisms, either minilaterally
+or multilaterally), they differ in modus operandi. That is, institutional hedging
+(driven by its goal of mitigating risks) is practised by the triple efforts of binding,
+buffering, and building, whereas institutional balancing (motivated by the
+objective of repelling threat) is executed through the concerted coalition-wide
+countervailing and containing measures to balance against a target state. These
+distinctions are illustrated by Table 1.
+
+ASEAN’s Institutional Hedging: Binding, Buffering, and Building
+As a group, the ASEAN states have pursued collective hedging via a cluster of
+ASEAN-centric regional multilateral institutions, namely ASEAN and the four
+ASEAN-led mechanisms: the ASEAN Regional Forum (ARF, established in
+1994), the ASEAN Plus Three (APT, i.e., ASEAN plus China, Japan, and South
+Korea, established in 1997), the East Asia Summit (EAS, established in 2005), and
+the ASEAN Defense Ministers’ Meeting-Plus (ADMM-Plus, established in 2010).
+Figure 1 illustrates the memberships of each of these mechanisms.
+These ASEAN-led mechanisms have provided a unique platform and
+institutional space for the small and secondary states to hedge, for several reasons.
+First, the memberships of ASEAN-led multilateralism involve all big powers and
+key players across the Indo-Pacific region. Second, the institutionalized nature
+of these mechanisms makes binding possible. Third, the multilateral setting
+
+Hedging via Institutions 365
+
+Table 1. Institutional Hedging versus Institutional Balancing.
+Institutional Hedging
+
+Institutional Balancing
+
+Ends
+
+Mitigating and offsetting risks:
+• ‌A wide range of diffused dangers, potential
+harms, and probable losses.
+
+Countervailing and counterchecking a specific threat.
+
+Means
+
+The use of institutional means, i.e., inter-state institutional arrangements and
+organizational mechanisms, either minilaterally or multilaterally.
+
+Organizing Impartiality (an insistence on not taking sides);
+principles Inclusivity (an insistence on engaging all key
+players).
+
+Partiality (a tendency in
+aligning with one power bloc
+against another).
+
+Modus
+operandi
+
+Coalition-strengthening
+measures aimed at
+countervailing and limiting the
+influence and capability of a
+targeted big power.
+
+Active impartiality, inclusive diversification,
+prudent contradictions (e.g., selective defiance
+and selective deference) to keep options open:
+• ‌binding,
+• ‌buffering,
+• ‌building.
+
+Source: Author.
+
+Figure 1. ASEAN and the ASEAN-led Mechanisms.
+Canada
+European Union
+Australia
+
+Indonesia
+Malaysia
+The Philippines
+Singapore
+Thailand
+ASEAN,
+1967
+
+Brunei (1984)
+Vietnam (1995)
+Laos (1997)
+Myanmar (1997)
+Cambodia (1999)
+
+Papua New Guinea
+India
+
+China
+Japan
+
+ASEAN PLUS
+THREE
+(APT), 1997
+
+Republic of Korea
+
+ASEAN REGIONAL
+FORUM (ARF),
+1994
+
+New Zealand
+EAST ASIA
+SUMMIT
+(EAS), 2005*
+
+ASEAN DEFFENCE
+MINISTERS’
+MEETING-PLUS
+(ADMM+),
+2010*
+
+Russia (2010)
+
+Mongolia (1998)
+Democratic People’s
+Republic of Korea
+(2000)
+Pakistan (2004)
+
+United States (2010)
+
+Bangladesh (2005)
+Timor-Leste (2005)
+Sri Lanka (2007)
+
+Note: ‌The membership of the eighteen-member ADMM-Plus overlaps with that of the expanded
+EAS in 2010. Countries without a year in parentheses next to their names are founding
+members of the institution. Otherwise, the year in parentheses next to a country’s name
+denotes when it joined the institution.
+Source: Kuik and Rahman (forthcoming).
+
+366 Cheng-Chwee Kuik
+
+of the mechanisms makes them a norms-based (as opposed to power-based)
+institutional environment. Fourth, the organizational structure of ASEAN-led
+multilateralism, which is multi-domain and multi-level, makes issue-linkage and
+diffuse reciprocity possible. Fifth, the two-level dynamics (national/individualstate level and regional/group level) of the ASEAN-based institutional ecosystem
+accords space to pursue mutually-complementary or mutually-contradictory
+measures, depending on need and feasibility. For instance, to hedge against
+entrapment and group marginalization in the face of intensifying Indo-Pacific
+big-power rivalries, ASEAN member states have taken advantage of the twolevel dynamics to pursue seemingly contradictory measures (Kuik 2022a). On
+one hand, ASEAN states have sought to use regional platforms to underscore the
+group’s bottom-line principles (e.g., emphasizing inclusivity and other cooperative
+security norms in the ASEAN Outlook on the Indo-Pacific) as a normative way
+to preserve autonomy and keep distance from the Quad at the group level. On
+the other hand, virtually all ASEAN states have pursued a seemingly opposite
+policy at the national level: engaging individual members of the Quad and their
+likeminded partners in close and multifaceted partnerships as a pragmatic way to
+yield concrete, politically significant interests on the domestic front.
+In combination, these unique organizational features have enabled smaller
+states to continuously cultivate room for cooperation and negotiation vis-à-vis
+the stronger partners, while keeping options open for as long as possible. Without
+these features, it would be extremely difficult, if not impossible, for the weaker
+states to pursue institutional hedging.
+Binding, issue-linkage, and diffuse reciprocity—the institutional features of
+multilateralism as discussed in the literature overview above—are all evidenced
+in Southeast Asia. Since the early 1990s, the ASEAN states have aimed to engage
+and entangle multiple big powers into a web of regional multilateral institutions,
+as part of their hedging approach to cope with external uncertainties. Because
+of the embedded norms of multilateral institutions, the smaller states attain
+considerable political equality with more powerful actors, although they are
+unequal in size and strength. In circumstances where smaller states possess
+some maneuvering space (because of the great powers’ competing courtships)
+to play a major role in shaping the agenda and design of the institutions, they
+are even capable of influencing the major powers’ behavior and punching above
+their weight in international affairs. Without a norm-regulated and rule-based
+multilateral environment, it would be difficult for such smaller states as the
+ASEAN states to play a disproportionate role in shaping events in their respective
+regions.
+All in all, these features have allowed ASEAN states to hedge and insure
+against a wide array of perceived risks (elaborated below) by performing three
+core functions: binding, buffering, and building. These functions have emerged
+not necessarily from the collective strength or cohesion of ASEAN states, but
+
+Hedging via Institutions 367
+
+primarily out of the states’ shared weaknesses and vulnerabilities in facing a
+variety of external risks and challenges during critical junctures. These include
+the immediate post-Cold War years in the early 1990s, the 1997-1998 East Asian
+financial crisis, the mid and late 2000s, and the COVID-19 era, each of which has
+compelled the ASEAN states to act as a group (Acharya 2001; Khong 2004; Ba
+2006; Dosch and Kliem forthcoming).
+Binding
+Binding is the institutionalizing of engagement by forging sustained and regu­
+larized dialogue mechanisms (as opposed to ad hoc or one-off arrangements)
+aimed at keeping open—and perpetuating—channels of communication and col­
+laboration with key partners. The ASEAN states have pursued binding inclusively,
+i.e. with all sides of power contestation rather than engaging exclusively with one
+side against another. Through the various ASEAN-led mechanisms discussed
+above, ASEAN as a group has been binding and enmeshing all powers and
+partners in constant collaboration, dialogue, and socialization (Ba 2006; Goh
+2007; Khong and Nesadurai 2007; Kuik 2008; 2018), thereby hedging against the
+risks of becoming irrelevant, self-marginalization, and abandonment.
+The ASEAN states’ inclusive binding-engagement is vividly displayed in their
+efforts to explore the modalities of the first Asia-Pacific-wide multilateral security
+institution, which culminated in the creation of the ARF in the immediate postCold War years. Instead of excluding and isolating non-likeminded actors, the
+ASEAN states opted to invite and include all relevant actors of different interests
+and ideologies. In addition to engaging China bilaterally and multilaterally, the
+ASEAN states also extended olive branches to Russia, Vietnam, and other socialist
+countries. Regardless of ideological differences, these countries were enmeshed
+in the ASEAN-based multilateral processes (Leifer 1996; Khong 1997), alongside
+ASEAN’s longstanding partners from the West and other developed nations.
+The binding-engagement function has been particularly effective in the
+case of the APT. Since establishing the APT in 1997, the Southeast Asian states
+have bound the three Northeast Asian states in virtually all East Asian-wide
+regional cooperation and integration efforts across levels (summit, ministerial,
+and working) and across domains (finance and currency swap to public
+health, security, and transport, and to education, energy, and environment).
+The continued participation of the three Northeast Asian powers as founding
+members in all the ASEAN-led institutions (i.e., ARF, APT, EAS, ADMM-Plus)
+have accorded ASEAN considerable leverage to bargain and bind other powers
+beyond East Asia into ASEAN-based multilateralism.
+Buffering
+Buffering is creating space to maneuver by maintaining balance of power through
+institutional means. Unlike binding-engagement, which aims to forge closer ties
+
+368 Cheng-Chwee Kuik
+
+with stronger partners, buffering does the opposite by keeping distance from the
+big powers, limiting their influence, as well as checking and constraining their
+actions. For ASEAN states, buffering involves leveraging the presence and partici­
+pation of multiple competing powers as mutually constraining and countervailing
+forces for the purposes of denying dominance, diversifying partnerships, as well as
+ensuring room for bargaining and competitive cooperation (Leifer 1996; Emmers
+2003; Koga 2022). For secondary states, the buffering processes serve as an insti­
+tutional shield and shock absorber to mitigate and offset multiple risks: losing
+autonomy, becoming dependent, and being subservient to a dominant hegemon
+(Paul 2005; He 2008; Pempel 2010; Sook Jong Lee 2016).
+Buffering, in short, is an act of dominance-denial. Examples abound: (a) the
+2005 efforts to broaden the inaugural East Asia Summit (EAS) from the thirteen
+APT countries to a sixteen-member mechanism, by including India, Australia,
+and New Zealand, even though these three countries are not typically regarded
+as East Asian countries. Their inclusions into the EAS were thus widely viewed
+as a geopolitically-driven move to limit and offset China’s growing influence;
+(b) expanding the EAS into an eighteen-member entity by including the US and
+Russia in 2010; (c) establishing the ADMM-Plus in 2010 with the same member
+states as the EAS (i.e., ASEAN plus eight); and (d) simultaneously upgrading
+ASEAN’s relations with both China and Australia to “comprehensive strategic
+partnerships” in 2021, a move aimed at avoiding privileging one power over
+another. ASEAN and the United States upgraded their relations to “comprehensive
+strategic partnership” in 2022.
+Building
+Building is the constructing of cooperation and expanding of collaboration among
+ASEAN member states and with key partners near and far. Unlike buffering which
+aims to reduce loss and avoid possible harms, building aims to create values,
+inject momentum and continuously increase layers of cooperation to maximize
+potential gains. While binding is about establishing connectivity, building is about
+adding mechanisms and utilities to the established connectivity. In combination,
+the institutional binding, buffering, and building processes serve to hedge and
+mitigate the ever-evolving and ever-expanding risks at multiple levels.
+Numerous scholarly works have examined the building functions of ASEAN
+and ASEAN-led mechanisms, highlighting various forms of multilateral utility or
+hedging utility of the small state-led institutions in the wider context of regional
+integration and global governance (Rüland 2011; Pitakdumrongkit 2015; 2019a;
+Ciorciari 2019; Mueller 2021; Koga 2022). The building utility is especially
+significant in areas where the demand for regional public goods is high (Sook
+Jong Lee 2016; Seungjoo Lee 2016; Quah 2019; Kuik 2021a). Building typically
+manifests in a gradual transformation of group-wide consensus into sustained
+regional cooperation (Fennell 2022). Continuous building is key to avoid the
+
+Hedging via Institutions 369
+
+risks of failing to cope with emerging challenges and region-wide problems, and
+in turn, losing the relevancy and centrality role in regional affairs.
+Far from being predetermined, the building function is responsive, accumu­
+la­tive, and adaptive. Layers of cooperative mechanisms are gradually added to
+each ASEAN-led institutions, mostly in response to emerging crises and shared
+challenges throughout the post-Cold War decades. The APT, for example, was
+established by ASEAN states and the three Northeast Asian economies of China,
+Japan, and South Korea in response to the 1997 East Asian financial crisis (Stubbs
+2002; Terada 2003). Under the APT framework, the Chiang Mai Initiative (CMI),
+a network of bilateral currency swap arrangements among the thirteen states, was
+established in 2000 to provide mutual support for participant countries in times
+of liquidity need (Beeson 2014; Dent 2016). Ten years later, the APT members
+multilateralized the initiative by creating the CMI Multilateralization (CMIM) to
+establish a common decision-making mechanism (Ciorciari 2011; Pitakdumrongkit
+2015; Sook Jong Lee 2016). Since the early 2000s, the APT has gradually evolved
+into a multi-sector, multilevel East Asian-wide cooperative platform, as the
+thirteen countries expand their coordination in non-finance sectors, including
+public health (after the SARS outbreak in 2003), transnational crime, environment,
+energy, education, information, transport, etc. The APT cooperative processes set
+the stage for the creation and institutionalization of the EAS in 2005 (Emmers,
+Liow, and Tan 2010; Camroux 2012; Cook and Bisley 2016).
+All in all, the above examples indicate that the ASEAN states have sought
+to pursue collective-building by three pathways. First, proposing and promoting
+ASEAN-based initiative (e.g., establishing the respective ASEAN-plus-One dialogue
+partnerships one after another; building EAS on the basis of APT; building ADMMPlus on the basis of ADMM) (Mukherjee 2013; Tan 2016; Tang 2016; Ba 2017;
+Pitakdumrongkit 2019a). Second, enlarging or upgrading existing cooperation
+(e.g., enlarging ASEAN-6 into ASEAN-10; building CMIM on the basis of CMI;
+expanding Masterplan on ASEAN Connectivity [MPAC] 2010 into MPAC 2025).
+Third, encouraging the big powers to “compete to cooperate”, to court regional
+countries, to complement strengths, cultivate relational networks, actualize
+opportunities, and enlarge partnerships in a mutually reinforcing and mutually
+beneficial manner, in due course institutionalizing ASEAN centrality (Dosch
+and Mols 1998; Haacke 2009; Kim 2014). Examples are plentiful: the signings
+of the respective ASEAN-plus-one free trade agreements (FTAs) since 2002, the
+accessions by dialogue partners to ASEAN’s non-aggression pact, the Treaty of
+Amity and Cooperation (TAC) since 2003, as well as the continuous substantiation
+of the respective dialogue partnerships over the past decades. A more recent
+example is the November 2020 conclusion of the fifteen-member Regional
+Comprehensive Economic Partnership (RCEP), an ASEAN-initiated free trade
+agreement that also includes China, Japan, South Korea, Australia, and New
+Zealand. The RCEP was built out of the EAS cooperation (Pitakdumrongkit
+
+370 Cheng-Chwee Kuik
+
+Table 2. ASEAN’s Dialogue Partnerships, Strategic Partnerships, and Comprehensive Strategic
+Partnerships.
+DIALOGUE PARTNERSHIPS
+
+STRATEGIC
+PARTNERSHIPS
+
+COMPREHENSIVE STRATEGIC
+PARTNERSHIPS
+
+Australia
+
+1974
+
+2014
+
+2021
+
+New Zealand
+
+1975
+
+2015
+
+-
+
+Japan
+
+1977
+
+2005
+
+-
+
+US
+
+1977
+
+2015
+
+2022
+
+European Union
+
+1977
+
+2020
+
+-
+
+Canada
+
+1977
+
+2020
+
+-
+
+South Korea
+
+1991
+
+2010
+
+-
+
+India
+
+1995
+
+2012
+
+2022
+
+China
+
+1996
+
+2003
+
+2021
+
+Russia
+
+1996
+
+2018
+
+-
+
+United Kingdom
+
+2021
+
+-
+
+-
+
+Source: Adapted from Kuik and Rahman (forthcoming).
+
+2019b; Terada 2018).
+The gradual, adaptive, and path-dependence nature of ASEAN-based multi­
+lateralism is well reflected in the multi-phase developments of ASEAN’s dialogue
+mechanisms and “strategic partnerships” (see Table 2).
+As the scope of ASEAN-based dialogue partnerships and region-wide co­
+oper­ative activities evolves and expands, so do their functions (Kuik and Rahman
+forthcoming). In its earlier decades, ASEAN evolved from an ideologically-based
+“diplomatic community” (Leifer 1989) preoccupied with regime security at home
+and regional security in the immediate neighborhood during the Cold War
+(Darby 1973; Van der Kroef 1978; Buszynski 1987) to a more confident regional
+actor capable of promoting regionalism and providing an inclusive institutional
+hub for cultivating multi-domain partnerships with countries across and beyond
+Southeast Asia in the post-Cold War era (Dosch and Mols 1998; Friedrichs 2012;
+Ba 2009; 2016). Subsequently, since the 1990s, additional institutional roles for
+ASEAN-based mechanisms have been developed and expanded. These include:
+cooperating with wider partners in confronting common external challenges,
+while legitimizing its regional role (Kurus 1993), enhancing regional resilience
+(Anwar 1997; Da Cunha 2000; Katsumata 2003), coping with strategic uncertainty
+(Khong 2004; Emmers 2014), constructing Asian multilateralism and regional
+architecture (Simon 2008; Tow and Taylor 2010; Tan 2015; Taylor 2016; Mahbubani
+and Sng 2017; Natalegawa 2018), localizing inter-state norms (Acharya 1997;
+
+Hedging via Institutions 371
+
+2004; Jones 2010; Koga 2016; Rüland 2022), managing non-traditional security
+governance (Caballero-Anthony 2014; Arase 2010; Caballero-Anthony and Gong
+2021), facilitating connectivity-building (Mueller 2021; Valockova 2021), etc.
+In a nutshell, ASEAN’s group hedging (implemented through institutional
+binding, buffering, and building) has helped Southeast Asian states to mitigate
+and offset a wide range of risks, most notably the dangers of big-power entrap­
+ment, interference, subservience, intra-ASEAN tensions, regional instability,
+and also of becoming irrelevant in regional affairs. By leveraging on the multilayered ASEAN-based institutions, the small and medium-sized states have been
+able to actively cultivate the space to pursue continuous engagement, enlarge
+cooperation, and bridge interests, thereby keeping options open for all in the long
+run.
+
+Implications for Asian Order and Peace
+As a collective hedging platform for mitigating shared risks not only for ASEAN
+states but also their dialogue partners, the ASEAN-led multilateralism has func­
+tioned as one of the core pillars of Asian order-making and peace-maintenance.
+It coexists and complements the other pillars, i.e., the US-led hub-and-spokes
+military alliances, the China-led developmentalist networks, and to some extent,
+the Indo-Pacific likeminded partnerships.
+Each pillar carries promises and risks: contributing to regional stability
+and prosperity but also bringing uncertainties. The US-led pillar contributes by
+ensuring credible military deterrence against strategic adventurism, but its threatbased approach, if overdone, may lead to the self-fulfilling prophecy of turning a
+potential security concern into an actual security threat and provoking military
+confrontation. The Chinese-led pillar contributes by providing the ingredients
+for shared prosperity and shared stability, but its contradictory maritime asserti­
+veness and near-mercantilist economic statecraft, if unchecked, constitute the
+dangers of power aggression, economic over-dependence, political backlash,
+and financial unsustainability. The Indo-Pacific pillar contributes by introducing
+more options and opportunities for like-minded partners, but its value-based
+approach, if over-emphasized, runs the risks of regional bifurcation and group
+marginalization (that is, undermining such non-Quad institutions as ASEAN and
+ASEAN-based mechanisms).
+Of the four pillars of Asian order, ASEAN-led multilateralism (and, by
+extension, ASEAN-based institutional hedging) makes a uniquely significant
+contribution to Asian peace. While it is true that ASEAN-led institutions are
+ineffective (in tackling such sovereignty-related problems as the Myanmar
+crisis) and inadequate (in handling such traditional security issues as the South
+China Sea disputes), they are indispensable. They possess several advantages
+
+372 Cheng-Chwee Kuik
+
+not found in other pillars. These include: (a) wider scope of memberships and
+institutionalized partnerships (covering all big powers and key players), unlike
+other pillars which have a smaller group of members or a looser network of
+partners; (b) broader layers of partnerships, i.e., multi-domain and multi-level
+cooperation, unlike other pillars which only concentrate on certain realms; and,
+most importantly, (c) higher peace-perpetuating potential, i.e., its impartial,
+inclusive, and prudent approaches mitigate risks, while promising greater space
+for coexistence, continuous dialogue, and competitive cooperation among all big
+powers and smaller states in the region.
+We now analyze how and why each of the ASEAN-based institutional
+hedging approaches—activist impartiality, inclusive diversification, and prudent
+contradictions—have helped contribute to order-making and peace-maintenance
+in Asia.
+Active Neutrality
+ASEAN states—collectively and individually—have repeatedly stressed their
+stance of not taking sides vis-à-vis the competing powers. Such neutrality (or
+impartiality) is not passive, but proactive and pre-emptive. ASEAN activism is
+discernible from the group’s efforts in persistently reaching out to big powers
+of different ideologies, proposing cooperation, making progress, and providing
+public goods for all, in due course making ASEAN-led multilateralism acceptable
+to all. Such activism creates space for continuous cooperation while facilitating
+the initiation and expansion of ASEAN-plus regional cooperation across domains
+(e.g., CMI and CMIM, various ASEAN-plus-one FTAs, RCEP) as noted above,
+side-by-side with individual powers’ initiatives. ASEAN neutrality provides the
+essential foundation for institutional binding, buffering, and building, in turn
+helping to perpetuate peace and stability in the wider region. If ASEAN states
+depart from neutrality and begin to take sides with either power, the resultant bigpower action-reaction will perpetuate the vicious cycles of regional polarization,
+leading to intensifying tensions and conflicts.
+ASEAN’s activist neutrality is a positive synthesis of norms and power
+within a multilateralized environment. The norm-based ASEAN-led forums are
+less threatening to the participating powers as they are led by weaker actors and
+not another power(s). This avoids leadership struggle among the big powers,
+mitigates power asymmetry, and encourages the powers to woo Southeast Asian
+countries in the diplomatic, defense, and development domains. These, in effect,
+have allowed ASEAN states to diversify their external linkages.
+Inclusive Diversification
+ASEAN’s institutional hedging also entails efforts at diversifying dialogue and
+cooperation in an inclusive manner. Such inclusive diversification is manifested in
+both strategic and development links, culminating in multi-layered partnerships.
+
+Hedging via Institutions 373
+
+Hence, while Southeast Asian states have continuously embraced and enhanced
+the multi-domain ASEAN-China partnership (e.g., elevating it to “Strategic
+Partnership” in 2003 and “Comprehensive Strategic Partnership” in 2021), they
+have simultaneously expanded their institutional links with the other powers one
+after another (see Table 2). ASEAN’s inclusive diversification approach is also
+evidenced in the grouping’s counter-COVID-19 and post-pandemic cooperation.
+The approach helps mitigate the risks of becoming over-dependent on any single
+power, while cultivating cooperative possibilities for all sides.
+ASEAN’s inclusive diversification encourages the major powers to compete
+to cooperate with Southeast Asian states, while enabling institutional checks and
+balances among the powerful actors. This increases the weaker states’ leverage
+to extract benefits from different powers, while denying the emergence of any
+dominant power. These effects help to cultivate space for the ASEAN-centric
+institutions to grow when conditions are ripe (e.g., the expansion of the CMI to
+CMIM, the eventual conclusion of RCEP after an eight-year negotiation process,
+and the possible enlargement of the EAS and ADMM-Plus). Such a virtuous
+cycle is likely to deepen, in light of the intensifying US-China rivalry and the
+growing activism of the second-tier powers in Asian affairs over the past decades.
+The Quad’s Blue Dot Network, EU’s Global Gateway, and G7’s PGII, for instance,
+have all identified ASEAN as a prioritized region. Ditto China’s newly announced
+Global Development Initiative (GDI) and Global Security Initiative (GSI).
+Prudent Contradictions
+ASEAN’s collective hedging, like country-level hedging by individual states,
+involves concurrent adoption of seemingly contradictory measures: binding and
+buffering, selective deference and selective defiance, etc. ASEAN states selectively
+please and displease China (and all other powers) (Kuik 2020; 2022a). Completely
+pleasing China risks becoming subservient, whereas completely displeasing
+China risks alienating and provoking the proximate giant. Pursuing selective
+and mutually counteracting measures thus preserves ASEAN autonomy without
+completely alienating any big power. The approach also prevents the emergence of
+a predominant power, thereby maintaining ASEAN centrality while simultaneously
+offsetting multiple risks under conditions of uncertainty. For instance, while
+binding process mitigates marginalization and alienation by ensuring the con­
+tinuous involvement of all powers, buffering process serves to minimize subser­
+vience, maximize independence and avoid overdependence by ensuring a check
+and balance among the competing powers. These are opposite approaches:
+Binding uses institutional interactions to engage and forge increasingly close ties
+with all powers, while buffering involves the contradictory action of constraining
+the powers by using the same ASEAN-based institutions. Binding-engagement
+and buffering (dominance-denial) are two sides of ASEAN’s institutional coin.
+ASEAN’s prudent contradictions makes it possible for the weaker actors to
+
+374 Cheng-Chwee Kuik
+
+take advantage of the multilateral-bilateral nexus to better complement, augment,
+and offset multilateral diplomacy with individual countries’ bilateral endeavors,
+and vice versa. Hence, policy goals that could not be attained at multilateral
+forums are pursued through separate bilateral channels, the degree and form of
+which depend on the individual countries’ threat perceptions and benefactor ties.
+For instance, while most ASEAN states have not confronted China at ASEAN-led
+forums, some of the states (e.g., Vietnam, the Philippines, Indonesia)—depending
+on their risk perceptions and interests in the disputed areas of the South China Sea
+and regional order—have actively explored, cultivated, and stepped-up bilateral
+partnerships with actors who share their interests and worldviews. Although most
+regional states do not openly defy China, outside the forums, they are developing
+cooperative ties and strategic ties with other powers (e.g., initiating and institu­
+tionalizing 2+2 foreign and defence ministerial meetings with selected Western
+powers and regional partners), thereby keeping their long-term options open.
+Contradictions may not be a bad thing. This is so if and when the contra­
+dict­ory elements are more about approaches, ways, and means, rather than
+principles. In the real world, contradictions are almost inevitable, not least to
+accommodate competing interests, address diverging expectations, as well as
+accept differences and diversities within and across boundaries. In fact, under the
+current conditions of ultra-uncertainty, contradictions are a necessity required
+to serve such risk-mitigating purposes as avoiding being entrapped into others’
+possible conflict, avoiding being abandoned by allies or partners, and, perhaps
+most important, avoiding prematurely creating or edging closer to a self-fulfilling
+prophecy (exclusive alliance and excessive armament directly targeted at one
+power risks turning a potential security problem into an immediate threat).
+When the situation is highly uncertain and the reality is messy (e.g., each of the
+competing powers presents both problems and solutions to all smaller states),
+clear-cut consistency (e.g., completely aligning with one power against another)
+is rigid and unrealistic at best, and dangerously counter-productive at worst (Kuik
+2021a; 2021b).
+Indeed, when structural circumstances are less than straightforward and
+domestic challenges more pressing, prudent contradictory actions on an inclusive,
+impartial basis are imperative. This is because such approaches, although
+im­per­fect, are indispensable to create space for maneuverability, mutual accom­
+moda­tion, and continuous collaboration for all, thereby serving the principles
+of survival and coexistence. Coexistence need not be passive; it can be dynamic,
+interactive, and constructive. This may occur when there is room for the big
+powers to compete, court, and cooperate with the smaller states, without
+escalating into armed conflicts; and when the big powers’ prudent strategic acts
+serve effective mutual deterrence, without mounting to escalation and outright
+compulsion. Dynamic coexistence will not eliminate risks or disagreements.
+No mechanism can do these in the real world. However, by avoiding direct
+
+Hedging via Institutions 375
+
+confrontation and averting open conflict, dynamic coexistence serves to keep
+space open for continuous negotiation and collaboration, despite (and precisely
+because) differences, competition, and diverging values will always remain.
+ASEAN-led multilateralism has not only allowed ASEAN states to hedge
+collectively, but it has also accorded them centrality in shaping and reshaping
+the evolving regional order in post-Cold War Asia (Caballero-Anthony 2014; Ba
+2016; Acharya 2017).
+ASEAN’s Institutional Hedging in the Indo-Pacific Era
+These three attributes of institutional hedging are most evidenced in ASEAN’s
+response to the Indo-Pacific and its institutional expression, the Quad. As a
+group, ASEAN is ambivalent about the Quad and the Quad members’ IndoPacific visions. On the one hand, ASEAN sees the Quad’s activism since its revival
+in 2017 as a force contributing to regional balance of power, including in counterchecking and constraining an increasingly assertive China. On the other hand,
+ASEAN is concerned that the Quad’s constrainment might escalate into Cold
+War-style containment, exposing the small and medium-sized Southeast Asian
+states to the danger of being entrapped into big-power conflict.
+Such ambivalent perception and mixed concerns underpinned ASEAN’s
+move to announce the ASEAN Outlook on the Indo-Pacific (AOIP) in June 2019
+(Anwar 2020; Laksmana 2020). The AOIP, as an initiative that reinforces the
+ASEAN-centered regional architecture, outlines ASEAN’s vision of the AsiaPacific and Indian Ocean regions. The AOIP provides an avenue for ASEAN
+to strike a balance between the group- and individual country-level dynamics:
+collectively emphasizing ASEAN’s commitment to the openness, transparency,
+inclusivity, equality, mutual respect, good governance, sovereignty, and other
+principles and norms associated with the rules-based arrangements (a conver­
+gence between ASEAN and the Indo-Pacific powers) yet keeping distance from
+the Quad as a group. This creates space for individual ASEAN states to engage
+individual members of the Quad and Quad partners at the bilateral level, on a
+selective basis. Hence, most individual ASEAN states have collaborated with
+individual Quad members on concrete, readily achievable areas crucial to their
+respective elite’s governance functions, most notably pandemic assistance, de­
+velop­mental opportunities (in connectivity-building, supply chains, digital economy,
+etc.), and less-sensitive areas of defense cooperation (capacity-building, asset
+transfer, and in some cases, policy exchanges and joint exercises. However, all
+ASEAN states have avoided areas that might lead to strategic bifurcation. ASEAN
+states, as a group and individually, have stayed away from the idea of Quad-Plus.
+By pursuing such seemingly contradictory actions, ASEAN states underscore
+their impartiality and inclusivity while creating space for buffering, middling
+manoeuvrability and continuous cooperation for all regional states and their
+partners. The bottom line is to avoid burning bridges and avoid putting all eggs
+
+376 Cheng-Chwee Kuik
+
+in any single power’s basket. The net effects are continuously expanding multilayered partnerships. The greater the layers of cooperation created on an inclusive
+basis, the greater the space for cross-issue bargaining, mutual accommodation
+and institutionalized coexistence among the partnering countries.
+ASEAN’s institutional hedging, accordingly, has provided a focal point for
+mitigating external risks while enabling its member states to concentrate on
+their respective domestic priorities. The AOIP, which emphasizes the inclusive
+principle and impartial stance vis-à-vis the big powers, helps to uphold ASEAN
+neutrality and centrality in regional affairs. These serve to hedge and mitigate
+a range of external risks (i.e., the dangers of entrapment, polarization, and
+marginalization), while contributing to regional peace and stability.
+
+Conclusions
+This essay illuminated the modes and logic underpinning how and why hedging
+is practiced at the group and collective level (beyond and above individual states),
+with empirical examination of the use and limits of ASEAN-based multilateral
+institutions in post-Cold War Asia. Its findings are threefold. First, group-level
+hedging, like national-level hedging, is driven primarily by the goal of mitigating
+and offsetting risks, rather than countering threats. Second, institutional
+hedging and institutional balancing overlap in terms of means (i.e., institutional
+arrangements as the primary tool), but they are distinguishable from each other
+in terms of policy ends, organizing principles, and modus operandi. Third,
+ASEAN’s collective hedging, which has been driven by the member states’
+shared vulnerabilities, collective memories, and disadvantageous positions, is
+a converged but not necessarily coordinated act. The convergences have led
+ASEAN states to view ASEAN-based institutions as an indispensable—albeit
+insufficient—means to engage big powers and manage other challenges by the
+mutually reinforcing binding, buffering, and building processes.
+These findings are significant for both theoretical and policy reasons.
+Theoretically, they contribute to the ongoing debate on hedging in international
+relations by highlighting risk and risk-mitigation as the primary driver of
+hedging behavior at the international level. They also unpack the role and limits
+of regional institutions as a smaller-state foreign policy tool in managing such
+external risks as big-power rivalry and other challenges. Policy wise, the findings
+shed light on how and to what extent ASEAN-led multilateralism in specific and
+group hedging in particular can be seen as a source of regional peace and stability
+at a time of hyper uncertainty.
+ASEAN’s institutional hedging and smaller state-led multilateralism are
+central to pursuing the “second best” option for the secondary states and com­
+peting powers amid hyper uncertainty. Under the current circumstances, a
+
+Hedging via Institutions 377
+
+stable and sustained regional peace and prosperity is desired by all but not easily
+achieved. A more feasible and relatively attainable scenario is maintaining the
+status quo of an imperfect but peaceful order. Despite growing competition
+and tension, inter-state differences are managed by diplomatic means, while
+region-wide cooperation (e.g., RCEP) is explored and actualized. Multi-layered
+partnerships evolve, enabling regional actors to coexist and collaborate across
+domains and sectors. Armed conflict is avoided, while concrete cooperation is
+actualized. ASEAN-led multilateral institutions, albeit inadequate and imperfect,
+are the indispensable avenues that make these possible throughout the post-Cold
+War decade. They have allowed the secondary states to hedge against the risks
+associated with US-China competition, the rise of China, and other structural
+uncertainties.
+Therefore, although it may sound counter-intuitive, hedging at both group
+and individual levels is good not only for the smaller states but also for all powers
+and actors. Understandably, this is not an ideal situation for any of the competing
+powers. But precisely because this is not the best scenario for any of the rivalling
+powers, it is a more acceptable scenario for all the powers. Fundamentally,
+hedging means that smaller states prefer to avoid aligning with one power
+against another under the current circumstances. This ensures Southeast Asian
+neutrality, prevents regional polarization, and enables countries of diverse
+interests and identities to continue forging inclusive, region-wide cooperation,
+thereby preserving regional peace and prosperity, even in the face of growing
+power rivalries and the ongoing pandemic crisis (Kuik 2021a). Arthur Romano,
+Jacob Werblow, and Audrey Williams (2022, 17) observe in these pages, “peace
+is ever-evolving and ever-expanding.” Future studies should further explore
+how the ever-evolving multi-level hedging can contribute to peace and why
+the ever-expanding multi-layered partnerships may provide greater space for
+assertive states to prioritize coexistence and cooperation over competition that is
+increasingly excessive and disruptive.
+
+Acknowledgments
+This research was financially supported by the Institute for Peace and Unification
+Studies (IPUS) at Seoul National University under the project of “Laying the
+Groundwork for Unification.” I am grateful to Lee Jaehyon, Lee Seungjoo, Beth
+W. Stewart, Fong Chin Wei, and the two anonymous reviewers for their helpful
+comments and inputs during the various stages of drafting this paper. I also thank
+Zikri Rosli, Fikry A. Rahman, and Izyan Hay for superb research assistantship.
+All shortcomings are my own.
+
+378 Cheng-Chwee Kuik
+
+References
+Acharya, Amitav. 1997. “Ideas, Identity, and Institution‐building: From the ‘ASEAN Way’
+to the ‘Asia‐Pacific Way’?” The Pacific Review 10 (3): 319-46.
+Acharya, Amitav. 2001. Constructing a Security Community in Southeast Asia: ASEAN and
+the Problem of Regional Order. New York: Routledge.
+Acharya, Amitav. 2004. “How Ideas Spread: Whose Norms Matter? Norm Localization and
+Institutional Change in Asian Regionalism.” International Organization 58 (2): 23975.
+Acharya, Amitav. 2017. “The Myth of ASEAN Centrality?” Contemporary Southeast Asia
+39 (2): 273-79.
+Acharya, Amitav, and Alastair Iain Johnston, eds. 2007. Crafting Cooperation: Regional
+International Institutions in Comparative Perspective. Cambridge: Cambridge
+University Press.
+Anwar, Dewi Fortuna. 1997. “ASEAN and Indonesia: Some Reflections.” Asian Journal of
+Political Science 5 (1): 20-34.
+Anwar, Dewi Fortuna. 2020. “Indonesia and the ASEAN Outlook on the Indo-Pacific.”
+International Affairs 96 (1): 111-29.
+Arase, David. 2010. “Non-Traditional Security in China-ASEAN Cooperation: The
+Institutionalization of Regional Security Cooperation and the Evolution of East Asian
+Regionalism.” Asian Survey 50 (4): 808-33.
+Atanassova-Cornelis, Elena. 2020. “Alignment Cooperation and Regional Security
+Architecture in the Indo-Pacific.” The International Spectator: Italian Journal of
+International Affairs 55 (1): 18-33.
+Axelrod, Robert, and Robert O. Keohane. 1993. “Achieving Cooperation Under Anarchy:
+Strategies and Institutions.” In Neorealism and Neoliberalism: The Contemporary
+Debate, ed. David A. Baldwin, 85-115. New York: Columbia University Press.
+Ba, Alice D. 2006. “Who’s Socializing Whom? Complex Engagement in Sino-ASEAN
+Relations.” The Pacific Review 19 (2): 157-79.
+Ba, Alice D. 2009. [Re]Negotiating East and Southeast Asia: Region, Regionalism, and the
+Association of Southeast Asian Nations. Stanford: Stanford University Press.
+Ba, Alice D. 2016. “The Institutionalization of Southeast Asia: ASEAN and ASEAN
+Centrality.” In Institutionalizing East Asia: Mapping and Reconfiguring Regional
+Cooperation, eds. Alice D. Ba, Kuik Cheng-Chwee, and Sueo Sudo, 11-34. Oxon:
+Routledge.
+Ba, Alice D. 2017. “ASEAN and the Changing Regional Order: The ARF, ADMM, and
+ADMM-Plus.” In Building ASEAN Community: Political–Security and Socio-cultural
+Reflections ASEAN@50, Volume 4, eds. Aileen Baviera and Larry Maramis, 146-57.
+Jakarta: Economic Research Institute for ASEAN and East Asia.
+Balassa, Bela. 1961. The Theory of Economic Integration. London: George Allen and Unwin.
+Baldwin, David A. 1993. “Neoliberalism, Neorealism, and World Politics.” In Neorealism
+and Neoliberalism, ed. David A. Baldwin, 3-25. New York: Columbia University Press.
+Beeson, Mark. 2014. Regionalism and Globalization in East Asia: Politics, Security and
+Economic Development. 2nd ed. Basingstoke: Palgrave.
+Benedict, Burton, ed. 1967. Problems of Smaller Territories. London: Athlone Press for the
+
+Hedging via Institutions 379
+
+Institute of Commonwealth Studies.
+Buszynski, Leszek. 1987. “ASEAN: A Changing Regional Role.” Asian Survey 27 (7): 764-86.
+Caballero-Anthony, Mely. 2014. “Understanding ASEAN’s Centrality: Bases and Prospects
+in an Evolving Regional Architecture.” The Pacific Review 27 (4): 563-84.
+Caballero-Anthony, Mely, and Lina Gong. 2021. “Security Governance in East Asia and
+China’s Response to COVID-19.” Fudan Journal of the Humanities and Social Sciences
+(14): 153-72.
+Camroux, David. 2012. “Regionalism in Asia as Disguised Multilateralism: A Critical
+Analysis of the East Asia Summit and the Trans-Pacific Partnership.” The International
+Spectator Italian Journal of International Affairs 47 (1): 97-15.
+Chang, Jun Yan. 2022. “Not between the Devil and the Deep Blue Sea: Singapore’s
+Hedging.” International Studies Quarterly 66 (3): 1-12.
+Christensen, Thomas J. 2020. “No New Cold War: Why US-China Strategic Competition
+Will Not be like the US-Soviet Cold War.” ASAN Institute for Policy Studies. September
+2020.
+Ciorciari, John D. 2011. “Chiang Mai Initiative Multilateralization.” Asian Survey 51 (5):
+926-52.
+Ciorciari, John D. 2017. “ASEAN and the Great Powers.” Contemporary Southeast Asia 39
+(2): 252-58.
+Ciorciari, John D. 2019. “The Variable Effectiveness of Hedging Strategies.” International
+Relations of the Asia-Pacific 19 (3): 523-55.
+Corry, Olaf. 2012. “Securitisation and ‘Riskification’: Second-Order Security and the
+Politics of Climate Change.” Millennium: Journal of International Studies 40 (2): 23558.
+Cook, Malcolm, and Nick Bisley. 2016. “Contested Asia and the East Asia Summit.” ISEAS
+Perspective (46): 1-8.
+Da Cunha, Derek, ed. 2000. Southeast Asian Perspectives on Security. Singapore: Institute of
+Southeast Asian Studies.
+Darby, Phillip. 1973. “Stability Mechanisms in South-East Asia: I. Prospects for Regionalism.”
+International Affairs 49 (1): 23-34.
+Dent, Christopher M. 2016. East Asian Regionalism. 2nd ed. London: Routledge.
+Deudney, Daniel. 1996. “Binding Sovereigns: Authorities, Structures, and Geopolitics in
+Philadelphian System.” In State Sovereignty as Social Construct, eds. Thomas Biersteker
+and Cynthia Weber. Cambridge: Cambridge University Press.
+Didier, Brice. 2021. “The European Union and the Liberal International Order in the Age
+of ‘America First’: Attempted Hedging and the Willingness-Capacity Gap.” Journal of
+Contemporary European Research 17 (1): 23-42.
+Dosch, Jörn, and Manfred Mols. 1998. “Thirty Years of ASEAN: Achievements and
+Challenges.” The Pacific Review 11 (2): 167-82.
+Dosch, Jörn, and Frederick Kliem, eds. Forthcoming. The Elgar Companion to ASEAN.
+Cheltenham, UK: Edward Elgar Publishing.
+Downes, Andrew S. 2004. “The Trade Environment and Small Countries.” World Trade
+Review 3 (3): 416-21.
+Doyle, Michael W. 1997. Ways of War and Peace: Realism, Liberalism, and Socialism. New
+York, NY: Norton & Company.
+Emmers, Ralf. 2003. Cooperative Security and the Balance of Power in ASEAN and ARF.
+
+380 Cheng-Chwee Kuik
+
+London: Routledge.
+Emmers, Ralf. 2014. “ASEAN’s Search for Neutrality in the South China Sea.” Asian Journal
+of Peacebuilding 2 (1): 61-77.
+Emmers, Ralf, Joseph Chinyong Liow, and Tan See Seng. 2010. The East Asia Summit and
+the Regional Security Architecture. Baltimore, Maryland: Maryland School of Law.
+Fennell, Shailaja. 2022. “Building on Bandung: What Does Cooperation Do for Regional
+Engagement?” Asian Journal of Peacebuilding 10 (1): 87-105.
+Friedrichs, Jorg. 2012. “East Asian Regional Security.” Asian Survey 52 (4): 754-76.
+Goh, Evelyn. 2005. Meeting the China Challenge. Washington, D.C.: East West Center
+Washington.
+Goh, Evelyn. 2007. “Great Powers and Hierarchical Order in Southeast Asia: Analyzing
+Regional Security Strategies.” International Security 32 (3): 113-57.
+Goldstein, Avery. 2020. “US–China Rivalry in the Twenty-First Century: Déjà Vu and Cold
+War II.” China International Strategy Review (2): 48-62.
+Grieco, Joseph M. 1988. “Anarchy and the Limits of Cooperation: Realist Critique of the
+Newest Liberal Institutionalism.” International Organization 42 (3): 485-507.
+Grieco, Joseph M. 1993. “Understanding the Problem of International Cooperation: The
+Limits of Liberal Institutionalism and the Future of Realist Theory.” In Neorealism and
+Neoliberalism, ed. David A. Baldwin. New York: Columbia University Press.
+Grynberg, Roman, ed. 2006. WTO at the Margins: Small States and the Multilateral Trading
+System. Cambridge: Cambridge University Press.
+Haacke, Jürgen. 2009. “The ASEAN Regional Forum: From Dialogue to Practical Security
+Cooperation?” Cambridge Review of International Affairs 22 (3): 427-49.
+Haacke, Jürgen. 2019. “The Concept of Hedging and Its Application to Southeast Asia: A
+Critique and a Proposal for a Modified Conceptual and Methodological Framework.”
+International Relations of the Asia-Pacific 19 (3): 375-417.
+Haacke, Jürgen, and John D. Ciorciari. 2019. “Hedging in International Relations: An Intro
+Jürgen duction.” International Relations of the Asia-Pacific 19 (3): 367-74.
+Haacke, Jürgen, and John D. Ciorciari. 2022. “Hedging as Risk Management: Insights from
+Works on Alignment, Riskification, and Strategy.” 124. IPC Working Paper Series.
+Haas, Ernst B. 1964. Beyond the Nation State: Functionalism and International Organization.
+Stanford, California: Stanford University Press.
+Haas, Ernst B. 1980. “Why Collaborate: Issue-Linkage and International Regimes.” World
+Politics 32 (3): 357-405.
+Haftendorn, Helga, Robert O. Keohane, and Celeste A. Wallander, eds. 1999. Imperfect
+Unions: Security Institutions Over Time and Space. Oxford: Oxford University Press.
+He, Kai. 2008. “Institutional Balancing and International Relans Theory: Economic
+Interdependence and Balance of Power Strategies in Southeast Asia.” European
+Journal of International Relations 14 (3): 489-518.
+He, Kai, and Huiyun Feng. 2020. “International Institutions, Institutional Balancing, and
+Peaceful Order Transition.” Ethics and International Affairs 34 (4): 487-501.
+Heng, Yee-Kuang. 2022. “Japan in the Gulf: Hedging between Washington and Tehran?”
+The International Spectator, 1-15.
+Hoo, Tiang Boon. 2016. “The Hedging Prong in India’s Evolving China Strategy.” Journal of
+Contemporary China 25 (101): 792-804.
+Hurrell, Andrew. 2000. “Some Reflections on the Role of Intermediate Powers in
+
+Hedging via Institutions 381
+
+International Institutions.” In Paths to Power: Foreign Policy Strategies of Intermediate
+States, eds. Andrew Hurrell, Andrew F. Cooper, Guadalupe González González,
+Ricardo Ubiraci Sennes, and Srini Sitaraman, 3-4. Washington, DC: The Woodrow
+Wilson International Center for Scholars.
+Ikenberry, G. John. 2001. After Victory: Institutions, Strategic Restraint, and the Rebuilding
+of Order After Major Wars. Princeton: Princeton University Press.
+Ingebritsen, Christine. 2002. “Norm Entrepreneurs: Scandinavia’s Role in World Politics.”
+Cooperation and Conflict 37 (1): 11-23.
+Jackson, Van. 2014. “Power, Trust, and Network Complexity: Three Logics of Hedging in
+Asian Security.” International Relations of the Asia-Pacific 14 (3): 331-56.
+Johnston, Alastair Iain, and Robert S. Ross. 1999. “Conclusion.” In Engaging China: The
+Management of an Emerging Power, eds. Alastair Iain Johnston and Robert S. Ross.
+279-302. London: Routledge.
+Jones, David Martin, and Nicole Jenne. 2022. “Hedging and Grand Strategy in Southeast
+Asian Foreign Policy.” International Relations of the Asia-Pacific 22 (2): 205-35.
+Jones, Lee. 2010. “ASEAN’s Unchanged Melody? The Theory and Practice of ‘NonInterference’ in Southeast Asia.” The Pacific Review 23 (4): 479-502.
+Kahler, Miles. 1992. “Multilateralism with Small and Large Numbers.” International
+Organization 46 (3): 681-708.
+Katsumata, Hiro. 2003. “Reconstruction of Diplomatic Norms in Southeast Asia: The Case
+for Strict Adherence to the “ASEAN Way.”” Contemporary Southeast Asia 25 (1): 10421.
+Katzenstein, Peter J. 1997. “Introduction: Asian Regionalism in Comparative Perspective.”
+In Network Power: Japan and Asia, eds. Peter J. Katzenstein and Takashi Shiraishi.
+Ithaca, NY: Cornell University Press.
+Katzenstein, Peter J. 2005. A World of Regions. Ithaca, NY: Cornell University Press.
+Keohane, Robert O. 1969. “Lilliputians’ Dilemmas: Small States in International Politics.”
+International Organization 23 (2): 291-310.
+Keohane, Robert O. 1986. “Reciprocity in International Relations.” International
+Organization 40 (1): 1-27.
+Keohane, Robert O. 1989. International Institutions and State Power: Essays in International
+Relations Theory. New York: Routledge.
+Keohane, Robert O. 1990. “Multilateralism: An Agenda for Research.” International
+Journal: Canada’s Journal of Global Policy Analysis 45 (4): 731-64.
+Keohane, Robert O., ed. 2002. Power and Governance in a Partially Globalized World.
+London and New York: Routledge.
+Keohane, Robert O., and Joseph S. Nye. 1977. Power and Interdependence: World Politics in
+Transition. Boston: Little, Brown & Co.
+Keohane, Robert O., and Lisa L. Martin. 1995. “The Promise of Institutionalist Theory.”
+International Security 20 (1): 39-51.
+Khong, Yuen Foong. 1997. “Making Bricks without Straw in the Asia Pacific?” The Pacific
+Review 10 (2): 289-300.
+Khong, Yuen Foong. 2004. “Coping with Strategic Uncertainty: The Role of Institutions
+and Soft Balancing in Southeast Asia’s Post-Cold War Strategy.” In Rethinking Security
+in East Asia: Identity, Power, and Efficiency, eds. J. J. Suh, Peter J. Katzenstein, and
+Allen Carlson, 172-208. Stanford: Stanford University Press.
+
+382 Cheng-Chwee Kuik
+
+Khong, Yuen Foong, and Helen Nesadurai. 2007. “Hanging Together, Institutional Design,
+and Cooperation in Southeast Asia: AFTA and the ARF.” In Crafting Cooperation:
+Regional International Institutions in Comparative Perspective, 32-82. Cambridge:
+Cambridge University Press.
+Kikuchi, Tsutomu. 2015. “Collective Hedging: What Drives Regional Institution-Building
+in the Asia Pacific?” Asian Leadership in Policy and Governance (24): 45-67.
+Kim, Min-hyung. 2021. “Hedging between the US and China? South Korea’s IdeologyDriven Behavior and Its Implications for National Security.” International Relations of
+the Asia-Pacific. https://doi.org/10.1093/irap/lcab020.
+Kim, Sangbae. 2014. Roles of Middle Power in East Asia: A Korean Perspective. Seoul: East
+Asia Institute.
+Koga, Kei. 2016. Reinventing Regional Security Institutions in Asia and Africa: Power Shifts,
+Ideas, and Institutional Change. New York: Routledge.
+Koga, Kei. 2018. “The Concept of ‘Hedging’ Revisited: The Case of Japan’s Foreign Policy
+Strategy in East Asia’s Power Shift.” International Studies Review 20 (4): 633-60.
+Koga, Kei. 2022. Managing Great Power Politics: ASEAN, Institutional Strategy, and the
+South China Sea. Global Political Transitions. Singapore: Palgrave Macmillan.
+Köllner, Patrick. 2021. “Australia and New Zealand Recalibrate Their China Policies:
+Convergence and Divergence.” The Pacific Review 34 (3): 405-36.
+Koremenos, Barbara, Charles Lipson, and Duncan Snidal. 2001. “The Rational Design of
+International Institutions.” International Organization 55 (4): 761-99.
+Korolev, Alexander. 2016. “Systemic Balancing and Regional Hedging: China–Russia
+Relations.” The Chinese Journal of International Politics 9 (4): 375-97.
+Krasner, Stephen D., ed. 1983. International Regimes. Ithaca, NY: Cornell University Press.
+Kuik, Cheng-Chwee. 2008. “The Essence of Hedging: Malaysia and Singapore’s Response to
+a Rising China.” Contemporary Southeast Asia 30 (2): 159-85.
+Kuik, Cheng-Chwee. 2016a. “How Do Weaker States Hedge? Unpacking ASEAN States’
+Alignment Behavior towards China.” Journal of Contemporary China 25 (100): 500514.
+Kuik, Cheng-Chwee. 2016b. “Malaysia Between the US and China: What Do Weaker States
+Hedge Against?” Asian Politics & Policy 8 (1): 155-77.
+Kuik, Cheng-Chwee. 2018. “Power Transitions Threaten ASEAN’s Hedging Role.” East Asia
+Forum Quarterly 10 (2): 22-23.
+Kuik, Cheng-Chwee. 2020. “Hedging in Post-Pandemic Asia: What, How, and Why?” The
+Asan Forum, June 6. https://theasanforum.org/hedging-in-post-pandemic-asia-whathow-and-why/ (accessed June 6, 2020).
+Kuik, Cheng-Chwee. 2021a. “Getting Hedging Right: A Small-State Perspective.” China
+International Strategy Review 3: 300-315.
+Kuik, Cheng-Chwee. 2021b. “The Twin Chessboards of US-China Rivalry: Impact on the
+Geostrategic Supply and Demand in Post-Pandemic Asia.” Asian Perspective 45 (1):
+157-76.
+Kuik, Cheng-Chwee. 2022a. “Shades of Grey: Riskification and Hedging in the IndoPacific.” The Pacific Review: 1-34.
+Kuik, Cheng-Chwee. 2022b. “Southeast Asian States and ASEAN: A Center of Courtships
+and Cooperation.” In International Relations of Asia, edited by David Shambaugh, 3rd
+ed., 189-227. Lanham: Rowman & Littlefield Publishers.
+
+Hedging via Institutions 383
+
+Kuik, Cheng-Chwee, Nor Azizan Idris, and Abd Rahim Md Nor. 2012. “The China Factor
+in the US ‘Reengagement’ With Southeast Asia: Drivers and Limits of Converged
+Hedging.” Asian Politics & Policy 4 (3): 315-44.
+Kuik, Cheng-Chwee, and Chen-Dong Tso. 2022. “Hedging in Non-Traditional Security:
+The Case of Vietnam’s Disaster Response Cooperation.” The Chinese Journal of
+International Politics: 1-21.
+Kuik, Cheng-Chwee and Fikry A. Rahman. Forthcoming. “ASEAN’s Dialogue Mechanisms:
+Institutionalizing the Quest for ASEAN Centrality.” In The Elgar Companion to
+ASEAN, eds. Jörn Dosch and Frederick Kliem. Cheltenham, UK: Edward Elgar
+Publishing.
+Kurus, Bilson. 1993. “Understanding ASEAN: Benefits and Raison D’être.” Asian Survey 33
+(8): 819-31.
+Laksmana, Evan. 2020. “Whose Centrality? ASEAN and the Quad in the Indo-Pacific.” The
+Journal of Indo-Pacific Affairs 3 (5): 1-13.
+Lampton, David M. 2021. “Engagement with China: A Eulogy and Reflections on a
+Gathering Storm.” In Engaging China: Fifty Years of Sino-American Relations, ed.
+Anne Thurston, 391-422. New York: Columbia University Press.
+Lee, Seungjoo. 2016. “Institutional Balancing and the Politics of Mega-FTAs in East Asia.”
+Asian Survey 56 (6): 1055-76.
+Lee, Sook Jong, ed. 2016. Transforming Global Governance with Middle Power Diplomacy:
+South Korea’s Role in the 21st Century. New York: Palgrave Macmillan.
+Leifer, Michael. 1989. ASEAN and the Security of Southeast Asia. London: Routledge.
+Leifer, Michael. 1996. The ASEAN Regional Forum: Extending ASEAN’s Model of Regional
+Security. Adelphi Paper no. 302. London: Oxford University Press for IISS.
+Lim, Darren J., and Zack Cooper. 2015. “Reassessing Hedging: The Logic of Alignment in
+East Asia.” Security Studies 24 (4): 696-27.
+Mahbubani, Kishore, and Jeffery Sng. 2017. The ASEAN Miracle: A Catalyst for Peace.
+Singapore: NUS Press.
+Mastanduno, Michael. 1991. “Do Relative Gains Matter? America’s Response to Japanese
+Industrial Policy.” International Security 16 (1): 73-113.
+Mearsheimer, John J. 1995. “The False Promise of International Institutions.” International
+Security 19 (3): 5-49.
+Mukherjee, Anit. 2013. “ADMM-Plus: Talk Shop or Key to Asia-Pacific Security.” The
+Diplomat, August 22, https://thediplomat.com/2013/08/admm-plus-talk-shop-orkey-to-asia-pacific-security/ (accessed January 28, 2022).
+Mueller, Lukas Maximilian. 2021. “Challenges to ASEAN Centrality and Hedging in
+Connectivity Governance—Regional and National Pressure Points.” The Pacific Review
+34 (5): 747-77.
+Narine, Shaun. 2002. Explaining ASEAN: Regionalism in Southeast Asia. Colorado: Lynne
+Rienner Publishers.
+Natalegawa, Marty. 2018. Does ASEAN Matter? A View from Within. Singapore: ISEAS
+Publishing.
+Oba, Mie. 2019. “Further Development of Asian Regionalism: Institutional Hedging in an
+Uncertain Era.” Journal of Contemporary East Asia Studies 8 (2): 125-40.
+Olson, Mancur. 1971. The Logic of Collective Action: Public Goods and the Theory of Groups.
+Cambridge, MA: Harvard University Press.
+
+384 Cheng-Chwee Kuik
+
+Pant, Harsh V., and Yogesh Joshi. 2017. “Indo-US Relations under Modi: The Strategic
+Logic Underlying the Embrace.” International Affairs 93 (1): 133-46.
+Paul, T. V. 2005. “Soft Balancing in the Age of U.S. Primacy.” International Security 30 (1):
+46-71.
+Payne, Tony. 1987. “Economic Issues.” In Politics, Security and Development in Small States,
+eds. Colin Clarke and Tony Payne, 50-62. London: Allen and Unwin.
+Pempel, T. J. 2010. “Soft Balancing, Hedging, and Institutional Darwinism: The EconomicSecurity Nexus and East Asian Regionalism.” Journal of East Asian Studies 10 (2): 20938.
+Peters, Ingo. 1999. “The OCSE and German Policy: A Study in How Institutions Matter.”
+In Imperfect Unions: Security Institutions over Space and Time, eds. Haftendorn, R.
+Keohane, and Celeste A. Wallander. Oxford: Oxford University Press.
+Pitakdumrongkit, Kaewkamol. 2015. “Co-chairing International Negotiations: The Case of
+the Chiang Mai Initiative Multilateralization.” The Pacific Review 28 (4): 577-605.
+Pitakdumrongkit, Kaewkamol. 2019a. “Co-chairing Asia-Pacific Defence Diplomacy: The
+Case ASEAN Defence Ministers’ Meeting Plus.” Australian Journal of International
+Affairs 73 (1): 64-81.
+Pitakdumrongkit, Kaewkamol. 2019b. “RCEP: The Deal That Must Not Fail.” RSIS
+Commentary (225): 1-3.
+Quah, Danny. 2019. “Great Power Competition in the Marketplace for World Order.” Lee
+Kuan Yew, School of Public Policy Working Paper. www.DannyQuah.com/Quilled/
+Output/Quah-D-2019-Great-Power-CompetitionMarketplace-World-Order.pdf
+(accessed September 6, 2020).
+Ringsmose, Jens, and Mark Webber. 2020. “Hedging their Bets? The Case for a European
+Pillar in NATO.” Defence Studies 20 (4): 295-317.
+Romano, Arthur, Jacob Werblow, and Audrey Williams. 2022. “Evolving Conceptualizations
+of Peace Education in Hiroshima, Japan.” Asian Journal of Peacebuilding 10 (2): 1-24.
+Ruggie, John Gerard, ed. 1993. Multilateralism Matters: The Theory and Praxis of an
+Institutional Form. New York: Columbia University Press.
+Rüland, Anchalee. 2022. Norms in Conflict: Southeast Asia’s Response to Human Rights
+Violations in Myanmar. Kentucky: The University Press of Kentucky.
+Rüland, Jürgen. 2011. “Southeast Asian Regionalism and Global Governance: ‘Multilateral
+Utility’ or ‘Hedging Utility’?” Contemporary Southeast Asia 33 (1): 83-112.
+Sahashi, Ryo. 2020. “Japan’s Strategy amid US-China Confrontation.” China International
+Strategy Review 2: 232-45.
+Schiff, Maurice. 2001. Regional Integration and Development in Small States. Policy
+Research Working Paper No. WPS 2797. Washington, DC: Development Research
+Group, World Bank.
+Schweller, Randall L. 1999. “Managing the Rise of Great Powers: History and Theory.” In
+Engaging China: The Management of an Emerging Power, eds. A. Johnston and R.
+Ross. 1-32. New York: Routledge.
+Scobell, Andrew. 2021. “Constructing a U.S.-China Rivalry in the Indo-Pacific and
+Beyond.” Journal of Contemporary China 30 (127): 69-84.
+Shambaugh, David. 2020. Where Great Powers Meet: America and China in Southeast Asia.
+New York, NY: Oxford University Press.
+Shanmugam, K. 2015. “ASEAN and its Place in the Global Architecture.” Horizons: Journal
+
+Hedging via Institutions 385
+
+of International Relations and Sustainable Development 2: 116-25.
+Sim, Li-Chen, and Farkhod Aminjonov. 2022. “Statecraft in the Steppes: Central Asia’s
+Relations with China.” Journal of Contemporary China: 1-16.
+Simon, Sheldon W. 2008. “ASEAN and Multilateralism: The Long, Bumpy Road to
+Community.” Contemporary Southeast Asia 30 (2): 264-92.
+Strating, Rebecca. 2019. “Small Power Hedging in an Era of Great-power Politics: Southeast
+Asian Responses to China’s Pursuit of Energy Security.” Asian Studies Review 44 (1):
+97-116.
+Stubbs, Richard. 2002. “ASEAN Plus Three: Emerging East Asian Regionalism?” Asian
+Survey 42 (3): 440-55.
+Tan, See Seng. 2015. Multilateral Asian Security Architecture: Non-ASEAN Stakeholders.
+London: Routledge.
+Tan, See Seng. 2016. “The ADMM-Plus: Regionalism That Works?” Asia Policy (22): 70-75.
+Tan, See Seng. 2020. “Consigned to Hedge: South-East Asia and America’s ‘Free and Open
+Indo- Pacific’ Strategy.” International Affairs 96 (1): 131-48.
+Tang, Siew Mun. 2016. “ASEAN and the ADMM-Plus: Balancing between Strategic
+Imperatives and Functionality.” Asia Policy (22): 76-82.
+Taylor, Brendan. 2016. “A Pragmatic Partner: Australia and the ADMM-Plus.” Asia Policy
+(22): 83-88.
+Terada, Takashi. 2003. “Constructing an ‘East Asian’ Concept and Growing Regional
+Identity: From EAEC to ASEAN+3.” The Pacific Review 16 (2): 251-77.
+Terada, Takashi. 2018. “RCEP Negotiations and the Implications for the US.” NBR
+Commentary, December 18. https://www.researchgate.net/profile/Takashi-Terada/
+publication/330090815_RCEP_Negotiations_and_the_Implications_for_the_
+United_States/links/5c2ce2f6299bf12be3a84100/RCEP-Negotiations-and-theImplications-for-the-United-States.pdf (accessed December 10, 2021).
+Tow, William T., and Brendan Taylor. 2010. “What is Asian Security Architecture?” Review
+of International Studies 36 (1): 95-116.
+Tunsjø, Øystein. 2010. “Hedging Against Oil Dependency: New Perspectives on China’s
+Energy Security Policy.” International Relations 24 (1): 25-45.
+Tunsjø, Øystein. 2013. Security and Profit in China’s Energy Policy: Hedging against Risk.
+New York: Columbia University Press.
+Van der Kroef, Justus M. 1978. “ASEAN Security and Development: Some Paradoxes and
+Symbols.” Asian Affairs 9 (2): 143-60.
+Valockova, Barbora. 2021. “ASEAN’s Limited Centrality in Connectivity: Managing
+Infrastructure Competition between China and Japan.” Asia Policy 28 (1): 129-53.
+Wang, Jisi. 2021. “The Plot against China? How Beijing Sees the New Washington
+Consensus.” Foreign Affairs 100 (4): 48-57.
+Wendt, Alexander. 1999. Social Theory of International Politics. Cambridge, UK: Cambridge
+University Press.
+
+Cheng-Chwee Kuik is Professor and Head of the Centre for Asian Studies, Institute of Malaysian and
+International Studies, National University of Malaysia. He is concurrently a Non-Resident Fellow at
+Johns Hopkins’ Foreign Policy Institute. Dr. Kuik’s research focuses on small-state alignment behavior,
+
+386 Cheng-Chwee Kuik
+
+ASEAN-based multilateralism, and Asian security. Cheng-Chwee is guest editor of “Southeast Asian
+Responses to China’s Belt and Road Initiative” (Asian Perspective, 2021) and co-author of Rivers of
+Iron: Railroads and Chinese Power in Southeast Asia (2020). Email: cckuik@gmail.com
+Submitted: July 29, 2022; Revised: October 11, 2022; Accepted: October 13, 2022
+
+

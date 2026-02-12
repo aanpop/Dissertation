@@ -1,0 +1,1310 @@
+The Paciﬁc Review
+
+ISSN: 0951-2748 (Print) 1470-1332 (Online) Journal homepage: www.tandfonline.com/journals/rpre20
+
+Norm contestation, statecraft and the South
+China Sea: defending maritime order
+Rebecca Strating
+To cite this article: Rebecca Strating (2022) Norm contestation, statecraft and the
+South China Sea: defending maritime order, The Paciﬁc Review, 35:1, 1-31, DOI:
+10.1080/09512748.2020.1804990
+To link to this article: https://doi.org/10.1080/09512748.2020.1804990
+
+Published online: 13 Aug 2020.
+
+Submit your article to this journal
+
+Article views: 4184
+
+View related articles
+
+View Crossmark data
+
+Citing articles: 8 View citing articles
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=rpre20
+
+THE PACIFIC REVIEW
+2022, VOL. 35, NO. 1, 1–31
+https://doi.org/10.1080/09512748.2020.1804990
+
+Norm contestation, statecraft and the South
+China Sea: defending maritime order
+Rebecca Strating
+Politics, Media and Philosophy, La Trobe University, Bundoora, Victoria, Australia
+ABSTRACT
+
+Since 2009, the South China Sea disputes have taken on increasing global significance. Situated within a rapidly transforming political landscape, these sovereignty and maritime disputes are totemic of contests over the regional
+security order and the institutions, rules and laws that support it. The United
+States has explicitly called upon ‘like-minded’ allies and partners to defend
+the so-called ‘rules-based order’ against the revisionism of the rising People’s
+Republic of China, including in the maritime domain. In particular, the South
+China Sea has become a highly visible arena of ‘normative contestation’, one
+that raises questions about how norm-preservationist regional powers enact
+security practices to uphold their preferred vision of order. This study uses
+Australia as a regional power case study to assess the interests and
+approaches of a key US ally to normative contestation in the South China
+Sea. It addresses two questions: first, how does Australia perceive and articulate its interests in the South China Sea? Second, what security practices diplomatic, legal and operational – can a regional power such as Australia
+bring to bear in its statecraft? It argues that as a regional power, Australia
+has adopted a normative approach to upholding maritime order. While
+Canberra has ratcheted up the rhetoric on the importance of maintaining the
+‘rules-based order’ in response to China’s actions in the South China Sea, its
+security practices have retained a routine, ‘business-as-usual’ quality. This
+approach is designed to support maritime rules while avoiding economic
+retaliation from Beijing, reflecting broader strategic dilemmas as a middlesized state wedged between two great powers. Unpacking the nuances of
+Australia’s South China Sea statecraft provides important insights for understanding for the preparedness and limitations of regional powers in defending their preferred conception of maritime order.
+
+KEYWORDS Maritime disputes; norm contestation; security practices; South China Sea; statecraft
+
+CONTACT Rebecca Strating
+b.strating@latrobe.edu.au
+La Trobe Asia, Room W104, Level 1,
+David Myers Building West, La Trobe University, Bundoora, Victoria, Australia, 3086.
+ß 2020 Informa UK Limited, trading as Taylor & Francis Group
+
+2
+
+R. STRATING
+
+Main article
+Since 2009, the complex and layered disputes in the South China Sea have
+taken on increasing global significance. Encompassing approximately 3 million square kilometres, the area is subject to a range of overlapping sovereignty claims over land features and jurisdictional claims over maritime
+zones and attendant rights to resources. Six parties variously claim ownership of some or all of the hundreds of land features dotting the sea, including islands, rocks, reefs, submerged shoals and low-lying elevations
+(Schofield & Storey, 2009). Disputes exist over the classification of these features, which under the United Nations Convention on the Law of the Sea
+(UNCLOS), has implications for the maritime entitlements that may be generated from their possession. The People’s Republic of China’s (herein
+China) artificial island building and its militarisation activities have precipitated new concerns about its intentions, including whether it wants to
+push the United States (US) out of the first island chain by developing antiaccess/area denial (A2/AD) capabilities and use the sea as a bastion for projecting force into other maritime spaces, including the Western pacific or
+Indian Ocean (e.g. Beckley, 2017, p. 78; Holmes, 2019; Goldrick, 2019; Lacey,
+2020). China’s rejection of the ruling in the 2016 Philippines v China South
+China Sea Arbitration - which found its arguments to ‘historic rights’ illegal
+under international law – has also raised concerns that China is seeking to
+revise maritime rules and ‘reorder the region’ (United States Department of
+Defense, 2019, p. 7). For the US, China’s actions threaten Freedom of
+Navigation and undermines a global maritime order based on Grotian principles of the ’free seas’ (Kraska & Pedrozo, 2018).
+These disputes have become totemic of an increasingly unsettled, contested and uncertain Asian security order that is rapidly transforming under
+conditions of great power rivalry. As a site of struggle over the accepted
+rules determining the legitimate use of and delineation of maritime space,
+the South China Sea is an arena of ‘normative contestation’ that is destabilising the existing maritime order. Maritime order is the presence of relatively stable patterns of state behaviour, clear and coherent rules governing
+claims to maritime area and resources, and effective mechanisms for international maritime dispute resolution (Strating, 2020a; Morton, 2016). While
+maritime order is also sustained or changed through hard power, upholding a legitimate order underpinned not just by power but commonly
+understood standards of behaviour is considered in the interests of regional
+powers that have fewer military capabilities than great powers (Emmers
+and Teo 2018).
+Normative contestation literature has become increasingly visible in
+International Relations (IR), as studies examine how and why norms come
+under challenge (Wiener, 2008) and the impacts on norm robustness
+
+THE PACIFIC REVIEW
+
+3
+
+(Deitelhoff and Zimmermann, 2019). This article contributes to this literature by considering how norm-preservationist ‘regional powers’1 seek to
+defend their preferred conception of order. As Wiener (2018, p. 1) argues, ‘a
+norm lies in the practice, and practice is always norm-generative’. If norms
+are created through the collective action and understandings of states, then
+non-great powers also contribute to maintaining (or undermining) norms
+through their practice. That the seas are emerging as a central theatre of
+norm contestation is apparent in the widespread (although not universal)
+adoption of the ‘Indo-Pacific’ concept, an inherently maritime conception of
+strategic geography. While China rejects it as a ‘containment strategy’,
+regional powers such as Australia, Japan and India have embraced the
+nomenclature, reflecting the strategic importance of the oceans and grow-vis China’s maritime assertions.
+ing alignment among these states vis-a
+Along with the US, the rhetoric of these states emphasises the importance
+of the international rules and norms under challenge (United States
+Department of Defense, 2019, p. 4).
+This paper argues that Australia has adopted a normative approach to
+defending maritime order. It uses Australia as a case study for understanding how and why norm-preservationist regional powers seek to defend contested norms. While Australia remains a committed US ally, China remains
+its biggest trading partner. This study examines how Australia uses security
+practices to assist in maintaining and stabilising a complex security norm.
+The concept of security practices can bridge the gap between norm contestation and foreign policy analysis and demonstrates the possibilities and
+limitations of non-great powers defending norms during a time of contestation. Drawing on Adler and Pouliot’s work (2011, p. 4), security practices are
+defined as ‘socially meaningful patterns of action, which, in being performed
+more or less competently, simultaneously embody, act out, and possibly reify
+background knowledge and discourse in and on the material world.’
+Practices rest upon background knowledge and intersubjectively understood
+meanings as they ‘weave together the discursive and material worlds’ (Adler
+& Pouliot, 2011, p. 7). A cluster of activities conducted in the defence of
+norms may be considered a security practice. They incorporate inter alia discourses and rhetoric, routinised military activities, and practices of negotiations and dispute resolution. These activities are performative, repeated and
+patterned as they exhibit ‘certain regularities over time and space’ (Adler &
+Pouliot, 2011, p. 6). While this framework is useful for considering how states
+as agents employ iterative security practices to reproduce normative structures, changes in security practices can also reveal shifting imperatives.
+This paper begins by outlining how the South China Sea can be considered an arena for normative contestation. It then addresses two key questions: first, given Australia is not a claimant state and does ‘not take sides’
+
+4
+
+R. STRATING
+
+in the competing sovereignty claims (Commonwealth of Australia, 2017a,
+pp. 46–47), what interests does it have in the disputes? It argues that the
+preservation of an UNCLOS-led maritime order is a critical priority. Second,
+what security practices - diplomatic, legal and military – has Canberra pursued in its normative approach to maritime disputes? It examines key elements of Australian statecraft used in its efforts to defend maritime norms,
+including routinised operations in the region, bilateral and multilateral diplomacy, public diplomacy narratives; and, settling disputes through dispute
+resolution mechanisms and limits in its own compliance with UNCLOS.
+While foreign policy discourses pressure Beijing to conform to the rules in
+the South China Sea, Australian operational policy has maintained a routine,
+‘business-as-usual’ approach to defending norms. Finally, the paper demonstrates how the paradoxes in Australia’s approach reflect broader strategic
+dilemmas as a middle-sized state wedged between two great powers.
+
+Normative contestation and the South China Sea
+The South China Sea is a site of ‘norm contestation’. An emerging body of
+IR literature considers how states contest the legitimacy of norms and institutions and the effects this contestation has on strengthening or weakening
+norms (Wiener, 2008; Deitelhoff and Zimmermann, 2019, pp. 1, 4). Norms
+are ‘mostly defined as inter-subjective standards of appropriate behavior on
+the basis of given identities’, and often only become visible when they are
+violated (Deitelhoff & Zimmermann, 2013, p. 4; Finnemore & Sikkink, 1998,
+p. 891). Following from Wiener (2014), I define norm contestation as discursive and non-discursive challenges directed at existing norms, including
+non-compliance, justificatory statements and rejecting legal decisions. In
+Western discourses, China is positioned as a norm challenger threatening
+the legitimacy of the regional order. In its 2019 Indo-Pacific Strategy Report,
+the US Department of Defense directly named China as a revisionist power
+seeking to ‘reorder the region’, and declared that it would not accept policies or actions that erode ‘the values and principles of the rules-based international order’ (United States Department of Defense, 2019, p. 7). In these
+strategic competition narratives, the South China Sea plays a special role as
+an exemplar of Chinese revisionism.
+The key norm under threat is the 1982 United Nations Convention of the
+Law of the Sea (UNCLOS), ratified in 1994 and often described as the
+‘Constitution for the Oceans’ (Koh, 2019). Following from Welsh’s (2019, p.
+56) work, UNCLOS here is understood as a ‘complex norm’ containing more
+than one prescription. It provides the foundational norm for a bundle
+ofother international laws and regulations that seek to govern activities and
+practices in the maritime arena, including the 1972 International
+
+THE PACIFIC REVIEW
+
+5
+
+Regulations for Preventing Collisions at Sea (COLREGs). UNCLOS is a complex security norm, given that it applies limits to what military activities
+might take place in the world’s oceans, and, in the formation of maritime
+zones such as the territorial sea and Exclusive Economic Zone (EEZ), establishes security jurisdictions determining the legal rights and responsibilities
+of coastal and non-coastal states and the allocation of marine resources.
+While a remarkable achievement, the negotiations of UNCLOS highlighted fundamental differences in the ways that states – many new, postcolonial and developing – viewed their rights within maritime jurisdictions.
+The UNCLOS negotiations attempted to balance ‘Grotian’ concepts of the
+seas as a ‘global commons’ with the security and resource concerns of
+coastal states, many of whom desired greater controls over oceanic space
+and resources in the water column and seabed. The most powerful navies the US and Soviet Union - advocated a 12 nautical mile (nm) territorial sea
+and a high seas corridor to permit their navies the maximum possible room
+to manoeuvre and were reluctant to support EEZs on the basis that creeping jurisdiction could restrict navigational freedoms. In contrast, many
+developing states feared that the world’s oceans would become subject to
+a ‘scramble for seabed resources’ that would disadvantage developing
+states (Guilfoyle, 2019a, 388). The 200 nm EEZ was a compromise, creating a
+sui generis jurisdiction wherein coastal states would have sovereign rights
+to resources in this zone, but maritime powers would maintain high seas
+freedoms of navigation. These debates about the fundamental constitution
+of maritime norms resonate in contemporary disputes.
+While the South China Sea disputes have intensified since 2009, they are
+not new. Contested claims over land features in the South China Sea have
+been a feature of the East Asian political landscape since the early twentieth century (Hayton, 2014). However, the disputes have taken on greater
+political salience since 2009; in the strategic narratives of the US and its ally
+Japan in particular, the South China Sea is presented as an example of the
+ways in which a rising China threatens the US-led order (Strating, 2020a).
+For its part, China has adopted a ‘strategic ambiguity’ approach to its claims
+in the South China Sea. In 2009, in a note verbale response to Malaysia and
+Vietnam’s joint declaration to the Commission on the Limits of the
+Continental Shelf (CLCS), Beijing attached the now infamous ‘nine-dash
+line’ line map. First appearing in 1947, the map appears to denote a claim
+to around 90 per cent of the sea. In the note, China asserted ‘indisputable
+sovereignty over the South China Sea Islands and the adjacent waters’
+(People’s Republic of China, 2009). This has led to different interpretations
+of China’s sovereignty and sovereign rights claims. Chinese international
+lawyers Gao and Jia (2013) argued that China claims sovereignty of the
+islands and rocks within the nine-dash line; it has ‘historic’ sovereign rights
+
+6
+
+R. STRATING
+
+to fishing and other water column resources; and, sovereign rights to
+resources in the seabed, including oil and gas.
+This claim has been rejected by an Arbitral Tribunal instituted under
+UNCLOS. The Arbitral Tribunal - initiated by Philippines in 2013 to resolve
+disputes with China in the South China Sea - carried three key findings:
+1.
+2.
+3.
+
+Beijing’s claims to ‘historic rights’ within the nine-dash line was inconsistent with international law;
+None of the features subject to the arbitration could be legally classified as islands;
+They had no entitlements to an EEZ or continental shelf
+(Roberts, 2018).
+
+This ruling was denounced by Beijing, but it has attempted to change
+the ways it justifies its position of territorial ownership and maritime jurisdiction in the South China Sea. Since the tribunal finding, Chinese lawyers
+have argued that there is a ‘parallel customary law concept of ‘outlying
+archipelagos’ (Guilfoyle, 2019b, 1014). China’s ‘Four Shas’ (four sands) strategy involves constructing straight archipelagic baselines around the island
+groups of Pratas Islands, Paracel Islands, Spratly Islands and Macclesfield
+Bank. It attempts to make a legal case that the ‘Four Shas’ are China’s historical waters, and part of its EEZ and continental shelf, even though it
+does not conform with the land/water ratios set out in UNCLOS (ibid, 1015).
+While not made explicit, there are concerns that China views it rights as
+equating to sovereignty over the South China Sea. These efforts to
+‘territorialise’ the seas are an effective challenge to the principle that the
+seas are res communis (not subject to sovereignty) (Strating, 2018; Goldrick,
+2019). It appears that Beijing considers the South China Sea as being subject to the domestic jurisdiction of China – that is, Chinese sovereign rights
+over the South China Sea supersedes international law - which works to
+delegitimise the claims of other littoral states to EEZs (see Kardon, 2018). In
+other words, Beijing’s actions do not represent a wholesale challenge to
+the EEZ concept, but to the EEZ claims of other states within the South
+China Sea, and, more broadly, to the idea that international maritime law
+should take precedence over domestic law. The strategic ambiguity of
+China’s discourses permits ambit claim-making, but also makes it difficult to
+know if the South China Sea is a unique area in Chinese defence imagination or a stepping-stone to asserting sea control in other domains, such as
+the Western Pacific. The strategic narratives of states such as the US suggest that contests over resources, territory and maritime space may be a
+testing ground for challenges to UNCLOS in other maritime geographies. In
+other words, China’s actions are interpreted as a form of maritime
+
+THE PACIFIC REVIEW
+
+7
+
+revisionism, with consequences for the entitlements of other states provided under international law.
+In this context, how do non-great power states understand norm contestation, and how have they sought to stabilise or destabilise norms in
+their security practices? As Wiener (2018, p. 1) argues, when studying normative change, the issue of ‘whose practices count’ is crucial. States do not
+necessarily have an equal impact on norms. Yet, regional powers such as
+Australia have become increasingly important in US discourses about
+defending and upholding the existing regional order. At the 2018 ShangriLa Dialogue, for example, then-US Secretary of Defense James Mattis
+argued that ‘[t]he US offers strategic partnerships, not strategic dependence’. The US expects that allies and partners will contribute to regional
+security on a number of fronts, including adequately resourcing their own
+defence, strengthening interoperability with the US, promoting Indo-Pacific
+initiatives, and, importantly, upholding the ‘rules-based order’ (United
+States Department of Defense, 2019). What options are available to allies
+and partners as they seek to defend their preferred interpretation of a complex security norm, and what happens when the defence of norms comes
+into conflict with other priorities? This is a question that matters; at a basic
+level, state practice determines customary norms. As Kaye (2008, pp. 6–8)
+points out in reference to the innocent passage norm, while UNCLOS does
+not ‘permit a coastal State from excluding warships from its waters for failure to notify the coastal State or seek its authorisation’, over 50 per cent of
+states seek to implement these sorts of restrictions. This raises questions
+about ‘whether such behaviour might serve in the long term to undermine
+the efficacy of the LOSC [UNCLOS] in this or other areas’. As norms emerge
+from collective actions and understandings, increased contestation from
+states - small or large – may contribute to norm erosion. The rest of this article considers Australia’s normative approach to the South China Sea, and
+its security practices in defending (or not) its interpretation of UNCLOS as a
+complex security norm in the context of strategic uncertainty.
+
+Australia’s interests in the South China Sea
+Australia’s interests in the South China Sea tend to be expressed in security,
+economic or political terms. From 2013, parliamentary debates and political
+discussions in Australia demonstrate its increased importance: former
+Attorney-General Senator George Brandis described it as ‘arguably the most
+difficult issue in the relationship between Australia and China [italics added]’
+(Commonwealth of Australia, 2017c, p. 9297). Australia does not claim any
+of the islands, rocks or low-lying elevations in the South China Sea or assert
+sovereign rights to maritime jurisdiction within this domain. Darwin, in
+
+8
+
+R. STRATING
+
+Australia’s North, is over 3000 kilometres from Natuna Regency, located at
+the southern edge of the South China Sea. Given this geography, what is at
+stake for Australia? Historically, open maritime highways of Southeast Asia
+were viewed as an important security interests for Australia. Archival documents dating back to the 1950s demonstrate Australia’s concerns about the
+potential militarisation of the sea and the Spratly Islands falling into to
+China (see Brennan, 2017). During the Cold War, a Defence White Paper
+noted that ‘[a]n unfriendly maritime power in the area could inhibit our
+freedom of movement through these approaches and could place in doubt
+the security of Australia’s supply of military equipment and other strategic
+materiel from the United States’ (Commonwealth of Australia, 1987, p. 17).
+Yet, prior to 2016, Australia was reluctant to enter the fray on the South
+China Sea. In 2013, for example, Wesley (2013, p. 46) argued that Australia
+had adopted a ‘markedly hesitant stance’ on the re-escalation of the disputes derived from ‘the rising risk-aversion of its political culture as a result
+of the China boom’.
+More recently, Australia has been vocal in pressuring China to halt destabilising activities, reinforcing its support for freedom of navigation and
+overflight, and requesting that parties to the dispute abide by the 2016
+Arbitral Tribunal ruling. By 2013, the South China Sea had become increasingly viewed through the prism of China as a rising power, freedom of navigation and how the evolving balance of power would affect regional order
+and the rules that underpin it (Wirth, 2019). The Defence White Paper
+released that year presented the South and East China Seas as ‘regional
+flashpoints’ exacerbating the potential for ‘destabilising strategic competition’ (Commonwealth of Australia, 2013, pp. 8, 11). Former Prime Minister
+Malcolm Turnbull described China as ‘pushing the envelope’ in the seas,
+signalling concern about its maritime assertiveness and provoking diplomatic push-back from Beijing’s foreign ministry spokesperson (Ryan, 2015).
+While not a claimant state, these discourses revealed that Australia was not
+simply a neutral observer of the disputes.
+Australian defence policy over recent years has expressed concern about
+uncertainty and tension in the region, and the potential for the South
+China Sea disputes to ‘destabilise the region’ (Commonwealth of Australia,
+2016, pp. 30–43). There are several potential risks encompassed by
+‘destabilisation’ including: artificial island building, naval militarisation and
+militarisation activities; the use of ‘grey zone’ tactics using paramilitary
+actors to defend national interests; and, maritime safety concerns in the
+increasingly crowded waterways. The white paper argued that Australia’s
+security interests in the South China Sea were ‘the maintenance of peace
+and stability, respect for international law, unimpeded trade and freedom
+of navigation and overflight’ (ibid, p. 57). It also outlined concerns about
+
+THE PACIFIC REVIEW
+
+9
+
+the unprecedented pace and scale of China’s land reclamation activities.
+Undoubtedly, the gravest challenge to Australian security interests would
+be military conflict between the great powers in Southeast Asia (Chubb,
+2018, p. 3). Some analysts describe the South China Sea as a potential
+‘flashpoint’ for kinetic great power conflict, reflecting concerns that China’s
+assertions will compel the US to defend its national interests and/or the
+maritime rights of allies and partners (Kaplan, 2011). A great power conflict
+between the US and China presents a classic alliance risk for Australia. If the
+US enters skirmishes or conflict in the South China Sea, this might put pressure on Australia to participate in a US-led intervention against its largest
+trade partner. However, Taylor (2014, pp. 102–107) questions whether the
+US – as a non-claimant state - has vital interests in the South China
+Sea, and whether it would risk confrontation with China to protect those
+interests, or those of its regional allies and partners. Australian defence policy-planners have also presented the risk of major interstate conflict as
+improbable, though they have pointed out that ‘the likelihood of miscalculation is higher where conflicting territorial claims and resource imperatives
+overlap, such as in the South China Sea’ (Commonwealth of Australia, 2013,
+p. 18).
+Trade also offers a popular rationale for Australian interests in the South
+China Sea disputes. Ninety-eight percent of Australia’s trade is seaborne.
+Considered a vital sea line of communication (SLOC), around a third of the
+world’s trade passes through the SCS. According to the Defence White
+Paper (Commonwealth of Australia, 2016, p. 57), ‘[n]early two thirds of
+Australia’s exports pass through the South China Sea, including our major
+coal, iron ore and liquefied natural gas exports.’ It continues: ‘[a] stable
+rules-based regional order is critical to ensuring Australia’s access to an
+open, free and secure trading system and minimising the risk of coercion
+and instability that would directly affect Australia’s interests’ (ibid, 70). As
+Kaye (2008, p. 2) argues, ‘it is in Australia’s interest to support the existing
+international legal regime, which has proven so effective in keeping international sea lanes open and flowing.’ Given Australia’s geography, it has a
+long-term interest in ensuring that commercial freedom of navigation is
+maintained, particularly through key chokepoints such as the straits of
+Lombok, Sunda, and Malacca (Bateman, 2015a, p. 97).
+What is questionable, though, is the likelihood of China blockading cargo
+ships during peacetime. Given its own reliance on the a trading route –
+with nearly 40 per cent of its total trade passing through it - China seems
+unlikely to engage in such actions as they would ‘come at a considerable
+financial cost to China, greatly degrade China’s standing among other
+countries, and could precipitate an assertive response by outside powers’
+(Center for Strategic & International Studies, 2019). Critiques of this trade
+
+10
+
+R. STRATING
+
+narrative have argued that not only is the figure of Australian trade passing
+through the seas exaggerated, but that it is primarily trade transiting to
+and from China, and the evidence that China has or is likely to be driven to
+blockade commercial trade is limited. Bateman (2015b; 2016) argues that
+Australia’s reliance on the South China Sea as a trade route is overstated:
+‘[w]hen measured by value, the figure of 60 per cent of our seaborne trade
+passing through the South China Sea is way off the mark’. He puts the figure at closer to 20 per cent, with non-Chinese trade estimated at 6.6 per
+cent. The fear from the business community and others is that economic
+consequences are more likely to emerge from Canberra’s failure to carefully
+calibrate its China policy and rhetoric than trading blockades. The short- to
+medium-term economic risk is Beijing using its various levers in commodity
+trade, tourism and higher education sector to punish Australia’s firmer
+stance on defending maritime norms.
+While Australia’s declaratory policy emphasises the importance of freedom of navigation and overflight under international law (Commonwealth
+of Australia, 2017a, p. 47), arguments about its trade interests in the South
+China Sea fail to distinguish between commercial and military freedom of
+navigation. The right for merchant ships to trade is a different issue from
+the liberties afforded to warships in specific maritime zones. The use of
+trading interests provides non-claimant states with a rationale to justify
+their involvement to domestic audiences, but these economic concerns
+have been viewed by some in littoral maritime Southeast Asian states as ‘a
+pretext’ for advancing the rights of naval vessels in the South China Sea
+(RSIS 2017, p. 8). Australia supports the US interpretation of military freedom of navigation, but many other regional states interpret the maritime
+rules around warship transit and military activities differently from
+Washington (Strating, 2020a; Bateman, 2020; Kaye, 2008). During UNCLOS
+negotiations, the world’s powerful navies advocated a 12 nm territorial sea
+and a high seas corridor to permit the maximum possible room to manoeuvre and exert ‘command of the seas’, which has long been viewed as
+important for power projection, trade, and the establishment and maintenance of great power status (Bekkevold & Till, 2016, p. 6). Kraska and
+Pedrozo (2013, p. 4), for instance, view the political-legal infrastructure of
+law of the sea as supporting the capacity of the US (and its allies) to freely
+maneuver in the space and seas, exercising ‘command of the commons’.
+Given Australia is not a global naval power, what explains its support for
+norms of military freedom of navigation? From the Australian perspective,
+any efforts that restrict the capacities of the US navy to operate in the IndoPacific are viewed as inimical to it’s strategic interests. Australia’s perceptions of freedom of navigation is intimately tied with alliance politics and
+sustained advocacy for US-led order (Wirth, 2019). For example, Karotam
+
+THE PACIFIC REVIEW
+
+11
+
+(2017, pp. 41–45) views Australia’s security interests as maintaining US presence and leadership in the region.
+The South China Sea has also become interlinked with the broader political concerns around foreign interference in Australia’s democracy (see
+Hamilton, 2018). Politicians that have expressed support for a more ‘neutral’
+position on the South China Sea risk attracting criticisms that they are subject to undue influence. There have been two high-profile examples where
+politicians have found themselves inveigled in controversy due to an apparent pro-Beijing stance on the South China Sea. The first concerned former
+Labor Senator Sam Dastyari, who was quoted as saying:
+[t]he Chinese integrity of its borders is a matter for China, and the role that
+Australia should be playing as a friend is to know that we think several
+thousand years of history, thousands of years of history, when it is and isn’t
+our place to be involved. As a supporter of China and a friend of China, the
+Australian Labor power is playing an important role in maintaining that
+relationship and the best way of maintaining that relationship is knowing
+when it is and isn’t out place to be involved’ (cited in Murphy, 2017).
+
+Not only did this contradict his party’s official position, but at the same
+time it was revealed that controversial businessman with links to the
+Chinese Communist Party (CCP), Huang Xiangmo, had paid one of
+Dastyari’s legal bills. While he was forced to resign from the Labor frontbench, in 2017 Dastyari was again criticised for warning Huang that he was
+likely under counter-intelligence surveillance. In December 2017, facing protracted criticism over his links with CCP-connected donors, Dastyari quit the
+Senate. Huang was later refused Australian citizenship and had his permanent residency revoked, reportedly due to security concerns about efforts to
+interfere in Australian politics. Government representatives repeatedly
+called out Dastyari in parliament and media for currying influence with foreign donors (Commonwealth of Australia 2017d, 12568). The Coalition used
+media statements and question time in parliament to prosecute the argument that Dastyari’s South China Sea comments were ‘talking points that
+could have been written in Beijing’, and ‘put at risk the security of our
+nation’ (Turnbull cited in Commonwealth of Australia, 2017d).
+The next member of federal parliament questioned about their South
+China Sea stance was Coalition member of the House of Representatives,
+Gladys Liu. Liu provoked public consternation when she refused to call out
+China’s actions in South China Sea as unlawful, despite saying that her
+‘position is with the Australian government’ (Martin, 2019; Australian
+Associated Press, 2019). This time it was the Labor opposition who questioned Liu’s links to the CCP and fitness to serve (Martin, 2019). These ‘issue
+linkage’ narratives within Australia’s public sphere have enmeshed views on
+the South China Sea with concerns about foreign interference. They have
+
+12
+
+R. STRATING
+
+promoted the idea that Beijing was and would continue to attempt to sway
+public opinion and influence Australia’s South China Sea policy through
+nefarious tactics, although there is no evidence that these attempts to influence have changed Australia’s policy-settings vis-a-vis the South China Sea
+in Beijing’s favour. If anything, Australia’s opposition to China’s maritime
+revisionism has hardened.
+
+Australia’s normative approach to the South China Sea
+While Australian interests tend to be articulated in material – economic and
+security - terms it has adopted a normative approach to the South China
+Sea. Like all regional states, Australia has an interest in the ways in which
+disputes are potentially fraying maritime order. Projecting a norm-preservationist identity, it’s long-standing position is that disputes over claims and
+maritime rights should be resolved through international law, including
+through accepted methods of negotiation and arbitration (Commonwealth
+of Australia, 2012, pp. 236–237). The most recent Defence White Paper,
+released the same year as the South China Sea arbitral tribunal ruling, presented the disputes as a challenge to the ‘rules-based global order’, affecting Australia’s interest in ‘unfettered access to the global commons’
+(Commonwealth of Australia, 2016, p. 44). It presents Australia’s security
+and prosperity as closely tied to the maintenance of the rules that have
+underpinned the post-World War II global order and are now under challenge by the ‘assertion of associated territorial claims and maritime rights
+which are not in accordance with international law’. The 2017 Foreign
+Policy White Paper also declared the South China Sea ‘a major fault line in
+the regional order’, outlining Australia’s ‘substantial interest’ in ‘this crucial
+international waterway, and in the norms and laws that govern it’
+(Commonwealth of Australia, 2017a, 46).
+In rhetoric, Australian policy-makers advance the normative dimensions
+of the maritime order ahead of a power-based order. However, scholars
+have noted that Australia’s eager use of the ‘rules-based order’ serves as a
+proxy for ongoing US primacy in the region, one that establishes a gap
+between Australia’s own activities and its rhetoric (Bisley & Schreer, 2018;
+Taylor, 2020). There is no clear distinction between ’power’ and a ’rulesbased order’, and he repeated use of the latter term in Australian foreign
+and defence discourses could be considered an iterative security practice
+designed to reinforce preferred power structures. Indeed, Australia’s South
+China Sea discourses signal its concerns about China revising the US-led
+order that has underpinned its peace and prosperity, reflecting in part the
+reality that maritime order is contingent upon the naval capabilities of great
+powers to sustain it. While the ‘rules-based order’ rhetoric may be driven by
+
+THE PACIFIC REVIEW
+
+13
+
+Australia’s efforts to maintain US leadership in the region, policy-makers
+have also expressed concerns about an emerging power-based order that
+perceives ‘might’ as equalling ‘right’. Former Prime Minister Malcolm
+Turnbull (2017) argued that ‘might is not right, where transparent rules
+apply to all’, emphasising that smaller powers could not rely upon great
+powers to protect their interests. Australia takes a normative approach to
+shaping the regional security order because stable and legitimate institutions and predictable patterns of behaviour are beneficial for lesser powers
+disadvantaged in terms of material power capabilities compared with bigger powers (Emmers and Teo 2018).
+Beijing’s maritime revisionism challenges the endurance and viability of
+the maritime norms themselves, which is potentially problematic for
+Australia as UNCLOS provides considerable material benefits that it would
+struggle to defend militarily if the legitimacy of the order collapses. With a
+mainland coastline of approximately 34,000 kilometres, and 12,000 islands
+and islets in addition to its continental landmass, Australia’s defence and
+security policy has long been concerned with maritime security, meaning
+the protection of national interests in the maritime domain from traditional
+and non-traditional security threats. Upholding UNCLOS is important
+because it provides Australia with generous maritime entitlements, and it
+relies upon the legitimacy of international law to claim those rights. Indeed,
+Australia ‘asserts increasingly extensive maritime claims’ (Klein, Mossop, &
+Rothwell, 2010, p. 2), includingan Exclusive Economic Zone (EEZ) of over 10
+million square kilometres, the world’s third largest and much larger than
+the 7.7 million square kilometres continental landmass (Geoscience
+Australia, 2020). Australia’s maritime domain, however, is even larger: following its application to the CLCS in 2008, Australia added marine areas
+equivalent to the size of Western Australia to its continental shelf- approximately 35 per cent of the Australian continental landmass comprising an
+additional 2.5 million square kilometres (ibid; Commission on the Limits of
+the Continental Shelf, 2020). Australia’s population is a third of a percent of
+the global population, raising serious questions about how it could defend
+its claims, including its vast fishing zone, if UNCLOS is challenged.
+Australia anticipates illegal fishing threats to grow in sophistication and
+scale over the next 20 years in its EEZ, particularly in the relatively abundant
+Southern Ocean, which Australia views as a target for long-range illegal
+fishing vessels (Commonwealth of Australia, 2016, p. 53). According to
+Rothwell and Stephens (2004, p. 173), Australia’s region is susceptible to
+Illegal, Unreported and Unregulated (IUU) fishing due to a ‘combination of
+its unique legal regime (a feature of which is an absence of traditional
+coastal state sovereignty), its remoteness and consequential implications
+for effective enforcement of fisheries law, and its relatively unfished waters.’
+
+14
+
+R. STRATING
+
+While the Southern Ocean remains an area of focus, IUU fishing operations
+are also a problem in the Indian Ocean ‘surrounding four sub-Antarctic
+islands, namely the French islands of Kerguelen and Crozet and Australia’s
+Heard and McDonald Islands’ (ibid). Thus, the preservation of maritime rules
+is not merely concerned with salvaging the US-led regional status quo; it is
+also linked to the core strategic defence interests of securing Australian territory, borders, and sovereign rights. In international relations, middle- and
+smaller-sized powers rely upon international law to defend their interests
+and rights against stronger powers. These normative dimensions of maritime order are important for understanding Australian threat perceptions
+and the relationship between material and ideational interests. So what
+techniques does a regional power seeking to defend norms in a time of
+normative contestation employ?
+
+Defending norms under challenge
+Australia’s capacity to defend maritime norms in the case of the South
+China Sea has been heretofore constrained by its close trading relationship
+with China. Wesley (2013, p. 46) has argued that Australia’s hesitant
+approach to South China Sea disputes was motivated by a desire ‘not to
+offend key relationships’. However, subsequent developments have compelled successive governments to take a firmer public stance, leading
+Huynh Tam Sang (2017) to argue that Australia was pursuing ‘risky intervention strategies’ in the South China Sea. Has Australia’s approach really
+evolved from ‘hesitance’ to ‘risky intervention’? The following section analyses Australia’s statecraft in relation to the South China Sea to highlight the
+possibilities and limits of its defence of existing maritime order. Its security
+practices incorporate diplomatic and operational engagements in the South
+China Sea, including routine military presence operations, multilateral
+engagement, public diplomacy strategies and the modelling of international maritime dispute resolution processes. Australia’s approach has
+awkwardly combined a risk-averse approach in its operational policy with a
+preparedness to speak out against China’s actions in its public diplomacy.
+This reflects what Brennan (2017) describes as a ‘muddle through hedge
+and engage strategy’, a descriptor that be applied to Australia’s maritime
+security strategy more generally (Strating, 2020b).
+
+Norm preservation through ‘routinisation’
+There has been much debate around whether Australia should engage in
+Freedom of Navigation Operations (FONOPs). In the public and political discussion, FONOPs have become the threshold for testing Australia’s resolve
+
+THE PACIFIC REVIEW
+
+15
+
+to pushback against Beijing (see for example Commonwealth of Australia,
+2019a, p. 13). Media reports have suggested that the US has encouraged
+Australia to step up by engaging in these types of activities in bilateral
+meetings, and the US President Donald Trump has publicly declared that
+the US would ‘love to have Australia involved’ in freedom-of-navigation
+exercises in the South China Sea (Stewart, 2018). In February 2019, USS
+Spruance and USS Preble for the second time that year sailed within 12 nm
+of Mischief Reef, an artificial island claimed by China. In the same month it
+was reported that the Commander of US Indo-Pacific Command Admiral
+Phil Davidson told a Senate committee that it would look to include allies
+and partners in future FONOPs (Werner, 2019). Law of the sea experts have
+also called upon allies to join the US in asserting legal rights to freedom of
+navigation (Ku 2018; Odom, 2019). Australian discussions tend to refer to
+‘FONOPs’ as warships sailing within 12 nautical miles of Chinese-claimed
+artificial features. This ignores the fact thatthere are several different ways
+in which FONOPs can be employed to defend the US interpretation of international law, including: asserting a general right to freedom of navigation
+under UNCLOS, defending a particular interpretation of ‘innocent’ passage
+and the vessels that may participate in it; challenging the status of artificial
+islands and sovereignty claims to a 12 nm territorial sea; and challenging
+excessive baseline claims. For its part, China objects to what it perceives as
+violations of its sovereignty, sovereign rights, and international law, as
+Chinese law requires prior authorisation of foreign warships passing
+through its territorial waters, a condition that does not accord with US (or
+Australian) legal understandings of freedom of navigation. Yet, FONOPS are
+not limited to the South China Sea; they are part of a global program
+enacted by the US to challenge claims it considers excessive in all maritime domains.
+While the US has increased the regularity of FONOPs in the South China
+Sea under the Trump administration to asserts its interpretation of maritime
+norms, Australia accepts its right to conduct USstyle FONOPs, but does not
+assert it. It was confirmed in Australian parliament that the United
+Kingdom’s Royal Navy ship Albion conducted a FONOP in 2018, although
+this appeared to target Beijing’s invalid archipelagic claims to the Paracel
+island chain rather than transiting within 12nm of an artificial ’island’
+(Commonwealth of Australia, 2019c, p. 96). Australia publicly respects the
+rights of other states to conduct these operations, and reserves the right to
+employ them under international law (Commonwealth of Australia, 2019a,
+p. 13). If Australia does see a right under UNCLOS to sail its warships within
+12 nm of Chinese-held features, it is not one that it is currently keen to
+defend operationally. Former foreign minister Julie Bishop argued that
+Australian FONOPs could escalate tensions in the South China Sea, while
+
+16
+
+R. STRATING
+
+former Chief of Defence Angus Houston suggested that they would draw a
+sharp rebuke from Beijing, with potential economic consequences (Riordan,
+2016; Hutchens, 2017). In his autobiography, former Prime Minister Turnbull
+(2020, pp. 423–424) explained his view that FONOPs were not worth
+the risk:
+[i]f one of our ships were to be rammed and disabled within the 12-mile
+limit by a Chinese vessel, we don’t have the capacity to escalate. If the
+Americans backed us in, then the Chinese would back off. But if Washington
+hesitated or, for whatever reasons, decided not to or was unable
+immediately to intervene, then China would have achieved as enormous
+propaganda win, exposing the USA as a paper tiger not to be relied on by
+its allies.
+
+This passage reveals the strategic calculations of a regional power
+weighing up the risks of using operational assertions to challenge excessive
+claims in an increasingly contested region and the lingering uncertainties
+about the depth of US commitment to its regional allies. While there is
+broad consensus that Beijing’s maritime assertions should be countered,
+perspectives on how to defend the maritime norms in Australia do not correlate along party or ideological lines. The opposition Labor party has been
+mostly in lockstep with the government’s stance, despite individual members such as Richard Marles publicly favouring a stronger approach. Further,
+not all in the Liberal-National Coalition agree with Australia’s FONOP hesitancy. In an op ed in June 2019, demoted minister Concetta FierravantiWells (2019) called Scott Morrison’s cabinet ‘group thinkers’ and ‘appeasers’
+when articulating her support for FONOPs.
+The failure to use FONOPs highlights a gap in the operational and
+declaratory policy and Australia’s reluctance to support the ‘rules-based
+order’ and ‘Indo-Pacific’ rhetoric with substantive action (Chubb, 2018;
+Taylor, 2020). Yet, given how closely these operations are associated with
+US interpretations of freedom of navigation under international law (which
+is not fully shared by a number of other states in the region) it seems reasonable for Australia to distance itself from activities that may encourage
+perceptions in the region – particularly in Southeast Asia - that it is a lacky
+for the US. Australian policy has also needed to be sensitive to the concerns
+of its regional neighbours, which is necessary forstrengthening partnerships
+in line with its ‘Indo-Pacific’ concept, focused as it is on diversifying trade
+and foreign relations.
+The FONOP debate tends to neglect the toolbox of operational strategies
+that Australia’s diplomatic and defence agencies employ in its statecraft.
+Randy Schriver, the former Assistant Secretary of Defence for Asian and
+Pacific Affairs, offered a more nuanced appreciation of Australia’s norm
+defence when he argued that while the US welcomed Australia stepping
+
+THE PACIFIC REVIEW
+
+17
+
+up its naval activities in the South China Sea to assert naval pressure on
+Beijing, this could take the form of ‘just joint patrols, presence operations’,
+if not FONOPs (Stewart, 2018). Australia has indeed stepped up its presence
+since 2014, increasing its naval operations in the South China Sea including
+through its Southeast Asia Deployment (SEAD), maintaining a program of
+activities that avoid breaching the critical 12 nm threshold. According to
+Vice Admiral Michael Noonan, Chief of Navy, in 2014, Australia had five
+ships operating in the South China Sea. By 2018, there were nine. All took
+place in international waters and ‘outside any dispute claims by any state in
+the region’ including the Spratly Islands area (Commonwealth of Australia,
+2019c, p. 95). Australian defence exercises in the South China Sea are typically bilateral or multilateral and include port visits, passage exchange
+(PASSEXs), and coordinated naval activities to develop interoperability with
+partners in and beyond Southeast Asia. While these activities have
+increased, these security practices reflect Australia’s traditional patterns of
+naval engagement in the region.
+The Royal Australian Air Force (RAAF) has also maintained a program of
+maritime surveillance flights over the South China Sea since the Cold War,
+known as Operation Gateway, described as Australia’s contribution to preserving security and stability in Southeast Asia. It was established in
+response to a perceived Soviet threat to Australian interests, particularly the
+use of Cam Ranh Bay in Vietnam as a Soviet base for operations
+(Commonwealth of Australia, 1987, pp. 15–17). Operating out of the
+Butterworth base in Malaysia, a continuous detachment of P3C Orion long
+range maritime patrol aircraft maintain routine surveillance over the South
+China Sea. After the end of the Cold War, Operation Gateway was re-tasked
+to focus on maritime security and is cast as a reflection of Australia’s commitment to the Five Power Defence Arrangements with Malaysia,
+Singapore, the United Kingdom and New Zealand (Commonwealth of
+Australia, 2013, p. 25). The RAAF operates ‘Freedom of Navigation’ overflight patrols in the South China Sea, occasionally invoking the ire of
+Chinese military. In December 2015, for example, an RAAF P-3 Orion came
+close to an artificial island built by China. In response, Beijing’s foreign minister Hong Lei argued that ‘[f]reedom of navigation in the South China Sea
+is not a problem. Countries outside of this area should respect other countries’ sovereignty and not deliberately make trouble’ (BBC, 2015). While
+innocent passage is specific to surface vessels and there is no right of overflight across a territorial sea, Australia claimed that artificial islands do not
+command a 12 nm territorial sea, therefore it was exercising its rights as it
+would in the high seas. These patrols reflect the continuance of security
+practices in the pursuit of regional stability and strengthening defence
+cooperation with Southeast Asian states.
+
+18
+
+R. STRATING
+
+In 2017, as part of its increased regional presence, Australia established
+the Indo-Pacific Endeavour (IPE), the largest joint task group in over
+40 years, which transited through the South China Sea in 2017 and 2019.
+During its inaugural year, a total of eight ships operated in the South China
+Sea for a total of 254 days, compared with 43 days in 2014 (Commonwealth
+of Australia, 2018a, p. 29). As a security practice, the IPE is largely an exercise in regional defence diplomacy and public relations focused on ensuring
+good order at sea. A joint task force commands a naval flotilla that travels
+each year to selected partner states in the Indo-Pacific to conduct security
+cooperation activities. One of the core components of these presence operations is upholding maritime norms through routine practice, including the
+COLREGs (known as the ‘rules of the road’) (ibid). It is a coordinated effort
+involving the three branches of the Australian Defence Force – Army, Navy
+and the Airforce – as well as the Department of Foreign Affairs and Trade
+(DFAT). Defence Force personnel work alongside ‘partner security forces to
+support the development of regional maritime security capacity’ and ‘rulesbased global security’ (Department of Defence, 2018, p. 20). The IPE has
+focused on military-to-military and governmental relations, grassroots
+engagement and public diplomacy, presenting Australia as a ‘partner of
+choice’ in the region with US Marine Rotational Forces-Darwin participating
+in 2019 (Commonwealth of Australia, 2018a, p. 29).
+Other initiatives recognise the interests and sensitivities of Southeast
+Asian partners. There is little doubt that the maritime domain has provided
+fertile ground for defence cooperation with states including Indonesia,
+Philippines and Vietnam. Australia’s Defence Cooperation Program and the
+ASEAN-Australia Defence Postgraduate Scholarship program are designed
+to build the capabilities and capacities of Southeast Asian partners through
+training, personnel exchanges, dialogues, expert exchanges and joint exercises. The aim is to enhance the sovereign capabilities of smaller states to
+police their maritime zones and defend their legal entitlements, and shift
+dependence away from more powerful states. These initiatives include several maritime Southeast Asian states, including Indonesia and Malaysia,
+focusing on maritime capacity building and improving interoperability.
+Australia’s naval operations are performative and routine, combining
+security-oriented activities, diplomacy and narratives that are understood in
+part as contributing to the defence of norms that govern the use of the
+oceans. They are security practices insofar as they are ‘patterned actions
+that are embedded in particular organized contexts and, as such, are articulated into specific types of action and are socially developed through learning and training’ (Adler & Pouliot, 2011, pp. 5–6). While the pace of
+operations has increased in the South China Sea over recent years,
+Australia’s operational policy has largely been focused on ‘routinisation’,
+
+THE PACIFIC REVIEW
+
+19
+
+taking a ‘business-as-usual’ approach that focuses on maintaining the same
+activities in which it regularly engages. ‘Routinisation’ describes both the
+types of security practices undertaken by the Royal Australian Navy, as well
+as the style of transit. Conducting FONOPs would signal a change in
+Australia’s foreign and defence policy, which could precipitate pushback
+from Beijing. Some experts see FONOPs as too risky, too symbolic or
+unnecessary for Australia’s strategic interests, and Bateman (2015a, p. 64)
+has even questioned the legitimacy of FONOPs within territorial seas,
+given that a transit deliberately undertaken to challenge excessive claims
+may not be considered ‘innocent passage’. Unlike the US, Australia has no
+formal, global program for challenging excessive maritime claims. There is
+also the issue that ‘there are waters in Australian territory that the US do
+not recognise under their freedom of navigation program’ (Noonan cited
+in Commonwealth of Australia, 2019c, p. 96). There has been problems
+with the legal messaging of FONOPS in the past, best typified by the
+bungled innocent passage transit by USS Lassen near Subi Reef - an artificial land feature controlled by China - in 2015 (Klein & Rapp-Hopper,
+2015). The operation initially appeared to inadvertently recognise a territorial sea, although no such right is afforded under UNCLOS. Subsequent
+messaging suggested that the target was Thitu Island, a Philippines-occupied rock that commands a 12 nm territorial sea under UNCLOS. In contrast, routine ‘business as usual’ operations have been presented as the
+best way of upholding maritime norms in this contested security
+environment.
+Australia has demonstrated a pragmatic preference for continuity
+(Taylor, 2016). As Foreign Minister Marise Payne has made clear, ‘the US has
+a different international program of what they call ’freedom of navigation
+operations’ which is manifestly different from that in which Australia
+engages … we prosecute our own case for a free, open and prosperous
+Indo-Pacific’ (Commonwealth of Australia, 2018b, p. 131). Former Foreign
+Minister Bishop argued ‘[i]f suddenly Australia unilaterally conducted
+FONOPs against China, it would be the first we have done anywhere in the
+world. That would be an extraordinary step for a country like Australia to
+take when we have never conducted one anywhere’ (Stewart 2018). In that
+sense, while the activities have increased, they reflect the continuance of
+Australia’s existing maritime security practices. The IPE, for example, repackaged and rebranded the sorts of engagements that Australia already conducted. There are three key benefits for routininsation: first, international
+norms are consolidated through stable and habituated practice; second, a
+‘business-as-usual’ approach may avoid further destabilization of the region;
+third, it is viewed as allowing Australia to defend maritime norms in a manner that will avoid provoking retaliation in trade relations from Beijing. The
+
+20
+
+R. STRATING
+
+operations reinforce norms as clear standards of behavior, encouraging predictability in the use of maritime space.
+Yet there are limits to what a regional power can do operationally to
+defend norms. Neither presence operations nor US FONOPs prevented
+China’s salami-slicing or grey zone tactics in the South China Sea. What
+may be described as routine has been cast by at least one member of the
+parliamentary opposition as ‘paralysis’ (Danby cited in Commonwealth of
+Australia, 2017b). This indicates that for some, new challenges to the status
+quo require new ways of defending the preferred vision of regional order.
+In favouring a risk averse approach, Canberra has (at time of writing)
+resisted opportunities for FONOPs and other new non-FONOPs activities,
+such as joint patrols with Southeast Asian neighbour. For example, in 2017,
+Indonesian President Joko Widodo’s openness to the possibility of joint
+Indonesian-Australian patrols was met by ambivalence in Australia
+(Suryadinata and Izzuddin, 2017). While FONOPs and joint patrols remain
+future operational policy options, Australia has preferred its long-standing
+exercises over new initiatives that may be badly received in Beijing.
+
+Regional diplomacy and the code of conduct
+Southeast Asia is a priority region in Australian foreign and defence policy
+and is described as the ‘heart’ of the Indo-Pacific (Adamson, 2019). The
+Turnbull government (2020) pursued stronger ties with ASEAN, culminating
+in the 2018 Australia-ASEAN Special Summit in Sydney. The resultant
+‘Sydney Declaration’ spoke of the countries’ ‘shared views of the importance of the peaceful use of seas and oceans’, espousing the importance of
+maritime safety and security, freedom of navigation and overflight and
+peaceful resolution of conflicts in accordance with UNCLOS. Australian leaders consistently emphasise ASEAN centrality and uses regional multilateral
+architecture such as the East Asian Summit and ASEAN Regional Forum to
+advocate its interests in regional stability and dispute resolution processes
+that conform to international law, including in the South China Sea.
+Australia’s reports on the 13th East Asia Summit and 8th East Asia Summit
+Foreign Ministers’ Meeting in 2018 both noted the South China Sea as the
+first key regional issue discussed (Department of Foreign Affairs and Trade,
+2018b). Former Foreign Minister Julie Bishop, in November 2014 called for
+the ‘peaceful resolution’ of maritime disputes in accordance with ASEAN
+principles (Jones & Smith, 2015). The ‘centrality’ of ASEAN has become a
+prominent feature of Australian Indo-Pacific discourses, including in the
+management of regional disputes and upholding international rules and
+norms. According to the Foreign Minister, Senator Marise Payne, ASEAN
+‘has an absolutely central role in supporting a rules based regional order’
+
+THE PACIFIC REVIEW
+
+21
+
+(Commonwealth of Australia, 2019d). In 2017, China and the ASEAN states
+began negotiating a draft Code of Conduct (CoC) in the South China Sea.
+While Beijing has generally preferred a bilateral approach to negotiating
+with smaller states, the CoC negotiations excluded regional non-claimant
+states, playing into Chinese narratives that this is a local dispute. There are
+substantial obstacles to finalising the text, including finding agreement on
+geographical scope and whether it should be legally binding (Le
+Thu, 2018).
+While Australia has recognised the need for greater cooperation and has
+publicly expressed support of ASEAN states and China negotiating a CoC,
+its public diplomacy simultaneously emphasises the importance of finding
+dispute management strategies that accord with existing international law
+and norms (Commonwealth of Australia, 2016, p. 58). Australia’s stated
+interests in the CoC are four-fold: first, any agreement should not prejudice
+the interests of third parties or the international legal rights of all states;
+second, it should not undermine the existing regional architecture; third,
+the principle of ASEAN centrality should be maintained; and finally, that
+claimant states should express a commitment to ceasing actions that could
+escalate tensions, including militarization and island building
+(Commonwealth of Australia, 2018b, p. 128). A CoC that falls short of obligations and entitlements under existing international law would be considered contrary to Australian interests, and officials have engaged all parties
+to the CoC to advocate these interests in bilateral and multilateral settings.
+While the draft is meant to be private to the parties, elements of the single draft text of the negotiations were leaked in 2018. In the Senate
+Foreign Affairs, Defence and Trade Legislation Committee, DFAT officials
+admitted that if the details were accurate, ‘it has elements which would
+give Australia concern’, including a potential provision that ‘would exclude
+parties not to the code itself to be involved in a natural resource development or potentially exclude those other parties from military exercises’
+(Commonwealth of Australia, 2018b, p. 128; Commonwealth of Australia,
+2019b, p. 112). Such exclusions would be seen to prejudice the interests of
+third parties. It is feasible that Southeast Asian states may view a
+‘pragmatic’ approach to international law as required to manage the disputes. As such, DFAT takes a conditional stance on whether it should be
+legally binding, depending on its content; in other words, a code that
+meets the criteria advocated by Australia should be legally binding
+(Commonwealth of Australia, 2019b, pp. 111–112).
+While ASEAN members have been divided over the South China Sea,
+they have also sought to shape Australia’s approach. Since 2009, for
+example, Australia and Vietnam have strengthened strategic security commitments as they ‘have increasingly shared the traditional and non-
+
+22
+
+R. STRATING
+
+traditional security concerns in the South China Sea’ (Sang, 2017, p. 66). In
+2019, prior to a visit to Hanoi from Prime Minister Morrison, Vietnam’s
+ambassador in Canberra, Ngo Huong Nam, gave an interview in which he
+emphasised their shared interests in ‘maintaining freedom of navigation in
+and overflight above the South China Sea’ (Tillett 2019). This reflected
+Vietnam’s efforts to secure Australian support for its maritime claims that
+were under challenge by the presence of a Chinese survey ship, Haiyang
+Dizhi 8, in its EEZ and continental shelf. According to Huong Le Thu (2019),
+‘Morrison declined to take sides and instead drew a vision of an IndoPacific where sovereignty and independence are respected and no country
+suffers from coercion from another’. Despite the growing importance of
+Vietnam as a strategic partner, this example again highlights Australia’s risk
+aversion vis-a-vis China’s assertions in the South China Sea.
+
+Aligning rhetoric and action
+Public diplomacy constitutes one tool of statecraft that states have
+deployed to advance their interests in upholding their vision of maritime
+norms. While Australia’s public diplomacy has signalled its interests in maintaining a US-led regional order, the narratives have also served as an
+attempt to counter China’s justifications of its maritime claims in the South
+China Sea. Australia’s ‘rules-based order’ discourse intensified in 2016 following China’s refusal to abide by the South China Sea arbitral tribunal ruling: it was used 56 times in the 2016 Defence White Paper, compared with
+nine times in the 2013 Defence White Paper (Bisley & Schreer, 2018, p. 302).
+In 2017, the Australian government reaffirmed its position that the ruling
+was final and binding on both parties (the Philippines and China), and the
+need for parties to resolve disputes according to UNCLOS (Commonwealth
+of Australia, 2017a, pp. 46–47). As a discursive mechanism, the term signalled Australia’s opposition to China’s rejection of international norms.
+Beijing responded publicly and privately to Canberra’s public diplomacy
+by accusing it of hypocrisy, criticising Australia’s actions in its own long-running dispute with Timor-Leste over oil and gas resources in the Timor Sea.
+Timor-Leste’s dispute with Australia centred upon three key issues: whether
+boundaries should be delineated and where they should lie, fair distribution
+of upstream revenues, and how the oil and gas fields should be developed
+(Strating, 2017). The 2002 Timor Sea Treaty - signed on the day of TimorLeste’s independence - established a Joint Petroleum Development Area
+(JPDA) and placed a moratorium on boundary delimitation. Civil society
+organisations criticised the treaty as exploitative, arguing that if a median
+line were drawn according to international law, the JPDA would belong to
+Timor-Leste. Although its legal claim appeared strong, Timor-Leste could
+
+THE PACIFIC REVIEW
+
+23
+
+not afford protracted negotiations as its economy relied upon the expedient development of energy resources. International negotiators acting on
+behalf of Timor-Leste during the UN-led interregnum (1999–2002) encouraged Timorese representatives to adopt a pragmatic approach in dealing
+with a bigger country whose intentions to serve commercial interests was
+well on display. Three months before signing the Timor Sea Treaty,
+Australia withdrew from the compulsory jurisdiction of UNCLOS on maritime disputes resolutions; while this did not violate international law, it
+hardly constituted a strong endorsement of the international dispute resolution mechanisms outlined in UNCLOS.
+While the JPDA was ultimately a successful example of joint development in the maritime domain, agreement on how to develop Greater
+Sunrise – a complex of gas fields straddling the eastern lateral line of the
+JPDA – was elusive. Following Timor-Leste’s independence, the states
+sought to negotiate an agreement on Greater Sunrise development. By
+2004, they had reached a stalemate. A treaty in 2006 (known as CMATS)
+appeared to represent a breakthrough, with an agreed 50:50 split of
+upstream revenues and another moratorium on maritime boundaries.
+However, it failed to resolve the issue of how Greater Sunrise would be
+developed. In advancing its interests, Timor-Leste’s leaders developed a
+public diplomacy campaign centred upon maritime boundaries, arguing
+that Australia was unfairly denying the state its maritime legal rights and
+that the CMATS should be invalidated. Controversy erupted when it was
+revealed that Australia spied on Timor-Leste during the 2004 negotiations.
+In 2013, Timor-Leste took Australia to an international court, arguing that
+the spying contravened the 1969 Vienna Convention on the Law of
+Treaties. This was one of three legal proceedings initiated by Timor-Leste
+against Australia.
+In 2016, Timor-Leste initiated the world’s first United Nations
+Compulsory Conciliation process to help resolve the Timor Sea disputes.
+Australia initially disputed its jurisdiction, drawing parallels with China’s
+response to the arbitration proceedings brought against it by the
+Philippines (Beeson & Chubb, 2019). In September 2016, the Conciliation
+Commission issued a decision that it was competent to conduct the conciliation proceedings (United Nations Compulsory Conciliation, 2016). While
+Foreign Minister Bishop emphasised that any report produced by the
+Commission would be ‘non-binding’ –seeking to distance proceedings from
+the binding nature of the South China Sea Arbitral Tribunal - Australian officials nevertheless committed Canberra to participating in good faith
+(Minister for Foreign Affairs, 2016).
+Australia came under increasing pressure domestically and internationally to deal with the Timor Sea issue in accordance with its own ‘rules-
+
+24
+
+R. STRATING
+
+based order’ rhetoric directed at Beijing. Journalist David Wroe reported
+that China had ‘publicly and privately used Australia’s protracted dispute
+over its maritime boundary with East Timor to accuse Canberra of hypocrisy when it raises its concerns over Beijing’s behaviour in the South China
+Sea’ (Wroe, 2018). While Australian representatives sought to defend the
+CMATS as being within the ‘rules-based order’ – that is, not technically
+violating international law - this did not protect Australia against claims of
+hypocrisy (Cox, 2016). The ambiguity about the validity of CMATS and
+Australia’s spying actions, coupled with its persistent denial of negotiating
+boundaries, allowed China and others to cast Australia as holding double-standards.
+During this time of normative contestation in the maritime domain,
+Australia’s position became untenable. The new Timor Sea Treaty, signed in
+2018 and ratified in August 2019, replaced the problematic CMATS and provided a tangible example of Australia’s commitment to international rules
+(Department of Foreign Affairs & Trade, 2018a, 2018b). In Parliament, for
+instance, Bishop described the signing as a ‘landmark for international law
+and the rules-based order’ (Commonwealth of Australia, 2018c, 2685). The
+treaty allowed Australia to kill off a persistent irritant in the bilateral relationship, while simultaneously filling a strategic need for Australia to ‘match
+words with deeds’. Yet it showed how it ultimately became ensnared in its
+own rhetoric: while intending to pressure China into conforming to
+UNCLOS in the South China Sea, the risks posed by normative contestation
+ultimately forced Australia to move to a more legally viable position
+(Strating, 2019).
+Australia’s actions in the Timor Sea dispute challenged assertions that
+Canberra prefers an approach to international relations based on rule of
+law (Wesley, 2013, p. 47). Historically, Australia has adopted a flexible pragmatism to international maritime law when it has suited its interests.
+Australia’s maritime claims have at times been deemed as excessive by
+international lawyers and other states, including its questionable 2 million
+square km EEZ claim in the Southern Ocean off the coast of Australian
+Antarctic Territory (Strating, 2020a). It has also sought to restrict freedom of
+navigation in its laws and security practices, including through introducing
+a compulsory pilotage law in the Torres Strait, declaring prohibited anchorage areas in its EEZ, and introducing mandatory ship reporting in parts of
+its EEZ (Bateman, 2015a, p. 62).In the Timor Sea example, Australia was
+clearly the more powerful state, but as a regional power, it had a stake in
+ensuring that international law remained the legitimate means by which
+states assert and protect their entitlements. Nevertheless, it highlights the
+limits of a ‘rules’ focused discourse when Australia’s own compliance
+remains in doubt.
+
+THE PACIFIC REVIEW
+
+25
+
+Conclusion
+The South China Sea is totemic of a shifting balance of power that is reordering the region and presenting new dilemmas for regional states in how
+they calibrate their relations with great powers. This paper set out to understand how regional powers seek to defend existing norms during periods
+of normative contestation, using Australia’s South China Sea statecraft as a
+case study of the limits and possibilities in responding to illegitimate assertions in the maritime domain. For a regional power like Australia – wedged
+as it is between two great powers in security and trade - developing security practices to effectively defend maritime norms is difficult. The central
+paradox for Australia lies in its efforts to defend maritime norms while
+avoiding retaliation from China. As White (2017) observed, ‘China’s neighbours are worried about its growing assertiveness, but none of them so far
+have been willing seriously to damage their relationship with China,
+let alone risk a conflict, by standing up to Beijing.’ On the one hand,
+Australian policy makers have occasionally adopted strident messaging on
+the South China Sea, even if it meant risking economic retaliation from
+Beijing. On the other, it has demonstrated a reluctance to engage in new
+operational practices to defend some of the international legal rights it
+asserts in the maritime domain, mostly notably in its unwillingness to conduct FONOPs within 12 nm of Chinese-claimed features. While some have
+argued that Canberra’s South China Sea rhetoric has contributed to deteriorating relations with Beijing, others have encouraged it to advocate a stronger position against China’s assertive activities (Le Thu, 2019). Australian
+statecraft has sought to emphasise the normative dimensions of maritime
+order ahead of power-based conceptions, depending upon routinised
+security practices, incorporating diplomatic, discursive and defence components. The intent has been to support a normative order without provoking
+its dominant challenger, China.
+On 23 July 2020, following a US statement along similar lines, Australia
+released a note verbale clarifying its legal position on the invalidity of
+China’s maritime claims in the South China Sea, including ‘historic rights’.
+This clarification reflects an evolution in Australia’s normative approach.
+Yet, there are limitations to a normative approach: the gap in action and
+rhetoric opens Australia to accusations that it is a ‘paper cat’. While
+Australian policy-makers again resisted US pressure to conduct FONOPs,
+some defence analysts in Australia encouraged Canberra to take a more
+assertive stance on the South China Sea, including the use of
+FONOPs.Additionally, a Lowy Institute poll (2016) found 74 per cent of
+Australian respondents supported their use. Yet, this article outlined a
+range of issues with Australia conducting US-style FONOPs. Instead, it
+would be preferable for Australia to take an Asia-focused approach by
+
+26
+
+R. STRATING
+
+committing to joint patrols, establishing coalitions of interest and continuing to strengthen relations with Southeast Asian states, including in
+defence, diplomacy, trade and development (see Taylor & Tow, 2016).
+Australia’s stance reflects the broader problems of formulating policy in
+response to China’s rise. Regional powers have to cope with multiple uncertainties, including: what control means in strategic maritime domains; China’s military intentions; US commitment to defending its allies and the rules-based
+order; and, the changing naval balance of power and implications for the ‘hub
+and spoke’ alliance system. While the ‘rules-based order’ may be a way for
+Australian policy-makers to talk about China without talking about China,
+beneath the rhetoric is a substantive interest in preserving a maritime order
+based on ‘right over might’. This reflects Australia’s status as a regional power
+possessing relatively limited military capabilities for defending its vast maritime
+entitlements against a potentially more powerful aggressor. Any revision of the
+current maritime order would potentially put Australia’s own maritime entitlements at risk; therefore, it has an obvious stake in maintaining the existing legal
+order. While continuity and routinisation are dominant themes in Australia’s
+approach, there has been one area of significant change in Australia’s pursuit of
+its material interests: its Timor Sea policy. This example demonstrates how
+rules-based discourses can compel states to adjust long-standing realpolitik
+approaches to specific issues. The implications of the South China Sea disputes
+for non-regional claimant states, then, should be interpreted as inextricably
+linked to a broader set of security and economic challenges.
+
+Note
+1.
+
+This article uses Carr’s (2019) conception of Australia as transitioning from a global
+middle power to a ‘regional power’ as it relocates ‘its core national interests towards
+the “inner ring”, i.e. the South Pacific and maritime Southeast Asia.’
+
+Disclosure statement
+No potential conflict of interest was reported by the author(s).
+
+Notes on contributor
+Dr Rebecca Strating is currently the Executive Director of La Trobe Asia and a
+Senior Lecturer in the Department of Politics, Media and Philosophy at La Trobe
+University, Melbourne.
+
+ORCID
+Rebecca Strating
+
+http://orcid.org/0000-0002-7695-130X
+
+THE PACIFIC REVIEW
+
+27
+
+References
+Adamson, F. (2019, April 29). Speech: The indo-pacific: Australia’s perspective. Kuala
+Lumpur.
+Adler, E., & Pouliot, V. (2011). International practices. International Theory, 3(1), 1–36.
+doi:10.1017/S175297191000031X
+Australian Associated Press. (2019, September 10). Liberal MP Gladys Liu refuses to
+say China’s actions in South China Sea unlawful. The Guardian.
+Bateman, S. (2016, March 10). Australia’s flawed position on the South China Sea.
+East Asia Forum.
+Bateman, S. (2015a). Some thoughts on Australia and the freedoms of navigation.
+Security Challenges, 11(2), 57–66.
+Bateman, S. (2015b, May 28). What are Australia’s interests in the South China Sea?
+The Strategist. Australian Strategic Policy Institute.
+Bateman, S. (2020). Freedoms of navigation in the Asia-Pacific region. Oxon, UK:
+Routledge.
+BBC. (2015, January 15). Australia conducting ’freedom of navigation’ flights in South
+China Sea. BBC.
+Beckley, M. (2017). The emerging military balance in East Asia: How China’s neighbors can check Chinese naval expansion. International Security, 42(2), 78–119. doi:
+10.1162/ISEC_a_00294
+Beeson, M., & Chubb, A. (2019). Australia, China and the maritime ‘rules-based international order’: Comparing the South China Sea and timor sea disputes.
+International Relations of Asia-Pacific. doi:10.1093/irap/lcz022.
+Bekkevold, J.I., & Till, G. (2016). International order at sea: What it is. How it is challenged. How it is maintained. In J.I. Bekkevold and G. Till (Eds.), International order
+at sea: How it is challenged. How it is maintained (pp. 3–14). London: Palgrave
+Macmillan.
+Bisley, N., & Schreer, B. (2018). Australia and the rules-based order in Asia: Of principles and pragmatism. Asian Survey, 58(2), 302–319. doi:10.1525/as.2018.58.2.302
+Brennan, E. (2017). Out of the “Slipstream” of Power? Australian grand strategy and
+the South China Sea disputes. Stockholm: Institute for Security and Development
+Policy.
+Carr, A. (2019, September). No longer a middle power: Australia’s strategy in the
+21st century. Focus Strategique 92.
+Center for Strategic and International Studies. (2019). How much trade transits the
+South China Sea? Washington DC: Center for Strategic and International Studies.
+Chubb, A. (2018, October). Is there a problem with Australia’s South China Sea policy? China Matters Explores.
+Commission on the Limits of the Continental Shelf. (2020). Outer limits of the continental shelf beyond 200 nautical miles from the baselines: Submissions to the
+Commission: Submission by Australia. Retrieved from https://www.un.org/Depts/
+los/clcs_new/submissions_files/submission_aus.htm
+Commonwealth of Australia. (2013). Defence WhitePaper. Australia: Department of
+Defence.
+Commonwealth of Australia. (1987). Defence white paper. Australia: Department of
+Defence.
+Commonwealth of Australia. (2012). Australia in the Asian century white paper.
+Australia: Department of Defence.
+
+28
+
+R. STRATING
+
+Commonwealth of Australia. (2016). Defence white paper. Australia: Department of
+Defence.
+Commonwealth of Australia. (2017a). Foreign policy white paper. Australia:
+Department of Foreign Affairs and Trade.
+Commonwealth of Australia. (2017b, March 30). Parliamentary debates. House of
+Representatives.
+Commonwealth of Australia. (2017c, November 30). Parliamentary debates. Senate.
+Commonwealth of Australia. (2017d, December 5). Parliamentary debates. House of
+Representatives.
+Commonwealth of Australia. (2018a, October 24). Foreign affairs, defence and trade
+legislation committee. Senate.
+Commonwealth of Australia. (2018b, October 25). Foreign affairs, defence and trade
+legislation committee. Senate.
+Commonwealth of Australia. (2018c, March 26). Parliamentary debates. House of
+Representatives.
+Commonwealth of Australia. (2019a, February 20). Foreign affairs, defence and trade
+legislation committee. Senate.
+Commonwealth of Australia. (2019b, February 21). Foreign affairs, defence and trade
+legislation committee. Senate.
+Commonwealth of Australia. (2019c, April 10). Foreign affairs, defence and trade legislation committee. Senate.
+Commonwealth of Australia. (2019d, July 30). Parliamentary debates. Senate.
+Cox, A. (2016, March 4). Timor sea treaties show Australia’s commitment to rulesbased order. Lowy Interpreter, Lowy Institute.
+Deitelhoff, N., & Zimmerman, L. (2019). Norms under challenge: Unpacking the
+dynamics of norm robustness. Journal of Global Security Studies, 4(1), 2–17. doi:10.
+1093/jogss/ogy041
+Deitelhoff, N., & Zimmermann, L. (2013). Things we lost in the fire. How different types
+of contestation affect the validity of international norms (HSFK Arbeitspapiere 18).
+Frankfurt: Hessische Stiftung Friedens- und Konfliktforschung.
+Department of Defence. (2018). Annual report 2017–2018. Canberra: Department of
+Defence.
+Department of Foreign Affairs and Trade. (2018a). Australia and timor-leste maritime
+boundaries: Rules-based order in action. Retrieved from http://dfat.gov.au/geo/
+timor-leste/Documents/aus-timor-maritime-boundary-fact-sheet.pdf
+Department of Foreign Affairs and Trade. (2018b). East Asia Summit. Retrieved from
+https://www.dfat.gov.au/international-relations/regional-architecture/eas/Pages/
+east-asia-summit-eas
+Emmers, R., & Teo, S. (2018). Security Strategiesof Middle Powers in the Asia-Pacific.
+Melbourne: Melbourne University Press
+Fierravanti Wells, C. (2019, June 7). Hold the line on Beijing’s power posturing. The
+Australian.
+Finnemore, M., & Sikkink, K. (1998). International Norm Dynamics and Political Change.
+International Organization, 52 (4), 887–917. doi:10.1162/002081898550789
+Gao, Z., & Jia, B.B. (2013). The nine-dash line in the South China Sea: History, status
+and implications. American Journal of International Law, 107(1), 98–123. doi:10.
+5305/amerjintelaw.107.1.0098
+Geoscience Australia. (2020). The Law of the Sea. Retrieved from https://www.ga.
+gov.au/scientific-topics/marine/jurisdiction/law-of-the-sea.
+
+THE PACIFIC REVIEW
+
+29
+
+Goldrick, J. (2019, November 21). Chinese military strategic perspective and its military aims in the South China Sea. Australian Outlook.
+Guilfoyle, D. (2019a). The oceans. In G. Nagtzaam, E. van Hook, and D. Guilfoyle
+(Eds.), International environmental law: A case study analysis. Abingdon UK:
+Routledge.
+Guilfoyle, D. (2019b). The rule of law and maritime security: Understanding lawfare
+in the South China Sea. International Affairs, 95(5), 999–1017. doi:10.1093/ia/iiz141
+Hamilton, C. (2018). Silent Invasion: China’s influence in Australia. Richmond, Australia:
+Hardie Grant.
+Hayton, B. (2014). The South China Sea and the Struggle for Asia. New Haven: Yale
+University Press.
+Holmes, J. (2019, January 20). Time to use China’s A2/AD military strategy against
+them. National Interest. https://nationalinterest.org/blog/buzz/time-use-chinasa2ad-military-strategy-against-them-42012.
+Hutchens, G. (2017, February 21). Australia should not join US in South China Sea
+operations, says retired defence chief. The Guardian.
+Jones, D.M., & Smith, M.L.R. (2015, November 24). Can Asean ever solve the South
+China Seas dispute through multilateral dialogue? The Telegraph.
+Kaplan, R. (2011, August 15). The South China Sea is the future of conflict. Foreign
+Policy.
+Kardon, I. (2018). China Can Say "No": Analyzing China’s Rejection of the South China
+Sea Arbitration. University of Pennsylvania Asian Law Review, 13, 1–46.
+Karotam, C. (2017). Are Australia’s national interests jeopardised by a South China Sea
+dominated by China? Canberra: Indo-Pacific Strategic Digest.
+Kaye, S. (2008). Freedom of navigation in the Indo-Pacific region. Canberra: Sea Power
+Centre.
+Klein, A., & Rapp-Hopper, M. (2015, November 6). An answer to the innocent passage
+mystery? Lawfare.
+Klein, N., Mossop, J., & Rothwell, D. (2010). Australia, New Zealand and Maritime
+Security. In N. Klein, J. Mossop & D. Rothwell (Eds.), Maritime security: International
+law and policy perspectives from Australia and New Zealand. Abingdon, UK:
+Routledge.
+Koh, T. (2019). Building a new legal order for the oceans. Singapore: National
+University of Singapore.
+Kraska, J., & Pedrozo, R. (2013). International Maritime Security Law. Leiden: Brill.
+Kraska, J., & Pedrozo, R. (2018). The free sea: The American fight for freedom of navigation. Annapolis, US: Naval Institute Press.
+Ku, J. (2018, February 28). The British are coming to the South China Sea, and it’s
+about time. Lawfare.
+Lacey, J. (2020, January 9). Battle of the bastions. War on the Rocks.
+Le Thu, H. (2018, July 13). The dangerous quest for a code of conduct in the South
+China Sea. Asia Maritime Transparency Initiative.
+Le Thu, H. (2019, August 28). Morrison bolsters bilateral ties while avoiding China
+rhetoric in Vietnam. The Strategist. Australian Strategic Policy Institute.
+Lowy Institute. (2016). Lowy Institute Poll. Retrieved from https://www.lowyinstitute.
+org/publications/lowy-institute-poll-2016
+Martin, S. (2019, September 11). Labor targets PM over Gladys Liu’s alleged links to
+Chinese Communist party. The Guardian.
+Minister for Foreign Affairs. (2016). Press Release. Retrieved from https://foreignminister.gov.au/articles/Pages/2016/jb_ar_160830.aspx
+
+30
+
+R. STRATING
+
+Morton, K. (2016). China’s ambition in the South China Sea: Is a legitimate maritime
+order possible? International Affairs, 92(4), 909–940. doi:10.1111/1468-2346.12658
+Murphy, K. (2017, November 29). Sam Dastyari: Senator recorded contradicting
+Labor on South China Sea. The Guardian.
+Odom, J.G. (2019). Maritime claims in the South China Sea and freedom of navigation operations. In T. Tran, J. Welfield, and T. Le (Eds.), Building a normative order
+in the South China Sea: Evolving disputes, expanding options (pp. 171–194).
+Cheltenham, UK: Edward Elgar.
+People’s Republic of China. (2009, May 7). Note verbale: CML 17/2009. Retrieved
+from
+https://www.un.org/Depts/los/clcs_new/submissions_files/mysvnm33_09/
+chn_2009re_mys_vnm_e.pdf
+Riordan, P. (2016, July 13). Julie Bishop warns freedom of navigation exercises will
+escalate tensions. Financial Review.
+Roberts, C. (2018). ASEAN, the “South China Sea” arbitral award, and the code of
+conduct: New challenges, new approaches. Asian Politics & Policy, 10 (2), 190–218.
+doi:10.1111/aspp.12391
+Rothwell, D., & Stephens, T. (2004). Illegal Southern Ocean fishing and prompt
+release: Balancing coastal and flag state rights and interests. International and
+Comparative Law Quarterly, 53(1), 171–187. doi:10.1093/iclq/53.1.171
+Ryan, F. (2015, Wednesday 23). China admonishes Malcolm Turnbull on South China
+Sea comments. The Guardian.
+S. Rajaratnam School of International Studies (RSIS). (2017, March 7). Understanding
+freedoms of navigation—ASEAN perspectives. Event report.
+Sang, H.T. (2017). Australia’s engagement in the South China Sea under the prospect
+theory approach and implications for Australia-Vietnam relations. Asian Culture
+and History, 9 (2), 60–70.
+Schofield, C., & Storey, I. (2009). South China Sea dispute: Increasing stakes and rising
+tensions. Washington, DC: The Jamestown Foundation.
+Stewart, C. (2018, December 28). Pentagon urges allies to step up South China Sea
+patrols. The Australian.
+Stewart, C. (2018, July 23). US tells Australia to take on China over disputed islands.
+The Australian.
+Strating, R. (2017). Timor-Leste’s foreign policy approach to the Timor Sea: Pipeline
+or pipedream? Australian Journal of International Affairs, 71(3), 259–283. doi:10.
+1080/10357718.2016.1258689
+Strating, R. (2018). Maritime territorialization, UNCLOS and the timor sea dispute.
+Contemporary Southeast Asia, 40 (1), 101–125. doi:10.1355/cs40-1e
+Strating, R. (2019). A “new chapter” in Australia–Timor bilateral relations? Assessing
+the politics of the timor sea maritime boundary treaty. The Australian Year Book of
+International Law, 36(1), 58–68. doi:10.1163/26660229_03601005
+Strating, R. (2020a). Defending the Maritime Rules-based Order: Regional non-claimant
+states and the South China Sea disputes. Honolulu, US: East West Center.
+Strating, R. (2020b). Strategy at sea: A Plan B for Australian maritime security?
+Security Challenges, 16 (2), 58–70.
+Suryadinata, L., & Izzuddin, M. (2017, March 3). Mismatched Expectations in Jokowi’s
+Maiden Visit to Australia. The Diplomat.
+Taylor, B. (2014). The South China Sea is not a flashpoint. The Washington Quarterly,
+37(1), 99–111. doi:10.1080/0163660X.2014.893176
+
+THE PACIFIC REVIEW
+
+31
+
+Taylor, B. (2016). Australia and Asia’s maritime disputes: Continuity amidst Chaos.
+The Asan Forum, 4 (1), http://www.theasanforum.org/australia-and-asias-maritimedisputes-continuity-amidst-chaos/.
+Taylor, B. (2020). Is Australia’s Indo-Pacific strategy an illusion? International Affairs,
+96 (1), 95–109. doi:10.1093/ia/iiz228
+Taylor, B., & Tow, B. (2016). Australia debates the South China Sea: Is there a Third
+Way? In The South China Sea: Middle power perspectives (pp. 2–5).Centre of Gravity
+series paper 27, Canberra: Australian National University.
+Tillett, A. (2019, August 22). Vietnam’s South China Sea plea to Morrison. Australian
+Financial Review.
+Turnbull, M. (2017, June 3). Keynote address at the 16th IISS Asia security summit.
+Shangri-La Dialogue.
+Turnbull, M. (2020). A Bigger Picture. Richmond: Hardie Grant.
+United Nations Compulsory Conciliation. (2016, September 19). Decision on
+Australia’s objections to competence.
+United States Department of Defense. (2019). Indo-Pacific strategy report:
+Preparedness, partnerships, and promoting a networked region. Washington DC:
+United States Department of Defense.
+Welsh, J. (2019). Norm robustness and the responsibility to protect. Journal of Global
+Security Studies, 4(1), 53–72. doi:10.1093/jogss/ogy045
+Werner, B. (2019, February 12). Future South China Sea FONOPS will include allies,
+partners. US Naval Institute News.
+Wesley, M. (2013). Australia’s interests in the South China Sea. In L. Buszynski and C.
+Roberts (Eds.), The South China Sea and Australia’s regional security environment.
+Canberra: National Security College.
+White, H. (2017, June 26). South China Sea: US policy must begin at home. Lowy
+Institute, Lowy Interpreter.
+Wiener, A. (2008). The invisible constitution of politics: Contested norms and international encounters. Cambridge: Cambridge University Press.
+Wiener, A. (2014). A theory of contestation. Heidelberg, Germany: Springer.
+Wiener, A. (2018). Contestation and constitution of norms in global international relations. Cambridge: Cambridge University Press.
+Wirth, C. (2019). Whose ‘Freedom of Navigation’? Australia, China, the United States
+and the making of order in the ‘Indo-Pacific. The Pacific Review, 32(4), 475–504.
+doi:10.1080/09512748.2018.1515788
+Wroe, D. (2018, March 6). Australia’s new maritime deal fuelled by fears of regional
+disorder amid China’s rise. Sydney Morning Herald.
+
+

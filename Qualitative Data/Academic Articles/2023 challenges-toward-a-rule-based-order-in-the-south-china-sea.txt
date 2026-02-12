@@ -1,0 +1,994 @@
+Research Article
+
+Challenges Toward a
+Rule-based Order in
+the South China Sea
+
+Journal of Asian Security
+and International Affairs
+10(2) 169–189, 2023
+© The Author(s) 2023
+Article reuse guidelines:
+in.sagepub.com/journals-permissions-india
+DOI: 10.1177/23477970231173539
+journals.sagepub.com/home/aia
+
+Ai Nhan Ho1
+Abstract
+This article discusses and analyses the various challenges that countries are facing
+in maintaining a rules-based order as an important condition for the direction of
+peace, stability, and development of the South China Sea area. Within the scope
+of the article, the challenges identified and discussed are (a) China’s assertive
+actions and behaviours; (b) negative international practices; (c) the ambiguity of
+international law provisions, particularly the 1982 United Nations Convention on
+the Law of the Sea; (d) ineffective international law enforcement; and (e) challenges
+from the counterbalance and competition for international influence among great
+powers. Given these challenges and the increasingly complex situation of the region,
+the research demonstrates that the future of any rules-based order in the South
+China Sea will be increasingly contested, in which the efforts and determination of
+a few individual regional countries are far from enough.
+Keywords
+Rule-based order, South China Sea, the UNCLOS, China, the United States,
+ASEAN
+
+Introduction
+Maintaining a peaceful, stable, and developing South China Sea is what many
+countries, both inside and outside the region, are seeking. With the favourable
+geographical position and natural features of the South China Sea, the peace and
+stability of the region will bring many socio-economic benefits to countries in the
+region as well as the prosperity and development of the world. To that end, one
+of the critical factors is to effectively develop and maintain a rules-based order in
+the South China Sea. An order in which states behave towards each other based
+1
+
+Department of International Law, University of Law—Hue University, Hue City, Vietnam
+
+Corresponding author:
+Ai Nhan Ho, Department of International Law, University of Law—Hue University, Vo Van Kiet
+Road, Hue City 49100, Vietnam.
+E-mail: hnhanai@hueuni.edu.vn
+
+170		
+
+Journal of Asian Security and International Affairs 10(2)
+
+on progressive principles and standards widely recognised in international law and
+practice. An order that does not recognise and tolerate acts of hegemony, threats to
+use force, and violations of justice. An order that allows states to equally enjoy their
+legitimate rights and interests within the framework of international law and norms.
+In recent years, however, the dispute situation in the South China Sea has
+changed in a complicated direction with a series of unilateral actions by the
+countries involved. Notably, with its growing economic and military power, China
+has continuously demonstrated its hegemonic role in illegally encroaching,
+reclamation, and militarising many geographical features in the South China Sea,
+in order to strengthen its position in the region (Strating, 2020, p. 5). In addition,
+this country also regularly threatens and obstructs other regional countries’ rights
+to use the sea and ocean (Lye & Ha, 2018, pp. 2–3; Kuok, 2019, pp. 4–5), makes
+illegal claims to its sovereignty and jurisdiction in the South China Sea, and
+imposes laws contrary to international law and norms (Nguyen, 2021; McLaughlin,
+2020). These have threatened the rule of law, justice, and the international legal
+order of the today civilised and progressive world.
+Besides China with growing ambitions and expansion plans, the ambiguity of
+international law provisions and the ineffectiveness of the current international law
+enforcement mechanism have hindered the development of a rules-based order in
+the South China Sea. In addition, the practice of negative relations between great
+powers and smaller states in solving global problems and strategic competition for
+international influence among great powers have also created difficulties and
+obstacles to maintaining a rules-based order in the South China Sea.
+The article discusses and analyses the various challenges that countries are
+facing in maintaining a rules-based order as an essential condition for the direction
+of peace, stability, and development of the South China Sea area. Within the scope
+of the article, the challenges identified and discussed are (a) China’s assertive
+actions and behaviours; (b) negative international practices; (c) the ambiguity of
+international law provisions; (d) ineffective international law enforcement; and
+(e) challenges from the counterbalance and competition for international influence
+among great powers. Given these challenges, the research demonstrates that the
+future of any rules-based order in the South China Sea will be increasingly
+contested, in which the efforts and determination of a few individual regional
+countries is far from enough.
+
+Overview of South China Sea Disputes and
+the Settlement Process
+Considered a place rich in natural resources and trade, the South China Sea has
+been a strategically significant area for countries inside and outside the region.
+In addition to an estimation of approximately $5 trillion in global trade flows
+through the region each year (Cordesman et al., 2019), the South China Sea
+has been known as an area of abundant natural gas and hydrocarbon reserves
+(Hayton, 2015, p. 149). Countries including China, Vietnam, Malaysia, Brunei,
+the Philippines, and Taiwan have been involved in various complex disputes over
+
+Ho
+
+171
+
+islands, rocks, reefs, and archipelagos in the South China Sea (Strating, 2020,
+pp. 5–8). The South China Sea disputes are complex, as they cover different aspects
+of maritime conflicts and arguments, including territory sovereignty, overlapping
+territories, and the interpretation and application of international law, notably the
+1982 United Nations Convention on the Law of the Sea (the UNCLOS).
+The disputes over the South China Sea have become increasingly complicated
+that have led to tensions that threaten the peace and prosperity of the region,
+especially since the legal proceedings initiated by the Philippines in 2013 to
+challenge China’s unreasonable claims and illegal activities in the South China
+Sea (The South China Sea Arbitration, 2016). The Arbitral Award in 2016 rejected
+almost all claims made by China in the South China Sea. It brought hope to
+countries in the region in managing conflicts, reducing tensions, and settling
+disputes. However, after six years since the Award, while Vietnam and ASEAN
+are patiently negotiating with China to find a solution to the disputes, China has
+increased its encroachment and reclamation activities and militarisation of
+maritime features (Strating, 2020, p. 5), provocation and obstruction of other
+states’ rights to use the sea (Lye & Ha, 2018, pp. 2–3; Nguyen, 2021). That amount
+of time has also witnessed a strong reaction from the international community to
+China’s unreasonable and illegal claims, of which the ‘battle of diplomatic notes
+in 2020’ (Odom, 2020; Nguyen, 2022) calling China to respect and implement the
+Arbitral Award, was a typical example. In addition, the United States—the country
+that most strongly opposes China’s claims—has continued to strengthen its
+presence in the South China Sea with the ‘Freedom of Navigation Operations’
+campaign (FONOPs) (United States Ocean Policy, 1983) to contest and challenge
+China’s claims that are believed to impede the right of ‘freedom of navigation’.
+For nearly three decades, a Code of Conduct (COC) has often been considered
+an appropriate approach for China and the Association of Southeast Asian Nations
+(ASEAN) to manage conflicts, deescalate tensions, and maintain peace and
+security in the South China Sea (Hayton, 2021). However, despite being started
+more than 25 years ago, the COC negotiation process has taken place slowly, with
+different positions and motivations of countries involved (Chang, 2020). In 2002,
+China and ASEAN could not agree on many important issues; therefore, they
+came to accept the Declaration on the Conduct of Parties in the South China Sea
+and agreed to continue the negotiations for a COC in the future (Nguyen &
+Nguyen, 2015). After years of delay and hesitation, in 2013, China unexpectedly
+agreed to begin formal consultations on a COC. Furthermore, it took nearly four
+years for Chinese and ASEAN officials to agree on a framework for a COC that
+would serve as the basis for negotiations. However, it was not until 2018 that the
+parties agreed on the single draft negotiating text of the COC in the South China
+Sea (the ‘single draft’) as the foundation for the ongoing negotiation process for
+concluding a COC (Thayer, 2018). A few more years have passed since the single
+draft was introduced, but no substantial negotiation progress has been made, and
+the future of the COC still remains uncertain.
+Regionally, keeping peace and stability has been seen as critically significant
+for the development and prosperity of the South China Sea. To that end,
+maintaining and strengthening a rule-based order might contribute to managing
+
+172		
+
+Journal of Asian Security and International Affairs 10(2)
+
+conflicts, deescalating tensions, and building peace for the region. Nevertheless,
+first, what is a rule-based order?
+
+On the Concept of a Rule-based Order
+The term ‘rule-based order’ is believed to be traced back to the post-World War
+II world order with the advent of the United Nations and related institutions
+(Basu, 2021). The rule-based order is based on a framework of liberal political
+and economic rules embodied in a network of international organisations and
+regulations and shaped and enforced by the most powerful nations (Chatham
+House—The Royal Institute of International Affairs, 2015). This is a term
+associated with the United States’ view of the international order, including the
+liberal international order and the international rule of law (Basu, 2021), in which
+the United Nations is considered to be the centre of this order (Stefan, 2019). So,
+how is the concept of ‘rules-based order’ understood?
+At its most basic, the rules-based order (RBO) refers to the rules, standards,
+and institutions that govern and shape the behaviours and interactions of sovereign
+states and other actors in the global system (Jorgensen, 2018, p. 6). In the
+international community, countless principles, regulations, and practices have
+been formed and recognised to regulate the multifaceted relations between states
+and other subjects of international law. The implementation and observance of
+these principles and rules will create an order toward which states and other
+international community actors work and cooperate. In an RBO, countries commit
+to acting according to agreed rules and standards. It is an order that is agreed upon
+and changed only through multilateral institutions and diplomacy (Layton, 2021)
+aiming at more progressive values and norms.
+In general, RBO is a concept that covers different areas of international
+relations, including international law, regional security arrangements, trade
+agreements, immigration protocols, cultural arrangements, transnational crime
+issues, challenges to non-traditional security, or the problem of responding to
+natural disasters on a global scale (United Nations Association of Australia, 2017).
+The formation of an RBO is primarily aimed at the interests of the international
+community, such as creating cooperative relationships between countries to
+ensure security, stability, and welfare for all. Therefore, the ultimate goal of the
+RBO in today’s world is to ensure that all nations can share in the benefits of
+peace and prosperity (Jorgensen, 2018, pp. 6–7). To that end, states and other
+actors must act in unison according to recognised and agreed international
+principles and standards. For example, within the context of maritime disputes,
+the concept of RBO is simplified by late Prime Minister Shinzo Abe of Japan in
+his 2014 Shangri-La Dialogue remarks: (a) states shall make their claims based on
+international law; (b) states shall not use force or coercion in advancing their
+claims; and (c) states shall seek to settle disputes by peaceful means (Shinzo
+Abe’s Keynote, 2014). In other words, they must limit themselves to an ‘order’ for
+their interests and the common benefits of the international community. More
+importantly, those behaviours and actions must gradually become countries’
+
+Ho
+
+173
+
+habits (Alexandra, 2021), rather than binding rules, so they can effectively help
+form and maintain an RBO.
+In short, it can be understood that RBO is an international order developed
+from the observance of international rules, principles, and practices by states and
+other subjects widely agreed upon in the international community. An RBO
+usually aims at the common interests of the international community common
+interests, protects the country’s legitimate interests, maintains peace and security,
+and promotes the rule of law and justice.
+
+Challenges to a Rules-based Order in the
+South China Sea
+Challenges Coming from China’s Assertive Actions and Behaviours
+Want it or not, China is an important player in the dispute situation as well as in
+maintaining an RBO in the South China Sea. In recent decades, however, China
+has regularly violated and undermined the law and threatened the international
+legal order in consolidating its power and influence in the South China Sea (Kuok,
+2019). In fact, China ignores and even opposes an RBO in the South China Sea
+and instead calls for building a common future for mankind (Alexander, 2021)—a
+general, vague, and propaganda-laden goal.
+The international practice has shown that many countries tend to comply with
+and apply international law when it benefits them and ignore it when they feel it
+is disadvantageous (Guzman, 2002; Koh, 1997). China may be a prime example
+of this phenomenon. For example, research reveals that since 1973, China has
+gradually moved from supporting the 1982 United Nations Convention on the
+Law of the Sea (UNCLOS) to solid opposition to the application of the rules and
+regulations enshrined in this global document (Beeson & Chubb, 2019). This
+stems mainly from the fact that China has regularly claims to sovereignty that are
+contrary to the provisions and standards of the UNCLOS, such as the ‘nine-dash
+line’ claim (Nguyen & Nguyen, 2012; Wang, 2015), the ‘four-sha’ claim (Julian
+& Chris, 2017) or drawing an ‘archipelagic baseline’ (United State Department of
+States, 2020) for the Paracel Islands. Therefore, supporting the UNCLOS also
+means going against these claims, which is seen to undermine the realisation of
+China’s ambitions in the South China Sea.
+On the other hand, by challenging international law, China is also threatening
+an RBO in the South China Sea. For example, China has misinterpreted and
+misused the provisions of the UNCLOS when conducting the reclamation and
+construction of artificial islands and militarising these areas. This is challenging
+to international law and norms that have been widely developed, agreed, and
+applied by the international community, thereby leading to the risk of disrupting
+an existing international order (Alexander, 2021). However, studies have also
+shown that China’s illegal claims and actions are not aimed at reversing the entire
+international legal system but only at areas closely related to its strategic security
+and interests (Jacobson & Medcalf, 2015). But China’s claims and behaviour in
+
+174		
+
+Journal of Asian Security and International Affairs 10(2)
+
+the South China Sea are undermining the basic foundation of international law on
+peace and security (Basu, 2021), and causing negative impacts on the legitimate
+rights and interests of other countries in the region.
+In the South China Sea, perhaps realising that it would not be beneficial to
+maintain an RBO, China sought to break out of this order and gradually work
+towards forming another. For example, China seeks to exclude the involvement of
+a third party, primarily the United States and its allies, from the South China Sea
+issues. This will allow China to build a new order—probably an order that is based
+on the power of political and economic influence. Quite often, China presents itself
+as a champion of open trade and multilateralism while suggesting an evolution of
+the existing system to reflect a different configuration of the relationship between
+order and justice at the global level (Sharma, 2020, p. 2). It is understandable for
+rising powers like China and India to bring pressure to change some rules and their
+interpretation of their perceived interests (Graham et al., 2018, p. 6). However, in
+practice, it is almost unlikely that China will succeed in establishing a competitive
+world order because it does not often have the necessary level of goodwill and
+international support (Jacobson & Medcalf, 2015). Further, in the context of the
+South China Sea, there might not be a better and more acceptable alternative order
+than the current one built on the foundation of the UNCLOS—a globally regconised
+instrument, and other relevant international agreements.
+Nevertheless, China’s intention to prevent third-party participation in the
+South China Sea is often expressed through diplomatic statements (Blanchard &
+Rajagopalan, 2016). In addition, in the process of negotiating a COC in the South
+China Sea with the Association of Southeast Asia Nations (ASEAN), China also
+made no secret of its intention to exclude third-party involvement in the South
+China Sea, both in terms of economic development and military presence and
+exercises (Thayer, 2018). Therefore, the employment of military, financial, and
+economic influence to undermine the RBO is a dangerous development for the
+South China Sea in particular and the Indo-Pacific region in general. Then,
+international law, norms, standards, and principles are in danger of being pushed
+aside to give way to hegemonic and violated acts (Alexander, 2021). Given the
+current enhanced strategic competition in the region, the South China Sea without
+the participation and involvement of third parties would probably mean the
+absence of rule of law and justice.
+As China consolidates its military power to match its economic growth over
+the past several decades, it has grown increasingly assertive in the South China
+Sea. China’s behaviour over the past several decades in the South China Sea has
+tended to be repetitive and increasing in intensity and frequency. However, they
+all have one thing in common: they show disobedience to the law and disregard
+for international public opinion (Odom, 2020; Singh, 2020, pp. 2–3). One example
+of this fact is China’s reaction and attitude towards the South China Sea Arbitration
+and Award. China’s rejection of the Arbitral Tribunal’s jurisdiction and refusion to
+enforce the Award has set an unfavourable and dangerous precedent for an RBO
+in the South China Sea. Further, after the Arbitral ruling, China has continued to
+block Filipinos from accessing fishing grounds within the Philippines Exclusive
+Economic Zone (EEZ), sent its fishing boats into Indonesia’s EEZ, and regularly
+
+Ho
+
+175
+
+harassed United States navy vessels passing its artificial islands (Greg et al., 2017,
+p. 4). China’s response and behaviour have demonstrated the ability of larger
+powers to ignore international rules and institutions when it is not in their
+perceived interests, which in turn indirectly undermines the role of international
+law in establishing maritime order (Strating, 2020, p. 37). More dangerously, this
+practice will cause injustice to other countries in the region, as they will encounter
+powerful obstacles to exercising their legitimate rights recognised and permitted
+by international law over the exploitation and use of the ocean.
+In summary, China’s behaviour and ambitions in the South China Sea,
+particularly its unchecked aggression in the littorals (Singh, 2020, p. 7), have
+posed significant challenges to effectively maintaining an RBO. It not only
+adversely affects the legitimate rights and interests of other regional actors but
+also threatens the legal values and norms established and protected by the
+international community.
+
+International Practice Creates Negative Effects on the
+Maintenance of a Rules-based Order in the South China Sea
+Internationally, the RBO is based on a set of rules and principles widely recognised
+and agreed upon by the international community. For a system based on rules to
+have an effect, these rules must be visibly observed by all countries, including
+their principal and most powerful advocates (Chatham House, 2015, p. 1). The
+fact that many countries worldwide do not strictly comply with international law
+has also created dangerous precedents that negatively affect the maintenance of an
+RBO. As studies have revealed, the United States—one of the strongest supporters
+of an RBO—often pursues unilateralism and behaves in contrary to international
+law (Singh, 2020, p. 7). For example, the US intervention in the Yugoslavia and
+Iraq wars without the consent of the United Nations has set negative precedents
+in international relations and indirectly affected the maintenance of an RBO
+(Clark, 2021). Similarly, the United States under President Donald Trump’s
+administration launching a trade war against China has also raised concerns about
+infringing on international trade orders. In some ways, the US trade war against
+China has good reasons, is understandable (mostly from Chinese violations), and
+brings positive values to world trade relations. However, from a legal perspective,
+the US’s imposition of tariffs on Chinese imports has violated the principles and
+standards established by the World Trade Organisation and indirectly undermines
+the international rules-based trade order recognised and supported by most world
+economies.
+Another country that actively supports an RBO is Australia, which has negative
+precedents in international law compliance. For example, in 2001, following the
+9/11 terrorist attacks, the Australian government under Prime Minister John Howard
+announced the controversial ‘maritime identification zone’ extending up to 1,000
+nautical miles from Australia’s coast, in which the government will establish a
+‘surveillance or interception zone’ (Donald & Cameron, 2009, p. 43). It is worth
+mentioning that the application of this maritime identification zone will affect the
+
+176		
+
+Journal of Asian Security and International Affairs 10(2)
+
+waters of neighbouring states. More importantly, this is not consistent with the
+UNCLOS to which Australia is a member. In addition, Australia has a claim to an
+EEZ of up to four million square miles, which many countries consider exceeds the
+limits allowed by the UNCLOS and has the potential to negatively affect the order
+that determines the maritime jurisdiction of other states (Strating, 2020, p. 38).
+In addition, Australia’s pressure on East Timor to gain advantages in resolving
+overlapping maritime disputes is a damaging practice that affects the legal order
+at sea in general. The dispute settlement relationship between Australia and East
+Timor has been compared with China’s behaviour in the South China Sea toward
+Southeast Asian countries (Beeson & Chubb, 2019). After announcing its
+withdrawal from the international arbitration mechanism for compulsory dispute
+settlement, Australia forced East Timor to choose bilateral negotiations with
+economic and trade ‘threats’ and a strong ‘pressing-tone’ voice of the big country
+(Strating, 2017, p. 22). Australia’s behaviour towards East Timor casts doubt on
+the international community as to whether Australia is a country that supports and
+is committed to defending an RBO (Beeson & Chubb, 2019, p. 21). Ultimately, as
+a status-quo middle power, Australia relies heavily on a solid RBO yet still
+disregards it in its perceived sphere of influence (Timor-Leste), suggesting a
+dangerous double standard could become the norm.
+Japan, another strong supporter of an RBO, also has maritime claims that exceed
+the limits of international law. For example, Japan’s straight baselines are found to
+be inconsistent with the UNCLOS, and the United States has employed the Freedom
+of Navigation Operations (FONOPs) to challenge this claim (Strating, 2020, p. 39).
+In addition, the fact that Japan has for many years conducted whaling in the South
+Pacific for commercial purposes but in the name of scientific research is also an
+issue condemned by the international community. It is interesting that Australia is
+one of the pioneer countries to oppose Japanese whale hunting and has the strongest
+action to fight (Kindleysides, 2019). However, it seems that Japan is still ignoring
+international opinion to continue commercial whaling.
+More recently, Russia’s annexation of Crimea in 2014 violates its commitments
+to the Budapest Memorandum (Chatham House, 2015). Its invasion of Ukraine in
+February 2022 is a clear violation of Article 2(4) of the United Nations Charter and
+a clear example of illegal the use of force and aggression that threatens the territorial
+integrity of Ukraine. As a widely recognised document in the international
+community, the United Nations Charter has established an international legal
+foundation for countries to protect their sovereignty and territorial integrity. The
+Charter emphasised that the global order was based on the sovereignty of states
+(Article 2(1)) and outlawed the use of force by one state against another (Article
+2(4)) (Bellinger, 2022). In essence, Russia’s annexation and invasion are bullying
+behaviours imposed by a great power on a smaller country without considering
+international law or justice. This has once again raised the question of how
+international law will protect smaller countries when they are bullied and pressed by
+a great power. More importantly, Russia’s behaviours in 2014 and 2022 have
+seriously violated international law and are considered to be a direct ‘threat’ to the
+rules-based international order (G7 Joint Statement, G7 Foreign and Development
+Ministers’ Meeting: Communiqué, May 2021, Para. 7), thereby undermining the
+international rule of law and justice (Powell, 2022; Steedman, 2022).
+
+Ho
+
+177
+
+These are examples of countries’ non-compliance with international law and
+rules that negatively affect the international legal order. In general, many countries
+tend to choose to comply with international law to their advantage but ignore or
+even violate the laws that are likely to harm them (Greg et al., 2017, p. 13). This
+is a massive challenge for building and maintaining an RBO on a global scale in
+general and in the South China Sea in particular. The danger here is that it may
+create situations in which states will invoke the wrongs of others to justify their
+own. For example, when conducting wrongful and illegal acts and claims in the
+South China Sea, China will be confident because it sees that other countries
+themselves have also acted contrary to international law and standards. Further,
+this fact also prompts China to continue the misinterpretation and misapplication
+of international law in its favour.
+Importantly, for countries outside the region, such as the United States, Australia,
+Japan, India, or South Korea, it is difficult for them to voice their objections to
+China as they themselves have claims, policies, and behaviours contrary to the
+standards of international law. Here, the international community will question
+these states’ ‘issue of legitimacy’ in promoting an RBO. How can they continue to
+defend the RBO and oppose China’s behaviour in the South China Sea when these
+countries themselves have ‘problems’ (Strating, 2020, p. 39)? This is a big challenge
+not only for the effective establishment and maintenance of an RBO in the South
+China Sea but also for legal values and the rule of law worldwide.
+
+Challenges from the Ambiguity of International Law
+In many cases, the ambiguity of international law has also created conditions for
+countries to ‘evade the law’ or deliberately interpret and misapply the law for selfinterest, adversely affecting the maintenance of an RBO. The development of an
+RBO is greatly challenged when the rules themselves are sometimes the reason
+states are in dispute, primarily because those rules are often vague and open to
+different interpretations (Greg et al., 2017, p. 11). In the South China Sea, these
+issues include the exercise of freedom of navigation and the right of transit, the
+right of innocent passage of foreign vessels in the territorial sea, and the legal
+status of geographical features.
+Right for Innocent Passage
+In the UNCLOS, the right of innocent passage is not sufficiently provided and
+detailed, and this has led to disputes between countries over the issue of ‘prior
+authorisation’ or ‘prior notification’ when exercising this right. For example, as
+interpreted and explained by the United States and many other countries such
+as Australia, France, and Germany, the right of innocent passage is granted to
+all types of ships, including military ships, without prior notification or prior
+authorisation (Samiotis & Grekos, 2015, p. 52). Therefore, the fact that coastal
+states require prior notification or authorisation when passing the territorial sea is
+illegally hindering the exercise of this right (Ian, 2014). This is one of the reasons
+that the United States conducts the FONOPs to challenge coastal states’ provisions
+contrary to the UNCLOS.
+
+178		
+
+Journal of Asian Security and International Affairs 10(2)
+
+However, China and several other countries in the region interpret the right of
+innocent passage differently. For example, under China’s 1992 Law on Territorial
+Sea and Contiguous Zone, ‘To enter the territorial sea of the People’s Republic of
+China, foreign military ships must obtain permission from the Government of the
+People’s Republic of China’ (People’s Republic of China, 1992). Such permission
+is usually accompanied by conditions and prior notification procedures that
+foreign vessels must comply with in order to pass through China’s territorial
+waters. Similarly, the requirements for prior notification or authorisation when
+exercising the right of innocent passage can also be found in the legislation of
+other countries such as Vietnam, the Philippines, Myanmar, and Cambodia (Kaye,
+1978, p. 583; Nguyen & Nguyen, 2012, pp. 12–13).
+This is further recognised by China’s revised Maritime Traffic Safety Law 2021,
+which sets out a prior notification for foreign vessels entering China’s territorial
+waters. Specifically, submarines, nuclear-powered ships, ships carrying radioactive
+materials, ships carrying bulk oil, chemicals, liquefied petroleum gas, or other
+hazardous substances, or ships that may pose a danger to China’s maritime traffic
+safety must provide detailed information to state agencies when entering China’s
+territorial waters (People’s Republic of China, 2021). Especially recently, China
+enacted the Coast Guard Law of 2021, which allows its Coast Guard to open fire on
+foreign ships if they enter Chinese waters illegally (Okada, 2021). The fact that the
+law does not specify what ‘Chinese waters’ are, has created an ambiguity in the
+regulation, and more dangerously, this may lead to arbitrariness in the use of force
+or the threat to use force at sea. This is contrary to international law and norms and
+seriously affects the rule of law and the maintenance of an RBO.
+Freedom of Navigation
+The freedom of navigation, a long-established right in international customary
+law, has also been interpreted and applied differently among countries. For
+example, the United States considers freedom of navigation to include freedom
+of the high seas for warships within 200 nautical miles of coastal state EEZ. Only
+when military ships pass through the 12-nautical-mile territorial sea are they
+subject to the right of innocent passage, which of course, does not involve prior
+notification or authorisation (Singh, 2020, p. 8). This is perhaps the most common
+and acceptable interpretation of freedom of navigation in international practice.
+However, this is not the case with China. To this country, foreign military ships
+must obtain coastal state prior authorisation before entering the EEZ. Therefore,
+from China’s point of view, the FONOPs conducted by the United States in the
+South China Sea are inconsistent with international law and show aggression
+towards China (Singh, 2020, p. 9).
+Even India, one of America’s allies in Asia, has different views on freedom of
+navigation. During the UNCLOS negotiations, India objected to several foreign
+military vessels’ activities in the coastal state territorial sea and EEZ (Strating,
+2020, p. 23). When ratifying UNCLOS in 1995, India expressed its position on
+limited freedom of navigation in the exclusive economic zone with the provision
+that ships entering India’s EEZ carry dangerous goods, hazards and chemicals,
+oils, toxic liquids, and harmful substances, and radioactive materials must be
+provided with at least 24 hours prior notification (United States Navy Judge
+
+179
+
+Ho
+
+Advocate General’s Corp, 2019). Thus, despite declaring support for freedom of
+navigation and overflight in international waters, India still has reservations about
+FONOPs conducted by the United States. In India’s general view, the freedom of
+navigation in the EEZ should be limited to ensure coastal state security and
+sovereignty. Moreover, India is concerned that other countries could take
+advantage of the freedom of navigation in the EEZ to launch unannounced attacks
+against the coastal states (Singh, 2016, pp. 14–20). This is clearly a far cry from
+the US position on freedom of navigation, which is free and open.
+The Issue of Conducting Military Exercises at Sea
+One of the issues that often cause controversy among the countries involved
+is the issue of ‘conducting military exercises’ at sea. This is also an important
+issue related to the formation and maintenance of an RBO in the South China
+Sea. It can be seen that the UNCLOS itself does not explicitly regulate this
+issue; therefore, countries have an even greater opportunity to interpret
+relevant provisions in their favour. The United States, for example, maintains
+that international law provides all states with an extended right to conduct
+military exercises at sea. This country believes that Article 87 of the UNCLOS
+concerning freedom of navigation on the high seas has suggested exercising this
+right for countries (Kuok, 2016). However, since the UNCLOS does not clarify
+the relationship between the exercise of freedom of navigation between the high
+seas and the EEZ, it has created gaps for controversy and differences in law
+application (Strating, 2020, p. 17). China, on the other hand, has a different view
+from the United States about the legality of foreign states conducting military
+intelligence activities in the EEZ of a coastal state (Kaye, 2005, pp. 103–104).
+It considers military activities sensitive because intelligent information could be
+used in conflict (Kaye, 2005, p. 103). On this foundation, China believes that US
+military activities violated China’s sovereignty, undermined the international
+peace and security of the EEZ, and complicated the situation in the South China
+Sea (Kaye, 2005, pp. 103–104).
+Meanwhile, India’s position on conducting military activities in the sea seems
+to be closer to China’s. Specifically, in the Declaration accompanying the
+ratification of the UNCLOS in 1995, India emphasised:
+The Government of the Republic of India understands that the provisions of the convention do not permit other countries to conduct exercises or military operations in the exclusive economic zone and continental shelf, especially those involving the use of weapons
+or explosives, without the consent of the coastal state. (The Republic of India, 1995)
+
+Similar to China, India has also sought to limit the freedom of navigation of
+military vessels within its EEZ. For example, India stipulates a ‘prior authorisation’
+for military activities and exercises in its EEZ, which is seen to be contrary to
+international law (Strating, 2020, p. 23).
+The Ambiguity of the Article 121 of UNCLOS
+The ambiguity of Article 121 of UNCLOS has also led to different interpretations
+and applications among states in the region. Taking advantage of this, many
+
+180		
+
+Journal of Asian Security and International Affairs 10(2)
+
+countries have taken actions that benefit them but harm the legal order in the
+South China Sea. Prior to the 2016 South China Sea Award, there were no
+official interpretations of relevant aspects of Article 121, such as the distinction
+between rocks and islands, the legal status of low-tide elevations, or artificial
+island construction. Under the UNCLOS, these distinctions may have different
+legal outcomes and interests. For example, the UNCLOS allows states to define a
+12-nautical-mile territorial sea and a 200-nautical-mile EEZ around islands, while
+rocks can only generate a territorial sea. On the other hand, islands and rocks
+can be acquired to claim sovereignty, while low-tide elevations or submerged
+features are not subject to sovereignty. However, since the UNCLOS does not
+have specific criteria to distinguish these features clearly, controversy, disputes,
+or even arbitrary occur in the practice of application among states (Basu, 2019).
+Fortunately, in the 2016 South China Sea Award, the international Tribunal
+formally interpreted many of the ambiguities of Article 121 of the UNCLOS.
+Looking into the maritime practice among countries on the foundation of the 2016
+Award, we can see that countries have often misinterpreted and applied Article
+121. For example, the ways countries interpreted and applied Article 121 of the
+UNCLOS on the settlement of the Kuril Islands dispute between Japan and Russia,
+the Dokdo Islands dispute between South Korea and Japan, and the Diaoyu
+Islands dispute between Japan and China are fundamentally inconsistent with the
+interpretation by the Tribunal in the South China Sea Award (Strating, 2020,
+pp. 42–47). These particular cases reflect a common practice of the interpretation
+and application of international law on a global scale.
+In summary, differences persist among countries in interpreting and applying
+international law, partly because the provisions themselves are not clear or specific
+enough. Quite often, this creates different standards between countries regarding
+the issues of law application. Therefore, it is critical and essential to define
+uniform standards of international law and norms widely recognised and supported
+by the international community when considering an RBO. In the South China
+Sea currently, the fact that the United States and China are pursuing two different
+and even contradictory systems of ‘order’ can lead to conflicts of interest
+and legal standards (Yamaguchi, 2017). For whatever reason, inconsistent
+understanding and application of international law can lead to unclear right and
+wrong, thereby threatening to disrupt an RBO in the South China Sea.
+
+Challenges from the Ineffective International
+Law Enforcement Mechanism
+The maintenance of an RBO must be accompanied by an effective law
+enforcement mechanism. Unfortunately, this is lacking in the current international
+legal system. In the South China Sea, in the face of China’s behaviours that go
+against international laws and standards, the international community does not
+have a strong enough mechanism to prevent or deal with it. ASEAN itself cannot
+create the necessary counterweights with China, so the rule of law in the South
+China Sea is violated, and hegemonic actions bend justice. The culmination of
+
+Ho
+
+181
+
+the problem was China’s objection to the jurisdiction of the Arbitral Tribunal and
+refusal to implement the 2016 South China Sea Award. This clearly demonstrates
+the ineffectiveness of the current international law enforcement mechanism
+(Basu, 2019). Public opinion and international pressure are important, but in
+many cases, they are not enough to ensure that the law is obeyed and enforced.
+Although countries such as the United States, Australia, Japan, Great Britain,
+France, Germany, and others have made efforts to call on China to observe and
+comply with the South China Sea Award, this country still shows its contempt
+and refuses to execute the Award. Not only that, China continues to intensify its
+reclamation and militarisation activities in the South China Sea, thereby indirectly
+threatening an RBO in the region.
+Globally, the limitation of the international law enforcement mechanism is not
+a new problem in international relations. Enforcement has always been seen to be
+the weakest part of the international law system (Richard, 1990), so the question
+‘is international law really law’ is frequently asked (Amato, 2001). The practice
+of international relations shows that it is rare for a collective of states to act against
+another, especially if that state has significant economic influence or military
+capabilities and the violation of international law is not crudely provocative
+(Odom, 2020). Quite often, the international community can only depend on
+sending diplomatic notes to protest the violations of that country. Therefore, the
+implementation of international law tends to rely on the efforts of individual
+countries with the military, political, and economic potential and strength. This is
+risky because great powers’ will and determination to enforce international law
+are often driven by national motivations and interests and not always showing
+fairness and objectivity. In the South China Sea arbitration, the fact that the United
+States did not want to enforce the Award and the Philippines under President
+Duterte since 2016 did not promote the implementation of the Award (instead
+preferring to pursue bilateral development negotiations) has obstructed the
+Arbitral Tribunal’s contribution to the rule of law and justice (Strating, 2020,
+p. 37), thereby indirectly negatively affecting the maintenance of an RBO in the
+South China Sea.
+Practically, China is not the first country to violate international law.
+International relations practice shows that other countries that are permanent
+members of the United Nations Security Council, such as Russia, Great Britain,
+France, and the United States, have also repeatedly violated international law
+(Chellaney, 2019). It is worth noting that these countries have economic and
+military capabilities and are primary actors in maintaining international peace and
+security and protecting the international legal order. Therefore, it is difficult, if not
+impossible, to enforce international law to ensure international legal order. On the
+other hand, China is not the only country that has objected jurisdiction of
+international courts and refused to exercise the ruling. Great powers like the
+United States (Sabine, 1985, pp. 183–185), Russia (Berg, 2019; Rieter, 2014),
+France (Mackay, 1995, pp. 1864–1865), or Britain (Rrecaj, 2020, pp. 50–55) have
+done the same thing several times when facing a lawsuit against them. In those
+circumstances, the international community, including the United Nations, has
+failed to take adequate measures to protect the international rule of law and justice.
+
+182		
+
+Journal of Asian Security and International Affairs 10(2)
+
+This practice has shown that the world lacks an effective law enforcement
+mechanism, and because of this, the values of the rule of law and justice are not always
+guaranteed and protected to the highest degree. Furthermore, the absence of an
+effective mechanism to enforce international law, rules, and norms makes it even
+more difficult to maintain an RBO, especially when the actors challenging that order
+are countries with strong economic, political, and military strengths and influences.
+This reality is happening in the South China Sea, where the maintenance of an RBO
+is being fiercely challenged by China’s hegemonic ambitions and assertive behaviours.
+
+Challenges from Counterbalance and Competition
+for Influence Among Great Powers
+Counterbalance and competition for international influence between great powers
+is also a challenge for maintaining an RBO in the South China Sea. China’s
+relationship with the United States and its allies has been a regional concern for
+decades. The rapid growth of China and becoming a rival of the United States
+has made international relations change in the direction of more competition
+and tension (Ian & Michael, 2017, p.4). The United States is also increasingly
+concerned about dealing with China, and the South China Sea seems to be a
+reasonable battleground for it to contain China’s rise.
+In fact, the United States has assembled alliances to strengthen its force against
+China in the Indo-Pacific region. First of all, the Quadrilateral Security Dialogue
+group (the QUAD), consisting of four countries, namely the United States, Japan,
+Australia, and India, has taken steps to tighten security issues and strategic
+competition, whose purpose is believed to be counterbalancing China’s economic,
+technological and military development (Bhim, 2021). Indeed, QUAD countries
+have interests and concerns in the South China Sea, which creates a great impetus
+for their involvement in this area (Graham et al., 2018). More recently, another
+security alliance has also been formed—the AUKUS alliance, which includes the
+United States, Australia, and the United Kingdom. One of the notable security
+cooperation contents of AUKUS is the agreement in which the United States and the
+United Kingdom assist Australia in nuclear submarine-building technology in order
+to enhance its defence and security capabilities (Barbara, 2021). More importantly,
+in the longer term, the AUKUS alliance may involve a lot of technology sharing in
+Quantum and Artificial Intelligence space, as well as interoperability between forces
+and fleets. Strategically, perhaps this alliance is also aimed at competing with and
+containing China as a threat to the peace and security of the region.
+Positively, this restraint and balance is necessary and can be beneficial to the
+security and peace of the region, as well as contributing to the maintenance of an
+RBO in the South China Sea. To some extent, the presence of a third party,
+particularly a great power like the United States, in the South China Sea can help
+limit China’s illegal actions and assertive behaviours and gradually force this
+country to adhere to widely recognised international law, principles, and standards.
+This is even more important because ASEAN has proven to be relatively helpless
+in managing conflicts and maintaining peace and security in the South China Sea.
+
+Ho
+
+183
+
+However, viewed negatively, the presence of the United States and its allies in
+the South China Sea can also cause tensions and instability. Perhaps due to
+concerns about the intervention of the United States and its allies in the South
+China Sea, China will intensify and accelerate the encroachment, reclamation,
+construction, and militarisation activities in the South China Sea, which negatively
+affect the security and sovereignty of other countries in the region. Moreover,
+China has even more reasons to increase its military and defence activities in the
+South China Sea. This could lead to an arms race between the great powers. To
+make it worse, tensions would escalate, which could lead to military clashes, and
+that could disrupt the legal order in the South China Sea.
+In summary, challenges to an RBO in the South China Sea are relatively
+prominent and worrisome. If the countries involved do not have adequate and
+goodwill cooperation, the prospect of an RBO in the South China Sea will hardly
+come true. Consequently, disputes over the sovereignty and jurisdictions of
+resources in the South China Sea are likely to become complex, which may result
+in conflicts and military confrontation among concerned countries.
+
+Conclusion
+Maintaining and strengthening a RBO is expected to ensure peace, security, and
+development of the South China Sea. Countries inside and outside the region are
+making efforts to build and protect such an order for the common interest of the
+international community. However, the practice shows that various challenges
+are hindering the process of forming and maintaining an RBO in the South
+China Sea. On the one hand, China’s rapid growth with increasing ambitions and
+expansion plans, coupled with illegal claims and actions in the South China Sea,
+has created significant challenges for maintaining an RBO. On the other hand, due
+to the inadequate international law enforcement mechanism and the ambiguity of
+different UNCLOS provisions, countries have had disagreements in interpreting
+and applying international law. This has consequently contributed to the obstacles
+and barriers to the development of the RBO in the region. Further, counterbalance and competition for influence among major powers, to some extent, have
+also put the RBO in the South China Sea in a precarious and fragile situation.
+These challenges have made the prospect of an RBO in the South China Sea
+uncertain and unclear. Countries’ different interests and positions have shown that
+the efforts of a few individual countries are far from enough for the effective
+maintenance of an RBO in the South China Sea. In particular, perhaps the biggest
+obstacle comes from China when it cannot find a common ground of understanding
+with countries inside and outside the region. Therefore, it is necessary to take an
+integrated approach, including deterrence measures combined with incentives, to
+gradually bring China into legal frameworks and standards widely agreed upon
+and recognised by the international community. More importantly, efforts should be
+made to identify areas of common interest that China can share with countries in
+the region, thereby encouraging China’s contribution to the construction and
+maintenance of an RBO in the region (Moynihan, 2019, pp. 50–51). Evaluating
+
+184		
+
+Journal of Asian Security and International Affairs 10(2)
+
+China’s legitimate interests in the region and the boundaries that meet those interests
+based on international standards plays a vital role in the solutions that countries aim
+to build and maintain an RBO in the South China Sea (Mohan, 2012, p. 257). In
+addition, it is believed that the success of developing a RBO in the region will
+depend on the extent to which regional states can find common ground to negotiate
+between China and the United States (Greg et al., 2017, p. 12).
+Besides, given the region’s current situation, the participation and efforts of
+countries outside the region, particularly those with motivations and interests, can
+also significantly contribute to maintaining an RBO in the South China Sea. The
+effective maintenance of an RBO in the South China Sea will not depend solely
+on the efforts and determination of some individual countries. Similarly, the
+assumption of US dominance in preserving an RBO is misconceived and could
+foster a dangerous resistance and inflexibility to change (Greg et al., 2017, p. 7).
+A practical and sustainable RBO in the South China Sea should be built collectively
+by concerned countries, and it, in turn, benefits themselves first of all and the
+international community as a whole.
+Declaration of Conflicting Interests
+The author declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.
+
+Funding
+The author received no financial support for the research, authorship and/or publication of
+this article.
+
+ORCID iD
+Ai Nhan Ho
+
+https://orcid.org/0000-0002-1075-0150
+
+References
+Alexander, N. (2021, 28 May). China abhors the rules-based order but what does it want
+instead? Nikkei Asia. https://asia.nikkei.com/Opinion/China-abhors-the-rules-basedorder-but-what-does-it-want-instead
+Alexandra, A. L. (2021). Perspectives: Rules-based order—More than words. AsianLink.
+https://asialink.unimelb.edu.au/stories/rules-based-order-more-than-words
+Amato, D. A. (2001). Is international law really ‘law’? In S. Gerry (Ed.), The nature of
+international law (pp. 137–158). Routledge Publisher.
+Barbara, Y. (2021, 17 September). AUKUS: Is an arms race with China the price of ‘Global
+Britain’? The Conversation. https://theconversation.com/aukus-is-an-arms-race-withchina-the-price-of-global-britain-168107
+Basu, P. (2019, 22 November). High tide in the South China Sea: Why the maritime rulesbased order is consequential. Observer Research Foundation. https://www.orfonline.
+org/research/high-tide-in-the-south-china-sea-why-the-maritime-rules-based-order-isconsequential-58052/
+Basu, P. (2021, 1 September). Beijing vs. Washington: Fundamental departures vis-à-vis a
+‘rules-based order’. Observer Research Foundation. https://www.orfonline.org/expertspeak/beijing-washington-fundamental-departures-vis-a-vis-rules-based-order/
+
+Ho
+
+185
+
+Beeson, M., & Chubb, A. (2019). Australia, China and the maritime ‘rules-based
+international order’: Comparing the South China Sea and Timor Sea disputes.
+International Relations of the Asia-Pacific, 21(2), 1–32. https://doi.org/10.1093/irap/
+lcz022
+Bellinger, B. J. III. (2022, 28 February). How Russia’s invasion of Ukraine violates
+international law. Council on Foreign Relations. https://www.cfr.org/article/howrussias-invasion-ukraine-violates-international-law
+Berg, V. D. S. (2019, 8 November). In Ukraine victory, top U.N. court rejects Moscow’s
+bid to block case. Reuters. https://www.reuters.com/article/us-russia-ukraine-worldcourt-idUSKBN1XI1DJ
+Bhim, B. (2021, 17 March). Quad lacks moral authority in South China Sea. AsiaTimes.
+https://asiatimes.com/2021/03/quad-lacks-moral-authority-in-south-china-sea/
+Blanchard, B., & Rajagopalan, M. (2016, 5 July). China says wants peace after paper warns
+on South China Sea clash. Reuters. https://www.reuters.com/article/us-southchinaseachina-idUSKCN0ZL030
+Chang, K. F. (2020, 6 October). Uncertain prospects: South China Sea code of conduct.
+Foreign Policy Research Institute. https://www.fpri.org/article/2020/10/uncertainprospects-south-china-sea-code-of-conduct-negotiations/
+Chatham House—The Royal Institute of International Affairs. (2015). Challenges to the
+rule-based international order. The London Conference. https://www.chathamhouse.
+org/sites/default/files/London%20Conference%202015%20-%20Background%20
+Papers.pdf
+Chellaney, B. (2019, 23 December). The illusion of a rules-based global order. The
+Strategist. https://www.aspistrategist.org.au/the-illusion-of-a-rules-based-globalorder/
+Clark, B. (2021, 25 June). It’s not just Russia and China who flout the rules-based order.
+The National Interest. https://nationalinterest.org/blog/buzz/it%E2%80%99s-not-justrussia-and-china-who-flout-rules-based-order-188562
+Cordesman, A. H., Burke, A. A., & Molot, M. (Eds). (2019). The critical role of Chinese
+trade in the South China Sea. In China and the U.S.: Cooperation, competition and/
+or conflict an experimental assessment (pp. 336–343). Center for Strategic and
+International Studies (CSIS).
+Donald, R. R., & Cameron, M. (2009). Australia’s traditional maritime security concerns
+and post-9/11 perspectives. In N. Klein, J. Mossop & D. R. Rothwell (Eds), Maritime
+security: International law and policy perspectives from Australia and New Zealand
+(pp. 37–53). Routledge Publisher.
+G7 Joint Statement, G7 Foreign and Development Ministers’ Meeting: Communiqué,
+May 2021, Para. 7. https://www.eeas.europa.eu/eeas/g7-foreign-and-developmentministers%E2%80%99-meeting-communiqu%C3%A9_en
+Graham, E., Pan, C., Ian, H., Kersten, R., Zala, B., & Percy, S. (2018). Debating the Quad,
+Strategic & Defence Studies Centre ANU College of Asia & the Pacific, 6. https://
+bellschool.anu.edu.au/sites/default/files/uploads/2018-03/cog_39_web_-_debating_
+the_quad.pdf
+Greg, R., Nasu, H., Tan, S. S., & McLaughlin, R. (2017, November). Prospects for the
+rules-based global order. Strategic & Defence Studies Centre ANU College of Asia
+& the Pacific. http://bellschool.anu.edu.au/sites/default/files/uploads/2017-06/cog_
+34_global_rules_based_order.pdf
+Guzman, T. A. (2002). A compliance-based theory of international law. California Law
+Review 90(6), 1823–1887. https://doi.org/10.2307/3481436
+Hayton, B. (2015). The South China Sea. The struggle for power in Asia. Yale University
+Press.
+
+186		
+
+Journal of Asian Security and International Affairs 10(2)
+
+Hayton, B. (2021, 21 July). After 25 years, there’s still no South China Sea Code of
+Conduct—China’s reluctance has stifled diplomatic efforts—but they haven’t been futile.
+FP. https://foreignpolicy.com/2021/07/21/south-china-sea-code-of-conduct-asean/
+Ian, H., & Michael, H. (2017). The rule-based order in the Indo-Pacific: Opportunities and
+challenges for Australia, India and Japan [Regional Outlook Paper No. 50]. Griffith
+Asian Institute.
+Ian, T.-G. (2014). The ‘territorialisation’ of the exclusive economic zone: A requiem for
+the remnants of the freedom of the seas? In C. Schofield, S. Lee & M.-S. Kwon (Eds),
+Limits of Maritime Jurisdiction (pp. 65–76). Nijhoff.
+Jacobson, L., & Medcalf, R. (2015). The perception gap: Reading China’s Maritime
+Objectives in Indo-Pacific Asia. Lowy Institute Report. https://www.lowyinstitute.org/
+publications/perception-gap-reading-chinas-maritime-objectives-indo-pacific-asia
+Jonathan, G. O. (2020, 11 December). The 2020 ‘Battle’ of diplomatic notes opens
+the door to a possible solution for South China Sea. Modern Diplomacy. https://
+moderndiplomacy.eu/2020/12/11/the-2020-%CB%8Bbattle-of-diplomatic-notesopens-the-door-to-a-possible-solution-for-the-south-china-sea-disputes/
+Jorgensen, M. (2018). Equilibrium & fragmentation in the international rule of law:
+The rising Chinese Geolegal Order [KFG Working Paper No. 21]. Berlin Potsdam
+Research Group.
+Julian, K., & Chris, M. (2017, 25 September). The South China Sea and China’s ‘Four Sha’
+claim: New legal theory, same bad argument. LawFare. https://www.lawfareblog.com/
+south-china-sea-and-chinas-four-sha-claim-new-legal-theory-same-bad-argument
+Kaye L. W. (1978). The innocent passage of warships in foreign Teritorial Sea:
+A threatened freedom. San Diego Law Review, 15, 573–602. https://digital.sandiego.
+edu/cgi/viewcontent.cgi?article=1928&context=sdlr
+Kaye, S. (2005). Freedom of navigation, surveillance and security: Legal issues surrounding
+the collection of intelligence from beyond littoral. Australian Year Book of International
+Law, 24, 93–105. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2744984
+Keynote address by Shinzo Abe, late Prime Minister of Japan at the 13th IISS Asian
+Security Summit—The Shangri-La Dialogue. (2014). http://www.mofa.go.jp/fp/nsp/
+page4e_000086.html
+Kindleysides, D. (2019, 2 April). Japan’s war on whales isn’t over—The Australian
+government must keep fighting. The Guardian. https://www.theguardian.com/
+environment/2019/apr/02/japans-war-on-whales-isnt-over-the-australian-governmentmust-keep-fighting
+Koh, H. H. (1997). Review: Why do nations obey international law? The Yale Law
+Journal, 106(8). Symposium: Group Conflict and the Constitution: Race, Sexuality,
+and Religion, 2599–2659. https://doi.org/10.2307/797228
+Kuok, L. (2016). The U.S. FON Program in the South China Sea: A lawful and necessary
+response to China’s strategic ambiguity [East Asia Policy Paper No. 9]. https://www.
+brookings.edu/wp-content/uploads/2016/07/the-us-fon-program-in-the-south-chinasea.pdf
+Kuok, L. (2019). How China’s reaction in the South China Sea undermine the rule of
+law. Global China Research Paper March 2019, 4–5. https://www.brookings.edu/
+wp-content/uploads/2019/11/FP_ 20191118_china_scs_law_kuok.pdf
+Layton, P. (2018, 3 April). An alternative to the rules-based order? Australian Outlook.
+https://www.internationalaffairs.org.au/australianoutlook/alternative-rules-based-order/
+
+Ho
+
+187
+
+Lye, L. F., & Ha, H. H. (2018). Vietnam’s responses to China’s maritime assertiveness in
+the South China Sea. Yusof Ishak Institute Analyse Current Event, 2018(50). https://
+www.iseas.edu.sg/images/pdf/ISEAS_Perspective_2018_50@50.pdf
+MacKay, D. (1995). Nuclear testing: New Zealand and France in the International Court
+of Justice. Fordham International Law Journal, 19(5), 1864–1865. https://ir.lawnet.
+fordham.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1483&context=ilj
+McLaughlin, M. (2020). Perspective—US strategy in South China Sea 2020. American
+Security Project.
+Mohan, C. R. (2012). SamudraManthan: Sino-Indian Rivalry in the Indo-Pacific.
+Brookings Institution Press.
+Moynihan, H. (2019, 12 June). Engage China to uphold multilateralism: But not at any
+cost. Chatham House—The Royal Institute of International Affairs. https://www.
+chathamhouse.org/2019/06/engage-china-uphold-multilateralism-not-any-cost
+Nguyen, B. D., & Nguyen, H. C. (2012). Right of innocent passage of foreign military
+ships in the Territorial Sea under International Law and Vietnamese Law. Hanoi
+National University Journal of Science—Law, 8(16), 8–16.
+Nguyen, D. T., & Nguyen, H. T. (2015). China’s nine dotted lines in the South China Sea:
+The 2011 exchange of diplomatic notes between the Philippines and China. Ocean
+Development & International Law, 43(1), 35–56. https://doi.org/10.1080/00908320.
+2012.647490
+Nguyen, H. T. (2022, 4 August). South China Sea: The battle of the diplomatic notes
+continues. The Diplomat. https://thediplomat.com/2020/08/south-china-sea-the-battleof-the-diplomatic-notes-continues/
+Nguyen, T. T. (2021, 7 July). China’s plan for the South China Sea: A mixture of pressure
+and legal approaches. Asia Maritime Transparency Initiative. https://amti.csis.org/
+chinas-plan-for-the-south-china-sea-a-mixture-of-pressure-and-legal-approaches/
+Nguyen, T. T. H., & Nguyen, D. T. (2015). Some thought on the South China Sea code of
+conduct. In D. D. Quy (Ed.), Seeking solutions for peace and justice in the South China
+Sea (pp. 179–203). World Publisher
+Odom, J. G. (2020, 8 May). Protecting the rules-based order at the International Tribunal
+for the Law of the Sea. LawFare. https://www.lawfareblog.com/protecting-rulesbased-order-international-tribunal-law-sea
+Okada, W. (2021, 28 April). China’s coast guard law challenges rule-based order the
+international community must respond to China’s maritime coercion. The Diplomat.
+https://thediplomat.com/2021/04/chinas-coast-guard-law-challenges-rule-based-order/
+People’s Republic of China. (1992). Law on territorial sea and contiguous zone 1992.
+Article 6, https://www.un.org/depts/los/LEGISLATIONANDTREATIES/PDFFILES/
+CHN_1992_Law.pdf
+People’s Republic of China. (2021). Maritime traffic safety law of the revised in 2021.
+Article 54. https://www.piclub.or.jp/wp-content/uploads/2021/08/Maritime-TrafficSafety-Law-of-the-Peoples-Republic-of-China_Revised-in-2021-1.pdf
+Powell, C. (2022, 16 March). Russia’s invasion of Ukraine is illegal under international
+law: Suggesting it’s not is dangerous. The Conversation. https://theconversation.com/
+russias-invasion-of-ukraine-is-illegal-under-international-law-suggesting-its-not-isdangerous-179203
+Richard, A. M. (1990). Problems in international law enforcement. Fordham International
+Law Journal, 14(3), 519–539. https://ir.lawnet.fordham.edu/ilj/vol14/iss3/1/
+
+188		
+
+Journal of Asian Security and International Affairs 10(2)
+
+Rieter, E. (2014). Introductory note to the ‘Arctic Sunrise’ case (Netherland/Russia)
+(ITLOS). International Legal Materials, 53(4), 603–619. https://doi.org/10.5305/
+intelegamate.53.4.0603
+Rrecaj, B. T. (2020). Legal consequences of the separation of the Chagos Archipelago from
+Mauritius in 1965. Utrecht Journal of International and European Law, 35(1), 50–55.
+doi:10.5334/ujiel.492
+Sabine, L. (1985). Jurisdiction of the International Court of Justice: Admissibility of
+Nicaragua’s application in case concerning military and paramilitary activities in and
+against Nicaragua. The Cambridge Law Journal, 44(2), 183–188. https://www.jstor.
+org/stable/4506728
+Samiotis, G., & Grekos, D. (2015). Carriage of hazardous materials (HM) by sea and the right
+of innocent passage: States disputes and environmental concerns. Journal of Economics
+and Business, 65(1/2), 47–66. https://www.econstor.eu/handle/10419/169167
+Sharma, S. (2020, July). The ‘Crisis’ in the rules-based international order (RBIO):
+Recommendations for Canadian Engagement. Policy Brief, Defense and Security
+Foresight Group. https://uwaterloo.ca/defence-security-foresight-group/sites/ca.defencesecurity-foresight-group/files/uploads/files/dsfg_policybrief_sharma_rbio.pdf
+Singh, A. (2016). India’s strategic stakes in the South China Sea. Asia Policy, 21, 14–20.
+https://www.jstor.org/stable/24905084
+Singh, A. (2020). Rules-based maritime security in Asia: A view from New Delhi [ORF
+Occasional Paper No. 266]. https://www.orfonline.org/research/rules-based-maritimesecurity-in-asia-a-view-from-new-delhi/
+Steedman, D. (2022, 24 February). Russia’s invasion of Ukraine another blow to the rulesbased order. The Strategist. https://www.aspistrategist.org.au/russias-invasion-ofukraine-another-blow-to-the-rules-based-order/
+Stefan, T. (2019, 20 January). Rules-based order v. international law? German Practice
+in International Law. https://gpil.jura.uni-bonn.de/2019/01/rules-based-order-vinternational-law/
+Strating, R. (2017). Timor-Leste’s foreign policy approach to the Timor Sea disputes:
+Pipeline or pipe dream? Australian Journal of International Affairs, 71(3), 259–283.
+https://doi.org/10.1080/10357718.2016.1258689
+Strating, R. (2020). Defending the maritime rules-based order: Regional responses to
+the South China Sea disputes. East West Center Policy Studies, 80. https://www.
+eastwestcenter.org/publications/defending-the-maritime-rules-based-order-regionalresponses-the-south-china-sea
+Thayer, C. (2018, 8 August). A closer look at the ASEAN-China single draft South China
+Sea code of conduct. The Diplomat. https://thediplomat.com/2018/08/a-closer-look-atthe-asean-china-single-draft-south-china-sea-code-of-conduct/
+The Republic of India. (1995). Declaration upon ratification of the United Nations
+convention on the law of the sea. https://www.marineregions.org/documents/
+Declarations%20or%20Statements%20upon%20UNCLOS%20ratification.pdf
+The South China Sea Arbitration. (2016). The 2016 Arbitral Tribunal Award. https://pcacpa.org/en/cases/7/
+The United States Ocean Policy. (1983). Ocean policy. https://policy.defense.gov/
+Portals/11/Documents/gsa/cwmd/DoD%20FON%20Program%20--%20Fact%20
+Sheet%20(March%202015).pdf
+United Nations Association of Australia. (2017). The United Nations and the rule-based
+international order. https://www.unaa.org.au/wp-content/uploads/2015/07/UNAA_
+RulesBasedOrder_ARTweb3.pdf
+
+Ho
+
+189
+
+United States Department of States. (2020). Limits of the sea. No. 117. Straight baselines
+claim: China. https://www.state.gov/wp-content/uploads/2020/01/LIS-117.pdf
+United States Navy Judge Advocate General’s Corp. (2019). Maritime claims reference
+manual. https://www.jag.navy.mil/organization/code_10_mcrm.htm
+Wang, Z. (2015). Chinese discourse on the ‘Nine-Dashed Line’. Asian Survey, 55(3),
+502–524.
+Yamaguchi, S. (2017, 17 April). Creating facts on the sea: China’s plan to establish Sansha
+city. Asia Maritime Transparency Initiative. https://amti.csis.org/chinas-plan-establishsansha-city/
+
+

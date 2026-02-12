@@ -1,0 +1,943 @@
+The Paciﬁc Review
+
+ISSN: 0951-2748 (Print) 1470-1332 (Online) Journal homepage: www.tandfonline.com/journals/rpre20
+
+A harmonized Southeast Asia? Explanatory
+typologies of ASEAN countries’ strategies to the
+rise of China
+Ian Tsung-Yen Chen & Alan Hao Yang
+To cite this article: Ian Tsung-Yen Chen & Alan Hao Yang (2013) A harmonized Southeast Asia?
+Explanatory typologies of ASEAN countries’ strategies to the rise of China, The Paciﬁc Review,
+26:3, 265-288, DOI: 10.1080/09512748.2012.759260
+To link to this article: https://doi.org/10.1080/09512748.2012.759260
+
+Published online: 26 Feb 2013.
+
+Submit your article to this journal
+
+Article views: 5684
+
+View related articles
+
+Citing articles: 14 View citing articles
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=rpre20
+
+The Pacific Review, 2013
+Vol. 26, No. 3, 265–288, http://dx.doi.org/10.1080/09512748.2012.759260
+
+A harmonized Southeast Asia?
+Explanatory typologies of ASEAN
+countries’ strategies to the rise of China
+Ian Tsung-Yen Chen and Alan Hao Yang
+
+Abstract In the face of a rising China, some scholars have argued that ASEAN
+countries will choose to either bandwagon with or balance against China, while others believe they will respond with a more moderate policy known as ‘hedging’. In
+considering these options, ASEAN countries must take into account their individual interests within the economic and security structure of this region. In this research, we argue that each ASEAN country confronts divergent sets of security
+and economic relations with China, which play a major role in shaping their policy responses. We can characterize their responses into four quadrants. Each cell
+can be categorized in terms of a high or low degree of threat perception (HT or LT)
+from China, as well as a positive or negative economic expectation (PE or NE) with
+China. We thus hypothesize that ASEAN countries in the HT–NE situation will balance against China; those in the LT–PE situation will bandwagon with China; those
+in the HT–PE or LT–NE situations will hedge against China. Hypotheses are supported by three case studies, Vietnam–China (HT–NE), Cambodia–China (LT–PE)
+and Singapore–China (HT–PE) relations.
+Keywords Southeast Asia; China; explanatory typology; hedging; bandwagoning;
+balancing.
+Ian Tsung-Yen Chen is a PhD student in the International Doctoral Program in Asia–Pacific
+Studies of National Chengchi University in Taiwan and project coordinator in the secretariat of
+Taiwan Participatory Group, Council for Security Cooperation in the Asia Pacific (CSCAP).
+He earned his MA in East Asian studies from Stanford University. He works in the fields
+of international relations, international political economy, international organizations, game
+theory and quantitative analysis with a focus on East Asia. His current research focuses on the
+convergence and divergence of international financial regulation.
+Address: International Doctoral Program in Asia-Pacific Studies (IDAS), No.64, Section 2,
+ZhiNan Road, Wenshan District, Taipei 11605, Taiwan. E-mail: ian.ty.chen@gmail.com
+Alan Hao Yang is an assistant research fellow at the Division of Asia–Pacific Studies, Institute of International Relations and assistant professor at IMAS/IDAS in National Chengchi
+University in Taiwan. He serves as the executive secretary in the secretariat of Taiwan Participatory Group, Council for Security Cooperation in the Asia Pacific (CSCAP). His research
+interests center on international relations theory, border politics in Southeast Asia and ChinaASEAN relations with specific focus on the soft power politics of Confucius Institutes.
+Address: Institute of International Relations, No. 64, WanShou Road, Wenshan District,
+Taipei 11666, Taiwan. E-mail: alanhao@nccu.edu.tw
+C 2013 Taylor & Francis
+
+
+266
+
+The Pacific Review
+
+Introduction
+The end of the Cold War and the rise of China have changed the international landscape. For East Asian countries, fear from the threat of communist ideology has largely dissipated to the extent that communism is
+no longer the primary concern around which policy-making decisions are
+made. International geopolitics, defined by the clash of competing superpowers during the Cold War, has changed, and the need to rely on building a security alliance with the US for geopolitical survival has more or
+less abated. Currently, however, the rise of China regionally and globally
+presents a new, dynamic and potentially volatile variable in the East Asian
+geopolitical arena. For relatively weaker East Asian nations, the question
+of how best to avoid an outright conflict within a changing regional power
+structure has become an important issue.
+This article discusses how Southeast Asian states will respond to China’s
+ascendance, which may be viewed both as a promising opportunity and
+a potential danger. Despite a litany of literature published on this topic,
+many are plagued with shortcomings we identify as being ‘less relevant’,
+‘overgeneralized’, ‘static’ and ‘outdated’. These works generally suffer
+two drawbacks. First, though they pertinently describe patterns of foreign policy behaviors, many fail to identify the causes behind such behaviors. This obscures the different independent variables that may lead
+Southeast Asian countries to adopt different policy options towards China.
+Second, shortcomings in the existing literature stems from the treatment
+of policy-making as a dichotomy rather than a continuum. In this framework, Southeast Asian states are portrayed as pursuing a static strategy instead of a dynamic one that constantly evolves in a changing
+regional landscape. We believe Southeast Asian states’ policies toward
+China are dynamic, varying among countries and across different periods of
+time.
+In this article, we introduce an analytical spectrum characterizing how
+Southeast Asian countries are likely to perceive China based on the interaction of two theories: ‘balance of threat’ and ‘trade expectation’. We
+argue that these perceptions will influence the types of policies that these
+countries will employ against China, which include ‘soft-balancing’, ‘hedging’ and ‘bandwagoning’. As political climates and situations fluctuate over
+time, so will the strategies used by different players. We hypothesize that
+Southeast Asian countries perceiving a high level of threat from China (HT)
+and expecting a negative economic relationship (NE) will view Beijing as
+an undesirable regional neighbor, and therefore more likely to choose the
+soft-balancing strategy. On the other hand, if these countries perceive a low
+level of threat (LT) and expect a positive economic relationship (PE), they
+will find in Beijing a more desirable neighbor, and are more likely to adopt a
+bandwagoning strategy. Countries in situations between these two extremes
+
+I. T. Y. Chen and A. H. Yang: A harmonized Southeast Asia? 267
+(either a HT-PE or LT-NE scenario) will choose a hedging strategy against
+China.
+Past literature on this topic and their shortcomings will be reviewed in
+the next section. In the third section, two major pillars of Southeast Asian
+states’ policies toward China and relevant strategic choices are identified
+within a policy spectrum. Furthermore, we will discuss the logic behind the
+analytical model. In the fourth section, we offer preliminary empirical evidence to support our theoretical framework by discussing Vietnam–China,
+Cambodia–China and Singapore–China relations. The final section concludes the article.
+
+Literature review
+Most literature on the reactions of Southeast Asian states to the rise of
+China can be divided into four categories. The first category tends to
+group Southeast Asian countries as a unitary international actor embedded within the framework of the Association of Southeast Asian Nations
+(ASEAN), and explains individual countries’ behaviors through the lens of
+observing actions undertaken by ASEAN. The second category examines
+Southeast Asian countries’ foreign policy-making as a response to regional
+power structures; in this case, these countries are considered as belonging
+to a group of ‘secondary’ or weaker states within the international system
+(Acharya and Goh 2007; Ganesan 1995; Hsiao and Yang 2008; Rajendran
+1985; Saravanamuttu 1999; Severino 2009). These two categories seek to
+depict a general pattern that reflects interests concentrated within either
+ASEAN or a group of secondary states.
+The literature in the last two categories pay attention to foreign policy variations among the different Southeast Asian countries, and refrain
+from treating Southeast Asian countries as part of a larger, unitary international actor. The third category discusses a range of policy choices including strategies such as ‘balancing’, ‘accommodating’, ‘bandwagoning’ or
+‘hedging’. Such an approach may overlook the variation of policy choices
+among different countries (Chung 2009; Dayley and Neher 2010; Pholsena
+and Banomyong 2006; Subianto 2002). The fourth category also recognizes
+the foreign policy variations among each Southeast Asian country, but pays
+attention to the influence of different domestic factors, such as ideology,
+leadership or regime type, in foreign policy-making (Chachavalpongpun
+2010; Perwita 2007).
+In this section, we discuss these divergent perspectives and identify their
+limitations. Afterwards, we briefly propose our idea to mitigate these shortcomings and offer a theoretical framework based on a foreign policy continuum characterized by two relevant conditions, which are ‘threat perception’
+and ‘expectation of economic relations’.
+
+268
+
+The Pacific Review
+
+ASEAN for socializing China?
+The first category of literature focuses primarily on how the regional institution of ASEAN influences China’s external behavior, and how Southeast
+Asian countries respond. Amitav Acharya suggests that a processorientated ASEAN has successfully created four crucial ideas in the region, which are ‘cooperative security’, ‘open regionalism’, ‘soft regionalism’ and ‘flexible consensus’ (Acharya 1997). These ideas can be helpful in
+shaping a regional identity for its actors to abide by. Nikolas Busse praises
+ASEAN members for abandoning the balance of power logic and successfully establishing a regional code of conduct centered around the concepts
+of ‘non-use of force’, ‘non-interference’ and ‘informality in conflict management’ (Busse 1999). China, as a more proactive participant in ASEAN,
+consequently is expected to be socialized in the informal principles set
+forth by Southeast Asian countries. This socialization proposition is sometimes termed as ‘binding-engagement’ (Kuik and Lee 2008). Accordingly, in
+Alice Ba’s words, China ‘has moved from skeptic to observer to participant
+as a dialogue partner with ASEAN and has full membership in the ASEAN
+Regional Forum (ARF) and other regional arrangements’ (Ba 2003). According to Rosemary Foot, the ARF’s central purpose is to manage transnational conflicts between Southeast Asia and China and ‘envelop China in
+this multilateral organization’ (Foot 1998). According to these scholars,
+the utilization of regional organizations remains the primary way in which
+Southeast Asian countries attempt to engage and ‘socialize’ China. In doing
+so, Southeast Asian countries can seek to secure a mutually beneficial economic relationship and tame China’s aggressive posture in the South China
+Sea (SCS). From China’s perspective, regional organizations serve to reassure ASEAN states of Beijing’s peaceful regional ambitions, thus winning
+them over, gaining their support possibly at the expense of US–ASEAN
+relations.
+Over the past decade, although China has become a proactive player in
+regional institutions and multilateral forums, some scholars have doubted
+the effectiveness of attempting to socialize China according to the desires
+of ASEAN members. Ba wonders whether regional institutions founded
+by less powerful states are able to socialize the most powerful regional
+player. She suggests a need to include the variable of power in the study of
+Sino–ASEAN relations. By raising the question ‘who’s socializing whom?’,
+Ba points out the possibility of ASEAN members being socialized by China,
+rather than the other way around (Ba 2006).
+David Jones and Martin Smith argue that although ARF has helped avoid
+large-scale conflicts between China and other sovereign claimants about
+possessions in the SCS, it has merely managed the problem, not solved
+them. They suggest that prolonging the dispute plays into the hands of
+China, stoking the hegemonic ambition of returning the region to the historical tributary system where Southeast Asian countries would obey China’s
+
+I. T. Y. Chen and A. H. Yang: A harmonized Southeast Asia? 269
+‘mandate of heaven’ (Jones and Smith 2007). To them, norms put forth by
+ASEAN and other regional institutions are merely ineffective rhetoric in
+the larger game of regional diplomacy, which in reality is always dominated
+by power politics. ASEAN, according to their perspective, is merely a platform for great powers to pursue their interests. In March 2010, Chinese
+officials, bypassing regional institutions, unilaterally told Washington that
+the SCS is its ‘core interest’, which raised alarm bells throughout Southeast
+Asia (Zhong 2010). This incident suggests that regional frameworks have
+failed to socialize China into the regional community, turning China into a
+desirable player, taming its aggressive postures in the region, and managing
+the potential confrontation between China and US (Manicom 2010). Using
+ASEAN as a central factor in understanding Southeast Asian countries’ reactions toward the rise of China might not be a relevant approach since it
+not only fails to recognize regional power as an important factor in foreign
+policy, but also neglects possible policy variations, determined by different
+political and economic conditions, within each Southeast Asian country.
+
+A group of secondary states?
+Similar to Jones and Smith’s argument that regional institutions are epiphenomenal to great power politics, other experts suggest that Southeast Asia
+is composed of 10 ‘secondary’ states sensitive to the variation of power
+structure, rather than regional norms. The balance of power between the
+countries in the region is the most critical factor in determining their foreign
+policies. In discussing the responses of East Asian secondary states toward
+China, Robert Ross argues that South Korea and Taiwan have increasingly developed an accommodating posture towards China, while Japan and
+ASEAN states are joining with the US to balance against it (Ross 2006). But
+balancing is a strategy usually employed by great powers, i.e., China, India,
+Japan and the United States. David Kang sees Asia’s regional order as a hierarchical one where China acts as a dominant power and the surrounding
+countries are secondary states. Kang unswervingly argues that in the face
+of a powerful China, these secondary states have no choice but to strive for
+friendly bilateral relations with Beijing, and such a hierarchical order will
+be stable and peaceful (Kang 2003).
+While these arguments suggest that secondary states will accommodate
+China’s interests, different scholars contend otherwise. In discussing the
+foreign policy options of weaker states, Eric Labs observes that balancing
+against a powerful country is a far more common behavior than accommodation, also known as bandwagoning. Instead of hedging their bets by
+bandwagoning, weak states fight by balancing against a rising power (Labs
+1992). Aaron Friedberg similarly expects ASEAN states to internally balance themselves against China’s growing capability (Friedberg 1993/1994).
+Furthermore, Gerald Segal suggests that judging from East Asia’s recent
+
+270
+
+The Pacific Review
+
+history, although China seems to be an unrivaled player, concerted containment by other regional players is capable of moderating China’s aggression
+(Segal 1998).
+In light of the larger debates within the realist IR theory regarding
+whether weaker states are likely to bandwagon with the most powerful state
+or join together to balance against it, scholars disagree on how secondary
+states in Southeast Asia will respond to a rising China. These conflicting
+opinions also highlight what we call the problem of ‘relevance’, in that the
+traditional understanding of balancing and bandwagoning, which focus on
+formal military alliances involving arms buildups, is now no longer as applicable as it was before (Paul 2005). Relying on old notions of international relations theory from the Cold War era may lead one to incorrectly
+assess the complexities of contemporary Southeast Asian affairs. Such an
+approach also downplays the domestic policy variations among states and
+run the risk of overgeneralization.
+
+Balancing, bandwagoning, hedging and others
+Over the past decade, many studies have attempted to redress the issues of
+relevance and overgeneralization by refraining from both treating Southeast Asian countries as unitary actors and confining their assessment of
+policies regarding China to the limited options of balancing or bandwagoning. Denny Roy argues that most Southeast Asian countries neither balance against nor bandwagon with China. Rather, their strategies can best be
+understood as ‘hedging’ on different levels. Hedging, in his understanding,
+is a policy that seeks positive relations with all great powers in a region – in
+this case, China and the US. In Roy’s words, Southeast Asian states ‘prefer
+not to antagonize any of the external great powers unless one poses a direct threat to a vital interest’ (Roy 2005). Seeking a modest level of defense
+cooperation with Washington, for example, can serve as a hedge against
+China.
+Some evidences suggest that whereas high-income neighbors, such as Singapore, can enjoy economic benefits, low-income countries, such as Vietnam, may be affected negatively (Eichengreen et al. 2007). John Wong
+and Sarah Chan also notice that Sino–ASEAN economic relationships are
+both competitive and complementary. While Singapore and China can
+benefit from each other’s specialization in different sectors and industries, most developing countries in Southeast Asia are competing for direct
+investment (FDI) in the same sectors and exporting products for similar
+markets (Wong and Chan 2003). As such, the unique economic conditions
+in each Southeast Asian country can affect their perception of China in very
+different ways. Discussing Southeast Asia’s views on the rise of China, Evelyn Goh suggests that it is useful to divide Southeast Asian countries into
+maritime and continental ones. The former are more reassured by the wider
+geographical distance between them and China, i.e., the stopping power of
+
+I. T. Y. Chen and A. H. Yang: A harmonized Southeast Asia? 271
+water, while the latter are more anxious of their powerful continental neighbor (Goh 2007). This would result in different perceptions of threat, characterizing states with different geographical features and strategies to engage
+Beijing.
+Although scholars have paid attention to the policy variations between
+states, policy options are often treated as ‘static’ and dichotomous, rather
+than dynamic and continuous. For example, as a continental state that is in
+competition for foreign economic advantages with China, Vietnam should
+see China as a grave threat and consequently balance, or at least hedge,
+against Beijing. However, Vietnam’s policy towards China has changed
+several times in the past two decades, suggesting that Hanoi’s response to
+China has been a dynamic one determined by altering conditions (Vuving
+2006). Subsequently, identifying the most relevant conditions and then constructing a continuous policy spectrum would be a most helpful approach in
+understanding Southeast Asian states’ responses to a rising China.
+
+Domestic factors
+Domestic factors, namely, ideology or regime type, sometimes play important roles in shaping foreign policy. For example, while ideology has traditionally aligned Vietnam with the socialist front, Carlyle Thayer has noted
+that ‘the ambivalence in Vietnam’s China policy reflects the tension that occasionally arises when ideology and national interest cannot be reconciled’
+(Thayer 1994). On the other hand, ASEAN was established by countries
+threatened by the spread of communism that sought close defense cooperation with the US.
+After the end of the Cold War, ideological conflicts between communist
+and democratic groupings became largely irrelevant and no longer constituted the most critical pillar in the making of Southeast Asian states’ foreign
+policies. In less autocratic Southeast Asian states, such as the Philippines,
+domestic politics is capable of determining foreign policy. For instance, Renato De Castro argued that the disappearance of the threat of communist
+ideology and the influence of a Philippines Senate opposed to US military
+bases were two major causes that drove away the US naval station in Subic
+Bay (Castro 2003).
+Furthermore, the influence of domestic politics may be salient in investigating how different types of regimes affect foreign policy settings. Countries with similar political institutions may be less willing to fight each other
+(Doyle 1983; Peceny et al. 2002). From this perspective, most Southeast
+Asian countries are more or less autocratic countries, which would downplay the importance of domestic political factors. In addition to regime
+types, domestic elite contestation may affect foreign policy formulation especially when elites’ personal interests contradict national interests (Kuik
+2008). Policy outcomes can be seen as bargaining results contested by a
+
+272
+
+The Pacific Review
+
+group of ruling elites in authoritarian Southeast Asian countries who possess enough power to decide the regime’s political survival (Bueno de
+Mesquita 2003). Foreign policies are chosen to continue elites’ ruling power
+as long as possible. Realizing political survival precedes securing personal
+interests (Kinne 2005). With this rational assumption, we offer two reasons
+to explain why the elites in Southeast Asian countries care no less about
+national interests than personal interests regarding China-related security
+and economic policies. First, if the aggregate elites’ perception of China’s
+threat does not reflect the state’s perception as a whole and relevant decisions aren’t made based on national interests, the threat perception will
+create the impression that they are lowering their chances of survival. If
+the country has a hard time to survive, their regime’s political survival will
+also be in danger. Security issues are less likely to be given up by ruling
+elites in order to pursue personal interests. Second, although most Southeast Asian countries are considered autocracies, their foreign economic
+policies are not solely and arbitrarily decided by a few ruling elites, such
+as in oil-exporting autocracies. In order to keep the state functioning and
+maintain legitimacy (Kuik 2008), each ruling regime needs to compete with
+its neighbors for more investments and economic opportunities to satisfy a
+fast-growing group of middle class. This is even truer when we recognize
+that most Southeast Asian countries are pursuing democratization, as well
+as trying to incorporate their people into global markets. Elites’ perception
+of China-related economic policies here would not be that incompatible to
+the aggregate national economic interests. As a result, the overall perception of Southeast Asian elites in each state should reflect what’s best for the
+state and initiate foreign policies accordingly. This suggestion, therefore,
+plays down the relevance of the domestic elite contestation.1
+In this section, we have classified past literatures regarding Sino–
+Southeast Asian relations into four categories and identified their limitations. Subsequently, we seek to mitigate these shortcomings by developing a theoretical framework that identifies the interplay of two major
+factors concerning Southeast Asian states the most. Using this explanatory typology, we present a spectrum best capturing Southeast Asian countries’ foreign policies toward China which is helpful to the understanding of
+Sino–Southeast Asian relations.
+
+Typologies of strategies directed at the rise of China
+In this section, we identify and discuss two influential factors that determine Southeast Asian states’ policies toward China. Next, we present policy
+options and construct a policy spectrum which corresponds to the interplay
+of such factors. Assuming that domestic politics play a minor role in our
+cases, this spectrum adopts a state-centric approach that parsimoniously
+demonstrates a Southeast Asian state’s perception of China and its subsequent policy choices.
+
+I. T. Y. Chen and A. H. Yang: A harmonized Southeast Asia? 273
+
+Threat perception and expectation of economic relations
+When analyzing the strategic options of any state, it is always crucial to
+identify factors that concern it the most. Investigating Southeast Asian perspectives on the challenges posed by a rising China, Goh pointed out that
+territorial disputes over islands in the SCS, Sino–US conflicts, China’s regional dominance, and the economic benefits and/or costs of China’s growth
+are factors that Southeast Asian states worry about the most (Goh 2007).
+She categorizes them into three dimensions: political, military, and economic challenges. Similarly, we boil down these categories in a broader
+way that includes only two factors: threat perception and the expectation
+of economic relations.
+The ideas behind the first pillar that constitutes the underlying basis of
+our policy spectrum, threat perception, derive from the ‘balance of threat’
+theory. Studying the sources of alliances, Stephen Walt argues that a great
+power’s ‘aggregate power’, ‘geographic proximity’, ‘offensive power’ and
+‘aggressive intentions’ are the four major sources of threats, which serve as
+a signal to surrounding states and influence their decisions over whether or
+not to ally with another state. When a powerful country has a high aggregate value of these four factors, it will generally be perceived as a grave
+threat and trigger the surrounding states to ally against it (Walt 1987). We
+find using Walt’s theoretical framework useful in evaluating the extent to
+which each Southeast Asian country feels threatened by China. Countries
+having a higher threat perception of China are likely to feel less secure,
+and as a result will seek ways to check its aggressive postures. Countries
+that have a lower threat perception are more reassured of the benefits of
+China’s growth, and will worry less about suffering losses from a powerful
+China.
+Whereas China’s growing economic and military strength can be seen as a
+potentially threatening posture, the maritime–continental divide mentioned
+earlier may lead maritime Southeast Asian states to be more reassured
+by the larger geographic distance, while continental states may perceive
+a HT because of their proximity. But China’s recent military excursions
+into disputed islands in the SCS is also a signal to maritime states of its aggressive intentions (Castro 2003). After People’s Liberation Army’s Navy
+(PLAN) was discovered doing construction on Mischief Reef in 1995, for
+example, Manila sensed the growing threat from Beijing and started to rethink the possibility to revitalize its defense cooperation with the US. In
+addition, experiences of historical conflicts with China also magnify Beijing’s aggressive intentions for Southeast Asian countries, which will try
+to build upon stronger military forces to mitigate their relative weakness.
+Applying Walt’s four components constituting the threat, we consider that
+Indonesia, Malaysia, the Philippines, Singapore and Vietnam currently confront HT while Brunei, Cambodia, Myanmar, Laos and Thailand face LT
+(Adriano 2011; Chung 2009; Goh 2004; Koong 1999; Kurlantzick 2007;
+
+274
+
+The Pacific Review
+
+Pan 2003; Sarkees and Wayman 2010; Tan 2009; Vaughn and Morrison
+2006).
+Aside from threat perception, Sino–Southeast Asian economic relations
+serve as the other pillar of our policy spectrum. Whether a deeper and
+more open economic relationship with China is beneficial or not to Southeast Asian states remains controversial. A more relevant analysis should
+focus on different domestic economic conditions of each state. Thanks to
+the inception of the ASEAN–China Free Trade Agreement, many Southeast Asian countries expect to attract more FDI and export more products
+to China (Ravenhill 2006). Others, however, fear that future FDI will decrease, accompanied by an increase in the trade deficit with China (Wong
+and Chan 2003). These contrasting expectations have been thoroughly discussed in disagreements among IR scholars’ over the impact of interdependence on conflicts. Realists contend that greater interdependence may lead
+to more conflict due to the increasing vulnerability of the more dependent
+side. The vulnerable would be compelled to control what they depend on
+(Waltz 1979). Liberals, correspondingly, argue that the interdependency
+offers absolute economic benefits to most involving parties, and therefore no incentive for conflict exists (Keohane and Nye 1977; Rosecrance
+1986).
+In an attempt to mediate this discrepancy between realists and liberals,
+Dale Copeland suggests a ‘theory of trade expectation’, which puts more
+weight on the expectation of future impact from interdependence. Following along his work, we recognize that for a state participating in an economically complex world, the relationship of interdependence within a certain time period is less important than its expectations about the future
+economic situation (Copeland 1996). In the context of this paper, the expectation of future economic impact on Southeast Asian countries is of
+greater significance than the past or current situation. In line with this suggestion, we consider that countries competing more fiercely with China
+on FDI inflows and export markets will expect to suffer from higher unemployment rates soon, then the interdependent relationship between
+them will be considered as a negative one that leads to a fear of losing economic interests (Chowdhury 2007). As a consequence, we expect Brunei,
+Cambodia, Malaysia, Myanmar and Singapore to have positive economic
+expectations while Indonesia, Laos, Philippines, Thailand and Vietnam
+will have negative ones. Incorporating the economic expectation factor with
+threat perception, Table 1 demonstrates our categorization of how each
+Southeast Asian country perceive China (Chowdhury 2010; Ehrlich 2011;
+Eichengreen et al. 2007; Shee 2005; Storey 2007; Yue 2005).
+Taking these two factors into account, this article contends that a HT
+and NE combination will make China’s presence in Southeast Asia undesirable. Conversely, a LT and PE will craft China a more acceptable partner.
+Since this interplay of two factors varies across different countries and time
+periods, a spectrum of the desirability of China (from the perspective of
+
+I. T. Y. Chen and A. H. Yang: A harmonized Southeast Asia? 275
+Table 1 Southeast Asian countries’ perceptions of China
+High threat
+Negative economic
+expectation
+Positive economic
+expectation
+
+Vietnam, Philippines,
+Indonesia
+Singapore, Malaysia
+
+Low threat
+Thailand, Laos
+Myanmar, Cambodia, Brunei
+
+Southeast Asian states) can be constructed as in Figure 1, ranging from the
+most undesirable to the most desirable.
+
+From soft-balancing to bandwagoning for profit
+Given that China presents different options and challenges for each Southeast Asian country, their response to its presence will vary. These states
+will either balance against China by allying with Washington (Ross 2006),
+hedge against China by means of maintaining defensive pacts with both
+Beijing and Washington (Murphy 2010; Roy 2005), or bandwagon with
+
+Figure 1 A spectrum of the desirability of China.
+
+276
+
+The Pacific Review
+
+China (Kang 2003). These policy options can be seen as a set of fluid, flexible strategies that take into account changes in the geopolitical situation.
+States are likely to choose the balancing strategy when China is considered
+threatening, adopt the bandwagon strategy when China’s posture is seen
+as more favorable, and hedge if their assessment of China is somewhere
+in between. Given that each Southeast Asian country will choose different
+strategies in response to different situations during different periods, we do
+not assume that any particular strategy is enough to explain each state’s
+policy-making.
+It is necessary to clearly define the terms ‘balancing’, ‘bandwagoning’ and
+‘hedging’ in our framework. A ‘balancing’ strategy connotes the balance of
+power. Naturally, power is important for states to survive. For great powers, they need enough material power to survive a war with others. Weaker
+states can choose to ally with powerful ones in order to seek protection.
+Maintaining a balance of power is considered to promote stability, since
+equal power distribution between different alliances will raise the cost of
+war and decrease the likelihood of an easy victory (Wagner 1994). As we
+have mentioned, however, while survival has historically been the main motivation for weaker states to balance against a rising power, this threat has
+largely diminished in the post-Cold War era (Paul 2005). In Southeast Asia,
+the shared norm of ‘non-interference’ has been embraced, rendering actual
+territorial invasions less likely. Today, diplomacy replaced military ventures
+as an alternate means to resolve disputes (Ramcharan 2000).
+States today are more likely to adopt a ‘soft’ balancing strategy to contain perceived threats. Soft balancing involves the formation of limited
+diplomatic coalitions or entities through upgrading existing alliances. Examples of soft balancing include joint military exercises and coalitions in international organizations. Roy uses a similar concept called ‘low-intensity
+balancing’ to describe that, rather than forming a formal military alliance
+with Washington, some Southeast Asian countries have been trying to
+bring more US military presence back in Asia to constrain China. He also
+called this soft balancing (Roy 2005). Such strategies include containing
+China through forming diplomatic coalitions in international organizations
+to check China’s ambitions, or bringing other great powers, such as India,
+Japan or the US, into the region by means of holding joint military exercises
+or hosting military bases for them.
+In contrary to the strategy of balancing against a perceived threat, bandwagoning or cooperation in hopes of seeking protection or other benefits, is another commonly discussed behavior when states confront grave
+threats (Kang 2009; Kaufman 1992; Roy 2005; Walt 1985). It involves forming military alliances with the potential threat. In our discussion, bandwagoning refers to Southeast Asian countries’ intent to forge military alliances
+with China, whether to appease Beijing’s aggression or share spoils from
+potential future conflicts. The end of the Cold War, however, has made this
+logic less relevant since international wars between great powers seem less
+likely to occur, especially in East Asia (Tønnesson 2009).
+
+I. T. Y. Chen and A. H. Yang: A harmonized Southeast Asia? 277
+Some scholars propose that bandwagoning is more about gaining interests than ensuring survival. When a great power emerges as a revisionist
+one, it attracts weaker states that seek the benefits of joining the revisionist group. Bandwagoning exists as a choice for weak states to respond to
+a threat, rather than being a part of that threat; therefore, bandwagoning
+should be more relevant if understood as a way to profit, not to survive
+(Schweller 1994). Here we adopt the interpretation that bandwagoning, for
+Southeast Asian countries, is to seek intensive defense and economic cooperation with China at the expense of cooperating with other major powers
+for the sake of securing opportunities elsewhere (Murphy 2010). When Chinese actions are perceived as more desirable, Southeast Asian states will be
+more prone to choose a bandwagoning stance.
+Between soft-balancing and bandwagoning for profit, playing safe is another option. Potential regional institutions capable of resolving controversies are still in the making in East Asia; therefore, for weaker players like
+Southeast Asian countries, there is great uncertainty ahead. Choosing to
+side exclusively with China, India, Japan or the US may be unwise and
+unnecessarily risky. Therefore, developing a strategy to maintain an equal
+relationship with all the great powers may be the most rational choice.
+For example, states can maintain a modest level of defense cooperation
+with Washington while still militarily and economically engaging China in
+a positive way. This strategy is typically called ‘hedging’ (Kuik 2008; Roy
+2005).
+A hedging strategy offers more flexibility for countries managing risks
+and uncertainty. As Kuik defines it, a hedging strategy is ‘a purposeful
+act in which a state seeks to insure its long-term interests by placing its
+policy bets on multiple counteracting options that are designed to offset
+risks embedded in the international system’ (Kuik and Lee 2008). Admittedly, maintaining equal distance with major powers would serve secondary
+states’ interests, especially when the current Sino–US relationship in East
+Asia is stable but competitive (Christoffersen 2002; Tow 2004). However,
+should threats from China become more severe or economic benefits less
+favorable, an initial hedging state might turn to side with other powers to
+constrain China. On the other hand, if the threat from China diminishes and
+economic benefits become more favorable, a hedging state may lean more
+and more toward China, to the point of adopting a bandwagoning strategy
+to seek greater profits from closer relations.
+Here we hypothesize that if a Southeast Asian state is in a HT–NE situation, it is more likely to choose a ‘soft balancing’ strategy; if it foresees
+a LT–PE situation, it is more likely to choose a ‘bandwagoning’ strategy;
+if it perceives a HT–PE or a LT–NE situation, it is more likely to choose
+a ‘hedging’ strategy. We demonstrate this explanatory typology with a policy spectrum, ranging from soft-balancing and hedging to bandwagoning, in
+Figure 1. In the next section, we use three cases, Vietnam–China (HT–NE),
+Cambodia–China (LT–PE) and Singapore–China (HT–PE) relations, to
+test our hypothesis.
+
+278
+
+The Pacific Review
+
+Empirical evidences from Vietnam, Cambodia and Singapore
+In this section, we present three divergent scenarios where we expect Southeast Asian countries to behave differently. In order to downplay domestic
+factors such as ideology, we focus our analysis on current events occurring
+after the end of the Cold War. We begin each case by presenting the kinds
+of threats and economic expectations confronted by the countries in question, followed by an analysis of their reactions to them.
+
+Vietnam’s balancing strategy against China (HT–NE Type)
+There have been ups and downs in contemporary Sino–Vietnamese relations. Both countries enjoyed close relations in the 1970s but this lapsed
+into tension during the 1980s, triggered by a border war in 1979. Up to
+now, even though frequent contacts among political leaders of both countries have been facilitated, Vietnam still regards China as a security threat
+due to its geographic proximity as well as the ongoing territorial dispute in
+the SCS. Economic competition with China further aggravates the negative
+perception of China. More recently, Vietnam has pursued an assertive softbalancing strategy, embodied by seeking informal military relations with
+the US through high profile joint military exercises, and favoring cooperation with non-China states on economic matters.
+Clearly, much of the perception of China as a threat is related to the SCS
+dispute. Sovereign disputes in the waters contribute to the deterioration of
+China’s image in Vietnamese society. On 5 March 2011, Vietnam protested
+a military drill conducted by China drilling in the Spratlys, arguing that the
+People Liberation Army’s (PLA) anti-piracy exercise intruded upon Vietnamese territory (China Post 2011). In May, Chinese coast guards cut the
+cable laid by a Vietnamese oil exploration vessel, followed shortly by another similar incident involving a Chinese fishing boat accompanied by two
+fishery administration vessels in early June. Beijing’s move ignited a series
+of domestic protests in Hanoi.
+Geographic proximity and the recent memory of China’s invasive border
+skirmishes have further magnified Vietnam’s perception of threat. Understandably, Beijing’s assertive claim over this region is problematic in the
+eyes of the ASEAN countries. Among them, Vietnam has been the most
+active state in working on a multilateral process of dispute resolution, especially during its ASEAN chairmanship in 2010. Vietnam has vigorously
+publicized and internationalized the SCS disputes on almost all the major occasions related to ASEAN meetings, and has constantly looked for
+possibilities to work with potential allies to balance China’s rising influence
+in the region (The Hanoist 2010).
+Vietnam has encountered several threats from China on the economic
+front, most notably trade competitiveness and unequal access to job opportunities. In recent years, although bilateral trade volume between Vietnam
+
+I. T. Y. Chen and A. H. Yang: A harmonized Southeast Asia? 279
+and China has been growing substantially, with an annual growth of around
+30%, it is estimated that Vietnam’s trade deficit towards China has significantly increased from US$0.2 billion in 2001 to US$12.6 billion in 2010 (The
+Council of Taiwanese Chambers of Commerce in Vietnam 2011). The exchange of Vietnam’s raw material (iron and coal) for China’s high price
+products (steel and mechanic equipment) is one of the reasons for this increasing trade deficit, which has also led to the decline in Vietnam’s market
+share of domestic products. In terms of global competitiveness, both countries are competing for global export market and FDI. Evidence shows that
+Vietnam will suffer economically in these two aspects if its trade deficit with
+China continues to grow (Eichengreen et al. 2007). In addition, unemployment has become another point of contention in their economic relationship. As we conducted fieldwork at the Vietnam–China border in Guangxi
+province, and although current sub-regional development strategies pursued by both sides were fostering a closer local-to-local partnership, transborder tensions flared due to unequal access to jobs. For example, China’s
+investment was supposed to provide employment opportunities for local
+Vietnamese. However, some Chinese companies that have established factories in Vietnam, such as the power stations in Halphong, have hired only
+Chinese migrant workers. In this regard, foreign investment projects have
+threatened local labor markets, further fostering a negative image with regards to Chinese economic initiatives. These factors situate Vietnam in a
+HT and NE condition, which has led it to react by adopting a soft-balancing
+strategy embodied by informal military interactions with the US and the
+pursuit of economic cooperation with other (non-China) powers.
+During the summer of 2010, disputes between the US and China in
+the ARF meeting centered on SCS issues, where the US Secretary of
+State Hillary Clinton noted that the maritime security was a pivotal issue
+(Bloomberg Businessweek 2010). The debates have triggered subsequent
+confrontations between China and its neighbors. In August 2010, US bilateral cooperation with Vietnam on this ongoing dispute led to a joint
+military exercises in the region. The joint training, which also involved
+the super-carrier USS George Washington, focused on non-combat operations, and was the first military exercise conducted by the US and Vietnam, who only a few decades ago were enemies (Cooper 2010). This military exercise, which also included naval drills by US and South Korean
+troops in the Yellow Sea, infuriated Beijing (Beech 2010). It is clear that
+Vietnam, with its increasing emphasis on economic dynamism, emerging
+markets and national security, has successfully gained support from the
+US to counterbalance China’s claims and its military presence in SCS.
+In addition, Vietnam and the US jointly conducted another high profile military exercise in July 2011 after another incident involving perceived Chinese encroachment in maritime territory claimed by Vietnam.
+Such action triggered a tough response from the Beijing authorities.2
+And Vietnam has not only reached out to the US to counter China’s
+
+280
+
+The Pacific Review
+
+regional ambitions. Recently, Vietnamese authorities have approached
+their counterparts in Russia for the purchase of diesel submarines and aircraft to enhance its defensive capabilities (RIA Novosti 2009).
+Furthermore, Vietnam’s growing distrust of China has been illustrated in
+its decision-making over local infrastructure investment projects. In recent
+years, Vietnam has planned to build a 1570 km high-speed rail throughout
+Hanoi and Ho Chi Minh City. Several countries such as Japan, Korea and
+China have expressed their interest and willingness to invest in this project.
+Considering the cost and technology involved, Japan and China are the
+most competitive candidates. Japan, the number one creditor of Vietnam
+at US$ 8.4 billion, has the most advanced Shinkansen technology. China,
+on the other hand, has initiated a new building scheme at the lowest cost
+while it has offered to develop a high-speed rail link between Ho Chi Minh
+City and Phnom Penh, the capital of Cambodia.3 Vietnam rejected China’s
+proposal and chose Japan’s plans. It was said that the decision in favor of
+Japan instead of China’s was made on account of its high-speed rail technology. However, domestic critics later stated that this decision was actually made based on Vietnam’s national security concerns. They argued that
+Vietnam political elites were worried about potential border skirmishes and
+tensions over the disputed territory between the two states. They feared
+that if war broke out, the high-speed rail built by China could be a critical
+infrastructure that can be used to transport and supply troops and aid in
+a swift invasion of Vietnam. Clearly, China is still regarded as a potential
+foreign invader. Vietnam’s reactions to the China-related issues discussed
+above indicate that soft-balancing strategies are adopted while engaging
+China.
+
+Cambodia’s bandwagoning stance with China (LT–PE type)
+In the case of Cambodia–China relations, we find that Cambodia champions a pro-China policy on political and economic issues in the hope of creating a win–win partnership. Cambodia seeks to take advantage of China’s
+powerful influence in international affairs to gain more influence to support its disputes against Thailand, while at the same time favoring Chinese
+foreign investments and markets. Hence, Cambodia seeks a bandwagoning
+approach exemplified by its need for political support, military protection
+and deeper economic cooperation with China.
+Cambodia does not see a threat in Beijing. Unlike other ASEAN countries, Cambodia does not have any significant disputes with China except
+for the environmental degradation and water dispute in the lower Mekong
+River basin, this resulting from the China’s dam construction project in
+upper stream of the river, which runs through its southern provinces.
+Although the members of Mekong River Commission, which includes
+Cambodia, Laos, Thailand and Vietnam, have criticized China’s dam construction project for retaining water and draining the downstream region of
+
+I. T. Y. Chen and A. H. Yang: A harmonized Southeast Asia? 281
+water (Pohlner 2010), this issue has yet to damage the amity and cooperation between Cambodia and China. Cambodia’s threat perception of China
+is further lowered by the fact that they do not share borders, relieving Cambodia from direct and immediate pressure from China. Finally, Beijing has
+become Phnom Penh’s major donor of foreign aid, and has also cancelled
+Cambodia’s entire debt to China. Beijing’s effective soft power, including
+its regional diffusion of Confucius Institutes, helps to soften the public perception of its involvement in Cambodia (Kurlantzick 2007).
+Chinese foreign aid is not perceived as a threat, but rather creates thriving economic expectations from the Cambodian people. Beijing has been
+Phnom Penh’s most important aid provider and critical investor since the
+2000s. In 2007 and 2008, for example, Beijing poured US$600 million and
+US$260 million, respectively, into Cambodia, most of which was used to
+construct roads, highways and local irrigation systems. In 2010, China also
+provided US $300 million in loans and US $15 million in foreign aid to
+Phnom Penh. It is estimated that Beijing has contributed to more than
+1500 kilometers worth of roads and bridges in Cambodia. A new and solid
+domestic transportation network is anticipated to boost economic growth
+in Cambodia and promote the growth of trade volumes. In 2009, the total
+bilateral trade volume between Cambodia and China totaled US $791 million, and the number now amounts to US$1.12 billion, reflecting a growth
+rate of 41.5% (People’s Daily 2011). In December 2010, both sides pledged
+to increase the trade volume to US $2.5 billion by 2015. In effect, just as in
+other ASEAN countries, trade cooperation has been regarded as ‘pattern
+cooperation’ for Cambodia–China relations.
+These factors place Cambodia in a LT–PE situation, leading it to pursue a bandwagoning posture in its dealings with China. First, Cambodia has sought military aid and security guarantees from China (Dayley
+and Neher 2010). According to the authors’ fieldwork conducted in Ubon
+Ratchathani and Si Saket, China offered military assistance to Cambodia,
+such as supplying weapons that are sent to the frontlines in the ongoing
+Thailand–Cambodia border conflict. Because Cambodia is rather small and
+weak in comparison to Thailand, Phnom Penh hopes to strongly publicize
+its border dispute to the international community. As a result, Cambodia
+has adopted an increasingly submissive posture to China, which, despite
+seeming neutral in the eyes of the public, has actively supported Cambodian development. It is also evident in China’s growing influence in Cambodian domestic affairs. For example, Chinese police can disregard standard
+extradition proceedings in Cambodian justice system and lead joint operations to arrest and deport alleged Chinese criminals in Cambodia. Chinese diplomats are also allowed to lodge bitter complaints to Cambodian
+agencies about unfriendly reports regarding China published in local newspapers (Kuik and Lee 2008).
+In economic affairs, moreover, Cambodia seeks to maintain a comprehensive partnership with Beijing to attract more investments and foreign
+
+282
+
+The Pacific Review
+
+aid from China. While Cambodia is promoting its local economy by establishing 22 economic zones, the Royal Government continues to ask for
+China’s support to invest in key areas. For example, the development of
+the Sihanoukville Special Economic Zone has received investments by a
+collaborative effort by the Cambodia International Investment Group Co.
+Ltd. and the Taihu Cambodia International Economic Cooperation Zone
+Investment Co. Ltd, a state-owned enterprise in China approved by Ministry of Commerce (Invest in Cambodia 2011). For China, the investment
+project clearly underscores its commitment to the core values of its ‘going
+out’ strategy. For Cambodia, the development of local industries in areas
+such as textile and clothing, machinery and electronics, and high-tech products is highly desirable.
+As these examples show, a LT–PE condition has led Cambodia to bandwagon with China in order to not only resolve its international difficulties,
+but also proposer economically through active engagement with China. The
+concerns of Cambodia are centred on seeking greater benefits as opposed
+to ensuring survival.
+
+Singapore’s hedging strategy against China (HT–PE)
+The relationship between Singapore and China should be seen as a clear
+example of the hedging strategy in practice. As See Seng Tan (2009: 21)
+puts it, Singapore’s pragmatic relationship with China suggests the strategy
+of ‘riding the Chinese dragon’. Singapore prefers to maintain a slight distance from China on security issues based on its calculation of power politics, while shaping a closer economic relationship with the rising Chinese
+economy. Experts have agreed that Singapore seems to pursue a sophisticated hedging strategy towards China as a result of its perceived uncertainty
+regarding regional stability and economic benefits (Kuik 2008).
+Since independence, the strategic priority of Singapore has been to develop through economic initiatives to elevate its international influence and
+tame down domestic opposition. Hence, Singapore depends heavily on international trade and investment, especially in energy imports. Maintaining
+maritime stability thus stands out as its major security concern. Therefore,
+although Singapore does not receive a direct and immediate threat from
+China’s presence in the seas, it is nevertheless anxious about any potential events that could impair the freedom of navigation in nearby waters.
+SCS disputes, thus, have become one of the primary issues influencing Singapore’s perception of China (Koong 1999). If SCS tensions result in restricted maritime traffic, Singapore is more likely in a HT situation. Otherwise, a LT situation is more applicable. Accordingly, when China’s recent
+incursions in Vietnam-claimed and Philippines-claimed maritime territories
+in mid 2011 endangered maritime stability, Singapore shortly filed a serious
+complaint to China, despite it not being an active participant in the dispute
+
+I. T. Y. Chen and A. H. Yang: A harmonized Southeast Asia? 283
+(Manicom 2010). This suggests that if SCS disputes turn the waters into a
+full-fledged military flashpoint, it is very plausible that Singapore will find
+itself in a HT condition and seek closer ties with the US.
+But on the economic front, Singapore and China have established a positive relationship, one that is beneficial to both sides. Starting in 1999, Singapore turned its trade deficit with China to a surplus of more than US$4 billion. The surplus continued to widen to US$14 billion in 2006 and continues
+to expand (Barbieri et al. 2009). Singapore is able to benefit from regional
+economic integration, as its strong service sector is able to compete with
+China’s industries. In addition, China’s rising domestic markets are suitable for Singaporean businessmen who can take the opportunity to profit
+from China’s further incorporation into the world market (Eichengreen
+et al. 2007). An example is the Suzhou Industrial Park, one of many successful projects promoted by both governments. Research has indicated that
+the growth of China’s inward FDI came at the expense of most ASEAN
+countries (Wong and Chan 2003). But according to our investigation, interestingly, Singapore is among the few that has seen a 3.2% increase in the
+proportion of FDI comprising China and ASEAN countries, from 12.7%
+in 1996 to 15.9% in 2010.4 It thus suggests that, rather than posing a salient
+threat to Singapore, China’s rising economic power is beneficial – which
+generates a PE scenario for Singapore.
+Under a HT and PE situation, Singapore is concerned about maintaining
+its profitable economic cooperation while reducing risk and uncertainty in
+the maritime region. China’s growing military power and assertive behavior
+in SCS has thus alarmed Singaporean leaders. In such an uncertain security
+environment, Singapore hopes the US and China can coexist peacefully in
+Southeast Asia. But rather than using the US presence in the region to balance itself against China, Singapore prefers to maintain an equal distance
+between themselves and neighboring powers in Asia (Rajan 2012). Simon
+Tay put forward the idea of ‘equi-proximatity’ as a survival strategy for
+Singapore that keeps its away from being dominated by any one of the great
+powers (Tay 2011). To Lee Kuan Yew, for example, drawing in other powers like Australia and India in discussions concerning East Asian affairs is
+beneficial for Singapore to maintain a sort of balance against China (Barbieri et al. 2009). But he also indicated the necessity of responding to China’s
+pressure to preserve healthy bilateral economic ties (TIME 2005).
+Clearly in Singapore’s case, maintaining economic prosperity with China
+while being vigilant to its strategic intention are its main survival concerns.
+It cannot afford to infuriate China by seeking a soft-balancing strategy with
+other powers like Vietnam, but cannot bandwagon with China, as in Cambodia’s case, since there is still uncertainty over China’s posture in the South
+China Sea. Thus, Singapore’s strategy relies on bringing in other powers to
+create a semblance of balance in an uncertain situation which they have no
+influential control over.
+
+284
+
+The Pacific Review
+
+Conclusion
+In this paper, we investigate the interplay of Sino–Southeast Asian countries’ economic and security relations by introducing the theories of trade
+expectation and balance, which help explain Southeast Asian countries’
+divergent response to a rising China. From the cases of contemporary
+Vietnam–China, Cambodia–China and Singapore–China relations, we offer
+empirical evidences corresponding to the explanatory typologies. Countries
+with a grave sense of threat and who expect to suffer economically from cooperation with China, such as Vietnam, will choose a ‘soft balancing’ strategy; countries such as Cambodia, which perceives a low sense of threat and
+expects to benefit economically from cooperation with China, is more likely
+to choose a ‘bandwagoning’ strategy; countries that have a positive perception in only one aspect like Singapore will choose an equal-distance ‘hedging’ strategy to ensure its long-term interests in the struggle of great power
+politics. Although we take sides in identifying the scenario each Southeast
+Asian country is in, and their subsequent strategies, we by no means suggest
+that the situation will remain the same forever. Recognizing that the region
+is changing rapidly, our model is adopted to understand such dynamics and
+its implications for Southeast Asia–China relations. Should China change
+its foreign behavior in critical issues such as the SCS disputes or the value
+of the Renminbi in the future, each Southeast Asian country’s perception
+of China will vary accordingly, thus altering their strategic options.
+With the global epistemic communities focusing on China’s rise, it is understandable that small states appear to be mere peripheral players in the
+East Asian power structure. However, when investigating the typology of
+small states’ responses to this rising power, we may find that they are more
+likely to have leverages that alter their importance in the power game,
+which may lead to a further theorizing process of future ASEAN-China
+relations.
+
+Acknowledgements
+This work was supported by National Chengchi University’s Top University
+Program and Taiwan’s National Science Council. We are grateful to the
+participants at the panel of ‘Asian Integration: Prospects and Challenges’ in
+2011 ISA annual convention for helpful comments, as well as Evan Berman,
+Duygu Evren and Tony Wan for their advice and assistance.
+
+Notes
+1 We thank the anonymous reviewer who pointed out the relevance of the elites’
+interests.
+2 Chinese army chief General Chen Bingde said the exercises with the Philippines
+and Vietnam were ‘extremely inappropriate’. See BBC (2011).
+
+I. T. Y. Chen and A. H. Yang: A harmonized Southeast Asia? 285
+3 According to the blueprint of Beijing–Shanghai high-speed rail, this 1318 km rail
+construction project will cost RMB 221 billion, while the Japanese proposal will
+cost RMB 380 billion.
+4 We use the data from United Nations Conference on Trade and Development
+and compare differences between 1996 and 2010, excluding the influence of the
+Asian financial crisis in 1997 and the global financial tsunami in 2008.
+
+References
+Acharya, A. (1997) ‘Ideas, identity, and institution-building: from the “ASEAN
+way” to the “Asia–Pacific way”?’, The Pacific Review 10(3): 319–46.
+Acharya, A. and Goh, E. (2007) Reassessing Security Cooperation in the AsiaPacific: Competition, Congruence, and Transformation, Massachusetts: Belfer
+Center for Science and International Affairs.
+Adriano, J. (2011) ‘Sinophobia on the rise in the Philippines’, Asia Times, 13 July;
+accessed at http://www.atimes.com/atimes/Southeast_Asia/MG13Ae01.html,
+30 January 2012.
+Ba, A. (2003) ‘China and ASEAN: renavigating relations for a twenty-first century
+Asia’, Asian Survey 43(4): 622–47.
+Ba, A. (2006) ‘Who’s socializing whom? Complex engagement in Sino–ASEAN relations’, The Pacific Review 19(2): 157–79.
+Barbieri, K., Keshk, O. and Pollins, B. (2009) ‘Trading data: evaluating our assumptions and coding rules’, Conflict Management and Peace Science 26(5): 21.
+BBC (2011) ‘US–China spat over South China Sea military exercises’, 11 July; accessed at http://www.bbc.co.uk/news/world-asia-pacific-14097503, 30 January
+2012.
+Beech, H. (2010) ‘Asia’s new Cold War’, TIME, 3 October; accessed at
+http://www.time.com/time/magazine/article/0,9171,2022546,00.html, 30 January 2012.
+Bloomberg Businessweek (2010) ‘US signals to China it won’t keep out of South
+Sea’, 23 July; accessed at http://www.businessweek.com/news/2010–07-23/
+u-s-signals-to-china-it-won-t-ke ep-out-of-south-sea.html, 5 March 2011.
+Bueno de Mesquita, B. (2003) The Logic of Political Survival, Cambridge, MA: MIT
+Press.
+Busse, N. (1999) ‘Constructivism and Southeast Asian security’, The Pacific Review
+12(1): 39–60.
+Castro, R. C. D. (2003) ‘The revitalized Philippine–US security relations: a ghost
+from the Cold War or an alliance for the twenty-first century?’, Asian Survey
+43(6): 971–88.
+Chachavalpongpun, P. (2010) Reinventing Thailand: Thaksin and His Foreign Policy, Singapore and Thailand: ISEAS and Silkworm Books.
+China Post (2011) ‘Vietnam protests China’s Spratly military exercises’,
+China Post, 5 March; accessed at http://www.chinapost.com.tw/asia/vietnam/
+2011/03/05/293400/Vietnam-protests.htm, 30 January 2012.
+Chowdhury, A. (2007) FTA, Regional Integration and Development, Busan: Pusan
+National University, Busan.
+Chowdhury, N. (2010) ‘Free trade with China: ASEAN’s winners and losers’,
+TIME, 22 January; accessed at http://www.time.com/time/world/article/
+0,8599,1955863,00.html, 30 January 2012.
+Christoffersen, G. (2002) ‘The role of East Asia in Sino–American relations’, Asian
+Survey 42(3): 369–96.
+
+286
+
+The Pacific Review
+
+Chung, J. H. (2009) ‘East Asia responds to the rise of China: patterns and variations’, Pacific Affairs 82(4): 657–75.
+Cooper, J. (2010) ‘US Navy Destroyer docks in Vietnam for four-day visit’, Voice of
+America, 10 August; accessed at http://www.voanews.com/english/news/asia/
+US-Vietnam-to-Launch-Unprecedent ed-Naval-Exercises-100348919.html, 2
+February 2012.
+Copeland, D. (1996) ‘Economic interdependence and war: a theory of trade expectations’, International Security 20(4): 5–41.
+Dayley, R. and Neher, C. (2010) Southeast Asia in the New International Era, Singapore: Westview Press.
+Doyle, M. (1983) ‘Kant, liberal legacies, and foreign affairs, Part 2’, Philosophy and
+Public Affairs 12(4): 323–53.
+Ehrlich, R. (2011) ‘Anxiety as China influences Thailand’s economy’, Scoop,
+1 August; accessed at http://www.scoop.co.nz/stories/HL1108/S00037/anxietyas-china-influences-thailands-economy.htm, 30 January 2012.
+Eichengreen, B., Rhee, Y. and Tong, H. (2007) ‘China and the exports of other
+Asian countries’, Review of World Economics 143(2): 201–26.
+Foot, R. (1998) ‘China in the ASEAN regional forum: organizational processes and
+domestic modes of thought’, Asian Survey 38(5): 425–40.
+Fridberg, A. (1993/1994) ‘Ripe for rivalry: prospects for peace in a multipolar Asia’,
+International Security 18(3): 5–33.
+Ganesan, N. (1995) ‘Rethinking ASEAN as a security community in Southeast
+Asia’, Asian Affairs, an American Review 21(4): 210–26.
+Goh, E. (2004) ‘Singapore’s reaction to rising China: deep engagement and strategic
+adjustment’, IDSS Working Paper 67: 1–24.
+Goh, E. (2007) ‘Southeast Asian perspectives on the China challenge’, Journal of
+Strategic Studies 30(4/5): 809–32.
+Hsiao, M. and Yang, A. (2008) ‘Transformations of China’s soft power toward
+ASEAN’, China Brief 8(22): 11–5.
+Invest in Cambodia (2011) ‘Special economic zones’; accessed at http://www.
+investincambodia.com/economic_zones/sezs.htm, 7 March 2011.
+Jones, D. M. and Smith, M. (2007) ‘Making process, not progress: ASEAN and the
+evolving East Asian regional order’, International Security 32(1): 148–84.
+Kang, D. (2003) ‘Getting Asia wrong: the need for new analytical frameworks’, International Security 27(4): 57–85.
+Kang, D. (2009) ‘Between balancing and bandwagoning: South Korea’s response to
+China’, Journal of East Asian Studies 9(1): 1–28.
+Kaufman, R. (1992) “‘To balance or to bandwagon?” Alignment decisions in 1930s
+Europe’, Security Studies 1(3): 417–47.
+Keohane, R. and Nye, J. (1977) Power and Interdependence: World Politics in Transition, Boston: Little, Brown.
+Kinne, B. (2005) ‘Decision-making in autocratic regimes: a poliheuristic perspective’, International Studies Perspectives 6(1): 114–28.
+Koong, P. C. (1999) Southeast Asian Countries’ Perceptions of China’s Military Modernization, Washington: George Washington University.
+Kuik, C.-C. (2008) ‘The essence of hedging: Malaysia and Singapore’s response to a
+rising China’, Contemporary Southeast Asia 30(2): 159–85.
+Kuik, C.-C. and Lee, K. C. (2008) ‘Rising dragon, crouching tigers? Comparing the
+foreign policy responses of Malaysia and Singapore towards a re-emerging
+China, 1990–2005’, BiblioAsia 3(4): 4–13.
+Kurlantzick, J. (2007) Charm Offensive: How China’s Soft Power Is Transforming
+the World, New Haven: Yale University Press.
+Labs, E. (1992) ‘Do weak states bandwagon?’, Security Studies 1(3): 383–416.
+
+I. T. Y. Chen and A. H. Yang: A harmonized Southeast Asia? 287
+Manicom, J. (2010) ‘Beyond boundary disputes: understanding the nature of China’s
+challenge to maritime East Asia’, Harvard Asia Quarterly 12(3/4): 46–53.
+Murphy, A. M. (2010) ‘Beyond balancing and bandwagoning: Thailand’s response
+to China’s rise’, Asian Security 6(1): 1–27.
+Pan, P. (2003) ‘China’s improving image challenges US in Asia’, Washington Post,
+15 November, p. A01.
+Paul, T. V. (2005) ‘Soft balancing in the age of US primacy’, International Security
+30(1): 46–71.
+Peceny, M., Beer, C. C. and Sanchez-Terry, S. (2002) ‘Dictatorial peace?’, American
+Political Science Review 96(01): 15–26.
+People’s Daily (2011) ‘Chinese vice commerce minister praises China–Cambodia
+cooperation’, 22 February; accessed at http://english.peopledaily.com.cn/
+90001/90776/90883/7295176.html, 8 March 2011.
+Perwita, A. A. B. (2007) Indonesia and the Muslin World: Islam and Secularism in
+the Foreign Policy of Soeharto and Beyond, Copenhagen: NIAS Press.
+Pholsena, V. and Banomyong, R. (2006) Laos: From Buffer State to Crossroads,
+Ching Mai: Meking Press.
+Pohlner, H. (2010) ‘Chinese dam diplomacy: Leadership and geopolitics in
+continental Asia’, East Asia Forum Quarterly, 2(3); accessed at http://
+www.eastasiaforum.org/2010/08/19/chinese-dam-diplomacy-leadership-andgeopolitics-in-continental-asia/. 30 January 2012.
+Rajan, D. S. (2012) Re-evaluating US Foreign Policy Towards Asia, India: Chennai
+Centre for China Studies.
+Rajendran, M. (1985) ASEAN’s Foreign Relations: The Shift to Collective Action,
+Kuala Lumpur: Arenabuku sdn bhd.
+Ramcharan, R. (2000) ‘ASEAN and non-interference: a principle maintained’, Contemporary Southeast Asia 22(1): 60–88.
+Ravenhill, J. (2006) ‘Is China an economic threat to Southeast Asia?’, Asian Survey
+46(5): 653–74.
+RIA Novosti (2009) ‘Vietnam could become key importer of Russian weaponry’, 12
+April; accessed at http://en.rian.ru/mlitary_news/20091204/157097433.html.
+30 January 2012.
+Rosecrance, R. N. (1986) The Rise of the Trading State: Commerce and Conquest in
+the Modern World, New York: Basic Books.
+Ross, R. (2006) ‘Balance of power politics and the rise of China: accommodation
+and balancing in East Asia’, Security Studies 15(3): 355–95.
+Roy, D. (2005) ‘Southeast Asia and China: balancing or bandwagoning?’, Contemporary Southeast Asia 27(2): 305–22.
+Saravanamuttu, J. (1999) Asian Peace: Security and Governance in the Asia Pacific
+Region, ed. M. Tehranian, London: I. B. Tauris Publishers.
+Sarkees, M. R. and Wayman, F. W. (2010) Resort to war: a data guide to inter-state,
+extra-state, intra-state, and non-state wars, 1816-2007, Washington, D.C.: CQ
+Press.
+Schweller, R. (1994) ‘Bandwagoning for profit: bringing the revisionist state back
+in’, International Security 19(1): 72–107.
+Segal, G. (1998) East Asian Security, ed. M. E. Brown, S. M. Lynn-Jones and S. E.
+Miller, Cambridge, MA: MIT Press.
+Severino, R. (2009) The ASEAN Regional Forum, Singapore: Institute of Southeast
+Asian Studies.
+Shee, P. K. (2005) ‘Singapore–China Special Economic Relations: In Search of Business Opportunities’, Ritsumeikan International Affairs 3: 151–76.
+Storey, I. (2007) ‘Malaysia’s hedging strategy with China’, China Brief 7(14); accessed at http://www.jamestown.org/single/?no_cache=1&tx_ttnews%5Btt_
+news%5D=4298, 30 January 2012.
+
+288
+
+The Pacific Review
+
+Subianto, L. H. (2002) Southeast Asia in the New Century: An Asian Perspective, ed.
+S. C. Y. Ku, Kaohsiung: National Sun Yat-Sen University.
+Tønnesson, S. (2009) ‘What is it that best explains the East Asian peace since 1979?
+A call for a research agenda’, Asian Perspective 33(1): 111–35.
+Tan, S. S. (2009) The Rise of China: Responses from Southeast Asia and Japan, ed.
+J. Tsunekawa, Japan: The National Institute for Defense Studies.
+Tay, S. (2011) Asia Alone: The Dangerous Post-Crisis Divide from America, Singapore: John Wiley & Sons.
+Thayer, C. (1994) ‘Sino–Vietnamese relations: the interplay of ideology and national
+interest’, Asian Survey 34(6): 513–28.
+The Council of Taiwanese Chambers of Commerce in Vietnam (2011); accessed at
+http://www.ctcvn.org/yncj-nry.aspx?sn=2811, 7 March 2011.
+The Hanoist (2010) ‘Vietnam hedges its China risk’, Asia Times, 30 June; accessed at http://www.atimes.com/atimes/Southeast_Asia/LG30Ae01.html, 30
+January 2012.
+TIME (2005) ‘Lee Kuan yew reflects’, 12 December; accessed at http://www.
+time.com/time/magazine/article/0,9171,1137705,00.html, 10 February 2012.
+Tow, S. (2004) ‘Southeast Asia in the Sino–US strategic balance’, Contemporary
+Southeast Asia: A Journal of International & Strategic Affairs 26(3): 434–59.
+Vaughn, B. and Morrison, W. (2006) China–Southeast Asia Relations: Trends, Issues,
+and Implications for the United States, Washington, D.C.: Library of Congress.
+Vuving, A. (2006) ‘Strategy and evolution of Vietnam’s China policy: a changing
+mixture of pathways’, Asian Survey 46(6): 805–24.
+Wagner, R. H. (1994) ‘Peace, war, and the balance of power’, American Political
+Science Review 88(3): 593–607.
+Walt, S. (1985) ‘Alliance formation and the balance of world power’, International
+Security 9(4): 3–43.
+Walt, S. (1987) The Origins of Alliances, Ithaca: Cornell University Press.
+Waltz, K. N. (1979) Theory of International Politics, Boston, MA: McGraw-Hill.
+Wong, J. and Chan, S. (2003) ‘China–Asean free trade agreement: shaping future
+economic relations’, Asian Survey 43(3): 507–26.
+Yue, C. S. (2005) ‘ASEAN–China economic competition and free trade area’, Asian
+Economic Papers 4(1): 109–47.
+Zhong, W. (2010) ‘A daring departure from Deng’, Asia Times Online, 6 August;
+accessed at http://www.atimes.com/atimes/China/LH06Ad02.html, 7 March
+2011.
+
+

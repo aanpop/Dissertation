@@ -1,0 +1,1719 @@
+Journal of Strategic Studies
+
+ISSN: 0140-2390 (Print) 1743-937X (Online) Journal homepage: www.tandfonline.com/journals/fjss20
+
+Explaining China’s large-scale land reclamation in
+the South China Sea: Timing and rationale
+Ketian Zhang
+To cite this article: Ketian Zhang (2023) Explaining China’s large-scale land reclamation in the
+South China Sea: Timing and rationale, Journal of Strategic Studies, 46:6-7, 1185-1214, DOI:
+10.1080/01402390.2022.2040486
+To link to this article: https://doi.org/10.1080/01402390.2022.2040486
+
+Published online: 28 Feb 2022.
+
+Submit your article to this journal
+
+Article views: 2578
+
+View related articles
+
+View Crossmark data
+
+Citing articles: 10 View citing articles
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=fjss20
+
+JOURNAL OF STRATEGIC STUDIES
+2023, VOL. 46, NOS. 6–7, 1185–1214
+https://doi.org/10.1080/01402390.2022.2040486
+
+ORIGINAL ARTICLE
+
+Explaining China’s large-scale land reclamation in the
+South China Sea: Timing and rationale
+Ketian Zhang
+Schar School of Policy and Government, George Mason University, Fairfax, VA, USA
+ABSTRACT
+
+Since 2013, China has undertaken extensive reclamation and construction on
+several reefs in the Spratly Island chain in the South China Sea. China has since
+been adding new construction and fortifications to the land features that had
+undergone reclamation between late 2013 and 2015, but none of the new projects
+rivalled the large-scale reclamation from 2014–15, and nor has China reclaimed any
+new land features. Land reclamation has theoretical and empirical implications. The
+literature regarding maritime disputes in the South China Sea is rich and plenty.
+Many studies, however, focus on China’s bilateral assertive or coercive behaviour as
+well as China’s general strategy in the South China Sea, not land reclamation per se.
+What explains the timing of China’s large-scale land reclamation in the South China
+Sea? Why did China decide to initiate large-scale land reclamation in the first place?
+This paper, therefore, conducts a comprehensive case study analysing China’s land
+reclamation decisions. I argue that China’s land reclamation is a result of capability,
+rationale, and opportunities which include a calculation of U.S. resolve. This study
+has implications for understanding Chinese foreign policy decision-making and
+contributes to the credibility debate in the coercion literature.
+KEYWORDS China; maritime; security; credibility; resolve
+
+Introduction
+Since 2013, China has undertaken extensive reclamation and construction on
+several reefs in the Spratly Island chain in the South China Sea, which has resulted
+in over 2,000 acres (809 hectares) of artificial landmasses on Chinese-occupied
+reefs that are disputed between several countries, including Vietnam, the
+Philippines, and Malaysia.1 China announced on 16 June 2015 that its reclama­
+tion work would be completed ‘in the upcoming days’, and that when reclama­
+tion was finished, it would build facilities on the newly created artificial Islands.2
+China has since added new constructions and fortifications to the land features
+
+CONTACT Ketian Zhang
+Kzhang20@gmu.edu
+Schar School of Policy and Government, George
+Mason University, Fairfax, VA, USA
+1
+Ben Dolven et al., ‘Chinese Land Reclamation in the South China Sea: Implications and Policy Options’,
+Congressional Research Service Report R44072, 18 June 2015 https://fas.org/sgp/crs/row/R44072.pdf
+2
+Ibid.
+© 2022 Informa UK Limited, trading as Taylor & Francis Group
+
+1186
+
+K. ZHANG
+
+that had undergone reclamation between late 2013 and 2015, but none of the
+new projects rivalled the large-scale reclamation from 2014–15, and nor has
+China reclaimed any new land features.3
+China had long engaged in land reclamation in the South China Sea,
+although not on a large scale. In 1991, China allowed its Navy to construct
+airports on Woody Islands in the Paracel Islands.4 China seized and built
+infrastructure on Mischief Reef in 1995 and refurbished the infrastructure in
+1998. Chinese land reclamation activities then stopped altogether and did not
+resume until the end of 2013, on an unprecedented scale. The fact that China
+built infrastructure on land features in the 1990s and came to a halt in the 2000s
+is in line with the general trend of Chinese reactive and immediate coercion.5
+Yet interestingly, China’s land reclamation activity started in 2013, took off in
+2014, and then gradually paused in 2015. IHS Jane’s monitored the movements
+of the Chinese dredger Tian Jing Hao and found it located on-station at Johnson
+South Reef on 17 December 2013 and land reclamation operations began at
+Johnson South Reef on 26 February 2014.6 This Chinese dredger subsequently
+moved to the Hughes Reef, Gaven Reefs, Fiery Cross Reefs, and other reefs in
+2014 and 2015.7 Based on satellite images, China reclaimed about 13 square
+kilometres of land on its seven land features in the Spratly Islands between
+2014 and 2015.8 The size of Chinese land reclamation in 2014 and 2015 is so
+large that it dwarfs the land reclamation of all other claimants combined.
+China’s large-scale land reclamation in the South China Sea has garnered
+media attention, criticism, as well as acute concerns from various governments
+and policy analysts.9 In a communiqué after the G7 meeting in Toronto in May
+2021, the foreign ministers of Canada, France, Germany, Italy, Japan, the United
+States and Britain declared their ‘strong opposition to any unilateral actions that
+escalate tensions and undermine regional stability and the international rulesbased order, such as the threat or use of force, large-scale land reclamation and
+building of outposts, as well as their use for military purposes’.10 Mira Rapp3
+
+Ralph Jennings, ‘Beijing Done, for Now, Acquiring Land in South China Sea’, VOA, 15 March 2019 https://
+www.voanews.com/east-asia-pacific/beijing-done-now-acquiring-land-south-china-sea; Zachary Haver,
+‘China Reclaims Land, Fortifies Coast of South China Sea Island Base to Prevent Erosion’, Radio Free Asia,
+21 January 2021 https://www.rfa.org/english/news/china/southchinasea-woody-01212021155023.html;
+Drake Long, ‘Small China Islets in South China Sea Show Signs of New Construction’, Radio Free Asia,
+5 November 2020 https://www.rfa.org/english/news/china/southchinasea-artificial-11052020175409.html
+4
+Editorial commission of the book, Guangdong haifang shi [History of Guangdong’s Maritime Defense]
+(Guangzhou, China: Sun Yat-san UP, 2010). This book was written by the South China Sea bureau of
+China’s State Oceanic Administration.
+5
+See Ketian Zhang, ‘Cautious Bully: Reputation, Resolve, and Beijing’s use of coercion in the South China
+Sea’, International Security 44/1 (Summer 2019) 117–159.
+6
+Ben Dolven et al., ‘Chinese Land Reclamation in the South China Sea: Implications and Policy Options’.
+7
+Ibid.
+8
+See CSIS Maritime Transparency Initiative, https://amti.csis.org/island-tracker
+9
+See, for example, Zhaoyin Feng, ‘South China Sea dispute: China’s pursuit of resources “unlawful”, says
+US’, BBC, 14 July 2020 https://www.bbc.com/news/world-us-canada-53397673
+10
+Editorial, ‘G7 sails into South China Sea’s troubled waters’, The Manila Times, 7 May 2021, https://www.
+manilatimes.net/2021/05/07/opinion/editorial/g7-sails-into-south-china-seas-troubled-waters/871010/
+
+THE JOURNAL OF STRATEGIC STUDIES
+
+1187
+
+Hooper and Harry Krejsa argue that Chinese land reclamation was a response to
+the Philippines’ formal petition to the Permanent Court of Arbitration in March
+2014, in which the Philippines ‘challenged the legality of China’s ‘nine-dashed
+lines’ and the statuses of Chinese controlled land features’.11 Indian scholar
+Brahma Chellaney told The Hill that ‘China’s expansionist drive, from the East
+and South China seas to the Himalayas and the southern Pacific, is making the
+Indo-Pacific region more volatile and unstable’.12 China’s actions in the South
+China Sea have been described as a ‘threat to the global commons’.13
+Empirical studies have shown that territorial disputes are central to the
+onset and intensity of interstate conflicts.14 David Carter, in particular, shows
+that in territorial disputes, the territory that a state controls can augment its
+capabilities, especially if such territory is consolidated in a way that improves
+the state’s military position relative to its opponent.15 In other words, land
+reclamation as a form of consolidation can be a critical factor influencing state
+strategies in territorial disputes and is, therefore, an important subject in and
+of itself. The literature regarding maritime disputes in the South China Sea is
+rich and plenty. Many studies, however, focus on China’s bilateral assertive or
+coercive behaviour as well as China’s general strategy in the South China Sea,
+not land reclamation per se. For example, Ketian Zhang examines when, why,
+and how China coerces other South China Sea disputants.16 Andrew Chubb
+looks at different types of China’s assertiveness in the South China Sea since
+the 1970s.17 Feng Zhang, Fangyin Zhou, and Katherine Morton, on the other
+hand, analyse China’s overall strategy pertaining to the South China Sea.18
+These studies, while immensely useful, do not examine the specifics of
+China’s large-scale land reclamation nor conduct detailed case studies of it.19
+
+11
+
+Mira Rapp-Hooper and Harry Krejsa, ‘Reefs, Rocks, and the Rule of Law: After the Arbitration in the
+South China Sea’, CNAS Report, 2016–04.
+Brahma Chellaney, ‘China’s expansionism enters dangerous phase’, The Hill, 25 August 2020 https://
+thehill.com/opinion/international/513574-chinas-expansionism-enters-dangerous-phase
+13
+James Jay Carafano, ‘China Is an Expansionist Threat to the Free World’, The Heritage Foundation,
+17 September 2020 https://www.heritage.org/asia/commentary/china-expansionist-threat-the-free-world
+14
+For an overview, see, David B. Carter, ‘The Strategy of Territorial Conflict’, American Journal of Political
+Science 54/4 (2010–10) 969–987.
+15
+Ibid.
+16
+Ketian Zhang, ‘Cautious Bully’.
+17
+Andrew Chubb, ‘PRC Assertiveness in the South China Sea Measuring Continuity and Change, 1970–
+2015’, International Security 45/3 (Winter 2020/21) 79–121.
+18
+See, for example, Feng Zhang, ‘China’s long march at sea: explaining Beijing’s South China Sea strategy,
+2009–16’, The Pacific Review 33/5, (2020) 757–787; Zhou Fangyin, ‘Between assertiveness and selfrestraint: understanding China’s South China Sea policy’, International Affairs 92/4 (2016), 869–890;
+Katherine Morton, ‘China’s ambition in the South China Sea: is a legitimate maritime order possible?’,
+International Affairs 92/4 (2016) 909–940.
+19
+See also, Yves-Heng Lim and Jiye Kim, ‘Determining the Determinants: Factors of Change in China’s
+South China Sea Strategy, 1995–2015’, Pacific Focus 35/2 (2020–08), 200–228; Feng Zhang, ‘Chinese
+Thinking on the South China Sea and the Future of Regional Security’, Political Science Quarterly 132/3
+(2017) 435; Andrew Scobell, ‘The South China Sea and U.S.-China Rivalry’, Political Science Quarterly
+133/2 (2018) 199.
+12
+
+1188
+
+K. ZHANG
+
+The interesting questions about the empirical details and theoretical
+implications of China’s large-scale land reclamation are understudied. That
+is, what explains the timing of China’s large-scale land reclamation in the
+South China Sea? Why did China decide to initiate large-scale land reclama­
+tion in the first place? China took control of one land feature in the mid-1990s,
+then stopped, and did not start large-scale Island reclamation until 2014. Why
+did China start in late 2013, turn to large-scale reclamation in 2014, and stop
+around 2015? Why did China never reclaim the land feature that is under its
+de-facto control, the Scarborough Shoal? Equally important, what is the
+rationale behind China’s land reclamation? Is it expansionist? There is, there­
+fore, room for theorizing and analysing China’s land-reclamation activities in
+depth, especially in relation to serval alternative explanations, such as
+a purely capability-based argument and a bureaucratic or domestic lobbyistsbased argument. The former argues that China’s actions are a result of
+capability growth, whereas the latter attributes China’s behaviour to influ­
+ence from domestic bureaucracies and lobbies.20 The purpose of this paper is
+not to pick a winner among the factors but to identify a comprehensive list of
+key explanatory factors critical for explaining the rationale and timing of
+China’s land reclamation by tracking the decision-making process in detail.
+Using primary Chinese-language sources and interviews with former civi­
+lian and military officials, I argue that China’s decision to engage in large-scale
+land reclamation in the South China Sea in 2014 resulted from a combination
+of necessary conditions and opportunities. First, the rationale for land recla­
+mation manifested itself during the CCP’s 16th Party Congress in June 2012 to
+further develop the oceans (Haiyang kaifa) and the subsequent emphasis on
+strengthening logistical capacities of offshore Islands (haidao kaifa) in March
+2013. Second, China’s capability for land reclamation was not mature until
+around 2012. Third, it was only beginning in 2012 that China reduced its land
+reclamation projects in the coastal regions of mainland China, which freed up
+resources, including dredgers necessary for large-scale land reclamation in
+the South China Sea. Fourth, China chose 2014 to ramp up its land reclama­
+tion efforts because it inferred the level of U.S. credibility and commitment
+from its lukewarm response regarding Syria and Ukraine, therefore interpret­
+ing the United States as lacking resolve in militarily challenging China directly
+if China increased its land reclamation efforts in the South China Sea. China,
+by and large, paused its large-scale land reclamation by 2015 because the
+majority of the construction was finished. However, China did not proceed to
+reclaim the Scarborough Shoal because of the clear signals sent by the
+Obama administration. In short, while land reclamation, from the CCP’s
+perspective, is a logical extension of its strategy of maritime development,
+20
+
+For example, Xue Gong, ‘The Role of Chinese Corporate Players in China’s South China Sea Policy’,
+Contemporary Southeast Asia 40/2 (2018) 301–326.
+
+THE JOURNAL OF STRATEGIC STUDIES
+
+1189
+
+the second and third factors indicated above serve as necessary conditions
+for large-scale reclamation, whereas the fourth factor provides an
+opportunity.
+This paper adds to the theoretical debate on signalling and credibility
+and suggests that past actions do matter to a state’s adversary when the
+adversary calculates the resolve and commitment of the state in defend­
+ing a particular issue. It highlights the interconnectedness of credibility,
+that is, lack of action in one event may be perceived as lack of commit­
+ment in general, thereby reducing the state’s credibility in the eyes of its
+adversary. Relatedly, states may take assertive or even coercive actions
+precisely for reasons of the interconnectedness of credibility, the belief
+that actions in one event may have a deterrent effect on future events. In
+other words, capability is relevant, but is not the only factor for explain­
+ing states’ behaviour.
+Moreover, the paper contributes to the literature on the South China Sea
+and Chinese foreign policy, adding more nuance to our understanding of the
+decision-making process of China and refuting the argument that it is bureau­
+cratic politics that led to China’s land reclamation. A detailed case study on
+land reclamation may have implications for our analysis of China’s foreign
+policy decision-making, such as under what conditions does China consider
+certain policies and what is the underlying rationale behind their execution.
+Finally, the paper has policy implications for how to maintain peace and
+stability in the Asia-Pacific region as well as to manage China’s rise. It sheds
+light on the decision-making rationale of China and under what conditions
+China is more likely to take assertive actions. Empirically, China’s land recla­
+mation in the South China Sea is of great concern to foreign policy decision­
+makers and could be potentially destabilizing. Despite the conventional
+assumption that states will become more assertive as they become more
+powerful, it is unclear what specific capacities, conditions, and opportunities
+might be relevant for assertive behaviour. It is, therefore, critical to under­
+stand when and why China will initiate or stop land reclamation.
+Regarding methods and sources, this is a qualitative case study using
+process tracing to assess China’s decision-making process. I use both primary
+and secondary sources to triangulate to ensure the trustworthiness of the
+evidence presented and the relative objectivity of the research, therefore
+contributing to empirical studies of maritime disputes as well as our under­
+standing of the details of China’s foreign policy decision-making. Some of the
+primary sources are official government documents and speeches, including
+the annual book (zhongguo waijiao) from the Chinese Ministry of Foreign
+Affairs, hereafter the MFA. I also use official statements, press briefings from
+the MFA, and the People’s Daily. I use official documents from foreign coun­
+tries to cross-check against Chinese documents. Moreover, I use the following
+semi-official reports from government think tanks: the China Ocean
+
+1190
+
+K. ZHANG
+
+Development Report published by the China Institute for Marine Affairs (CIMA)
+starting from 2007, the annual Strategic and Security Review (guoji zhanlue yu
+anquan xingshi pinggu) published by the China Institute of Contemporary
+International Relations (CICIR) starting from 2001, and the annual Bluebook of
+International Situation and China’s Foreign Affairs (guoji xingshi he zhongguo
+waijiao lanpishu) published by the China Institute of International Studies
+(CIIS) starting from 2005. Reports by the Chinese Academy of Social Sciences
+(CASS) are also utilised. As for the government think tanks, CASS is under the
+jurisdiction of the Chinese State Council. CICIR is a unit of the Chinese Ministry
+of State Security, which is akin to the CIA’s Directorate of Intelligence.21 CIIS is
+under the jurisdiction of the Chinese Ministry of Foreign Affairs. CIMA was
+previously under the Chinese State Oceanic Administration (SOA) and now
+the Ministry of Natural Resources. In addition to primary written sources,
+I conducted interviews with former Chinese officials and foreign officials,
+government policy analysts, and well-connected scholars who have internal
+government information and have themselves participated in track-II dialo­
+gues between China and their foreign counterparts.
+The paper uses both behavioural and speech evidence, including
+written materials and interviews, to reduce the bias from focusing on
+only one kind of evidence. Moreover, in order to minimize the potential
+of post-hoc justifications from interviews, this paper also substantiates its
+arguments with written materials by Chinese officials and government
+analysts prior to the initiation of the large-scale land reclamation in mid2014. The structure of the paper is as follows. The next section conducts
+a detailed case study on China’s land reclamation and examines alter­
+native explanations. The last section concludes and elaborates on theo­
+retical and policy implications.
+
+China’s large-scale land reclamations: Conditions, rationale, and
+opportunities
+Land reclamation is a complex decision that requires a comprehensive ana­
+lysis of the conditions, rationale, and opportunities for such a decision to
+come to fruition. Table 1 below shows the major land reclamation that took
+place that significantly changed the geographical features of the land fea­
+tures China occupies.
+As shown above, the first large-scale projects started around late 2013
+whereas the majority of China large-scale land reclamation began around
+early to mid-2014. The following passages, therefore, provide a detailed ana­
+lysis of the decision-making based on these three aforementioned aspects.
+21
+
+Bush, The Perils of Proximity (Washington, DC, USA: Brookings Institution Press, 2013), 134.
+
+THE JOURNAL OF STRATEGIC STUDIES
+
+1191
+
+Table 1. Large scale land reclamation in the South China Sea22
+Name of the land features
+(1) Woody Island (Paracels)
+(2) Duncan Islands (Paracels)
+(3) Antelope Reef (Paracels)
+(4) Johnson Reef (Spratlys)
+(5) Observation Bank (Paracels)
+(6) Hughes Reef (Spratlys)
+(7) Gaven Reef (Spratlys)
+(8) Cuarteron Reef (Spratlys)
+(9) Fiery Cross Reef (Spratlys)
+(10) Subi Reef (Spratlys)
+(11) Mischief Reef (Spratlys)
+
+Approximate start dates:
+2013.823
+2013.11
+2013.12
+2014.1
+2014.2
+2014.3
+2014.3
+2014.3
+2014.624
+2015.1
+2015.3
+
+Capabilities – Conditions necessary for reclamation
+To assess the relevance of capability as a necessary condition for land
+reclamation, behavioural evidence is crucial. That is, we should see reports
+that indicate certain technologies relevant for land reclamation are ready.
+Moreover, the technologies and capabilities should be available.
+One of the most crucial technologies for land reclamation in the South
+China Sea is the massive dredgers that could transport sand and concrete to
+the land features. Tianjing Hao is a representative dredger. According to the
+Chinese Ministry of Natural Resources, the dredger was first completed in
+2010.25 It is important to note that dredger Tianjing Hao was not designed
+just for the purpose of the South China Sea. Shown during the International
+Industrial Expo in 2010–11, it was designed by Shanghai Jiaotong University
+(SJTU), an elite engineering school, with the aim of coastal land reclamation
+(weihai zaodi), port construction, and river dredging (hangdao shujun).26
+Table 2 below shows the timeline of major land reclamation projects in
+coastal regions of China in chronological order.
+
+22
+
+Unless otherwise noted, source and satellite images are from CSIS: https://amti.csis.org/island-tracker
+/china/; DOD, ‘Annual Report to Congress: Military and Security Developments Involving the People’s
+Republic of China 2016’.
+23
+‘Woody Island increased its size by 40% in 16 months’ [Yongxing dao mianji shiliugeyue kuoda 40%],
+Sina News, 25 December 2014 http://mil.news.sina.com.cn/2014-12-25/1118816135.html; Li Xueshan
+and Duan Xinyi, ‘Sanshashi shoufu yongxingdao liangqulianglu jianshe guihua huopi’ [Sansha city
+approves the plan to build two districts and two roads on Woody Island], People.cn, 17 July 2013 http://
+politics.people.com.cn/n/2013/0801/c1001-22411622.html
+24
+‘Yongshu jiao shengge wei yongshudao qudai taipingdao chengwei nansha diyidadao’ [Woody Island
+became the largest Island in the Spratlys], Phoenix News, 20 October 2014 http://www.nanhai.org.cn/
+info-detail/22/201.html
+25
+Wu Jiaoying, ‘Dapi haishang shenqi liangxiang haibohui’ [Many new designs debuted at the China
+Maritime Expo], Xin Jing Bao, 16 October 2019 http://www.mnr.gov.cn/zt/hy/2019zghyjjblh/mtsy_
+34145/201910/t20191017_2471936.html
+26
+See the official SJTU website: https://ship.sjtu.edu.cn/news_1.asp?id=162.
+
+1192
+
+K. ZHANG
+
+Table 2. Major land reclamation projects in coastal china (2000–2020)27
+Project
+Port Yangshan in Shanghai
+Phoenix Island in Hainan
+Hangzhou Bay in Zhejiang
+Land reclamation in Bohai Bay
+Nantong Port Yangkou in Jiangsu
+Yangtze River Delta Reclamation in Shanghai
+Hulu Island Industrial Zone in Zhejiang
+Haiyang Lianli Island in Shandong
+Land reclamation in Qinghuangdao in Hebei
+Reclamation in Pearl River Delta
+Artificial Island of the Hong Kong-Zhuhai-Macao Bridge
+Reclamation in Macao
+Reclamation in Zhuhai
+Xiamen Shuangyu Island in Fujian
+Longkou artificial Island in Shandong
+Port Dandong in Liaoning
+Reclamation in Wenzhou in Zhejiang
+Jiangsu coastline in Jiangsu
+Dalian Jinzhou Bay International Airport in Liaoning
+Mingzhu Island in Hainan
+Qingdao Xingguang Island in Shandong
+Ports Rizhao and Lanshan in Shandong
+Reclamation in Shenzhen in Fujian
+Port Fangcheng in Guangxi
+
+Start Date
+2002. 3
+2002
+2003.6
+2004
+2005
+2005
+2006
+2009
+2009. 9
+2009. 12
+2009. 12
+2009. 12
+2009. 12
+2010.2
+2011.1
+2012
+2012
+2012
+2012
+2014. 2
+2015
+Post-2014/2015?
+2020.8
+2020
+
+Completion Date
+2008.12
+2006
+2008.5
+N/A
+2008
+2020
+2008
+2016
+Around 2010/2011
+2013.11
+2013.11
+2013.11
+2013. 11
+Projected date: 2024
+N/A
+Before the end of 2014
+N/A
+2015
+N/A
+2017
+N/A
+N/A
+N/A
+N/A
+
+Among the 24 major land reclamation projects off of the coastal cities in
+China listed above, seven were in the 2002–2006 period, five were in the post2014 period, and twelve – 50% of all projects – fell within the 2009–2012
+timeframe, suggesting that China was preoccupied with coastal land recla­
+mation in the 2009–2012 period, and many dredgers were used for the
+purpose of these coastal projects. China engaged in many coastal land
+reclamation projects between 2009 and 2012 as a result of the government’s
+financial stimulus package, introduced in the fall of 2008 to counter the
+global financial crisis.28 Key to this massive CNY 4 trillion stimulus package
+is the investment program, with infrastructure being a priority.29 As such,
+many of the projects in Table 2 involve the construction of ports, bridges,
+airports, as well as land reclamation of new industrial districts.
+
+27
+
+For links of the information regarding the specific projects, please see Appendix.
+Christine Wong, ‘The Fiscal Stimulus Programme and Public Governance Issues in China’, OECD Journal
+on Budgeting 11/3 (2011) 1–21.
+29
+Ibid. 6.
+28
+
+THE JOURNAL OF STRATEGIC STUDIES
+
+1193
+
+The behavioural evidence is in line with the author’s interviews with one
+former Chinese diplomat.30 Written speech evidence also supports the time­
+line that dredgers were made largely available post-2012. According to the
+official publication from then China’s State Oceanic Administration (SOA), to
+fuel economic growth, 2010–2011 was the period when coastal maritime
+construction projects were on the rise.31 However, due to environmental
+concerns, the Chinese State Council and National Development and Reform
+Committee (NDRC) decided to enact stricter regulations and planning for
+coastal land reclamation. These regulations and quotas began to be enforced
+approximately in 2011.32 The number of funded research on large-scale
+geological projects of the coral reef increased dramatically in 2010.33 As
+such, the dredgers were made available around 2012.
+In addition to the availability of dredgers themselves, land reclamation itself
+is a complicated and massive project that requires scientific plans and assess­
+ment. It is here that China has given a lot of thought to the feasibility of such
+a project. As early as 2008, scientists from the Chinese Academy of Science have
+been researching ways to reclaim land features in the South China Sea, such as
+shoals and banks in the ocean, as well as assessing the geological feasibility and
+safety of using dredgers.34 This is also cross-checked with the author’s inter­
+view: back in 2009, China had tested whether Fiery Cross Reef could be
+reclaimed into an Island by drilling wells on the reef, although it was not until
+2012 that China had the technology for large-scale land reclamation.35
+As such, it was roughly starting from 2012 that the technological condi­
+tions – available dredgers and advanced scientific research on land reclama­
+tion on coral reefs – became ripe. This timeline is in line with a comprehensive
+Google search of the keyword ‘land reclamation in the South China Sea,’
+which indicated that prior to 2012, there weren’t any publicly available official
+documents, announcements, or speeches from the Chinese SOA, MFA, Xinhua
+news agency, or other relevant agencies discussing land reclamation.36 This
+‘null’ finding suggests that for land reclamation to be on the agenda of
+bureaucracies, the technological conditions need to be available first.
+
+30
+
+Author’s interview-#112, Beijing, China, 27 December 2016.
+CIMA, Haiyang fazhan baogao 2012 [China’s Ocean Development Report 2012] (Beijing: Haiyang
+chubanshe [Ocean Press], 2012), 99, the rest of the reports are published in subsequent years are
+titled the same; China’s Ocean Development Report 2013, 91
+32
+CIMA, China’s Ocean Development Report 2013, 121, 322, 328.
+33
+See Dr. Wang Xinzhi’s research bio. Dr. Wang is at the Chinese Academy of Science’s Institute of Rock
+and Soil Mechanics, http://sourcedb.whrsm.cas.cn/zw/zjrck/fyjy/201307/t20130708_3894849.html;
+See also Wang Xinzhi et al., ‘Research on characteristics of coral reef calcareous rock in Nansha
+Islands’, Chinese Journal of Rock Mechanics and Engineering No. 11 (2008) 2221–2226.
+34
+Wang Ren and Wu Wenjuan, ‘Exploration and research on engineering geological properties of coral reefs –
+engaged in coral reef research for 30 years’, Journal of Engineering Geology, 104–9665/2019/27(1)-0202-06.
+35
+Author’s interview-#90, Guangzhou, China, 25 May 2016.
+36
+Specific word combinations searched were: nanhai daojiao jian she, nanhai daojiao chuitian, and nanhai
+daojiao jianshe, with the time frame being 1 January 2008 to 1 January 2014.
+31
+
+1194
+
+K. ZHANG
+
+Nevertheless, while capability is a necessary condition for land reclamation, it
+does not represent the full picture. We need to examine the rationale (or lack
+thereof) of land reclamation.
+
+Rationale
+Regarding rationale, one would examine Chinese government documents
+and scientific research conducted by Chinese scientists prior to the initiation
+of land reclamation to assess what are the major drivers. The following
+passages first discuss the decision-making timeline and then examine the
+rationale in detail.
+
+Decision-making timeline
+With the technological conditions ripe, the Chinese government began to
+place the development of maritime resources on its top agenda. The deci­
+sion-making regarding land reclamation involves two steps: 1) considering
+land reclamation as an option and 2) devising a specific plan of land
+reclamation.
+First, China started to consider land reclamation as an option in 2012. In
+April 2012, then Chinese Premier Wen Jiabao noted the need to devise
+a maritime development strategy, which was a major milestone that con­
+ceptualised maritime strategies as part of the CCP’s overall strategy.37 In the
+same month, the SOA approved ‘in principle’ that Hainan province could start
+the assessment of the construction of a port for refuelling purposes on
+Drummond Island in the Paracels.38 This assessment would focus on the
+evaluation of the reclamation of a land area about 3.3 square kilometres, to
+be constructed by a civilian enterprise. At the time of the approval, the
+assessment was still being ‘conducted’.39 On 11 June 2012 then Chinese
+President Hu Jintao made the important speech demanding that China
+‘develop strategic maritime technologies’ and ‘grow China’s maritime
+economy’.40 Subsequently, the CCP’s 18th National Congress added in
+November 2012 that China should ‘improve its capability to explore maritime
+resources’ and ‘defend its maritime rights’.41
+Second, a specific plan for land reclamation began to emerge in 2013. In line
+with the central government’s directive in 2012, on 27 January 2013 Hainan
+Province’s Governor Jiang Dingzhi indicated in Hainan’s Provincial Government
+Work Report that Hainan would promote the development of basic
+37
+
+CIMA, China’s Ocean Development Report 2013, 307.
+SOA’s official news, as released by Sina News, ‘Guojia haiyangju tongyi hainan zai xisha jiqing dao
+jianmatou’ [The SOA approved the Hainan government to construct a port on the Drummon Island],
+26 April 2012 http://news.sina.com.cn/c/2012-04-26/134524334441.shtml
+39
+Ibid.
+40
+CIMA, China’s Ocean Development Report 2013, 307.
+41
+Ibid., 306.
+38
+
+THE JOURNAL OF STRATEGIC STUDIES
+
+1195
+
+infrastructure in Sansha City, the newly established city administering China’s
+maritime rights and occupied features in the South China Sea. Jiang especially
+noted that one of the major missions for Hainan in 2013 would be to finish
+planning for the construction of Woody Island and Tree Island in the Paracels
+while regulating land reclamation behaviour, hinting at the subsequent land
+reclamation activities on these land features.42
+The SOA released a document in April 2013 emphasising the sustainable
+development and maintenance of Islands.43 Roughly at the same time, on
+15 March 2013 a meeting of the Standing Committee of the People’s
+Congress of China’s Hainan Province (Hainan renda changweihui) suggested
+that China should start land reclamation on Drummond Island in the Paracels.44
+It is important to note that this meeting also laid out the plan that, based on the
+experience from Drummond Island, China could ‘gradually’ proceed with con­
+struction in the Spratlys, such as in the Mischief Reef and the Scarborough
+Shoal, located in the Spratlys and Macclesfield Bank respectively.45 Similarly, the
+Standing Committee of the People’s Congress of Hainan Province emphasised
+on 18 March 2013 that one of the main tasks of Sansha city should be the
+construction of comprehensive logistics bases (zonghe buji jidi) in the Spratlys,
+Macclesfield Bank, and Paracels.46
+In other words, by March 2013, a specific plan for land reclamation was
+raised including the Paracels, Spratlys, and the Macclesfield Bank. It is true that
+China had previously engaged in small-scale infrastructure development in the
+Paracels, yet the evidence presented above indicated that land reclamation
+decisions were not just about the Spratlys. China took into consideration the
+entirety of the South China Sea and viewed the Paracels, Spratlys, and the
+Macclesfield Bank in connection with one another, although it did acknowl­
+edge the development, especially regarding logistical support, in the Spratlys
+and the Macclesfield Bank, lagged behind compared to the Paracels.47 The
+author has examined all publicly available documents from the SOA, MFA,
+China’s National Oceanic Information Network, as well as local government
+
+42
+
+‘2013nian Hainan renmin zhengfu gongzuo baogao’ [Hainan government work report in 2013], Hainan
+Government, 27 January 2013 www.gov.cn/test/2013-02/20/content_2336438.htm
+CIMA, China’s Ocean Development Report 2013, 95.
+44
+Hainan People’s Congress, ‘Guanyu zai Jinqingdao jianshe zonghe buji baozhang jidi de jianyi’
+[Suggestion regarding the construction of a comprehensive logistical support base on Drummond
+Island], 15 March 2013 http://www.hainanpc.net/hainanpc/hyzl/qgrdhhndbtzt24/sejqgrdychyhndbtzt/
+yajy1/77171/index.html
+45
+Ibid.
+46
+Standing Committee of Hainan People’s Congress, ‘Guanyu jiang Sanshashi houxu gexiang jianyi naru
+guojiajihua he caizheng yusuan jixu jiyu zhichi de jianyi’ [The suggestion of keeping Sansha city’s
+subsequent development within the national plan and fiscal plan], 18 March 2013 https://www.
+hainanpc.net/hainanpc/dbyd/yajy/2021110423500654425/index.html.
+47
+‘Sanshashi diyijie renmin daibiao dahui diyici huiyi ceji’ [Report on the first meeting of the Sanshi city
+People’s Congress], 24 July 2012 https://www.hainanpc.net/hainanpc/xwzx/szyw/
+2021110601262962969/index.html
+43
+
+1196
+
+K. ZHANG
+
+entities such as the Hainan Provincial Government and the Hainan Provincial
+People’s Congress. These documents do not provide a separate discussion of
+land reclamation in the Paracels, Spratlys, and Macclesfield Bank.
+Evidence from interviews concurs with the above timeline from publicly
+available official documents. According to the author’s interview with a senior
+Chinese government policy analyst specialising in the South China Sea,
+during internal official meetings in the Chinese government in 2011 and
+2012, some officials, especially the military, had discussed options for land
+reclamation in the South China Sea.48 In 2012, China’s SOA had given permis­
+sions to Hainan province regarding land reclamation in the Paracels and
+Spratly Islands, which is cross-checked by the official announcements
+above.49 One long-time Chinese government policy analyst specialising in
+the South China Sea adds that the specific plans for land reclamation began
+around August 2013.50 Although there is no publicly available document
+about the specific date or the details of the plan, the aforementioned
+March documents from the Hainan Provincial People’s Congress are
+a reasonable indication of what the specific plan is. In short, the decision to
+execute the land reclamation plan seems to fall somewhere in the mid-2013
+range.
+
+Specific rationale for land reclamation
+Official documents from local Hainan Province as well as research done by
+Chinese scientists were useful pieces of evidence. According to an aforemen­
+tioned document from the Hainan Province, the rationale was three-fold:
+military, administrative, and economic, with the aim being to provide military
+and civilian logistical support (wei junshi xingzheng jingji deng tigong zonghe
+fuwubaozhang).51 That is, land reclamation helps to provide logistical support
+for the Chinese military to achieve deterrence purposes and to help defend
+China’s sovereignty in the South China Sea. One Chinese government policy
+analyst admits that Chinese land reclamation is a coercive measure (qiangz­
+hixing shouduan) because the sheer size of it can be overwhelming to other
+claimants.52 In a sense, Chinese land reclamation is a show of strength.
+China’s goal for land reclamation is general – according to several Chinese
+government policy analysts, it is not about re-taking other land features in the
+Spratlys; rather, the goal is to stop others from continuing to reclaim land
+48
+
+Author’s interview-#106, Washington, D.C., USA, 22 September 2016.
+Xu Quanlong and Li Hong, ‘Nanhai zhengduan xianzhuang yu qushi’ [The current status and trend in
+the South China Sea disputes], in Lu Jianren and Fan Zhajun eds., Zhongguo-dongmeng hezuo fazhan
+baogao [Report on the Development of Sino-ASEAN Cooperation 2014–15] (Beijing, China: China Social
+Sciences Press, 2015), 247; Author’s interview-#90, Guangzhou, China, 25 May 2016.
+50
+Author’s interview-#57, Haikou, China, 14 April 2016.
+51
+Hainan People’s Congress, ‘Guanyu zai Jinqingdao jianshe zonghe buji baozhang jidi de jianyi’
+[Suggestion regarding the construction of a comprehensive logistical support base on Drummond
+Island].
+52
+Author’s interview-#12, Beijing, China, 21 October 2015.
+49
+
+THE JOURNAL OF STRATEGIC STUDIES
+
+1197
+
+features.53 China also aims at making other claimants ‘take China seriously’
+(renzhen kandai zhongguo) for joint development.54 That is, if other states are
+not willing to carry out joint development, China shows that it has the ability
+to develop the South China Sea itself.55
+Economically, land reclamation logistically facilitates China’s oil
+exploration in the South China Sea as well as the fishing industry:
+reclaimed Islands can serve as transport, refuelling, and ship repair
+stops for China’s deep-sea fishing fleet.56 The emphasis, therefore, was
+on basic infrastructure for China’s civilians and military.57 Government
+policy analysts also indicated that land reclamation was related to China’s
+economic development: maritime fishery calls for land reclamation.58
+After all, Chinese fishers previously had to go to features controlled by
+the Philippines and Vietnam in order to avoid windy weather.59 As early
+as March 2012, representatives from the Hainan Provincial People’s
+Congress suggested that China should pour efforts into land reclamation,
+(tianhai zaodi) including the construction of fishery ports.60 On
+28 January 2013 members of the Hainan People’s Political Consultative
+Conference (PCC) also suggested that research could be conducted to
+select the appropriate Islands for land reclamation (weihai zaodi) for
+natural resources development and logistical support purposes.61
+Notably, the Hainan People’s Congress delegation emphasised the
+Paracels, Spratlys, and Macclesfield Bank equally when describing the
+necessity for land reclamation for fishery purposes. Similarly, the Hainan
+Provincial People’s Congress stressed in November 2012 that the inter­
+connectedness of infrastructure development in the Paracels, Spratlys,
+and Macclesfield Bank, noting that the Parcels served as a ‘transfer
+knot’ (zhongzhuan shuniu) among the three Island groups.62 The
+53
+
+Author’s interview-#4, Beijing, China, 15 September 2015; Author’s interview-#57, Haikou, China,
+14 April 2016.
+54
+Author’s interview-#57, Haikou, China, 14 April 2016.
+55
+Author’s interview-#85, Guangzhou, China, 23 May 2016.
+56
+Ibid.
+57
+See also Hainan Province’s 2013 government work report, 27 January 2013 www.gov.cn/test/2013-02/
+20/content_2336438.htm.
+58
+Author’s interview-#55, Haikou, China, 12 April 2016.
+59
+Author’s interview-#6, Beijing, China, 28 September 2015.
+60
+Li Xiaomei, ‘Hainan daibiao tuan: jianyi guojia zhichi hainan zai nansha jianshe yugang’ [Hainan
+delegation: a suggestion asking national support on the construction of fishery ports in the South
+China Sea], Hainan Wang [Hainan Net], 7 March 2012 https://www.hainanpc.net/hainanpc/xwzx/szyw/
+2021110601243742356/index.html
+61
+Wang Xinli and Wang Xiyi, ‘Hainan zhengxie weiyuan jianyi kaizhan Sansha tese huanbao lvyou’
+[Hainan People’s PCC members suggested the development of tourism in Sansha city], Zhongxin Wang
+[China News Website], 28 January 2013 https://www.chinanews.com.cn/gn/2013/01-28/4527031.
+shtml
+62
+Hainan Provincial People’s Congress, ‘Yigaige chuangxin jingshen tuijin Sanshashi jianshe zhuanti
+diaoyan baogao’ [Report on the development of Sansha city], Hainan People’s Congress,
+8 November 2012 https://www.hainanpc.net/hainanpc/zywk/hnrdyk/wqyk/2012nd10q/
+2021110512124276552/index.html
+
+1198
+
+K. ZHANG
+
+Standing Committee of the Hainan People’s Congress also emphasised
+the need to establish ‘comprehensive logistical support bases’ in the
+Paracels, Spratlys, and Macclesfield Bank.63 Evidence in March 2015 con­
+firmed such equal emphasis: local Sansha city official Lin Zailiang stressed
+the Mischief Reef’s advantage for fishery, adding that infrastructure devel­
+opment in Mischief Reef would greatly promote fishery development in
+all of China’s South China Sea Islands.64
+Research done by Chinese scientists also pointed to the military and
+economic rationale for land reclamation in the South China Sea, especially
+logistics-wise. One study emphasised the necessity for increasing refuelling
+capacity and logistical support, especially for fishery and administrative rea­
+sons, given mainland China was quite far away from these Islands in the
+South China Sea as compared to mainland Philippines and Malaysia. The
+study concluded that in terms of land reclamation, the Fiery Cross Reef
+would make an ideal refuelling base (buji jidi) whereas the Subi Reef could
+serve as a mid-point transfer base (zhongzhuan jidi), and both should be given
+priority in China’s reclamation plan.65 Finished in October 2013, this study
+was jointly researched by the Chinese Academy of Science and Collaborative
+Innovation Centre of South China Sea Studies at Nanking University. Another
+research conducted by geologists at Nanking University, written in October
+2013, noted that the strategic importance of reclaiming land features in the
+South China Sea based on objective and quantifiable indicators, including
+levels of naval and air deterrence, protection of exclusive economic zones,
+and logistical support capacity.66 The study emphasised that based on exist­
+ing indicators, the Johnson Reef would be of low strategic value. However,
+after large-scale land reclamation, Johnston Reef’s strategic value would be
+significantly increased, and the study therefore recommended land reclama­
+tion. Logistical needs were not only stressed concerning the Spratlys but also
+extended to the Paracels.67
+The written documents at the local level and scientific research above are
+useful and convincing because their audience is not external but rather
+bureaucratic and internal, geared toward China’s policy elites. Therefore,
+
+63
+
+Standing Committee of Hainan People’s Congress, ‘Guanyu jiang Sanshashi houxu gexiang jianyi naru
+guojiajihua he caizheng yusuan jixu jiyu zhichi de jianyi’ [The suggestion of keeping Sansha city’s
+subsequent development within the national plan and fiscal plan].
+64
+Liu Cao, ‘Kan Sansha baixing zui dianji sha’ [A probe into what Sansha residents care the most], Hainan
+Ribao [Hainan Daily], 31 March 2015 https://www.hainanpc.net/hainanpc/xwzx/snyw/
+2021110500384224392/index.html
+65
+Shi Wei et al., ‘Nansha daojiao ji zhoubian gangkou kedaxing pingjia moxing yanjiu’ [A model-based
+evaluation of the accessibility of South China Sea Islands], Acta Geographica Sinica 69/10 (2014–10).
+66
+Wang Yecheng et al., ‘Jiyu changqiang moxingde nansha daojiao zhanlue diwei pingjia’ [A modelbased evaluation of the strategic status of Spratly Islands], Geographical Research 32/12 (Dec 2013).
+67
+Fan Nanhong and Guo Hongyan, ‘Nanhai cun yuanzhi shigan xing Sansha’ [Ambitions and develop­
+ment of Sansha], Hainan Ribao [Hainan Daily], 28 May 2013 https://www.hainanpc.net/hainanpc/xwzx/
+snyw/2021110500294785836/index.html
+
+THE JOURNAL OF STRATEGIC STUDIES
+
+1199
+
+these pieces of evidence do not serve PR purposes, unlike the Chinese
+Foreign Ministry statement in 2016 on land reclamation, which emphasises
+international responsibilities and obligations, which was targeted toward an
+external audience.68
+Having been planned for a long time, Chinese land reclamation is
+a calculated and proactive action. Some might wonder whether China’s
+land reclamation was a reaction to the Philippines’ decision in January 2013
+to pursue arbitration to challenge China’s claims.69 While land reclamation
+would certainly be a strong signal of resolve to the Philippines, China’s land
+reclamation was not a mere narrow response to the Philippines. Although
+Chinese land reclamation may indeed have a coercive effect on the
+Philippines, China’s overall goal of land reclamation is less reactive than
+proactive. Some Chinese government policy analysts agree that land recla­
+mation is an indirect countermeasure against the Philippines’ action, but the
+general sense is that land reclamation constitutes a planned act beyond
+responding to the Philippines.70 As explained in detail in previous pages,
+there has been discussion to pursue land reclamation as an option in 2012.
+Moreover, in all of the pieces of evidence presented above, which include
+publicly available documents on land reclamation that one can access, the
+Philippines’ arbitration was not mentioned. This is not to say that the arbitra­
+tion is irrelevant but that it mostly likely is not the major driving factor for
+China’s land reclamation endeavour. In a way, land reclamation is
+a manifestation of China’s determination across the South China Sea to
+more resolutely defend its claims in the face of perceived challenges from
+rival disputants.
+
+China’s calculation of U.S. resolve: Opportunities for reclamation
+China did not engage in large-scale land reclamation until early to mid-2014
+(reclamation started in late 2013), even though the technological conditions
+had been ready for a while – around 2012. According to one former diplomat
+close to the China National Offshore Oil Company (CNOOC), China had been
+technically capable of near-shore reclamation for some time, which the
+previous sections analysed in detail. Offshore reclamation is similar to nearshore reclamation, and the government can approve reclamation in the
+Spratlys when it suits, as also indicated in previous sections.71 Therefore, it
+68
+
+MFA Press Conference, 25 May 2016, https://www.fmprc.gov.cn/ce/ceph/chn/zgxw/t1366341.htm
+See M. Taylor Fravel, ‘Threading the Needle: The South China Sea Disputes and U.S.-China Relations,’ in
+Robert S. Ross and Øystein Tunsjø eds., Strategic Adjustment and the Rise of China: Power and Politics in
+East Asia (Ithaca: Cornell University Press, 2017), 233–260.
+70
+Author’s interview-#69, Shanghai, China, 5 May 2016; Author’s interview-#57, Haikou, China,
+14 April 2016.
+71
+Author’s interview-#112, Beijing, China, 27 December 2016; cross-checked with another government
+policy analyst, Author’s interview-#113, Beijing, China, 29 December 2016.
+69
+
+1200
+
+K. ZHANG
+
+is puzzling why large-scale land reclamation began around early to mid-2014.
+Capabilities and motivations are not sufficient in explaining the timing of
+large-scale land reclamation. Opportunities need to be ripe: land reclamation
+could potentially generate backlash from other countries in the region,
+including great powers such as the United States. Therefore, whether and
+when China engages in land reclamation could be related to how it antici­
+pates the response from others, especially the United States, with China’s
+perception of U.S. resolve being a crucial variable.72
+If China observes U.S. behaviour to infer its resolve, then we should have
+several observable implications. First, the timing of China’s start and end
+dates of land reclamation should be in line with periods when perceived
+U.S. resolve was low. Moreover, there should also be written evidence in
+which Chinese officials and government policy analysts calculate U.S. resolve
+based on past U.S. actions. We should see written evidence measuring
+U.S. resolve as relatively low or indicating the lack of possibility for the
+United States to use force. These writings should take place before China’s
+initiation of its large-scale land reclamation. Finally, interview evidence
+should occur with written evidence.
+The major factor explaining the timing of Chinese land reclamation is the
+expected low militarised backlash from the United States in the late 2013 to
+early 2014 window. Written semi-official assessments from government think
+tanks such as CASS and CIIS both indicated the decreasing U.S. efforts with
+regard to the South China Sea disputes, despite the U.S. rebalancing strategy.
+The 2013 CASS report on China’s regional security environment stated that the
+implementation of U.S. rebalancing ‘had a problem of divergence between
+willingness and capability,’ citing examples of lack of U.S. commitment in the
+Scarborough Shoal incident in 2012.73 Importantly, one CASS analyst noted in
+January 2013 that the United States seemed to keep a low profile in South
+China Sea disputes and even adopted the policy of ‘strategic ambiguity’ in the
+Sino-Philippine standoff over the Scarborough Shoal in 2012.74 Another PLA
+analyst also emphasised in January 2013 that U.S. ambiguity during the
+Scarborough Shoal incident over whether the U.S.-Philippine mutual defence
+treaty would be applied.75 One government analyst from the CCP International
+72
+
+Scholars examine and debate whether or when states gain resolve. See Daryl Press, Calculating
+Credibility: How Leaders Assess Military Threats (Ithaca, N.Y.: Cornell University Press, 2007); Roseanne
+W. McManus, Statements of Resolve: Achieving Coercive Credibility in International Conflict (Cambridge:
+Cambridge University Press, 2017); and Timothy M. Peterson, ‘Sending a Message: The Reputation
+Effect of U.S. Sanction Threat Behavior’, International Studies Quarterly, 57:4 (2013–12) 672–682, doi.
+org/10.1111/isqu.12017.
+73
+Zhang Jie and Zhong Feiteng eds., 2013nian Zhongguo zhoubian anquan xingshi pinggu [The 2013
+Assessment of China’s Regional Security Environment] (Beijing, China: Social Sciences Academic Press,
+2013), 19.
+74
+Ibid., 95.
+75
+Cao Yunhua and Ju Hailong, Nanhai diqu xingshi baogao 2012–2013 [The situation in the South China
+Sea] (Beijing: Shishi Press, 2013), 139.
+
+THE JOURNAL OF STRATEGIC STUDIES
+
+1201
+
+Liaison Department noted that because of the constraints from domestic
+politics, the Obama administration’s rebalancing to Asia had begun to ‘lose
+its momentum’ by the end of 2013.76 The analyst predicted that the Obama
+administration seemed to have entered a period in which it would bide its time
+in the near future and use force very cautiously while focusing on domestic
+strengthening, suggesting that this analyst believed the year 2014 would be
+a good opportunity for China, which CICIR analysts also concurred.77 Similarly,
+summarizing U.S. policies in the Asia-Pacific in 2013, CASS analyst Wu Zhaoli
+noted in January 2014 that the United States ‘made more statements than
+implementing them’ (kou hui er shibuzhi), which hurt its credibility (xinyudu).78
+One external event that Chinese government policy analysts also observed
+carefully to infer U.S. resolve was the Syrian use of chemical weapons and
+U.S. reactions in 2013. When asked about the Syria, President Obama said in
+August 2012 that a red line from the United States is if Syria would use chemical
+weapons or if movements of them were observed, in which case there would
+be ‘enormous consequences’.79 In August 2013, chemical weapons were being
+used in Syria against civilians, and there were various reports in spring 2013 that
+chemical weapons were already used by the Assad regime and the
+opposition.80 The Obama administration, however, did not end up using
+force despite Syria’s crossing of the red line. Chinese analysts kept a close eye
+on U.S. response and made predictions about U.S. behaviour in the future.
+People’s Daily, the CCP’s official party paper, noted in May 2013 that despite the
+fact that Syria had already crossed Obama’s red line, the United States still did
+not use force against Syria, adding that Obama’s red line became even more
+ambiguous.81 On 18 July 2013 the American Institute at the Chinese Academy
+of Social Sciences convened a seminar on the Syrian situation. During the
+seminar, Niu Xinchun, a senior government analyst from CICIR, indicated that
+judging from what had already happened in Syria and the U.S. response, the
+United States ‘has the capability to be militarily involved’ but ‘does not have the
+will’.82 CICIR is the government think tank under the Chinese Ministry of State
+76
+
+Zhao Minghao, ‘Meiguo yatai zaipingheng zhanlue “shisu” lema?’ [Has the U.S. rebalancing strategy
+lost its momentum?], The Chinese Journal of American Studies 28/3 (2014–06) 109; CICIR, Guoji zhanlue
+yu anquan xingshi pinggu 2013–2014 [Strategic and security review] (Beijing: Shishi Press, 2014), 328.
+77
+Ibid., 113.
+78
+Zhang Jie ed., 2014nian Zhongguo zhoubian anquan xingshi pinggu [The 2014 Assessment of China’s
+Regional Security Environment] (Beijing, China: Social Sciences Academic Press, 2014), 17.
+79
+Remarks by the President to the White House Press Corps, The White House, 20 August 2012 https://
+obamawhitehouse.archives.gov/the-press-office/2012/08/20/remarks-president-white-house-presscorps
+80
+‘Timeline of Syrian Chemical Weapons Activity 2012–2021,’ Arms Control Association, 2021–05, https://
+www.armscontrol.org/factsheets/Timeline-of-Syrian-Chemical-Weapons-Activity.
+81
+Ji Xiang, ‘Aobama de xuliya zhikun: ganga de hongxian jinshen de biaotai’ [Obama’s Syria dilemma: an
+embarrassing redline and a cautious statement], People’s Daily Overseas Edition, 4 May 2013 www.
+chinanews.com/gj/2013/05-04/4786349.shtml
+82
+Wang Wei, ‘Xuliya jushi yu daguo boyi yanjiuhui songshu’ [Seminar on the Syria situation and great
+power politics], The Chinese Journal of American Studies, 3 (2013), ias.cass.cn/cbw/mgyjjj/2013/dsq_
+118960/201,506/t20150616_2687656.shtml
+
+1202
+
+K. ZHANG
+
+Security. One professor from the Chinese National Defence University added in
+this seminar that the United States seemed to be wavering and unresolved
+regarding Syria.83 Similarly, the CIIS bluebook and the CICIR annual review in
+2014 believed that U.S. rebalancing faced restraint on resources and that with
+increasing inputs into the Middle East, the United States shifted its strategy of
+putting pressure solely on China to ‘pressuring both sides’ [of the South China
+Sea disputes] (liangmian shiya).84 The 2014 CICIR annual review also noted the
+Obama administration’s caution against military intervention and attention to
+diplomatic means in resolving the Syrian issue.85 Another analyst from CASS
+concurred with this argument, adding that the Syria situation demonstrated
+the Obama administration’s principle of not easily using force or getting
+involved militarily.86
+Another event that Chinese diplomats and government analysts
+assessed carefully concerns U.S. response regarding Crimea. The 2014
+CASS annual report on the United States – which stated that starting
+from his second term in 2013, the Obama administration had become
+increasingly ‘inward-looking,’ reacting mildly to the Crimea issue while
+emphasising diplomatic solutions.87 Government policy analysts from
+CICIR, CASS, and CIIS, as well as former Chinese diplomats, wrote repeat­
+edly in March, April, and May 2014 that the United States explicitly ruled
+out using military options against Russia and that U.S. reactions were
+moderate and restrained.88 One analyst from CASS noted that Obama’s
+lack of concrete actions regarding Syria and Crimea demonstrated the
+Obama administration’s weakness in foreign policy.89 One diplomat even
+stated in March 2014 that the Crimea crisis and ensuing U.S. efforts to
+resolve the crisis was an opportunity for China.90
+83
+
+Ibid.
+CIIS, Guoji xingshi he zhongguo waijiao lanpishu 2013–14 [Bluebook of International Situation and
+China’s Foreign Affairs 2013–2014] (Beijing, China: World Affairs Press, 2014) 5–6; CICIR, Guoji zhanlue
+yu anquan xingshi pinggu 2013–2014 [Strategic and security review] (Beijing: Shishi Press, 2014), 128–
+133, published in 2014–02.
+85
+CICIR, Guoji zhanlue yu anquan xingshi pinggu 2013–2014 [Strategic and security review], 312–313, 320.
+86
+Liu Hui et al., ‘Dangqian meiguo neizheng waijiao zhengce zouxiang yu zhongmeiguanxi qianjing
+yantaohui’ [Seminar on U.S. politics and U.S.-China relations], The Chinese Journal of American Studies 5/
+28 (2014) 127
+87
+Huang Ping and Zheng Bingwen eds., Meiguo yanjiu baogao [2014 Report on the United States] (Beijing,
+China: Social Sciences Academic Press, 2014), 1, 11.
+88
+Li Yongquan, ‘Wukelan weiji zheshe chude daguo boyi [Great power game in the Ukraine crisis]’,
+Academic Journal of E’luosi xuekan [Russian Studies], 3 (2014), 9; Zhou Fangyin, ‘Xianshi zhuyi de
+shengmingli [The power of realism]’, Guoji guanxi yanjiu [Journal of International Relations], 3 (2014),
+10; Ding Yuanhong, ‘Wukelan weiji de lishi jingwei yu xianshi qishi [The history behind the Ukraine
+crisis and its lessons]’, Heping yu fazhan [Peace and Development], 2 (2014), 4–6; Feng Yujun, ‘Wukelan
+weiji: duowei shiye xia de shenceng toushi [A multi-layer analysis of the Ukraine crisis]’, Guoji wenti
+yanjiu [International Studies], 3 (2014), 54.
+89
+Han Kedi, ‘Meiguo xuejie zhengjie dui wukelan weiji de fanying yu sikao’ [Reactions from the
+U.S. academic and policy communities on the Ukraine crisis], The Chinese Journal of American Studies
+4/28 (2014) 52.
+90
+Chu Maoming, ‘Wukelan weiji yu zhongguo de xuanze [The Ukraine crisis and China’s choices]’, Zhanlue
+juece yanjiu [Journal of Strategy and Decision-Making], 3 (2014), 10.
+84
+
+THE JOURNAL OF STRATEGIC STUDIES
+
+1203
+
+It is important to note that these analyses above were published in 2013
+and early 2014 – prior to China’s large-scale land reclamation. Therefore, they
+are not post-hoc justification or rationalisation. In short, late 2013 and espe­
+cially early 2014 provided China with a geopolitical loophole – the perceived
+military pressure from the United States was lower. The following passages
+utilise interview data to further substantiate this argument.
+Chinese scholars and former diplomats noted that even though China had
+started land reclamation in late 2013, its large-scale reclamation began in
+early to mid-2014, because of President Obama’s reaction with regard to the
+Ukrainian crisis in 2014.91 That is, China read the lack of U.S. counter-reactions
+during the Ukrainian crisis as a sign that Obama was weak, and the logic was
+such that if the United States did not use force despite the Ukrainian issue, it
+certainly would not take drastic measures against China over land
+reclamation.92 China therefore jumped through the loophole (zuan kongzi),
+engaging in land reclamation when Obama was still in his tenure and when
+the Ukrainian crisis erupted.93 The Ukrainian crisis, therefore, provided
+a favourable international environment for China.94 Another government
+policy analyst agreed that the internal discussion back in 2014 was that the
+Middle East was in chaos, as was Ukraine, and that Obama was mild (wenhe),
+indicating that Chinese policy analysts believed a military backlash from the
+United States over land reclamation would be quite unlikely.95 Several senior
+China government policy analysts and former diplomats summarised China’s
+rationale: convinced that the United States would not go to war with China
+over issues in the South China Sea, the particularly low military involvement
+from the United States seemed to have given China the green light for land
+reclamation.96
+One might wonder why Ukraine and Syria are relevant for the South China
+Sea. In the 2012 Scarborough incident, Chinese analysts believe that if China
+used grey-zone coercion in the South China Sea, then the United States
+would not get militarily involved.97 U.S. response in the Scarborough incident
+confirmed China’s perception. Land reclamation, however, is different from
+Chinese Coast Guard ships ramming foreign vessels in the South China Sea
+because it involves making significant changes to disputed pieces of territory.
+In this sense, the Ukraine crisis is a relevant and logical event for Chinese
+analysts to observe because Russia engaged in actions to make changes to
+91
+
+Author’s interview-#16, Guangzhou, China, 30 November 2015.
+Ibid.
+Ibid.
+94
+Author’s interview-#90, Guangzhou, China, 25 May 2016.
+95
+Author’s interview-#35, Beijing, China, 18 January 2016; confirmed by one U.S. policy analyst, Author’s
+interview-#109, Washington D.C., USA, 5 December 2016.
+96
+Author’s interview-#32, Haikou, China, 7 January 2016; Author’s interview-#57, Haikou, China,
+14 April 2016; Author’s interview-#69, Shanghai, China, 5 May 2016; Author’s interview-#64, Beijing,
+China, 27 April 2016.
+97
+See Zhang, ‘Cautious Bully’.
+92
+93
+
+1204
+
+K. ZHANG
+
+the territory – annexation. Syria is also relevant because Chinese analysts
+were interested in observing what U.S. actions were (or lack thereof) follow­
+ing Obama’s redline, especially given Obama did not make any redline in the
+South China Sea until 2016. In addition, empirically, the author has done
+a thorough search of all issues of the Chinese Journal of American Studies
+published by CASS. Ukraine and Syria came up as the most frequently
+discussed events by Chinese government analysts when they assessed
+U.S. resolve. Moreover, CASS analyst Tang Zhichao specifically linked U.S.
+Syria policies to its rebalancing strategy in the Asia-Pacific, stating that
+rebalancing seemed to be a ‘paper tiger’.98 Similarly, CASS Asia-Pacific spe­
+cialist Yang Danzhi cited Middle East issues as weakening Obama’s AsiaPacific strategy.99 When discussing Obama’s Asia-Pacific policies in 2014–02,
+CICIR analysts cited Obama’s policy toward Syria as an indication that the
+United States was ‘extremely cautious’ (jiqi shenzhong) about militarised
+involvement.100 As such, Ukraine and Syria were two key events to derive
+the level of U.S. resolve from the perspective of the Chinese government.
+Finally, in addition to assessing U.S. resolve from past events such as
+its actions in the Scarborough Shoal, Syria, and Ukraine, U.S. response or
+lack thereof directly to China’s land reclamation is also relevant. One
+Chinese scholar who was often in conversations with then South China
+Sea section of China’s State Oceanic Administration provided details that
+China first engaged in reclamation at the Johnson South Reef because it
+had the best location and would generate the least international back­
+lash – China was watching the reaction from the international society
+carefully and went along with large-scale reclamation after realising that
+there was not much of a reaction internationally.101 The ‘international
+society’ this scholar was referring to centred on the United States.
+U.S. response was quite muted in 2014. The United States did not call
+out China’s land reclamation at its start. In 2014, it was only U.S. defence
+secretary Chuck Hagel who criticised China’s land reclamation
+behaviour.102 The White House and importantly, President Obama, was
+silent. The lukewarm response from the United States, coupled with
+earlier assessment of U.S. actions in the South China Sea in 2012 and
+2013, Syria, and Ukraine, seemed to give China the impression that land
+reclamation in 2014 would not generate a significant backlash.
+98
+
+Liu Hui and Zhao Xiaochun eds., Zhongguo guojia anquan yanjiu baogao 2014 [Report on China’s
+national security 2014] (Beijing: Social Sciences Academic Press, 2014), 216.
+99
+Zhang Jie and Zhong Feiteng eds., 2013nian Zhongguo zhoubian anquan xingshi pinggu [The 2013
+Assessment of China’s Regional Security Environment], 93.
+100
+CICIR, Guoji zhanlue yu anquan xingshi pinggu 2013–2014 [Strategic and security review], 320.
+101
+Author’s interview-#90, Guangzhou, China, 25 May 2016.
+102
+Edward Wong and Jonathan Ansfield, ‘China, trying to bolster its claims, plants Islands in disputed
+waters’, The New York Times, 17 June 2014 https://www.cnbc.com/2014/06/17/china-trying-to-bolster
+-its-claims-plants-islands-in-disputed-waters.html
+
+THE JOURNAL OF STRATEGIC STUDIES
+
+1205
+
+As for why China halted its land reclamation in the summer of 2015,
+China’s pause also had to with concerns about a possible military backlash
+as China sensed a change in U.S. rhetoric. Chinese MFA spokesperson Lu
+Kang announced in June 2015 that ‘China’s Island-building in the South
+China Sea is drawing to a close’.103 Lu’s remarks came right after
+a renewed United States push to get all claimants in the South China
+Sea to stop building projects: as U.S. Secretary of Defence Ashton Carter
+put it in his speech at the Shangri-La Dialogue, ‘there should be an
+immediate and lasting halt to land reclamation by all claimants’.104
+Chinese government policy analysts sensed this shift of U.S. reaction.
+One analyst stressed that up until the end of 2014, the United States
+had shown restraint in South China Sea disputes, and its involvement
+had been limited, yet starting 2015, the United States began to react to
+China’s actions differently.105 Government policy analysts also indicate that
+Chinese leaders paid keen attention to negative statements and reactions
+from the United States and therefore halted land reclamation.106 The fact
+that China never initiated land reclamation on the Scarborough Shoal is
+particularly interesting, because in Hainan government’s official document
+in March 2013, the plan was to initiate land reclamation first in land
+features such as the Drummond Island, which would then give China
+some experience to start land reclamation on the Scarborough Shoal,
+indicating that the Scarborough Shoal was in the original land reclamation
+plan.107 President Obama, however, stated in 2016–03 that there would be
+‘serious consequences if China reclaimed land at Scarborough Shoal’.108
+This suggests that if there weren’t any external pressure, in this case from
+the United States, China would have proceeded to initiate land reclama­
+tion on the Scarborough Shoal. In short, China was quite sensitive to even
+the slightest changes in the likelihood of the potential of U.S. military
+involvement when contemplating land reclamation in the South China Sea.
+As one PLA personnel notes, China behaved opportunistically.109
+103
+
+Shannon Tiezzi, ‘Why China Is Stopping Its South China Sea Island-Building (For Now)’, The Diplomat,
+16 June 2015.
+104
+Ibid.
+105
+Liu Zaorong, ‘Meiguo nanhai zhengce xin dongxiang [New Moves in U.S. South China Sea Policy]’, 232,
+presented at the Academic Seminar Commemorating the 70th Anniversary of the Victory of China’s
+War of Resistance Against Japan, which was held in Beijing by the Collaborative Innovation Centre of
+South China Sea Studies from 15 to 16 August 2015. This is a print copy of the conference materials,
+seemingly internally circulated and available in the library of the China Institute of Boundary and
+Ocean Studies (CIBOS) of Wuhan University in Wuhan, China.
+106
+Author’s interview-#4, Beijing, China, 15 September 2015; Author’s interview-#113, Beijing, China,
+29 December 2016.
+107
+Hainan People’s Congress, ‘Guanyu zai Jinqingdao jianshe zonghe buji baozhang jidi de jianyi’
+[Suggestion regarding the construction of a comprehensive logistical support base on Drummond
+Island].
+108
+Ketian Zhang, ‘A View from the United States’, Asan Forum 7/3 (2019).
+109
+Lu Shengjun, Shenlan jinglue, 156.
+
+1206
+
+K. ZHANG
+
+Alternative explanations
+Some might argue that China’s land reclamation started because of Xi Jinping,
+thereby subscribing to an individual leadership-based explanation.110
+However, China had been planning to reclaim land in 2012, which was during
+Hu’s reign.111 It was a continuous policy and not something that took place
+only after Xi came to power.112 Another former diplomat also stressed that land
+reclamation was not a result of individual leaders.113 As one government policy
+analyst specialising in South China Sea issues concluded, the leadership is not
+the main factor; it is the cost analysis that explains Chinese behaviour.114
+Related is the argument that hawkish leaders will be more prone to use
+assertive actions, despite adverse international and domestic environments.
+Among Jiang Zemin, Hu Jintao, and Xi Jinping, Hu is said to have been the
+weakest leader and Xi the most assertive.115 Yet China again began taking
+assertive measures in 2007, during Hu’s term.116 In an internal speech during
+the Central Foreign Affairs Conference in August 2006, Hu stated that ‘China
+needed to be more proactive in foreign affairs,’ which undermines the notion
+that it was Xi that emphasised proaction.117 One of Xi’s former political secretaries
+revealed that Xi’s viewpoints were highly in line with the centre.118 Interviews
+with Chinese government analysts also confirm that individual leadership does
+not dictate coercion decisions.119 One government policy analyst indicated that
+all decisions about coercion were decided at the PBSC and individual leadership
+was not crucial.120 In short, individual Chinese leaders are not indispensable in
+explaining when China takes actions in the South China Sea.
+As for the bureaucratic and domestic interests argument, some argue that
+domestic bureaucracies and lobbies dictate states’ behaviour.121 Specifically
+concerning the South China Sea, Xue Gong emphasises the roles of Chinese
+110
+
+See, for example, Elizabeth Saunders, ‘No Substitute for Experience: Presidents, Advisers, and
+Information in Group Decision Making’, International Organization 71/S1 (2017–04): S219–47; Daniel
+L. Byman and Kenneth M. Pollack, ‘Let Us Now Praise Great Men: Bringing the Statesman Back In’,
+International Security, 25/4 (Spring, 2001), 107–146.
+111
+Author’s interview-#90, Guangzhou, China, 25 May 2016.
+112
+Ibid.
+113
+Author’s interview-#91, Beijing, China, 7 June 2016.
+114
+Author’s interview-#28, Haikou, China, 5 January 2016.
+115
+Author’s interview-#69, Shanghai, China, 5 May 2016; Wen Siyong and Ren Zhichu, Talingdao
+zhongguo: Hu Jintao xinzhuan [He Leads China: a New Biography of Hu Jintao] (New York, USA:
+Mirror, 2010); and Gao Xiao, Tajiang lingdao zhongguo: Xi Jinping zhuan [He Will Lead China: Biography
+of Xi Jinping] (New York, USA: Mirror, 2010).
+116
+See Chubb, ‘PRC Assertiveness in the South China Sea Measuring Continuity and Change, 1970–2015’.
+117
+Hu Jintao, Hu Jintao wenxuan dierjuan [Hu Jintao’s Selected Works Vol. 2] (Beijing, China: People’s
+Publishing House, 2016), 518. Hu’s speech during this conference was previously not made public.
+118
+Liang Jian, Xi Jinping xinzhuan [New biography of Xi Jinping] (New York, USA: Mirror Books, 2012), 498.
+119
+Author’s interview-#103, Philadelphia, USA, 2 September 2016.
+120
+Ibid.
+121
+See, for example, Kenneth Lieberthal, ‘Domestic Politics and Foreign Policy,’ in Harry Harding, ed.,
+Chinese Foreign Relations in the 1980s (New Haven, USA: Yale UP, 1986), 43–70; Barry Posen, Sources of
+Military Doctrine (Ithaca, USA: Cornell UP, 1984) Ch. 1, 13–33; Ch. 2, 34–41, 59–80; Jack Snyder, Myths of
+Empire: Domestic Politics and International Ambition (Ithaca, USA: Cornell UP, 1993).
+
+THE JOURNAL OF STRATEGIC STUDIES
+
+1207
+
+corporate players in China’s South China Sea policy, especially China’s stateowned enterprises (SOEs).122 However, interviews with former diplomats and
+those who are affiliated with China’s SOEs suggest that decisions regarding
+China’s land reclamation also came from the centre.123 One former PLA
+official stated that Xi Jinping himself approved land reclamation in 2013.124
+Other government policy analysts also indicated that China’s land reclama­
+tion was well planned and that the centre took firm control of organisations,
+including the PLA.125 Countering the notion that large SOEs such as CNOOC
+and Sinopec pushed for actions in the South China Sea, one former Chinese
+diplomat close to CNOOC stated that oil enterprises such as CNOOC would
+send applications to explore the maritime area to the government on a yearly
+basis, which had to be approved by the government.126 If the government
+does not approve, then they would have to wait for another year or so before
+applying to explore in that area again.127 According to this former diplomat,
+both the National Development and Reform Commission (NDRC, fagaiwei)
+and the MFA would have to approve the application.128 As one government
+policy analyst indicated that the centre had a baseline (jidiao) and the bureau­
+cracies then took action according to this baseline, and if the centre thought
+it necessary to take actions, the bureaucracies would then take action.129 Of
+course, the bureaucracies – the SOA, the military, and the MFA – had some
+discretion about the specifics.130 Nevertheless, according to one former
+senior official at the SOA, these actions ‘had to be approved by the highest
+centre because nothing was small when it involved foreign relations’. Jiang
+Xiaojuan, former deputy secretary at China’s State Council, wrote from her
+experience working at the State Council that the will from the higher-ups is
+immensely critical in the decision-making process (gaoceng de yizhi he yiyuan
+feichang zhongyao).131 In short, neither the individual leadership argument
+nor the domestic bureaucratic and lobbyists argument explain China’s deci­
+sions and behaviour regarding large-scale land reclamation in the South
+China Sea.
+
+122
+
+Gong, Xue, ‘The Role of Chinese Corporate Players in China’s South China Sea Policy’.
+Author’s interview-#113, Beijing, China, 29 December 2016.
+Author’s interview-#26, Nanjing, China, 30 December 2015.
+125
+Author’s interview-#103, Philadelphia, USA, 2 September 2016; Author’s interview-#4, Beijing, China,
+15 September 2015.
+126
+Author’s interview-#91, Beijing, China, 7 June 2016.
+127
+Ibid.
+128
+Author’s interview-#112, Beijing, China, 27 December 2016; cross-checked with one government
+policy analyst, Author’s interview-#113, Beijing, China, 29 December 2016.
+129
+Author’s interview-#35, Beijing, China, 18 January 2016.
+130
+Ibid.
+131
+Jiang Xiaojuan, ‘Gaoceng zenme juece? Yiwei guowuyuan fumishuzhang de xierenhou sikao’ [How do
+the high-level make decisions? Some thoughts from a retired deputy secretariat from the State
+Council], Wenhua Zongheng [Across Culture], 2021–04, https://mp.weixin.qq.com/s/VIeXC2q4kt4VV3_
+ZaNkopQ
+123
+124
+
+1208
+
+K. ZHANG
+
+Conclusion
+Having been planned for a long time, Chinese land reclamation is a deliberate and
+proactive action. China’s land reclamation is a complex event resulting from
+a combination of necessary conditions, rational motivations, and opportunities.
+China decides to place artificial structures on land features it occupies in the South
+China Sea to increase logistical capacities that serve military, economic, and
+administrative purposes. China, however, was unable to start land reclamation
+any time it wanted to. Rather, the technical conditions for land reclamation were
+not ready till around 2012. It was only after 2012 that China reduced its near-shore
+land reclamation projects in the coastal regions of mainland China, which freed
+up resources, including dredgers necessary for large-scale land reclamation in the
+South China Sea. It was also in 2012 that scientific research on maritime land
+reclamation matured. Finally, despite beginning the land reclamation project in
+September 2013, China chose 2014 to step up its land reclamation efforts because
+it inferred the level of U.S. credibility and commitment from its lukewarm
+response regarding Syria and Ukraine, therefore interpreting the United States
+as lacking resolve to militarily challenge China directly if China increased its land
+reclamation efforts in the South China Sea. China, by and large, paused its largescale land reclamation by 2015 because the majority of the construction was
+finished. However, China did not proceed to reclaim the Scarborough Shoal
+because of the clear signals sent by the Obama administration. In short, while
+land reclamation, from the CCP’s perspective, is a logical extension of its strategy
+of maritime development, there were necessary conditions and opportunities
+that led to China’s large-scale land reclamation.
+Theoretically, there are many capability-based theories on rising power
+behaviour. One strand of the literature on rising power behaviour is offensive
+realism, which predicts that rising powers bide their time and become
+increasingly aggressive in pursuing regional hegemony as they become
+more capable.132 The logical extension, applied to land reclamation, is that
+China will pursue land reclamation when its capability is ready. This paper
+demonstrates that, however, what matters for explanatory purposes is not
+overall Chinese power such as economic indicators, but rather the specific
+technology and the availability of it that made land reclamation possible.
+Related to the capability argument is the debate within the literature on
+credibility regarding the sources of credibility. Daryl Press, on one hand,
+argues that states calculate the credibility of their adversaries based on their
+current capabilities instead of inferring credibility from past actions.133 On
+the other hand, the literature on reputation and signalling views past
+actions, especially acquiring a reputation of being credible, as important.
+132
+
+John J. Mearsheimer, ‘Can China Rise Peacefully?’, The National Interest, 25 October 2014 http://
+nationalinterest.org/commentary/can-china-rise-peacefully-10204.
+Daryl Press, Calculating Credibility: How Leaders Assess Military Threats (Ithaca, USA: Cornell UP, 2005).
+
+133
+
+THE JOURNAL OF STRATEGIC STUDIES
+
+1209
+
+This line of thinking that focuses on past behaviour comes from Thomas
+Schelling and Robert Jervis. Schelling views credibility as a bank, treating
+precedents – past actions – as important to maintain one’s credibility.134
+Therefore, Schelling calls for the importance of communicating ‘evidence’ of
+commitment, which requires more than the communication of words.135 He
+further argues that actions are more credible than verbal messages: actions
+prove something and incur some cost or risk.136 In short, a reputation for
+resolve goes beyond a particular event per se. It has implications for other
+issues and the state’s reputation vis-à-vis other states. Therefore, states
+might be observing the other state’s behaviour elsewhere to infer that
+state’s resolve. This paper affirms Schelling’s argument and counters
+Press’s argument that states use ‘current capability’ to assess adversaries’
+resolve and credibility. China, on the contrary, had been watching
+U.S. statements and the lukewarm reactions to the Ukraine Crisis before
+going ahead with large-scale land reclamation in May 2014. In particular,
+China’s attention to Ukraine and Syria demonstrates the ‘interconnected­
+ness’ of credibility. Empirically, this paper adds to the literature on Chinese
+foreign policy and maritime disputes, especially providing more nuance to
+China’s decision-making process. States such as China, Russia, and North
+Korea, may be highly sensitive to past U.S. actions and statements. One
+policy implication for the United States is that it should be cautious about
+its past statements and actions not just in the Asia-Pacific region but
+around the world, making sure it is consistent and resolved. Otherwise,
+U.S. adversaries might interpret the lack of U.S. actions or inconsistent
+statements as lacking credibility of resolve.
+Finally, the rationale behind China’s land reclamation suggests a goldilocks
+kind of choice that China has been making. On one hand, China intends land
+reclamation to enhance its military and economic positions in the South
+China Sea. Compared to grabbing new pieces of territory in the South
+China Sea, land reclamation is assertive but not overly assertive. As such, it
+helps China defend its territorial interests without incurring dramatic geopo­
+litical costs. On the other hand, China has domestic economic developmental
+interests and must balance coastal development and land reclamation in the
+South China Sea. This indicates that as a rising power keen on growing its
+economy, China still faces finite resources and must balance domestic and
+external goals.137 As the grand strategy literature suggests, states face finite
+134
+
+Thomas C. Schelling, The Strategy of Conflict (Cambridge, USA: Harvard UP, 1980), 34. Similarly, in the
+realm of deterrence, Snyder indicates that ‘force demonstrations’ have more deterrent potency in some
+situations than declaratory threats partially due to the accretion of custom and precedent. See Snyder,
+Deterrence and Defense: Toward a Theory of National Security (Princeton, USA: Princeton UP, 1961), 254.
+135
+Schelling, The Strategy of Conflict, 147.
+136
+Thomas Schelling, Arms and Influence (New Haven, USA: Yale UP, 1966) 150.
+137
+See Ketian Zhang, ‘Bringing the Economy Back In Economic Development and China’s Grand Strategy,’
+Journal of Indo-Pacific Affairs January 2022.
+
+1210
+
+K. ZHANG
+
+resources and need to prioritize.138 China is no exception. It has domestic
+economic and capability concerns and cannot simply initiate large-scale land
+reclamation out of the blue. Therefore, China is still a rational calculator when
+it comes to the South China Sea and hasn’t exhibited the kind of expansionist
+drive that the media portrays.
+
+Disclosure statement
+No potential conflict of interest was reported by the author(s).
+
+Notes on contributor
+Ketian Zhang is an Assistant Professor of International Security in the Schar School of
+Policy and Government at George Mason University. Ketian examines rising powers,
+coercion, economic statecraft, and maritime disputes. with a regional focus on China
+and East Asia. Part of this research has appeared in International Security. She would
+like to thank the reviewers, Josh Shifrinson, Andrew Taffer, and her RAs, Yulin Wu and
+Abdallah Ali.
+
+ORCID
+Ketian Zhang
+
+http://orcid.org/0000-0002-5080-4918
+
+Bibliography
+Bush, Richard C., The Perils of Proximity (Washington, DC: Brookings Institution Press
+2013).
+Byman, Daniel L. and Kenneth M. Pollack, ‘Let Us Now Praise Great Men: Bringing the
+Statesman Back In’, International Security 25/4 (Spring 2001), 107–46. doi:10.1162/
+01622880151091916.
+Chu, Maoming, ‘Wukelan Weiji Yu Zhongguo de Xuanze [The Ukraine Crisis and
+China’s Choices]’, Zhanlue Juece Yanjiu [Journal of Strategy and Decision-Making] 3,
+(2014), 3–12.
+Chubb, Andrew, ‘PRC Assertiveness in the South China Sea Measuring Continuity and
+Change, 1970–2015’, International Security 45/3, (Winter 2020/21), 79–121.
+CICIR, 2013/2014 Strategic and Security Review, 128–33, published in 2014-02.
+CIIS, 2013-14 Bluebook of International Situation and China’s Foreign Affairs (Beijing,
+China: World Affairs Press 2014).
+Ding, Yuanhong, ‘Wukelan Weiji de Lishi Jingwei Yu Xianshi Qishi [The History behind
+the Ukraine Crisis and Its Lessons]’, Heping Yu Fazhan [Peace and Development]
+2 (2014).
+Dolven, Ben et al., ‘Chinese Land Reclamation in the South China Sea: Implications and
+Policy Options’, Congressional Research Service Report R44072, 18 June. (2015).
+https://fas.org/sgp/crs/row/R44072.pdf
+138
+
+For an overview, see Nina Silove, ‘Beyond the Buzzword: The Three Meanings of “Grand Strategy”’,
+Security Studies 27/1 (2017) 1–31.
+
+THE JOURNAL OF STRATEGIC STUDIES
+
+1211
+
+Editorial, ‘G7 Sails into South China Sea’s Troubled Waters’, The Manila Times, 7 May
+(2021). https://www.manilatimes.net/2021/05/07/opinion/editorial/g7-sails-intosouth-china-seas-troubled-waters/871010/
+Erickson, Jennifer L., Dangerous Trade: Arms Exports, Human Rights, and International
+Reputation (New York, USA: Columbia UP 2015).
+Fangyin, Zhou, ‘Between Assertiveness and Self-restraint: Understanding China’s
+South China Sea Policy’, International Affairs 92/4 (2016), 869–90. doi:10.1111/
+1468-2346.12657.
+Feng, Zhaoyin, ‘South China Sea Dispute: China’s Pursuit of Resources “Unlawful”, Says
+US’, BBC, 14 Jul. (2020). https://www.bbc.com/news/world-us-canada-53397673
+Feng, Yujun, ‘Wukelan Weiji: Duowei Shiye Xia de Shenceng Toushi [A Multi-layer
+Analysis of the Ukraine Crisis]’, Guoji Wenti Yanjiu [International Studies] 3 (2014),
+48–63.
+Gong, Xue, ‘The Role of Chinese Corporate Players in China’s South China Sea Policy’,
+Contemporary Southeast Asia 40/2 (2018-08), 301–26. doi:10.1355/cs40-2f.
+Guangbin, Yang and Li Yuejun, eds., Zhongguo Guonei Zhengzhi Jingji Yu Duiwai
+Guanxi [China’s Domestic Politics, Economy, and Foreign Policy] (Beijing, China:
+Renmin UP 2007).
+Haver, Zachary, ‘China Reclaims Land, Fortifies Coast of South China Sea Island Base to
+Prevent Erosion’, Radio Free Asia, 21 Jan. (2021). https://www.rfa.org/english/news/
+china/southchinasea-woody-01212021155023.html
+Hu, Jintao, Hu Jintao Wenxuan Dierjuan [Hu Jintao’s Selected Works Vol. 2] (Beijing,
+China: People’s Publishing House 2016).
+Huang, Ping, and Zheng Bingwen, eds., Meiguo Yanjiu Baogao [2014 Report on the
+United States] (Beijing, China: Social Sciences Academic Press 2014).
+Huth, Paul K., ‘Reputations and Deterrence: A Theoretical and Empirical Assessment’,
+Security Studies 7/1 (1997), 72–99. doi:10.1080/09636419708429334.
+Jennings, Ralph, ‘Beijing Done, for Now, Acquiring Land in South China Sea’, VOA, 15
+Mar. (2019). https://www.voanews.com/east-asia-pacific/beijing-done-nowacquiring-land-south-china-sea
+Jervis, Robert, Perception and Misperception in International Politics (Princeton, USA:
+Princeton UP 1976).
+Jervis, Robert, The Logic of Images in International Relations (New York, USA: Columbia
+UP 1989).
+Jian, Liang, Xi Jinping Xinzhuan [New Biography of Xi Jinping] (New York, USA: Mirror
+Books 2012).
+Jie, Zhang and Zhong Feiteng, eds., 2013nian Zhongguo Zhoubian Anquan Xingshi
+Pinggu [The 2013 Assessment of China’s Regional Security Environment] (Beijing,
+China: Social Sciences Academic Press 2013).
+Kapiszewski, Diana, Lauren M. MacLean, and Benjamin L. Read, Field Research in
+Political Science (Cambridge, UK: Cambridge UP 2015).
+Kertzer, Joshua D., Resolve in International Politics (Princeton, USA: Princeton UP 2016).
+Kreps, David M. and Robert Wilson, ‘Reputation and Imperfect Information’, Journal of
+Economic Theory 27 (1982), 253–79. doi:10.1016/0022-0531(82)90030-8.
+Leblang, David, ‘To Devalue or Defend? the Political Economy of Exchange Rate
+Policy’, International Studies Quarterly 47/4 (2003), 533–60. doi:10.1046/j.00208833.2003.00278.x.
+Li, Yongquan, ‘Wukelan Weiji Zheshe Chude Daguo Boyi [Great Power Game in the
+Ukraine Crisis]’, Academic Journal of E’luosi Xuekan [Russian Studies] 3 (2014), 5–10.
+
+1212
+
+K. ZHANG
+
+Liao, Xuanli, Chinese Foreign Policy Think Tanks and China’s Policy Towards Japan
+(Hong Kong, China: The Chinese University of Hong Kong Press 2006).
+Lieberthal, Kenneth, ‘Domestic Politics and Foreign Policy’, in Harry Harding (ed.),
+Chinese Foreign Relations in the 1980s. (New Haven, USA: Yale UP 1986), 43–70.
+Lim, Yves-Heng and Jiye Kim, ‘Determining the Determinants: Factors of Change in
+China’s South China Sea Strategy, 1995–2015’, Pacific Focus 35/2 (2020-08), 200–28.
+doi:10.1111/pafo.12167.
+Long, Drake, ‘Small China Islets in South China Sea Show Signs of New Construction’,
+Radio Free Asia, 5 Nov. 2020. https://www.rfa.org/english/news/china/southchina
+sea-artificial-11052020175409.html
+Lu, Shengjun, Shenlan Jinglue. haishang weiquan douzheng de sikao [Strategies of the
+Deep Blue — Thoughts on the Struggle Over Maritime Rights Protection]. (Beijing: The
+Great March Press2016).
+Mercer, Jonathan, Reputation and International Politics (Ithaca, USA: Cornell UP 1996).
+Miller, Nicholas L., ‘The Secret Success of Nonproliferation Sanctions’, International
+Organization 68/4 (2014-09), 913–44. doi:10.1017/S0020818314000216.
+Morton, Katherine, ‘China’s Ambition in the South China Sea: Is a Legitimate Maritime
+Order Possible?’, International Affairs 92/4 (2016), 909–40. doi:10.1111/14682346.12658.
+Peterson, Timothy M., ‘Sending a Message: The Reputation Effect of US Sanction
+Threat Behavior’, International Studies Quarterly 57/4 (2013), 672–82. doi:10.1111/
+isqu.12017.
+Posen, Barry, Sources of Military Doctrine (Ithaca, USA: Cornell UP 1984).
+Press, Daryl, Calculating Credibility: How Leaders Assess Military Threats (Ithaca, USA:
+Cornell UP 2005).
+Quanlong, Xu, and Hong, Li, ‘Nanhai Zhengduan Xianzhuang Yu Qushi [The Current
+Status and Trend in the South China Sea Disputes]’, in Lu Jianren, and Fan Zhajun
+(eds.s), Zhongguo-dongmeng Hezuo Fazhan Baogao [Report on the Development of
+Sino-ASEAN Cooperation 2014-15] (Beijing, China: China Social Sciences Press
+2015), 247.
+Rapp-Hooper, Mira and Harry Krejsa, ‘Reefs, Rocks, and the Rule of Law: After the
+Arbitration in the South China Sea’, CNAS Report, 2016-04.
+Renshon, Jonathan et al., ‘Leader Influence and Reputation Formation in World
+Politics’, American Journal of Political Science 62/2 (2018-04), 325–39. doi:10.1111/
+ajps.12335.
+Sartori, Anne E., Deterrence by Diplomacy (Princeton, USA: Princeton UP 2005).
+Saunders, Elizabeth, ‘No Substitute for Experience: Presidents, Advisers, and
+Information in Group Decision Making’, International Organization 71/S1 (201704), S219–S247. doi:10.1017/S002081831600045X.
+Schelling, Thomas C., Arms and Influence (New Haven, USA: Yale UP 1966).
+Schelling, Thomas C., The Strategy of Conflict (Cambridge, USA: Harvard UP 1980).
+Scobell, Andrew, ‘The South China Sea and U.S.-China Rivalry’, Political Science
+Quarterly 133/2 (2018), 199–224. doi:10.1002/polq.12772.
+Sechser, Todd S., ‘Goliath’s Curse: Coercive Threats and Asymmetric Power’, International
+Organization 64/4 (2010-10), 627–60. doi:10.1017/S0020818310000214.
+Sechser, Todd S., ‘Reputations and Signaling in Coercive Bargaining’, Journal of Conflict
+Resolution 62/2 (2018-02), 318–45. doi:10.1177/0022002716652687.
+Selten, Reinhard, ‘The Chain Store Paradox’, Theory and Decision 9/2 (1978-04), 127–59.
+doi:10.1007/BF00131770.
+
+THE JOURNAL OF STRATEGIC STUDIES
+
+1213
+
+Snyder, Glen, Deterrence and Defense: Toward a Theory of National Security (Princeton,
+USA: Princeton UP 1961).
+Snyder, Jack, Myths of Empire: Domestic Politics and International Ambition (Ithaca, USA:
+Cornell UP 1993).
+Tiezzi, Shannon, ‘Why China Is Stopping Its South China Sea Island-Building (For Now)’,
+The Diplomat, 16 June 2015.
+Tingley, Dustin H. and Barbara F. Walter, ‘The Effect of Repeated Play on Reputation
+Building: An Experimental Approach’, International Organization 65 (Spring 2011),
+343–65. doi:10.1017/S0020818311000026.
+Tomz, Michael, Reputation and International Cooperation: Sovereign Debt across Three
+Centuries (Princeton, USA: Princeton UP 2007).
+Walter, Barbara F., Reputation and Civil War: Why Separatist Conflicts are so Violent
+(Cambridge, UK: Cambridge UP 2009).
+Weisiger, Alex and Keren Yarhi-Milo, ‘Revisiting Reputation: How past Actions Matter
+in International Politics’, International Organization 69/2 (Spring 2015), 473–95.
+doi:10.1017/S0020818314000393.
+Wen, Siyong, and Ren Zhichu, Talingdao Zhongguo: Hu Jintao Xinzhuan [He Leads
+China: A New Biography of Hu Jintao] (New York, USA: Mirror 2010).
+Xiao, Gao, Tajiang Lingdao Zhongguo: Xi Jinping Zhuan [He Will Lead China: Biography
+of Xi Jinping] (New York, USA: Mirror 2010).
+Zaorong, Liu, ‘Meiguo Nanhai Zhengce Xin Dongxiang [New Moves in U.S. South China
+Sea Policy]’.
+Zhang, Feng, ‘Chinese Thinking on the South China Sea and the Future of Regional
+Security’, Political Science Quarterly 132/3 (2017), 435–66. doi:10.1002/polq.12658.
+Zhang, Ketian, ‘Cautious Bully: Reputation, Resolve, and Beijing’s Use of Coercion in
+the South China Sea’, International Security 44/1 (Summer 2019), 117–59.
+doi:10.1162/isec_a_00354.
+Zhang, Feng, ‘China’s Long March at Sea: Explaining Beijing’s South China Sea
+Strategy, 2009-16’, The Pacific Review 33/5 (2020), 757–87. doi:10.1080/
+09512748.2019.1587497.
+Zhou, Fangyin, ‘Xianshi Zhuyi de Shengmingli [The Power of Realism]’, Guoji Guanxi
+Yanjiu [Journal of International Relations]3 (2014), 9–12.
+
+1214
+
+K. ZHANG
+
+Appendix
+Links to Information Regarding Coastal Land Reclamation in Table 2
+● https://zh.wikipedia.org/wiki/%E6%B4%8B%E5%B1%B1%E6%B7%B1%E6%B0%
+B4%E6%B8%AF
+● http://www.phoenix-island.cn/index.php/Introduce/synopsis.html
+● https://zh.wikipedia.org/wiki/%E6%9D%AD%E5%B7%9E%E6%B9%BE%E8%B7%
+A8%E6%B5%B7%E5%A4%A7%E6%A1%A5
+● https://zh.wikipedia.org/wiki/%E5%A4%A9%E6%B4%A5%E5%A1%AB%E6%B5%
+B7%E9%80%A0%E9%99%86%E5%B7%A5%E7%A8%8B
+● https://baike.baidu.com/item/%E6%B4%8B%E5%8F%A3%E6%B8%AF/175437
+● https://zh.wikipedia.org/wiki/%E6%A8%AA%E6%B2%99%E5%B2%9B
+● http://news.sohu.com/20081103/n260409889.shtml
+● https://finance.qq.com/a/20100324/001695.htm
+● https://baike.baidu.com/item/%E7%8F%A0%E6%BE%B3%E5%8F%A3%E5%B2%
+B8%E4%BA%BA%E5%B7%A5%E5%B2%9B/3919366
+● https://baike.baidu.com/item/%E5%8F%8C%E9%B1%BC%E5%B2%9B/12631578
+● https://baike.baidu.com/item/%E9%BE%99%E5%8F%A3%E4%BA%BA%E5%B7%
+A5%E5%B2%9B/4047000
+● See official website of the Dandong government:
+https://www.dandong.gov.cn/html/29/201110/71a4179d9b7b458a.html.
+● https://xw.qq.com/cmsid/20200622A08Q6300
+● https://baike.baidu.com/item/%E5%A4%A9%E7%B1%81%E7%90%B4%E5%B2%
+9B/7483779
+● https://baike.baidu.com/item/%E5%A4%A7%E8%BF%9E%E9%87%91%E5%B7%9E
+%E6%B9%BE%E5%9B%BD%E9%99%85%E6%9C%BA%E5%9C%BA/7852422
+● http://travel.qunar.com/p-pl6076195
+● https://www.sofreight.com/topics/topics_57.html
+● https://baike.baidu.com/item/%E9%98%B2%E5%9F%8E%E6%B8%AF%E5%9B%9B
+%E5%92%8C%E6%9C%BA%E5%9C%BA/23514616
+
+

@@ -1,0 +1,1084 @@
+Original Research Article
+
+Winning hearts in Southeast
+Asia? News sentiment on China
+amidst the US–PRC trade war
+
+Asian Journal of Comparative Politics
+2025, Vol. 10(2) 113–132
+© The Author(s) 2024
+Article reuse guidelines:
+sagepub.com/journals-permissions
+DOI: 10.1177/20578911241252692
+journals.sagepub.com/home/acp
+
+Rogelio Alicor Labalan Panao
+University of the Philippines Diliman, Philippines
+
+Abstract
+How did the trade rivalry between the United States and China impact China’s foreign public
+image in the ASEAN press? In the context of Southeast Asia’s mixed attitude toward China, this
+article argues that the trade war between China and the United States heightened negative sentiment on China, especially in states grappling with the latter as a security threat, but whose
+investment climate has been slower to respond to the restructuring of the global supply
+chain. Drawing from econometric analyses of news sentiment mined from a corpus of
+75,619 online English news articles in all 10 Southeast Asian countries from January 2016 to
+March 2020, we ﬁnd that the trade war induced negative news sentiment on China in the
+ASEAN press. However, foreign visits to and from China appear to have been favorably
+regarded and helped boost China’s image in the region. The ﬁndings remind that there may
+be a need for China to rethink its carrot-and-stick strategy to win the hearts and minds of
+its ASEAN neighbors.
+Keywords
+ASEAN, China, news sentiment, online news, Southeast Asia, trade war
+
+The image that neighbors hold about China varies, depending on historical enmities and on geopolitical developments in the last few years. Even in Southeast Asia, a region generally regarded as
+“largely accommodating” of China (Kang, 2010: 132), citizens exhibit various degrees of reluctance, contingent on the extent of China’s contribution to domestic economy and politics (Cho
+and Park, 2013). As recent domestic politics and trade policies pit China against the United
+States, however, small states whose economies depend on both countries are forced to reexamine
+ties in light of economic opportunities and security concerns.
+Corresponding author:
+Rogelio Alicor Labalan Panao, Department of Political Science, University of the Philippines Diliman, Quezon City,
+Philippines.
+Email: rlpanao@up.edu.ph
+
+114
+
+Asian Journal of Comparative Politics 10(2)
+
+How did the trade war between the United States and China contribute to current sentiment
+on China in Southeast Asia? Did such perception have concrete implications for public diplomacy toward countries with economic and security linkages to both China and the United
+States?
+Even during campaign rallies way back in 2016, former US president Donald Trump had openly
+accused China of unfair trade practices and of manipulating its currency to make its exports more
+globally competitive (BBC News, 2016b). In 2018, Trump began implementing policies that set
+tariffs and other trade barriers intended purportedly to correct the trade imbalance. China, in retaliation, imposed its own restrictive tariffs against US goods and even brought its case before the
+World Trade Organization. Though the trade body subsequently ruled in China’s favor, declaring
+US tariffs on Chinese tech goods “inconsistent” with international trade rules (BBC News, 2020b),
+the decision did little to dissipate what seems to be a growing distrust of China. A 2013 Pew
+Research Center report, for example, ﬁnds that of the 38 states surveyed, China is viewed favorably
+by only 19—of which many are either recipients of substantial foreign aid or have become China’s
+large commodity exporters (Pew Research Center, 2013). Meanwhile, in a report released in
+October 2020, sentiment toward China is found to have grown more negative in recent years
+across many advanced economies (Silver et al., 2020).
+Some of China’s neighbors in Southeast Asia are likewise growing particularly worried about
+China’s burgeoning military and economic clout and their possible implications for the region’s
+security balance. In the Philippines, for instance, the 2013 Pew Report indicates that nine in 10
+Filipinos regard China’s territorial encroachments as a big problem (Pew Research Center,
+2013). A 2018 Social Weather Stations survey echoes these ﬁndings, showing that barely one in
+four Filipinos were convinced that “most of what Chinese government wants to happen in the
+Philippines is good for Filipinos” (SWS, 2019). In a 2019 Social Weather Stations Survey,
+seven out of 10 adult Filipinos expressed worry about the growing number of Chinese workers
+in the country due to relaxed licensing policies for Chinese offshore gaming operators. These offshore gambling operators have reportedly brought with them criminals and crime syndicates, and
+have been linked to a number of illicit activities including forgery, kidnapping, money laundering,
+and drug trafﬁcking (Robles, 2019).
+Meanwhile in Indonesia, pre-existing anti-Chinese prejudice (Purdey, 2006), confounded by
+the inﬂux of Chinese workers and fear that Chinese investments create a debt trap diplomacy,
+seem to have worsened the already souring sentiment toward China (Tarahita and Rakhmat,
+2019). A Pew Research report also found that in 2018 around four in 10 Indonesians viewed
+China as a major national threat, a signiﬁcant jump from just 27 percent who believed so in
+2013 (Tamir and Budiman, 2019). It is no different in Vietnam, where unfavorable opinion of
+China is not only growing but becoming more inﬂamed. In 2018, for instance, the Vietnamese
+government’s plan to open three special economic zones to long-term leases by Chinese companies was met by violent nationwide protests (Parameswaran, 2018). The event was reminiscent of
+2014, when rioters stormed factories and left at least 21 people killed and 100 injured almost
+immediately after China stationed an oil rig in waters claimed by Vietnam (Hodal and Kaiman,
+2014).
+Malaysia is perhaps an outlier for its public’s generally positive perception of China
+(Pew Research Center, 2013), which observers attribute to Malaysian leaders’ pragmatic recognition of China’s economic and political signiﬁcance (Ahmad and Mohd Sani, 2017) and to
+norms shaped by the Malaysian ethnic Chinese community’s emotional ties to the ancestral
+homeland (Yeoh, 2019). But even so, Yeoh (2019: 412–413) clariﬁes that “there does not
+
+Panao
+
+115
+
+exist a clear-cut division of opinions and perceptions by purely ethnic, generational and politicoideological boundaries, for such cleavages are seen to be constantly cross cutting one another
+and transforming together with the shift in spatiotemporal and ideational constructs of the
+Malaysian society”.
+Drawing from threat perception theory, this exploratory study posits that there is an economic
+root to how citizens of ASEAN states perceived the US–China trade rivalry and such anxiety consequently mediated critical perception of China (Lerner et al., 2003). In the context of Southeast
+Asia’s mixed attitude toward China, the trade war between China and the United States heightened
+negative sentiment toward China, especially in member states contending with China’s territorial
+encroachments but whose investment climate has been slower to respond to the restructuring of
+the global supply chain. China’s assertiveness in the South China Sea and its growing inﬂuence
+in the region raised concerns among ASEAN member states about the potential expansion of
+China’s power at their expense. The trade war became intertwined with broader geopolitical
+dynamics, amplifying the perception of China as a regional threat.
+To empirically assess this relationship, we mined news stories on China which appeared in select
+English language newspapers in all 10 Southeast Asian countries from January 2016 to March
+2020. Analyzing sentiment in a corpus consisting of 75,619 news articles, we ﬁnd that, in
+general, the trade war reinforced a critical opinion of China in the online press of Southeast
+Asian economies grappling with growth uncertainty and disrupted markets. Interestingly, reports
+of China’s encroachments on territorial waters claimed by some ASEAN member states do not
+seem to have confounded a negative image, contrary to conventional expectation. Reports of
+China’s coronavirus response, however, created a particularly negative sentiment, consistent
+with standard accounts framing China as the pandemic’s epicenter. With respect to China’s
+efforts toward public diplomacy, we ﬁnd that ofﬁcial statements related to cultural diplomacy
+and those that appealed to Southeast Asia did not make a difference in selling China’s public
+image in the region. What worked are high-level foreign visits to and from China, which seem
+to be regarded quite favorably. The ﬁndings remind that China may perhaps need to rethink its
+present carrot-and-stick strategy to win the hearts and minds of its ASEAN neighbors.
+The article contributes to the literature by shedding light on the nuanced dynamics of China–
+ASEAN relations through the alternative lens of news sentiment analysis. Although there has
+been vibrant scholarly interest on foreign public sentiment toward China in the last decade, most
+efforts rely on conventional public opinion as the primary source of data (Kang, 2010; Oh,
+2021; Xie and Jin, 2022). However, studies on sentiment analysis have shown that sentiment-based
+methods and language model approaches outperform traditional methods (Cheng et al., 2016; Xu
+et al., 2012). Sentiment analysis can provide a more accurate and nuanced understanding of public
+opinion of China, especially amidst Beijing’s aggressive effort to improve foreign public image.
+Unlike public opinion data, which have longer intervals between data collection points, news articles are published regularly, allowing for the continuous monitoring of sentiment shifts. News sentiment analysis can also aggregate opinions from a wide range of sources, including reputable news
+outlets and social media, allowing for a comprehensive view of public discourse. Moreover, journalists often provide analysis, expert opinions, and historical context alongside news stories, enriching the understanding of public sentiment on a particular issue. These are all timely and important in
+light of China’s current dual strategy of coercion and inducement with individual ASEAN states,
+which some believe have effectively undermined the ASEAN consensus principle (Le Thu, 2019).
+The article proceeds as follows. We begin with a brief examination of the trade war between the
+United States and China and its implications for diplomatic relations in the region amidst China’s
+
+116
+
+Asian Journal of Comparative Politics 10(2)
+
+growing economic and military presence. We then discuss how the effect of the trade war varied
+among ASEAN member states, and why economies in Southeast Asia may not have necessarily
+found it easy to take advantage of the diversion in the global supply chain. Afterwards, we
+expound on our theoretical anchor that foreign policies perceived as threatening or aggressive
+evoke critical sentiment from the global public. Such negative reception, we contend, is further
+magniﬁed during periods of economic uncertainties. We then give an overview of our data and
+how they were collated, the operational measures for the variables of interest, and the estimation
+approach used to test the study’s assumptions. This is followed by a discussion of the estimate
+results and how they support our hypotheses. The article concludes by reiterating important ﬁndings
+and their implications for soft power diplomacy before the ASEAN public.
+
+The US–China trade war
+After China was inducted into the World Trade Organization in 2001, its foreign trade started to
+grow exponentially (SCMP reporters, 2020). Headway to becoming an important global economic
+powerhouse, China’s trade with the United States reached almost US$600 billion in 2019. While
+China was enjoying economic growth, however, the United States had been hitting huge trade deficits with China which US politicians had attributed to China’s alleged taking advantage of the free
+trade network and not opening its market wide enough for other economies (Moosa et al., 2020).
+China’s putative unfair trade practices also provided a provocative political talking point for
+Trump’s 2016 election campaign (BBC, 2016). When Trump became president, US foreign
+policy against China became markedly aggressive. China was accused of, among other things,
+undervaluing the yuan, distorting market subsidies, and stealing intellectual property (Moosa
+et al., 2020; Selmi et al., 2020).
+Since March 2018, the United States and China have been engaged in a series of tit-for-tat policies, levying tariffs and counter-tariffs against each other, and sending the rest of the world to
+contend not just with the disruption in supply chains (Goulard, 2020) but also with higher consumer
+prices (Dickler, 2019), lower corporate proﬁts (Romans, 2019), unstable markets, and slower economic growth. The United States insisted on yuan revaluation and imposing heavy tariffs even
+though there were doubts these would correct US trade deﬁcits. Tariffs, which are meant to
+achieve better terms of trade, for instance, generally leave no one better off when every
+economy imposes it in retaliation (Ossa, 2014). Even a temporary tariff is known to have a permanent contractionary effect on the economy (Sen and Turnovsky, 1989). Moreover, it has long been
+known that protectionist policies are associated not just with the decline in employment but also
+with a decline in market strength (Canto et al., 1986).
+Why then would economies impose tariffs and engage in a trade war? According to Liu and Woo
+(2018), in the case of the United States three major concerns were immediate motivating factors: (a)
+the concern that China’s chronically large trade surplus was depressing local job creation in the
+United States; (b) the concern that China was using illegal and unfair methods to acquire US technology at a discount; and (c) the concern that China sought to weaken US national security and its
+international standing. All three were echoed by politicians even before Trump’s election. But it
+was during Trump’s presidency that the trade war escalated and the line between strategic competition and economic competition became blurred.
+Economists estimate that the cost of the trade war was larger than the optimistic estimates of gain
+that Trump and his administration intended to achieve (Amiti et al., 2019). Li et al.’s (2018) early
+simulation shortly after the start of the trade war suggests China losing more in the fray. However,
+
+Panao
+
+117
+
+the same study shows that the United States would not be left unscathed if China takes retaliatory
+measures and the trade war continues. Lai (2019) echoes many of the views already expressed in
+columns and commentaries about the possibility of the trade war dragging on longer than expected,
+and nationalistic fervors further complicating the situation.
+China, for its part, was initially cautious in responding to Trump’s trade sanction and even
+sought a World Trade Organization arbitration (BBC News, 2020b). There were views that construed China’s subsequent response as driven by nationalistic fervor after Trump’s coercive sanctions evoked memories of almost a century of humiliation under Western powers (Boylan et al.,
+2021). One dominant discourse in Chinese media even painted the trade war as part of the
+United States’ attempt at curbing China’s rise as a global economic power (BBC, 2020).
+
+Trade war and the ASEAN
+Some analysts believe the trade war between the United States and China actually beneﬁts the
+ASEAN region where ﬂedgling economies have been attracting contract manufacturing in
+the last few years (Lauria, 2019). Southeast Asia is also becoming an investment hub, attracting
+companies looking for lower wage alternatives, a business-friendly regulatory environment, and
+a strong macroeconomic performance (Roughneed, 2019). Despite the portending economic
+slump, some believe the US–China trade war could create spillovers and spell relative gains for
+economies with strong trade and foreign direct investment links (Ajami, 2020). The sizeable reduction in trade between the United States and China in 2019 could in the long run lead to signiﬁcant
+trade diversion, more imports from other regions, and a reorganization of value chains in most of
+Asia (Bekkers and Schroeter, 2020). However, some recommend taking caution and remind that
+capital ﬂight in the Chinese manufacturing sector had been taking place long before the trade
+war due to China’s increasing labor cost and diminishing labor force.
+Unfortunately, Southeast Asia might not be ready to absorb the diversion in the supply chain due
+to poor infrastructure and logistic networks (Lei, 2019). The US–China trade war might also worsen
+long-term growth uncertainties for small economies that have come to rely on either China or the
+United States as their top trading partner. Pangestu (2019) cites Indonesia as an example of an
+economy at the losing end but insists the prognosis can well apply to most in the ASEAN due
+to the region’s still limited integration into the global value chain. Even in more structured economies such as Malaysia, policymakers are warned not to bank on trade diversion and instead to
+stick to conventional policies such as intensifying investment promotions and upgrading the manufacturing sector as a vector of growth (Cheng et al., 2019). Observers believe potential gains for
+emerging economies depend on what comparative advantage is left on the sectors that are
+subject to the shift in demand (Carvalho et al., 2019).
+
+Theory
+This article’s theoretical anchor builds on threat perception theory and contends that economic selfinterest informs people’s perception of the other. Competing economic interests among racial or
+ethnic groups produce hostile or prejudicial attitudes that are heightened during periods of economic downturns (Ghosh, 2011; Harris et al., 2018; Zatlin, 2007). Assertions of identity may be
+triggered by major historical or international events which tilt the balance of public opinion
+toward others. At times, the nationalist public would even interpret international disputes as affecting them personally and inducing certain personalization effects (Tam and Lee, 2018).
+
+118
+
+Asian Journal of Comparative Politics 10(2)
+
+Although people’s critical view of other ethnic or racial groups may be based on unwarranted
+qualiﬁcations or stereotypes (Burns and Gimpel, 2000), or even on apprehension about one’s
+own low ﬁnancial or community status (Miller, 2016), these are further magniﬁed when the
+economy is in decline, suggesting that economic scarcity impels negative prejudice (Krosch
+et al., 2017). More recently, it has been suggested that during economic downturns people are
+not only more likely to hold negative explicit and implicit attitudes toward other groups but also
+to condone stereotypes. Downturns can even push citizens to disregard inequality as permissible
+(Bianchi et al., 2018). Domestic sentiment toward a foreign entity can also entail potential audience
+cost for leaders dealing with a recalcitrant or overbearing state. Quek and Johnston (2018) ﬁnd, for
+example, that negative public opinion by citizens of mainland China, such as those espoused by
+sectors of the public who are more hawkish toward the United States, increase instead of decrease
+the domestic audience cost for Chinese leaders.
+In the context of the US–China trade rivalry, as China sought to strengthen its geopolitical position, some ASEAN countries viewed its actions with suspicion. The militarization of disputed territories in the South China Sea, coupled with a more assertive foreign policy, contributed to a sense
+of insecurity among certain ASEAN states. The trade war reinforced citizens’ trepidation over
+China’s rise as a regional hegemon, further fueling critical sentiment of China.
+China has been accused of bullying neighbors and resorting to force in dealing with its territorial
+claims in Southeast Asia (Yamazaki and Osawa, 2021). Although from a realist perspective such
+posturing is “reasonable” for a state on its way to becoming a global power (Kristof, 1993), the
+manner by which it is asserting its economic and political relevance in the region leaves
+Southeast Asian states critical and apprehensive of its expansive maritime activities. For all its
+worth, the ASEAN remains an association of developing economies with limited military or economic capabilities and lacks institutional mechanisms to enforce agreements involving domestic
+events or security challenges.
+As these apprehensions are theoretically assumed to fuel critical appreciation of mainland China
+alongside Southeast Asia’s growing uncertainty amidst the trade war, our hypothesis assumes that
+US–China trade war has ampliﬁed negative sentiment toward China in the Southeast Asian news.
+
+Data and methods
+We test the aforementioned assumption in an exploratory corpus consisting of 75,619 news reports
+related to China, published in the English-language websites of selected news portals in Southeast
+Asia between January 2016 and March 2020.
+As in extant literature, we construe press coverage of an issue of political signiﬁcance as an
+accessible proxy for public opinion (Hopkins et al., 2017; Mutz and Soss, 1997). Journalists, for
+instance, routinely incorporate online sentiments into narratives, especially during important
+media events like election debates (McGregor, 2019). Policymakers who interpret and anticipate
+public reactions to policies, for their part, engage the media by feeding not just news but government’s policy rhetoric (Wood et al., 2005). In this framework, media inﬂuence on perceptions of the
+political environment serves as a basis for expectations about the state of collective opinion on an
+issue (Mutz, 1997). Mass media is viewed as having signiﬁcant impact on the collective perception
+of a salient issue such that increased media coverage mediates the construction of citizens’ perception of the issue as a social problem (Mutz and Soss, 1997).
+Text analysis and news sentiment analysis have a long-established place in political science.
+Text-based empirical approaches have been applied, among other things, to study policy-based
+
+Panao
+
+119
+
+party competition (Laver and Garry, 2000), political trust (Mutz and Reeves, 2005), public response
+to negative economic information (Soroka, 2006), the level of polarization in legislative proposals
+(Monroe et al., 2008), citizen susceptibility to negative campaigning (Fridkin and Kenney, 2011),
+as well as the media’s tendency to highlight the bad state of the economy contingent on the political
+party in power (Soroka, 2012).
+Text-based sentiment analysis, on the other hand, has found a range of applications in recent
+years and has been used, among other things, to assess information dissemination on virus outbreaks such as that of Zika (Seltzer et al., 2017) and, more recently, COVID-19 (De Melo and
+Figueiredo, 2020; Panao and Rye, 2023; Xia et al., 2022), the inclusiveness of classroom pedagogy
+(Cain et al., 2020), electricity and energy pricing (Sun et al., 2020), biofuel development (Zhao
+et al., 2020), and the monitoring and evaluation of public projects (Purao et al., 2012). It has
+also been used to assess issues salient to speciﬁc polities, such as forecasting US economic
+growth (Ardia et al., 2019), the viability of driverless cars in Denmark (Kinra et al., 2020), child
+protection policies in China (Lyu and Takikawa, 2022), and family leave policy in Russia
+(Kingsbury, 2018).
+The news articles in this study are sampled from the following Southeast Asian states, with one
+media outﬁt for each: Brunei (Borneo Bulletin), Cambodia (Khmer Times), Indonesia (Antara
+News), Laos (Laotian Times), Malaysia (New Straits Times), Myanmar (Myanmar Times),
+Philippines (BusinessWorld), Singapore (Channel News Asia), Thailand (Bangkok Post), and
+Vietnam (Voice of Vietnam). Some of these media outﬁts are not necessarily the most subscribed.
+The basis for our selection is largely impelled by two constraints: 1) language of reportage, and 2)
+the presence of a digital archive that can be mined, corresponding to the period between 2016 to
+2020.
+The Borneo Bulletin was ﬁrst published by the Brunei Press as a community paper for expatriates in 1953. It then operated as a daily newspaper after local ﬁrm QAF acquired full ownership in
+September 1990. The newspaper has the distinction of being the Sultanate’s ﬁrst English-language
+daily. Although the paper had an online platform as early as the mid-1990s, access to archives and
+past issues is currently restricted by a subscription paywall. It should be mentioned, however, that
+despite the paper’s private ownership, mass media in Brunei are strictly controlled by the royal
+family. The enforcement of a strict version of Islamic Sharia law also constrains journalists, who
+must exercise self-censorship, especially when covering politics, religion, and the royal family.
+The Sultanate is believed to be courting Chinese foreign direct investment to revitalize its
+economy which is reeling from the drastic drop in oil prices since 2010 (Lim et al., 2023)
+The Khmer Times was ﬁrst launched as an online edition in February 2014 and became a daily
+newspaper in 2015. The English-language newspaper is a private outﬁt owned by Malaysian entrepreneur Mohan Tirugmanasam Bandam. However, it is worth mentioning that as early as 2018,
+Cambodia had already launched a crackdown on independent media, particularly those reporting
+on government corruption, forcing them to close down (Quitzon and Ear, 2023). The Khmer
+Times is the only remaining English-language daily and is believed to have survived because of
+its strong links to the government (Thul, 2018). China’s role as the leading investor and aid provider
+to Cambodia is well documented in the literature. Over the years, China has also become
+Cambodia’s most important security partner, providing the government with funds, military equipment, and personnel training (Murg, 2022).
+Antara News was founded in 1937 when Indonesia was still under Dutch control, but it was
+made a news agency under the control of the president of Indonesia in 1960. Afterwards, Antara
+News served as a national news agency communicating government policies to the public.
+
+120
+
+Asian Journal of Comparative Politics 10(2)
+
+Following a wave of political reforms in the late 1990s, it began to produce reports independent of
+the government and reorganized as a state-owned enterprise in 2007. The Antara online news portal
+has been operational since January 1996 and publishes in both Bahasa Indonesia and English to
+deliver comprehensive, state-approved information about Indonesia (Universitas Fajar and
+Rosida, 2017).
+Singapore’s Channel News Asia was ﬁrst launched in March 1999 under the Television
+Corporation of Singapore (TCS). Currently, it is a multinational news channel owned by the
+Media Corporation of Singapore, an English-language Asian news network. Mediacorp, on the
+other hand, is a state-owned public media conglomerate in Singapore. It is wholly owned by
+Temasek Holdings, the investment arm of the Singapore government which operates television
+broadcasting channels, radio, and digital media properties. On its website, Channel News Asia
+says it operates free to air domestically in Singapore, and as a paid-for television channel internationally to 29 territories across the Asia-Paciﬁc. According to Wu (2013), Channel News Asia
+tends to rely heavily on ofﬁcial sources and adopts a more statist discourse in its news coverage,
+consistent with the public nature of its ownership.
+The Laotian Times is an online news media outlet exclusively publishing stories straight on the
+Laotian Times website. Founded in 2016, it is incorporated under the RDK Group, a Laos-based
+media conglomerate, and is ofﬁcially registered. However, it is not state operated. It is arguably
+the only independent English news outﬁt in Laos. The Laotian Times’ main focus is on disseminating information about Laos, and sometimes the region, to an English-speaking audience, covering
+topics that expand beyond the scope of state-run media. Currently, the Laotian Times publishes
+between ﬁve and seven stories a day on its ofﬁcial website, and between eight and 10 posts a
+day on its Facebook page. Over the past year, the Laotian Times’ reach has expanded to over 6
+million on both the website and various social media platforms.
+The New Straits Times was founded in 1845 and is arguably Malaysia’s only broadsheet
+English-language newspaper. Not only is it Malaysia’s oldest newspaper still in print but it is
+also one of the oldest in the Southeast Asian region. The paper is owned by Media Prima
+Berhad, a publicly listed Malaysian media company and the largest media and entertainment conglomerate in Malaysia. The Media Bias / Fact Check website rates the newspaper as least biased
+(with minimal bias and using very few loaded words), as well as factually and reasonably balanced
+in its coverage (see e.g. Media Bias / Fact Check, n.d.).
+The Myanmar Times, founded in 2000, was the longest running privately owned
+English-language daily in Myanmar before its hiatus in February 2021. The paper was founded
+by Australian businessman Ross Dunkley and Burmese entrepreneur Sonny Swe whose father is
+a high-ranking ofﬁcer of the intelligence department. For a time, the paper was perceived as part
+of the government’s propaganda machine due to Swe’s family background. Over the years,
+however, it has grown to become one of the leading English-language newspapers in the
+country, covering a wide range of topics including news, politics, business, culture, and sports.
+In 2014, Swe was arrested and sentenced to prison on charges of violating Myanmar’s immigration
+and export laws, which led to changes in the ownership structure of the newspaper. The newspaper
+has since faced various challenges, including censorship and restrictions on press freedom under
+Myanmar’s military regime.
+BusinessWorld was founded as BusinessDay in 1967 by veteran Filipino journalist Raul Locsin.
+Over the years, it has expanded its coverage and frequency, becoming a daily newspaper that provides comprehensive coverage of business news, ﬁnance, economics, and related topics. The newspaper has gained a reputation for its in-depth analysis, insightful reporting, and coverage of
+
+Panao
+
+121
+
+important economic and business developments in the Philippines and globally. BusinessWorld has
+received numerous awards and accolades for its journalism over the years and is widely regarded as
+a reputable source of business news and analysis in the Philippines.
+The Bangkok Post was ﬁrst published in 1946 and is currently Thailand’s longest-running newspaper. Founded by Alexander MacDonald, an American, and his Thai associate, Prasit Lulitanond,
+the newspaper initially catered to the expatriate community but eventually expanded its reach and
+inﬂuence. It also gained a reputation for quality journalism and objective reporting, becoming one
+of the leading English-language newspapers in Southeast Asia. Although the newspaper portrays
+itself as independent, in the context of Thailand’s illiberal regime there were occasions when the
+newspaper resorted to self-censorship in favor of powerful individuals or in compliance with the
+country’s strict lese majeste laws. In 2018, former Bangkok Post editor Umesh Pandey claimed
+he was forced to step down after refusing to tone down reportage of the military government’s suppression of civil liberties and the holding of elections (Ellis-Petersen, 2018).
+The Voice of Vietnam was established as Vietnam’s national radio broadcaster on September 7,
+1945, shortly after the Ho Chi Minh’s Declaration of Independence which marked the birth of
+the Democratic Republic of Vietnam. During the Vietnam War (1955–1975), Voice of Vietnam
+played a signiﬁcant role in broadcasting news and propaganda to both domestic and international audiences. It also provided updates on military operations, promoted solidarity among the Vietnamese
+people, and highlighted the government’s perspective on the conﬂict. Following reuniﬁcation, all of
+the radio stations were combined into the Voice of Vietnam, which became the national radio
+station in 1978. In 1998, the Voice of Vietnam Radio published its ﬁrst daily newspaper, which also
+went by the same name (Voice of Vietnam). Directly controlled by the government of Vietnam, the
+Voice of Vietnam has consistently served the interests of the Vietnamese government and the
+Communist Party, playing a crucial role in shaping public opinion and supporting national objectives.
+As the previous discussion indicates, the media outlets included in our study vary in terms of
+ownership structure. Some like Antara News and Voice of Vietnam are state controlled.
+Meanwhile, Borneo Bulletin, the Khmer Times, and Channel News Asia are privately owned but
+operate in an institutional environment where the state strongly shapes editorial discretion. There
+are also the likes of the Laotian Times, New Straits Times, and BusinessWorld, which are run by independent publishers and operate like the proverbial free press. Since the study is concerned with foreign
+policy reporting, we assume these news outﬁts to be representing the media in their respective states.
+Given the aforementioned variation in ownership structure, however, admittedly this assumption
+might not necessarily hold. We recognize this as among the limitations of this exploratory study.
+We mined the text of the articles using Python. We then categorized each article based on
+context-speciﬁc keywords corresponding to our variables of interest. Table 1 summarizes these
+
+Table 1. Keywords in context.
+Variable
+
+Context-speciﬁc keywords
+
+China
+
+People’s Republic of China, Mainland China, Chinese, China’s, Beijing, Xi Jinping, Xi,
+Jinping
+Trade war, tariff
+
+US–China trade
+war
+West Philippine Sea
+COVID 19
+
+West Philippine Sea, South China Sea
+Coronavirus, COVID19, NCOV
+
+122
+
+Asian Journal of Comparative Politics 10(2)
+
+keywords and the variables they represent. The approach basically involves tagging the articles
+based on the presence and frequency of these keywords as thematic signiﬁers. For China and the
+United States, we computed sentiment scores using the Lexicoder Sentiment Dictionary developed
+by Young and Soroka (2012) and implemented them in the Quanteda package in R. The process
+yields two variables, one corresponding to the values computed for positive sentiment, and the
+other corresponding to those for negative sentiment, for each article. Afterwards, we aggregated
+the scores to produce negative and positive sentiment by date.
+We computed the net sentiment scores by subtracting the negative from the positive sentiment. We then used this as a dependent variable to test for the effect of the trade war while controlling for other factors which may inﬂuence overseas perceptions of China. We follow
+Goldsmith and Horiuchi (2012) and included a proxy for public diplomacy operationalized as
+the presence of high-level visits to and from China by state ofﬁcials a week prior to the news
+report. However, we are also aware that ofﬁcial public statements are considered as articulation
+of foreign policy (Rosati, 1988; Wish, 1980). Thus, we also take into account whether Southeast
+Asia or any of the ASEAN states were mentioned in a statement or communique released by
+China’s foreign ministry the previous week, as well as if these statements sought to promote
+China’s cultural diplomacy. We also controlled for how COVID-19 inﬂuenced overseas perceptions of China (Silver et al., 2020).
+
+Results
+We ﬁrst obtained weekly sentiment scores by computing the average sentiment per week. The rest
+of the covariates have likewise been aggregated into weekly observations (see Table 2).
+The graphs in Figure 1 give a descriptive summary of the distribution of the normalized
+weekly news sentiment on China for the 10 Southeast Asian countries. Weekly news sentiment
+for the entire sample ranges between −430 and 266. A negative sentiment score denotes critical
+coverage. A positive sentiment score, on the other hand, suggests favorable portrayal in the
+news. The average sentiment for all 10 ASEAN states is 12.08, suggesting a generally positive
+sentiment at ﬁrst glance.
+Table 3 gives the distribution of weekly-aggregated net sentiment for all 10 ASEAN countries in
+the study. Noticeably, not all news sources have weekly reports about China. For example, whereas
+Laos only has 129 weeks, Thailand and Vietnam each has 222. Again, a quick glance suggests that
+sentiment is generally positive. It is particularly positive in Brunei, Cambodia, Indonesia, and
+Table 2. Descriptive statistics for key variables.
+Variable
+
+Obs
+
+Mean
+
+Std. Dev.
+
+Min
+
+Max
+
+Sentiment per week
+News mentions of the US–PRC trade war
+News mentions of the West Philippine Sea
+News mentions of the COVID19
+Number of high-level visits to and from China
+PRC statements on ASEAN
+PRC statements on Chinese cultural diplomacy
+Week
+
+1955
+1955
+1955
+1955
+1955
+1955
+1955
+1955
+
+12.09
+11.16
+5.94
+0.23
+2.90
+5.16
+61.41
+3028.46
+
+46.75
+22.05
+11.02
+0.42
+3.19
+17.22
+102.04
+62.21
+
+−430
+0
+0
+0
+0
+0
+0
+1
+
+266
+182
+129
+1
+15
+140
+666
+222
+
+Panao
+
+123
+
+Figure 1. News sentiment in ASEAN states.
+
+Table 3. News sentiment on China by country.
+Country
+
+Obs
+
+Mean
+
+Std. Dev.
+
+Min
+
+Max
+
+Brunei
+Cambodia
+Indonesia
+Laos
+Malaysia
+Myanmar
+Philippines
+Singapore
+Thailand
+Vietnam
+
+166
+220
+188
+129
+220
+220
+208
+160
+222
+222
+
+39.92
+21.59
+8.57
+6.06
+12.63
+8.68
+4.14
+−4.93
+3.50
+19.49
+
+49.10
+36.98
+14.89
+14.40
+65.41
+21.10
+17.89
+38.94
+88.34
+29.54
+
+−82
+−79
+−45
+−6
+−304
+−63
+−55
+−227
+−430
+−65
+
+266
+117
+71
+108
+236
+105
+70
+126
+215
+220
+
+surprisingly, even in Vietnam. Although most in ASEAN have taken a largely hedging approach,
+Vietnam and the Philippines are known to take a largely balancing policy toward China (Chen and
+Yang, 2013). The Philippines even brought its territorial dispute before an international arbitral
+body and obtained a favorable ruling in 2016 (Kuik, 2016). Meanwhile, news sentiment is more
+or less divided in the Philippines and Thailand.
+
+124
+
+Asian Journal of Comparative Politics 10(2)
+
+Sentiment is noticeably critical in Singapore—the most economically developed of ASEAN
+member states and, perhaps, the only one with substantial military capability in Southeast Asia
+(Tan, 2013). This observation may seem odd to those acquainted with Singapore’s ethnic demographics. However, it has long been a perennial apprehension in Singapore that China might
+take advantage of existing cultural afﬁnities with the Singaporean Chinese to serve the Chinese
+Communist Party’s political interests. The island state is cautious not to be labelled as another
+China and was reportedly the last of the original ﬁve ASEAN founding state members to normalize
+relations with the People’s Republic of China (Fook, 2018).
+Table 4 summarizes the regression estimates for the 10 ASEAN countries. The models estimate
+the direction of news sentiment, that is, whether it shifts positively or negatively, in the presence of
+news related to the US–China trade rivalry and while controlling for pertinent variables. Model 1
+speciﬁes a standard pooled model that includes all pertinent variables and controls. Model 2, on the
+other hand, is a model that has all the variables and ﬁxed effects for each of the ASEAN countries.
+Finally, Model 3 is a fully speciﬁed model that includes ﬁxed effects and a weekly trend to address
+potential serial correlation. As a workaround for potential heteroscedasticity, all estimates utilize
+robust standard errors.
+The basic pooled speciﬁcation in Model 1 conﬁrms the hypothesis, suggesting that an additional
+mention of the US–China trade war in the ASEAN media decreases positive regard toward China
+by 0.16 units. News mention of the territorial disputes in the West Philippine Sea is also consistent
+with expectation but the magnitude is not as substantial. Moreover, this speciﬁcation does not
+account for the latent characteristics of each ASEAN state.
+Table 4. Summary of regression estimates.
+
+News mentions of the US–PRC trade war
+News mentions of the West Philippine Sea
+News mentions of COVID-19
+Reports of high-level visits to and from China
+PRC statements on ASEAN
+PRC statements on China’s cultural diplomacy
+
+(Model 1)
+Net sentiment
+
+(Model 2)
+Net sentiment
+
+(Model 3)
+Net sentiment
+
+−0.159*
+(0.0657)
+−0.0255
+(0.163)
+−0.245***
+(0.0383)
+1.062***
+(0.300)
+−0.0994
+(0.0644)
+0.0167
+(0.0108)
+
+−0.481***
+(0.0647)
+−0.476**
+(0.171)
+−0.355***
+(0.0381)
+0.935***
+(0.275)
+−0.0649
+(0.0616)
+0.0113
+(0.00972)
+
+16.09***
+(1.444)
+1955
+NO
+0.144
+0.142
+
+53.84***
+(4.050)
+1955
+YES
+0.275
+0.269
+
+−0.462***
+(0.0665)
+−0.501**
+(0.173)
+−0.350***
+(0.0382)
+0.902**
+(0.277)
+−0.0695
+(0.0620)
+0.0117
+(0.00975)
+−0.0200
+(0.0145)
+114.3**
+(43.88)
+1955
+YES
+0.276
+0.270
+
+Week
+Constant
+N
+Country ﬁxed effect
+R2
+adj. R2
+
+Standard errors in parentheses. * p < 0.05, ** p < 0.01, *** p < 0.001.
+
+Panao
+
+125
+
+Model 2 includes ﬁxed effects for each ASEAN state. As in Model 1, the relationship between
+news mention of the trade war and news sentiment toward China is negative. Here, an additional
+mention of the trade tension in the ASEAN press decreases public regard of China by 0.48
+units, all else constant. Likewise, as in the previous model, news mention of China’s maritime
+expansion in contested areas in the West Philippine Sea also draws negative sentiment.
+Model 3 fully speciﬁes all the variables, the ﬁxed effects for each 10 ASEAN state, and a weekly
+trend. As in models 1 and 2, news mention of China’s trade war with the United States elicits negative sentiment. In this case, an additional news mention drives negative sentiment by 0.46 units.
+Similarly, an additional news mention of China’s row in the West Philippine Sea also induces critical feelings of China by 0.5 units. It can be observed that in all three models the effect of the trade
+war on public perception toward China is consistent. They all suggest that, in general, the trade war
+elicits mainly critical narrative by the ASEAN press, in line with our hypothesis.
+News of China’s territorial encroachment on disputed territories claimed by other ASEAN states
+also adds to the negative perception, although this effect is observed only in Models 2 and 3. The
+negative sentiment is consistent with those held by a number of archipelagic states in Southeast
+Asia that have long perceived China as a security threat (Kim and Gates, 2015; Odgaard, 2003).
+After Deng Xiaoping, China has pursued a more assertive stance in the South China Sea, raising
+concerns among ASEAN countries and prompting them to deliberately seek the support of other
+superpowers (Hong, 2013). In October 1995, former Philippine president Fidel V Ramos even
+appealed to the United States to retain its military presence in Asia on the pretext that
+Beijing’s then lack of capability did not mean it would not pose a military and political threat
+to Southeast Asia.
+The estimates also show that news on the COVID-19 pandemic stirred a more critical opinion
+of China, echoing what some international media refer to as “hostility” over China’s coronavirus
+response (Zheng, 2020). When COVID-19 broke out in January 2020, blame was largely pinned
+on China not only because the virus was ﬁrst reported in Wuhan but also because of the Chinese
+government’s lack of transparency and unwillingness to share information about the virus (Yang
+and Chen, 2021). When the pandemic spread to the rest of the world, China attempted to redeem
+its reputation by actively publicizing aid sent to affected countries (Wong, 2020). Unfortunately,
+China’s mask diplomacy seemed to have backﬁred and aggravated adverse foreign public
+opinion about the country (Verma, 2020).
+Interestingly, statements from China’s Ministry of Foreign Affairs meant to promote the country’s cultural diplomacy, even those statements relevant to the ASEAN or member states, do not
+seem to make a dent toward creating a favorable image. The ﬁndings lend credence to the observation that while China’s state propaganda machine works at home, it fails to convince hearts
+and minds overseas, not even those of ASEAN neighbors (Yip, 2018).
+What appears to work for China are high-level visits to and from China. These ofﬁcial visits
+seem to create a positive impact on the ASEAN press. High-level state visits are well known in
+the literature as vectors of nation branding (Goldsmith and Horiuchi, 2012; Goldstein, 2008) and
+they seem to bode well for China too. It seems that China’s own Foreign Affairs Ministry is
+aware of this, as right after Pew Research released its report showing global sentiment on China
+at its record low (Silver et al., 2020), China’s foreign affairs announced a series of goodwill
+visits to Southeast Asia as part of efforts “to deepen cooperation with ASEAN, uphold multilateralism and maintain peace and stability” (Wu, 2020). These high-level visits are usually accompanied
+by trade and investment deals or generous aid packages and are resorted to by other major powers as
+part of their checkbook diplomacy (Wang and Stone, 2023).
+
+126
+
+Asian Journal of Comparative Politics 10(2)
+
+Conclusion
+While apprehension about China among neighbors in the ASEAN region is nothing new, our ﬁndings show that economic uncertainties amidst the trade war had magniﬁed collective apprehension
+of China, adding to the critical perception among the ASEAN online press. As with conventional
+accounts, our ﬁndings also indicate that news of China’s territorial encroachment on disputed
+territories claimed by other ASEAN states creates a negative opinion. Likewise, news on the
+COVID-19 pandemic adds to the negative sentiment toward China.
+It is not difﬁcult to see why. Despite a number of ASEAN states carving their development trajectories on the back of the Chinese economy, global perception of China remains largely mixed.
+As China faced off with the United States, slapping tariffs one after the other, Southeast Asian states
+on the sidelines became at risk of being casualties or collateral damage. At the domestic level, precarious security and the bad state of the economy are closely intertwined. As mass perception of
+external threat increased, people were inclined to project in-group cohesion and adopt an aggressive
+or critical response to the outside group seen as the source of threat (Lavine et al., 2005;
+Moskalenko et al., 2006). It will be recalled that not so long ago, citizens of mainland China projected similar mass perception, when deteriorating images of the United States and Japan created a
+vicious cycle of negative news coverage (Sinkkonen and Elovainio, 2020).
+The geopolitical dimensions of the US–China trade rivalry also likely contributed to negative
+sentiment within Southeast Asia. China’s assertiveness in territorial disputes, particularly in the
+South China Sea, seemed to have heightened anxiety among Southeast Asian nations about its geopolitical intentions and the potential for a shift in the regional power balance. The perception of
+economic uncertainty due to the trade war, coupled with anxiety over China’s expanding inﬂuence
+in the region, only raised further alarms. Of course, it is possible that China had been misunderstood. A World Trade Organization ruling in September 2020 suggests China had the moral
+high ground, ﬁnding that some US tariffs against China violated trading rules (Zumbrun and
+Michaels, 2020). The US Trade Representative criticized the decision, arguing it was based on inadequate provisions. The decision did little, however, to dissipate what inevitably became a growing
+distrust of China. It did not seem to help either that the Chinese leadership continues to ignore
+global reproach and construes public diplomacy as a simple strategic and functional instrument
+devoid of mutual commitments (Hartig, 2016).
+Be that as it may, we recognize a number of limitations which we hope can be addressed in future
+iterations of this study. News sentiment analysis provides a relatively straightforward process compared to gathering opinions through surveys or interviews because most news articles are publicly
+available and easily accessible. However, news outlets may also prioritize certain topics or viewpoints over others, or underrepresent certain demographic groups in news coverage, leading to a
+biased representation of public sentiment (Mach et al., 2021). Additionally, in the context of illiberal regimes that has come to characterize Southeast Asia, the press operates under strict control and
+censorship by the ruling authority, becoming the mouthpiece of government instead of mirroring
+public opinion (Siebert et al., 1963). This might be why the state-controlled press in countries
+such as Vietnam counterintuitively indicate positive news sentiment despite the surveys showing
+otherwise. Hanoi is known to ﬁlter news that might pique Beijing—an ideological comrade and
+a key trading partner—be it news on protests against China’s draconian COVID-19 measures
+(Vietnamese Magazine, 2022) or anti-China comments by Vietnamese netizens (Nguyen and
+Luong, 2020). News outlets may also prioritize sensational or attention-grabbing headlines,
+which may not accurately reﬂect the true sentiment of the public, and lead to an overemphasis
+
+Panao
+
+127
+
+of extreme viewpoints and distortions. In an earlier analysis, Mutz and Soss (1997) found that the
+salience of news sentiment is indirect, i.e. limited in terms of shaping public opinion though instrumental in inﬂuencing the perceptual environment in which policy debates transpire. Overall, while
+news sentiment analysis can provide valuable insights into public opinion, it should be used with a
+fair amount of caution and in conjunction with other methods to ensure a more comprehensive
+understanding of public sentiment.
+In conclusion, our analysis of news sentiment shows that threat perception encompassing economic and geopolitical dimensions played a pivotal role in shaping negative global opinions about
+China during its trade war with the United States. The interconnectedness of the global economy
+made it clear to small economies in the ASEAN that the repercussions of the trade war extended
+beyond the primary actors, generating widespread concern about economic stability, and consequently negative sentiment toward Asia’s rising hegemon.
+Acknowledgements
+This study was written under the auspices of the 2020 Taiwan Ministry of Foreign Affairs (MOFA)
+Fellowship. An earlier version of this manuscript was presented at the colloquium of the MOFA Taiwan
+Fellowship Scholars held at the National Chengchi University, Taiwan, on October 29, 2020.
+
+Declaration of conﬂicting interests
+The author declared no potential conﬂicts of interest with respect to the research, authorship, and/or publication
+of this article.
+
+Funding
+The author disclosed receipt of the following ﬁnancial support for the research, authorship, and/or publication
+of this article: This work was supported by the Taiwan Fellowship 2020.
+
+ORCID iD
+Rogelio Alicor Labalan Panao
+
+https://orcid.org/0000-0002-9834-1318
+
+References
+Ahmad MZ and Mohd Sani MA (2017) China’s assertive posture in reinforcing its territorial and sovereignty
+claims in the South China Sea: An insight into Malaysia’s stance. Japanese Journal of Political Science
+18(1): 67–105.
+Ajami RA (2020) US-China trade war: The spillover effect. Journal of Asia-Paciﬁc Business 21(1): 1–3.
+Amiti M, Redding SJ and Weinstein DE (2019) The impact of the 2018 tariffs on prices and welfare. Journal of
+Economic Perspectives 33(4): 187–210.
+Ardia D, Bluteau K and Boudt K (2019) Questioning the news about economic growth: Sparse forecasting
+using thousands of news-based sentiment values. International Journal of Forecasting 35(4): 1370–1386.
+BBC News (2016a) Donald Trump’s economic promises. 9 November. Available at: https://www.bbc.com/
+news/business-37921635 (accessed 2 January 2024).
+BBC News (2016b) Trump accuses China of ‘raping’ US with unfair trade policy. 2 May. Available at: https://
+www.bbc.com/news/election-us-2016-36185012 (accessed 4 January 2024).
+BBC News (2020a) A quick guide to the US-China trade war. 16 January. Available at: https://www.bbc.com/
+news/business-45899310 (accessed 4 January 2024).
+BBC News (2020b) US China tariffs ‘inconsistent’ with trade rules says WTO. 15 September. Available at:
+https://www.bbc.com/news/business-54168419 (accessed 4 January 2024).
+
+128
+
+Asian Journal of Comparative Politics 10(2)
+
+Bekkers E and Schroeter S (2020) An Economic Analysis of the US-China Trade Conﬂict (WTO Working
+Papers 2020/04; WTO Working Papers, Vol. 2020/04).
+Bianchi EC, Hall EV and Lee S (2018) Reexamining the link between economic downturns and racial
+antipathy: Evidence that prejudice against blacks rises during recessions. Psychological Science 29(10):
+1584–1597.
+Boylan BM, McBeath J and Wang B (2021) US–China relations: Nationalism, the trade war, and COVID-19.
+Fudan Journal of the Humanities and Social Sciences 14(1): 23–40.
+Burns P and Gimpel JG (2000) Economic insecurity, prejudicial stereotypes, and public opinion on immigration policy. Political Science Quarterly 115(2): 201–225.
+Cain M, Gibbs K and McRae B (2020) ‘Please explain!’: Public perception of students with diversity in mainstream education as voiced in Australian online news media. International Journal of Educational
+Research Open 1: 100006.
+Canto VA, Dietrich JK, Jain A, et al. (1986) Protectionism and the stock market: The determinants and consequences of trade restrictions. Financial Analysts Journal 42(5): 32–42.
+Carvalho M, Azevedo A and Massuquetti A (2019) Emerging countries and the effects of the trade war
+between US and China. Economies 7(2): 45.
+Chen IT-Y and Yang AH (2013) A harmonized Southeast Asia? Explanatory typologies of ASEAN countries’
+strategies to the rise of China. The Paciﬁc Review 26(3): 265–288.
+Cheng C, Rosli F and Kartika DM (2019) The US-China trade war: Is Malaysia beneﬁting from “diversions”
+in US import demand? Malaysia: Institute of Strategic and International Studies (ISIS).
+Cheng J, Zhang X, Li P, et al. (2016) Exploring sentiment parsing of microblogging texts for opinion polling
+on Chinese public ﬁgures. Applied Intelligence 45(2): 429–442.
+Cho IH and Park SH (2013) The rise of China and varying sentiments in Southeast Asia toward great powers.
+Strategic Studies Quarterly 7(2): 69–92.
+De Melo T and Figueiredo CMS (2020) A ﬁrst public dataset from Brazilian twitter and news on COVID-19 in
+Portuguese. Data in Brief 32: 106179.
+Dickler J (2019) ‘Hidden sales tax’: How Trump’s tariffs will impact prices — and what consumers can do
+about it. CNBC, 31 August. Available at: https://www.cnbc.com/2019/08/31/what-you-should-buy-onlabor-day-as-trade-tensions-heat-up.html (accessed 2 January 2024).
+Ellis-Petersen H (2018) Editor of Bangkok Post ‘forced to step down’ over coverage of government. The
+Guardian, 15 May. Available at: https://www.theguardian.com/world/2018/may/15/editor-of-bangkokpost-forced-to-step-down-over-coverage-of-government (accessed 12 December 2023).
+Fook LL (2018) Singapore–China relations: Building substantive ties amidst challenges. In: Cook M and
+Singh D (eds) Southeast Asian Affairs 2018. ISEAS–Yusof Ishak Institute Singapore, 321–340.
+Fridkin KL and Kenney P (2011) Variability in citizens’ reactions to different types of negative campaigns:
+Negative campaigning. American Journal of Political Science 55(2): 307–325.
+Ghosh J (2011) Fear of foreigners: Recession and racism in Europe. Race/Ethnicity: Multidisciplinary Global
+Contexts 4(2): 183–190.
+Goldsmith BE and Horiuchi Y (2012) In search of soft power: Does foreign public opinion matter for US
+foreign policy? World Politics 64(3): 555–585.
+Goldstein E (2008) The politics of the state visit. The Hague Journal of Diplomacy 3(2): 153–178.
+Goulard S (2020) The impact of the US–China trade war on the European Union. Global Journal of Emerging
+Market Economies 12(1): 56–68.
+Harris AS, Findley MG, Nielson DL, et al. (2018) The economic roots of anti-immigrant prejudice in the global
+south: Evidence from South Africa. Political Research Quarterly 71(1): 228–241.
+Hartig F (2016) How China understands public diplomacy: The importance of national image for national
+interests. International Studies Review 18(4): 655–680.
+Hodal K and Kaiman J (2014) At least 21 dead in Vietnam anti-China protests over oil rig. The Guardian,
+15 May. Available at: https://www.theguardian.com/world/2014/may/15/vietnam-anti-china-protests-oilrig-dead-injured (accessed 11 December 2023).
+
+Panao
+
+129
+
+Hong Z (2013) The South China Sea dispute and China-ASEAN relations. Asian Affairs 44(1): 27–43.
+Hopkins DJ, Kim E and Kim S (2017) Does newspaper coverage inﬂuence or reﬂect public perceptions of the
+economy? Research & Politics 4(4): 1–7.
+Kang DC (2010) China Rising: Peace, Power, and Order in East Asia. Columbia University Press.
+Kim W and Gates S (2015) Power transition theory and the rise of China. International Area Studies Review
+18(3): 219–226.
+Kingsbury M (2018) Let’s have more Russian babies. How anti-immigrant sentiment shapes family leave
+policy in Russia. Communist and Post-Communist Studies 52(3): 283–295.
+Kinra A, Beheshti-Kashi S, Buch R, et al. (2020) Examining the potential of textual big data analytics
+for public policy decision-making: A case study with driverless cars in Denmark. Transport Policy
+98: 68–78.
+Kristof ND (1993) The rise of China. Foreign Affairs 72(5): 59.
+Krosch AR, Tyler TR and Amodio DM (2017) Race and recession: Effects of economic scarcity on racial discrimination. Journal of Personality and Social Psychology 113(6): 892–909.
+Kuik C-C (2016) How do weaker states hedge? Unpacking ASEAN states’ alignment behavior towards China.
+Journal of Contemporary China 25(100): 500–514.
+Lai EL-C (2019) The US–China trade war, the American public opinions and its effects on China. Economic
+and Political Studies 7(2): 169–184.
+Lauria V (2019) U.S.-China trade war boosts fast-growing Southeast Asia. Forbes, 19 February. Available at:
+https://www.forbes.com/sites/vinnielauria/2019/02/19/u-s-china-trade-war-boosts-fast-growing-southeastasia-2/#682bb6b16f5e (accessed 2 December 2023).
+Laver M and Garry J (2000) Estimating policy positions from political texts. American Journal of Political
+Science 44(3): 19.
+Lavine H, Lodge M and Freitas K (2005) Threat, authoritarianism, and selective exposure to information.
+Political Psychology 26(2): 219–244.
+Lei A (2019) Is Southeast Asia winning the US-China trade war? Not so fast. The Diplomat, 5 September.
+Available at: https://thediplomat.com/2019/09/is-southeast-asia-winning-the-us-china-trade-war-not-sofast/ (accessed 2 December 2023).
+Lerner JS, Gonzalez RM, Small DA, et al. (2003) Effects of fear and anger on perceived risks of terrorism:
+A national ﬁeld experiment. Psychological Science 14(2): 144–150.
+Le Thu H (2019) China’s dual strategy of coercion and inducement towards ASEAN. The Paciﬁc Review
+32(1): 20–36.
+Li C, He C and Lin C (2018) Economic impacts of the possible China–US trade war. Emerging Markets
+Finance and Trade 54(7): 1557–1577.
+Lim G, Hoon C-Y and Zhao K (2023) Foreign investment, state capitalism, and national development in
+Borneo: Rethinking Brunei–China economic relations. Journal of Current Southeast Asian Affairs
+42(2): 242–264.
+Liu T and Woo WT (2018) Understanding the U.S.-China trade war. China Economic Journal 11(3): 319–340.
+Lyu Z and Takikawa H (2022) Media framing and expression of anti-China sentiment in COVID-19-related
+news discourse: An analysis using deep learning methods. Heliyon 8(8): e10419.
+Mach KJ, Salas Reyes R, Pentz B, et al. (2021) News media coverage of COVID-19 public health and policy
+information. Humanities and Social Sciences Communications 8(1): 20.
+McGregor SC (2019) Social media as public opinion: How journalists use social media to represent public
+opinion. Journalism 20(8): 1070–1086.
+Media Bias / Fact Check (n.d.) New Straits Times – Bias and credibility. Available at: https://
+mediabiasfactcheck.com/new-straits-times/ (accessed 4 January 2024).
+Miller PK (2016) “But aren’t we all poor?”: How whites’ perceptions of economic group threat inﬂuence racial
+attitudes in Michigan. Michigan Sociological Review 30: 44–68.
+Monroe BL, Colaresi MP and Quinn KM (2008) Fightin’ words: Lexical feature selection and evaluation for
+identifying the content of political conﬂict. Political Analysis 16(4): 372–403.
+
+130
+
+Asian Journal of Comparative Politics 10(2)
+
+Moosa N, Ramiah V, Pham H, et al. (2020) The origin of the US-China trade war. Applied Economics 52(35):
+3842–3857.
+Moskalenko S, McCauley C and Rozin P (2006) Group identiﬁcation under conditions of threat: College students’ attachment to country, family, ethnicity, religion, and university before and after September 11,
+2001. Political Psychology 27(1): 77–97.
+Murg BJ (2022) Walking a ﬁne line: How Cambodia navigates its way between China and Vietnam. In: Singh
+D and Ha HT (eds) Southeast Asian Affairs 2022. ISEAS–Yusof Ishak Institute Singapore, 126–138.
+Mutz DC (1997) Mechanisms of momentum: Does thinking make it so? The Journal of Politics 59(1): 104–125.
+Mutz DC and Reeves B (2005) The new videomalaise: Effects of televised incivility on political trust.
+American Political Science Review 99(1): 1–15.
+Mutz DC and Soss J (1997) Reading public opinion: The inﬂuence of news coverage on perceptions of public
+sentiment. Public Opinion Quarterly 61(3): 31.
+Nguyen D and Luong A (2020) How Vietnam is leveraging anti-China sentiments online. Think China, 19
+October. Available at: https://www.thinkchina.sg/how-vietnam-leveraging-anti-china-sentiments-online
+(accessed 2 January 2024).
+Odgaard L (2003) The South China Sea: ASEAN’s security concerns about China. Security Dialogue 34(1):
+11–24.
+Oh Y (2021) Southeast Asian public perceptions of China: Clusters and gaps. The Korean Journal of
+International Studies 19(3): 377–403.
+Ossa R (2014) Trade wars and trade talks with data. American Economic Review 104(12): 4104–4146.
+Panao RAL and Rye RS (2023) Junctures in the time of COVID-19: Topic search and government’s framing of
+COVID-19 response in the Philippines. Asian Journal of Comparative Politics 8(2): 558–575.
+Pangestu M (2019) China–US trade war: An Indonesian perspective. China Economic Journal 12(2):
+208–230.
+Parameswaran P (2018) What’s behind Vietnam’s anti-China protests? World Politics Review, 13 July.
+Available at: https://www.worldpoliticsreview.com/articles/25055/what-s-behind-vietnam-s-anti-chinaprotests (accessed 13 December 2023).
+Pew Research Center (2013) America’s Global Image Remains More Positive than China’s: But Many See
+China Becoming World’s Leading Power. Pew Research Center.
+Purao S, Desouza KC and Becker J (2012) Investigating failures in large-scale public sector projects with sentiment analysis. E-Service Journal 8(2): 84.
+Purdey J (2006) Anti-Chinese Violence in Indonesia, 1996—1999. Singapore University Press.
+Quek K and Johnston AI (2018) Can China back down? Crisis de-escalation in the shadow of popular opposition. International Security 42(3): 7–36.
+Quitzon J and Ear S (2023) Hun Sen’s ﬁght to control the Cambodian infosphere. East Asia Forum, 2 May.
+Available at: https://eastasiaforum.org/2023/05/02/hun-sens-ﬁght-to-control-the-cambodian-infosphere/
+(accessed 2 December 2023).
+Robles A (2019) A Chinese crime wave hits Duterte’s Philippines as Pogos grow unchecked. South China
+Morning Post, 27 December. Available at: https://www.scmp.com/week-asia/economics/article/3043542/
+chinese-crime-wave-hits-dutertes-philippines-pogos-grow (accessed 11 December 2023).
+Romans C (2019) The trade war is destroying American proﬁt. CNN, 23 October. Available at: https://edition.
+cnn.com/2019/10/23/business/trade-war-companies/index.html (accessed 11 December 2023).
+Rosati JA (1988) Continuity and change in the foreign policy beliefs of political leaders: Addressing the controversy over the carter administration. Political Psychology 9(3): 71.
+Roughneed S (2019) Southeast Asia bucks trend of sinking global foreign investment. Nikkei Asian Review,
+4 February. Available at: https://asia.nikkei.com/Economy/Southeast-Asia-bucks-trend-of-sinking-globalforeign-investment (accessed 11 December 2023).
+SCMP reporters (2020) Explainer: What is the US-China trade war? South China Morning Post, 13 April.
+Available at: https://www.scmp.com/economy/china-economy/article/3078745/what-us-china-trade-warhow-it-started-and-what-inside-phase (accessed 11 December 2023).
+
+Panao
+
+131
+
+Selmi R, Errami Y and Wohar ME (2020) What Trump’s China tariffs have cost U.S. companies? Journal of
+Economic Integration 35(2): 282–295.
+Seltzer EK, Horst-Martz E, Lu M, et al. (2017) Public sentiment and discourse about Zika virus on Instagram.
+Public Health 150: 170–175.
+Sen P and Turnovsky SJ (1989) Tariffs, capital accumulation, and the current account in a small open
+economy. International Economic Review 30(4): 11.
+Siebert FS, Peterson T and Schramm W (1963) Four Theories of the Press: The Authoritarian, Libertarian,
+Social Responsibility, and Soviet Communist Concepts of What the Press Should Be and Do. University
+of Illinois Press.
+Silver L, Devlin K and Huang C (2020) Unfavorable Views of China Reach Historic Highs in Many Countries:
+Majorities Say China has Handled COVID-19 Outbreak Poorly. Pew Research Center.
+Sinkkonen E and Elovainio M (2020) Chinese perceptions of threats from the United States and Japan.
+Political Psychology 41(2): 265–282.
+Soroka SN (2006) Good news and bad news: Asymmetric responses to economic information. The Journal of
+Politics 68(2): 372–385.
+Soroka SN (2012) The gatekeeping function: Distributions of information in media and the real world. The
+Journal of Politics 74(2): 514–528.
+Sun Y, Wang Z, Zhang B, et al. (2020) Residents’ sentiments towards electricity price policy: Evidence from
+text mining in social media. Resources, Conservation and Recycling 160: 104903.
+SWS (2019) Fourth quarter 2018 Social Weather Survey: Most Pinoys disagree that the Chinese government
+has good intentions for the Filipino people. 5 April. Available at: https://www.sws.org.ph/swsmain/
+artcldisppage/?artcsyscode=ART-20190405180119 (accessed 11 December 2023).
+Tam L and Lee Y (2018) The interplay between nationalism and public diplomacy: Examining nationalist
+publics’ communicative behaviors during an international dispute. Place Branding and Public
+Diplomacy 14(4): 225–233.
+Tamir C and Budiman A (2019) Indonesians optimistic about their country’s democracy and economy as elections
+near. Pew Research Center, 4 April. Available at: https://www.pewresearch.org/fact-tank/2019/04/04/indonesiansoptimistic-about-their-countrys-democracy-and-economy-as-elections-near/ (accessed 11 December 2023).
+Tan ATH (2013) Singapore’s defence industry. Security Challenges 9(1): 63–86.
+Tarahita D and Rakhmat MZ (2019) Understanding Indonesians’ souring sentiment toward China. The
+Diplomat, 6 June. Available at: https://thediplomat.com/2019/06/understanding-indonesians-souringsentiment-toward-china/ (accessed 11 December 2023).
+Thul PC (2018) Foreign journalists quit Cambodia paper in protest at perceived interference. Reuters, 9 May.
+Available at: https://www.reuters.com/article/us-cambodia-politics-media-idUSKBN1IA0IJ/ (accessed 11
+December 2023).
+Universitas Fajar and Rosida A (2017) News content analysis of antaranews.com about Indonesia presidential
+election 2014. Elite: English and Literature Journal 4(1): 1–12.
+Verma R (2020) China’s diplomacy and changing the COVID-19 narrative. International Journal: Canada’s
+Journal of Global Policy Analysis 75(2): 248–258.
+Vietnamese Magazine (2022) Vietnam brieﬁng Dec. 5, 2022: Vietnam’s state media censors news on protests
+in China. 5 December. Available at: https://www.thevietnamese.org/2022/12/vietnam-brieﬁng-vietnamsstate-media-censors-news-on-protests-in-china/ (accessed 10 December 2023).
+Wang Y and Stone RW (2023) China visits: A dataset of Chinese leaders’ foreign visits. The Review of
+International Organizations 18(1): 201–225.
+Wish NB (1980) Foreign policy makers and their national role conceptions. International Studies Quarterly
+24(4): 32.
+Wong B (2020) China’s mask diplomacy. The Diplomat, 25 March. Available at: https://thediplomat.com/
+2020/03/chinas-mask-diplomacy/ (accessed 2 January 2024).
+Wood BD, Owens CT and Durham BM (2005) Presidential rhetoric and the economy. The Journal of Politics
+67(3): 627–645.
+
+132
+
+Asian Journal of Comparative Politics 10(2)
+
+Wu S (2013) Assessing the potential of Channel NewsAsia as the next ‘Al Jazeera’: A comparative discourse
+analysis of Channel NewsAsia and the BBC. Global Media and Communication 9(2): 83–99.
+Wu W (2020) China starts diplomatic drive to win over Southeast Asian countries. South China Morning Post, 9
+October. Available at: https://www.scmp.com/news/china/diplomacy/article/3104916/china-starts-diplomaticdrive-win-over-southeast-asian (accessed 11 December 2023).
+Xia H, An W, Li J, et al. (2022) Outlier knowledge management for extreme public health events:
+Understanding public opinions about COVID-19 based on microblog data. Socio-Economic Planning
+Sciences 80: 100941.
+Xie Y and Jin Y (2022) Global attitudes toward China: Trends and correlates. Journal of Contemporary China
+31(133): 1–16.
+Xu J, Xu R-F and Wang X-L (2012). Language model based Chinese ﬁnancial news sentiment classiﬁcation.
+Proceedings of the International Conference on Machine Learning and Cybernetics 15–17 July 2012,
+pp. 2025–2030.
+Yamazaki A and Osawa S (2021) Asymmetry theory and China–Philippines relations with the South China
+Sea as a case. East Asia 38(4): 333–352.
+Yang Y and Chen X (2021) Globalism or nationalism? The paradox of Chinese ofﬁcial discourse in the context
+of the COVID-19 outbreak. Journal of Chinese Political Science 26(1): 89–113.
+Yeoh EK-K (2019) Malaysia: Perception of contemporary China and its economic, political and societal determinants. The Paciﬁc Review 32(3): 395–418.
+Yip H (2018) China’s $6 billion propaganda blitz is a snooze. Foreign Policy, 23 April. Available at: https://
+foreignpolicy.com/2018/04/23/the-voice-of-china-will-be-a-squeak/ (accessed 11 December 2023).
+Young L and Soroka S (2012) Affective news: The automated coding of sentiment in political texts. Political
+Communication 29(2): 205–231.
+Zatlin JR (2007) Scarcity and resentment: Economic sources of xenophobia in the GDR, 1971–1989. Central
+European History 40(4): 683–720.
+Zhao Q, Cai X, Mischo W, et al. (2020) How do the research and public communities view biofuel development? Renewable and Sustainable Energy Reviews 133: 110265.
+Zheng S (2020) Why China’s coronavirus response has fuelled hostility in the West. South China Morning
+Post, 7 October. Available at: https://www.scmp.com/news/china/diplomacy/article/3104569/why-chinascoronavirus-response-has-fuelled-hostility-west (accessed 11 December 2023).
+Zumbrun J and Michaels D (2020) WTO ﬁnds some US tariffs on China violate trade rules. The Wall Street
+Journal, 15 September. Available at: https://www.wsj.com/articles/wto-ﬁnds-some-u-s-tariffs-on-chinaviolate-trade-rules-11600188559 (accessed 11 December 2023).
+
+

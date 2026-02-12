@@ -1,0 +1,1459 @@
+Leiden Journal of International Law (2024), 37, 694–715
+doi:10.1017/S092215652400013X
+
+ORIGINAL ARTICLE
+
+INTERNATIONAL LAW AND PRACTICE
+
+Rewriting the law of international organizations:
+Whither the Asia Pacific?
+Alison Duxbury*
+Melbourne Law School, University of Melbourne, Australia
+Email: a.duxbury@unimelb.edu.au
+
+Abstract
+The law of international organizations is often described in terms of both its universality and its unity.
+Writers in this field begin their texts with an acknowledgement that there are common legal principles that
+have been developed by, and can be applied to, a variety of international organizations. The idea that there
+are legal principles applicable to multiple organizations – whatever their membership, location, powers,
+technical functions, or financial resources – is also implicit in the reports of the International Law
+Commission discussing the immunities, responsibilities, and law-making capacity of international
+organizations. But despite this search for common principles, a question remains whether international
+institutional law is based on the practice of all, or at the very least, a range, of organizations. Writers in this
+field have tended to focus on the activities of organizations based in either Europe or North America,
+including the United Nations and its specialized agencies, the European Union, and Council of Europe.
+This article argues that the omission of the principles and practices of organizations outside Europe and the
+United Nations’ system, specifically Asia Pacific organizations, undermines the claim of international
+institutional law to be universal. It explores the way in which a more inclusive approach – one that pays
+attention to the perspectives of Asia Pacific organizations – could illuminate certain features of the law and
+lead international lawyers to reconceive some of its central principles.
+Keywords: ASEAN; Asia Pacific; international organizations; international organizations law; Universality
+
+1. Introduction
+In February 2021 it was announced that almost one-third of the members of the Pacific Islands
+Forum (PIF), the most important regional body in the Pacific islands, were planning to withdraw
+from the organization.1 This unprecedented situation was the result of a dispute between
+Micronesian and Polynesian members over the process for electing the next Secretary-General.
+The announcement of this exodus excited some interest in the media,2 but no comment from
+*The author thanks Madelaine Chiam, Monique Cormier, Anna Hood, and Tan Hsien-Li for their conversations, over
+many years, on the ideas included in this article.
+1
+Micronesian Presidents’ Summit, ‘Communiqué’, February 2021, available at gov.fm/files/MPS_Leaders_Meeting__Communique_2021_Feb.pdf.
+2
+For example, B. Doherty, ‘Zoomed to Fail? Cracks Appear in Pacific Islands Forum as COVID Pulls Nations Apart’,
+Guardian, 1 February 2021; B. Carreon and B. Doherty, ‘Future of Pacific Islands Forum in Doubt as Palau Walks Out’,
+Guardian, 5 February 2021; B. Carreon and B. Doherty, ‘Pacific Islands Forum in Crisis as One-Third of Member Nations
+Quit’, Guardian, 8 February 2021.
+© The Author(s), 2024. Published by Cambridge University Press on behalf of The Foundation of the Leiden Journal of International Law in
+association with the Grotius Centre for International Law, Leiden University. This is an Open Access article, distributed under the terms of the
+Creative Commons Attribution-NonCommercial-NoDerivatives licence (http://creativecommons.org/licenses/by-nc-nd/4.0/), which permits
+non-commercial re-use, distribution, and reproduction in any medium, provided that no alterations are made and the original article is
+properly cited. The written permission of Cambridge University Press must be obtained prior to any commercial use and/or adaptation of the
+article.
+
+https://doi.org/10.1017/S092215652400013X Published online by Cambridge University Press
+
+Leiden Journal of International Law
+
+695
+
+international lawyers. There were no blogposts on Opinio Juris or EJIL:Talk! and the international
+law Twittersphere, usually an active bunch of observers, was largely mute.3 Any commentary was
+restricted to policy blogs or forums with a focus on the Asia Pacific region.4 This silence amongst
+international lawyers about ‘Micrexit’5 is in stark contrast to the lengthy analyses of Brexit and the
+departures of Burundi and the Philippines (and the near withdrawal of South Africa) from the
+International Criminal Court. While the happenings in some international organizations attract
+the attention of international lawyers, others do not.
+The withdrawal of a state from an international organization, formerly a rare occurrence, is a topic
+discussed in texts on international institutional law.6 Books in this sub-discipline of international law
+traditionally begin with a statement acknowledging that while international organizations have their
+own, separate, legal regimes, they are subject to common rules given similarities in the ‘institutional
+problems and rules of different organizations’.7 The idea that there are principles that can be applied
+across multiple types of organizations – whatever their membership, location, powers, technical
+functions or financial resources – is also implicit in the reports of the International Law Commission
+(ILC) discussing the legal frameworks of international organizations. But despite this affirmation of
+the existence of common principles and the desire to apply those principles to all organizations, the
+question remains whether the law of international organizations is universal.
+The PIF is not the only body absent from analyses of international institutional law – the
+Association of Southeast Asian Nations (ASEAN), Asia-Pacific Economic Cooperation (APEC),
+the South Asian Association for Regional Cooperation (SAARC), the Economic Community
+of West African States (ECOWAS), the Southern African Development Community (SADC),
+the Southern Common Market (MERCOSUR), and even the African Union (AU) and the
+Organization of American States (OAS), are also names and acronyms that rarely make an
+appearance. As a result, discussions of the international personality of international organizations,
+their powers and law-making functions, privileges and immunities and responsibility for wrongful
+acts have assumed a certain ideal (and exclusionary) model. This article argues that the failure to
+incorporate the principles and practices of organizations outside Europe and the United Nations’
+system, specifically Asia Pacific organizations, undermines the claim of international institutional
+law to be universal. It explores the way in which a more inclusive approach could illuminate
+certain features of the law and lead international lawyers to reconceive some of its central
+principles. The decision to focus on the Asia Pacific is not to suggest that organizations
+headquartered in other parts of the world are not missing from the literature. Instead, this article
+will consider the way in which an Asia Pacific perspective adds to, or indeed challenges, our
+understanding of the legal framework. It may be that a separate regional approach to international
+institutional law or that pluralist legal traditions in this sub-discipline of international law can be
+discerned. While not excluding these possibilities, this article does not pursue those questions.
+Instead, the aim is to highlight the absences in the origins, and continued discussions, of
+international institutional law and argue for a more inclusive approach.
+One exception is Jane McAdam’s retweet of Carreon and Doherty, ‘Pacific Islands Forum in Crisis’, ibid.
+For example, P. Kaiku, ‘What Went Wrong with Pacific Regionalism’, The Diplomat, 16 March 2021; T. Kabutaulaka,
+‘Pacific Way(s) and Regionalism’, Devpolicyblog, 25 March 2021, available at devpolicy.org/pacific-ways-and-regionalism20210325-2/; O. Hasenkamp, ‘Forum Split: International Aspects’, Devpolicyblog, 14 April 2021, available at forum-splitinternational-impacts-20210414-1.pdf.pdf.
+5
+As it was dubbed by Robert Underwood: see R. Underwood, ‘Underwood: Let’s Find Our Island Identity, Join Pacific
+Islands Forum’, Pacific Daily News, 5 March 2021.
+6
+See C. F. Amerasinghe, Principles of the Institutional Law of International Organizations (2005), 117–21;
+Henry G. Schermers and N. M. Blokker, International Institutional Law (2018), paras. 119–35; J. Klabbers,
+An Introduction to International Organizations Law (2015), 109–11. A note on terminology: while recognizing that some
+writers distinguish between the ‘law of international organizations’ and ‘international institutional law’, in this article they are
+used interchangeably: see note 80 and accompanying text, infra.
+7
+See Schermers and Blokker, ibid., para. 7. See also P. Sands and P. Klein, Bowett’s Law of International Institutions (2009), 16.
+3
+4
+
+https://doi.org/10.1017/S092215652400013X Published online by Cambridge University Press
+
+696
+
+Alison Duxbury
+
+With that central aim in mind, this article is divided into two sections: Section 2 examines
+the origins of the law of international organizations, as well as more recent writings in the field,
+to consider ‘how’ and ‘why’ the practice of some organizations has been omitted. Section 3
+analyses the practices of international organizations in Asia and the Pacific and argues that an
+understanding of these entities is not only essential from the perspective of universalist claims in
+this sub-discipline of international law, but could lead us to rethink the legal principles. For this
+purpose, two features are examined: the attention devoted to definition and international legal
+personality and the relative weight attached to the different law-making activities of international
+organizations. In choosing these features, this article borrows from David Bederman’s reflections
+on a passage in Reparation for Injuries Suffered in the Service of the United Nations where the
+International Court of Justice (ICJ) connected ‘the needs of the community’, ‘the requirements of
+international life’ and the increase in ‘instances of action upon the international plane by certain
+entities which are not States’.8 For Bederman, ‘[t]he “action” of which the Court spoke was not the
+mere presence of entities [international organizations] as legal persons; it was their role in making
+international legal rules’.9 This article draws on these two features – personality and law-making
+powers – to demonstrate why Asia Pacific organizations have been excluded from this sub-field of
+international law as well as the importance of their practices. Debates about these two concepts
+raise wider questions about the priority given to the concept of international legal personality over
+community by international lawyers and the methods by which the legal quality or legal authority
+of an organization and its work is assessed. Section 4 will conclude by reimagining a more
+inclusive, indeed a ‘proper’,10 law of international organizations.
+
+2. The development of the law of international organizations
+The existence of a separate sub-discipline of international law, one that focuses on common legal
+issues across international organizations, is not without doubt.11 Most writers recognize that there
+is a tension between viewing an international organization as an entity solely governed by its
+constituent instrument and recognizing the existence of general principles that apply across
+different organizations.12 Despite this potential conflict, writers in the field assert that,
+notwithstanding differences, common legal characteristics can be discerned. Thus, in their classic
+and detailed text International Institutional Law, Schermers and Blokker state that:
+Although each organization has its own legal order, institutional problems and rules of
+different organizations are often more or less the same. In practice, an impressive body
+of institutional rules has been developed. These rules often bear strong resemblance to one
+another, or are even identical.13
+Once this is acknowledged, a quick glance at texts demonstrates that, with a few quibbles about the
+European Union (EU) as a supranational organization, writers commonly assert that legal
+principles can be derived from, and subsequently applied to, a range of universal, closed (including
+regional) and specialist organizations.14 In this work, there is a conscious desire to locate general
+principles and then apply them across many different organizations – as with so many areas of
+8
+Reparation for Injuries Suffered in the Service of the United Nations, Advisory Opinion, 11 April 1949, [1949] ICJ Rep. 174,
+at 178; D. J. Bederman, ‘The Souls of International Organizations: Legal Personality and the Lighthouse at Cape Spartel’,
+(1996) 36 Virginia Journal of International Law 275, at 372.
+9
+See Bederman, ibid., at 372.
+10
+This term is taken from the title of C. W. Jenks, The Proper Law of International Organisations (1962).
+11
+J. Klabbers ‘The Paradox of International Institutional Law’, (2008) 5 International Organizations Law Review 151.
+12
+For example, Amerasinghe, supra note 6, at 15–18.
+13
+See Schermers and Blokker, supra note 6, para. 7.
+14
+For example, Amerasinghe, supra note 6, at 14, 22.
+
+https://doi.org/10.1017/S092215652400013X Published online by Cambridge University Press
+
+Leiden Journal of International Law
+
+697
+
+international law, the aim is to demonstrate the existence of universal principles. Although
+this universality is asserted, with some exceptions (notably Schermers and Blokker’s book),
+work in this field focuses on the practice of the United Nations (UN) and its specialized agencies,
+European institutions (the EU and Council of Europe), and, to a more limited extent, international
+financial and trade organizations. The activities of entities based in Africa, Asia, the Middle East,
+the Caribbean, and the Pacific receive limited references in the literature. Sometimes there
+is a conscious desire to restrict a work to a particular type of organization,15 but this is not
+always explicit.
+Various reasons for this absence will be posited later in this part, but fundamentally,
+international institutional law retains its European origins.16 Many different facets of this
+argument – from the formation of the discipline to the universality of the legal principles espoused
+in fields such as international human rights law and international investment law – have been
+explored previously.17 But international institutional law has been remarkably impervious to such
+critiques. This does not mean that there has been an absence of critical or TWAIL accounts of
+specific international organizations or that there is a lack of theorizing in the discipline.18
+International lawyers have argued that the development of international law and international
+organizations not only excluded the developing world, but that such expansion depended on the
+‘colonial confrontation’ between the European and non-European world.19 For Antony Anghie,
+‘the inaugural encounter between international institutions and non-European territories’ is
+situated in the Mandate system of the League of Nations.20 This encounter was succeeded, in law,
+by the United Nations’ Trusteeship system, but also by the international financial institutions in
+terms of the ‘technologies of management’ of Third World economies.21 Scholars such as Anghie,
+B.S. Chimni and Sundhya Pahuja demonstrate the way in which these encounters have not
+only shaped international law, but also international organizations such as the UN and World
+Trade Organization (WTO).22 More recently, Guy Fiti Sinclair has argued that such organizations
+‘came to be seen as vehicles for administrative reform in non-European societies and for the
+protection of European rationales and techniques of government as universally normative’.23
+Nevertheless, these accounts are, for the most part, concerned with the role and activities of
+specific organizations rather than the common legal framework that governs their work.
+For example, Alvarez states that in examining the law-making function of international organizations, his focus ‘is on
+those inter-governmental organizations that aspire to universal participation and therefore to global reach’: see J. E. Alvarez,
+International Organizations as Law-Makers (2005), xii.
+16
+However, as Arnulf Becker Lorca has argued, a recitation of the European origins of international law should not be used
+to erase the contribution of non-Western international lawyers to the discipline’s fundamental principles: A. Becker Lorca,
+Mestizo International Law: A Global Intellectual History (1842-1933) (2014). On the contributions of non-Western scholars to
+international institutional law see G. Fiti Sinclair, ‘Towards a Postcolonial Genealogy of International Organizations Law’,
+(2018) 31 Leiden Journal of International Law 842, at 861–3; K. Olaoye, ‘Samuel Kwadwo Boaten Asante and the United
+Nations Centre on Transnational Corporations (1975–1992)’, (2023) 34 European Journal of International Law 291.
+17
+Two examples are D. Otto, ‘Rethinking Universals: Opening Transformative Possibilities in International Human Rights
+Law’, (1997) 18 Australian Year Book of International Law 1; K. Miles, ‘International Investment Law and Universality:
+Histories of Shape-Shifting’, (2014) 3 Cambridge Journal of International and Comparative Law 986.
+18
+For example, J. Klabbers, ‘The Emergence of Functionalism in International Institutional Law: Colonial Inspirations’,
+(2014) 25 European Journal of International Law 645.
+19
+A. Anghie, Imperialism, Sovereignty and the Making of International Law (2004), 3. See also B. S. Chimni, ‘The Past,
+Present and Future of International Law: A Critical Third World Approach’, (2007) 8 Melbourne Journal of International Law
+499.
+20
+See Anghie, ibid., at 265.
+21
+Ibid., at 263.
+22
+Ibid.; B. S. Chimni, ‘International Institutions Today: An Imperial Global State in the Making’, (2004) 15 European
+Journal of International Law 1; S. Pahuja, Decolonising International Law (2011).
+23
+G. Fiti Sinclair, ‘State Formation, Liberal Reform and the Growth of International Organizations’, (2015) 26 European
+Journal of International Law 445, at 466; G. Fiti Sinclair, To Reform the World: International Organizations and the Making of
+Modern States (2017).
+15
+
+https://doi.org/10.1017/S092215652400013X Published online by Cambridge University Press
+
+698
+
+Alison Duxbury
+
+What then of this sub-discipline of international law – the law of international organizations?
+What are its origins and how has it developed? There is general agreement that the law of
+international organizations is firmly rooted in Europe, although early writers in the field came
+from both sides of the Atlantic. In tracing the beginnings of the ‘science’ of international
+organizations, Louis Sohn commences by citing the work of two Americans: Paul Reinsch in 1911
+(Public International Unions: Their Work and Organization) and Francis Sayre in 1918
+(International Administration).24 While these two writers were not based in Europe, the
+organizations that they discussed were all, with some exceptions,25 established by European
+powers with headquarters in European countries. One of the exceptions – at least in terms of
+geographical location – the conseil sanitaire, maritime et quarantenaire d’Egypte was described by
+Reinsch as being created by European powers concerned about the possibility of the ‘continued
+danger of infection’ from countries outside Europe.26 Leaving aside these two Americans, other
+early writers discussed by Sohn include Leonard Woolf, Benno Baron von Toll, and Peter
+Kazansky.27 Although the names of writers changed, and despite the contributions of nonWestern scholars to the sub-discipline,28 recent histories of the law of international organizations
+have not deviated from placing its origins firmly in Europe.29
+Despite the growth of international organizations outside Europe since these accounts were
+written, there has not been an attendant recognition in legal works. Following decolonization,
+international lawyers accepted the legal personality and the (formal) sovereign equality of former
+colonies, including those in the Asia Pacific, but this has not necessarily resulted in a recognition
+of the relevance of their organizations to international institutional law. The problem was
+recognized in the first volume of the International Organizations Law Review (IOLR) when
+Jan Wouters and Frederik Naert stated that a challenge in this area was ‘the limited literature on
+less well-known organizations’.30 In that context, it is not surprising that there are few articles in
+the IOLR devoted to, or engaging with, the practices of organizations headquartered outside
+Europe or North America.31 Other continents are not necessarily absent from this literature, but
+they tend to be the site of the activities of universal organizations (for example, UN peace
+operations),32 rather than a place where the practice of regional organizations has influenced the
+development of legal principles. There are articles and chapters in other journals and collections
+that examine the work of organizations such as the AU and ASEAN, for example, their
+contributions to human rights law or investment regimes. This work includes a series of
+monographs in the ASEAN Integration Through Law project, which examines ASEAN
+community-building in different areas of international law, such as environmental protection,
+24
+L. B. Sohn, ‘The Growth of the Science of International Organizations’, in K. Deutsch and S. Hoffman (eds.),
+The Relevance of International Law: Essays in Honor of Leo Gross (1968), 251.
+25
+These exceptions included the Pan-American Sanitary Union, the Pan-American Scientific Congress, and the
+International Union of American Republics: P. Reinsch, Public International Unions: Their Work and Organization (1911),
+60–1, 71–3, 77–118.
+26
+Ibid., at 59.
+27
+See Sohn, supra note 24, at 254.
+28
+See note 16, supra.
+29
+See Klabbers, supra note 18, at 652–6, 673. See also Fiti Sinclair, supra note 16.
+30
+J. Wouters and F. Naert, ‘Some Challenges for (Teaching) the Law of International Organizations’, (2004) 1 International
+Organizations Law Review 23, at 28.
+31
+At the date of writing, there were approximately 11 articles focusing on organizations outside these parameters in the
+Review, with most focusing on African organizations. The lack of discussion of African institutions in the Review has been
+noted: see, e.g., Konstantinos Magliveras’ book review: The Southern African Development Community: The Organisation, Its
+Policies and Prospects, (2007) 4 International Organizations Law Review 148. It is acknowledged that the Review may receive
+few articles on these organizations, although that still begs the question ‘why’.
+32
+For example, M. Zwanenberg, ‘UN Peace Operations Between Independence and Accountability’, (2008) 5 International
+Organizations Law Review 23; S. P. Sheeran, ‘A Constitutional Moment? UN Peacekeeping in the Democratic Republic of the
+Congo’, (2011) 8 International Organizations Law Review 55.
+
+https://doi.org/10.1017/S092215652400013X Published online by Cambridge University Press
+
+Leiden Journal of International Law
+
+699
+
+human rights, and economic co-operation.33 This literature, as well as other recent scholarship on
+ASEAN’s trade and investment regimes,34 has assisted in understanding ASEAN’s law and
+practice on these topics. However, the question for the purposes of this analysis is whether these,
+and similar, discussions have permeated another sub-field of international law, that is
+international institutional law – those ‘rules of law that govern [international organizations’]
+legal status, structure and functioning’.35
+This lacuna is replicated in the ILC’s work on international organizations. The ILC has
+considered the law of international organizations in its reports on the status, privileges and
+immunities of international organizations and their officials, subsequent agreement and subsequent
+practice in relation to the interpretation of treaties, formation and evidence of customary
+international law, and most importantly, the responsibility of international organizations.36
+However, the ILC’s use of the term ‘international organization’ has not resulted in a wide range
+of examples being considered. The ILC’s Articles on the Responsibility of International
+Organizations (ARIO) are significant given that they seek to apply the (sometimes contentious)
+principles of responsibility to a wide range of organizations – encompassing universal, regional and
+specialized organizations – by using a broad definition of the term ‘international organization’.37
+Despite this breadth, the limited practice contained in the commentaries to the articles is primarily
+derived from the UN and associated bodies, European organizations and European courts. In
+discussions on ARIO there were a few references to organizations in Africa and the Americas,38 but
+no mention of those in the Asia Pacific. The limited practice is problematic given that the articles
+rely on concepts such as ‘effective control’ to attribute responsibility, possibly leading to
+reparations.39 The absence of practice was keenly felt by the Special Rapporteur, Giorgio Gaja, when
+he stated that the absence ‘could hardly be attributed to the lack of efforts deployed by the
+Commission to acquire knowledge of the relevant practice and take it into account’.40 Yet, Hanqin
+Xue’s comments that the ILC’s work on responsibility ‘focused excessively on the practice of the
+United Nations family and the European Union’, which is not ‘necessarily representative of the
+general pattern of behaviour of international organizations’41 remain apposite. In the ILC’s latest
+foray into the law of international organizations, ‘settlement of disputes to which international
+organizations are parties’, encouragingly, the Special Rapporteur’s first report refers to a number of
+
+33
+Details on this project are located at ‘ASEAN Integration Through Law Book Series’, available at cil.nus.edu.sg/research/
+asean-law-and-policy/book-series/.
+34
+See S. Cho and J. Kurtz, ‘Legalizing the ASEAN Way: Adapting and Reimagining the ASEAN Investment Regime’, (2018)
+American Journal of Comparative Law 233; P. Hsieh, New Asian Regionalism in International Economic Law (2021); H. Tan,
+‘Intergovernmental Yet Dynamically Expansive: Concordance Legalization as an Alternative Regional Trading Arrangement
+in ASEAN and Beyond’, (2022) 33 European Journal of International Law 341.
+35
+See Schermers and Blokker, supra note 6, para. 7.
+36
+See ILC, ‘Texts, Instruments and Final Reports’, available at legal.un.org/ilc/texts/texts.shtml.
+37
+ILC Draft Articles on the Responsibility of International Organizations, 2011 YILC, Vol. 2 II (Part Two), Art. 2(a) states
+that, for the purposes of the articles, an international organization is ‘an organization established by a treaty or other
+instrument governed by international law and possessing its own international legal personality. International organizations
+may include as members, in addition to States, other entities’. See discussion at the text accompanying note 84, infra.
+38
+International Law Commission, Summary Record of the 2800th Meeting, A/CN.4/SR.2800 (2004), at para. 19
+(the principle of effective control); and Draft Articles on the Responsibility of International Organizations, with
+Commentaries, in (2011)2(2) Yearbook of the International Law Commission 46, 73 (hereinafter Commentaries to Draft
+Articles) (decision of the OAS Administrative Tribunal).
+39
+See W. Lotze and Y. Kasumba, ‘AMISOM and the Protection of Civilians in Somalia’, (2012) 2 Conflict Trends 17,
+at 23.
+40
+Eighth Report on the Responsibility of International Organizations by Giorgio Gaja, Special Rapporteur,
+UN Doc. A/CN.4/640 (2011), at 5.
+41
+Summary Record of the 2803rd Meeting, UN Doc. A/CN.4/SR.2803 (2004). See also comments by Sreenivasa Rao on the
+benefit of further ‘examples drawn from practice’ in relation to circumstances precluding wrongfulness: Provisional Summary
+Record of the 2878th Meeting, A/CN.4/SR.2878 (2006), paras. 9–10.
+
+https://doi.org/10.1017/S092215652400013X Published online by Cambridge University Press
+
+700
+
+Alison Duxbury
+
+organizations.42 The definition of international organization adopted by the Drafting Committee is
+also broad and replicates, to a large extent, that found in the ILC’s work on responsibility.43
+Xue’s comments encapsulate an inherent problem in accounts of international
+institutional law. The focus on organizations situated in Europe and North America provides
+one reason for these absences, another depends on different understandings as to ‘when’ the law
+of international organizations emerged as a separate sub-discipline. Some writers date its
+beginnings to the formation of the international unions in the late nineteenth century, others to
+the interwar period, or more recently, to post-Second World War and the processes of
+decolonization.44 It is only in this latter period, and beyond, that organizations such as the
+Organization of African Unity (1963), ASEAN (1967), and the South Pacific Forum (1971) were
+established. Arguably, the later the emergence of the field is dated, the more likely that
+organizations composed primarily of postcolonial states will be included. Other reasons for the
+absence of Asia Pacific organizations include a lack of knowledge of the region and its
+institutions, past difficulties in locating the practice of relevant organizations,45 the
+‘constitutional turn’46 in the field that excludes organizations established without a treaty,47
+and a preference for a managerial rather than an agora model of international organizations,
+which demonstrates a fondness for organizations that manage common problems over those
+that debate and exchange ideas.48 The less ‘institutionalized’ an organization, the less
+‘competent’ is it perceived as being.49 This next section attempts to reverse this trend by
+considering the way in which the practices of Asia Pacific organizations challenge some of the
+premises of international institutional law.
+
+3. The law of international organizations and the Asia Pacific
+Given the diversity in a region as vast as the Asia Pacific it is difficult to generalize about
+approaches to international law and organizations.50 Defining the geographical region under
+consideration is contentious as is the appropriate label – should it be Asia Pacific, Asia-Pacific or,
+more recently, Indo-Pacific?51 Despite these difficulties, there has been a proliferation of literature
+42
+
+First Report on the Settlement of International Disputes to which International Organizations Are Parties, by August
+Reinisch, Special Rapporteur, UN Doc. A/CN.4/756 (2023), at 18–22.
+43
+Settlement of International Disputes to which International Organizations Are Parties – Titles and Texts of draft
+Guidelines 1 and 2 Provisionally Adopted by the Drafting Committee, UN Doc. A/CN.4/L.983 (2023), Draft guideline 2(a).
+This definition adds the requirement that an international organization possess a separate organ.
+44
+See Fiti Sinclair, supra note 16.
+45
+H. Tan, ‘Regional Organizations’, in S. Chesterman, H. Owada and B. Saul (eds.), The Oxford Handbook of International
+Law in Asia and the Pacific (2019), 37, at 38.
+46
+D. Van Den Meersche, ‘Performing the Rule of Law in International Organizations: Ibrahim Shihata and the World
+Bank’s Turn to Governance Reform’, (2019) 32 Leiden Journal of International Law 47, at 48.
+47
+See, for example, G. Ulfstein, ‘Institutions and Competences’, in J. Klabbers, A. Peters and G. Ulfstein (eds.),
+The Constitutionalization of International Law (2009), 45; C. F. Amerasinghe, ‘The Law of International Organizations:
+A Subject Which Needs Exploration and Analysis’, (2004) 1 International Organizations Law Review 9, at 20.
+48
+See J. Klabbers, ‘Two Concepts of International Organization’, (2005) 2 International Organizations Law Review 277.
+49
+See Tan, supra note 45, at 38.
+50
+G. Triggs, ‘Confucius and Consensus: International Law in the Asian-Pacific’, (1997) 21 Melbourne University Law Review
+650, at 654–5; S. Chesterman, ‘Asia’s Ambivalence about International Law and Institutions: Past, Present and Futures’, (2017)
+27 European Journal of International Law 945, at 946.
+51
+For example, Chesterman uses the 53 members of the Asia-Pacific group at the UN to identify states within the region,
+while Alvarez cautions against the use of a hyphen in ‘Asia-Pacific’ on the basis that it ‘does not begin to bridge the distance
+between these two groupings’. See Chesterman, ibid., at 946; J. Alvarez, ‘Institutionalised Legalisation and the Asia-Pacific
+“Region”’, (2007) 5 New Zealand Journal of Public and International Law 9, at 20. More recently, questions have arisen as to
+whether the term Indo-Pacific is reflective of ‘a changing approach by many nations to security, economics and diplomacy’:
+see R. Medcalf, Contest for the Indo-Pacific: Why China Won’t Map the Future (2020), 11.
+
+https://doi.org/10.1017/S092215652400013X Published online by Cambridge University Press
+
+Leiden Journal of International Law
+
+701
+
+on Asia Pacific approaches to international law, more so in relation to Asia than the Pacific.52
+Such writing emphasizes aspects of states’ preference for soft law over treaties, a tendency to be
+wary of binding dispute resolution, the desire to establish informal over formal international
+organizations and, as a consequence, to promote consensus decision-making.53 In Southeast Asia,
+these features, when combined with a firm adherence to the principle of non-interference in the
+internal affairs of other states, are collectively referred to as the ‘ASEAN Way’.54 In the wider
+Asian region, the term ‘Asian minimalism’ has been used to explain the approach to
+‘organizationhood’.55 In the Pacific, the umbrella-term ‘the Pacific Way’ describes characteristics
+such as Pacific solutions to Pacific problems, unanimous compromise and an equality of
+cultures.56 Combining the two geographies, Amitav Acharya has coined the term the ‘Asia-Pacific
+Way’ to refer to ‘the conscious rejection : : : of “imported models” of multilateralism’ and a ‘call
+for multilateralism to conform to local realities and practices’.57 Nevertheless, he recognizes that
+such a notion may be ‘over-generalized, instrumental and possibly counter-productive’.58 This
+concern is echoed by Diane Desierto, who highlights distinctions between South Asian and
+Southeast Asian nations experiences of, and attitudes towards, international law.59
+Recognizing the difficulties in generalizing about the characteristics of organizations in the
+region, this section will examine two aspects of the law of international organizations: definition
+and the concept of international legal personality and methods of law-making. These two areas
+have been chosen to illuminate how organizations in the Asia Pacific have been excluded from the
+law of international organizations, but also the way their practices may add to an appreciation of
+the legal principles. Debates about definition and international legal personality draw attention to
+the question whether Asia Pacific organizations ‘exist’60 pursuant to international law. Such
+disputes raise further questions about the value and weight attached to the concept of
+international legal personality. Methods of law-making by Asia Pacific organizations highlight the
+inadequacy of existing understandings of legal output, including the ‘half-truth’ that ‘all the lawmaking powers of IOs are derived from explicit and enumerated treaty provisions’.61 They also
+illustrate the way international organizations have ‘reshaped : : : international law-making
+actors’.62
+This section draws on the principles and practices of a range of organizations, including
+ASEAN, APEC, the Melanesian Spearhead Group (MSG), the Pacific Community, the Pacific
+Aviation Safety Office (PASO), the PIF, the Pacific Regional Environmental Programme (SPREP),
+SAARC, the Shanghai Cooperation Organization (SCO), and the South Pacific Regional Fisheries
+See Triggs, supra note 50; A. Duxbury, ‘Moving Towards or Turning Away from Institutions? The Future of International
+Organizations in Asia and the Pacific’, (2007) 11 Singapore Year Book of International Law 177; Alvarez, ibid.; Chesterman,
+supra note 50; A. Schifano, ‘Organizationhood in the Light of Asian Minimalism’, (2022) 21 Chinese Journal of International
+Law 201. ASEAN has received the most attention in the literature: see notes 33 and 34, supra.
+53
+See Duxbury, ibid., at 180–1. The term ‘international organisation-lite’ has been used to describe these features in ASEAN:
+P. Kuijper et al., From Treaty-Making to Treaty-Breaking: Models for ASEAN External Treaty Agreements (2015), 1.
+54
+P. J. Davidson, ‘The ASEAN Way and the Role of Law in ASEAN Economic Cooperation’, (2004) 8 Singapore Year Book
+of International Law 165; H. Katsumata, ‘Reconstruction of Diplomatic Norms in Southeast Asia: The Case for Strict
+Adherence to the “ASEAN Way”’, (2003) 25 Contemporary Southeast Asia 104.
+55
+See Schifano, supra note 52.
+56
+J. Rolfe, ‘The Pacific Way: Where “Non-Traditional” Is the Norm’, (2000) 5 International Negotiation 427, at 430.
+57
+A. Acharya, ‘Ideas, Identity and Institution-Building: From the “ASEAN Way” to the “Asia-Pacific Way”’, (1997) 10 The
+Pacific Review 319, at 327.
+58
+Ibid., at 342.
+59
+D. Desierto, ‘Postcolonial International Law Discourses on Regional Developments in South and Southeast Asia’, (2008)
+36 International Journal of Legal Information 387.
+60
+For example, S. Chesterman, ‘Does ASEAN Exist? The Association of Southeast Asian Nations as an International Legal
+Person’, (2008) 12 Singapore Year Book of International Law 199.
+61
+See Alvarez, supra note 15, at 587.
+62
+Ibid., at 608.
+52
+
+https://doi.org/10.1017/S092215652400013X Published online by Cambridge University Press
+
+702
+
+Alison Duxbury
+
+Management Organisation (SPRFMO). This is by no means an exhaustive list of Asia Pacific
+organizations, but they have been chosen as they are representative of the issues that arise. Some
+have a broad membership, for example, APEC has 21 member ‘economies’ and the Pacific
+Community has 27 member states and territories. Others are much smaller: the SCO and SAARC
+each comprise eight members, with both organizations including the most populous state. A few
+Asia Pacific organizations espouse broad aims in the political and economic sphere (for example,
+ASEAN,63 the MSG64 and SAARC65), whereas many are more specialized: PASO focuses on
+‘aviation safety and security’ and civilian aviation ‘advice and technical assistance’66 and SPRFMO’s
+objective is to ‘ensure the long-term conservation and sustainable use of fishery resources’.67 Some
+organizations have structures for collaboration – for example, Pacific organizations are joined under
+the umbrella of the Council of Regional Organisations in the Pacific (CROP).68 Many Asia Pacific
+organizations have been through a process of evolution by adopting new instruments, new
+institutions and new topics of concern. Examples include the decision to sign the ASEAN Charter
+and create the ASEAN Intergovernmental Commission on Human Rights, and SPREP and the PIF’s
+increasing focus on climate change. Conversely, SAARC and the SCO have not substantially altered
+their functions or institutions since they were established. Despite differences, these organizations
+have been selected for two reasons: first, their structures, principles, and practices illuminate certain
+features of international institutional law as currently conceived, and second, their work rarely
+appears in discussions of this sub-field of international law.
+
+3.1 The concept of international legal personality and Asia Pacific organizations
+
+International legal personality means an entity possesses ‘rights, duties, powers and liabilities etc.
+as distinct from its members or its creators’, 69 enabling it to participate in the international legal
+system. The application of the concept to international organizations, has been described as
+‘circular’, ‘nebulous’,70 and as having inspired a ‘luxuriant literature’.71 As early as 1945 Jenks
+wondered whether the concept was necessary, although he decided that the answer was
+(regretfully) ‘yes’.72 Over 50 years later, Bederman also questioned the concept of legal
+personality,73 contrasting a narrow focus on legal personality with the idea of an organization as a
+‘community of interest’.74 For Bederman:
+63
+ASEAN’s purposes include to ‘maintain and enhance peace, security and stability’, ‘create a single market and production
+base’, and to ‘strengthen democracy, enhance good governance and the rule of law’: 2007 Charter of the Association of
+Southeast Asian Nations, 2624 UNTS 223, Art. 1.
+64
+The MSG’s purpose is to ‘promote and strengthen’ areas such as Melanesian trade, culture, values, and economic
+co-operation: 2010 Agreement Establishing the Melanesian Spearhead Group, 2658 UNTS 5, at Art. 2.
+65
+The objectives of SAARC include ‘to promote the welfare of the peoples of South Asia’, ‘to accelerate economic growth,
+social progress and cultural development’, and ‘to promote and strengthen collective self-reliance’: 1985 Charter of the South
+Asian Association for Regional Cooperation, Art. I.
+66
+2004, Pacific Islands Civil Aviation Treaty, available at paso.aero/wp-content/uploads/2019/11/PICASST_2005.pdf,
+Art. 7(1).
+67
+2009 Convention on the Conservation and Management of High Seas Fishery Resources in the South Pacific Ocean, 2899
+UNTS 211, Art. 2.
+68
+Council of Regional Organisations of the Pacific, available at https://forumsec.org/council-regional-organisations-pacificcrop.
+69
+See Amerasinghe, supra note 6, at 78.
+70
+T. Gazzini, ‘Personality of International Organizations’, in J. Klabbers and Å. Wallendahl (eds.), Research Handbook on
+the Law of International Organizations (2012), 33, at 34.
+71
+C. W. Jenks, ‘The Legal Personality of International Organizations’, (1945) 22 British Yearbook of International Law 267,
+at 271.
+72
+Ibid.
+73
+See Bederman, supra note 8, at 277–8, 374.
+74
+Ibid., at 371–2. Bederman adopts this phrase from the Case Relating to the Territorial Jurisdiction of the International
+Commission of the River Oder, 1929, PCIJ Rep. Series A No 23, at 27.
+
+https://doi.org/10.1017/S092215652400013X Published online by Cambridge University Press
+
+Leiden Journal of International Law
+
+703
+
+the tension between the notions of personhood and of community has defined international
+law’s consideration of the role and status of international institutions. It has shaped some of
+the central and enduring questions of the discipline. Who can participate in the making of
+international law? Who is bound by its rules? What are the legitimate topics of international
+legal regulation?75
+As ‘the organizing principle’76 for the legal study of international organizations, reliance on
+international legal personality has led international lawyers to largely exclude Asia Pacific
+organizations from their consideration. This has occurred through an application of any one of the
+three main schools of thought on how international organizations acquire international legal
+personality: the ‘will theory’ based on the members’ intentions, the ‘objective’ approach whereby
+personality is gleaned from the possession of certain attributes, and third, through the method in
+Reparation for Injuries whereby the ICJ examined the UN’s features, powers and practice, and the
+members’ intention.77 Although the ICJ’s reasoning in Reparation for Injuries was limited to the
+UN, these factors have been applied to other organizations.78 As a consequence, personality
+remains the ‘process through which [an] organization becomes a full subject of international law’.79
+Leaving aside international legal personality, Asia Pacific organizations face a preliminary
+hurdle – for many writers they do not meet the description of an ‘international organization’.
+Terminological differences over the phrase ‘law of international organizations’, potentially
+limiting the field to formal organizations, rather than ‘international institutional law’, including
+entities such as a conferences and meetings of state parties (COPS and MOPS), lead to
+difficulties.80 While much has been made of the problem of formulating a definition that
+encompasses all international organizations,81 international lawyers have used a remarkably
+common set of features when articulating the relevant characteristics. These include an
+international agreement (for some writers only a treaty will suffice), a separate organ, a
+membership of states (often with an allowance for the inclusion of other entities), and the ability
+to adopt norms directed at the organization’s members. 82 The ILC has used the term
+‘inter-governmental organization’ as interchangeable with ‘international organization’ in some of
+its work, drawing attention to the importance of state membership.83 In the context of its work on
+responsibility and settlement of disputes, the ILC also required an organization to possess ‘its own
+75
+
+See Bederman, supra note 8, at 375.
+Ibid., at 374.
+77
+For an analysis of the different approaches to international legal personality see Amerasinghe, supra note 6, at 79–83;
+see Klabbers, supra note 6, 46–50; Schermers and Blokker supra note 6, para. 1565; M. Rama-Montaldo, ‘International
+Legal Personality and Implied Powers of International Organizations’, (1970) 44 British Yearbook of International Law 111,
+at 112–22.
+78
+See Schermers and Blokker, ibid., para. 1568; Chesterman, supra note 60.
+79
+T. Gazzini, ‘The Relationship between International Legal Personality and the Autonomy of International Organizations’,
+in R. Collins and N. D. White (eds.), International Organizations and the Idea of Autonomy (2011), 196, at 196.
+80
+See Klabbers, supra note 11, at 154.
+81
+For example, M. Virally, ‘Definition and Classification: A Legal Approach’, (1977) 29 International Social Science Journal
+58, at 59.
+82
+See discussion in Schermers and Blokker, supra note 6, para. 33; F. Morgenstern, Legal Problems of International
+Organisations (1986), 19; Virally, supra note 81, at 59; Sands and Klein, supra note 7, at 16; M. Ruffert and C. Walter,
+Institutionalised International Law (2015), 5–6.
+83
+See ILC Draft Articles on the Representation of States in their Relations with International Organizations and
+Commentaries, 1971 YILC, Vol. 2 I (Part One), at Art. 1(1); ILC Draft Articles on the Law of Treaties Between States and
+International Organizations or Between International Organizations with Commentaries, 1982 YILC, Vol.2 II (Part Two),
+at Art. 2(i); L. Díaz-González, ‘Second Report on the Second Part of the Topic of Relations Between States and International
+Organizations, Status, Privileges and Immunities of International Organizations, Their Officials, Experts, Etc’, 1985 YILC
+Vol. 2 I (Part One), at 15.
+76
+
+https://doi.org/10.1017/S092215652400013X Published online by Cambridge University Press
+
+704
+
+Alison Duxbury
+
+international legal personality’,84 thus making personality a criterion for identification as an
+international organization, rather than a consequence of its existence. The ILC’s definition is also
+more permissive – recognizing that an organization may be established by an agreement ‘on the
+international plane’ (not limited to a treaty) and that membership can include entities apart from
+states.85
+Asia Pacific organizations are sometimes viewed as falling short on the definitional hurdles
+articulated by international lawyers, leading to the Asia Pacific being described in 2000 as a region
+with ‘few formal multilateral institutions’.86 APEC identifies its members as ‘economies’ due to the
+inclusion of Hong Kong and Taiwan as members distinct from the People’s Republic of China.87
+The Pacific Community’s founding agreement adopts the terminology of ‘participating
+governments’ rather than states given that some members are (or were) administered by the
+signatory states.88 ASEAN was not established by treaty, although it now has a conventional (in
+both senses of the word) constitution: the Charter of the Association of Southeast Asian Nations.89
+This raises the question whether ASEAN only became an international organization as of
+December 2008 – the date its Charter entered into force. Similar questions arise for the PIF and the
+MSG – both were created on the basis of co-operative principles rather than formal ties, before
+arrangements were later formalized through treaties ‘establishing’ the two organizations.90 In this
+respect, SPREP comes closer to the mark: not only was it established by a treaty – the Agreement
+Establishing the South Pacific Environment Programme – but it explicitly states that the South
+Pacific Regional Environment Programme, later renamed the Pacific Regional Environment
+Programme, is ‘hereby established as an international organisation’.91
+Consequently, for many Asia Pacific organizations, definitional issues constitute the first
+obstacle, although for most entities these are not insurmountable. The possession of international
+legal personality is the second problem. Neither the Charter of the South Asian Association for
+Regional Cooperation (establishing SAARC) nor the Agreement Establishing the PIF refer to
+international legal personality. The SAARC Charter is silent on the organization’s status,92
+whereas the PIF Agreement provides that the PIF shall ‘enjoy the legal capacity of a body
+corporate within the jurisdictions of its members’,93 which entails recognition of domestic legal
+personality. The Agreement also lists the privileges and immunities traditionally associated with
+the staff and representatives of other organizations, suggesting some measure of international
+84
+
+See notes 37 and 43, supra.
+See Commentaries to Draft Articles, supra note 38, at 7, 10; ‘Settlement of International Disputes’, supra note 43.
+86
+M. Kahler, ‘Legalization as a Strategy: The Asia-Pacific Case’, (2000) 54 International Organizations 549, at 549.
+87
+See M. Castan, ‘APEC: International Institution? A Pacific Solution’, (1996) 15 University of Tasmania Law Review 52.
+88
+1947 The Canberra Agreement Establishing the Pacific Community, South Seas Commission Conference Papers 18,
+Art. III (as amended).
+89
+ASEAN was established by the 1967 Declaration Constituting an Agreement Establishing the Association of South East
+Asian Nations (ASEAN), 1331 UNTS 235; see ASEAN Charter, supra note 63, Preamble.
+90
+The South Pacific Forum did not have a formal founding document. At its first leaders’ meeting it adopted a
+communiqué outlining its purpose: South Pacific Forum, ‘Joint Final Communiqué’, 7 August 1971. The Agreed Principles
+of Co-operation among Independent States of Melanesia emphasized ‘co-operation’ and ‘friendship’: 1998 The Agreed
+Principles of Co-operation among Independent States of Melanesia, available at www.msgsec.info/wp-content/uploads/
+msghistoricaldocuments/1988-14-Mar-Agreed-Principles-of-Co-operation-among-Independent-States-in-Melanesia.pdf.
+In both organizations, treaties were subsequently adopted: see ‘Agreement Establishing the Melanesian Spearhead Group’,
+supra note 64; 2005 Agreement Establishing the Pacific Islands Forum, available at https://forumsec.org/publications/treatycollection.
+91
+1993 Agreement Establishing the South Pacific Regional Environment Programme (SPREP), 1982 UNTS 4, Art. 1(1);
+2004 Amendment to the Agreement Establishing the South Pacific Regional Environment Programme (SPREP), available at
+www.sprep.org/attachments/Legal/Files_updated_at_2014/Amendement_SPREP_agreement.pdf.
+92
+In contrast, the SAARC Development Fund is provided with ‘full juridical personality’: 2008 Charter of the SAARC
+Development Fund, available at www.saarc-sec.org/index.php/resources/agreements-conventions/38-charter-of-the-saarcdevelopment-fund/file, Art. 1(6).
+93
+See Agreement Establishing the Pacific Islands Forum, supra note 90, Art. X(1).
+85
+
+https://doi.org/10.1017/S092215652400013X Published online by Cambridge University Press
+
+Leiden Journal of International Law
+
+705
+
+personality.94 The Convention on the Conservation and Management of High Seas Fishery
+Resources in the South Pacific Ocean, creating the SPRFMO, the Charter of the Shanghai
+Cooperation Organization and the Pacific Islands Civil Aviation Treaty are more promising as
+‘legal personality in accordance with international law’ (SPRFMO), ‘international legal capacity’
+(SCO)95 and ‘international legal personality (PASO)96 are explicitly conferred. For the SCO,
+this includes the capacity to conclude treaties97 – a power perceived by the ICJ as confirming
+the UN’s personality and which has been described as one of the ‘minimum attributes of
+an international organization’.98 Despite this capacity, the SCO has demonstrated a preference
+for non-treaty agreements, for example, it has signed memoranda of understanding with
+UN-associated bodies.99
+The difference between stated objectives and powers on the one hand, and practice on the
+other, is also evidenced in the practices of other organizations. The ASEAN Charter includes
+explicit reference to ASEAN’s intergovernmental status and its ‘legal personality’.100 However,
+after the Charter was adopted questions remained as to the extent of ASEAN’s international legal
+personality.101 These questions are not fully answered by the Rules of Procedure for Conclusion of
+International Agreements by ASEAN – a document which articulates the process for enabling
+ASEAN to conclude treaties.102 The Rules of Procedure require ASEAN Foreign Ministers to
+endorse the text of an international agreement before it is signed by an organization, emphasizing
+the need for individual member agreement as an essential aspect of the process.103 Like the SCO,
+ASEAN has largely eschewed treaties for articulating standards and has entered into few
+agreements with states or other international organizations in its own right.104 The recognition of
+legal personality in the ASEAN Charter has not dramatically altered this practice.105 The legal
+personality conferred on SPREP (‘as is necessary for it to carry out its functions and
+responsibilities’)106 is broad, but the inclusion of the power to contract and acquire property
+suggests that the constituent instrument is referencing domestic, as distinct from international,
+legal personality. In terms of its practice, the Moana Taka Partnership, between SPREP and Swire
+Shipping,107 could be an example of a contract, if that, given its designation as a memorandum of
+understanding or charter, rather than an treaty under international law. Nevertheless, the
+Partnership enables Pacific Island states to implement their obligations in relation to hazardous
+
+94
+
+Ibid., Arts. X(2)–(3).
+See Convention on the Conservation and Management of High Seas Fishery Resources in the South Pacific Ocean, supra
+note 67, Art. 6(3); 2002 Charter of the Shanghai Cooperation Organization, 2896 UNTS 209, Art. 15.
+96
+See Pacific Islands Civil Aviation Treaty, supra note 66, Art. 4(3).
+97
+See Charter of the SCO, supra note 95, Art. 15.
+98
+See Reparation for Injuries, supra note 8, at 179; J. D. Fry, ‘Rights, Functions and international Legal Personality of
+International Organizations’, (2018) 36 Boston University International Law Journal 221, at 242.
+99
+For example, the SCO has signed memoranda with the United Nations Office for Drugs and Crimes and the United
+Nations Educational, Scientific and Cultural Organization: see United Nations General Assembly, Cooperation between the
+United Nations the Shanghai Cooperation Organization, UN Doc. A/75/L.69 (2021).
+100
+See ASEAN Charter, supra note 63, Art. 3.
+101
+See Chesterman, supra note 60, at 47.
+102
+2011 Rules of Procedure for Conclusion of International Agreements by ASEAN, available at www.biicl.org/documents/
+52_asean_treaty_report.pdf.
+103
+Ibid., rules 7, 8(4). See also M. Cremona et al., ASEAN’s External Agreements: Law, Practice and the Quest for Collective
+Action (2015), 30.
+104
+See discussion in ibid., at 80.
+105
+Ibid., at 28. See also the conclusion of Kuijper et al., supra note 53, at 87, that ‘[t[hus far, ASEAN member states have
+concluded their external trade agreements as plurilateral member state agreements. ASEAN, a separate international legal
+person, is not a party even where ASEAN’s Secretariat has been conferred responsibilities in some of the agreements’.
+106
+See Agreement Establishing the South Pacific Regional Environment Programme, supra note 91, Art. 8(1).
+107
+2021 Moana Taka Partnership Charter, Rev 2.3, available at dcasvmrn70pnz.cloudfront.net/assets/Sustainability/TheMoana-Taka-Partnership-Charter-Rev-2.3-Non-commercial.pdf.
+95
+
+https://doi.org/10.1017/S092215652400013X Published online by Cambridge University Press
+
+706
+
+Alison Duxbury
+
+waste under two treaties, the Basel and Waigani Conventions,108 perhaps providing it with some
+form of hybrid status. Given that few international organizations ratify treaties in their own
+right,109 the practice of Asia Pacific organizations highlights that the absence of this criterion
+should not be determinative of legal status. Applying Reparation for Injuries, the practice of
+ASEAN, the SCO and SPREP suggests that international lawyers should give greater weight to the
+organization’s subsequent practice over the text of the constituent instrument in determining
+international personality.
+This analysis of the modes of establishment and operation of Asia Pacific organizations
+highlights that international lawyers have been overly focused on legal personhood and ‘Western
+notions of institutional strength’110 at the expense of other features or descriptions of international
+organizations. This is not to suggest that international legal personality should be abandoned, but
+rather to remember that it is not absolute – as recognized by the ICJ’s statement in Reparation for
+Injuries that the UN’s legal personality is not the same as that of a state.111 A more flexible
+approach that analyses the practice and instruments of international organizations would
+highlight that the UN and EU are by no means representative of the forms that may be taken.112
+The structures and constituent instruments of Asia Pacific organizations emphasize that the
+possession of legal personality answers the question whether an organization is ‘capable of bearing
+rights and duties’.113 It does not answer the question as to the extent of those rights and duties –
+this will depend on the powers of the organization.114 Since it is the powers that give substance to
+international legal personality,115 the next section will examine one type of power: law-making.
+Before turning to law-making, a study of the international legal personality of Asia Pacific
+organizations provides another lesson for international institutional law: that a focus on legal
+personhood should not detract from other valuable metaphors for international organizations.116
+Returning to Bederman, the idea of an organization as a community of interest draws attention to
+the features of Asia Pacific organizations, some of which describe their roles precisely in such
+terms (the ‘ASEAN Community’ and ‘the Pacific Family’). While other organizations use the
+terminology of ‘community’, formal agreements and methods of voting over informality and
+consensus decision-making tend to prevail. This is not to suggest some idealized version of
+regionalism in the Asia Pacific, only that the legal value of these different experiences should be
+recognized.117 The situation in the PIF in 2021 demonstrates the way in which the concept of
+community assists in understanding why the election of the new Secretary-General was so fraught.
+In 2014, the last occasion on which a new leader of the PIF was chosen, it was reported that the
+prime ministers of the Solomon Islands and Papua New Guinea ‘walked together under the trees
+108
+1989 Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and Their Disposal, 1673
+UNTS 125; 1995 Convention to Ban the Importation into Forum Island Countries of Hazardous and Radioactive Wastes and
+to Control the Transboundary Movement and Management of Hazardous Wastes within the South Pacific Region, 2161
+UNTS 91 (hereinafter ‘Waigani Convention’).
+109
+J. Klabbers, ‘Sources of International Organizations’ Law: Reflections on Accountability’, in S. Besson and J. d’Aspremont
+(eds.), The Oxford Handbook of the Sources of International Law (2017), 987, at 994–5; A. Reinisch, ‘Sources of International
+Organizations’ Law: Why Custom and General Principles are Crucial’, in Besson and D’Aspremont, ibid., at 1015.
+110
+See Castan, supra note 87, at 53. See also Cho and Kurtz, supra note 34, at 247 (in relation to the ASEAN investment
+regime); Schifano, supra note 52, at 703 (arguing in his study of 15 Asian organizations that the differences in legal design ‘may
+not be good enough justification to dismiss these international organizations as none’.)
+111
+See Reparation for Injuries, supra note 8, at 179.
+112
+J. Klabbers and G. Fiti Sinclair, ‘On Theorizing International Organizations Law: Editors’ Introduction’, (2020) 31
+European Journal of International Law 489, at 494.
+113
+See Schermers and Blokker, supra note 6, para. 1570.
+114
+Ibid.
+115
+Ibid.
+116
+See Bederman, supra note 8, at 377.
+117
+Similarly, Hsieh argues in relation to international economic law that ASEAN is not necessarily the ‘perfect model of
+regionalism’ but that its experiences have ‘legal value : : : for developing countries’: see Hsieh, supra note 34, 36.
+
+https://doi.org/10.1017/S092215652400013X Published online by Cambridge University Press
+
+Leiden Journal of International Law
+
+707
+
+on the island of Peleliu’ to implement the ‘gentleman’s agreement’ that the leadership would rotate
+between the three sub-regions of Melanesia, Micronesia and Polynesia.118 It has been suggested
+that the impossibility of Pacific leaders meeting in the pandemic negated the trust created by
+personal connections, resulting in a fracture between members around the election for the role.119
+The failure to agree on a new leader of the PIF leads to questions as to whether consensus – the
+favoured form of decision-making in many Asia Pacific organizations – can operate when a
+community cannot meet in person to debate and resolve issues.120 On this view, the election
+dispute did not depend on the PIF’s ‘rights and duties [as] an institution holding legal personality’
+(to use Bederman’s words), 121 but rather was a consequence of the fact that members could not
+come together as a community. Such practices highlight that international organizations may have
+personality, but it is not the only description worthy of international lawyers’ attention when
+examining an organization’s method of operation.
+
+3.2 Law-Making by Asia Pacific organizations
+3.2.1 The Asia Pacific context
+
+This section will move from the question, ‘who are Asia Pacific organizations?’ to ‘what do they
+do?’ and examine the exercise of law-making powers. The rise of law-making by international
+organizations is a response to the ‘relative slowness’122 of traditional forms of law-making in
+international law and has been accompanied by extensive debates about the difference between
+hard law and soft laws, the binding quality of international organizations’ instruments, and the
+merits of such nuances in a community characterized by few compulsory dispute resolution
+mechanisms.123 In this literature, the role of the UN specialized agencies and regional
+organizations based in Europe as law-makers has been extensively discussed.124 Asia Pacific
+organizations have also utilized forms of law-making, including treaties, agreements, declarations,
+memoranda of understanding, blueprints and action plans. Despite this range of instruments –
+and perhaps because of the predilection for non-binding instruments – the region has been
+characterized as having ‘low legalization and possibly an explicit aversion to legalization’.125 As a
+result, some output of Asia Pacific organizations has been said to lack the status of ‘informal
+international law’.126 The exclusion of Asia Pacific organizations from these discussions can, in
+N. Maclellan, ‘Who Will Lead the Pacific Islands Forum?’, The Diplomat, 20 August, 2020.
+G. Wyeth, ‘A Tiff at PIF? Pacific Islands Leadership Change Triggers Frustration’, The Diplomat, 8 February 2021.
+120
+Gian Luca Burci observed that in the world of COVID-19 ‘an online format : : : can have serious consequences for
+decision-making in international organizations’: G. L. Burci, ‘COVID-19 and the Governance of International Organizations:
+Open Challenges’, (2020) International Organizations Law Review 485, at 490.
+121
+See Bederman, supra note 8, at 373.
+122
+N. D. White, ‘Lawmaking’, in J. K. Cogan, I. Hurd and I. Johnstone (eds.), The Oxford Handbook of International
+Organizations (2016), 559, at 566–73.
+123
+For example, D. Shelton (ed.), Commitment and Compliance: The Role of Non-Binding Norms in the International Legal
+System (2003); A. T. Guzman and T. L. Meyer, ‘International Soft Law’, (2010) 2 Journal of Legal Analysis 171, at 173–4;
+J. D’Aspremont, ‘Bindingness’, in J. D’Aspremont and S. Singh (eds.), Concepts for International Law: Contributions to
+Disciplinary Thought (2019), 67.
+124
+For example, see Alvarez, supra note 15, at 217–18; White, supra note 122; J. Alvarez, The Impact of International
+Organizations on International Law (2016), 190–261; T. Buergenthal, Law-Making in the International Civil Aviation
+Organization (1969); A. Kamradt-Scott, ‘The International Health Regulations (2005): Strengthening their Effective
+Implementation and Utilisation’, (2019) 16 International Organizations Law Review 242; I. Johnstone, ‘Law-Making through
+the Operational Activities of International Organizations’, (1998) 40 George Washington Journal of International Law 87;
+S. Kirchner, ‘Effective Law-Making in Times of Global Crisis: A Role for International Organizations’, (2010) 2 Goettingen
+Journal of International Law 267; J. Klabbers, ‘The Undesirability of Soft Law’, (1998) 67 Nordic Journal of international Law
+381.
+125
+See Kahler, supra note 86.
+126
+For example, T. Suami, ‘Informal International Lawmaking in East Asia: An Examination of APEC’, in A. Berman et al.
+(eds.), Informal International Lawmaking: Case Studies (2012), 55, at 85.
+118
+119
+
+https://doi.org/10.1017/S092215652400013X Published online by Cambridge University Press
+
+708
+
+Alison Duxbury
+
+part, be traced to a sense that ‘the model of law-making by international organizations has not
+undergone any change since the days when organizations were first created’.127 However, as many
+writers have argued, law-making by international organizations must now be viewed as significant
+in its own right.128 In such debates, an appreciation of the legal output of Asia Pacific
+organizations could have two consequences: first it may contribute to the development of a
+specific areas of international law, second, it could give international institutional lawyers pause to
+consider their views of ‘legal quality’.129 It is the second consequence that is the focus here: the way
+in which law-making by Asia Pacific organizations could enhance debates on the role of the
+constituent instrument, the weight to be given to form over substance, and the difficulty in using
+labels such as soft law and hard law.
+As well as their preference for adopting soft law instruments, one of the major differences
+between Asia Pacific organizations and other regional organizations is the absence of permanent
+courts and tribunals.130 The decisions of judicial bodies of international organizations are viewed
+as a form of law-making by scholars and by the ILC, which refers to court decisions in its
+discussions of international institutional law.131 In addition, the presence of a court with the power
+to enforce standards is often equated with an international organization’s legal authority.132 This is
+particularly pertinent in the fields of human rights law and international investment law.133 On the
+other hand, it has also been recognized that there is not necessarily a strong correlation between
+the legal authority of standards and the choice of enforcement mechanism.134 While the presence
+of court or tribunal may be a marker of legal integration, and there are calls for the addition of
+such an organ in at least one regional organization under study,135 the lack of a judiciary in Asia
+Pacific organizations should not obscure other aspects of legal authority.
+
+3.2.2 The role of the constituent instrument, form v. substance, and hard v. soft law
+
+An international organization’s ability to take binding action, at least in accordance with
+traditional sources of international law, can occur through its role as a forum for negotiating and
+hosting multilateral treaties or via an article in the constituent instrument enabling an organ to
+take mandatory decisions. Asia Pacific organizations have engaged in the first from of law-making
+by acting as forums for generating treaties,136 although to a lesser extent than organizations
+127
+J. Klabbers, ‘The Normative Gap in International Organizations Law: The Case of the World Health Organization’,
+(2019) 16 International Organizations Law Review 272, at 274.
+128
+For example, see Alvarez, supra note 15; White, supra note 122.
+129
+This phrase is used by Cremona et al. when examining ASEAN’s external agreements: see Cremona et al., supra
+note 103, at 58.
+130
+One exception is the Court of the Eurasian Economic Union: see 2014 Treaty on the Eurasian Economic Union, Art. 19,
+translation available at /www.un.org/en/ga/sixth/70/docs/treaty_on_eeu.pdf; K. Entin and E. Diyachenko, ‘The Court of the
+Eurasian Economic Union: Not Just for Government-to-Government Dispute Settlement’, in A. Aseeva and J. Górski (eds.),
+The Law and Policy of New Eurasian Regionalization (2021), 90.
+131
+For example, see Commentaries to Draft Articles, supra note 38, at 58–60.
+132
+L. Casini, ‘The Development of International Legal Regimes: Models and Instruments for Legal Integration beyond
+States’, in C. Closa and L. Casini, Comparative Regional Integration: Governance and Legal Models (2016), 154, at 193–4.
+133
+See, for example, Directorate-General for External Policies, Policy Department, The Role of Regional Human Rights
+Mechanisms (2010), 11–12; C. C. Ajibo, ‘The Role of Regional Courts in the Development of International Investment Law:
+The Case of NAFTA Chapter 11 Dispute Settlement Framework and ECtHR’, (2018) 11 Law and Development Review 77.
+134
+V. Röben, ‘The Enforcement Authority of International Institutions’, (2008) 9 German Law Journal 1965, at 1982.
+135
+See H. D. Phan, A Selective Approach to Establishing a Human Rights Mechanism in Southeast Asia: The Case for a
+Southeast Asian Court of Human Rights (2012).
+136
+Examples of treaties negotiated or hosted under Asia Pacific organizations’ auspices include the 1985 South Pacific
+Nuclear Free Zone Treaty, 1445 UNTS 177; 2015 ASEAN Convention against Trafficking in Persons, Especially Women and
+Children, available at asean.org/asean2020/wp-content/uploads/2021/01/ACTIP.pdf; 2005 Agreement for Establishment of
+SAARC Arbitration Council, available at www.saarc-sec.org/index.php/resources/agreements-conventions/28-agreement-forestablishment-of-saarc-arbitration-council/file; Waigani Convention, supra note 108.
+
+https://doi.org/10.1017/S092215652400013X Published online by Cambridge University Press
+
+Leiden Journal of International Law
+
+709
+
+elsewhere. Outside treaty-making, few constituent instruments include a power to bind
+members, let alone the ability to subject the power to judicial or quasi-judicial dispute
+resolution. An example that challenges assumptions about the lack of legal authority of the
+actions of Asia Pacific organizations, is the SPRFMO Commission – a regional fisheries
+management organization.137 The SPRFMO Commission was established pursuant to the
+Convention on the Conservation and Management of High Seas Fishery Resources in the South
+Pacific Ocean.138 The Commission’s powers include the adoption of conservation and
+management measures, establishing states’ catch allocations and monitoring compliance with
+such measures.139 Its decisions on matters of substance are binding unless a member objects
+within a specific time period and, even then, objections can only be made on limited bases.140
+The Convention provides for a dispute resolution mechanism and members have activated this
+mechanism, under the auspices of the Permanent Court of Arbitration (PCA), to challenge
+Commission decisions.141 While the SPRFMO Commission, and the review of its decisions, has
+received attention in environmental and marine law and policy contexts,142 this has not filtered
+through to international institutional law.143
+However, practice in the Asia Pacific demonstrates that the ability to enforce an organization’s
+standards is not necessarily restricted to formal treaty provisions and judicial bodies. For example,
+Tan argues that ASEAN’s ‘frequent institutional meetings at every level of the organizational
+hierarchy act as an informal “accountability and enforcement” mechanism by reminding
+members of their shared commitments’.144 Thus, modes of enforcement can vary within
+organizations and between regions. At the more coercive end of the spectrum, participation
+sanctions have also been utilized by Asia Pacific organizations, despite the absence of such
+mechanisms in formal agreements. For example, the PIF applied the Biketawa Declaration of
+2000, which authorizes members to take ‘necessary targeted measures’ in a time of crisis,145 to
+suspend Fiji following a military coup. The Declaration enabled the PIF to take an escalating series
+of actions against the military government, before finally suspending Fiji’s regime from
+participation in the Forum in 2009.146 Rather than being an impediment, the Declaration’s flexible
+nature enabled the PIF to take the ultimate sanction against a defaulting member in a situation
+where other international organizations, with formal treaty provisions, have been unable to act on
+
+137
+
+See 1982 United Nations Convention on the Law of the Sea, 1833 UNTS 296, Art. 118.
+See Convention on the Conservation and Management of High Seas Fishery Resources in the South Pacific Ocean,
+supra note 67, Art. 8.
+139
+Ibid., Art. 20.
+140
+Ibid., Art. 17(1)–(2).
+141
+Ibid., Ann. II. See The Objection by the Russian Federation to a Decision of the Commission of the South Pacific
+Regional Fisheries Management Organisation, Findings and Recommendations of the Review Panel, 5 July 2013, available at
+https://pca-cpa.org/en/cases/33/; The Objection by the Republic of Ecuador to a Decision of the Commission of the South
+Pacific Regional Fisheries Management Organisation, Findings and Recommendations, 5 June 2018, available at pcacases.
+com/web/sendAttach/2400.
+142
+For example, H. S. Schiffman, ‘The South Pacific Regional Fisheries Management Organization (SPRFMO):
+An Improved Model of Decision-Making for Fisheries Conservation?’, (2013) 3 Journal of Environmental Studies and Sciences
+209.
+143
+An examination of the PCA process in The Objection of the Republic of Ecuador, supra note 141, can be found in J. Levine
+and C. Pondel, ‘There Are Not Plenty of Fish in the Sea: PCA Case No 2018-13 on Ecuador’s Objection to a Decision of the
+Commission of the South Pacific Regional Fisheries Management Organisation’, (2018) 24 Australian International Law
+Journal 221.
+144
+See Tan, supra note 34, at 345.
+145
+Thirty-First Pacific Islands Forum, Forum Communiqué, 30 October 2000, Attachment 1, ‘Biketawa Declaration’,
+para. 2, available at https://forumsec.org/publications/biketawa-declaration.
+146
+Pacific Islands Forum Secretariat, ‘Statement by Forum Chair on Suspension of the Fiji Military Regime from the Pacific
+Islands Forum’, Press Statement No. 21/09, Solomon Times, 2 May 2009. For further details of the PIF’s action see A. Duxbury,
+The Participation of States in International Organizations (2011), at 200–1.
+138
+
+https://doi.org/10.1017/S092215652400013X Published online by Cambridge University Press
+
+710
+
+Alison Duxbury
+
+members’ violations of fundamental principles.147 A second example of a novel participation
+sanction in the region can be found in the 2005 statement by ASEAN Foreign Ministers that
+Myanmar had ‘decided to relinquish its turn to be the chair of ASEAN in 2006 because it would
+want to focus its attention on the ongoing national reconciliation and democratisation process’.148
+Although it was Myanmar’s turn to rotate into the Chair role, the Foreign Ministers viewed
+Myanmar’s failure to implement democracy as impacting on ‘ASEAN’s solidarity and
+cohesiveness’149 – problematic in an organization that defines itself as a ‘family’.150 As with
+the PIF, ASEAN was able to act because its constituent instruments enabled it to adapt to changing
+circumstances.
+Participation sanctions can also include the failure to recognize or seat a member’s
+representative. Representation is concerned with the question whether ‘the governmental
+authority will be considered generally as the international agent of the state’.151 Usually the
+identity of a state’s representative is clear. However, where there are rival claimants there may be a
+choice between a legitimate (elected) government and one that is in effective control of territory
+(for example, the leaders of a coup).152 Following the widely condemned military coup in
+Myanmar in February 2021, ousting the National League for Democracy, ASEAN and other
+international organizations faced this dilemma. In the UN, the General Assembly’s Credentials
+Committee deferred the question of whether the military regime or the civilian government
+should be seated.153 This deferral followed the unedifying spectacle of a representative of the
+military regime speaking at the UN Human Rights Council.154 A different approach was taken in
+ASEAN. In October 2021 the Chair of the ASEAN Foreign Ministers’ Meeting (Brunei
+Darussalam) announced that a non-political participant from Myanmar would be invited to
+ASEAN summits rather than a representative of the military regime.155 Conflicted in its desire to
+include all members of ‘the ASEAN family’,156 while at the same time recognizing the
+international outcry against the military regime, the Chair chose a middle ground – neither the
+military nor the ousted government would be seated. Seating a military regime – not least one that
+was engaged in widespread violence against civilians and ethnic minorities – was not feasible in a
+community where at least one member was calling for ASEAN to take a stronger stance.157 On the
+other hand, it would be a violation of ASEAN’s underlying norm of non-interference to fail to
+include any representative of Myanmar. In practice, Myanmar has, for the most part, been
+
+147
+For example, much has been written about the EU’s difficulty in implementing membership sanctions when faced with
+the violation of its principles. See M. T. Veber, ‘Safeguarding Fundamental Values of the EU Through the Adoption of
+Sanctions’, (2021) 4 University of Vienna Law Review 37.
+148
+‘Joint Communique of the 38th ASEAN Ministerial Meeting, Vientiane’ by the ASEAN Foreign Ministers’, Laos, 26 July
+2005, para. 70, available at asean.org/joint-communique-of-the-38th-asean-ministerial-meeting-vientiane/. See Duxbury,
+supra note 146, at 195–6.
+149
+See ‘Joint Communique of the 38th ASEAN Ministerial Meeting’, supra note 148.
+150
+See note 156 and accompanying text, infra.
+151
+F. Jhabvala, ‘The Credentials Approach to Representation Questions in the UN General Assembly’, (1977) 7 California
+Western International Law Journal 615, at 620.
+152
+See Schermers and Blokker, supra note 6, para. 260.
+153
+United Nations General Assembly, Report of the Credentials Committee, UN Doc. A/76/550 (2021), para. 9.
+154
+L. D. Johnson, ‘What is Wrong with this Picture? The UN Human Rights Council Hears the Military Junta as the
+Legitimate Government of Myanmar’, EJIL:Talk!, 31 March 2021, available at www.ejiltalk.org/whats-wrong-with-thispicture-the-un-human-rights-council-hears-the-military-junta-as-the-legitimate-government-of-myanmar/.
+155
+Ministry of Foreign Affairs of Brunei Darussalam, ‘Statement of the Chair of the ASEAN Foreign Ministers’ Meeting’,
+16 October 2021, available at www.mfa.gov.bn.
+156
+Ibid.
+157
+Ministry of Foreign Affairs, Malaysia, ‘Statement by the Minister of Foreign Affairs, Dato’ Sri Anifah Aman in Response
+to the ASEAN Chairman’s Statement on the Humanitarian Situation in the Rakhine State’, 24 September 2017, available at
+www.kln.gov.my.
+
+https://doi.org/10.1017/S092215652400013X Published online by Cambridge University Press
+
+Leiden Journal of International Law
+
+711
+
+unrepresented at high-level ASEAN meetings as the military will not send another participant.158
+Nevertheless, ASEAN’s approach provides an alternative way forward for representation in
+international organizations where there has been a coup. Both the PIF and ASEAN’s practice
+demonstrates that international organizations can enforce their values in a variety of different
+ways, and that flexibility and the absence of a judicial body does not necessarily equate with a lack
+of action.
+International organizations engage in law-making through a range of other measures,
+including directives, initiatives, programs of action and policy instruments.159 The label ‘soft law’
+encapsulates a range of documents that are not binding by virtue of the organization’s
+constitution, but nevertheless can exhibit a strong pull towards compliance.160 The use of such
+instruments is particularly significant where there is a lack of treaty provisions specifying an
+organization’s law-making powers. A declaration is one such instrument – usually adopted in
+order to clarify, or potentially challenge, a legal principle or factual situation.161 For example,
+in the Declaration on Preserving Maritime Zones in the Face of Climate Change-related Sea-Level
+Rise,162 the PIF’s members set out their interpretation of principles relating to the review of
+maritime zones in the United Nations Convention on the Law of the Sea (UNCLOS). Although
+not formally binding by virtue of the Agreement Establishing the Pacific Islands Forum, the
+Declaration’s language and intent is clear – to ‘record’ Forum members’ compact that maritime
+boundaries should not be subject to review once reported to the UN Secretary-General.163
+The Declaration has been described as ‘a political declaration’, but one that ‘should be seen as a
+response to a legal question’.164 It could be viewed as a subsequent agreement or practice by some
+of UNCLOS’ parties relevant to the interpretation of the treaty, or an example of state practice for
+the purposes of establishing a customary international law rule.165
+These types of instruments are not limited to declarations. In the Asia Pacific, the practices of
+two other organizations highlight the difficulty with the hard law versus soft law binary and the
+importance of the substance of commitments over legal form. The first example arises from
+ASEAN’s commitment to an ASEAN Community with three pillars: the ASEAN Economic
+Community (AEC), the ASEAN Political-Security Community (APSC) and the ASEAN SocioCultural Community (ASCC).166 The communities’ aims are articulated in three Blueprints – first
+drafted in 2008–2009 and then re-drafted in 2015.167 While the Blueprints differ in terms of their
+commitments, language, and timelines all include implementation and review sections, suggesting
+the need for compliance.168 The AEC Blueprint is the most comprehensive in terms of goals and
+158
+In January 2024, the permanent secretary of Myanmar’s Ministry of Foreign Affairs attended the ASEAN Foreign
+Ministers’ Retreat in Laos: See S. Strangio, ‘Myanmar Junta Sends Representative to ASEAN Foreign Ministers’ Meeting’,
+The Diplomat, 29 January 2024.
+159
+See Bederman, supra note 8, at 372; D. Shelton, ‘Introduction: Law, Non-Law and the Problem of “Soft Law”’,
+in D. Shelton (ed.), Commitment and Compliance: The Role of Non-Binding Norms in the International Legal System (2003),
+1, at 12.
+160
+See White, supra note 122, at 560.
+161
+See Schermers and Blokker, supra note 6, paras. 1244–1245.
+162
+Declaration on Preserving Maritime Zones in the Face of Climate Change-related Sea-Level Rise, Pacific Islands Forum
+2021, available at https://forumsec.org/publications/declaration-preserving-maritime-zones-face-climate-change-related-sea-level-rise.
+163
+Ibid.
+164
+F. Angaddi, ‘Establishment, Notification, and Maintenance: The Package of State Practice at the Heart of the Pacific
+Islands Forum Declaration on Preserving Maritime Zones’, (2022) 53 Ocean Development and International Law 19, at 20.
+165
+See discussion in ibid., at 31.
+166
+See ASEAN Charter, supra note 63, Preamble.
+167
+The 2025 Blueprints for three ASEAN communities are located in ‘ASEAN 2025: Forging Ahead Together’, November
+2015, available at asean.org/asean-2025-at-a-glance/. For a brief description of the process leading to the adoption of the three
+blueprints see A. Duxbury and H. Tan, Can ASEAN Take Human Rights Seriously? (2019), at 152–3.
+168
+See the ‘Implementation and Review’ sections in Blueprints: ASEAN Secretariat, ‘ASEAN Political-Security Community:
+Blueprint 2025’, March 2016, at para.14, available at www.asean.org/wp-content/uploads/2012/05/ASEAN-APSC-Blueprint2025.pdf; ASEAN Secretariat, ‘ASEAN Economic Community Blueprint 2025’, November 2015, paras. 81–91, available at
+
+https://doi.org/10.1017/S092215652400013X Published online by Cambridge University Press
+
+712
+
+Alison Duxbury
+
+methods for monitoring performance.169 It provides that ASEAN members ‘shall translate
+milestones and targets of the AEC Blueprint 2025 into national milestones and targets’.170
+In addition, it establishes the ASEAN Economic Community Council171 to ‘monitor and enforce
+compliance of all measures’ in the Blueprint.172 While the form of the AEC Blueprint is strictly
+non-binding, the language and structures for compliance suggest its goals are mandatory. Recent
+studies of ASEAN have detailed the development of monitoring and dispute resolution
+mechanisms following the ASEAN Charter, particularly in economic co-operation.173 These
+mechanisms, with their different compulsory and non-compulsory options, demonstrate that
+their legal value, as well as reasons for ASEAN members’ compliance, come in many forms.174
+SPREP’s practice also highlights the importance of substance over form in the practice of
+international organizations. SPREP’s Cleaner Pacific 2025: Pacific Regional Waste and Pollution
+Management Strategy 2016–2025 (CP2025) and the Pacific Regional Action Plan: Marine Litter
+2018–2025175 use language that indicates obligation rather than guidance. The CP2025 states that
+SPREP, Pacific Island Countries and Territories and their partners ‘shall develop and enforce
+national policies, strategies, plans and legislation and strengthen institutional arrangements’ for
+best practice management of waste, chemicals and pollutants (WCP).176 They ‘shall’ also
+‘remediate contaminated sites and WCP stockpiles in accordance with best practices’.177 The
+Marine Action Plan envisages the development and application of model legislation on materials
+such as single use plastics and the implementation of the Moana Taka Partnership.178 The Plan
+includes sections on timeframes, funding and key performance indicators.179 Neither document is
+phrased in terms of recommendatory language with both instruments emphasizing the pressing
+nature of these problems for the Pacific region. Together with the AEC Blueprint, such
+instruments highlight that discussions about the inconclusive nature of the distinction between
+hard law and soft law should take into account Asia Pacific practices and move to more nuanced
+understandings of legal effect and compliance.180 Such an examination may demonstrate that the
+hard law is not the norm in international organizations, but rather the exception.
+As is highlighted by Bederman, when international organizations make international law
+through these ‘relatively informal operations, directives and initiatives : : : they are acting less as
+persons, and more as communities’.181 Nowhere is this more true than in the Asia Pacific where
+the desire for cohesion motivates both the content of the organizations’ decisions as well as the
+form they may take, including the preference for non-treaty instruments and the use of consensus
+asean.org/book/asean-economic-community-blueprint-2025/ (hereinafter ‘AEC Blueprint’); ASEAN Secretariat, ‘ASEAN
+Socio-Cultural Community Blueprint 2025’, March 2016, paras. 22–42, available at www.asean.org/wp-content/uploads/2012/
+05/8.-March-2016-ASCC-Blueprint-2025.pdf.
+169
+See AEC Blueprint, supra note 168. For a comparison of the language and goals set out in the three blueprints
+see Duxbury and Tan, supra note 167, at 157–60.
+170
+See AEC Blueprint, ibid., para. 82 (emphasis added).
+171
+Ibid., para. 81.
+172
+Ibid., para. 82 (emphasis added).
+173
+S. Chesterman, From Community to Compliance: The Evolution of Monitoring Obligations in ASEAN (2015); R Beckman
+et al., Promoting Compliance: The Role of Dispute Settlement and Monitoring Mechanisms in ASEAN Instruments (2016).
+174
+See Beckman et al., ibid., at 99–100.
+175
+For a discussion of these documents see J. Peel et al., ‘Regional Solutions: Export Measures for Plastic Recyclables to
+Reduce Marine Plastic Pollution in the Pacific’, (2021) 11 Journal of Law and Legislation 8.
+176
+Secretariat of the Pacific Regional Environment Programme, ‘Cleaner Pacific 2025: Pacific Regional Waste and Pollution
+Management Strategy’, 2016, at 45, available at www.sprep.org/attachments/Publications/WMPC/cleaner-pacific-strategy2025.pdf.
+177
+Ibid., at 46.
+178
+Secretariat of the Pacific Regional Environment Programme, ‘Pacific Regional Action Plan: Marine Litter 2018–2025’,
+2018, at 24, available at www.sprep.org/sites/default/files/documents/publications/MAP-Digital-small.pdf.
+179
+Ibid., at 23–6.
+180
+See White, supra note 122, at 566.
+181
+See Bederman, supra note 8, at 372.
+
+https://doi.org/10.1017/S092215652400013X Published online by Cambridge University Press
+
+Leiden Journal of International Law
+
+713
+
+decision-making. An examination of the practice of Asia Pacific organizations offers international
+lawyers the opportunity to move beyond a ‘nineteenth century’ model,182 or a soft law versus hard
+law understanding of legal quality. While writers have recognized this need when studying
+ASEAN’s approach to international economic law,183 this understanding of the contribution of
+organizations in the region has not permeated international institutional law more generally.
+The focus should be on the ways in which organizations promote compliance with their standards
+and ensure accountability absent explicit powers in their constituent instruments and absent
+the possibility of adjudication. This brief excursion into law-making by Asia Pacific organizations
+demonstrates that international institutional law needs to grapple more explicitly with the
+significance of substance over form in determining the authority of an instrument as well as the
+potential for enforcing decisions absent a judicial institution.
+
+4. Conclusion: A proper law of international organizations?
+One year after the Micronesian members announced their withdrawal from the PIF, they
+‘temporarily rescinded’ their decision.184 As a result of an agreement reached in Suva, formalizing
+the previous ‘gentleman’s’ understanding on selection of the PIF Secretary-General, the
+Micronesian nations retained their membership.185 Informality in the Pacific family had reached
+its limits. While President Taneti Maamau initially broke with this decision, Kiribati was quickly
+back in the fold in a display of unity proclaimed as an example of the ‘Pacific Way’.186 In the last
+two years, much attention has been focused on the region: Pacific security is now a matter of
+concern to many states,187 the PIF’s declaration of a ‘climate emergency’188 has led to further
+interest in its activities, and President Biden announced the United States’ commitment to the
+Pacific leaders’ position that their countries would never lose their statehood or UN membership
+as a result of the climate crisis.189 The ICJ’s decision in late 2023 to allow the MSG, the PIF and the
+Pacific Community to participate in proceedings relating to the climate change advisory opinion
+may herald a more progressive approach.190 It recognizes the organizations’ expertise on the topic
+as well as their status as international organizations for the purposes of Article 66 of the ICJ
+Statute. This attention may lead to further interest in the Pacific region and its activities by
+international institutional lawyers.
+182
+
+See Klabbers, supra note 127, at 274.
+For example, see Cho and Kurtz, supra note 34; Hsieh, supra note 34.
+184
+G. Rickey, ‘Micronesia Stay in the Pacific Islands Forum Fold — For Now’, The Interpreter, 24 February 2022.
+185
+See discussion of the ‘Suva Agreement’ in Pacific Islands Forum, Fifty-First Pacific Islands Forum, Suva, Fiji, 11–14 July
+2022, available at https://forumsec.org/publications/report-communique-51st-pacific-islands-forum-leaders-meeting.
+186
+K. Lyons, ‘Kiribati Withdraws from Pacific Islands Forum in Blow to Regional Body’, Guardian, 10 July 2022; L. Lewis,
+‘Puna and Maamau Embrace as Pacific Unites Once Again’, RNZ, 23 February 2023, available at www.rnz.co.nz/international/
+pacific-news/484729/puna-and-maamau-embrace-as-pacific-unites-once-again.
+187
+R. Gramer, M. Young and J. Detsch, ‘US Raises the Ante in Pacific Islands After Chinese Swoop’, Foreign Policy, 14 July
+2022.
+188
+S. Dziedzic, ‘Pacific Leaders to Declare “Climate Emergency” in PIF Statement, Praise Australia’s Move to Lift Emissions
+Reduction Target’, ABC News, 15 July 2022.
+189
+‘Biden Tells Pacific Leaders He Hears Their Warnings about Climate Change and is Committed to Act’, PBS Newshour,
+25 September 2023, available at www.pbs.org/newshour/world/biden-tells-pacific-islands-leaders-he-hears-their-warningsabout-climate-change-and-is-committed-to-act.
+190
+ICJ Press Release, ‘Obligations of States in Respect of Climate Change (Request for an Advisory Opinion) – The Court
+Authorizes the Organisation of African, Caribbean and Pacific States, the Melanesian Spearhead Group and the Forum
+Fisheries Agency to Participate in Proceedings’, No 2023/48, 20 September 2023; ICJ Press Release, ‘Obligations of States in
+Respect of Climate Change (Request for an Advisory Opinion) – The Court Authorizes the Pacific Community to Participate in
+Proceedings’, No 2023/70, 24 November 2023; ICJ Press Release, ‘Obligations of States in Respect of Climate Change (Request
+for an Advisory Opinion) – The Court Authorizes the Pacific Islands Forum and the Alliance of Small Island States to
+Participate in Proceedings’, No 2023/76, 20 December 2023.
+183
+
+https://doi.org/10.1017/S092215652400013X Published online by Cambridge University Press
+
+714
+
+Alison Duxbury
+
+As noted at the outset, this article is consciously not a piece about regional approaches in the
+law of international organizations. Nevertheless, it is recognized that this analysis may be used to
+argue that there is an Asia Pacific international institutional law or that there is no law of
+international organizations because it is not (and cannot) be universal. While the possibility of a
+distinct Asia Pacific approach or different (possibly, plural) legal traditions in international
+institutional law is not discounted, that is an argument for another time and perhaps another
+author. The aim of this article has been to support the position of many writers in the field that
+there are legal principles that can be applied across many different international organizations.
+The only caveat is that in articulating these principles, the practices of organizations in the Asia
+Pacific should be a part of the story.
+The Introduction indicated that this section would reimagine a more inclusive, a ‘proper’ law of
+international organizations.191 Of course, this is a slight misuse of Jenks’ terminology. When he
+wrote The Proper Law of International Organisations in the series on the ‘Law of International
+Institutions’, he was employing the term in a private international law sense – that is, the law,
+either domestic or international, that governs the legal relations and transactions of international
+organizations.192 Here, the word is used to convey the idea of a ‘suitable’, ‘appropriate’ or ‘genuine’
+law of international organizations.193 In arguing for an appropriate or genuine law of international
+organizations, this article has made several claims. First, that international institutional law relies
+on the principles and practices of a narrow range of organizations – those in the UN system or
+otherwise based in Europe. The two most well-known institutions headquartered in these regions,
+and those that gain the most attention are the UN and EU.194 International organizations not
+made in their image, including those based in the Asia Pacific, are infrequent visitors to the pages
+of international institutional law texts. Despite the importance of the UN and EU, they may not
+serve as ‘models’ or an ‘inspiration’195 for the future. As well, they do not serve as examples of the
+typical structure or powers of international organizations. The examples raised in this article
+demonstrate that there is a diversity of practices that need to be recognized and incorporated into
+the legal framework.
+This leads to the article’s second claim: that a genuine law of international organizations should
+be grounded in the principles and practices of a wider range of organizations. The reasons for this
+are two-fold: first, writers maintain that there is a ‘common law’ that can be applied across
+international organizations, whatever their type and wherever they are headquartered. As stated
+earlier, this article does not attempt to debunk this idea. However, if we accept the pull of
+universality, then it is but a short step to argue that the applicable legal principles must be based on
+the practices of a broad range of organizations. For example, if the ILC adopts an inclusive
+definition of the term ‘international organization’ in the ARIO to ensure that the principles of
+responsibility encompass a wide range of international organizations, then the articles attributing
+responsibility to international organizations must be derived from the practices of a similar range
+of institutions.196
+The third claim is that the principles and practices of Asia Pacific organizations must be a part
+of this story. This article has drawn on debates surrounding personality and law-making powers
+(‘who are international organizations’ and ‘what do they do’?) to sketch the ways in which
+Asia Pacific organizations have been excluded from the development of the legal framework
+and the way in which their principles and practices may add to our understanding of the law.
+This discussion has raised questions about the preference given by international lawyers to the
+191
+
+See Jenks, supra note 10.
+Ibid., at xxxiv.
+193
+Oxford English Dictionary (2007), ‘proper’.
+194
+In addition, since the COVID-19 pandemic there has been much focus on the World Health Organization.
+195
+See Klabbers, supra note 6, 14–15.
+196
+See note 41, supra (Xue’s comments). See also J. Alvarez, ‘Revisiting the ILC’s Draft Rules on the International
+Organization Responsibility’, (2011) 105 ASIL Conference Proceedings 344.
+192
+
+https://doi.org/10.1017/S092215652400013X Published online by Cambridge University Press
+
+Leiden Journal of International Law
+
+715
+
+constituent instrument over the practice of an international organization, the weight attached to
+the concept of international legal personality, and the normative authority exercised through
+documents and activities that are not binding pursuant to traditional sources of international law
+but nevertheless demonstrate a strong pull towards compliance. By focusing on the adoption of
+instruments such as the SPREP Moana Taka Partnership and declarations negotiated within the
+PIF or ASEAN, international lawyers may question the ways in which international legal
+personality is established. By examining the language of blueprints, strategies, and other
+instruments of Asia Pacific organizations, rather than their form, a more nuanced understanding
+of legal quality and authority could be developed. The diverse practices of Asia Pacific
+organizations demonstrate that implementation and enforcement action can take several forms
+outside judicial adjudication. Rather than focus on what these organizations lack, international
+institutional lawyers should focus on the relevance of their practices. In this respect, this article is
+not intended to be comprehensive of the work of Asia Pacific organizations – rather it is a first step
+and call for further research and understanding by those working in the field.
+Finally, the considerable diversity, as well as commonality in the region must be recognized.
+For example, there is a world of difference between the powers of the SPRFMO and SAARC, but
+the approach of the PIF and ASEAN to enforcing their values against a defaulting member
+demonstrates some parallels. Labels for regional organizations that emphasize a lack of legal form
+and substance and fail to recognize this diversity of practice should be avoided. The proper law of
+international organizations imagined in this article is one that takes an inclusive rather than an
+exclusive approach to the instruments of international organizations, that seeks to document,
+understand, and incorporate their work, and that understands that legal authority and legal
+quality can take a number of forms. The proper law is one where the actions of Pacific leaders,
+walking under the trees on the island of Peleliu to implement their agreement on the election of a
+new Secretary-General of the PIF, would be recognized as contributing to those principles and
+practices.
+
+Cite this article: Duxbury A (2024). Rewriting the law of international organizations: Whither the Asia Pacific? Leiden Journal
+of International Law 37, 694–715. https://doi.org/10.1017/S092215652400013X
+
+https://doi.org/10.1017/S092215652400013X Published online by Cambridge University Press
+
+

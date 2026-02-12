@@ -1,0 +1,1141 @@
+The Paciﬁc Review
+
+ISSN: 0951-2748 (Print) 1470-1332 (Online) Journal homepage: www.tandfonline.com/journals/rpre20
+
+Elite role conceptions and Indonesia’s agency in
+the ASEAN Outlook on the Indo-Paciﬁc: reclaiming
+leadership
+Pia Dannhauer
+To cite this article: Pia Dannhauer (2024) Elite role conceptions and Indonesia’s agency in the
+ASEAN Outlook on the Indo-Paciﬁc: reclaiming leadership, The Paciﬁc Review, 37:1, 30-55, DOI:
+10.1080/09512748.2022.2125999
+To link to this article: https://doi.org/10.1080/09512748.2022.2125999
+
+Published online: 23 Sep 2022.
+
+Submit your article to this journal
+
+Article views: 1218
+
+View related articles
+
+View Crossmark data
+
+Citing articles: 6 View citing articles
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=rpre20
+
+THE PACIFIC REVIEW
+2024, VOL. 37, NO. 1, 30–55
+https://doi.org/10.1080/09512748.2022.2125999
+
+Elite role conceptions and Indonesia’s agency in
+the ASEAN Outlook on the Indo-Pacific:
+reclaiming leadership
+Pia Dannhauer
+School of Government and International Relations, Griffith University,
+Brisbane, Australia
+ABSTRACT
+
+In June 2019, the Association of Southeast Asian Nations (ASEAN) issued a
+shared regional vision, the ASEAN Outlook on the Indo-Pacific (AOIP). The
+document ended a debate about how to respond to the concept of the
+Indo-Pacific, the United States’ Indo-Pacific Strategy, and new additions to
+regional security architecture, especially the Quad. Indonesia, traditionally a
+leading voice in ASEAN, exerted significant diplomatic capital developing and
+securing agreement on the AOIP after a period of diminished leadership from
+the organisation. Dominant explanations for this behaviour cannot fully
+address why the country led in constructing AOIP despite what most analysts
+agree was the disengagement of President Joko ‘Jokowi’ Widodo (2014 -)
+from foreign policy. Developing an original ‘role integration’ model, this article argues that Indonesia was able to lead on AOIP because President
+Jokowi’s preference for maritime cooperation and economic diplomacy integrated with the Indonesian Foreign Ministry’s efforts to maintain ASEAN unity
+and centrality in this instance. The findings of this research offer both new
+empirical insights into the domestic decision-making processes that shaped
+Indonesia’s agency in AOIP and add to the role theory literature by shifting
+the analytical focus from domestic contestation to cooperative dynamics that
+can shape the national role conception.
+
+KEYWORDS Indo-Pacific; ASEAN; leadership; role theory; Joko Widodo; Indonesia
+
+Introduction
+In June 2019, the Association of Southeast Asian Nations (ASEAN) launched
+the ASEAN Outlook on the Indo-Pacific (AOIP), a vision document that reaffirms ASEAN centrality and reiterates the importance of peace and cooperation in the Indo-Pacific region.1 Indonesia played a key role in drafting the
+CONTACT Pia Dannhauer
+pia.dannhauer@griffithuni.edu.au
+International Relations, Griffith University, Brisbane, Australia.
+ß 2022 Informa UK Limited, trading as Taylor & Francis Group
+
+School of Government and
+
+THE PACIFIC REVIEW
+
+31
+
+concept and lobbying for the agreement of AOIP despite a previous decline
+in the country’s agency in the organisation after the election of President
+Joko ‘Jokowi’ Widodo (2014 -). Why did Indonesia reclaim its leading role in
+achieving ASEAN consensus on the norms and principles which should
+underpin the Indo-Pacific order and ASEAN’s central place within it?
+Some observers argue that Indonesia’s leadership in constructing this
+regional vision was driven by the country’s middle power aspirations
+embodied in President Jokowi’s maritime doctrine, the Poros Maritim Dunia
+(Global Maritime Fulcrum or PMD) (Anwar, 2020; also Agastia, 2020). This
+argument is inconsistent, however, with the widely shared assessment that
+Jokowi has been generally disengaged from foreign policy during this
+Presidency, as he has prioritised his domestic agenda (Connelly, 2014;
+Bland, 2020, p. 160; Agastia, 2021). For this reason, other analysts argue
+that the AOIP was an initiative of the Foreign Ministry (Kementerian Luar
+Negeri or Kemlu), which has long championed the idea that Indonesia
+should play a leadership role in ASEAN (Scott, 2019, pp. 202–204;
+Weatherbee, 2019. p. 4).
+In this article, I argue that both assessments of Indonesia’s leadership in
+producing the AOIP are flawed. Instead, I argue that this leadership resulted
+from an alignment of ideas and interests between the President and the
+foreign policy bureaucracy. I argue too that this alignment is best explained
+using an original ‘role integration’ model. In contrast to the role contestation scholarship, which focusses on competition over the national role
+conception, this model offers an alternative analytical focus on how different role preferences may be integrated to achieve cooperation across government in conceiving and enacting role. The article shows that even
+though President Jokowi did not share Kemlu’s commitment to the regional
+leader role and instead preferred a maritime power role conception that
+supported his economic and development agenda, in the case of AOIP his
+interests aligned with Kemlu’s leadership ambitions in ASEAN. Their role
+preferences were therefore integrated in the role conception, allowing policymakers to reclaim Indonesia’s leadership mantle in ASEAN and shaping
+an approach to AOIP that was characterised by an emphasis on economicfunctional cooperation while downplaying the significance of strategic
+competition.
+To dissect how domestic actors identified problems, made decisions and
+acted upon them, data from several sources was analysed. They included
+25 interviews with informed actors within Indonesia’s foreign policy community, including active and retired foreign policy officials, academics and
+analysts, as well as journalists. The analysis of high-level statements and
+speeches also helped identify dominant role conceptions. These include
+Jokowi’s Annual Speech of the Nation, Foreign Minister Retno Marsudi’s
+
+32
+
+P. DANNHAUER
+
+Annual Press Briefings as well as statements made in ASEAN. Policy documents and opinion pieces, as well as audio-visual media, were analysed too.
+The article proceeds in five parts. The first section outlines the gaps in
+current explanations for Indonesia’s leadership on AOIP and introduces a
+‘role integration’ model as an alternative framework to conceptualise the
+country’s foreign policy behaviour. The following section discusses
+President Jokowi’s maritime power role conception and explains why
+Indonesia’s agency in providing new principles and values in ASEAN notably declined under his rule. The third section shows how intensifying geopolitics in the Indo-Pacific region threatened ASEAN’s cohesion and
+relevance and provided the context for Kemlu diplomats to renew
+Indonesia’s leadership in the organisation. In doing so, the fourth part
+argues, Kemlu promoted their preferred regional leader role conception,
+signalling policy makers’ ongoing commitment to ASEAN as Indonesia’s
+central diplomatic platform to engage with the region. Finally, the fifth section illustrates how the President’s and Kemlu’s role preferences integrated,
+leading Indonesia to emphasise economic-functional cooperation over strategic competition in the construction of AOIP. The article closes with a
+recapitulation of this argument and its theoretical as well as empirical
+implications.
+This article makes two contributions. First, it provides a more nuanced
+perspective on President Jokowi’s involvement in the construction of AOIP
+and offers new empirical insights into the decision-making dynamics
+behind Indonesia’s agency in ASEAN. Second, it adds to the scholarship on
+domestic role dynamics by developing an original theoretical framework
+and new hypotheses on the integration of divergent roles in the national
+role conception.
+
+Indonesia and the AOIP
+One explanation for Indonesia’s leadership on AOIP contended that it was
+part of the country’s efforts to position itself as an emerging ‘middle power’
+in the Indo-Pacific region. Prominent foreign policy scholar Dewi Fortuna
+Anwar, for instance, acknowledges the historical roots of Indonesia’s maritime orientation but argues Indonesia’s recent reconceptualization of its
+geostrategic outlook from Asia- to Indo-Pacific is the result of President
+Jokowi’s maritime doctrine and the associated Indonesian Ocean Policy,
+which laid out the President’s goal to enhance Indonesia’s presence in the
+maritime sphere at regional and international levels (Anwar, 2020; also
+Agastia, 2020).
+This argument does not, however, adequately account for the timing of
+Indonesia’s reclamation of a leadership role in 2018, when the maritime
+
+THE PACIFIC REVIEW
+
+33
+
+doctrine had already been in place since 2014. There is also a considerable
+body of research that puts into doubt Jokowi’s agency in foreign policy.
+This literature argues that after coming to power, the President showed no
+affinity for foreign policy, and took a ‘hands-off’ and ad-hoc approach to
+foreign policy (Connelly, 2014; Bland, 2020, p. 160; Agastia, 2021). It suggests that even his signature program the PMD was not his vision but
+rather a ready-made campaign platform developed by his close advisors
+(Rosyidin & Pattipeilohy, 2020). A lack of personal investment in the concept may explain why the idea all but disappeared during his second term
+(Laksmana, 2019; Arif, 2021, p. 379).
+Given the relative disengagement of the President in foreign policy,
+other analysts argue that Kemlu took initiative on AOIP. As intensifying USChina rivalries created a new sense of urgency in the region, they contend,
+Kemlu diplomats took it upon themselves to promote an Indo-Pacific concept to secure regional stability (e.g. Scott, 2019, pp. 202–204; Weatherbee,
+2019, p. 4). This perspective, however, neglects the fact that while Kemlu is
+responsible for formulation, stipulation, and implementation of foreign policy in line with Law 37/1999 and Law 24/2000, it cannot pursue its preferred
+foreign policy independently, because the President remains Indonesia’s
+highest executive authority and thus central decision-maker in foreign policy (Dosch, 2006, p. 49). Accordingly, a focus on Kemlu’s agency alone is
+useful to understand who drove Indonesia’s leadership behaviour but insufficient to fully explain Indonesia’s agency in promoting shared principles
+underpinning the Indo-Pacific order in ASEAN.
+The prevailing explanations for Indonesia’s leadership in constructing
+AOIP are thus incomplete. The ‘middle power’ argument cannot explain
+why Indonesia took a leading role in defining norms and principles for
+ASEAN in 2018, but not before. Accounts of Kemlu’s agency provide an
+answer to the question who promoted leadership when President Jokowi
+was relatively disengaged, but do not explain why he supported this course
+of action. To answer the question why Indonesia led in AOIP, better insights
+into the role of President Jokowi in realising Indonesia’s role in ASEAN
+are needed.
+
+Role theory and Indonesian foreign policy
+To address this puzzle, this article uses role theory. A role is constituted by
+both ego and alter components. The alter part of a role is constituted by
+the role expectations of the group or social structure in which the role is
+enacted. Meanwhile, the ego part or national role conception (NRC) comprises ‘perceptions, values, and attitudes of the actor occupying a position’
+(Holsti, 1970, p. 239). Notably, the NRC itself comprises not only aspects of
+
+34
+
+P. DANNHAUER
+
+national identity but also policymakers’ perceptions of their state’s responsibilities or opportunities within the international system (Breuning, 2011, p.
+26). Intra-role conflict occurs when ego and alter expectations diverge,
+while inter-role conflict happens when two roles within the state’s role set
+impose contradictory demands (Harnisch, 2011, p. 8). This can, for instance,
+happen due to a country’s participation in multiple, at times conflicting,
+institutions (Barnett, 1993).
+Role theory is particularly useful to understand Indonesia’s leadership in
+ASEAN because it accounts for the specific nature of Indonesia’s leadership
+in ASEAN’s consensus-based institutional framework, which is shaped both
+by aspects of Indonesia’s self-understanding of its status in ASEAN as well
+as the expectations and constraints imposed by other ASEAN members.
+€land was the first to systematically examine Indonesia’s foreign policy
+Ru
+through the role theory framework to identify continuity and change in
+Indonesia’s role set after democratisation. He demonstrated that different
+main roles moved to the foreground throughout subsequent periods of the
+post-independence period. Despite these variations, however, Indonesia’s
+role set showed a significant degree of continuity. The regional leader role,
+for instance, remained a persistent part of Indonesia’s role set and helped
+enact main roles such as advocate of development under Suharto and
+€land, 2017, p. 53).
+advocate of democracy following democratisation (Ru
+Indeed, several studies outline that the enactment of certain foreign policy roles was part of Indonesia’s search for a greater global status.
+Indonesia frequently enacts roles to achieve overarching foreign policy
+objectives. Thies and Sari for instance asserted that certain role enactments
+qualify Indonesia as a middle power according to a multi-tier model of auxiliary roles that help achieve a middle power status (Thies & Sari, 2018).
+Meanwhile, Karim demonstrated that Indonesia’s pursuit of regional leader
+or global bridge-builder roles is part of its endeavours to seek a middle
+power status (Karim, 2018). Using its role as a bridge-builder between
+developed and developing countries in the Doha round, Indonesia also
+sought to enhance its global status (Karim, 2021b).
+The democracy promoter role similarly helped Indonesian elites to
+enhance the country’s international prestige. But at times it also conflicted
+with pre-reformasi role conceptions, thus undermining Indonesia’s foreign
+policy aspirations, especially in ASEAN. Based on its democratisation the
+country sought to promote democracy and human rights as core values
+through new institutions, for instance through the ASEAN Charter. As a
+regional leader that emphasizes consensus-building and cohesion among
+member states with diverse political systems, however, Indonesia could not
+ignore the concerns of member states who were reluctant to embrace
+these values due to their less democratic political systems (Karim, 2017).
+
+THE PACIFIC REVIEW
+
+35
+
+Another field of study recognizes the structuring effect of external audiences. In the case of Indonesia’s attempt to act as a bridge between the
+Muslim world and Western democracies, for example, the role conception
+as a Muslim democracy did not adhere to either expectation from the
+Muslim world or Western liberal democracies and thus hindered successful
+role enactment (Grzywacz, 2020). At the same time, Indonesia itself rejected
+the democracy promoter role expected by Western liberal democracies in
+favour of its role conception as a champion of developing countries due to
+concerns over international responses to alleged human rights abuses in
+West Papua (Karim, 2020).2
+In such instances of conflicting audience expectation, as Karim maintains,
+Indonesia may thus enact the same roles differently on regional and global
+levels. When a conflict between audience expectations occurs, policymakers
+may be forced to either attribute different meanings to the same role
+depending on the level of engagement or perform a role in one level but
+disregard it on another (Karim, 2022). Agastia, on the other hand, showcases an example of convergence between ego and alter expectations. He
+argued that Indonesia’s agency in promoting its own Indo-Pacific concept
+was driven by its role conception as a regional leader and bridge-builder.
+At the same time, Indonesia adjusted to external cues and role expectations
+through integrating aspects of the dominant Indo-Pacific powers’ own strategies and building on existing ASEAN-centred mechanisms. Due to this process of socialisation or ‘role location’, Indonesia secured widespread
+acceptance of its middle-power role in the Indo-Pacific (Agastia, 2020).
+The current literature thus emphasises the interactive nature of the role
+conceptions that drive Indonesia’s foreign policy behaviour, as well as the
+constraints imposed on these conceptions by the expectations of other
+states. Yet there is comparatively little research on the processes of role
+articulation in the domestic sphere. Where domestic role interactions are
+discussed, they are largely conceptualised as a constraint on policymakers.
+Karim identified a two-fold ‘role legitimation’ strategy employed by former
+President Susilo Bambang Yudhoyono or ‘SBY’ to reduce the likelihood of
+domestic contestation to his internationalist ambitions. In order to imbue
+his agenda with meaning, the President drew on historical roles and reproduced international expectations as inherent social qualities within the state
+(Karim, 2021a). Other studies noted that domestic audience expectations
+may constrain decision-makers from pursuing certain role conceptions
+€land, 2017, p. 53).
+(Karim, 2017, p. 388; Ru
+This reflects a broader tendency within role research to assume consensus on the NRC, based on the view that the NRC is a product of socialisation
+(Kirste & Maull, 1996, p. 287; Chafetz, Abramson & Grillot, 1996; Breuning,
+2011, p. 23). But such consensus is not a given. Indonesia’s role in ASEAN
+
+36
+
+P. DANNHAUER
+
+was at times significantly contested, as exemplified by parliamentarians
+refusing the ratification of ASEAN agreements on neo-nationalist, gains-ori€land, 2009; Hurley & Lee, 2021); or socio-economic actors
+ented grounds (Ru
+leveraging their political influence to undermine regional cooperation and
+protect their wealth and resources (Robison & Hadiz, 2017; Dosch, 2015, pp.
+292–294; Chandra, 2016).
+Conflicts over the NRC are captured by the notion of ‘role contestation’,
+which describes the process of disaggregating the state into various
+domestic stakeholders with potentially diverging role conceptions and
+centres on how competition over the role conception influences behavioural outcomes (Thies & Breuning, 2012; Wehner & Thies, 2014; Jones,
+2017; Cantir & Kaarbo, 2016, p. 6).
+
+Role integration and the AOIP
+In the case of the AOIP, there is no evidence of significant conflict over
+Indonesia’s role conception. Rather, the question arises how and why
+Kemlu, as the main proponent of AOIP, gained President Jokowi’s support
+for defining shared principles for ASEAN in the Indo-Pacific order when the
+President showed little agency in foreign policy. Here, the role contestation
+literature does not provide the theoretical tools necessary to conceptualise
+how agreement emerged on Indonesia’s role in AOIP.
+To fill this gap, this article presents an alternative ‘role integration’ model
+to conceptualise cooperation in the role conception. Rather than focusing
+on how domestic conflicts over the national role conception shape foreign
+policy behaviour, the ‘role integration’ model offers new arguments regarding the cooperation among actors with different role conceptions to explain
+how the leadership role could be successfully pursued in AOIP.
+To conceptualise how different actors’ roles preferences are integrated in
+the role conception, this model builds on previous findings on the importance of institutional power and resources to resolve differences within the
+ego (Cantir & Kaarbo, 2016, p. 177). This research showed that bureaucratic
+agencies and the individual cabinet members leading them will seek to promote a role conception in line with their respective bureaucratic interests
+(Brummer & Thies, 2015, p. 290; Jones, 2017, p. 374). However, analyses of
+role contestation also showed that powerful leaders will use their power to
+impose their role preferences without great consideration for alternative
+role conceptions or adjustments to accommodate contestation from other
+government actors (Wehner & Thies, 2014; Brummer & Thies, 2015).
+The ‘role integration’ model argues that the reverse holds also true: role
+conceptions will be integrated if bureaucratic elites support a role and the
+President’s role conception aligns with this preference. In terms of
+
+THE PACIFIC REVIEW
+
+37
+
+Indonesia’s leadership in ASEAN, it can thus be expected that role integration occurs where the regional leader role is supported by Kemlu and aligns
+with the President’s role conception.
+The following sections will discuss the evidence supporting these claims.
+They detail President Jokowi’s maritime power role conception, discuss
+Kemlu’s enduring support for the regional leader role in the face of intensifying strategic competition in the Indo-Pacific, and outline how the integration of these different role preferences allowed for Indonesia to reclaim its
+leadership mantle through the construction of AOIP.
+
+Jokowi’s ‘maritime power’ role conception
+President Jokowi supported a maritime power role conception that brought
+with it significant changes in Indonesia’s approach to ASEAN. Until Jokowi
+came to power in 2014, the regional leader role had been an enduring part
+of Indonesia’s foreign policy role set. Beginning with President Suharto’s
+support for the founding of ASEAN in 1967, the organisation quickly
+became the centre of Indonesia’s concentric circles of engagement with the
+world. Regional integration was seen as a tool to maintain the country’s
+preferred bebas dan aktif (independent and active) approach to foreign policy by fostering cooperative relations in Southeast Asia and insulating
+against the influence of external powers. Accordingly, Indonesia took an
+active role in maintaining regional stability and promote peaceful dialogue
+through conflict management efforts as well as institution-building (Anwar,
+1994, pp. 207–214). Following the fall of Suharto in 1998 and the onset of
+democratic reforms or reformasi, a period of domestic turmoil forced
+Indonesian leaders to focus on domestic stabilisation and take a low profile
+in regional affairs. With greater democratic consolidation, however, the
+country reinvigorated its presence in ASEAN.
+After reformasi, democracy became an essential part of the country’s
+self-understanding and also provided a new rationale for its regional
+approach. Under Indonesia’s first democratically elected President Susilo
+Bambang Yudhoyono (2004-2014), the country not only maintained its traditional role as a contributor to regional stability and harmony, but also
+exerted intellectual leadership to define new norms and values in ASEAN
+(Sukma, 2011). Especially during Yudhoyono’s second term, Indonesia also
+positioned itself as a ‘regional power with global concerns’ to ensure
+ongoing coherence between the country’s increasingly global orientation
+and continued emphasis on ASEAN as the cornerstone of its foreign policy
+(Natalegawa, 2018, p. 29).
+Newcomer President Jokowi, however, wanted a foreign policy agenda
+directed at enhancing national sovereignty and autonomy. In the words of
+
+38
+
+P. DANNHAUER
+
+one academic, ‘he didn’t really care about political image. He was more
+concerned about whether his engagement or Indonesia’s engagement in
+one of the projects abroad really brings benefit for Indonesia’ (Interview,
+August 2021). The President defined national interests primarily in material
+terms and, accordingly, and prioritised economic diplomacy. As a recent
+biography written by Jokowi’s former Chief of Staff (2015-2019) described,
+the President
+did, in fact, enter politics with considerable international experience, though
+it was experience with a specific focus pertaining to his business
+background. ( … ) this international experience all came with a very clear
+and explicit focus: it was intended to generate sales, to advance his
+company, and later, as Asmindo’s Surakarta chairman, to advance the local
+furniture industry more generally. This formative understanding of
+interactions with the world beyond Indonesia did play into his ideas about
+foreign policy when he became President (Prasodjo, 2021, p. 207).
+
+To enhance national development and resilience, Jokowi emphasised
+Indonesia’s maritime identity already during his presidential campaign. In
+their mission statement, for instance, Jokowi and his running mate Jusuf
+Kalla referenced Indonesia’s personality as an archipelagic country and
+maritime nation (Detik, 2014). Upon coming into office, the President promoted this role conception as part of his Poros Maritim Dunia (Global
+Maritime Fulcrum or PMD) doctrine. In his 2015 State Speech, the President
+urged his domestic audience that Indonesia must ‘show the world that the
+Indonesian nation is a maritime nation. A nation that maintains and utilizes
+its seas with full sincerity. That is the first part of our effort to become the
+Global Maritime Fulcrum [PMD]’ (Widodo, 2015).
+Such a maritime orientation was not a new feature of Indonesia’s foreign
+policy. The 1957 Wawasan Nusantara (Archipelagic Outlook), also called the
+Juanda Declaration, classified Indonesia’s many islands as one united archipelago. By declaring its internal waters as a historically, economically, and
+geographically integral part of the country, it became an essential component of post-independence national integration efforts (Cribb & Ford, 2009,
+p. 38). In addition, PMD referenced the glory days of the Sriwijaya
+(7th–12th century) and Majapahit (13th–16th century) empires, which were
+recognized as maritime hubs of the pre-modern era, thereby constructing
+a vision of Indonesia’s power projection in the maritime domain
+(Rosyidin, 2021).
+Still, the PMD was an innovation in so far as that the reinvigoration of
+Indonesia’s identity as an archipelagic state prompted a reconceptualization
+of Indonesia’s geostrategic interests as a fulcrum between two oceans, and
+a re-evaluation of the country’s interests in the face of shifting power balances in the Indo-Pacific. It also firmly placed Indonesia as an emerging middle power, a vision which the President had already defined during his
+
+THE PACIFIC REVIEW
+
+39
+
+2014 campaign and continued to reference in his depictions of Indonesia
+as negara besar (big country) in the following years (Widodo, 2015, 2017).
+As Professor Anak Agung Banyu Perwita from the Indonesia Defense
+University described, ‘the concept of Indo-Pacific is very much the concept
+that Indonesia should go beyond, beyond Southeast Asia’. Furthermore,
+Indonesia was trying and will always try to play a major role in the
+international relations, not only in terms of ASEAN. ( … ) when we talk about
+whether Indonesia should move up or should go beyond ASEAN, it means
+that Indonesia to some extent will achieve the status of middle power
+(Interview, 28 July 2021).
+
+Jokowi first outlined the five pillars of the PMD doctrine at the 2014 East
+Asia Summit. Notably the first three pillars principally concerned domestic
+issues. They comprised rebuilding Indonesia’s maritime identity, maintaining and managing marine resources, developing maritime infrastructure
+and connectivity, and cooperation in the maritime domain on conflict areas
+such as illegal fishing. Only the latter two pillars, dealing with territorial disputes, and enhancing maritime defence capabilities covered foreign policy
+issues (Connelly, 2015, p. 8). The release of Presidential Regulation No. 16/
+2017, the Kebijikan Kelautan Indonesia (Indonesian Ocean Policy) further
+reiterated Indonesia’s sovereignty over its waters and substantiated PMD’s
+goals by outlining a policy framework for maritime affairs, especially allocating administrative responsibilities to realise the maritime drive
+(Humas, 2017).
+The PMD was thus inherently domestically focussed, and the maritime
+sphere predominantly conceptualised as a key domain for development
+opportunities. In line with this outlook, the foreign policy outreach was widened to expand relations with Indian Ocean states through defence, political and economic engagements (Nabbs-Keller, 2014, p. 7). The country
+participated in various multilateral fora, and most prominently, reinvigorated its engagement in the Indian Ocean Rim Association (IORA) to execute its maritime drive (JakartaGlobe, 2017). In line with Jokowi’s preference
+for direct and benefit-oriented engagements, Indonesia also established
+several maritime bilateral partnerships. As former Vice Minister for Maritime
+Sovereignty, Coordinating Ministry for Maritime Affairs (2015 2018) and
+Ambassador to Germany, Arif H. Oegroseno recalled, ‘this one of the great
+examples of Indonesian independent and active foreign policy, where we
+can pursue our foreign policy independently and actively seeking for partners, actively seeking for new ideas without any political conditionalities or
+burdens’ (Interview, 8 July 2021).
+ASEAN, meanwhile, was no longer placed at the centre of foreign policy.
+In the President’s eyes, the organisation was overly bureaucratic and slow.
+At the 30th ASEAN Summit, for instance, Jokowi called upon all member
+
+40
+
+P. DANNHAUER
+
+states to make meetings ‘more effective and efficient’ (Halim, 2017).
+Despite ongoing engagement in the organisation’s regional meetings,
+Indonesia’s role was therefore limited to participation with little investment
+of diplomatic capital.
+Shuttle diplomacy on the South China Sea dispute illustrates this shift. In
+2012, during the Presidency of SBY, Foreign Minister Natalegawa mediated
+among member states to secure a joint communique after then-Chair
+Cambodia refused to issue a statement that was critical of China’s assertiveness in the South China Sea. Under the leadership of Jokowi, there was no
+comparable consensus-building by Foreign Minister Retno Marsudi when
+Cambodia withdrew its support for a statement after the 2016
+China–ASEAN ministerial meeting, because President Jokowi was cautious
+not to compromise economic relations with China (Connelly, 2016, p. 9).
+Jokowi’s lack of agency on issues that do not directly serve his economic
+and development priorities, therefore, meant that Indonesia’s leadership in
+ASEAN was diminished. This limited presidential agency in ASEAN was also
+the reason why Indonesia’s agency in constructing AOIP was not prompted
+or substantially shaped by the President. As one foreign policy
+expert noted,
+there was no AOIP in the discussion of the first term of the Jokowi
+administration ( … ) even the definition of maritime diplomacy in the
+Whitebook on maritime diplomacy was initially not mentioning that there
+should be an ASEAN Outlook. Yes, ASEAN was the primary tool of maritime
+diplomacy but not in the outlook sense of the word. Secondly, if you look at
+the strategic planning document of the Foreign Ministry from 2015 to 2019,
+there’s only one bit that has the word Indo-Pacific on it and that’s in
+reference to a previous attempt by Marty to have an Indo-Pacific Treaty. So
+it’s clear that at the beginning of Jokowi’s term there was no thought
+process of an Indo-Pacific strategy (Interview, September 2021).
+
+In sum, President Jokowi supported a maritime power role conception
+that centred on Indonesia’s identity as a fulcrum at the Indian and Pacific
+Oceans and served his economic and development priorities. The
+President’s disengagement from issues outside his narrow domestic agenda
+also meant, however, that Indonesia’s agency on defining norms, principles
+and values in ASEAN diminished.
+
+Changing geopolitics and Indonesia’s leadership renewal
+In 2017, the context in which Indonesian foreign policy operated changed.
+Initially driven by Japan, major powers had reconfigured their strategic conception of the region from Asia- to Indo-Pacific as early as 2007 when
+Japanese Prime Minister Shinzo Abe talked about the ‘confluence of two
+seas’ in front of the Indian parliament (Abe, 2007). China’s announcement
+
+THE PACIFIC REVIEW
+
+41
+
+of the Belt and Road Initiative in 2013 also significantly contributed to the
+materialisation and institutionalisation of the Indo-Pacific through extensive
+investment in connectivity across the region. Indeed, the rise of the IndoPacific concept is often directly associated with the revival of the
+Quadrilateral Security Dialogue (Quad) between the US, India, Japan and
+Australia, who adopted the Indo-Pacific as their regional framework to
+respond to China’s growing influence and compensate for shortcomings of
+the current institutional architecture (Wilson, 2018).
+Notably, during this time then Indonesian Foreign Minister Natalegawa
+had already called for an ASEAN-led response to these developments. In
+2013, Natalegawa first introduced his idea for an Indo-Pacific Treaty of
+Friendship and Cooperation in a keynote address to an Indonesia conference at Washington’s Centre for Strategic and International Studies. He
+argued the trajectory of the Indo-Pacific region is of ‘profound interest’ to
+Indonesia and a ‘new paradigm’ for international relations needed. He thus
+proposed a model based on the 1976 Treaty of Amity and Cooperation in
+Southeast Asia (TAC) to which all dialogue partners had acceded
+(Natalegawa, 2013).
+In the Foreign Minister’s view, this would move relations among the
+region’s states beyond the current ‘hub and spokes’ structure of ASEAN-centred mechanisms by offering an independent code for the whole IndoPacific region. His initiative was placed on ASEAN’s agenda but met with
+little enthusiasm as member states remained reluctant to take a joint position on developments in the Indo-Pacific region. Although the 2014 ASEAN
+Ministerial Meeting tasked senior officials to explore options for a regional
+framework, the Indonesian initiative disappeared for the coming years and
+Natalegawa’s time in office ended soon after (Weatherbee, 2019, p. 3).
+Indonesia’s Indo-Pacific concept was only injected with new momentum
+a few years later. A strong statement delivered by US Secretary of State Rex
+Tillerson singled out China as a subversive and provocative threat to the
+rules-based international order in October 2017 (Tillerson, 2017). One
+month later, at the 2017 APEC meeting in Vietnam, US President Donald
+Trump advanced the US Free and Open Indo-Pacific (FOIP) concept. This
+intensified tensions between the US and China and compromised ASEAN’s
+ability to maintain autonomy. ASEAN members were ambivalent in their
+view of the Quad, with some worrying an endorsement of FOIP would
+alienate China, which remains a key partner (Le Thu, 2018, p. 19). At the
+same time, the emergence of new regional concepts was seen to undermine ASEAN’s position at the centre of the wider multilateral architecture.
+The rise of new bi- and mini-lateral arrangements thus raised fears over
+ASEAN’s future relevance among member states (Tang, 2018, p. 51).
+
+42
+
+P. DANNHAUER
+
+This new sense of urgency within ASEAN provided policymakers with the
+window of opportunity to reassert Indonesia’s leadership role. The Foreign
+Ministry initiated consultations with domestic and international partners
+the same year and started drafting an alternative Indo-Pacific framework,
+which was previewed in a speech by Foreign Minister Marsudi at CSIS
+Jakarta (Marsudi, 2018). In August 2018, Indonesia formally presented its
+Indo-Pacific concept at the 8th Ministerial Meeting of the East Asia Summit
+and both President and Foreign Minister promoted the initiative at various
+occasions on the regional level in the following months. Having undergone
+intensive negotiations and adjustments, Indonesia’s Indo-Pacific
+Cooperation Concept was formally endorsed by ASEAN as the rebranded
+ASEAN Outlook on the Indo-Pacific in June 2019 (Nabbs-Keller, 2020, p. 25).
+The key figures involved in the development and promotion of an IndoPacific framework were all Kemlu officials. They included the Director
+General of ASEAN Cooperation Jose Antonio Marato Tavares and the former
+Head of the Badan Pengkajian dan Pengembangan Kebijakan (Policy
+Analysis and Development Agency or BPPK) Siswo Pramono, who was
+dubbed the ‘brain’ behind drafting the Indo-Pacific Cooperation Concept
+(Interview with security expert, July 2021; Interview with researcher, August
+2021). Damos Agusman, then Kemlu’s Director General for International
+Law and Treaties, was also mentioned as an important figure in the process
+(Arif, 2021, p. 381).
+Foreign Minister Marsudi also became an integral part of the lobbying
+for and promotion of the IPC concept within ASEAN. The extent of her lobbying for the AOIP even earned her the nickname ‘Miss Indo-Pacific’ among
+ASEAN counterparts (Bayuni, 2019). In contrast to the Indo-Pacific Treaty
+proposed by then Foreign Minister Natalegawa, the Indo-Pacific concept
+was not Marsudi’s original initiative. However, the development of the
+concept was an opportunity for her to make a mark before the end of her
+term. According to the Deputy Executive Director for Research at
+the Centre for Strategic and International Studies Jakarta (CSIS)
+Shafiah Muhibat,
+she tasked many of her Director Generals, at least two or three people were
+working on it [AOIP] seriously to actually come up with new ideas on what
+to put into the Indo-Pacific drafts. It really meant a lot to her (Interview, 13
+August 2021).
+
+Kemlu’s commitment to leadership
+The Foreign Ministry were driven to promote a shared ASEAN vision due to
+their enduring commitment to the regional leader role conception. As
+ASEAN stayed silent on developments in the Indo-Pacific concept despite
+
+THE PACIFIC REVIEW
+
+43
+
+the geopolitical contest heating up, Kemlu saw their only option to uphold
+these values and maintain the regional autonomy by proactively shaping it.
+Diplomats continued to see ASEAN as the central platform to exercise norm
+setting in the wider region, guided by the values and principles defined
+within the Constitution, relevant laws, and the Rencana Pembangunan
+Jangka Panjang Nasional (Long-Term Development Plan or RPJPN) - in this
+case, RPJPN 2005-2025 (Interview with diplomat, 4 August 2021).
+Kemlu’s agency on the ASEAN level was thus motivated by the desire to
+reassert ownership over the Indo-Pacific narrative and urging other ASEAN
+states to abandon their reactive stance. As Aristyo Rizka Darmawan, a
+Lecturer at Universitas Indonesia, described,
+Indonesia is in the centre of ASEAN and is also in the centre of this
+geopolitical situation in the Indo-Pacific ( … ) We don’t want ASEAN to
+become geopolitically contested and become the victim of the geopolitical
+rivalry. And how do we create a more effective and more relevant ASEAN?
+( … ) Let’s create an intellectual concept, a geopolitical concept and that’s
+how the ASEAN Outlook on Indo-Pacific came into being (Interview, 16
+July 2021).
+
+This approach is consistent with elites’ perception of the organisation as
+a vehicle to project influence despite limited national capabilities. As such,
+AOIP still centres on ASEAN but also opens a playing field for external partners to be involved (Interview with Shafiah Muhibat, 13 August 2021). Also,
+the current Director General (DG) of ASEAN Cooperation at the Ministry of
+Foreign Affairs Sidharto Suryodipuro confirmed that membership in ASEAN
+continues to facilitate Indonesia’s pursuit of a more integrative policy
+beyond the immediate region, despite its limited capabilities (Interview, 27
+August 2021).
+But Kemlu’s role enactment also underlines the order-building function
+of the Indonesian leadership role. Elites view ASEAN not only as a strategic
+buffer serving national interests but use the organisation as a platform to
+encourage their neighbours to take ownership of the regional order by
+forming shared objectives and roles through common institutions
+(Wicaksana, 2016). By reclaiming the leadership role, diplomats could
+ensure ASEAN consensus on the key norms and principles which should
+underpin a prosperous and peaceful Indo-Pacific order as well as ASEAN’s
+central place within it. In the words of one senior diplomat,
+in the past, ASEAN would say this is what we need, and our partners would
+contribute. But the thinking behind this [AOIP] is that ASEAN Member States
+would work it out among themselves what kind of cooperation, what kind
+of projects they want to do ( … ) and then invite its partners (Interview,
+August 2021).
+
+44
+
+P. DANNHAUER
+
+Previous research also argued that while Indonesia’s agency in the IndoPacific was grounded in efforts to prevent domination from any major
+power, its inclusive order-building approach was rooted in elites’ specific
+view of regional developments through a lens of ambivalence between
+leadership aspirations and suspicion of the outside world as well as a harmony-oriented political culture (Wicaksana, 2021). Indeed, the rationale for
+Indonesia’s inclusive approach to promoting an Indo-Pacific concept was
+located by Kemlu officials in the country’s long history of peacefully navigating great power rivalries.
+Siswo Pramono explained that the stance pursued by the ancient
+Sriwijaya and Majapahit kingdoms, who were caught between the ancient
+empires of today’s China and India, continues to inspire Indonesia’s free
+and independent strategic outlook.3 Pramono drew a parallel between the
+old strategy of accommodation and diplomacy pursued by Sriwijaya despite
+persistent rivalries between the greater empires, and Indonesia’s current
+position between China and the US.4 These civilisational origins and traditions of synergy and inclusivity informed its inclusive order-building
+approach in the Indo-Pacific.
+Moreover, Pramono maintained that Indonesia holds a unique perspective due to its struggle to overcome an ‘archipelagic fragility’, reflecting
+scholarly analyses of Indonesia’s foreign policy as understood in terms of
+vulnerability and weakness.5 Indeed, this constituted a key factor forcing
+Indonesia to maintain non-alignment and outreach, while also embracing
+an open form of nationalism to maintain unity, based on the doctrine of
+‘nationalism in the garden of internationalism’ first promoted by President
+Sukarno (Interview, 4 August 2021).
+At the same time, the pursuit of the leadership role points to ministry
+officials’ perception of their country’s global potential and ambitions to
+position Indonesia as recognised middle power. Regarding Indonesia’s reorientation towards the maritime domain, a senior diplomat for example
+pointed out that,
+the concept is new, the terminology is new. But the thinking behind it is not
+new. When I was in elementary school, this is something that we were
+taught, that Indonesia lies in between two oceans and two continents, Asia
+and Australia. That this is a very strategic region. That it has always been a
+trading region, it has always been open to not only international trade, but
+also to international interaction (Interview, August 2021).
+
+Indonesia has long held a historical self-understanding as a ‘quiet and
+benevolent leader’ in Southeast Asia (Tan, 2007, p. 158). This perspective
+continues to be relevant. As one Ambassador stated, ‘Can we behave irresponsibly as the largest nation in Southeast Asia? Of course, we can. But
+those things don’t happen because we chose not to’ (Interview, July 2021).6
+
+THE PACIFIC REVIEW
+
+45
+
+Statements from Foreign Ministry officials thus reveal a sense of Indonesia’s
+potential and ambitions for Indonesia to play a greater role on the global stage.
+Kemlu officially integrated the middle power concept into the mediumterm development plan in 2015 (Karim, 2018, p. 353). Arguably, the notion
+of middle power is a contentious one in Indonesian foreign policy discourse. One academic, for instance, outlined that the concept of middle
+power has less appeal for Indonesia, because it did not match the country’s
+increased confidence in its global role following the reform period
+(Interview, August 2021). A government advisor also emphasised that while
+the concept is important as a driver of foreign policy, Indonesia had significant ‘homework’ to do to actually realise this role (Interview, July 2021).
+Notwithstanding this ambivalence, the promotion of an Indonesian IndoPacific concept, according to senior Kemlu diplomat Yayan Mulyana, signalled that ‘we want and we are capable to go beyond our boundaries’
+(Interview, 18 August 2021).
+Thus, policy leaders from Kemlu remained commitment to ASEAN as the
+central platform for Indonesia’s foreign policy and therefore preferred a
+regional leader role conception. By developing and promoting shared principles to underpin the Indo-Pacific order in ASEAN, diplomats sought to
+uphold the region’s strategic autonomy in the face of intensifying great
+power rivalries, while also enhancing Indonesia’s credentials as an emerging
+Indo-Pacific power.
+
+Role integration and Jokowi’s belated support
+Although President Jokowi showed little investment in regional leadership,
+therefore, intensifying geopolitical dynamics prompted Kemlu to reclaim
+the leadership mantle in ASEAN. Kemlu’s pursuit of the leadership role was
+made possible by the nature of foreign policy decision-making under
+Jokowi. In considering the influence of the President’s outlook on foreign
+policy, one high-level diplomat maintained, ‘Leaders always matter, personalities matter. ( … ) But at the same time also the foreign affairs actors deal
+with matters, so there’s always this interaction’ (Interview, August 2021).
+One Kemlu diplomat also pointed out that the Foreign Ministry now enjoys
+greater autonomy because, in contrast to President Yudhoyono, Jokowi
+does not have a special staff or a personal advisor for foreign policy in the
+presidential palace (Interview, July 2021).
+Specifically, there was a kind of ‘division of labour’ in that the President
+trusted the Foreign Ministry to craft policy, especially in areas that were not
+of direct interest. As it did not serve Jokowi’s narrow economic and development priorities, ASEAN policy fell predominantly into the responsibility of
+
+46
+
+P. DANNHAUER
+
+the Foreign Ministry. One interviewee summarised Jokowi’s line of thinking
+as such: ‘I trust you to handle the foreign policy, the boring stuff ( … ) if
+you need my help, you come see me and explain to me, and if I think it’s
+important, I’ll bring the political leverage as necessary’ (Interview with foreign policy expert, September 2021). Accordingly, the reinvigoration of
+Indonesia’s leadership on an Indo-Pacific vision for ASEAN was also not
+prompted by the President. In fact, Jokowi did not provide meaningful
+input on the substance of the cooperation concept at all (Interview with
+academic, August 2021).
+Notwithstanding, President Jokowi ultimately supported Kemlu’s promotion of the regional leader role by using his political leverage to promote
+consensus among ASEAN on AOIP. At the 32nd ASEAN Summit, for instance,
+the President maintained that a shared regional concept would be ‘crucial
+for ASEAN to remain relevant, to be able to perform its centrality and to
+demonstrate ASEAN’s ability to manage strategic environmental change’
+(Setkab, 2018). At the following summit, he added it would also provide a
+new direction for ASEAN’s cooperation with external partners (SetKab, 2018).
+The reason why Jokowi sanctioned an active role in ASEAN was because,
+in this instance, the pursuit of the leadership role aligned with his own goal
+of attracting investment and infrastructure and, to some extent, enhanced
+the legitimacy of his overarching domestic priorities. Thus, regional leader
+and maritime power role preferences were integrated and allowed Kemlu
+to exercise norm-setting in the region but also meant that Indonesia’s
+approach to leadership in ASEAN was heavily shaped by Jokowi’s domestic priorities.
+The AOIP centred around functional cooperation goals in the maritime
+domain, climate change and disaster risk reduction, sustainable development and economic cooperation (ASEAN, 2019). This focus on economicfunctional cooperation was a non-controversial objective to accommodate
+reluctant ASEAN member states, who resisted any proposals for a more
+institutionalised security architecture (Interview with senior researcher,
+August 2021). ASEAN members fundamentally differed in their view of geopolitical developments, with very different perceptions of China’s presence
+as well as the revival of the Quad (Le Thu, 2018). The maritime emphasis of
+AOIP alienated especially land-based member states such as Myanmar or
+Laos who were less invested in articulating an Indo-Pacific agenda. In fact,
+it was initially uncertain whether the country would succeed in engendering consensus at all (Bayuni, 2018).
+Yet the emphasis on practical cooperation areas was also a result of
+Jokowi’s emphasis on economic growth to enhance domestic development
+as well as Indonesia’s defence capacities to ultimately preserve state sovereignty and the country’s ability to pursue its interests (Rosyidin, 2017, p.
+
+THE PACIFIC REVIEW
+
+47
+
+183). Regional stability has been at the core of Indonesia’s pursuit of
+domestic purposes like state-building, economic development, and regime
+consolidation ever since the Suharto era. One of Suharto’s main priorities
+upon coming to power was economic reconstruction in the face of stagnating production rates, a decline in manufacturing rates and huge external
+debts. Foreign policy was reconceptualised to meet these needs. The introduction of pembangunan nasional (national development) was an expression of the regime’s belief that an independent and active foreign policy
+could only be pursued if the country built internal strength (Sukma, 1995,
+pp. 310–311).
+Accordingly, the framing of the Indo-Pacific concept as a platform for
+cooperation strongly resonated with the President’s interest in maritime
+cooperation and connectivity, as exemplified by Jokowi’s proposal for
+Jakarta to host an Indo-Pacific Connectivity forum only shortly after the
+adoption of AOIP (Septiari, 2019). As one academic outlined, ‘in the end, it’s
+framed as an economic cooperation initiative. And the President is comfortable with that because it resonates with his own domestic political agenda’
+(Interview, August 2021).
+Secondly, Kemlu’s concept for an ASEAN Indo-Pacific vision was intended
+to provide an inclusive alternative to Indo-Pacific strategies put forward by
+other regional powers that laid too much stress on excluding China.
+Indonesian elites remained overall cautious regarding China due to concerns over economic exploitation and political subordination as well as
+ongoing rejection of the domination of any major power (Yeremia, 2022).
+At the same time, as one diplomat declared, ‘if we had to choose between
+America and China, it would be a disaster’ (Interview, August 2021). The
+promotion of dialogue and peaceful relations through ASEAN-centred institutions was thus consistent with Indonesia’s traditional emphasis on maintaining equidistance between the great powers. As one Indonesian
+Professor described, Indonesia’s cooperation concept was set up ‘to make
+sure that ASEAN is not working under the definition of the United States,
+which to some degree may then offend China. This is what’s behind it, and
+it is very, very implicitly. And that’s what Indonesia always does. We just try
+to stay in the middle’ (Interview, July 2021).
+However, the inclusivity of Indonesia’s approach also aligned well with
+the President’s own interest in maintaining good relations with China.
+Jokowi had moved notably closer toward China than his predecessor. As a
+senior foreign policy researcher explained, the prospect of foreign investments under the umbrella of the Belt and Road Initiative acted as a
+‘sugarloaf’, catering to his ambitious infrastructure development goals
+(Interview, July 2021). In 2017, China was indeed Indonesia’s biggest export
+
+48
+
+P. DANNHAUER
+
+destination with more than 13% of the country’s total exports (World
+Bank, 2017).
+Another interviewee also contended the giant neighbour is not only an
+interesting partner with considerable financial resources. It is also seen as
+more ‘generous’ and suitable for Jokowi’s transactional approach. For
+instance, China provided immediate assistance on pressing issues such as
+the Nanggala submarine incident or the COVID-19 vaccines.7 Importantly
+this comes without imposing conditions: ‘China came to Indonesia by asking ‘What do you need? ( … ) They give. China basically gives anything and
+that’s what the Indonesian government wants’ (Interview with academic,
+July 2021). Several of Widodo’s cabinet members therefore maintained
+good relations with Beijing. In 2019, Jokowi’s ‘Mr Fix-it’ Luhut Pandjaitan
+offered 28 infrastructure projects to China and implemented a coordinating
+task force to oversee the realisation of BRI projects (Straits Times, 2019).
+Also Minister of State-Owned Enterprises Erick Thorir has facilitated largescale investments from China (Reuters, 2021). Both have travelled to
+Beijing several times and repeatedly expressed their commitment to protecting Chinese business interests.
+In sum, for Kemlu diplomats, the regional leader role remained the preferred role conception to exercise order-building to maintain strategic
+autonomy from rival US and China while enhancing Indonesia’s credentials
+as a significant actor in the Indo-Pacific region. Jokowi, meanwhile, promoted a maritime power role for Indonesia to make use of new opportunities to boost cooperation on maritime security and connectivity in the
+Indo-Pacific arena. In the case of AOIP, however, Jokowi’s domestic interests
+aligned with Kemlu’s leadership ambitions in ASEAN. Their role preferences
+were therefore integrated in the role conception, allowing policymakers to
+reclaim Indonesia’s leadership mantle in ASEAN despite the President’s limited investment in the organisation. This integration also meant that the
+country’s approach to constructing AOIP was characterised by functional
+cooperation objectives, while downplaying the strategic dimension of
+the AOIP.
+
+Conclusion
+Indonesia’s leadership in ASEAN declined significantly after 2014, as
+President Jokowi promoted his preferred maritime power role conception
+as embodied in the Poros Maritim Dunia. Yet the country played a key role
+in drafting the concept and lobbying for the agreement of the ASEAN
+Outlook on the Indo-Pacific (AOIP), a vision document that reaffirms ASEAN
+centrality and reiterates the importance of peace and cooperation in the
+Indo-Pacific region. Current explanations for Indonesia’s leadership on AOIP
+
+THE PACIFIC REVIEW
+
+49
+
+do not fully explain this change. The middle power argument does not
+explain why Indonesia took a leading role in defining norms and principles
+for ASEAN, when Jokowi took a primarily ‘hands-off’ approach to foreign
+policy and prioritised his domestic agenda. Accounts of Kemlu’s agency
+provide an answer to the question who promoted leadership when
+President Jokowi was relatively disengaged from foreign policy but do not
+explain why the President as the central decision-maker on foreign policy
+supported leadership in AOIP.
+This article therefore set out to more accurately explain why Indonesia
+took a leading role in constructing AOIP by investigating the decision-making dynamics between President and Foreign Ministry. In doing so this
+research made a two-fold contribution. Firstly, the article developed an original ‘role integration’ model. This model adds to the existing scholarship
+on domestic role dynamics, which is currently focussed primarily on competition over the role conception. By elaborating when and why roles may
+not be contested, this model provides an alternative strategy to disaggregate the NRC without focussing on intra-ego conflicts and showed that different roles can be integrated to achieve cooperation in the
+role conception.
+Secondly, the article offered new empirical findings on Jokowi’s role in
+the construction of AOIP. Specifically, the results presented here indicate
+that while the President did not share Kemlu’s enduring commitment to
+ASEAN as the country’s central diplomatic platform, in the case of AOIP
+Jokowi supported the Foreign Ministry’s leadership ambitions because an
+active role in ASEAN supported his economic and development objectives.
+These findings counter the conventional narrative of Jokowi’s disengagement from foreign policy and provide a more nuanced account of President
+Jokowi’s agency in ASEAN.
+Recognising Jokowi’s pragmatic and outcome-oriented approach to
+Indonesia’s role in ASEAN helps understand when and how the country
+exerts diplomatic capital on regional issues and is particularly pertinent in
+view of Indonesia’s upcoming chairmanship in ASEAN in 2023. Future
+research should therefore pay closer attention to the decision-making
+dynamics between different foreign policy actors to comprehensively
+explain why Indonesia takes the positions it does in ASEAN.
+
+Notes
+1.
+
+2.
+
+The concept of ASEAN centrality emphasises the organisation’s position at the centre of
+and bridge between a variety of multilateral mechanisms in East Asian regionalism, such
+as the East Asia Summit or the ASEAN Regional Forum (Caballero-Anthony, 2014,
+p. 565).
+For a detailed discussion of the significance of the West Papua issue in Indonesian
+foreign policy see Wangge & Lawson, 2021.
+
+50
+
+P. DANNHAUER
+3.
+4.
+5.
+
+6.
+
+7.
+
+H.E Dr. Siswo Pramono spoke to the author in his personal capacity.
+Although rather than accommodation, Indonesia today relies on a nonalignment strategy.
+The literature has long pointed to a pervasive sense of weakness in Indonesian foreign
+policy based on Indonesia’s postcolonial condition and associated external dependence,
+internal diversity, and fears over outside interference due to its resource wealth
+(Weinstein, 1967, 1972). On the other hand, scholars also noted that this vulnerability is
+coupled with a sense of regional entitlement emerging from revolutionary
+achievements, the country’s size, strategic location and natural resources (Leifer, 1983,
+p. 173).
+Notably, its reliance on ASEAN also meant that Kemlu officials had to significantly adjust
+their approach to AOIP to the expectations of ASEAN counterparts who held diverging
+views of geopolitical developments as well as the maritime emphasis of AOIP. Thus,
+whereas Natalegawa proposed a treaty, Kemlu’s 2018 concept was presented as a less
+legalistic approach to accommodate ASEAN’s informal decision-making (Interview with
+diplomat, August 2021). This underlines the ongoing constraint on Indonesia’s
+leadership role posed by ASEAN’s institutional environment and limited convergence
+among member states (Quayle, 2018).
+In April 2021, Indonesia’s KRI Nanggala-402 submarine sank in the Bali Sea during a
+torpedo exercise. China was the first country to offer its assistance in salvaging the ship.
+Given the discovery of potential Chinese maritime reconnaissance activities in
+Indonesian waters earlier that year, the motivation behind this support for the
+Indonesian military has been questioned (Nugroho & Marzuki, 2021).
+
+Acknowledgements
+I thank my PhD supervisors Professor Ian Hall, Professor Kai He and Dr Greta
+Nabbs-Keller for their guidance during the various stages of writing this paper. I
+also wish to thank the anonymous reviewer for their helpful comments.
+
+Disclosure statement
+No potential conflict of interest was reported by the author.
+
+Ethics approval
+This project has been approved by the Griffith University Human Research Ethics
+Committee (GU Ref No: 2021/166).
+
+Notes on contributor
+Pia Dannhauer is a PhD Candidate enrolled at the Griffith School of Government
+and International Relations at Griffith University, Brisbane, Australia.
+
+ORCID
+Pia Dannhauer
+
+http://orcid.org/0000-0003-4090-3979
+
+THE PACIFIC REVIEW
+
+51
+
+References
+Abe, S. (2007). Speech by H.E. Mr. Shinzo Abe, Prime Minister of Japan, at the
+Parliament of the Republic of India ‘Confluence of the Two Seas’. https://www.
+mofa.go.jp/region/asia-paci/pmv0708/speech-2.html.
+Agastia, I. (2021). Joko Widodo’s fleeting maritime ambitions: An actor-specific analysis of Indonesia’s global maritime fulcrum. Journal of Asian Security and
+International Affairs, 8(3), 304–323. doi:10.1177/23477970211039306
+Agastia, I. (2020). Understanding Indonesia’s role in the ‘ASEAN Outlook on the IndoPacific’: A role theory approach. Asia & the Pacific Policy Studies, 7(3), 293–305. doi:
+10.1002/app5.308
+Anon (2019, 20 March). Indonesia to propose projects worth US$91 billion for
+China’s Belt and Road. The Straits Times. https://www.straitstimes.com/asia/seasia/indonesia-to-propose-projects-worth-us91-bilion-for-chinas-belt-and-road.
+Anwar, D. F. (2020). Indonesia and the ASEAN outlook on the Indo-Pacific.
+International Affairs, 96(1), 111–129. doi:10.1093/ia/iiz223
+Anwar, D. F. (1994). Indonesia in ASEAN - Foreign Policy and Regionalism. Singapore:
+Institute of Southeast Asian Studies.
+Arif, M. (2021). Balancing with Jokowi’s characteristics: A neoclassical realism
+approach to indonesia’s foreign and security policies in the South China sea.
+Journal of Asian Security and International Affairs, 8(3), 370–390. doi:10.1177/
+23477970211041455
+ASEAN. (2019). ASEAN outlook on the Indo-Pacific. https://asean.org/speechandstatement/asean-outlook-on-the-indo-pacific/.
+Barnett, M. (1993). Institutions, roles, and disorder: The case of the Arab states system. International Studies Quarterly, 37(3), 271–296. doi:10.2307/2600809
+Bayuni, E. (2019). ASEAN unites in claiming centrality in Indo-Pacific region. The
+Jakarta Post. 12 July. https://www.thejakartapost.com/academia/2019/07/12/
+asean-unites-in-claiming-centrality-in-indo-pacific-region.html.
+Bayuni, E. (2018). Nations still oceans apart on Indo-Pacific future. The Jakarta Post. 19
+December.
+https://www.thejakartapost.com/academia/2018/12/19/nations-stilloceans-apart-on-indo-pacific-future.html.
+Bland, B. (2020). Man of Contradictions - Joko Widodo and the struggle to remake
+Indonesia. A Lowy Institute Paper. Melbourne: Penguin Books Australia.
+Breuning, M. (2011). Role theory research in international relations: State of the art
+and blind spots. In Role theory in international relations, (pp. 16–36). Oxon:
+Routledge.
+Brummer, K., & Thies, C. G. (2015). The contested selection of national role conceptions. Foreign Policy Analysis, 11(3), 273–293. doi:10.1111/fpa.12045
+Caballero-Anthony, M. (2014). Understanding ASEAN’s centrality: Bases and prospects in an evolving regional architecture. The Pacific Review, 27(4), 563–584. doi:
+10.1080/09512748.2014.924227
+Cantir, C., & Kaarbo, J. (2016). Domestic role contestation, foreign policy, and international relations. London: Taylor & Francis Group. http://ebookcentral.proquest.
+com/lib/griffith/detail.action?docID=4516481.
+Chafetz, G., Abramson, H., & Grillot, S. (1996). Role theory and foreign policy:
+Belarussian and Ukrainian compliance with the nuclear nonproliferation regime.
+Political Psychology, 17(4), 727–757. doi:10.2307/3792136
+
+52
+
+P. DANNHAUER
+
+Chandra, A. C. (2016). Regional economic community building amidst rising protectionism and economic nationalism in ASEAN. JAS (Journal of ASEAN Studies), 4(1),
+1–19. doi:10.21512/jas.v4i1.878
+Connelly, A. L. (2016). Indonesia in the South China Sea: Going it alone. Lowy Institute
+Analyses. https://www.lowyinstitute.org/sites/default/files/documents/Connelly%
+2C%20Indonesia%20in%20the%20South%20China%20Sea.pdf.
+Connelly, A. L. (2014). Indonesian foreign policy under President Jokowi. Lowy
+Institute.
+https://www.lowyinstitute.org/publications/indonesian-foreign-policyunder-president-jokowi.
+Connelly, A. L. (2015). Sovereignty and the sea: President Joko Widodo’s foreign policy challenges. Contemporary Southeast Asia, 37(1), 1–28.
+Cribb, R. B., & Ford, M. (2009). Indonesia Beyond the Water’s Edge: Managing an
+Archipelagic State. Singapore: Institute of Southeast Asian Studies.
+Detik (2014). Ini Visi Misi Jokowi-Jusuf Kalla. Detik News. https://news.detik.com/
+berita/2586880/ini-visi-misi-jokowi-jusuf-kalla/.
+Dosch, J. (2015). Relations Between ASEAN and China Two-level Games in Trade and
+Security. Internationales Asien Forum. International Quarterly for Asian Studies.
+M€
+unchen, 46(3/4), 279–312.
+Dosch, J. (2006). The Impact of Democratization on the Making of Foreign Policy in
+€dostasien Aktuell: Journal of Current
+Indonesia, Thailand and the Philippines. Su
+Southeast Asian Affairs, 25(5), 42–70.
+Grzywacz, A. (2020). Indonesia’s (inter)national role as a Muslim democracy model:
+Effectiveness and conflict between the conception and prescription roles. The
+Pacific Review, 33(5), 728–756. doi:10.1080/09512748.2019.1585387
+Halim, H. (2017). Jokowi encourages ASEAN to take on global challenges. The Jakarta
+Post. 30 April. https://www.thejakartapost.com/seasia/2017/04/30/jokowi-encourages-asean-to-take-on-global-challenges.html.
+Harnisch, S. (2011). Role theory: Operationalization of key concepts. In: Role theory in
+international relations, (pp. 7–15). Oxon: Routledge.
+Holsti, K. J. (1970). National role conceptions in the study of foreign policy.
+International Studies Quarterly, 14(3), 233–309. doi:10.2307/3013584
+Humas (2017). Presiden Jokowi Teken Perpres Kebijakan Kelautan Indonesia.
+Sekretariat Kabinet Republik Indonesia. https://setkab.go.id/presiden-jokowiteken-perpres-kebijakan-kelautan-indonesia/.
+Hurley, A., & Lee, T. (2021). Delayed ratification in environmental regimes:
+Indonesia’s ratification of the ASEAN agreement on transboundary haze pollution.
+The Pacific Review, 34(6), 1108–1137. doi:10.1080/09512748.2020.1801816
+JakartaGlobe (2017). IORA summit to produce ‘Jakarta Concord’. Jakarta Globe. 5
+March. https://jakartaglobe.id/news/iora-summit-produce-jakarta-concord.
+Jones, E. (2017). Sellout’ ministries and jingoes: China’s bureaucratic institutions and
+the evolution of contested national role conceptions in the South China sea.
+Foreign Policy Analysis, 13(2), orw059–379. doi:10.1093/fpa/orw059
+Karim, M. F. (2018). Middle power, status-seeking and role conceptions: The cases of
+Indonesia and South Korea. Australian Journal of International Affairs, 72(4),
+343–363. doi:10.1080/10357718.2018.1443428
+Karim, M. F. (2017). Role conflict and the limits of state identity: The case of
+Indonesia in democracy promotion. The Pacific Review, 30(3), 385–404. doi:10.
+1080/09512748.2016.1249908
+
+THE PACIFIC REVIEW
+
+53
+
+Karim, M. F. (2022). Role conflict in international relations: The case of Indonesia’s
+regional and global engagements. International Relations. doi:10.1177/
+00471178211073880
+Karim, M. F. (2021a). Role legitimation in foreign policy: The case of Indonesia as an
+emerging power under Yudhoyono’s presidency (2004–2014). Foreign Policy
+Analysis, 17(3), 1–19. doi:10.1093/fpa/orab010
+Karim, M. F. (2020). The limits of global human rights promotion: Indonesia’s ambivalent roles in the UN Human Rights Council. Contemporary Politics, 26(3), 351–370.
+doi:10.1080/13569775.2020.1720065
+Karim, M. F. (2021b). When trade and foreign policy collide: Indonesia in Doha development round. The Pacific Review, 34(4), 605–632. doi:10.1080/09512748.2020.
+1724189
+Kirste, K., & Maull, H. W. (1996). Zivilmacht und Rollentheorie. Zeitschrift F€
+ur
+Internationale Beziehungen, 3(2), 283–312.
+Laksmana, E. A. (2019). Indonesia as “Global Maritime Fulcrum”: A Post-Mortem
+Analysis. Asia Maritime Transparency Initiative. https://amti.csis.org/indonesia-asglobal-maritime-fulcrum-a-post-mortem-analysis/.
+Le Thu, H. (2018). Southeast Asian perceptions of the Quadrilateral Security
+Dialogue. https://s3-ap-southeast-2.amazonaws.com/ad-aspi/2018-10/SR%20130%
+20Quadrilateral%20security%20dialogue.pdf.
+Leifer, M. (1983). Indonesia’s foreign policy. 1st ed. London: George Allen & Unwin
+Ltd.
+Marsudi, R. (2018). Keynote speech: The Global Disorder: An Indonesian Perspective.
+https://www.youtube.com/watch?v=EVTl7-hoGqw.
+Nabbs-Keller, G. (2020). ASEAN Centrality and Indonesian Leadership in a Contested
+Indo-Pacific Order. Security Challenges, 16(3), 21–26.
+Nabbs-Keller, G. (2014). Strategic Clarity, Political Uncertainty: Prospects for Defence
+and Security under President Joko Widodo. In: New Perspectives on Indonesia:
+Understanding Australia’s Closest AsianNeighbour. Perth, Perth USAsia Centre. pp.
+2–24. https://perthusasia.edu.au/PerthUSAsia/media/Perth_USAsia/Publications/
+New-Perspectives-on-Indonesia-Understanding-Australias-Closest-Neighbour.pdf.
+Natalegawa, M. (2013). An Indonesian perspective on the Indo-Pacific. The Jakarta
+Post. 20 May. https://www.thejakartapost.com/news/2013/05/20/an-indonesianperspective-indo-pacific.html.
+Natalegawa, M. (2018). Indonesian foreign policy: Waging peace, stability and prosperity. In Aspirations with limitations, (pp. 15–32). Singapore: Institute of Southeast
+Asian Studies (ISEAS).
+Nugroho, S., & Marzuki, K. (2021). Urgent lessons from Indonesia’s submarine disaster.
+East Asia Forum. https://www.eastasiaforum.org/2021/06/30/urgent-lessons-fromindonesias-submarine-disaster/.
+Prasodjo, D. (2021). Jokowi and the New Indonesia: A Political Biography. Clarendon:
+Tuttle Publishing.
+Quayle, L. (2018). Indonesia, the ASEAN socio-cultural community, and the contingent profile of regional ‘great-power management. The Pacific Review, 31(2),
+131–150. doi:10.1080/09512748.2017.1327450
+Reuters (2021). Indonesia says China consortium to invest $5 billion in electric battery venture. Reuters. 2 April. https://www.reuters.com/article/us-china-indonesiaev-idUSKBN2BP0S4.
+Robison, R., & Hadiz, V. R. (2017). Indonesia: A tale of misplaced expectations. The
+Pacific Review, 30(6), 895–909. doi:10.1080/09512748.2017.1306578
+
+54
+
+P. DANNHAUER
+
+Rosyidin, M. (2017). Foreign policy in changing global politics: Indonesia’s foreign
+policy and the quest for major power status in the Asian Century. South East Asia
+Research, 25(2), 175–191. doi:10.1177/0967828X17706570
+Rosyidin, M. (2021). The cult of glory: National myth and the idea of Global Maritime
+Fulcrum in Indonesia’s foreign policy, 2014–2019. South East Asia Research, 29(3),
+297–314. doi:10.1080/0967828X.2021.1954484
+Rosyidin, M., & Pattipeilohy, S. C. H. (2020). Regionalism under challenge: Ideas and
+Joko Widodo’s foreign policy towards ASEAN, 2014-2019. JAS (Journal of ASEAN
+Studies), 8(2), 147–172. doi:10.21512/jas.v8i2.6596
+R€
+uland, J. (2009). Deepening ASEAN cooperation through democratization? The
+Indonesian legislature and foreign policymaking. International Relations of the
+Asia-Pacific, 9(3), 373–402. doi:10.1093/irap/lcp010
+€land, J. (2017). Democratizing foreign-policy making in indonesia and the democRu
+ratization of ASEAN: A role theory analysis. TRaNS: Trans -Regional and -National
+Studies of Southeast Asia, 5(1), 49–73. doi:10.1017/trn.2016.26
+Scott, D. (2019). Indonesia grapples with the Indo-Pacific: Outreach, strategic discourse, and diplomacy. Journal of Current Southeast Asian Affairs, 38(2), 194–217.
+doi:10.1177/1868103419860669
+Septiari, D. (2019). RI offers to host new Indo-Pacific forum. The Jakarta Post. 31
+October.
+https://www.thejakartapost.com/news/2019/10/31/ri-offers-host-newindo-pacific-forum.html.
+SetKab (2018). Indo-Pacific Concept Important for ASEAN: President Jokowi.
+Sekretariat Kabinet Republik Indonesia. https://setkab.go.id/en/indo-pacific-concept-important-for-asean-president-jokowi/.
+Setkab (2018). President Jokowi: Indo-Pacific Cooperation Should be Inclusive and
+Promote ASEAN Centrality. Sekretariat Kabinet Republik Indonesia. https://setkab.
+go.id/en/president-jokowi-indo-pacific-cooperation-should-be-inclusive-and-promote-asean-centrality-3/.
+Sukma, R. (2011). Do new democracies support democracy? Indonesia finds a new
+voice. Journal of Democracy, 22(4), 110–123. doi:10.1353/jod.2011.0057
+Sukma, R. (1995). The evolution of Indonesia’s foreign policy: An Indonesian view.
+Asian Survey, 35(3), 304–315. doi:10.2307/2645547
+Tan, P. J. (2007). Navigating a turbulent ocean: Indonesia’s worldview and foreign
+policy. Asian Perspective, 31(3), 147–181. doi:10.1353/apr.2007.0015
+Tang, S.-M. (2018). ASEAN’s tough balancing act. Asia Policy, 25(4), 48–52. doi:10.
+1353/asp.2018.0061
+Thies, C. G., & Breuning, M. (2012). Integrating foreign policy analysis and international relations through role theory. Foreign Policy Analysis, 8(1), 1–4. doi:10.
+1111/j.1743-8594.2011.00169.x
+Thies, C. G., & Sari, A. C. (2018). A role theory approach to middle powers: Making
+sense of Indonesia’s place in the international system. Contemporary Southeast
+Asia: A Journal of International and Strategic Affairs, 40(3), 397–421.
+Tillerson, R. (2017). Defining Our Relationship with India for the Next Century: An
+Address by U.S. Secretary of State Rex Tillerson. Center for Strategic & International
+Studies.
+https://www.csis.org/analysis/defining-our-relationship-india-next-century-address-us-secretary-state-rex-tillerson.
+Wangge, H. R., & Lawson, S. (2021). The West Papua issue in Pacific regional politics:
+Explaining Indonesia’s foreign policy failure. The Pacific Review, 0(0), 1–29. doi:10.
+1080/09512748.2021.1931417
+
+THE PACIFIC REVIEW
+
+55
+
+Weatherbee, D. (2019). Indonesia, ASEAN, and the Indo-Pacific cooperation
+concept. ISEAS Perspective47. Singapore: ISEAS Yusof Ishak Institute.
+Wehner, L. E., & Thies, C. G. (2014). Role theory, narratives, and interpretation: The
+domestic contestation of roles. International Studies Review, 16(3), 411–436. doi:10.
+1111/misr.12149
+Weinstein, F. B. (1967). Indonesian foreign policy and the dilemma of dependence:
+From Sukarno to Soeharto. Jakarta: Equinox Publishing.
+Weinstein, F. B. (1972). The uses of foreign policy in Indonesia an approach to the
+analysis of foreign policy in the less developed countries. World Politics, 24(3),
+356–381. doi:10.2307/2009754
+Wicaksana, I. (2021). How does Indonesia exercise agency in the contested and complex regional environment?. The Pacific Review. doi:10.1080/09512748.2021.
+1998202.
+Wicaksana, I. G. W. (2016). International society: The social dimensions of Indonesia’s
+foreign policy. The Pacific Review, 29(5), 741–759. doi:10.1080/09512748.2015.
+1047467
+Widodo, J. (2015). Pidato Kenegaraan Presiden Republik Indonesia 2015. https://
+www.liputan6.com/news/read/2293713/isi-lengkap-pidato-kenegaraan-perdanapresiden-jokowi.
+Widodo, J. (2017). Pidato Kenegaraan Presiden Republik Indonesia 2017. https://setkab.go.id/transkip-pidato-kenegaraan-presiden-republik-indonesia-dalam-rangkahari-ulang-tahun-ke-72-kemerdekaan-republik-indonesia-tahun-2017-pada-sidangbersama-dpr-ri-dan-dpd-ri-16-agustus-2017-di-gedung-dp/.
+Wilson, J. D. (2018). Rescaling to the Indo-Pacific: From Economic to security-driven
+regionalism in Asia. East Asia, 35(2), 177–196. doi:10.1007/s12140-018-9285-6
+World Bank. (2017). Indonesia Exports by country and region 2017. World Integrated
+Trade Solution World Bank. https://wits.worldbank.org/CountryProfile/en/Country/
+IDN/Year/2017/TradeFlow/Export.
+Yeremia, A. E. (2022). Indonesian diplomats’ and foreign policy scholars’ perceptions
+and their implications on Indonesian foreign ministry bureaucratic responses to a
+rising China. The Pacific Review, 35(3), 529–556. doi:10.1080/09512748.2020.
+1851293
+
+

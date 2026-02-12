@@ -1,0 +1,1041 @@
+Research Article
+
+The Malacca Strait,
+the South China Sea
+and the Sino-American
+Competition in the
+Indo-Pacific
+
+Journal of Asian Security
+and International Affairs
+8(2) 174–194, 2021
+© The Author(s) 2021
+Reprints and permissions:
+in.sagepub.com/journals-permissions-india
+DOI: 10.1177/23477970211017494
+journals.sagepub.com/home/aia
+
+Paweł Paszak1
+Abstract
+This article aims to highlight security dynamics of the US–China competition
+in the Indo-Pacific associated with the Malacca Strait and the South China Sea
+through the prism of Balance of Threat Theory. It is argued that the control
+over strategic lines of communication is a significant factor in the process of
+constructing threat perception of East and Southeast Asian states as they remain
+heavily reliant on maritime transportation of commodities and energy resources.
+The US navy is the major security provider in the maritime domain which makes
+China vulnerable to a potential naval blockade. China faces a double dilemma as
+the status quo is interpreted as potentially detrimental to its interests, but any
+attempts to undermine it are likely to prompt Asian states to join US balancing
+efforts. China’s geographical proximity, its rising military power and revisionist
+tendencies make the US the more desirable security partner to the region.
+Keywords
+Malacca, South China Sea, United States, China, India, Indo-Pacific
+
+Introduction
+China’s sustained economic and military rise and intensifying strategic
+competition with the US have become defining trends in international relations
+both on the political and academic levels. Among many themes, China’s rising
+naval capabilities have been a key feature of the debate as the maritime domain
+constitutes the bloodstream of the world economy and a major platform for
+1
+
+War Studies Academy, Poland.
+
+Corresponding author:
+Paweł Paszak, War Studies Academy, Jachtowa 12, Braniewo 14-500, Poland.
+E-mail: p.paszak@akademia.mil.pl
+
+Paszak
+
+175
+
+projecting military power. The US dominant position in the Western Pacific ‘has
+been, is, and will remain largely defined by sea power’ (Gampert, 2013, p. xi) or,
+as Barry Posen puts it, defined by its unrivalled ‘command of commons’ (Posen,
+2003, p. 8). The US is the only actor that can credibly deny access to sea lines of
+communication. Fiona Cunningham identifies naval blockade as a relatively lowrisk option across the escalation ladder that might help the US achieve limited
+political objectives, without resorting to nuclear threats (Cunningham, 2020).
+For China acquiring naval power sufficient to challenge the US in the Western
+Pacific is, therefore, an imperative not only for safeguarding its security but also
+achieving regional hegemony. Due to these reasons, China’s naval modernisation
+and strategy have attracted considerable attention in recent years (Brewster, 2018;
+Lim, 2017; Lim, 2020; Nan, 2009; Sheldon-Duplaix, 2016; Yoshihara & Holmes,
+2018). Li argued that China’s naval strategy and capabilities have been shifting
+from the near-coast defence, near-seas active defence, to far-seas operations (Li,
+2009, pp. 163–164). Similar conclusions were drawn by Sheldon-Duplaix who
+emphasised that China has embarked on a build-up aimed at making China a “sea
+power” mainly in the Indo-Pacific region to deter US intervention in Taiwan and
+to protect its trade in the Indian Ocean (Sheldon-Duplaix, 2016, p. 51). Lim and
+Brewster argue that the main motivation behind increasing activity in the Indian
+Ocean was to secure pivotal maritime lines of communications that carry a large
+share of Chinese oil imports and a sizable part of Chinese exports (Brewster,
+2018, pp. 25–26; Lim, 2020, p. 2). Holmes and Yoshihara point that breaking the
+‘first island chain’ is integral to China’s ambitions of Great Rejuvenation. The
+authors further argue that while it is the most immediate goal, it is not the definite
+one, since China will try to secure its interests in the Indian Ocean and Persian
+Gulf (Yoshihara & Holmes, 2018 pp. 154–155).
+This article aims to complement and deepen the understanding of security
+dynamics associated with China’s rise by highlighting the role of the Malacca
+Strait, the South China Sea and in the context of US–China competition in the
+Indo-Pacific. The author adopts the perspective of the Balance of Threat Theory
+(BoT) within the structural realism framework. BoT goes beyond traditional
+realist Balance of Power theory by incorporating perception of changing
+distribution of power among actors in the system. Threat perception is constructed
+through four interacting elements: aggregate power, geographic proximity,
+offensive capabilities and offensive intentions (Walt, 1985, 1990). The BoT does
+not explicitly name the control over crucial lines of communication as a factor
+influencing the dynamics between states, yet the issue of Malacca Strait and the
+South China Sea is nevertheless compatible with the theory. The sea power and
+control of strategic lines of communication (SLOCs) is a component of state
+aggregated power. Levy and Thompson claim sea power to be even more important
+for balancing mechanisms than land power (Levy & Thompson, 2010). Command
+of the commons, freedom of navigation and the ability to impose a naval blockade
+are also inseparable elements of constructing threat perception given the
+paramount position of sea transport for economic and energy security.
+The argument made here is that BoT dynamics so far have favour aligning with
+the US to balance the rising threat from China (Japan, India, Taiwan) as America
+
+176		
+
+Journal of Asian Security and International Affairs 8(2)
+
+does not have territorial claims in the area, and its intentions are not perceived as
+offensive. ASEAN small and middle powers also employ a hedging strategy that
+combines strengthening economic cooperation with China while engaging
+politically and militarily with the US and elevating its military capabilities. The
+control over SLOCs may drastically alter the strategic orientations of regional
+actors. Asian nations such as China, Taiwan, Japan, South Korea are heavily
+reliant on energy imports from the Middle East crossing the South China Sea and
+the Malacca Strait. If China successfully imposes its sovereign control over these
+waters, it will provide it with additional instruments to coerce East-Asian states.
+In that case, their behaviour might shift from balancing and hedging to band
+wagoning with China, under the condition that the US forces will be expelled
+from the first island chain. In this situation, the risk of confronting China without
+the stabilising role of the US would be too great to take. However, this scenario is
+still very unlikely as the US with its allies retains a military advantage. Any
+unilateral attempts to alter the status quo in regard to Taiwan or the South China
+Sea will prompt Asian states to join the US balancing efforts as they perceive
+China as a much greater threat. The situation is further complicated by Beijing’s
+deteriorating relations with India that plays an increasingly significant role in the
+US Indo-Pacific strategy. Its growing maritime ambitions and capabilities,
+deepening security partnership with the US and the perception of China as the
+primary threat will hinder Beijing’s plans for greater control of SLOCs.
+
+China’s Malacca Dilemma
+The Strait of Malacca is the shortest route between the Middle East and East Asia
+helping to shorten the time and cost of transport between Asia, the Middle East
+and Europe. The strategic location makes it a vital waterway for hydrocarbons,
+container transport and bulk cargo transported from and to the world’s most
+vibrant region. In 2016, on average 16 million b/d of crude oil and 3.2 million
+b/d of liquefied natural gas (LNG) were carried across the strait (EIA, 2017, pp.
+6–7), the second-largest volume in the world inferior only to the Ormuz Strait.
+Like most Asian nations China is heavily dependent on imports of hydrocarbons
+and apart from its major supplier and partner—Russia—other primary providers
+are located in the Middle East or Africa. Therefore, over 70% of all crude oil and
+LNG exports flow through the Malacca Strait making it extremely important for
+China’s energy security. But it is not only hydrocarbons that define Malacca’s
+importance—around 20% of world seaborne trade and around 60% of Chinese
+trade flow through the strait and South China Sea (CSIS, 2017), making them the
+most important sea line of communication for China’s economy.
+The situation has been described by Hu Jintao in November 2003 as the
+‘Malacca Dilemma’, referring to the strategic disadvantage resulting from high
+vulnerability to a naval blockade. President Hu suggested that ‘certain powers
+have all along encroached on and tried to control navigation through the [Malacca]
+Strait.’ (Lanteigne, 2008, p. 144). It is clear that under the term ‘certain powers’
+Hu meant the US and its unparalleled capabilities to command over the waters
+
+Paszak
+
+177
+
+in the Indo-Pacific. The issue has been an object of discussion in China with most
+of the works following Hu’s assessment acknowledging potential dangers
+associated with overreliance on the single choke point (Jie, 2005; Zhang, 2011).
+It is, however, worth noting that some Chinese scholars have dismissed the
+concerns relating to the ‘Malacca dilemma’ downplaying its potential consequences
+(Li, 2010). Nevertheless, it seems that the first perspective seems to resonate more
+soundly among China’s decision-makers as Beijing is pursuing the diversification
+of its energy supply and development of the ‘world-class navy’.
+During the past two decades, the issue of sea lines of communication has been
+growing in importance in China’s strategic discourse. China’s 2015 military
+strategy declared ‘that the security of overseas interests concerning energy and
+resources, strategic sea lines of communication (SLOCs), as well as institutions,
+personnel, and assets abroad, has become an imminent issue’. The document also
+stressed that ‘the traditional mentality that land outweighs sea must be abandoned,
+and great importance has to be attached to managing the seas and oceans and
+protecting maritime rights and interests’ (P. R. C. State Council, 2015). These
+declarations signal the realisation of China’s military and political elites that the
+sea domain will be crucial in the pursuit of China’s security and superpower
+status. Deprived of strategic depth toward the US forces and control over sea lines
+of communications China will remain highly constrained in its actions.
+Overcoming the current encirclement is a sine qua non condition for China
+departing from the status of a ‘partial’ superpower to a full-fledged superpower.
+Beijing’s concerns over Malacca and the South China Sea arise from the fact
+that the US Navy (7th and 5th Fleet) operating in the Indo-Pacific and the Middle
+East is the only power yet capable of providing security to the SLOCs stretching
+from the shores of Africa to East Asia. Since the era of Deng Xiaoping, China has
+been a free-rider benefiting from America’s continuous commitment to provide
+free navigation and security on Asian waters. As long as China remained relatively
+weak militarily and oriented toward economic modernisation the role of the US
+Navy was perceived as a constructive input into creating a positive international
+environment. This ‘strategic window of opportunity’ enabled Chinese companies
+to achieve remarkable commercial success and an unprecedented level of
+integration with the global economy.
+What makes the situation more complex from the Chinese perspective is the
+enduring system of American alliances and partnerships built after World War II.
+The so-called ‘San Francisco System’ or ‘Hub-and-spoke system’ nowadays
+embraces Australia, Japan, and South Korea acting as a strong deterrent to
+China’s potential expansion. Taiwan formally is not part of the system; however,
+it plays a vital role in the American strategy and retains close military and
+intelligence cooperation with the US. In the event of a conflict or attempt to
+impose a naval blockade, it is not only the US military power that China has to
+face, but also the combined capabilities of its close neighbours such as Japan,
+and less likely South Korea and Australia. These countries, located in close
+proximity to China’s shores, constrain their access to the Pacific Ocean and host
+American forces, inflicting the sense of encroachment and insecurity among
+China’s strategists. This was vividly exemplified by unequivocal criticism of the
+
+178		
+
+Journal of Asian Security and International Affairs 8(2)
+
+deployment of the THAAD (U. S. Terminal High Altitude Area Defence) system
+in South Korea. President Xi Jinping assessed that the instalment of batteries
+‘gravely harms the strategic security interests of China, Russia, and other
+countries in the region’ (Reuters, 2017). Many scholars and analysts identify the
+existing architecture of alliances as one of the greatest impediments for potential
+Chinese expansion (Christensen, 2015, p. 51; Mearsheimer, 2014, pp. 361–362;
+Nye, 2011, p. 186).
+The overseas bases in Japan and South Korea in the so-called ‘first island
+chain’ and ‘second island chain’ including Guam, Palau and the Marianas
+constitute a focal point of US presence in the region amply described by Dean
+Acheson as the ‘defence perimeter’ (Acheson, 1950). Those islands, and Guam in
+particular, provide logistical support for units transiting from the US West Coast
+as well as the strategic depth in case of an attack from Asia. Guam is not only one
+of the front lines of the American forward defence but also a base for B-1, B-2 and
+B-52 strategic bombers, Los Angeles Class nuclear submarines and Marines
+headquarter. The US overseas bases within both first and second island chains
+have to be considered both as a spear and a shield in the American national
+security strategy.
+Due to the vital role of American alliances, Chinese officials have voiced their
+disapproval of the ‘cold war mentality’ and the pursuit of a ‘zero-sum’ game by
+‘big powers’ (Liff, 2018). The pivotal role of ‘island chains’ has been also
+emphasized by arguably the most influential maritime strategist in China’s modern
+history—Liu Huaqing. The Chinese admiral advocated the enhancement of the
+Chinese navy as the sine qua non condition for breaking American encirclement
+(Liu, 2007). Liu’s vision involved the expansion of the PLAN operational area,
+initially to the first island chain and later move into the North Pacific and the
+‘second island chain’ formed by the US-controlled Marianas (Sheldon-Duplaix,
+2016, pp. 45–46). The interpretation of the significance of the ‘island chains’
+varies among Chinese sources. Some of them consider them as barriers for China
+that need to be overcome to gain unconstrained access to the maritime domain.
+Others perceive them as springboards for power projection or benchmarks for the
+advancement of Chinese military control over the Indo-Pacific (Erickson &
+Wuthnow, 2016). Holmes and Yoshihara also argue that the contemporary Chinese
+strategic thought is heavily influenced by the Mahanian ideas, which leads them
+to conclude that in the future China will strive to (a) uphold the flow of maritime
+trade, (b) acquire naval stations adjacent to the sea lines but far from China’s coast
+and (c) amass naval power sufficient to defeat the largest concentration of forces
+likely to be brought against the PLA Navy in East Asian waters (Holmes &
+Yoshihara, 2006, p. 173). Accepting this assumption results in a rather pessimistic
+outlook for the future of Sino-American relations in the Indo-Pacific; however,
+this explanation proves to be the most coherent one which finds justification both
+in history and in the contemporary political practice. The Mahanian imperatives
+alongside the ‘island chain’ strategy and the concept of ‘the great rejuvenation of
+the Chinese nation’ indicate that the coming decades will most likely be
+characterized by intensifying security competition.
+
+Paszak
+
+179
+
+Chinese authorities seek to alleviate the Malacca dilemma through the
+development of military power and diversifications on energy imports. Beijing
+undertakes efforts to create alternative overland connections and energy
+cooperation with Russia (Yilmaz & Daksueva, 2019) Central Asia, Myanmar,
+Pakistan, and potentially Iran and Turkey (Guo et al., 2019). The cooperation with
+Pakistan through the China–Pakistan Economic Corridor (CPEC) was intended as
+an opportunity to gain an additional point of access to the Indian Ocean through
+the construction of a new pipeline. Nevertheless, the difficult topography of the
+Himalayan region and the high costs of transit seriously limits the strategic impact
+of this investment which may prove economically unsustainable (Garlick, 2018).
+Chinese authorities also explore the possibilities of using the Northern Sea Route
+(NSR) to diversify its trading routes, primarily with Europe and Russia (Gao &
+Erokhin, 2020, p. 359). However, in the foreseeable future NSR cannot become a
+viable alternative, due to geographical and environmental barriers. All these
+measures are yet insufficient to significantly decrease the level of dependence on
+the Indo-Pacific SLOCs. The potential solution to energy dependence on Persian
+Gulf oil lies in the development of the renewable energy sector and new energy
+vehicles. These structural barriers mean that transport through the US-controlled
+Indo-Pacific is likely to remain a source of concern for Beijing.
+
+The Ascent of the ‘Indo-Pacific’ Concept
+This article employs a concept of the ‘Indo-Pacific’ which embraces the AsiaPacific and the Indian Ocean creating a super-region. The concept has started
+to grow to prominence since the late 2000s due to the intensifying cooperation
+among four nations: the USA, Japan, India and Australia, and their deteriorating
+relations with China. Up until that point the US, as a dominant power in the
+region, advocated the concept of ‘Asia-Pacific’ designed to construct shared
+spatial imaginaries among the US and vibrant Asian economies (Scott, 2018).
+The rationale behind the idea was to embed the US as a natural and inseparable
+part of Asian affairs in the collective imagination. Since 2007, due to the rising
+concerns over China’s increasing power projection capabilities and growing
+interdependencies of the Pacific and Indian Oceans, India has been recognised
+as a strategic partner by Australia, Japan and the US. Since the beginning of the
+twenty-first century, all American administrations have been making sustained
+efforts to reengage with India achieving remarkable progress. During Barack
+Obama’s second administration a belief grew in Washington that if ‘pivot’ to
+Asia was to succeed, it is necessary to constructively engage with New Delhi
+and ASEAN countries, especially with Indonesia and Vietnam (Clinton, 2011).
+These new dynamics created a demand for a new, broadened spatial concept that
+would emphasise to a greater degree the role of India and ASEAN and better
+reflect economic and strategic independencies of the Pacific and Indian Oceans.
+In 2015, during his trip to India, Barack Obama asserted that ‘the relationship
+between India and the United States can be one of the defining partnerships of
+this century’ (Obama, 2015). It was however the Donald Trump administration
+
+180		
+
+Journal of Asian Security and International Affairs 8(2)
+
+that initiated the third and the most significant ‘discursive wave’ that strongly
+established the concept in the political discourse (He & Feng, 2020, p. 151).
+In May 2018, the US Pacific Command was renamed as the US Indo-Pacific
+Command (INDOPACOM) and the ‘Indo-Pacific’ was fully incorporated in the
+strategic documents (The White House, 2017). In 2019, the U. S. Department
+of Defense issued a special Indo-Pacific Strategy Report which concluded that
+‘The U.S.-India strategic partnership has strengthened significantly during the
+past two decades, based on a convergence of strategic interests’ (U. S. Department
+of Defense, 2019a, pp. 33–34). The concept has been widely accepted and
+advocated by US partners in the region such as India (Modi, 2018), Australia
+(Morrison, 2019) and Japan (Abe, 2018) and dismissed by China as antiChinese in its nature (He & Li, 2020, p. 1). ASEAN adopted a restrained position
+signalling that it is interested in the Indo-Pacific vision under the condition
+it remains more inclusive, non-confrontational and development focused
+(ASEAN, 2019).
+The driving motive of American efforts to reconstruct spatial imaginaries lies
+in the assumption that the Indian and Pacific Oceans will be key areas of SinoAmerican competition. It is, therefore, necessary to provide an attractive narrative
+that would suit the US strategic interests as well as the expectation of the region.
+The idea has become a ‘mental map’ reflecting both perceptual changes of local
+governments as well as objective connections in the areas of trade, investments,
+transport and military deployments (Medcalf, 2020, pp. 5–9). The vision of the
+‘Free and Open’ Indo-Pacific is a counterproposition to China’s revisionist
+approach toward the status quo and its territorial ambitions in the Western Pacific.
+Through the prism of BoT, it reinforces the incentives for balancing threats from
+China and disincentives for band wagoning with Beijing.
+
+US Strategic Stance Towards the Indo-Pacific
+During the 2010–2020 decade, Indo-Pacific has become a ‘priority theatre’ for
+the US (U. S. Department of Defense, 2019a, p. 1) as the region is perceived
+as embracing primary threats, challenges and opportunities. From the military
+point of view, the major problem for the US is the limited ability to project
+power due to logistical limitations and the dispersal of US forces in bases in
+Japan, South Korea, Australia and in the second island chain. While the US
+military and its allies still hold the military advantage over China in absolute
+terms, the distance between the two powers and the fact that China operates
+from its continental base puts the latter in a more favourable position, especially
+in the Taiwan conflict scenario. The American authorities are well aware of
+the issue as official strategic documents refer to the ‘Tyranny of distance’ as
+one of the greatest challenges for the US military in the region (NDSC, 2018,
+p. 34; U. S. Department of Defense, 2019a, p. 20). In this light, strengthening
+existing alliances and forging new partnerships to adjust the hub-and-spokes
+system to the new conditions emerges as a priority. This new ‘networked security
+
+Paszak
+
+181
+
+architecture’ is aimed not only to strengthen cooperation with the US but also to
+build independent security relations among Asian states. This process is seen as
+necessary to decelerate the shifts in the balance of power that are detrimental to
+the US interests (U. S. Department of Defense, 2018, p. 9).
+One of the key elements of the modified posture designed to implement the
+vision of ‘free and open Indo-Pacific’ (Department of Defense, 2019a, pp. 4–6) is
+to improve the logistics, basing and defence infrastructure of the US Army and its
+allies. The idea of a special fund oriented toward improving these features has
+already taken shape in the form of the Indo-Pacific Deterrence Initiative (IPDI)
+which is set to be granted $1,4 billion for the FY 2021 and $4,5 billion for the FY
+2022 (U. S. Congress, 2020). The purpose of the IPDI is to reduce the threats from
+the increasingly sophisticated China Rocket Force which is regarded as the
+primary threat to the US bases in the region as well as aircraft carrier groups.
+DF-21, DF-26 and DF-17 missiles are regarded as the primary threat and could be
+used in the initial phase of the conflict.
+The US authorities have also initiated the reform of the Marines Corps which
+is aimed to elevate: ‘long-range precision fires; medium- to long-range air defense
+systems; […] high-endurance, long-range unmanned systems with Intelligence,
+Surveillance, and Reconnaissance (ISR), Electronic Warfare (EW), and lethal
+strike capabilities’ (U. S. Department of Navy, 2020, p. 2). The Marines reform is
+meant to adapt the force to the challenges posed by China, geography and the
+informatized battlefield.
+One of the key challenges for the US will be to convince other regional actors
+that it remains committed and retains sufficient capabilities necessary to provide
+public goods and protect its allies and partners. IPDI is one of the measures taken
+to ensure partners that Donald Trump’s and future administration are taking
+problems seriously. Another is increased activity of the US Navy and US Air
+Force in the contested waters of the South China Sea (Freedom of Navigation
+Operations) as well as joint military exercises primarily with Japan, Australia and
+India (Malabar, RIMPAC and others).
+Maintaining a high level of activities, force readiness and interoperability with
+partner armies constitutes one of the pillars of the American strategic posture
+toward the region. However, the deterrent is the US nuclear posture is based on
+the nuclear triad comprising land, sea and air-based platforms. The forward
+deployment of the Ohio Class submarines and their successors, B-1, B-2 and B-52
+strategic bombers as well as land-based platforms will be used to deter China’s
+potential aggression. The present strategy is: ‘designed to prevent Beijing from
+mistakenly concluding that it could secure an advantage through the limited use
+of its theatre nuclear capabilities’ (U. S. Department of Defense, 2018, p. 32).
+Due to the limited resources, the US authorities will be compelled to put greater
+focus on the offshore balancing strategy by assisting defence efforts of regional
+allies and partners and keeping the military footprint on a stable level. Empowering
+the partners is associated with them taking greater responsibility for providing
+security with the US intervention as the ‘last resort’ option. The US might
+gradually decrease the military presence in Europe and the Middle East with a
+greater focus on allocating resources in the Indo-Pacific. The Quadrilateral
+Security Dialogue (Quad/QSD) which comprises the US, Japan, India and
+
+182		
+
+Journal of Asian Security and International Affairs 8(2)
+
+Australia will serve as the primary framework for advancing these efforts in the
+Indo-Pacific.
+From the perspective of BoT, the US is a more desirable security partner than
+China, since Washington does not have territorial claims endangering the interests
+of Asian states. While the Americans possess formidable military power, it has
+been used to maintain the status quo and unconstrained access to maritime routes.
+The positive perception of the US and negative perception of China are reflected
+in independent surveys. The research by the ISEAS team indicates that 48.3% of
+responses express confidence in the US (China 16.5%). Among top concerns over
+the South China Sea, ‘China’s militarization and assertive actions’ were chosen by
+62.4% and ‘China’s encroachments on other littoral states maritime zone’ by
+59.1%. By contrast, ‘US increased military presence’ was identified as a primary
+threat by only 12.5%). If forced to align oneself in the on-going US–China rivalry,
+the majority of respondents choose the US (61.5%). China as a choice dropped
+from 46.4% in 2020 to 38.5% in 2021 (Seah et al., 2021). Similar conclusions can
+be drawn from the RAND survey which showed that it is China that is considered
+a primary threat and countries such as Vietnam, Indonesia, Philippines, Malaysia
+and Thailand are ready to support the US militarily and maintain military
+cooperation (RAND, 2020). However, ASEAN countries are primarily hedging
+states that pursue stability and economic development and refrain from engaging
+in great power competition.
+
+India and the US–China Indo-Pacific Rivalry
+India is widely considered a crucial partner by countries such as Australia, Japan
+and the US to be playing a ‘critical role in the future of Indo-Pacific’ (U. S.
+Department of State, 2019, p. 9). A soon as the US strategic focus shifted from the
+global war on terror to Asia in the late 2000s so grew the significance of India in
+its foreign policy. Since the 2011 ‘pivot to Asia’ initiated by Barack Obama India
+has been envisaged by Washington as the key elements of the potential coalition
+oriented toward containing revisionist actions of the PRC. In 2011, Hilary Clinton
+wrote: ‘Among key emerging powers with which we will work closely are India
+and Indonesia, two of the most dynamic and significant democratic powers of
+Asia, and both countries with which the Obama administration has pursued
+broader, deeper, and more purposeful relationships’ (Clinton, 2011). In the
+2010–2020 period, Washington has made a visible effort to integrate New Delhi
+into its strategic plans. In the symbolic sphere, it was manifested in the ascent of
+the Indo-Pacific concept and the 2015 publication of ‘Joint Strategic Vision for
+the Asia Pacific and Indian Ocean Region’. In 2016, the Obama administration
+designated India as a ‘major defence partner’ and India and concluded the bilateral
+Logistics Exchange Memorandum of Agreement (LEMOA) that gave the militaries
+of both countries access to each other’s facilities for supplies and repairs. These
+efforts were continued by Donald Trump’s administration that in 2018 elevated
+India to Strategic Trade Authorisation Tier 1 status allowing licence-free sales
+of dual-use military technologies. In September 2018, both parties concluded
+the Communications, Compatibility, and Security Agreement (COMCASA)
+
+Paszak
+
+183
+
+facilitating interoperability between militaries and the sale of high-end technology.
+In November 2020, New Delhi and Washington signed BECA agreement focused
+on sharing intelligence and geospatial data, sealing a framework for long-term
+military and strategic cooperation.
+India owes the US increased interest due to its rising economic and military
+power, demographics and strategic location. India is expected to become the thirdlargest economy in the coming decade as economists predict its nominal GDP to
+reach between 7 (Deutsche Bank, 2019, p. 42) and 8.3 trillion USD (Gupta, 2019). It
+is worth noting that in 2020, the Indian economy contracted by 6.9 per cent, due to
+the pandemic. The second wave of the COVID-19 struck India in March and may
+further delay its economic recovery. According to the UN, by 2027 it will also
+become the most populous country (United Nations, 2019). India’s growing position
+in the global distribution of power is perceived by the US as a positive development
+as it benefits the American external balancing efforts toward China. India’s rise
+is seen by Washington as peaceful and not detrimental to its interest, therefore ‘the
+United States supports India’s emergence as a leading global power’ (U. S.
+Department of State, 2020). A similar stance is taken in Australia’s strategic
+documents where India is portrayed as the ‘pre-eminent maritime power among
+Indian Ocean countries’ which ‘now sits in the front rank of Australia’s international
+partnerships’ (Australian Government, 2017, p. 42). For Japan, India is geopolitically
+‘an extremely important country’ (Japan Ministry of Foreign Affairs, 2019, p. 69) an
+indispensable partner in promoting ‘Free and Open Indo-Pacific’. These converging
+interests overlap with Japan’s ambitions to become India’s and South Asia’s major
+partners in infrastructure projects such as high-speed railway (Government of Japan,
+2019, pp. 6–7).
+What primarily distinguishes India among other countries is not only its
+growing material power but also its advantageous geographic location on the
+crossing of the most strategically significant trade routes from the Middle East
+and Africa to East Asia. While India is not directly engaged in the South China
+Sea dispute or in the process of providing security for the Malacca Strait it can
+play a substantial security role given the interrelatedness of the Indian and the
+Pacific Oceans. India does not have to intervene directly to exert a profound
+influence over the South China Sea or Malacca Strait security dynamics. It is
+enough that it will take greater responsibility in providing public goods when it
+comes to securing SLOCS passing through the Indian Ocean. The greater the
+degree of the Indian and the US control over these lines, the greater the sense of
+the Chinese insecurities related to the ‘Malacca Dilemma’. New Delhi’s
+engagement in the South China Sea and the Malacca Strait is so far almost nonexistent, due to its limited power projections capabilities and reservations of
+ASEAN countries. It was exemplified by India’s failure to join Malacca Strait
+Patrol (MSP) initiative in 2018, mostly due to Indonesia’s concerns that this move
+would alert Beijing and lead to increased tensions (Mitra, 2018).
+However, if China insists on building maritime infrastructure in the IOR and
+elevates its military presence, India may as well adopt a more proactive role
+toward Exercises with the US, Japan and Australia. On 20 July 2020, shortly after
+the escalation in Eastern Ladakh, Indian and US navies conducted a joint exercise
+near Nicobar and Andaman Islands in the proximity to the Malacca Strait. Move
+
+184		
+
+Journal of Asian Security and International Affairs 8(2)
+
+like this has to be considered as a part of strategic signalling that China’s more
+confrontational posture toward India, will result in more pronounced balancing
+efforts in the Eastern Indian Ocean.
+In the annual defence review, it has been already pointed out that India’s
+national security imperatives and political interests stretched gradually beyond
+the Indian Ocean (India Ministry of Defence, 2019, p. 32). The risk of India’s
+rising involvement in the control of SLOCs is already acknowledged by some
+Chinese scholars as Sun Shihai from Sichuan University and the Chinese Academy
+of Social Sciences (Kinling & Liu, 2020) There are already some voices from
+influential Indian institutions connected to the government advocating leveraging
+its military outreach to the Malacca Strait through Andaman and Nicobar Islands
+as a response to China’s rising assertiveness (Chinoy, 2020).
+The evolution of China’s maritime strategy and more visible presence in the
+Indian Ocean may drive India toward closer cooperation with the US Navy.
+Beijing’s naval doctrine used to focus almost exclusively on securing its ‘near
+seas’/offshore waters which are of fundamental importance for safeguarding core
+national interests. Since 2015 there is a growing focus on ‘far seas’/open seas
+defence and the protection of SLOCS (P. R. C. State Council 2015, 2019) which
+has to be understood through the prism of growing ambitions in the Indian Ocean.
+oceans While the Indian Ocean still plays a secondary role in China’s strategy,
+PLA Navy gradually increases its presence in the Eastern IOR ignoring New
+Delhi’s informal claims to this area as its exclusive sphere of influence (Ji, 2018).
+This constitutes a natural point of friction between two regional powers and may
+decisively push India toward participation in the anti-China coalition in the IndoPacific. The BoT provides suitable tools to explain and predict the future
+development of Sino-Indian relations. It identifies four key elements of a given
+actor that define the state’s behaviour toward it and that is aggregate power,
+geographic proximity, offensive capabilities and offensive intentions (Walt, 1985,
+1990). The unresolved border dispute, rising power disequilibrium, divergent
+interest in the maritime sphere and increasingly assertive foreign policy all
+indicate that India will gradually depart from non-alignment policy.
+China’s relation with India is strained by historical animosities, the unresolved
+border dispute in the Himalayan Plateaus well as the competition for influence in
+South-East Asia considered to be India’s traditional sphere of influence. Among
+Indian security elites, there is a strong belief that China is aiming to contain India
+in South Asia and encircle it (Joshi & Mukherjee, 2019, p. 25). By many analysts,
+China, not Pakistan, is considered to be the greatest long-term rival that ‘is the one
+major power which impinges directly on India’s geopolitical space’ (CFPR, 2012,
+p. 13). The relations between the two powers are further exacerbated by Beijing’s
+all-weather relationship’ with Islamabad—New Delhi’s historical enemy
+(Holslag, 2009, pp. 824-833; Saran, 2017, p. 58). Its intensifying engagement
+with Myanmar, Iran, Bangladesh and Sri Lanka through Belt and Road Initiative
+further enhances the perception that China is playing a ‘great game’ with India (Ji,
+2018). Jagganath Panda argues that India indeed does view China as a revisionist
+power, albeit subtly, without officially or formally naming it thus like the US
+(Panda, 2021, p. 2). The sense of insecurity is further deepened by disproportions
+in terms of material power. China’s economy is still over five times larger than
+
+Paszak
+
+185
+
+India’s, military budget over three times larger, and this disproportion is likely to
+endure for decades albeit will it gradually decrease under the condition that the
+Indian economy will realise its potential.
+Until 2020 Indian authorities avoided directly taking sides in the US–China
+Competition putting emphasis on strategic autonomy and working through the
+network of semi-alliances and partnerships with Japan, Russia, Australia and the
+US. This behaviour is deeply rooted in the tradition of ‘non-alignment’ (Pant &
+Super, 2015). Keeping relatively equal distance to major powers and avoiding
+excessive engagement with the one side constituted one of the basic assumptions
+of the Indian foreign policy. Its strong cooperation with both Russia and the US as
+well as constructive relations with China provided testimony to this policy (Pant,
+2019). However, the most recent developments might mark the beginning of
+India’s strategic realignment. The clashes on the contested Sino-Indian border in
+July 2020 in Eastern Ladakh reignited the debate about the China threat and
+provided the additional rationale for deepening cooperation with the US as well as
+other members of QSD/Quad (Quadrilateral Security Dialogue). Through the
+prism of the BoT theory, it is justified to assume that New Delhi will consequently
+lean toward more pronounced cooperation with the US as well as other partners
+as Japan and Australia. In the future, it may leverage its strategic location and
+growing naval capabilities to deter China from taking aggressive action in the
+Himalayas or the Western Pacific.
+During Narendra Modi’s tenure as Indian Prime Minister, New Delhi intensified
+security cooperation with the US, Japan and Australia within the Quad format. It
+has also taken a more proactive direction toward the IOR through the ‘act east
+policy’ (Chaudhuri, 2018, pp. 64–65) as well as adapted a more offensive military
+strategy. Indian decision-makers perceive China’s advances in the Indian Ocean
+and South-East Asia as an intrusion into its traditional sphere of influence
+(Brewster, 2018, pp. 18–20). This perception is enhanced by Beijing’s lack of
+understanding of India’s ambitions and concerns prompting some scholars and
+officials to describe China as ‘autistic’ regarding this matter (Garver, 2018, p. 75).
+Some scholars as Niclas Weimar argues that driven by their pursuit of energy
+security and supra-regional influence Sino-Indian relations are likely to become
+more competitive rather than cooperative. Weimar further states that ‘the Indian
+Ocean Region and the South China Sea are likely to become future settings for
+Sino-Indian military confrontation’ (Weimar, 2013, p. 7). While the former
+assertion is well-grounded, the second about likely military confrontation in the
+South China Sea is an overstatement as India has limited interests and power
+projection capabilities in this region. India’s direct engagement in potential
+conflict over the South China Sea (and likely Taiwan) would require New Delhi’s
+formal security commitments to the US and no single hints are indicating that this
+is going to happen. Nevertheless, given the fact that the ambitions of Beijing and
+New Delhi overlap in these areas, India is likely to align with the US broader
+balancing efforts to secure its position and limit China’s advances. Taking a
+greater role in providing security in the Indian Ocean may also become a necessity
+as the concerns about the American global withdrawal increase. Geographical
+proximity coupled with rising military power and strategic mistrust makes the US
+
+186		
+
+Journal of Asian Security and International Affairs 8(2)
+
+the desired ally and China the most likely target of the balancing. In strict terms,
+India is not a South China Sea actor, but China’s intrusions in the Eastern Indian
+Ocean may prompt New Delhi to take a more proactive role in the contested space
+through military exercises, freedom of navigation operations and leveraging
+Nicobar and Andaman Islands.
+
+Offensive Capabilities and Offensive Intentions:
+The Impact of PLA Modernisation Programme
+China’s goal of achieving a superpower status and asserting greater control over
+near seas and strategic maritime routes within ‘the first island chain’ is impossible
+without changing the current status quo in the Indo-Pacific region. That status
+is grounded in American military presence and the system of bilateral security
+agreements with Japan, South Korea and Australia, and sectoral cooperation with
+other actors. The first and most important step is the incorporation of Taiwan
+whose potential fall will undermine US credibility as the security provider in the
+region. The inability to protect its semi-formal ally will enhance the perception of
+the American demise and it will likely push Asian powers to abandon balancing
+efforts and start bandwagon with China. According to the Balance of Power
+Theory: ‘As soon as someone looks like the winner, nearly all jump on the
+bandwagon rather than continuing to build coalitions intended to prevent anyone
+from winning the prize of power.’ (Waltz, 1979, p. 126). Achieving this goal will
+be extremely difficult without exerting strong military and economic pressure on
+the neighbouring nations, therefore developing comprehensive military potential
+stands as an imperative.
+After 1991 and the spectacular success of the Desert Storm operation, Chinese
+military modernisation has been oriented toward minimising the risk of analogous
+scenarios concerning Taiwan. ‘Winning informatized local conflicts’ (Taylor
+Fravel, 2020, pp. 92–94) has become a guiding principle of army reforms and the
+US forces were designated as the primary reference point. The Chinese leaders
+have strived to develop types of units and weaponry and an organisational
+structure designed to inflict maximum damage on the US forces and dissuade
+them from costly involvement. This kind of strategy was coined by American
+analysts as the Anti-Access/Area-Denial strategy. A2/AD strategy focus is on
+increasing military capabilities to a degree when potential losses for an adversary
+will be too great to risk military involvement. The U. S. Department of Defense
+defines A2/AD as a strategy aiming to ‘dissuade, deter, or if ordered, defeat
+potential third-party intervention during a large-scale theatre campaign’ (U. S.
+Department of Defense, 2019b, 54). For the Chinese authorities, this strategy
+might be considered as an optimal way to change the current status quo as it may
+lead to desired outcomes (the incorporation of Taiwan, greater control over
+SLOCs) with a distinct possibility of avoiding a full-scale war against the US.
+The ongoing militarisation of the PLA emphasises the development of a bluewater navy, ballistic missile programme, anti-ship missiles, nuclear submarines
+
+Paszak
+
+187
+
+and 5th generation fighters. These comprehensive and ambitious modernisation
+programmes are set to transform the PLA into a ‘world-class military’ by 2049
+and increase the costs of potential US intervention in defence of Taiwan. Since
+1996, which marked the start of a comprehensive PLA modernisation programme,
+China has strived to develop considerable anti-surface capabilities and anti-ship
+ballistic missiles - means able to threaten US Aircraft Carrier battle groups and
+regional military bases. The development of an intercontinental ballistic missile
+(ICBM) able to reach the US has been designated as a priority by the military
+circles and resulted in the build-up of the arsenal of 100 missiles (U. S. Department
+of Defense, 2020). The Chinese missile programme has also succeeded in
+constructing a wide range of mobile platforms for DF-31AG ICBM, DF-5B
+ICBM, DF-26 IRBM, DF-21 MRBM missiles able to reach various types of
+targets. While the advanced missile program is pivotal to the success of the A2/
+AD strategy it does not translate into supra-regional power projection capabilities.
+To gain power projection capabilities and the ability to control SLOCs China
+needs a fleet comparable in size and sophistication to the US Navy. PLAN has been
+in recent years the fastest-growing formation of its kind. Due to the massive
+resources directed for its development and modernisation, PLA is already the
+world’s largest formation in terms of the number of ships (350). The report prepared
+for the US Congress predicts that by 2030 the Chinese navy will have 425 ships in
+service and 2 to 6 new aircraft carriers will enter the service through 2035. It is also
+reported that by the end of 2020 Chinese shipyards have launched the 8th Renhai
+class (Type 055) destroyers and by the end of 2025 PLAN is likely to field 39 aegistype destroyers in service (Type 052/052D; Congressional Research Service, 2021).
+It is still unclear whether the US would risk a full-scale conflict with the
+country having similar military potential and nuclear arsenal at its disposal, but
+starting a conflict far from its borders and close to China’s coast would greatly
+complicate American power projections capabilities. The historical experience of
+the Cold War and the fact that the US and the USSR never actually engaged in an
+open conflict suggest that a similar scenario may take place in China’s case. The
+RAND report estimated that due to successful 20 years of PLA modernisation,
+China and the US reached an ‘approximate parity’ in the Taiwan conflict scenario
+as regards ‘air superiority’, ‘Chinese attacks on airbases’, and ‘US airspace
+penetration’ (RAND, 2015, p. 131). Another report composed by the bipartisan
+National Defense Strategy Commission draws even more pessimistic conclusions.
+The authors of the document anticipate that if the US had to fight China over
+Taiwan, ‘the Americans could face a decisive military defeat’ and ‘attrition of US
+capital assets—ships, planes, tanks—could be enormous’ (U. S. National Defense
+Strategy Commission, 2018, p. 14). Thomas Christensen makes a similar
+assumption indicating that even during the Clinton administration and the third
+crisis in the Taiwan Strait in 1999 Washington was reluctant to challenge the PLA
+militarily. Christensen further argues that ‘What was true then is more than doubly
+true today given China’s fast-paced military build-up since the late 1990s and the
+dispersal of US forces around the world following the terrorist attacks of
+September 11, 2001’ (Christensen, 2015, p. 2). PLA’s modernisation programme
+has so far achieved remarkable success, but a dramatic transformation of the
+
+188		
+
+Journal of Asian Security and International Affairs 8(2)
+
+security architecture will demand sustained development in the coming decades.
+If China’s growth stalls and many indicators suggest this scenario, the PLA may
+become a second-most powerful force in the region, but not strong enough to
+expel US forces.
+China’s growing rhetorical belligerence toward Taiwan, grey-zone operations
+in the South China Sea, and skirmishes on the Sino-Indian border create the
+perception that China’s rising military capabilities might become a major source
+of instability in the region (Seah et al., 2021). In contrast to the US, the rise of the
+Chinese navy and taking greater control over SLOCs in the South China Sea and
+Malacca Strait is likely to be seen as detrimental to regional security. Any
+unilateral action to reverse the status quo will provide incentives for Asian states
+to join the US balancing efforts as China’s geographical proximity, its rising
+military power and revisionist tendencies make the US a more desirable partner.
+
+‘What If?’ Potential Consequences of China’s Control
+over the South China Sea and the Malacca Strait
+So far it has been argued that the Malacca Strait and the South China Sea are of
+vital importance to China’s pursuit of security and superpower status. However,
+without altering the current status quo it is impossible for this vision to materialise
+since China’s strategic position is greatly exacerbated by the US military presence
+in the Indo-Pacific. The US role as the almost sole provider of the security of
+SLOCs puts China in a vulnerable position if a conflict between two parties
+arises. This risk for Beijing is heightened due to the expanding role and ambitions
+of the Indian Navy in the Indian Ocean overlapping with intensifying strategic
+partnership between New Delhi and Washington.
+China’s pursuit of ‘world-class’ military and ‘Great rejuvenation of the Chinese
+nation’ translates into more confrontational behaviours towards neighbours,
+namely India, Japan, Taiwan, Philippines and Vietnam. Through the BoT lenses,
+rising aggregate power, geographical proximity, perceived offensive intentions
+and capabilities make regional actors more inclined to balance China in the
+security domain together with the US.
+But what if China successfully secures its interests concerning Taiwan, the
+South China Sea, and the Malacca Strait? It is not only China that finds itself in
+this vulnerable position. The US key allies—Japan, South Korea, and Taiwan are
+even more dependent on energy resources from the Middle East and exports via
+the Pacific and Indian Oceans. Around 80% of Japan’s crude oil imports come
+from the Persian Gulf and Africa; Taiwan and South Korea find themselves in a
+similar situation. The fundamental difference between China and these three
+countries lies in their respective relationships with Washington. At the moment,
+the authorities in Tokyo, Seoul and Taipei do not need to face the ‘Malacca
+dilemma’ as they support the current status quo and remain American allies. But
+how would these governments react when faced with China’s militarily controlling
+the South China Sea?
+
+Paszak
+
+189
+
+If by 2049 China becomes a ‘world-class’ military and surpasses the US, it
+would be very costly for Washington to intervene in the local conflict over Taiwan.
+The available reports highlight that the regional balance of power is shifting in
+China’s favour and in the case of the Taiwan conflict the US ‘could face a decisive
+military defeat’ (U. S. National Defense Strategy Commission, 2019, p. 14).
+Furthermore, China would enjoy the advantage of operating from its continental
+landmass, having access to its vast resources, while the US forces would be
+deemed to operate from military bases in Japan, South Korea and the ‘Second
+Island Chain’. The ‘Tyranny of distance’ (U. S. Department of Defense, 2019a,
+p. 20) and the limitations it imposes on power projection could prove to be a
+decisive factor deterring the US from direct involvement in the Taiwan conflict.
+What is more, China’s development of power projection capabilities in the region
+would enable the PLAN to engage in the control SLOCs passing through the
+Eastern Indian Ocean and the South China Sea, reducing the threat of a naval
+blockade. In this scenario, the PLAN could influence the flows of trade and
+resources and exploit this ability to exert pressure on other South China Sea actors
+and East Asian nations. What is now China’s Malacca Dilemma would become a
+dilemma for Japan or South Korea. In this case and the expulsion of the US forces
+to the second island chain could become a distinct possibility.
+Rising economic interdependencies between China and East Asian nations
+may provide another incentive for Asian nations to bandwagon with China. It
+worth noting that China has already surpassed the US as the most important
+trading partner in most East Asian states. In 2018, China accounted for 23% of
+Korean trade (US 11%), 22 % of Japan’s exports (US 14.4%; Observatory of
+Economic Complexity [OEC], 2019). In the case of Australia, these dependencies
+reach even further with China accounting for 29.8% of Australian trade, as
+compared with the US share of 6.57%. These interdependencies might become
+even deeper through the completion of the Regional Comprehensive Economic
+Partnership and expansion of the Comprehensive and Progressive Agreement for
+Trans-Pacific Partnership (CPTPP).
+China’s continuous military and economic rise accompanied by the US gradual
+decline would impose profound structural pressures on American allies in Asia
+and could lead to the decomposition of the San Francisco system. While this
+scenario remains hypothetical, it highlights the security mechanism associated
+with control over the South China Sea and the Malacca Strait. These areas act as
+a bloodstream of Asia’s economy and the power that controls it gains a powerful
+instrument of influence over other actors. Therefore, if China becomes powerful
+enough to contest American supremacy these waters will offer the setting for this
+confrontation.
+There is however one significant obstacle that makes this course of events not
+likely. China is already perceived in the region as one of the destabilising forces,
+which makes the US military presence welcomed, even by hedging ASEAN
+countries. Any unilateral attempt by China to take control over Taiwan and the
+South China Sea is likely to deepen the perception of offensive capabilities and
+offensive intentions – two primary factors constituting the BoT mechanism.
+
+190		
+
+Journal of Asian Security and International Affairs 8(2)
+
+Conclusions
+Given the intensifying competition between China and the US and the
+interrelatedness of Indo-Pacific theatre, the role of the Malacca Strait and the
+South China Sea continues to grow. As envisaged by Liu Huaqing and Alfred
+Mahan, China’s transition to a global superpower status requires greater control
+over the sea domain within the first and the second island Chain to alleviate
+potential risk. China remains in a highly vulnerable position as the US Navy and
+its allies command the commons in the South-China Sea, Malacca Strait and the
+Indian Ocean. In the event of a conflict, the US Navy supported by its Japanese
+and Australian allies and Indian partners may attempt to impose a naval blockade
+and deny China access to vital energy resources from the Middle East and trade
+opportunities.
+India’s growing military position in the region and its emerging competition
+with China in the Eastern Indian Ocean further constrain China’s ambitions of
+gaining greater control over SLOC’s. The steep deterioration in relations between
+two countries following clashes on the Himalayan border accelerated the security
+cooperation with the US and Quad format states. The consequential deterioration
+in India–China relations may prompt New Delhi to expand military build-up in
+the Andaman and Nicobar Islands, increase military cooperation within the QSD/
+Quad framework and accelerate the expansion of India’s blue-water navy.
+China’s long-term pursuit of ‘world-class military’ may undermine the US
+ability to command waters ranging from the Persian Gulf to the Western Pacific
+and as a result, decompose the existing US security architecture. The key in
+China’s pursuit of security will be to achieve command over Taiwan, the South
+China Sea, and as a result of the Malacca Strait Successful invasion on Taiwan
+would provide China with ‘strategic depth’ and undermine the credibility of the
+US as the primary and reliable security provider. In this scenario, the PLA could
+oversee the flows of trade and resources and exploit this ability in favour of
+advancing its regional interests and shaping behaviours of middle and small
+powers. What is now China’s Malacca Dilemma would become a dilemma for
+Japan or South Korea and create a powerful incentive to abandon balancing in
+favour of band wagoning. Military pressure accompanied by economic instruments
+would lay the foundations for China’s regional hegemony and the US decline as
+the most powerful actor in the region.
+China-dominated East-Asian security architecture is still an abstract construct
+and meets numerous significant challenges. Looking at this issue through
+the prism of the BoT, China meets all four criteria (rising aggregate power,
+geographical proximity, offensive capabilities, offensive intentions) to be
+considered the most potent threat/challenge to Asia. The US, on the other hand, is
+in principle external power without territorial claims, able to provide public goods
+without endangering the territorial integrity of regional states. These dynamics
+favour balancing in the security domain while engaging it economically. China’s
+hypothetical aggression on Taiwan or unilateral attempt to subjugate the South
+China Sea would further deepen this threat perception resulting in a broader
+
+191
+
+Paszak
+
+balancing coalition. China is therefore left with two very serious dilemmas: either
+try to alleviate the Malacca dilemma and risk broader anti-coalition, or accept
+status quo and vulnerability resulting from US-controlled SLOCs.
+Declaration of Conflicting Interests
+The author declared no potential conflicts of interest with respect to the research, authorship and/or publication of this article.
+
+Funding
+The author received no financial support for the research, authorship and/or publication of
+this article.
+
+ORCID iD
+Pawel Paszak
+
+https://orcid.org/0000-0001-7160-5320
+
+References
+Abe, S. (2018, 22 January). Policy speech by prime minister Shinzo Abe to the 196th
+session of the diet. https://japan.kantei.go.jp/98_abe/statement/201801/_00002.html.
+Acheson, D. (1950, 12 January) Speech on the far east. National Press Club.
+Australian Government. (2017). Foreign policy white paper. https://www.fpwhitepaper.
+gov.au
+ASEAN (2019, June). ASEAN Outlook on the Indo-Pacific. https://asean.org/aseanoutlook-indo-pacific/
+Brewster, D. (2018). A contest of status and legitimacy in the Indian ocean. In D. Brewster
+(Ed.), India & China at the sea. Competition for naval dominance in the Indian Ocean
+(pp. 10–38). Oxford University Press.
+Center for Foreign Policy Research (CFPR). (2012). Nonalignment 2.0: A foreign and
+strategic policy for India in the twenty-first century. https://www.cprindia.org/research/
+reports/nonalignment-20-foreign-and-strategic-policy-india-twenty-first-century.
+Chaudhuri, P. P. (2018). New Delhi at sea: The China factor in the Indian ocean policy of
+the Modi and Singh governments (56–74). Oxford University Press.
+Chinoy, S. R. (2020, 26 June). Time to leverage the strategic potential of Andaman &
+Nicobar islands [policy brief]. MP-IDSA.
+Christensen, T. J. (2015). The China challenge: Shaping the choices of a rising power.
+W.W. Norton.
+Clinton, H. (2011). America’s pacific century. Foreign Policy. https://foreignpolicy.
+com/2011/10/11/americas-pacific-century/.
+Congressional Research Service. (2021). China naval modernization: Implications for
+U.S. navy capabilities—background and issues for congress. Congressional Research
+Service.
+CSIS. (2017). How much trade transits the south China sea? https://chinapower.csis.org/
+much-trade-transits-south-china-sea/
+Cunningham, F. S. (2020). The Maritime rung on the escalation ladder: Naval blockades
+in a US-China conflict. Security Studies, 29(4), 730–768. https://doi.org/DOI:10.1080/
+09636412.2020.1811462
+Deutsche Bank. (2019). Imagine 2030: The decade ahead.
+Erickson, A., & Wuthnow, J. (2016). Barriers, springboards and benchmarks: China
+conceptualizes the pacific ‘Island chains’. The China Quarterly, 225, 1–22. https://doi.
+org/10.1017/S0305741016000011
+
+192		
+
+Journal of Asian Security and International Affairs 8(2)
+
+Gampert, D. C. (2013). Sea power and American interests in the Western pacific. RAND.
+Gao, T., & Erokhin, V. (2020). China-Russia collaboration in arctic shipping and maritime
+engineering. The Polar Journal, 10(2), 353–374. https://doi.org/10.1080/21548
+96X.2020.1799612
+Garlick, J. (2018). Deconstructing the China–Pakistan economic corridor: Pipe dreams
+versus geopolitical realities. Journal of Contemporary China, 27(112), 519–533.
+https://doi.org/DOI: 10.1080/10670564.2018.1433483
+Garver, J. (2018). Limitations on China’s ability to understand Indian apprehensions
+about China’s rise as a naval power. In D. Brewster (Ed.), India & China at the sea.
+Competition for naval dominance in the Indian Ocean (pp. 75–89). Oxford University
+Press.
+Government of Japan. (2019, November). Towards free and open Indo-Pacific. https://
+www.mofa.go.jp/files/000407643.pdf.
+Guo, F. F., Huang, C. F., & Wu, X. L. (2019). Strategic analysis on the construction of new
+energy corridor China–Pakistan–Iran–Turkey. Energy Reports, 5, 828–841.
+Gupta, A. (2019, 2 October). India insight: $10 trillion GDP by 2030? Not quite, but
+almost. Bloomberg Intelligence. https://www.bloomberg.com/professional/blog/indiainsight-10-trillion-gdp-by-2030-not-quite-but-almost/.
+He, K., & Feng, H. (2020). The institutionalization of the Indo-Pacific: Problems and
+prospects. International Affairs, 96(1), 149–168. https://doi.org/10.1093/ia/iiz194.
+He, K., & Li M. (2020). Understanding the dynamics of the Indo-Pacific: US–China
+strategic competition, regional actors, and beyond. International Affairs, 28(1),1–7.
+https://doi.org/10.1093/ia/iiz242
+Holslag, J. (2009). The persistent military security dilemma between China and India. Journal
+of Strategic Studies, 32(6), 811–840. https://doi.org/10.1080/01402390903189592
+Indian Ministry of Defence. (2019). Annual Report 2018-2019. https://www.mod.gov.in/
+sites/default/files/MoDAR2018.pdf.
+Japan Ministry of Foreign Affairs. (2019). Diplomatic bluebook 2019: Japanese diplomacy
+and international situation in 2018. https://www.mofa.go.jp/fp/pp/page22e_000929.html.
+Ji, Y. (2018). Indian ocean: A grand Sino-Indian game of go. In D. Brewster (Ed.), India &
+China at the sea. Competition for naval dominance in the Indian Ocean (pp. 90–110).
+Oxford University Press. https://doi.org/10.1093/oso/9780199479337.003.0006
+Joshi, Y. & Mukherjee A., (2019). From denial to punishment: The security dilemma and
+changes in India’s military strategy towards china. Asian Security, 15(1), 25-43. https://
+doi.org/10.1080/14799855.2019.1539817
+Jie, Z. (2005). 中国能源安全中的马六甲因素 (Malacca factor in China’s energy
+security). International Politics Research, 3, 8–27.
+Kinling, L., & Liu, Z. (2020, 21 July). India and US conduct joint military exercises in Indian
+ocean. South China Morning Post. https://www.scmp.com/news/china/diplomacy/
+article/3094086/india-and-us-conduct-joint-military-exercises-indian-ocean.
+Lanteigne, M. (2008). China’s maritime security and the ‘Malacca dilemma’. Asian
+Security, 4(2), 143–161. https://doi.org/10.1080/14799850802006555
+Levy, J. S., & Thompson W. R. (2010). Balancing on land and at sea: Do states ally against
+the leading global power? International Security, 35(1), 7–43. https://doi.org/10.1162/
+ISEC_a_00001
+Li, N. (2009). The evolution of China’s naval strategy and capabilities: From “near coast”
+and “near seas” to “far seas”. Asian Security, 5(2), 144–169. https://doi.org/10.1080/
+14799850902886567
+Li, X. (2010). 马六甲困境”内涵辨析与中国的应对 (Analysis of the Connotation of
+Malacca Dilemma and China’s Response). World Economy and Politics, 10, 117–140.
+
+Paszak
+
+193
+
+Liff, A. (2018). China and the US alliance system. The China Quarterly, 233, 137–165.
+https://doi.org/10.1017/S0305741017000601
+Lim, Y. H. (2017). Expanding the dragon’s reach: The rise of China’s anti-access naval doctrine
+and forces. Journal of Strategic Studies, 40(1–2), 146–168. https://doi.org/10.1080/
+01402390.2016.1176563
+Lim, Y. H. (2020). China’s rising naval ambitions in the Indian ocean: Aligning ends, ways
+and means. Asian Security, 16(3), 396–412. https://doi.org/10.1080/14799855.2020.1
+721469
+Liu, H. (2007). Liu huaqing huiyilu [The memoirs of Liu Huaqing]. Press of the PLA.
+Mearsheimer, J. J. (2014). The tragedy of great power politics. W. W. Norton.
+Medcalf, R. (2020). Indo-pacific empire: China, America and the contest for the World’s
+pivotal region. Manchester University Press.
+Mitra, D. (2018). Indonesia told India its quest to join Malacca strait patrols isn’t feasible.
+The Wire. https://thewire.in/diplomacy/india-indonesia-malacca-strait-patrol.
+Modi, N. (2018). Prime minister’s keynote address at Shangri la dialogue. Government
+of    India.    https://www.mea.gov.in/Speeches-Statements.htm?dtl/29943/Prime+
+Ministers+Keynote+Address+at+Shangri+La+Dialogue+June+01+2018.
+Morrison, S. J. (2019). Address to Asialink ‘Where we live’, G20 Summit, Osaka, 28 June
+2019.
+Nye, J. S. (2011). The future of power. Public Affairs.
+Obama, B. (2015). Remarks by president Obama in address to the people of India, Siri
+Fort Auditorium New Delhi, India. https://obamawhitehouse.archives.gov/the-pressoffice/2015/01/27/remarks-president-obama-address-people-india.
+Observatory of Economic Complexity. (OEC) (2019). OEC World. https://oec.world/en.
+Pant, H. V. (2019). The US-India-China ‘Strategic triangle’: Theoretical, historical and
+contemporary dimensions. India Review, 18(4), 343–347. https://doi.org/10.1080/147
+36489.2019.1662192
+Pant, H. V., & Super, J. M. (2015). India’s ‘non-alignment’ conundrum: A twentiethcentury policy in a changing world. International Affairs, 91(4), 747–764.
+P.R.C. State Council. (2015). China’s Military Strategy.
+P.R.C. State Council. (2019). China’s National Défense in the New Era.
+Posen, B. R. (2003). Command of the commons: The military foundation of U.S. hegemony.
+International Security, 28(1), 5–46.
+RAND. (2015). The U.S.-China military scorecard: Forces, geography and the evolving
+balance of power 1996-2017.
+RAND. (2020). U.S versus Chinese powers of persuasion: Does the united states or China
+have more influence in the Indo-Pacific Region? RAND Corporation.
+Reuters (2017). China, Russia share opposition to US. THAAD in South Korea: Xi. https://
+www.reuters.com/article/us-china-thaad-russia-idUSKBN19O0N8
+Saran, S. (2017). Changing dynamics in India–China relations. China Report, 53(2),
+259–263. https://doi.org/10.1177/0009445517697398.
+Scott, D. (2018). The Indo-Pacific in US strategy: Responding to power shifts. Rising
+Powers Quarterly, 3(2), 19–43.
+Seah, S., Ha, H. T., Martinus, M., & Thao, P. T. P. (2021). The state of southeast Asia: 2021.
+ISEAS-Yusof Ishak Institute.
+Sheldon-Duplaix, A. (2016). Beyond the China seas. China Perspectives, 3, 43–52, https://
+doi.org/10.4000/chinaperspectives.7041
+Taylor Fravel, M. (2020). China’s ‘world-class military’ ambitions: Origins and
+implications. The Washington Quarterly, 43(1), 85–99. https://doi.org/10.1080/0163
+660X.2020.1735850
+
+194		
+
+Journal of Asian Security and International Affairs 8(2)
+
+The White House. (2017). National security strategy of the United States of America.
+United Nations. (2019). World population prospects 2019. Data Booklet. https://population.
+un.org/wpp/Publications/Files/WPP2019_DataBooklet.pdf
+U. S. Congress. (2020). H.R.6613 - Indo-Pacific Deterrence Initiative.
+U. S. Department of Defense (2020, September). Military and security developments
+involving the People’s Republic of China 2020.
+U. S. Department of Defense. (2018). Nuclear Posture Review.
+U. S. Department of Defense. (2019a). Indo-Pacific strategy report: Preparedness,
+partnerships, and promoting a networked region.
+U. S. Department of Defense. (2019b). Military and security developments involving the
+people’s Republic of China 2019.
+U. S. Department of Navy. (2020). Force design 2030. https://www.hqmc.marines.mil/
+Portals/142/Docs/CMC38%20Force%20Design%202030%20Report%20Phase%20
+I%20and%20II.pdf?ver=2020-03-26-121328-460
+U. S. Department of State. (2019). A free and open Indo-Pacific: Advancing a shared
+vision.
+U.S. Department of State. (2020). U.S. Relations with India. https://www.state.gov/u-srelations-with-india/.
+U. S. Energy Information Administration. (EIA). (2017). World oil transit chokepoints.
+U. S. National Defense Strategy Commission (NDSC). (2018). Providing for the common
+defense. the assessment and recommendations of the national defense strategy
+commission.
+Walt, S. (1985). Alliance formation and the balance of world power. International Security,
+9(4), 3–43. https://doi.org/10.2307/2538540.
+Walt, S. (1990). The origins of alliances. Cornell University Press.
+Waltz, K. (1979). Theory of international politics. Addison-Wesley.
+Weimar, N. D. (2013). Sino-Indian power preponderance in maritime Asia: A (re-)source
+of conflict in the Indian ocean and the south China sea. Global Change, Peace &
+Security, 25(1), 5–26. https://doi.org/10.1080/14781158.2013.761192.
+Yilmaz, S., & Daksueva, O. (2019). The energy nexus in China–Russia strategic partnership.
+International Relations of the Asia-Pacific, 19(1), 63–88. https://doi.org/10.1093/irap/
+lcx003.
+Yoshihara, T., & Holmes, J. R. (2018). Red star over the pacific: China’s rise and the
+challenge to U.S. Maritime strategy. Naval Institute Press.
+Zhang, Z. X. (2011). China’s energy security, the Malacca dilemma and responses. Energy
+Policy, 39(12), 7612–7615. https://doi.org/10.1016/j.enpol.2011.09.033
+
+

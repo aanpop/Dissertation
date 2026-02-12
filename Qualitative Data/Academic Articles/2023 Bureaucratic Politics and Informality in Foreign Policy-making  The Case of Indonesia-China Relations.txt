@@ -1,0 +1,1012 @@
+The International Spectator
+Italian Journal of International Aﬀairs
+
+ISSN: 0393-2729 (Print) 1751-9721 (Online) Journal homepage: www.tandfonline.com/journals/rspe20
+
+Bureaucratic Politics and Informality in Foreign
+Policy-making: The Case of Indonesia-China
+Relations
+Moch Faisal Karim, Andini Gobel & I Gede Wahyu Wicaksana
+To cite this article: Moch Faisal Karim, Andini Gobel & I Gede Wahyu Wicaksana (2023)
+Bureaucratic Politics and Informality in Foreign Policy-making: The Case of Indonesia-China
+Relations, The International Spectator, 58:3, 131-151, DOI: 10.1080/03932729.2023.2235140
+To link to this article: https://doi.org/10.1080/03932729.2023.2235140
+
+Published online: 19 Jul 2023.
+
+Submit your article to this journal
+
+Article views: 667
+
+View related articles
+
+View Crossmark data
+
+Citing articles: 2 View citing articles
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=rspe20
+
+THE INTERNATIONAL SPECTATOR
+2023, VOL. 58, NO. 3, 131–151
+https://doi.org/10.1080/03932729.2023.2235140
+
+RESEARCH ARTICLE
+
+Bureaucratic Politics and Informality in Foreign
+Policy-making: The Case of Indonesia-China Relations
+Moch Faisal Karim
+
+a,b
+
+, Andini Gobelb and I Gede Wahyu Wicaksana
+
+c
+
+a
+
+Faculty of Social Sciences, Universitas Islam Internasional Indonesia, Depok; bFaculty of Humanities, Bina
+Nusantara University, Jakarta; cFaculty of Social and Political Sciences, Universitas Airlangga, Surabaya
+ABSTRACT
+
+KEYWORDS
+
+How do governments respond to bilateral relationships characterised
+by growing economic cooperation on one side and concerns about
+national security on the other? The existing literature has mainly
+employed systemic, domestic and individual levels of analysis, but
+has failed to scrutinise the important bureaucratic aspect of policymaking. By focusing on Indonesia’s policy towards the People’s
+Republic of China’s (PRC) assertiveness in the South China Sea
+(SCS), we examine the role of the ‘curator’, an oﬃcial tasked with
+ensuring successful policy outcomes by often bypassing formal
+institutions in the policy-making process. Arguably, the main
+reason Indonesia maintained a relatively coherent policy can be
+attributed to the role of the curator, who worked within an
+informal space to coordinate maritime policies enacted by a
+bureaucratic apparatus that was deemed to be hindering the
+president’s approach. By incorporating informality as a mode of
+coordination, this analysis of Indonesia-China relations advances
+the bureaucratic politics model in FPA.
+
+Indonesia; the PRC;
+bureaucratic politics;
+informal space; policymaking; South China Sea
+
+Cooperation between Indonesia and the People’s Republic of China (PRC) during the
+Presidency of Joko ‘Jokowi’ Widodo (2014-present) has been more intense due to
+Jokowi’s interest in attracting Chinese investment for his development plan, known
+widely as Nawacita (Connelly 2015; Sulaiman 2019; Syailendra 2017). Nawacita has
+prioritised accelerating infrastructure construction to transform frontier areas into
+new growth centres and encourage inter-island connectivity throughout the archipelago
+(Salim and Negara 2018; Wicaksana 2017).
+However, Jokowi has also grappled with a predicament due to the PRC’s escalating
+assertiveness in the South China Sea (SCS), marked by the deployment of Chinese
+coast guard ships within Indonesia’s Exclusive Economic Zone (EEZ) in the North
+Natuna Sea (Kusumadewi 2016). The government in Jakarta responded to the PRC’s
+incursion by launching a ‘war’ against Illicit, Unregulated, and Unreported (IUU)
+ﬁshing. Any foreign-registered vessels found “illegally encroaching in Indonesian
+waters would be subject to legal proceedings and sunk” (Kementerian Pertahanan RI
+2016). This policy provoked countries whose vessels were impacted, which included
+the PRC. Beijing contested the Indonesian maritime authority claiming its ﬁshermen
+CONTACT Moch Faisal Karim
+© 2023 Istituto Aﬀari Internazionali
+
+faisal.karim@binus.ac.id; faisal.karim@uiii.ac.id
+
+@ical_karim
+
+132
+
+M. F. KARIM ET AL.
+
+did not violate any law because the waters belonged to the PRC’s ‘traditional’ territory
+(South China Morning Post 2016).
+These narratives illustrate the ambivalence of Indonesia’s policy toward the PRC. On
+the one hand, it was seen as a threat to national sovereignty and security, yet, on the other
+hand, the rise of the PRC promised opportunities for beneﬁcial economic ties. Such a
+dilemma characterises the delicate balance in the Jokowi government’s dealings with
+Beijing. Nevertheless, overall, Indonesia’s China policy under Jokowi regarding SCS
+could be perceived as fundamentally stable.
+The existing literature emphasises systemic, domestic and individual levels of analysis,
+and includes factors such as the degree of interdependence with the PRC, strategic
+culture, elite perception and leaders’ background. These factors have been identiﬁed as
+being inﬂuential in shaping Indonesia’s attitude toward the PRC’s aggressiveness in
+the SCS (Connelly 2015; McRae 2019; Sulaiman 2019). However, studies on this issue
+through the lens of bureaucratic politics1 are rare, even though the roles of bureaucracy
+and bureaucrats in foreign policies of new democratic states like Indonesia are intriguing.
+This article attempts to address this dearth of knowledge by investigating how the contestation between diﬀerent bureaucratic actors inﬂuenced the direction of Jokowi’s policy
+in responding to the PRC’s military activity in the SCS.
+This article argues that by focusing on bureaucratic political dynamics, we can unpack
+how Indonesia’s ambivalence towards the PRC’s provocations in the SCS stems from the
+fragmented nature of the state’s bureaucratic system – which causes overlaps in the rules
+and duties of the executive agencies – and leads to competition and contestation among
+bureaucrats pursuing their diﬀerent interests. Nonetheless, the Jokowi government
+adopts a relatively coherent China policy. How can Jokowi’s government provide
+stable and coherent policies toward the PRC despite such contestation? We show that
+such an outcome can be attributed to a ‘curator’ whose job is to unite the diverse and
+conﬂicting positions of the relevant bureaucratic actors through an informal space.
+The notion of a curator has become essential in understanding how the Jokowi administration can maintain a good relationship with the PRC.
+This article advances the bureaucratic politics model in Foreign Policy Analysis (FPA)
+by incorporating the importance of informal networks in decision-making. Informal
+politics, through the role of curator, oﬀers opportunities for a leader to align the
+diﬀerent preferences of bureaucratic actors. Our study also contributes to the literature
+on how states deal with dilemmatic external relations. Some scholars tend to conceptualise smaller countries’ responses to the policies of more powerful countries as hedging, a
+mixed strategy that involves both economic engagement and geopolitical caution, as
+clearly exempliﬁed by Kuik Cheng-Chwee (2016) and Jürgen Haacke (2019). However,
+by moving away from the focus of this scholarship on complex diplomatic strategies
+and multifaceted power games, this article sheds light on the internal dynamics of the
+executive branches of government where foreign policy is formulated, as the relevant
+policy stakeholders’ ideas, interests and practices are, arguably, more inﬂuential to a
+state’s foreign aﬀairs.
+1
+
+Bureaucratic politics is the process by which government oﬃcials, typically in bureaucracies, utilise their institutional
+positions to inﬂuence policy outcomes. This concept emphasises the role of government agencies and departments
+in policy-making, underscoring the potential for conﬂict and negotiation among bureaucratic entities pursuing their
+own agendas and interests; see Graham Allison and Morton Halperin (1972).
+
+THE INTERNATIONAL SPECTATOR
+
+133
+
+Methodologically, this article utilises primary and secondary sources. Primary data is
+obtained from reports and press releases issued by relevant government institutions. We
+refer to domestic and international media reporting on current events regarding Indonesia’s China policy as well as government’s documents. We complement such primary
+data by using secondary data gathered from relevant analysis and publications. This
+includes academic articles, policy analysis reports and books that discuss Indonesia’s
+foreign policy and its relations with the PRC.
+The remainder of this article is organised as follows. Following this introductory part,
+section two reviews the diﬀerent approaches to Indonesia’s China policy, while section
+three introduces the concept of informal space and the role of a curator in the bureaucratic politics of foreign policy-making. The following sections examine Indonesia’s maritime policy agenda and the interests of each bureaucratic actor in dealing with the threat
+from the PRC respectively. Section six analyses the curator’s role in reconciling the conﬂicting interests of diﬀerent state agencies in Indonesia’s foreign policy decision-making
+process towards the Chinese threat. In the conclusion, we summarise the study’s main
+ﬁndings.
+
+Understanding Indonesia’s response to the PRC’s assertiveness in the
+South China Sea
+It has been widely acknowledged that, as the PRC’s economic power grew, it has developed a more assertive foreign policy that has led to insecurity in the Asia-Paciﬁc region.
+The most compelling example is the PRC’s territorial claims in the SCS which have led to
+tensions with several Southeast Asian countries, including Indonesia (Thayer 2011). The
+‘nine-dash line’, which encompasses nearly 90 percent of the sea’s waters, serves as the
+basis for the PRC’s territorial claims in the SCS. The disputed territories consist of
+islands, reefs, and shoals that are believed to be rich in natural resources, such as oil
+and gas reserves, and are strategically important due to their location in key shipping
+lanes. Although Indonesia is not a claimant state in the territorial disputes over the
+SCS, Jakarta has been involved in the dispute due to the PRC’s activities in the area
+around the Natuna Islands (McRae 2019). This is because Indonesia has overlapping
+claims with the PRC’s ‘nine-dash line’ in the area, which is part of Indonesia’s Exclusive
+Economic Zone (EEZ).
+Recently, such aggression has elicited a strong response from Indonesia. For instance,
+in December 2019, when a Chinese coast guard vessel escorted Chinese ﬁshing boats into
+the waters of Natuna, Indonesia responded by sending navy ships to assert its sovereignty. The incident was seen as a signiﬁcant escalation in tensions between Beijing
+and Jakarta. However, in other instances, Indonesia appears to tone down its conﬂict
+with the PRC and has also sought to engage in dialogue with Beijing in order to
+manage tensions in the SCS. In March 2021, the two countries held high-level talks on
+the issue, with both sides emphasising the importance of maintaining peace and stability
+in the region. Overall, as mentioned, Indonesia’s China policy – especially in regard to
+SCS – could be perceived as fundamentally stable, with a consistent approach over time.
+This leads to the related question of what factors underpin Indonesia’s stable and
+coherent policies toward the PRC. The literature in this regard can be categorised into
+three major groups: systemic, state and individual levels of analysis.
+
+134
+
+M. F. KARIM ET AL.
+
+At the systemic level, interdependence is considered a crucial factor (Hu 2023; Shekhar
+2012), driving Southeast Asian states to view the PRC as an opportunity rather than a
+threat (Zhang 2018). However, Moch Faisal Karim and Rona Nabila (2022) suggest that
+alignment patterns and geopolitical constraints inﬂuence how these governments interact
+with the PRC. The level of threat perceived from the PRC varies due to diﬀerent degrees of
+interdependence, alignment patterns and geopolitical constraints. Countries with a high
+dependence on the PRC, such as Cambodia, Laos and Myanmar, support Beijing’s presence
+(Nandyatama 2019). Malaysia and the Philippines are inclined towards closer relations
+with the PRC due to their economic interests, whereas Vietnam prefers to have closer
+relations with the United States (US) to counteract the PRC’s inﬂuence (Vu et al. 2021).
+Indonesia, Thailand and Singapore opt for impartiality (Kuik 2017).
+Other studies have surveyed the diﬀerences in domestic elites’ perception and strategic
+culture regarding the PRC (Fitriani 2018; Liang 2018). Some governments take public
+opinion into account when drafting policies related to the PRC (Busbarat 2016), while
+other scholars have highlighted continuity and path dependency in government policies
+when faced with a threat (Stuart-Fox 2004). Yohanes Sulaiman (2019), for instance,
+reiterates that Indonesia’s strategic culture, which emphasises the importance of economic growth to maintain domestic political stability, has led Jakarta to continuously
+demonstrate ambiguous policies toward the PRC. Furthermore, one might argue that
+Indonesia’s ‘Free and Active’2 foreign policy enables it to balance economic and strategic
+interests while preserving independence and sovereignty. Rather than aligning with the
+US to counter the PRC, Indonesia prefers dialogue and cooperation with Beijing on economic issues, while simultaneously enhancing its military capabilities (Novotny 2010).
+On the individual level, scholars have examined how the important role of leadership
+characteristics, including how the background of leaders have aﬀected their China policies. This is because leaders have the power to decide the direction of their country’s political and economic power (Chin 2021). For instance, Dave McRae (2019) considers
+Jokowi’s nationalistic tendencies as more assertive in handling Chinese ships entering
+Indonesian waters than the administration of his predecessor President Susilo
+Bambang Yudhoyono (SBY). However, neither president has adopted a clear position
+on the Chinese threat in the North Natuna Sea due to their economic ties with the
+Chinese business community.
+The scholarship on Southeast Asian foreign policy towards the PRC overlooks the
+varying perceived threat levels among bureaucratic agencies responsible for their own
+China policies. Understanding the politics at the bureaucratic level complements existing
+scholarship and provides a more comprehensive perspective. Indeed, while Ardhitya
+Eduard Yeremia’s (2022) work on the Indonesian Ministry of Foreign Aﬀairs’ perception
+and foreign policy strategy towards the PRC has shown the beneﬁts of a bureaucratic
+approach, it neglects Indonesia’s maritime policy and the involvement of other bureaucratic actors. Bearing this in mind, this article intends to develop a deeper understanding
+of the Jokowi administration’s policy toward the PRC by employing the conceptual
+framework of bureaucratic politics.
+2
+
+The ’Free and Active’ foreign policy of Indonesia, articulated in 1948, promotes independence from alignment with
+global superpowers and active participation in international aﬀairs. This policy, a pillar of Indonesia’s diplomacy, guarantees the nation’s sovereignty and promotes proactive engagement with global and regional issues.
+
+THE INTERNATIONAL SPECTATOR
+
+135
+
+Bureaucratic politics, informality and the curator
+The bureaucratic politics model in FPA views foreign policy as a result of negotiations
+and political bargaining among bureaucracies, due to inﬂuential independent elites
+who share power (Allison and Halperin 1972). This model depicts policy-making as a
+game played by various bureaucracies, where behaviour is driven by their respective
+organisational interests (Long 2016). Recent studies have focused on the interaction
+between formal and informal bureaucratic interests and their relationship with external
+actors (Zhang 2016; Giessen et al. 2016). This article contributes to this literature by
+exploring the bureaucracy’s formal interests in conducting its administrative function
+and how overlapping objectives and actions can occur in policy-making due to complicated and fragmented bureaucratic governance.
+For example, in maritime governance, Indonesia has twenty-one institutions, eighteen
+executive bodies, two judicial organs and one quasi-judicial oﬃce involved in every part
+of governance, such as maritime security, ﬁsheries law enforcement and EEZ protection.
+This creates overlapping rules between the diﬀerent agencies, resulting in intense competition between them to maintain their current interest (Laksmana 2022). For this
+reason, bureaucratic actors strive to achieve goals and maximise interests by inﬂuencing
+policies while competing for a shrinking budget. However, Indonesia lacks a single policy
+framework to unite the various maritime bodies, further fragmenting the execution of its
+maritime policies (Edwards 2022).
+This article posits that bureaucratic coordination is not always resolved through
+formal channels, but most of the time, incompatibilities are managed through informal
+mechanisms. Informality in the bureaucracy usually occurs in countries with a complex
+bureaucratic system. Problems, such as the overlap between the policies of an executive
+branch of government and other institutions, as well as diﬀerences in the perception of
+each institution on an issue, often arise (Edwards 2022, 98). This is where informality can
+play a role as the informal space allows the barriers of formality to be bypassed so that
+bureaucratic tensions and conﬂicts can be overcome.
+Informality in dealing with bureaucracy is not a new practice in Indonesia. The literature on Indonesian bureaucratic politics has established the importance of brokers3 in
+helping to expedite the process of policy-making through informal channels. One
+reason for this is the prevalence of patronage networks and personal connections
+within the bureaucratic system, which often determine access to information, resources
+and decision-making power (Berenschot and van Klinken 2018). These networks may be
+based on familial, regional or political ties and can be diﬃcult to penetrate for those who
+are not part of the network.
+A further factor is the decentralisation of power within the Indonesian government,
+which has granted local governments and bureaucracies greater authority. This has led
+to the emergence of local power brokers and informal networks that can inﬂuence
+decision-making at the local level (Aspinall 2013). Consequently, informal networks
+and practices can also inﬂuence the direction of foreign policy, especially in countries
+with a high degree of political and social fragmentation.
+3
+
+Brokers are individuals who possess deep understanding of oﬃcial procedures and have informal relationships with politicians and bureaucrats. Their role is to assist their clients in understanding and working through complex bureaucratic
+procedures, to help secure government beneﬁts or to speed up policy-making processes; see Berenschot (2019).
+
+136
+
+M. F. KARIM ET AL.
+
+In the context of foreign policy-making, informality and the role of brokers are crucial
+because they can facilitate communication and negotiation between diﬀerent actors and
+help to overcome formal bureaucratic obstacles (Elsig 2010). Brokers, who serve as intermediaries between various actors in the policy-making process, utilise their personal connections and informal networks to obtain access to decision-makers and inﬂuence policy
+outcomes (Lieberthal and Lampton 2018). This is especially useful when formal channels
+of communication and decision-making are constrained, unresponsive or impeded by
+bureaucratic red tape.
+However, the application of informality within the literature on Indonesian foreign
+policy has been overlooked. This article identiﬁes the informal space in bureaucratic politics as a way to better explain the process of Indonesian foreign policy-making. Speciﬁcally, it mobilises the concept of a curator to clarify how bureaucratic politics works in an
+informal space. Daria Isachenko (2019) explains that if an institution within a government system cannot function properly to solve problems due to regulatory constraints,
+the government will use informal governance methods. They will undertake informal
+approaches such as social connections, negotiations and bargaining outside of the existing legal framework. These tasks are carried out by a ‘curator’, a term applied in Russia to
+describe government actors who function as advisors, thinkers, intermediaries and policy
+coordinators (4). A curator is tasked with coordinating ambiguous or problematic policies according to the president’s directives. Curators are usually oﬃcials with positions
+in government and are likely to be close to the president. This makes their power and
+inﬂuence in coordinating policies undeniable.
+Curators also provide a mechanism to manage diﬀerent interests due to the fragmented nature of the state. As suggested by several examples, the nature of the state in many
+countries from the Global South can be characterised as fragmented. Such fragmentation
+stems from the emergence of a market of patrons and clients as a result of democratisation which created opportunities for them to compete for state power (Aspinall 2013).
+Hence, bureaucracy has become the arena of competition among multiple patrons and
+can create seemingly conﬂicting policies. The function of the curator, then, is to
+reduce such contestation by persuading and sometimes disciplining a bureaucratic
+agency that might have diﬀerent interests from the president.
+The curator’s role is also similar to that of a policy entrepreneur; however, there are
+signiﬁcant diﬀerences between them. Policy entrepreneurs take advantage of opportunities to inﬂuence policy outcomes to enhance their self-interest and are willing to
+invest resources such as time, energy, reputation and money, to promote desired
+policy products (Mintrom and Norman 2009). They can come from outside the government, such as the private and public sectors. Curators, on the other hand, do not work for
+personal interests and rarely use personal resources in carrying out their duties. They are
+also government oﬃcials and work in the interests of their leader, namely the president.
+The role of curator is not a designated position within Indonesian agencies or institutions. However, a similar process can be observed involving Indonesian government
+actors that work informally to resolve complex issues. For example, Luhut Binsar Panjaitan
+(known widely as Luhut) can arguably be identiﬁed as functioning as a curator. Luhut, a
+trusted associate of Jokowi, was tasked with maintaining the government’s economic
+interests with the PRC, despite the tensions in the SCS. Under the Jokowi administration,
+he served as the Coordinating Minister for Maritime Aﬀairs, overseeing the Ministry of
+
+THE INTERNATIONAL SPECTATOR
+
+137
+
+Transportation, Ministry of Maritime Aﬀairs and Fisheries (MMAF), Tourism and Energy
+and Mineral Resources. In practice, he is at the forefront of various government programmes, especially those concerning policies towards the PRC (Mutasya 2022). For
+instance, he formed and led the Global Maritime Fulcrum (GMF) task force that was
+appointed to supervise the implementation of the PRC’s Belt and Road Initiative (BRI)
+projects by engaging the relevant ministries and state agencies (Rakhmat 2020). For this
+reason, he was able to act as an intermediary agent for the central government to lead policies in a manner that did not conﬂict with formal institutions.
+By using informal spaces such as backchanneling, bargaining, lobbying or even coercion,
+the curator can quell competition between the diﬀerent bureaucracies when creating policies. That way, all formal institutions with conﬂicting interests and tasks will be coordinated
+by an informal agent who aligns policies with the president’s interests (Isachenko 2019).
+A curator takes responsibility on behalf of the president and hence protects the president from any potential negative impact. In some cases, a president may wish to
+pursue a foreign policy agenda that is not necessarily popular with the public or that
+could create controversy or political opposition. By using informal agents to advance
+that agenda, the president can distance themself from the policy and deﬂect criticism
+or opposition onto the curator. This can be particularly useful when the president is concerned about maintaining their political capital and avoiding a backlash from the public
+or other political actors.
+Furthermore, such agents may have greater ﬂexibility and discretion in carrying out
+the president’s foreign policy agenda, particularly when it comes to navigating bureaucratic obstacles or engaging in sensitive diplomatic negotiations. By delegating authority
+to an informal agent, the president can empower that agent to act quickly and decisively,
+without being mired in by bureaucratic procedures or political calculations.
+
+The Global Maritime Fulcrum and Indonesia’s China policy
+Since the election of Jokowi as Indonesia’s new president in 2014, the country’s foreign
+policy has changed to some extent, with the country’s maritime status becoming a key
+issue (Rosyidin and Pattipeilohy 2020). During the presidential campaign and the early
+days of the presidency, Jokowi received broad support for changing the country’s development agenda. He believed that Indonesia focused excessively on land infrastructure development projects and was ignoring the strength of its maritime resources. He therefore aimed
+to turn Indonesia into a GMF by taking advantage of its archipelagic composition that contains some of the most strategic sea communication lines in the world (Syailendra 2017).
+To support the development of GMF infrastructure development, the Indonesian government has relied on Chinese investment and oﬀered twenty-eight projects worth
+USD91.1 billion to Chinese investors as part of Indonesia’s participation in the PRC’s
+BRI (Mursitama and Ying 2021). Besides infrastructure issues, maritime security was
+also a concern for Indonesia, especially international territorial disputes in the country’s
+maritime borders, transnational crimes at sea and the protection of national sovereignty
+and marine wealth (Wicaksana 2021). Tensions in the SCS have added to the importance
+of national maritime security, therefore it is not surprising that protecting the sea border
+has become a key priority for the Indonesian government. According to the Indonesian
+Defense White Paper, maritime troubles can aﬀect the stability of the entire region
+
+138
+
+M. F. KARIM ET AL.
+
+because they have the potential to develop into an open armed conﬂict (Kementerian
+Pertahanan RI 2015). Although Indonesia was not a claimant state and remains
+neutral in the territorial waters disputes, Chinese ﬁshing boats and sea patrols have
+often crossed the Indonesian EEZ borders in the Natuna islands, thus penetrating Indonesian sovereignty.
+The Natuna waters, rich in resources like oil, gas and ﬁsheries, have become a vital
+area for Indonesia’s ﬁshing, tourism and oil and gas industries. To support these industries, the government is building the Integrated Marine and Fisheries Centres (SKPT) to
+promote regional economic growth and state sovereignty (Kementerian Kelautan dan
+Perikanan 2017b). The Natuna waters have also been a ﬂashpoint for the strained
+relationship between the PRC and Indonesia, when in March 2016 the Chinese vessel
+KM Kway Fey 10078 was arrested for illegal ﬁshing in the Natuna EEZ. The arrest,
+however, was thwarted by the Chinese coast guard, which was fully armed and requested
+the captured ship be released (Tempo 2016). Incidents like this continued until the Indonesian Navy warship, KRI Imam Bonjol-383, ﬁred warning shots at two Chinese coast
+guard vessels in June 2016. This armed dispute sparked diplomatic tensions between
+Jakarta and Beijing (BBC News 2016).
+Jokowi’s attitude toward the PRC was perceived as indecisive domestically, with some
+criticising his pursuit of Chinese investment in infrastructure as softening his stance on
+Beijing’s aggression in Natuna. To counter this perception, Jokowi held a cabinet meeting
+aboard the KRI Imam Bonjol-383 sailing around Natuna, receiving praise for his ﬁrm
+action on the PRC. However, he later stated that the government wanted to ease tensions
+with Beijing, possibly to avoid jeopardising Indonesia’s economic cooperation with the
+PRC. This ambivalence is related to the contestation and fragmentation of bureaucratic
+interests in Indonesia’s China policy.
+
+Bureaucratic fragmentation in Indonesia’s maritime policy toward the
+PRC
+Despite being Jokowi’s top developmental priority, the GMF has faced signiﬁcant challenges. The framework was hindered by the absence of a comprehensive operational
+strategy and decisive action towards the PRC, leading to varying interpretations
+amongst diverse state agencies. This lack of a cohesive approach resulted in suboptimal
+execution of developmental projects (Wicaksana 2017). The fragmented and ineﬀective
+maritime sectors further added to internal problems, with each bureaucracy having a
+diﬀerent perspective on managing the PRC’s inﬁltration into the Natuna waters. This
+bureaucratic politics resulted in ambiguity and complicated Indonesia’s maritime
+policy towards Beijing (Laksmana 2022). The Ministry of Foreign Aﬀairs (KEMLU),
+MMAF, Indonesian Navy or Tentara Nasional Indonesia Angkatan Laut (TNI-AL)
+and Marine Security Agency (BAKAMLA) were some of the leading institutional
+actors with formal agendas and interests in handling the SCS crisis.
+The Ministry of Foreign Aﬀairs
+KEMLU is responsible for maintaining good relations with the PRC, and their interest
+and position in the SCS issue can be identiﬁed in the GMF’s pillar that emphasises
+
+THE INTERNATIONAL SPECTATOR
+
+139
+
+maritime diplomacy in conﬂict resolution eﬀorts. Hence, the Ministry’s main task is to
+seek dialogue with the PRC. At the Association of South East Asian Nations (ASEAN)
+level, the Indonesian diplomatic representatives always maintained a neutral position
+as a country that can act as an honest broker (Parameswaran 2016) and Jakarta also
+wanted to take the same approach to the SCS issue. However, the Ministry continued
+to make eﬀorts to secure Indonesia’s EEZ in the North Natuna Sea. For example, a
+high-level oﬃcial once strongly protested against the PRC when their coast guard violated Indonesia’s borders.
+Foreign Minister Retno Marsudi emphasised that Indonesia would never recognise
+Beijing’s claim to the North Natuna Sea. In a statement responding to the incursion in
+Natuna in early 2020, Foreign Minister Retno ﬁrmly reiterated Indonesia’s position:
+Indonesia will never recognise the nine-dash line, a unilateral claim made by China that has
+no legal reasons recognised by international law, especially UNCLOS 1982 (CNN Indonesia
+2020).
+
+Oﬃcially, however, the Foreign Ministry has never acknowledged any dispute with the
+PRC. This is underpinned by the rationale that accepting such a dispute would implicitly
+recognise the Natuna Sea as a contested region. Indeed, Indonesia asserts the Natuna Sea
+as an unequivocal part of its sovereign territory, not a contentious area. Therefore, conceding to the existence of a dispute is a stance Indonesia ﬁrmly resists. Instead, as part of
+Indonesia’s eﬀorts to secure its sovereignty in Natuna, KEMLU produced a new map that
+renamed the part of the SCS in Indonesia’s EEZ the ‘North Natuna Sea’. Since the new
+map was published in 2017, the PRC has protested against the policy and asked Indonesia
+to reverse its decision to rename the area. The Chinese Foreign Minister also submitted a
+note to KEMLU, stating that Indonesia’s move to change its “internationally accepted
+name” would further complicate matters and could aﬀect regional peace and stability
+(The Jakarta Post 2017). From these diplomatic exchanges, it can be seen that, despite
+trying to maintain good relations and reduce conﬂict with the PRC through dialogue,
+KEMLU was increasingly showing a tendency to confront Beijing, albeit indirectly.
+This agenda is primarily driven by the Ministry’s focus on diplomatic eﬀorts to ensure
+the establishment of a code of conduct in the SCS. The establishment of a code of conduct
+is the main aim of KEMLU and relates to eﬀorts to resolve issues in the SCS since ASEAN
+and PRC agreed to issue a Declaration on the Conduct of Parties in the SCS which was
+signed in Phnom Penh, Cambodia, on 4 November 2002 (Kementerian Luar Negeri
+Republik Indonesia 2013). Arguably, this has become the oﬃcial organisational interest
+of the Ministry in regard to the SCS.
+
+The Ministry of Maritime Aﬀairs and Fisheries
+During his presidential campaign, Jokowi raised the ﬁsheries issue and the plight of
+ﬁshermen whose catches had declined in recent years. Jokowi claimed that due to
+rampant IUU ﬁshing, Indonesia was losing billions of dollars each year (Syailendra
+2017, 6). Consequently, Indonesia must protect domestic ﬁshermen by defending state
+sovereignty and fulﬁlling their exclusive rights to the resources in Indonesia’s EEZ.
+Under the leadership of Susi Pudjiastuti, commonly known as Susi, the MMAF
+adopted a more assertive policy against illegal ﬁshing vessels. This approach included
+
+140
+
+M. F. KARIM ET AL.
+
+sinking and burning such vessels (Sulaiman 2019). According to Susi, the policy was
+carried out to provide a deterrent and a warning to foreigners who wanted to ﬁsh in
+Indonesian waters (Kementerian Kelautan dan Perikanan RI 2016). Susi’s actions
+against IUU ﬁshing brought the MMAF to the frontline of Indonesia’s China policy.
+The Ministry’s task is to safeguard ocean resources, not the security of Indonesia’s
+territory (Kementerian Kelautan dan Perikanan RI 2017a). To enforce laws against
+IUU ﬁshing, Susi worked with various institutions, including the TNI-AL,
+BAKAMLA, the Water Police and the Attorney General’s Oﬃce. However, due to
+the lack of synergy, President Jokowi formed Task Force 115 in 2015, which combined
+the oﬃces under one agency. Susi commanded the task force, which aimed to maximise the duties of all members in eradicating IUU ﬁshing through fair punishment,
+including sinking illegal foreign boats (Kementerian Kelautan dan Perikanan RI
+2017b).
+In eradicating IUU ﬁshing in Indonesian waters, Susi was one of the most vocal and
+decisive oﬃcials concerning this issue. She challenged the PRC on their vessels overﬁshing in Indonesian waters and even mentioned this behaviour as an example of transnational organised crime (Rose 2018). In addition, she also often expressed her
+frustration with the PRC in the mass media and summoned the Chinese Ambassador
+to her oﬃce. Furthermore, she threatened to take the PRC to the International Tribunal
+for the Law of The Sea (Suryadinata and Izzuddin 2017) and further criticised other
+Indonesian agencies for inaction toward Beijing’s IUU ﬁshing in Indonesian waters.
+According to her, investment interests with the PRC and illegal ﬁshing needed to be separated. Finally, she stressed that the diplomatic steps taken by Indonesia to maintain
+relations between the two countries were an inappropriate response to the PRC’s IUU
+ﬁshing activities (Kompas 2020).
+MMAF’s attitude toward the PRC shows the agency’s seriousness in carrying out its
+duties and obligations of protecting Indonesia’s marine resources. It was highly assertive
+toward the PRC under Susi’s leadership in contrast to the actions taken by KEMLU.
+Although Susi said that the policy on illegal ﬁshing had had no eﬀect on, and was inseparable from, Indonesia’s investment interests with Beijing, it is likely that if this assertiveness had continued, Jokowi’s economic agenda with the PRC would have been
+disrupted.
+Arguably, MMAF’s more assertive stance was primarily driven by Susi’s interpretation
+of Indonesia’s national interest. Indeed, the decision to carry out the sinking was her
+interpretation of the government’s vision to make Indonesia the world’s maritime axis
+(Kompas 2017). In carrying out her duties while at MMAF, she used a three-pillar
+approach – sovereignty, sustainability and prosperity.
+Susi’s experience as a successful ﬁsh entrepreneur who had exported products to
+countries like Japan and the US played a signiﬁcant role in shaping her aggressive
+policy towards foreign vessels in the SCS. She noticed that since around 2000, Indonesian
+ﬁshermen faced challenges in catching ﬁsh and the government’s decision to grant
+ﬁshing licenses to foreign vessels in 2001 worsened the situation. Consequently, as the
+Minister of Maritime Aﬀairs and Fisheries since 2014, Susi implemented a moratorium
+on permits for foreign and ex-foreign ﬁshing vessels. In addition to this, she also
+actively worked towards eradicating illegal ﬁshing, which has yielded positive results
+(Scarpello 2020).
+
+THE INTERNATIONAL SPECTATOR
+
+141
+
+The TNI-AL and BAKAMLA
+With the increasing tensions in the North Natuna Sea, the TNI-AL has prepared itself to
+maintain Indonesia’s security and sovereignty. To do so, the government built a military
+base in Natuna and prepared a dock for the Navy patrol boats equipped with a company
+of marines. These eﬀorts demonstrate how the TNI-AL perceived the PRC’s intensifying
+operations in the Natuna waters as a threat. However, in conducting patrol and guard
+duties, the Navy is faced with competition from other security bodies, mainly
+BAKAMLA. Established in 2014, BAKAMLA is the most recent incarnation of the Maritime Security Coordinating Board (BAKORKAMLA) which was formed in 1972. As
+BAKAMLA was now responsible for law enforcement, its main task has become to
+conduct security and safety patrols throughout the country’s territorial seas and EEZ
+(Sekretariat Kabinet Republik Indonesia 2014). This role undoubtedly overlaps with
+that of the Navy and conﬁrms the fragmentation and disorder of Indonesia’s maritime
+governance, which is operated by a power-sharing system. Additionally and unfavourably, the Navy is steered by a strategic military culture, which continually positions
+the armed forces as the leading and dominant security and defence actor as opposed
+to other state agencies (Arif and Kurniawan 2018).
+In terms of leadership, BAKAMLA was under the direct auspices of the president,
+while the Navy is under the commander-in-chief of the armed forces and the Ministry
+of Defence. Operationally, the Navy has a much larger budget than BAKAMLA. In
+2018, the former received IDR3.39 trillion, while BAKAMLA’s largest budget was only
+IDR720.6 billion, which they received in 2017. Since then, BAKAMLA’s budget has continued to shrink (Pusat Kajian Anggaran DPR RI 2021). Despite its smaller budget,
+BAKAMLA retains responsibility for overseeing the Natuna region under the ‘class
+captain’ model.4 This model, characterised by the assignment of a single agent to
+manage patrol assets and activities within a speciﬁed area, informally delegates
+BAKAMLA as the ‘class captain’ for the North Natuna Sea (Laksmana 2022, 137).
+Although there is currently a mutual understanding between the Navy and
+BAKAMLA, the lack of an integrated approach, caused by the egocentrism of each
+bureaucracy and the gap in legal interpretations, has become an obstacle in dealing
+with illegal activities in Natuna, so national security practice in the region has been weakened as a consequence.
+By increasing its involvement, BAKAMLA aimed to have greater responsibility for
+dealing with issues in the SCS. It has argued that the potential for conﬂict in the SCS
+also required the presence of Indonesian law enforcers in the North Natuna Sea, considering that threats in the SCS were more likely to be non-military in character, encompassing issues such as illegal ﬁshing, skirmishes between ﬁshing boats and coast guard vessels,
+conﬂicts over natural resources and environmental degradation. In addition, BAKAMLA’s presence is also important to ensure that the Indonesian government and
+ﬁshermen were able to exploit various natural resources in the EEZ and the North
+Natuna Sea continental shelf (Chua 2020).
+
+4
+
+The ’class captain’ model refers to an organisational structure where one designated agency or body is assigned the
+responsibility to manage and coordinate all activities within a deﬁned geographical area or domain. It is akin to the
+role of a class captain in a school, who is tasked with overseeing and organising class-related activities.
+
+142
+
+M. F. KARIM ET AL.
+
+For BAKAMLA, its interest was related to its organisational identity. It has no legal
+basis to become a coast guard. Law Number 32 of 2014 concerning Marine Aﬀairs,
+which is the reason for the agency’s existence, does not explicitly designate it as a
+uniﬁed agency handling a multitude of maritime tasks. The phrase ‘coast guard’ did
+not even exist in the law. Despite the absence of formal recognition in legislation,
+however, BAKAMLA began to designate itself as Indonesia’s coast guard in public narratives, presumably as a strategic move to enhance its role and standing. This approach
+sowed discord within the government. Given that other agencies, including the TNI-AL,
+also conduct coast guard duties, some policy-makers were indeed concerned that
+BAKAMLA’s claim would lead to conﬂict.
+The SCS issue served as an opportunity for BAKAMLA to assert its identity. Deploying military force to address the problem was viewed as inappropriate under international law. The focus should have been on maximising the role of non-military
+agencies, such as BAKAMLA and MMAF, to utilise sea power. The TNI-AL served as
+a backup for these agencies and also played a critical role in providing security for
+local ﬁshermen and balancing forces at sea.
+In contrast to BAKAMLA, the SCS issue is framed as an issue of sovereignty for the
+TNI-AL. In the policy discussion, held by the Ministry of Defence, the operational deputy
+of Navy, Asops KSAL Rear Admiral TNI-AL Dadi Hartanto stated that:
+Indonesia as an impartial sovereign country must be prepared for all consequences in the
+event of an open conﬂict breaking out in the SCS region whose impact can reach parts of
+Indonesia’s territory. For this reason, an appropriate government policy is needed to formulate a comprehensive national defence strategy to prepare Indonesia to face the worst possibility that exists (Klik7tv.co.id 2021).
+
+The stance of the Indonesian National Armed Forces has, on several occasions, brought
+Indonesia and the PRC to the brink of heightened tensions. One notable instance was in
+2015 when the Chinese government included part of the Natuna region on its territorial
+map. In response to this, General Gatot Nurmantyo, the Commander of the Indonesian
+Armed Forces, declined an invitation from the Chinese Minister of Defence, Chang
+Wanquan, to participate in joint exercises in the SCS (Hidayat 2015).
+In response to such tensions, Luhut, emphasising Indonesia’s neutrality in the SCS
+conﬂict, advised the Indonesian National Armed Forces (TNI) to abstain from conducting military exercises in the Natuna region. Despite persistent tensions with the PRC concerning the Natuna Islands, Luhut cautioned against hastily presuming a threat to
+national sovereignty. He addressed this concern, stating that “We shouldn’t be too
+quick to say that we are selling out our sovereignty [to the PRC]” during a press interaction in Jakarta. He further clariﬁed: “Let me be clear that the EEZ [exclusive economic
+zone] is a matter of economy, not sovereignty – these are two very distinct issues” (Septiarini 2020). This stance reﬂects an approach centred on maintaining the balance
+between national economic interests and preserving sovereignty.
+
+The role of the curator
+The above discussion has highlighted the Indonesian bureaucratic actors with diﬀerent
+interests and goals related to the PRC. On the one hand, KEMLU focused on the
+
+THE INTERNATIONAL SPECTATOR
+
+143
+
+importance of Indonesia’s diplomatic eﬀorts with Beijing, while on the other hand the
+MMAF showed ﬁrmness toward the PRC and was less concerned with diplomacy.
+Regarding the territorial security and sovereignty of Natuna, the Navy and BAKAMLA
+were also in a power struggle because of the fragmented and chaotic maritime governance system. At the same time, the president, the leader of all such executive bodies,
+had his unalienable economic agenda to pursue with the PRC. Surprisingly, and
+despite these diﬀerences, Indonesia was still able to make maritime policies that accommodate Jokowi’s pursuit of Chinese investment. To conceptualise this, the relationship
+between the president and bureaucratic politics is informally bridged by the role of a
+curator. It can be further posited that the role of a curator was needed to create
+harmony between the president’s interests and the contestation in the bureaucracy at
+the ministry level and below. The curator was able to harmonise the diﬀerences and contestations that exist in the bureaucracy through the informal space.
+In the Natuna issue, Luhut Binsar Pandjaitan, the Coordinating Minister for Maritime
+Aﬀairs and Investment, was able to act as the curator. The case of Luhut as curator in
+Indonesia’s China policy sheds light on the role of informal spaces in making a coherent
+policy. Below we highlight his role in managing diﬀerent policies and interests in order to
+help create a coherent policy.
+Luhut has considerable experience in multiple roles in the Indonesian government
+since the reign of President Suharto (1967-98), known as the New Order period.
+During this time, he was the Commander of the Special Forces (Kopassus) and
+became the ﬁrst leader of the anti-terror unit Special Detachment 81 in the 1980s.
+Under President Abdurrahman Wahid, he served as the Indonesian ambassador to Singapore from 1999 to 2000, before becoming the Minister of Industry and Trade between
+2000 and 2001 (Connelly 2015). His experience and position in the government have
+helped to build his connections and inﬂuence with the executive elites. These social modalities are essential in fulﬁlling the role of a curator.
+Curation as a form of coordination
+As one of President Jokowi’s most trusted conﬁdants, Luhut has often served as a critical
+liaison between the president and various government institutions. During Jokowi’s ﬁrst
+tenure (2014-19), Luhut served as the Presidential Chief of Staﬀ and was appointed by the
+president to replace Tedjo Eddy Purdjianto as Coordinating Minister for Political, Legal
+and Security Aﬀairs (Menkopolhukam). In a cabinet reshuﬄe in 2016, Luhut was reassigned
+as the Coordinating Minister for Maritime Aﬀairs and additionally tasked with temporarily
+taking on the responsibilities of the Minister of Energy and Mineral Resources. In Jokowi’s
+second term, in 2019, Luhut was trusted to lead the Coordinating Ministry for Maritime
+Aﬀairs and Investment. Looking at the relationship between the two men, it can be concluded
+that Jokowi’s trust in Luhut is high. Therefore, it is not surprising that Jokowi often entrusts
+important tasks to Luhut, including coordinating national and international crises.
+Luhut’s pivotal role in coordinating diverse perspectives and interests with respect to
+the PRC in the context of the SCS dispute has been widely acknowledged. As the Coordinating Minister for Maritime Aﬀairs and Investment, his formal responsibilities also
+included fostering investment in the country, which necessitates the cultivation of positive relations between Indonesia and the PRC. Furthermore, he was the supervisor of the
+
+144
+
+M. F. KARIM ET AL.
+
+KEMLU, MMAF, TNI-AL and BAKAMLA, with an undertaking to ‘correct’ their policy
+direction to align with the president’s interests.
+The role of a curator in Jokowi’s government can also be seen in the renaming of the Coordinating Ministry for Maritime Aﬀairs in 2019. Led by Luhut under Jokowi’s second term, it
+added an investment element to its oﬃcial name, thus becoming the Coordinating Ministry
+for Maritime Aﬀairs and Investment (CNN Indonesia 2019). This indicates that Jokowi
+wanted to coordinate maritime and investment aspects under a single ministry. Luhut’s
+appointment to this role was closely tied to a strategy to develop and exploit the ﬁshing
+industries in the Natuna Islands (Intan 2019). Luhut also conveyed the government’s strategy to cooperate with other countries in the ﬁsh processing business in Natuna to contribute
+to the state’s revenue. By managing these two components, Jokowi was able to pursue two
+seemingly conﬂicting objectives: implementing his maritime development projects while
+protecting national security and resources. The PRC was an integral part of both these
+aims and Jokowi gave Luhut either formal or informal assignments to accomplish them.
+Luhut’s role in coordinating Indonesia’s China policy was increasingly evident when
+President Jokowi formed the Jakarta-Bandung High-speed Rail Committee and
+appointed him to lead the committee. This allowed Luhut to further coordinate other
+actors beyond government agencies (such as state-owned enterprises) and be involved
+in issues such as the provision of state capital to support the consortium involved in
+this project. His appointment was an eﬀort to internally consolidate policies related to
+the PRC, especially in issues related to investment in various sectors.
+Luhut’s role was also clearly visible in coordinating Indonesia’s relations with the PRC,
+including maritime cooperation, vaccines, investment and the BRI, despite his ministerial role not relating to foreign aﬀairs. Luhut played a more dominant role than the Minister of Foreign Aﬀairs when coordinating and implementing Indonesia’s foreign policy
+towards the PRC. For instance, Luhut was appointed by the president to represent Indonesia in many strategic bilateral meetings related to comprehensive cooperation between
+Indonesia and the PRC, and was assigned by the president to visit China on 5-9 June
+2021. On that occasion, Luhut signed the Memorandum of Understanding (MoU) to
+establish a High-level Dialogue and Cooperation Mechanism (HDCM) with the
+Chinese Foreign Minister, Wang Yi. Within this arrangement, Luhut and the Chinese
+Foreign Minister served as co-chairs, further underscoring Luhut’s inﬂuential role.
+By providing a curator with greater roles and a new portfolio, Jokowi was able to
+maintain his ﬁrm stance towards the PRC while being seen to be defending Indonesia’s
+sovereignty publicly. Jokowi also pledged to take more concrete steps to completely
+address the problem of maritime border violations and illegal ﬁshing. The aim was to
+create a positive image and show that he would tackle the IUU ﬁshing problem more
+eﬀectively than the previous Yudhoyono administration. However, to protect his
+policy of attracting Chinese investment, Jokowi did not intervene directly in the dealings.
+Instead, he appointed Luhut to both approach the Chinese investors and to reduce tensions with the Chinese government over the Natuna clashes.
+Curation as a form of control
+Luhut’s increasing control over Indonesia’s China policy was evident in his direct involvement in determining the policies of other ministries. To increase cooperation with
+
+THE INTERNATIONAL SPECTATOR
+
+145
+
+other countries in relation to Natuna, Luhut designed a plan to convince the MMAF to
+open Natuna to international markets. He then used his networks to promote investments in Natuna’s ﬁshery (Kompas 2016), which is strong proof of Luhut’s role as a
+curator. Moreover, his initiative to persuade Susi to engage the international business
+community’s interest in Natuna was aimed at aligning the interests of the president
+and the minister.
+By serving as the Coordinating Minister for Maritime Aﬀairs and Investment, who
+oversaw the MMAF, Luhut’s role in controlling policies became more comprehensive.
+During Susi’s tenure, the policy of sinking foreign vessels due to IUU ﬁshing was very
+controversial and was considered an extreme measure that could disrupt Indonesia’s
+relations with the ship’s country of origin. During her tenure as Minister of Marine
+Aﬀairs and Fisheries, Susi was responsible for the sinking of 556 vessels, although this
+ﬁgure only included three Chinese vessels (Kompas 2020). Even though the PRC
+was one of the countries with the most ﬁshing boats encroaching upon Indonesian
+waters – not to mention the skirmishes between their coast guard and the Indonesian
+water police – this showed that Indonesia was still giving considerable leeway to
+Beijing so that relations between the two countries did not deteriorate any further.
+Ultimately, however, the policy of sinking vessels did not last for long. Since 2018
+there has been a process of desecuritisation of the policy after Luhut requested that
+the sinkings be stopped immediately and that disputes would be resolved using legal
+measures instead (Sitepu 2018). This was also supported by Vice President Jusuf Kalla
+because of numerous protests from neighbouring countries (Hartini 2018). As a consequence, on 8 January 2018, Luhut asked Susi not to order the sinking of any more boats
+in 2018. Luhut felt that the message that Indonesia would take ﬁrm action against IUU
+ﬁshing incursions was clearly conveyed. However, Susi appeared to have ignored his
+request. In fact, until August 2018, almost 125 ﬁshing boats were sunk, albeit mostly
+small ones. Meanwhile, large ships were still being conﬁscated and used as ministry
+assets. As the Minister of Marine Aﬀairs and Fisheries, Susi considers the policy an
+actionable mandate and opined on the request to stop the sinkings: “So, the drowning
+was not the idea of Susi or President Jokowi. If anyone objected or felt it was inappropriate, they had to propose the president to order his minister to change the Fisheries Law”
+(Sitepu 2018).
+In the second period of Jokowi’s administration, Susi was removed as the Minister of
+Maritime Aﬀairs and Fisheries. Luhut believed it was time for the ministry to focus on
+increasing the production and exports of marine and ﬁshery products as the data he
+received showed a decline in exports of captured ﬁshery products. It can be argued
+that Susi’s removal was the result of her increasingly ﬁrm policy and tough position
+towards the PRC, which could potentially have strained relations between Jakarta and
+Beijing and was not in Jokowi’s interests. However, this also shows that Indonesia was
+striving to maintain good relations with neighbouring countries, especially the PRC.
+Luhut has played a vital role in managing tensions with Beijing in the Natuna Sea by
+shifting from a defence to a law enforcement approach. He supported the strengthening
+of BAKAMLA in safeguarding Indonesia’s territory in northern Natuna, which reduced
+military escalation and aligns with Jokowi’s overall policy towards the PRC. Luhut’s
+control of the overlap between the Navy and BAKAMLA was evident from his statement
+that the government would strengthen BAKAMLA’s duties as the coast guard in the
+
+146
+
+M. F. KARIM ET AL.
+
+Omnibus Law Draft (Kumparan 2020). This law gave BAKAMLA complete control in
+patrolling and guarding the Natuna area, reducing the role of the TNI-AL.
+Luhut perceived the TNI-AL as being strong and relying on hard power; he considered
+this potentially disruptive to regional stability and likely to trigger issues or misunderstandings. Previously, he had also ordered the TNI-AL not to conduct military exercises in the
+Natuna area as such manoeuvres might escalate tension in the SCS. He believed issues
+were better resolved through diplomacy than by militaristic means: “The SCS dispute is
+dangerous. We shouldn’t deploy power there. Good solution is dialogue, good steps
+forward” (Liputan6 2015). Moreover, Luhut’s assertion was more in favour of
+BAKAMLA rather than the Navy in terms of maintaining security in the Natuna region,
+allegedly because BAKAMLA was directly subordinate to the president, which makes
+coordination of maritime policy much more straightforward than through the Navy.
+His plan to deescalate the Natuna region by favouring BAKAMLA over the Navy was
+manifested in the recent Presidential Regulation (Perpres) Number 85 of 2021 concerning
+the Government Work Plan (RKP) of 2022 that provides funding of around IDR12 trillion to strengthen Indonesia’s security in Natuna. This presidential regulation gives
+BAKAMLA 44.17 percent of the budget for marine security equipment while TNI-AL
+receives 40.59 percent to purchase defence equipment (PinterPolitik.com 2021).
+Jokowi’s government, despite confronting bureaucratic fragmentation and conﬂicting
+interests, has achieved relative policy coherence regarding the Natuna issue. This has
+been facilitated by the role of a curator, working informally to align the diverse interests
+in Indonesia’s maritime policy towards the PRC with Jokowi’s pursuits, fostering
+cooperation with Beijing and securing investment for future projects. However, this
+process was not devoid of challenges.
+Even as the curator worked to coordinate and harmonise the interests, resistance arose
+within the system. Entities such as the defence establishment and the Maritime Ministry
+exhibited resistance to the eﬀorts to manage the PRC narrative, illustrating the complexities of achieving a uniﬁed approach amid the varied bureaucratic perspectives.
+
+Conclusion
+This article has examined Indonesia’s ambivalent responses to the growing aggression of the
+PRC in the SCS. Using the bureaucratic politics approach, this article has found that such
+ambivalence in Jakarta’s China policy stems from the fragmented responses of each of the
+bureaucratic agencies that directly deal with the issue. At the ministry level, KEMLU emphasised promoting a diplomatic approach, while the MMAF adopted an aggressive policy by
+sinking ﬁshing vessels, including those of the PRC. In the security realm, the TNI-AL and
+BAKAMLA have also experienced contestation over how to respond to the PRC in the
+SCS, resulting in the fragmentation of Indonesia’s maritime security governance.
+However, this article has found that despite the diﬀerences in these interests resulting
+in disputes between bureaucracies, Indonesia was still able to develop maritime policies
+that were able to accommodate President Jokowi’s economic interests with the PRC. This
+was achieved through the role of a curator who coordinated and controlled policies from
+bureaucratic agencies that did not align with the president’s interests.
+This article is the ﬁrst study to examine the role of a curator and informality in Indonesian bureaucratic politics. We shed light on how the curator, operating within an
+
+THE INTERNATIONAL SPECTATOR
+
+147
+
+informal framework, aligned President Jokowi’s diverse objectives into a singular, cohesive policy towards the PRC, particularly regarding maritime issues. The successful function of a curator, we argue, hinges on two crucial conditions. Firstly, a strong personal
+aﬃnity with the president and signiﬁcant support from the executive branch is vital,
+given the curator’s mission to advance the president’s sensitive agenda while maintaining
+an image of neutrality. Secondly, the eﬀective exercise of coercive methods is necessary to
+overcome institutional resistance and create uniform policies. Instances of non-compliance with directives, met with ministerial dismissals, underline the curator’s power,
+which originates from their proximity to the president.
+This article contributes to existing scholarship in two ways. Firstly, it illustrates how a
+curator can utilise informal mechanisms to bridge disparate preferences among bureaucratic actors formulating Indonesian foreign policies. This is particularly crucial considering Indonesia’s balancing act between preserving sovereignty and furthering economic
+interests amidst the PRC’s assertiveness in Natuna. Secondly, it provides fresh insights
+into Indonesia’s foreign policy vis-à-vis the PRC’s assertiveness in the SCS, by dissecting
+the bureaucratic policy-making process. However, due to the dominant use of secondary
+data, this article cannot fully reveal the dynamics of informal space in making Indonesia’s
+foreign policy, including its China policy. Future research could systematically conceptualise how and when the president utilises a curator to create coherent policies in a fragmented bureaucratic environment.
+
+Acknowledgements
+The authors are deeply grateful to the journal’s editors and three anonymous reviewers, whose
+insightful feedback greatly enhanced the initial version of this manuscript. This research is supported by BINUS International Research Grant 2023.
+
+Notes on contributors
+Moch Faisal Karim is a Senior Lecturer within the Department of International Relations at Bina
+Nusantara University, Jakarta, and Adjunct Faculty Member in the Faculty of Social Sciences, Universitas Islam Internasional Indonesia, Depok, both in Indonesia.
+Andini Gobel is a Research Associate within the Centre for Business and Diplomatic Studies
+(CBDS) at Bina Nusantara University, Jakarta, Indonesia. Email: andini.gobel@binus.ac.id.
+I Gede Wahyu Wicaksana is a Senior Lecturer in the Department of International Relations,
+Faculty of Social and Political Sciences, Universitas Airlangga, Surabaya, Indonesia. Email:
+wahyu.wicaksana@ﬁsip.unair.ac.id.
+
+ORCID
+Moch Faisal Karim http://orcid.org/0000-0002-5444-2141
+I Gede Wahyu Wicaksana http://orcid.org/0000-0002-0224-8400
+
+References
+Allison, Graham T., and Halperin, Morton H. 1972. Bureaucratic Politics: A Paradigm and Some
+Policy Implications. World Politics 24: 40–79.
+
+148
+
+M. F. KARIM ET AL.
+
+Arif, Muhamad, and Kurniawan, Yandry. 2018. Strategic Culture and Indonesian Maritime
+Security. Asia & the Paciﬁc Policy Studies 5 (1): 77–89.
+Aspinall, Edward. 2013. A Nation in Fragments. Critical Asian Studies 45 (1): 27–54.
+BBC News. 2016. Indonesia Protests against Chinese ‘Breach of Sovereignty.’ 21 March. https://
+www.bbc.com/news/world-asia-35859837.
+Berenschot, Ward. 2019. Informal Democratization: Brokers, Access to Public Services and
+Democratic Accountability in Indonesia and India. Democratization 26 (2): 208–24.
+Berenschot, Ward, and van Klinken, Gerry. 2018. Informality and Citizenship: The Everyday State
+in Indonesia. Citizenship Studies 22 (2): 95–111.
+Busbarat, Pongphisoot. 2016. Bamboo Swirling in the Wind”: Thailand’s Foreign Policy Imbalance
+between China and the United States. Contemporary Southeast Asia 38 (2): 233–57.
+Chin, Kok Fay. 2021. Malaysia’s Perception and Strategy toward China’s BRI Expansion:
+Continuity or Change? The Chinese Economy 54 (1): 9–19.
+Chua, Amy. 2020. South China Sea Heats up as Indonesia Shadows Chinese Ship near Natunas.
+South China Morning Post, 14 September. https://www.scmp.com/week-asia/politics/article/
+3101519/south-china-sea-heats-indonesia-shadows-chinese-ship-near-natuna.
+CNN Indonesia. 2019. Perubahan Nomenklatur: Kemenko Kemaritiman dan Investasi
+[Nomenclature Changes: Coordinating Ministry for Maritime Aﬀairs and Investment].
+22 October. https://www.cnnindonesia.com/nasional/20191022194700-32-441937/perubahannomenklatur-kemenko-kemaritiman-dan-investasi.
+CNN Indonesia. 2020. Menlu: Indonesia Tak Akan Akui Klaim China Atas Laut Natuna [Minister
+of Foreign Aﬀairs: Indonesia Will Not Recognise China’s Claim Over Natuna Sea]. 3 January.
+https://www.cnnindonesia.com/internasional/20200103164939-106-462221/menlu-indonesiatak-akan-akui-klaim-china-atas-laut-natuna.
+Connelly, Aaron L. 2015. Sovereignty and the Sea: President Joko Widodo’s Foreign Policy
+Challenges. Contemporary Southeast Asia 37 (1): 1–28.
+Edwards, Scott. 2022. Fragmentation, Complexity and Cooperation: Understanding Southeast
+Asia’s Maritime Security Governance. Contemporary Southeast Asia 44 (1): 87–121.
+Elsig, Manfred. 2010. European Union Trade Policy after Enlargement: Larger Crowds, Shifting
+Priorities and Informal Decision-Making. Journal of European Public Policy 17 (6): 781–98.
+Fitriani, Evi. 2018. Indonesian Perceptions of the Rise of China: Dare You, Dare You Not. The
+Paciﬁc Review 31 (3): 391–405.
+Giessen, Lukas, Burns, Sarah, Sahide, Muhammad Alif K., and Wibowo, Agung. 2016. From
+Governance to Government: The Strengthened Role of State Bureaucracies in Forest and
+Agricultural Certiﬁcation. Policy and Society 35 (1): 71–89.
+Haacke, Jürgen. 2019. The Concept of Hedging and its Application to Southeast Asia: A Critique
+and a Proposal for a Modiﬁed Conceptual and Methodological Framework. International
+Relations of the Asia-Paciﬁc 19 (3): 375–417.
+Hartini, Desy. 2018. JK Minta Menteri Susi Hentikan Penenggelaman Kapal Asing [JK Asks
+Minister Susi to Stop Sinking Foreign Ships]. KOMPAS.tv, 10 January. https://www.kompas.
+tv/article/18573/jk-minta-menteri-susi-hentikan-penenggelaman-kapal-asing.
+Hidayat, Faiq. 2015. Sengketa Laut China Selatan, Luhut Minta TNI Tak Latihan Di Natuna [South
+China Sea Dispute, Luhut Asks the Indonesian Military Not to Train in Natuna]. Merdeka.com,
+12 November. https://www.merdeka.com/peristiwa/sengketa-laut-china-selatan-luhut-mintatni-tak-latihan-di-natuna.html.
+Hu, Le. 2023. Examining ASEAN’s Eﬀectiveness in Managing South China Sea Disputes. The
+Paciﬁc Review 36 (1): 119–47.
+Intan, Ghita. 2019. Moeldoko, Luhut Binsar, Sri Mulyani Hingga Basuki Hadimulyono Lanjut Jadi
+Menteri di Kabinet Jokowi Jilid II [Moeldoko, Luhut Binsar, Sri Mulyani to Basuki
+Hadimulyono Continue to be Ministers in Jokowi’s Second Cabinet]. VOA Indonesia, 22
+October. https://www.voaindonesia.com/a/moeldoko-luhut-binsar-sri-mulyani-hingga-basuki
+-hadimulyono-lanjut-jadi-menteri-di-kabinet-jokowi-jilid-ii/5134353.html.
+Isachenko, Daria. 2019. Coordination and Control in Russia’s Foreign Policy: Travails of Putin’s
+Curators in the Near Abroad. Third World Quarterly 40 (8): 1479–95.
+
+THE INTERNATIONAL SPECTATOR
+
+149
+
+Karim, Moch Faisal, and Nabila, Rona. 2022. Role Conception of the Asia-Paciﬁc Middle Powers:
+Comparative Analysis of Indonesia, South Korea, Australia and Vietnam. Journal of Asian
+Security and International Aﬀairs 9 (2): 231–54.
+Kementerian Luar Negeri Republik Indonesia [Ministry of Foreign Aﬀairs of the Republic of
+Indonesia]. 2013. South China Sea. Kemenlu. https://kemlu.go.id/portal/en/read/101/
+halaman_list_lainnya/south-china-sea.
+Kementerian Kelautan dan Perikanan RI [Ministry of Maritime Aﬀairs and Fisheries of the
+Republic of Indonesia]. 2016. Komitmen Berantas Illegal Fishing, Pemerintah Demolisikan
+Kapal Viking [Commitment to Eradicate Illegal Fishing, Government Demolishes Viking
+Ship], 16 March. https://kkp.go.id/djpt/artikel/2763-komitmen-berantas-illegal-ﬁshing-pemeri
+ntah-demolisikan-kapal-viking.
+Kementerian Kelautan dan Perikanan RI. 2017a. Laut Masa Depan Bangsa. [The Sea is the Future
+of the Nation]. https://kkp.go.id/artikel/12981-laut-masa-depan-bangsa-mari-jaga-bersama.
+Kementerian Kelautan dan Perikanan RI. 2017b. Geliat Pembangunan Pulau-Pulau Terluar
+Melalui Program PSKPT KKP [Stimulating Development of Outermost Islands Through
+KKP’s PSKPT Programme]. 29 October. https://kkp.go.id/itjen/artikel/134-geliat-pembangun
+an-pulau-pulau-terluar-melalui-program-pskpt-kkp.
+Kementerian Pertahanan RI [Ministry of Defence of the Republic of Indonesia], ed. 2015. Defence
+White Paper, 2015. Third edition. Jakarta: Defence Ministry of the Republic of Indonesia.
+https://www.kemhan.go.id/wp-content/uploads/2016/05/2015-INDONESIA-DEFENCE-WHIT
+E-PAPER-ENGLISH-VERSION.pdf.
+Kementerian Pertahanan RI. 2016. Kapal TNI AL Diprovokasi Kapal Penjaga Pantai China
+[Indonesian Navy Ship Provoked by Chinese Coast Guard Ship]. 21 June. https://www.
+kemhan.go.id/badiklat/2016/06/21/kapal-tni-al-diprovokasi-kapal-penjaga-pantai-china.html.
+Klik7tv.co.id. 2021. TNI AL Gelar FGD Bahas Strategi Hadapi Konﬂik di Laut China Selatan
+[The Indonesian Navy Holds FGD to Discuss Strategy to Face Conﬂict in the South China
+Sea]. 30 September. https://klik7tv.co.id/tni-al-gelar-fgd-bahas-strategi-hadapi-konﬂik-di-laut
+-china-selatan/.
+Kompas. 2016. Jokowi Sampaikan Rotasi Jabatan, Luhut Hanya Bisa Jawab ‘Siap, Laksanakan!’
+[Jokowi Announces Job Rotation, Luhut Can Only Respond ‘Ready, Carry Out!’]. 27 July.
+https://nasional.kompas.com/read/xml/2016/07/28/06150001/Jokowi.Sampaikan.Rotasi.Jabata
+n.Luhut.Hanya.Bisa.Jawab.Siap.Laksanakan.
+Kompas. 2017. Susi Pudjiastuti: Indonesia Poros Maritim Dunia Hanya Slogan Doang? [Susi
+Pudjiastuti: Is Indonesia as the World’s Maritime Axis Just a Mere Slogan]. 30 October.
+KOMPAS.com. https://nasional.kompas.com/read/2017/10/30/09370631/susi-pudjiastuti-indo
+nesia-poros-maritim-dunia-hanya-slogan-doang
+Kompas. 2020. Selama Jadi Menteri, Berapa Kapal China Ditenggelamkan Susi? [During Her Time
+as Minister, How Many Chinese Ships Did Susi Sink?]. 6 January. https://money.kompas.com/
+read/2020/01/06/160600226/selama-jadi-menteri-berapa-kapal-china-ditenggelamkan-susi.
+Kuik, Cheng-Chwee. 2016. How do Weaker States Hedge? Unpacking ASEAN States’ Alignment
+Behavior towards China. Journal of Contemporary China 25 (100): 500–514.
+Kuik, Cheng-Chwee. 2017. Explaining the Contradiction in China’s South China Sea Policy:
+Structural Drivers and Domestic Imperatives. China: An International Journal 15 (1): 163–86.
+Kumparan. 2020. Luhut Ingin Percepat Omnibus Law Keamanan Laut: Perkuat Peran Bakamla
+[Luhut Wants to Accelerate the Omnibus Law on Maritime Security: Strengthen the Role of
+Bakamla]. 6 January. https://kumparan.com/kumparannews/luhut-ingin-percepat-omnibuslaw-keamanan-laut-perkuat-peran-bakamla-1saeenSUYIq.
+Kusumadewi, Anggi. 2016. Kemelut Indonesia-China di Natuna Sepanjang 2016 [IndonesiaChina Turmoil in Natuna Throughout 2016]. 21 June. https://www.cnnindonesia.com/
+nasional/20160621100151-20-139694/kemelut-indonesia-china-di-natuna-sepanjang-2016.
+Laksmana, Evan A. 2022. Remodelling Indonesia’s Maritime Law Enforcement Architecture:
+Theoretical and Policy Considerations. Contemporary Southeast Asia 44 (1): 122–49.
+Liang, Ce. 2018. The Rise of China as a Constructed Narrative: Southeast Asia’s Response to Asia’s
+Power Shift. The Paciﬁc Review 31 (3): 279–97.
+
+150
+
+M. F. KARIM ET AL.
+
+Lieberthal, Kenneth G., and Lampton, David M. 2018. Bureaucracy, Politics, and Decision Making
+in Post-Mao China. Berkeley (CA): University of California Press.
+Liputan6. 2015. Konﬂik Laut China Selatan, Luhut Larang TNI Latihan di Natuna [South China Sea
+Conﬂict, Luhut Prohibits Military Training in Natuna]. 12 November. https://www.liputan6.
+com/news/read/2364108/konﬂik-laut-china-selatan-luhut-larang-tni-latihan-di-natuna.
+Long, Yingxian. 2016. China’s Decision to Deploy HYSY-981 in the South China Sea: Bureaucratic
+Politics with Chinese Characteristics. Asian Security 12 (3): 148–65.
+McRae, Dave. 2019. Indonesia’s South China Sea Diplomacy: A Foreign Policy Illiberal Turn?
+Journal of Contemporary Asia 49 (5): 759–79.
+Mintrom, Michael, and Norman, Phillipa. 2009. Policy Entrepreneurship and Policy Change.
+Policy Studies Journal 37 (4): 649–67.
+Mursitama, Tirta Nugraha, and Ying, Yi. 2021. Indonesia’s Perception and Strategy toward
+China’s OBOR Expansion: Hedging with Balancing. The Chinese Economy 54 (1): 35–47.
+Mutasya, Tata. 2022. Indonesia without Luhut Pandjaitan. Indonesia at Melbourne, 7 April.
+https://indonesiaatmelbourne.unimelb.edu.au/indonesia-without-luhut-pandjaitan/.
+Nandyatama, Randy Wirasta. 2019. Beyond Brinkmanship: The Implication of South China Sea
+Conﬂicts on China’s Soft Power in Southeast Asia. Journal of ASEAN Studies 7 (1): 18–39.
+Novotny, Daniel. 2010. Torn Between America and China: Elite Perceptions and Indonesian Foreign
+Policy. Singapore: Institute of Southeast Asian Studies.
+Parameswaran, Prashanth. 2016. Delicate Equilibrium: Indonesia’s Approach to the South China
+Sea. In Enrico Fels and Truong-Minh Vu, Power Politics in Asia’s Contested Waters: Territorial
+Disputes in the South China Sea: 319–36. Cham: Springer International Publishing.
+PinterPolitik.com. 2021. Keamanan Natuna, TNI-AL atau Bakamla? [Natuna Security, Indonesian
+Navy or Bakamla?] 4 October. https://www.pinterpolitik.com/in-depth/keamanan-natuna-tnial-atau-bakamla/.
+Pusat Kajian Anggaran DPR RI [Center for Budget Studies of the Indonesian House of
+Representatives]. 2021. Catatan Atas Anggaran Belanja Kementerian Pertahanan [Notes on
+the Defence Ministry’s Expenditure Budget]. https://www.kemhan.go.id/puslapbinkuhan/wpcontent/uploads/2021/01/LAMP-IV-JUKLAK23-PEDOMAN-PENYUSUNAN-LK.pdf.
+Rakhmat, Muhammad Zulﬁkar. 2020. Luhut Binsar Pandjaitan: The Prominent Enabler behind
+China-Indonesia Relations. Global Policy, 24 July. https://www.globalpolicyjournal.com/blog/
+24/07/2020/luhut-binsar-pandjaitan-prominent-enabler-behind-china-indonesia-relations.
+Rose, David G. 2018. ‘China Calls It Fishing, Indonesia Calls It Crime’: Pudjiastuti Finds Her Target
+for Oceans Summit. South China Morning Post, 18 October. https://www.scmp.com/week-asia/
+geopolitics/article/2169153/china-calls-it-ﬁshing-indonesia-calls-it-crime-pudjiastuti.
+Rosyidin, Mohamad, and Pattipeilohy, Shary Charlotte H. 2020. Regionalism under Challenge:
+Ideas and Joko Widodo’s Foreign Policy towards ASEAN, 2014-2019. Journal of ASEAN
+Studies 8 (2): 147–72.
+Salim, Wilmar, and Negara, Siwage Dharma. 2018. Infrastructure Development under the Jokowi
+Administration: Progress, Challenges and Policies. Journal of Southeast Asian Economies 35 (3): 386–401.
+Scarpello, Fabio. 2020. Susi Versus the Rest: The Political Economy of the Fisheries Industry in
+Indonesia during Jokowi’s First Term. Asian Journal of Political Science 28 (2): 122–41.
+Sekretariat Kabinet Republik Indonesia [Cabinet Secretariat of the Republic of Indonesia]. 2014.
+Inilah Perpres No. 178/2014 Tentang Pembentukan Badan Keamanan Laut [This is
+Presidential Regulation No. 178/2014 About the Establishment of the Maritime Security
+Agency]. 16 December. https://setkab.go.id/inilah-pepres-no-1782014-tentang-pembentukanbadan-keamanan-laut/.
+Septiarini, Dian. 2020. Not about Sovereignty: Luhut Explains Natuna Spat with China. The
+Jakarta Post, 7 January. https://www.thejakartapost.com/news/2020/01/07/not-about-sovereig
+nty-luhut-explains-natuna-spat-with-china.html.
+Shekhar, Vibhanshu. 2012. ASEAN’s Response to the Rise of China: Deploying a Hedging Strategy.
+China Report 48 (3): 253–68.
+Sitepu, Mehulika. 2018. ‘Kegaduhan’ timbul antara Menko Luhut dan Menteri Susi soal penenggelaman kapal [‘Ruckus’ arises between Coordinating Minister Luhut and Minister Susi about
+
+THE INTERNATIONAL SPECTATOR
+
+151
+
+ship sinking]. BBC News Indonesia, 9 January. https://www.bbc.com/indonesia/indonesia42616683.
+South China Morning Post. 2016. China Urges Indonesia to Release Crew after Stand-oﬀ in South
+China Sea over ‘Illegal Fishing.’ 21 March. https://www.scmp.com/news/china/diplomacydefence/article/1928222/china-urges-indonesia-release-crew-after-stand-south.
+Stuart-Fox, Martin. 2004. Southeast Asia and China: The Role of History and Culture in Shaping
+Future Relations. Contemporary Southeast Asia: A Journal of International and Strategic Aﬀairs
+26 (1): 116–39.
+Sulaiman, Yohanes. 2019. What Threat? Leadership, Strategic Culture, and Indonesian Foreign
+Policy in the South China Sea. Asian Politics & Policy 11 (4): 606–22.
+Suryadinata, Leo, and Izzuddin, Mustafa. 2017. The Natunas: Territorial Integrity in the Forefront
+of Indonesia–China Relations. June. ISEAS Yusof Ishak Institute. https://think-asia.org/handle/
+11540/7548.
+Syailendra, Emirza Adi. 2017. A Nonbalancing Act: Explaining Indonesia’s Failure to Balance
+Against the Chinese Threat. Asian Security 13 (3): 237–55.
+Tempo. 2016. TNI AL Pastikan Penangkapan KM Kway Fey Di Wilayah Indonesia [The Navy
+Conﬁrms the Capture of KM Kway Fey in Indonesian Territory]. 16 March. http://bisnis.
+tempo.co/read/755412/tni-al-pastikan-penangkapan-km-kway-fey-di-wilayah-indonesia.
+Thayer, Carlyle A. 2011. Chinese Assertiveness in the South China Sea and Southeast Asian
+Responses. Journal of Current Southeast Asian Aﬀairs 30 (2): 77–104.
+The Jakarta Post. 2017. China Demands Indonesia Drop New Name for Natuna Waters.
+3 September. https://www.thejakartapost.com/news/2017/09/03/china-demands-indonesia-drop
+-new-name-for-natuna-waters.html.
+Vu, Van-Hoa, Soong, Jenn-Jaw, and Nguyen, Khac-Nghia. 2021. Vietnam’s Perceptions and
+Strategies toward China’s Belt and Road Initiative Expansion: Hedging with Resisting. The
+Chinese Economy 54 (1): 56–68.
+Wicaksana, I Gede Wahyu. 2017. Indonesia’s Maritime Connectivity Development: Domestic and
+International Challenges. Asian Journal of Political Science 25 (2): 212–33.
+Wicaksana, I Gede Wahyu. 2021. Economic Nationalism for Political Legitimacy in Indonesia.
+Journal of International Relations and Development 24 (1): 27–50.
+Yeremia, Ardhitya Eduard. 2022. Indonesian Diplomats’ and Foreign Policy Scholars’ Perceptions
+and their Implications on Indonesian Foreign Ministry Bureaucratic Responses to a Rising
+China. The Paciﬁc Review 35 (3): 529–56.
+Zhang Feng. 2018. Is Southeast Asia Really Balancing against China? The Washington Quarterly
+41 (3): 191–204.
+Zhang Qingmin. 2016. Bureaucratic Politics and Chinese Foreign Policy-Making. The Chinese
+Journal of International Politics 9 (4): 435–58.
+
+

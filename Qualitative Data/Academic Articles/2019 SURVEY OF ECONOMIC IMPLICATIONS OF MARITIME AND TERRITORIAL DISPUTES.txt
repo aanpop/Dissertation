@@ -1,0 +1,1744 @@
+doi: 10.1111/joes.12311
+
+SURVEY OF ECONOMIC IMPLICATIONS OF
+MARITIME AND TERRITORIAL DISPUTES
+Ronald Umali Mendoza*
+Ateneo de Manila University
+Charles Siriban
+University of Melbourne Faculty of Business and Economics
+Tea Jalin Ty
+Ateneo de Manila University
+Abstract. Drawing on studies on the economics of conflict, this paper reviews the literature on
+maritime and territorial disputes; and it examines an array of economic implications associated with
+territorial and maritime disputes. These include adverse effects on certain economic and development
+outcomes arising from possible armed confrontation, with some of these possibly lingering in the
+aftermath of conflict. There are also various economic disruptions and costs associated with these
+disputes, emphasizing how they also affect the livelihoods of resource users in the disputed areas.
+A clearer understanding of these economic links could help inform and motivate policymakers on
+mitigating the risks of conflict. Based on the review of evidence herein, the economic implications of
+conflict in terms of foregone average trade among the country pairs considered in the West Philippine
+Sea/South China Sea (in 1985 dollars) – which differ in important ways but hint at some common
+channels of impact – could range from US$ 909.3 million to US$ 98.8 billion. More broadly, the
+impacts on a disrupted global production chain can easily amplify these results even further, affecting
+global growth prospects for many decades, according to experience.
+Keywords. Maritime and territorial disputes; South China Sea
+
+1. Introduction
+Maritime and territorial disputes represent important challenges in international relations. Many of these
+disputes continue to be a main source of tensions among concerned countries, in some cases leading to
+both nonmilitary and military confrontations. By one estimate, around one-third of territorial disputes
+over the past two centuries have evolved into armed confrontations (Hensel, 1999 as cited in Wiegand,
+2011:2). In some instances, such conflicts have lasted only for a couple of days while some have lasted
+for years.
+With its continued presence in the international sphere, these disputes and its resulting confrontations
+could produce lasting economic implications. In fact, currently, some of the territorial and maritime
+disputes are located in vital areas of the economic arena.
+∗ Corresponding
+
+author contact email: ronmendoza@post.harvard.edu. Tel: +63 02 4265997 loc. 4643.
+
+Journal of Economic Surveys (2019) Vol. 33, No. 3, pp. 1028–1049
+
+C 2019 John Wiley & Sons Ltd.
+
+1029
+
+For instance, in the Asia-Pacific region, a number of countries have overlapping claims in the West
+Philippine Sea/South China Sea and East China Sea. According to one unofficial estimate, the maritime
+economy in the West Philippine Sea/South China Sea – spanning petroleum, natural gas, fishing, and
+other resources – could reach well over US$1 trillion (Mendoza, 2012). Furthermore, the stakes are
+high given the possible risks associated with such disputes on the international production networks and
+supply chains that are present in the said areas. Asian countries have seen an increased participation in
+such production chains in the recent years, with some countries serving as production hubs of parts and
+components and others serving as assembly hubs of final products (APEC Policy Support Unit, 2013;
+Cheewatrakoolpong et al., 2013).
+The West Philippine Sea/South China Sea also serves as a vital passageway of commercial ships, with
+around US$ 5.3 trillion worth of trade passing through the said area every year (Glaser, 2012). If even a
+fraction of this is disrupted or destroyed, the economic implications of conflict could escalate and impose
+severe costs on global growth and national development prospects, even for those countries not directly
+involved but still affected.
+Clearly, territorial and maritime disputes could entail adverse effects on certain economic and
+development outcomes arising from possible confrontation, with some of these possibly lingering in
+the aftermath of conflict.
+As a contribution to the discussions on disputes and as part of the continued effort to pave the
+way towards their meaningful and fair resolution, this paper conducts a review of literature in this area to
+examine the array of economic implications to the involved states. The paper aims to outline how economic
+implications arise from disputes of territorial and maritime nature. We further sift these implications in
+relation to violent and nonviolent disputes. Lastly, the paper estimates the implications on international
+trade among belligerent countries in the West Philippine Sea/South China Sea maritime and territorial
+disputes in the event of a hypothetical armed conflict.
+
+2. Territorial and Maritime Disputes
+Following the definition of Hensel (1997), disputes are explicit contentions between competing claims
+of two or more nation states. There must be explicit statements of the claim from official government
+representatives. When the claim is for sovereignty over a specific territory, the dispute classifies as
+territorial. When the claim is for the use of a specific maritime zone, the dispute classifies as maritime.
+Maritime disputes emerged in prominence only after the ratification of the UN Convention of the Laws
+of the Sea (UNCLOS) in the 1900s. In clarifying maritime boundaries, the UNCLOS created overlapping
+zones two and sometimes more nation states have claim to (Fravel, 2014).
+Disputes can manifest in four different stages: peaceful resolutions, ongoing disputes without armed
+conflict, armed conflict, and interstate war (Choi, 2009). The latter two stages are military conflicts,
+defined in international law as two or more states resorting to armed force (International Committee of
+the Red Cross [ICRC], 2008).
+Various studies find evidence linking interstate military conflicts and territorial disputes. Results of
+the analysis conducted by Kocs (1995:170–172) using data on territorial disputes over the period 1945
+to 1987 show greater frequency of war among countries with contested boundaries as opposed to those
+whose boundaries are clearly defined and legally valid. In addition, Hensel (1996:59) finds that militarized
+interstate disputes are almost thrice as likely to escalate into full-blown wars among country pairs with
+territorial dispute relative to those that are not involved in any dispute of similar type.
+As noted by Hensel (2000:58–60), one explanation on the observed link between armed conflict and
+territorial dispute hinges on the array of values that a contested territory contains from the point of
+view of concerned countries. First among these are the tangible benefits, which include among others its
+resource and commerce-related endowments (for instance, if the territory has access to vital commercial
+Journal of Economic Surveys (2019) Vol. 33, No. 3, pp. 1028–1049
+
+C 2019 John Wiley & Sons Ltd.
+
+14676419, 2019, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/joes.12311 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+ECONOMIC IMPLICATIONS OF DISPUTES
+
+MENDOZA ET AL.
+
+routes). There also exist nontangible benefits, such as its perceived historical connection to the claimant
+countries. The contested territory serves as a vital component of the claimant countries’ identity and as
+such, territorial disputes evoke a sense of pride and nationalism among their citizens (Fearon, 1995:390
+as cited in Hensel, 2000:59; Luard, 1970:7 and Vasquez, 1993 as cited in Hensel, 2000:60), making
+compromise agreement more difficult to achieve relative to the case where the dispute merely concerns
+resource-sharing issues (Fearon, 1995 as cited in Hensel, 2000:59). There are also reputation issues, in
+which case a claimant country would opt not to give up its claim due to fear of providing other countries
+greater leverage (Hensel, 2000:60).
+Territorial disputes have indeed evolved into running skirmishes and military disputes. While other
+factors have also contributed to the decision of concerned countries to resort to military conflict, analysts
+have considered territorial dispute to be an influential factor. For instance, as posited by West (2006:77),
+the Vietnamese government’s claim of historical rights over Spratly islands in the aftermath of the
+Vietnamese war, along with geopolitical considerations, has contributed in part to the emergence of the
+Sino-Vietnamese war. Such was also the case of the dispute between Peru and Ecuador with regards to
+the demarcation of their 883-mile long border. The territorial dispute commenced shortly after Ecuador
+declared independence from Great Colombia in 1830 and persisted for years until an agreement was
+signed in 1998 by the Presidents of both countries. Before 1998, however, there were at least 34 instances
+of military conflict arising from the said dispute, including a military confrontation in 1995 (Simmons,
+1999:10–19).
+In contrast to territorial disputes, disputes in the maritime arena have seen less military escalation.
+Kaplan (2014) invokes political scientist Mearsheimer’s “stopping power of water,” wherein despite
+naval forces and technology, bodies of water still prevents armies and even airstrikes to reach hostile
+shores quickly to subdue a hostile population. Kaplan (2014) traces the historical East Asian military
+confrontations that are exceptions to this, but maintains that the geographic influence of the seas held
+true for Taiwan, and Japanese Ryuku Islands, whose mainland shores remain safe from full scale Chinese
+military aggression.
+Because of the geographic difficulties posed by the seas, maritime disputes that escalate into violent
+confrontations unfurl far away from civilian settlements and will involve only calculated military and
+naval power and personnel. This is in contrast to onshore military encounters, where civilian life and
+property are inevitably caught in the crossfires. Kaplan (2014) posits that military confrontations that are
+maritime in nature will be separated from human rights issues. This entails that these confrontations will
+be demarcated from the economic cost of casualties, and destruction of private property.
+The next sections discuss economic implications of disputes to claimant countries involved in both
+violent and nonviolent maritime and territorial disputes. The discussion draws from extensive literature
+on various disputes around the world from 1979 onwards (see Table 1) The disputes are not intended
+to represent all disputes, but rather intended to present what has been studied with regards to economic
+implications.
+The passage of UNCLOS gave attention to offshore islands in disputed zones, as islands can be basis
+to expand a maritime claim (Fravel, 2014). Thus, many of the emerging maritime disputes are interlinked
+to territorial disputes, in the form of these islands. With regards to the dispute between Iran and Iraq, the
+Shatt Al Arab waterway is not a maritime zone but rather a body of water that overlaps territorial borders.
+Furthermore, as disputes develop, nation states could choose to engage in both violent and nonviolent
+confrontations, subsequently or simultaneously. For example, aside from military confrontations, the
+United Kingdom froze Argentinian assets in Britain, suspended new export credits, halted military sales,
+and banned imports of Argentinian goods during their dispute with Argentina over the Falklands (Daoudi
+and Dajani, 1983). However, we classify them as violent due to their eventual escalation to violent,
+military conflicts.
+
+Journal of Economic Surveys (2019) Vol. 33, No. 3, pp. 1028–1049
+
+C 2019 John Wiley & Sons Ltd.
+
+14676419, 2019, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/joes.12311 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+1030
+
+1031
+
+Table 1. Discussed Disputes Category and Nature of Confrontations.
+
+Maritime
+Violent
+
+Nonviolent
+
+Nicaragua–Honduras/Columbia
+
+Territorial
+UK–Argentina
+China–Vietnam
+Iraq–Kuwait
+Ecuador–Peru
+Ethiopia–Eritrea
+Argentina–Chile
+
+Both
+Iran–Iraq
+
+West Philippine Sea/South
+China Sea
+Japan–China
+Iran–UAE
+
+Source: Compiled by the authors.
+
+3. Economic Implications of Nonviolent and Nonmilitary Confrontations of Disputes
+States in disputes can choose to assert their claims through nonviolent, nonmilitary actions. Examples
+of these actions in include contracting economic and diplomatic relations, propaganda and rhetoric
+against the opposing state, and even attempts to destabilize the opposing claimant’s government. In an
+analysis of territorial disputes between 1950 and 1990, Huth (1996) found that aggressive diplomacy and
+politics by the claimant states account for 32% of annual observations, as opposed to no or low levels of
+confrontations, and military confrontation. These nonviolent, nonmilitary confrontations entail economic
+consequences as well.
+
+3.1 Uncertainty and Trade Sanctions
+Disputes are often associated with two types of uncertainty which can affect economic activities. On
+the one hand, jurisdictional uncertainty exists in which case there is ambiguity on whose rules and legal
+protections will apply on a certain jurisdiction. This in turn induces higher risk on the part of firms when
+conducting cross-border transactions. Such was the case in the Persian Gulf area in which shipping and
+fishing are occasionally disrupted due to the existence of dispute between Iran and United Arab Emirates
+over Abu Musa Islands (see Box 1 for further details).
+On the other hand, disputes are also associated with policy uncertainty to the extent that countries that
+are parties to disputes tweak their policies in response to the dispute. Such was the case of Nicaragua,
+which imposed a 35% tariff on all goods from Honduras and Colombia in response to their maritime
+delimitation agreement, which Nicaragua criticized as including an area it considers as part of its territory
+(Simmons, 2005:828–829).
+China has allegedly engaged in economic pressures to further its interest in various maritime and
+territorial disputes. In 2012, Japan nationalized three Senakaku/Diaoyu islands, which were claimed by
+China and previously owned by a private Japanese citizen. The nationalization incited a Chinese consumerled boycott of Japanese goods, especially Japanese branded cars. The boycott coincided with a drop in
+Japanese exports to China, as traced by Zachrisen (2015). Nagy (2013), supports this in demonstrating
+that sales volume of Japanese-made cars in China dropped 2% year-on-year, while sales of cars produced
+by Germany, United States, South Korea, and France went up.
+In the same year, a standoff between China and the Philippines over Chinese fishermen in the disputed
+Scarborough Shoal waters was preceded by the holding of Philippine banana imports in Chinese ports.
+Journal of Economic Surveys (2019) Vol. 33, No. 3, pp. 1028–1049
+
+C 2019 John Wiley & Sons Ltd.
+
+14676419, 2019, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/joes.12311 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+ECONOMIC IMPLICATIONS OF DISPUTES
+
+MENDOZA ET AL.
+
+Although the Chinese government claims that the imports were held for quality regulation reasons,
+many speculate it is meant as sanctions and retaliation. Zachrisen (2015) finds a sharp drop in Philippine
+banana imports compared to the previous year’s data, based on Chinese government data. Curiously, in
+the same period, there was a huge increase in Ecuador banana exports to China, suggesting trade was
+diverted to Ecuador.
+Note in regard to Chinese sanctions, that scholars such as Poh (2017) argue that these Chinese
+“sanctions” are unfounded media speculation. This author points to Philippine government annual data
+on Mindanao exports of banana related products to China, which shows that exports actually increased
+in 2012. She further argues that bananas are a negligible portion of the overall China-Philippine trade,
+and thus would not be the most powerful and effective sanction for China to wield if it chose to do
+so. Separately, Zachrisen (2015) also investigates that media-reported Chinese embargo on rare earth
+elements (REE) imports to Japan in response to a skirmish over the disputed Senkaku/Diayou islands.
+Zachrisen found that data from UN Comtrade shows that with the exception of scandium and yttrium,
+there is no impact on volume of REE trade between the countries in late 2010.
+
+3.2 Bilateral Trade
+Using data from 1950 to 1995 for 557 contiguous country pairs, Simmons (2005:835) finds that the
+presence of a territorial dispute between country pairs is associated with a 28% decline in the value of
+their bilateral trade in the short run. Furthermore, Simmons (2005:835) finds that a territorial dispute
+has a long-run effect on bilateral trade of contiguous countries. In particular, territorial dispute is
+associated with a reduction in the average value of annual bilateral trade, from the sample mean of
+US$ 3.17 million to around US$ 2.3 million in the short run, and to around US$ 1.17 million in the
+long run.
+These suggest a significant amount of foregone trade when applied to some cases of countries
+with territorial disputes. For instance, Simmons estimates that the previous territorial dispute between
+Argentina and Chile (which lasted from 1950 to 1995) is associated with cumulative foregone trade
+amounting to almost US$ 33 billion over the same period. The said figure is close to the estimated total
+military spending by Argentina over the period 1962 to 1994 (at US$ 37 billion) and is higher than the
+counterpart figure for Chile (at US$ 22 billion). While the estimated cumulative losses in bilateral trade
+are smaller for other countries, the estimated amounts can still be considered as significant. (Simmons,
+2005:836–838).
+Similarly, results of the analysis by Brutger and Wright (2014) applied over a sample of 490 pairs of
+countries1 from 1950 to 1990 show that the marginal effect of the presence of a bilateral dispute amounts
+to a loss of more than half (around 55%) of value of annual trade between countries in a dyad. Interestingly,
+the same study finds that for a given country pair, the presence of both territorial and militarized disputes
+is associated with a 2.5% increase in the annual value of third-party trade. The authors posit that the said
+result suggests a possible trade diversion toward third-party countries, but only when there is a sufficiently
+high level of dispute escalation.2
+
+3.3 Natural Resources
+Many areas that are subject to territorial dispute contain various resource endowments (such as diverse
+fisheries and other marine resources) and as such, the uncertainties associated with a territorial dispute
+also affect those who depend primarily on the said endowments for their livelihood. Box 1 contains cases
+of territorial disputes and how these affect those who traditionally fish in the disputed areas. In most
+cases, fishermen tend to be caught in between countries that are party to the dispute. There are reports
+of harassment experienced by such fishermen, ranging from confiscation of some of their tools to use of
+force (such as ships and air forces) to drive them away from the disputed area.
+Journal of Economic Surveys (2019) Vol. 33, No. 3, pp. 1028–1049
+
+C 2019 John Wiley & Sons Ltd.
+
+14676419, 2019, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/joes.12311 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+1032
+
+Box 1. How fishermen in disputed areas are affected by territorial disputes: Selected cases.
+Colombia and Nicaragua
+After a case was brought to the International Court of Justice (ICJ) by Nicaragua in 2011, the court’s decision in
+2012 has paved the way for the transfer of a sea area of about 30,000 square miles from Colombia to Nicaragua.
+The said area has been considered as a rich fishing ground and potentially has significant amount of oil. Reports
+indicate the presence of Colombian Navy warships in the area in the aftermath of the Court’s decision, and that
+warships, as well as helicopters and planes, were reportedly used to harass Nicaraguan fishermen. This in turn
+induced the Nicaraguan government to send coast guard ships in the area (The Economist, 2012).
+The Colombian government announced that it would continue its navy and aerial patrols in the area, with a
+navy commander reportedly given instruction to “maintain the sovereignty of Colombia’s maritime jurisdiction as
+it has been historically known” (Castro, 2012). Results of a survey conducted in Colombia the aftermath of the
+ICJ decision show that around 85% of respondents believe that their government should not accept the ruling
+despite the possible implications of such move with regards to its relations with Nicaragua (The Economist, 2012;
+Paterson and Flyn, 2013:6).
+United Arab Emirates and Iran
+Territorial disputes between the United Arab Emirates and Iran concern Abu Musa, and Greater and Lesser Tunbs
+Islands. Abu Musa is approximately thirty-four miles away from UAE and forty-three miles away from Iran. A
+previous agreement stipulated co-management by Iran and UAE of Abu Musa islands. However, Iran has taken
+steps to have a monopoly of control over the said island, constructing an airstrip and increasing its military
+presence in the said island (Seddiq, 2001).
+The Greater and Lesser Tunbs islands, on the other hand, are located in an area that is considered as
+passageway for international ships. The dispute between the two countries has caused intermittent disruption of
+shipping and fishing activities in the disputed area. In 2013, for instance, the Iranian authorities arrested 12 UAE
+and 1 Indian fishermen for alleged trespassing. The fishermen were freed days later, after reportedly signing a
+document stating that they will never trespass the territorial waters of Abu Musa Island (Shaaban, 2013).
+Vietnam, Philippines and China.
+Vietnam, Philippines and China are among the countries with overlapping claims in the West Philippine
+Sea/South China Sea area. In the recent years, reports surface of Chinese fishing vessels expanding their
+operations into areas that serve as traditional fishing grounds for Vietnamese fishermen. Reports indicate various
+instances during which Chinese vessels would arrive as a group (sometimes accompanied by Chinese authorities),
+making it difficult for Vietnamese authorities to disperse such ships from traditional Vietnamese fishing grounds
+(see for instance Huy, 2011 as cited in Tuan, 2012–2013:100).
+Some reports also suggest harassment among Vietnamese fishermen by Chinese soldiers, with one report
+suggesting that some Vietnamese fishermen were denied entry in Paracel islands during a period of severe weather
+in late 2007. The Chinese soldiers eventually allowed such fishermen to enter the islands. However, the fishermen
+were reportedly detained and were asked to sign a document certifying that they have entered Chinese waters in
+the aftermath of the storm. Properties of some Vietnamese fishermen were also reportedly confiscated by Chinese
+authorities, such as fuel supplies owned by Vietnamese fishermen, leaving only sufficient amount of fuel for the
+fishermen to be able to return to Vietnam (Tuan, 2012–2013:101–102).
+Similarly, the standoff between the Philippines and China in Scarborough shoal (which was a traditional
+fishing ground of fishermen in nearby Zambales province) in 2012 has narrowed the areas where people can
+safely conduct their fishing activities. Reports of harassment surfaced, with some Filipino fishermen reportedly
+driven out of the periphery of the shoal by Chinese authorities through water cannon. Reports also suggest that
+Filipino fishermen are denied entry to Scarborough shoal even in the presence of typhoon or any severe weather.
+As a result of the dispute, some fishermen were reported to have shifted to other livelihood activities (such as hog
+raising) (Associated Press, 2013; Cupin, 2015).
+Source: Compiled from various sources.
+
+Journal of Economic Surveys (2019) Vol. 33, No. 3, pp. 1028–1049
+
+C 2019 John Wiley & Sons Ltd.
+
+1033
+
+14676419, 2019, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/joes.12311 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+ECONOMIC IMPLICATIONS OF DISPUTES
+
+MENDOZA ET AL.
+
+Such moves, as well as the reluctance of one party to accept entry of fishermen from other claimant
+countries in its occupied portion of the disputed areas, narrow the area where fishermen can pursue
+their fishing activities with minimal uncertainty, in turn affecting their earnings and livelihood. In many
+developing countries, a significant number of fishermen belong to low-income households3 and that
+fishing activities serve as one of the main sources of their earnings. While it is possible for such fishermen
+to shift to other occupation in the long run, the dependence of many of them to fisheries suggests their
+vulnerability to the short run disruptive effects of a territorial dispute.
+Furthermore, the fishing industry supports a range of other industries, including fish processing,
+production of tin cans and shipbuilding, among others. The contribution of such broader economic
+activities can be considered as significant, with one estimate showing that the value of output supported
+by such industries amount to around US$ 240 billion per year, three times larger than the estimated
+landing value of marine fisheries (Dyck and Sumaila, 2010:235). A territorial dispute can affect not only
+the direct fisheries output of a country that is party to the dispute but also the output of other sectors
+supported by the fishing industry. Also, some disputed areas serve not only as traditional fishing grounds
+but are intertwined as well with other fishing grounds in the area. The South China Sea/West Philippine
+Sea, for instance, is estimated to house 100,000 km2 of coral reefs, or around 34% of the world total
+(Burke et al., 2002:8). As such, territorial disputes have implications not only on the management of the
+resources in the disputed areas but also of resources on other fishing grounds that are biologically related
+to them.
+
+4. Economic Implications of Violent and Military Confrontations of Disputes
+Violent and military confrontations include military conflict where nation states resort to armed force
+(ICRC, 2008). Jones et al. (1996) defines these as threats, displays, or use of military force by a nation
+state against another state. These confrontations include confrontations of differing intensity, from threats
+to actual combat.
+While there are differences with regards to the intensity and duration of military confrontations, all are
+associated with significant costs on human life and on society. As posited by Stewart (1993, as cited in
+Harris, 1999:15–16), the economic costs of war can be classified as follows:
+
+r Human costs which refer to the immediate costs borne by the society due to war. Included here are
+costs associated with reduced production of goods and services, reduced government expenditure
+on health and education due to diversion of fiscal resources for war time needs, and direct and
+indirect effects of war felt by households and individuals (such as casualties and injuries, foregone
+economic opportunities and foregone access to health and education services).
+r Development costs which refer to costs associated with the depletion of an economy’s capital stock
+and foregone investment due to war. Capital includes physical infrastructure as well as human and
+social capital. Examples of development costs include costs associated with the decrease in the
+proportion of educated workers in the labor force and the loss of trust and respect for law and private
+property due to war, among others.
+The main channels through which these costs materialize are further elaborated below.
+
+4.1 Casualties
+One issue of interest concerns the valuation of economic costs associated with the loss of life during times
+of military conflict that arise from territorial disputes (see Table 2). While no metric can fully encapsulate
+the toll associated with the loss of life and injuries during war, such valuation can provide a benchmark
+estimate of the extent of human casualties caused by war.
+Journal of Economic Surveys (2019) Vol. 33, No. 3, pp. 1028–1049
+
+C 2019 John Wiley & Sons Ltd.
+
+14676419, 2019, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/joes.12311 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+1034
+
+1035
+
+Table 2. Selected Post-World War II Skirmishes Associated with Territorial Disputes.
+Date of encounter
+
+Countries included
+
+April 2 to June 14,
+1982
+
+United Kingdom
+and Argentina
+
+February 16 to
+March 17, 1979
+
+1980 to 1988
+
+August 2, 1990 to
+February 28,
+1991
+
+January 26, 1995
+to February 28,
+1995
+May 1998 to June
+2000
+
+Disputed territory
+Falkland Islands
+
+Casualties and associated costs
+
+r Military casualties: death of around 800 to
+
+1000 Argentine soldiers and 250 British
+soldiers
+r Estimated cost to the British government
+of around US$ 1.19 billion
+r Estimated cost of around US$ 5 billion to
+the Argentine government
+r Death of around 25,000 to 28,000 Chinese
+People’s Republic
+Overlapping claims
+soldiers and injury of around 37,000
+of China and
+over certain islands in
+soldiers
+Vietnam
+the Spratlys area, and
+r Death of around 20,000 Vietnamese
+land near the border
+soldiers and injury of around 35,000 to
+territory
+45,000 soldiers
+Iran and Iraq
+Shatt Al Arab waterway r Estimated death toll of around 1,000,000 in
+Iran and 250,000 to 500,000 in Iraq
+r Estimated economic cost amounting to
+US$ 644 billion in Iran and US$ 453
+billion in Iraq
+r Death of around 50,000 to 120,000 Iraqi
+Iraq and Kuwait
+Kuwait
+soldiers
+r Death of around 5,000 to 15,000 Iraqi
+civilians during the war
+r Death of around 20,000 to 100,000 Iraqi
+civilians during the uprisings conducted in
+the aftermath of the war
+r Death of around 15,000 to 30,000
+displaced Iraqi civilians
+r Death of around 4000 to 16,000 Iraqi
+civilians due to starvation and disease
+r Estimated replacement cost of destroyed
+Iraqi assets: US$ 200 billion
+r Estimated cost of war in Kuwait: US$ 65
+billion
+r Reduction in Kuwait’s GDP and increase
+in government debt
+r Around 200 to 1500 casualties
+Ecuador and Peru
+Dispute over 883-mile
+r Estimated total cost of up to US$ 1 billion
+long border (which
+includes Condor
+Mountain range)
+r Estimated total military fatalities of around
+Ethiopia and Eritrea Border areas (Badme,
+Tsorona-Zalambessa
+70,000 to 100,000
+r Internal displacement of around 360,000
+and Bure regions in
+people in Ethiopia as of May 2000
+Ethiopia)
+r Internal displacement of around 1.1
+million people in Eritrea during the war
+
+Source: Compiled by the authors from various sources.
+Journal of Economic Surveys (2019) Vol. 33, No. 3, pp. 1028–1049
+
+C 2019 John Wiley & Sons Ltd.
+
+14676419, 2019, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/joes.12311 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+ECONOMIC IMPLICATIONS OF DISPUTES
+
+MENDOZA ET AL.
+
+Casualties due to military conflicts may also continue to pile up even after the war, as in the case of the
+First Gulf War. These include the postconflict death of many Iraqi civilians due to lack of purified water
+systems, lack of well-functioning health care delivery systems and destruction of vital infrastructures
+(such as power generating plants), among others (Alnasrawi, 1992:345–346).
+
+4.2 Economic Growth and Standard of Living
+Armed conflict can also affect economic growth and the standard of living in different ways. Casualties and
+destruction of properties and productive capacities of a country, in turn adversely affecting its economy
+in the short run (see for instance Yamarik, Johnson and Compton, 2010). By one estimate, the Iran–Iraq
+war, which is partly rooted in the territorial dispute over the Shatt Al Arab waterway, cost Iran around
+US$ 644 billion, with war damage and lost potential production (excluding oil) comprising a large part
+(at around US$ 450 billion) of the estimated cost. Iraq, on the other hand, is estimated to have incurred
+economic cost amounting to US$ 453 billion which includes oil revenue losses amounting to US$ 198
+billion. Such estimated losses amount to around 60% of Iran’s Gross National Product (GNP) and 112%
+of Iraq’s GNP over 8 years of war (Mofid, 1990 as cited in Harris, 1999:18–19).
+Military conflicts are also associated with build-up of military capabilities, which affects the economy
+through various channels. First among these are the demand effects which include multiplier effects
+associated with increased military spending and crowding out of other expenditures. The crowding out
+effect would depend on how the additional military spending is financed. If for instance, the increase in
+spending is financed through additional government borrowing, this may lead to increase in real interest
+rates which can then crowd out private investment. On the other hand, additional military spending can
+result in changes in output of other industrial sectors as some resources are reallocated toward the defense
+industry (Dunne et al., 2005:450–451).
+To the extent that increased security leads to increased economic activity, and increased military
+spending leads to increased security, greater military spending can, in some cases, produce positive
+consequences for a country’s economy. However, greater military spending in one country can possibly
+lead to an arms race with other countries, which can then adversely affect the security situation of those
+countries (Dunne et al., 2005:451).
+Yamarik et al. (2010:16) find that a one standard deviation increase in the value of a country’s conflict
+indicator4 results in a reduction of about 14% of standard deviation of its 2000 real GDP per capita.
+Polachek and Sevastianova (2010:16–24), on the other hand, find evidence indicating the presence of
+short run effects associated with interstate military conflict. Results show that a one unit increase in the
+number of war dead per thousand population leads to 2.20 percentage point and 2.25 percentage point
+lower average economic growth rate using observations that utilize 2-year and 1-year time intervals,5
+respectively. Similar results are also observed for regression runs using observations from low-income
+countries as well as African countries, suggesting a significant toll on developing countries associated
+with such conflicts.
+However, other studies yield results showing an insignificant or even positive relationship between
+interstate war and output variables. For instance, results of the analysis by Koubi (2005:78) show that
+greater war duration from 1960 to 1974 is associated with higher average annual economic growth over
+the period 1975 to 1989 using a sample of 114 countries. As such, this potentially suggests the presence
+of a “phoenix factor” in certain cases, a term coined by Organski and Kugler (1977) upon observing
+that countries on the losing side have recovered rapidly within 15 to 20 years after the two world
+wars.
+Various explanations have been put forward to explain the said observation. Consistent with the
+predictions of the neoclassical growth theory, it is possible for countries to experience convergence in
+the long run (Koubi, 2005:79). Also, it is possible that interstate military conflict has undermined if not
+eliminated the vested interests opposed to economic reforms in belligerent countries (Olson, 1982). Aside
+Journal of Economic Surveys (2019) Vol. 33, No. 3, pp. 1028–1049
+
+C 2019 John Wiley & Sons Ltd.
+
+14676419, 2019, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/joes.12311 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+1036
+
+1037
+
+from possible multiplier effects, increased military activity can potentially induce an increase in research
+and innovation activities, in turn affecting an economy’s long-run trajectory (Ruttan, 2006).
+
+4.3 Trade and Investment
+Military confrontations can also affect trade through different channels. On the one hand, military
+encounters can disrupt commerce, thereby reducing the volume of trade among the concerned countries.
+Alternatively, there are also security externalities associated with trade, including export of strategic goods
+which can strengthen the military capabilities of an adversary country as well as income gains that can
+be attained by an adversary country as a result of trade. To the extent that governments are aware of the
+presence of such externalities, policies can be initiated to push firms to internalize them, thereby reducing
+trade among warring countries (Kastner, 2007:667–668).
+As shown in Table 4, there are studies which find that a military conflict has negative impact on bilateral
+trade (Pollins, 1989; Anderton and Carter, 2001; Glick and Taylor, 2005), while other studies find limited
+or insignificant impact (Morrow, Siverson and Tabares, 1998; Barbieri and Levy, 1999).
+Some authors attempt to explain the mixed results observed in the literature. For instance, Li and Sacko
+(2002:13–19) posit that the impact of military conflict on trade depends on the predictability of the conflict
+on the part of the firms. War can be considered as a product of a stochastic process, in which case the
+governments do not have full expectation ex ante that a military conflict will occur. Traders do not have
+more complete information than their respective governments, and as such do not also fully expect the
+occurrence of such armed confrontation. The negative impact of a military conflict on bilateral trade will
+be greater: (i) if it is less expected that the conflict will exist, (ii) if all parties do not expect beforehand
+that it will be severe, and (iii) if the conflict endures longer than expected. Empirical analysis conducted
+by the authors yield results that cohere with their conjectures, with the unexpectedness of the onset of a
+military conflict between states and of its severity and duration all having negative impact on bilateral
+trade (Li and Sacko, 2002: 27–33).6
+Furthermore, as noted by Glick and Taylor (2005:103), some of the empirical studies use samples that
+include relatively short time series and limited set of countries (such as only the contiguous or politically
+relevant ones), which suggest a higher likelihood of presence of selection bias. In this case, Glick and
+Taylor (2005) make use of a large dataset of bilateral trade covering 172 countries over the period 1870 to
+1997 and extend the analysis on two fronts: (i) inclusion of lagged terms to determine if a military conflict7
+has effects on trade beyond its contemporaneous impact, and (ii) examination of the possible presence
+of spill-over effects associated with a military conflict. Their results show that war has a significant
+negative impact on trade between belligerent countries, with the said effect lingering for a couple of
+years. War also has an adverse effect on trade between belligerent and neutral countries, with more
+remarkable figures observed when the analysis is limited to the major wars (see Table 4) (Glick and Taylor,
+2005:109).
+Other studies examine the impact of a military dispute on inflow of foreign direct investments. The
+emergence of such type of conflict can increase the risk associated with operating on countries that
+are party to the dispute, in turn increasing the uncertainty on the returns that firms can earn from their
+investments (Jensen, 2006; Jensen and Young 2008; Bussman, 2010). The presence of risk may induce
+multinational firms to resort to measures that aim to ensure that their operations will remain smooth
+(such as increasing the security of their affiliate offices), which will then increase the cost associated with
+operating in those countries (Spich and Grosse, 2005).
+It is also possible that host country governments modify their regulatory policies toward foreign
+investments as a result of a military conflict. Governments can utilize an array of tools which include
+imposition of capital controls to discourage their multinational enterprises to invest on their adversaries.
+Also, such governments can induce affiliates of multinational firms from hostile countries to repatriate
+less amount of profit to their respective countries of origin and even expropriate the firms’ assets as a
+Journal of Economic Surveys (2019) Vol. 33, No. 3, pp. 1028–1049
+
+C 2019 John Wiley & Sons Ltd.
+
+14676419, 2019, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/joes.12311 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+ECONOMIC IMPLICATIONS OF DISPUTES
+
+MENDOZA ET AL.
+
+result of the military conflict (Li and Vaschilko, 2010:767–768). Both of these are expected to reduce the
+amount of bilateral investments among countries that are party to a military dispute.
+Li (2006:245–251) finds that the emergence of an unanticipated military dispute among states is
+associated with a lower probability that a country will be chosen as location for potential investment.
+Relatedly, using data on 1117 dyads or country pairs from 1980 to 2000, Li and Vaschilko (2010:773–776)
+find that military conflict affects bilateral foreign direct investments only for dyads in which one country
+is a high income country and the other a low income country. On the other hand, military conflicts are
+found to have insignificant effect on bilateral investments between high income countries.
+The authors posit that a possible explanation behind the observed result concerns the existence of
+relatively few military disputes among high income country pairs in the sample. Many high income
+countries have democratic governments and disputes are usually settled through mediation. Another
+possible explanation put forward by the authors concerns the difference with regards to the dominant type
+of bilateral investments for the two types of country pairs in the sample. In particular, bilateral investments
+for high income-low income country pairs tend to be more vertical, in which case, the investment made
+is a vital component of a production chain that serves a large market while bilateral investments for high
+income countries tend to be more horizontal. It is possible for a military dispute to have more significant
+impact on vertical-type investments given that various countries (in particular, all countries that are part
+of the production chain) are affected in this case as opposed to horizontal-type investments in which the
+disruption is limited only to countries that are part of the dispute (Li and Vaschilko, 2010:775).
+
+4.4 Health Outcomes
+Studies have also shown that military conflict can adversely affect development outcomes. For instance,
+Akresh et al. (2012:335–337) find that Eritrean children who were born during the Ethiopian-Eritrean
+conflict from 1998 to 2000 and were living in a conflict region have 0.42 standard deviation lower
+height-for-age Z scores. This in turn makes their average height-for-age Z score 22% lower than that of
+children who were born in a nonconflict region during the war. This has implications on the future health,
+education, and labor market outcomes of the affected children, with the affected children estimated to
+have 4.3% less wage in their adulthood.8
+
+5. The Economic Implications of War: The Case of West Philippine Sea/South China Sea
+Existing empirical research on the economic disruptions and costs of conflict can be used to estimate the
+economic implications of a potential armed conflict in the West Philippine Sea /South China Sea, where
+various countries have overlapping and competing territorial and jurisdictional claims. While there are
+myriad possible economic implications, our focus here is on the disrupted economic activity due to a
+conflict, possibly triggering contraction in international trade. In order to illustrate, this section examines
+the potential economic implications of an armed conflict, in particular among the following country pairs:
+(i) Indonesia and China, (ii) China and the Philippines, and (iii) China and Vietnam.
+As a first step, we build on work by Glick and Taylor (2005) who undertake one of the most
+comprehensive empirical analyses of conflict. The results of their analysis show that a military conflict
+between two countries is typically associated with a significant reduction in bilateral trade, estimated to
+be 85% of their average trade flow in 1985 US$, during the onset of the conflict. Furthermore, conflict has
+lingering effect on bilateral trade between two belligerents, with the adverse effect on trade very slowly
+tapering off only after a decade (see Table 5). As can also be seen in Table 5, the same study finds that a
+military conflict has an adverse and also lingering effect on trade between belligerent and neutral countries
+The results above can be applied to the aforementioned cases. Drawing on the work of Rose and
+Spiegel (2004), the bilateral trade data used are deflated using USA CPI to provide a close estimate of
+such trade values in 1985 dollars.10 The export and import flows (in 1985 US$) are then averaged to arrive
+Journal of Economic Surveys (2019) Vol. 33, No. 3, pp. 1028–1049
+
+C 2019 John Wiley & Sons Ltd.
+
+14676419, 2019, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/joes.12311 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+1038
+
+1039
+
+Table 3. Selected Studies on the Impact of Military Conflict on GDP Growth and GDP per Capita.
+
+Authors
+
+Observations
+
+Empirical method
+
+Yamarik et al.
+(2010)
+
+158 countries over
+the period 1960
+to 2000
+
+Deep determinants
+regression approach
+
+Polachek and
+Sevastianova
+(2010)
+
+81 countries over
+the period 1970
+to 2000
+
+Fixed effects regression
+
+Koubi (2005)
+
+114 countries over
+the periods 1960
+to 1974 (for
+war/conflict
+observations)
+and 1975 to 1989
+(for observations
+on economic
+growth)
+
+OLS regression (with
+conflict indicator that is
+not contemporaneous
+with economic growth)
+
+Results
+
+r A standard deviation increase in
+fatality-weighted conflict indicator
+results to a decrease in 2000 real
+GDP per capita by around 14% of
+a standard deviation.
+r High-intensity interstate military
+conflict reduces annual growth by
+0.18 to 2.77 percentage points.
+r High-intensity interstate military
+conflict results to lower annual
+economic growth across all
+countries using observations with
+1-year and 2-year time intervals
+r High-intensity interstate military
+conflict results to lower annual
+economic growth using
+observations from low-income
+and African countries
+r Doubling the duration of war from
+its mean value increases per
+annum economic growth by 22%
+
+Source: Synthesis of studies compiled by the authors.
+
+at an indicator of bilateral trade flow that is consistent with the one used in Glick and Taylor (2005). The
+estimated percentages in Table 5 are then applied to determine the foregone bilateral trade between two
+countries assuming a conflict occurs between them in 2005. Foregone bilateral trade is estimated using
+data from 2005 to 2015 to take into account the possible lagged effects of such conflict.
+The cumulative implication of a 1-year military conflict can be considered as significant, ranging from
+around US$ 27.3 billion (for China-Vietnam case) to US$ 39.9 billion (for Indonesia-China case), all
+of which are expressed in 1985 US$ (see Table 6). A comparison of the said figures with the estimated
+GDP (in 1985 dollars) of the countries included in the analysis in 2005 provides a clearer picture of the
+potential extent of the implications of such type of conflict.
+While the estimated cumulative foregone average trade flow is equivalent to a much larger proportion
+of Philippines’ and Vietnam’s respective GDPs, the estimated figures can also be considered as significant
+in China’s and Indonesia’s respective cases. China’s defense spending in 2005 is equivalent to around
+US$ 39.1 billion (in 1985 US$),11 which is marginally larger than the estimated cumulative foregone
+average trade flow between China and Indonesia. However, assuming that military conflicts among the
+Journal of Economic Surveys (2019) Vol. 33, No. 3, pp. 1028–1049
+
+C 2019 John Wiley & Sons Ltd.
+
+14676419, 2019, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/joes.12311 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+ECONOMIC IMPLICATIONS OF DISPUTES
+
+MENDOZA ET AL.
+
+Table 4. Selected Studies on the Impact of Military Conflict on International Trade.
+Authors
+
+Observations
+
+Empirical method
+
+Pollins
+(1989)
+
+25 countries over the
+period 1960 to 1975
+
+OLS regression applied to
+cross section of
+countries for each year
+OLS regression (but use of
+panel corrected standard
+errors in place of usual
+standard errors)
+
+Morrow et al. Seven countries
+(1998)
+(considered major
+powers) over the
+period 1907 to 1913,
+1920 to 1938, 1948
+to 1990)
+Barbieri and Seven dyads
+Levy
+(Argentina–UK,
+(1999)
+UK–China,
+UK–Egypt,
+Cyprus–Turkey,
+Greece–Turkey,
+Uganda–Tanzania,
+USA–China) over the
+period 1870 to 1992
+Anderton and 14 major power dyads
+Carter
+and 13 nonmajor
+(2001)
+power dyads
+Li and Sacko One dataset consisting
+(2002)
+of 56 countries from
+1870 to 1992
+Postwar dataset
+consisting of 120
+countries from 1950
+to 1992
+Glick and
+50 countries over the
+Taylor
+period 1870 to 1938
+(2005)
+and 171 countries
+over the period 1938
+to 1997
+
+Interrupted time series
+analysis
+
+Interrupted time series
+analysis
+Fixed effects regression
+
+Country-pair fixed effects
+regression
+
+Source: Synthesis of various studies compiled by the authors.
+
+Journal of Economic Surveys (2019) Vol. 33, No. 3, pp. 1028–1049
+
+C 2019 John Wiley & Sons Ltd.
+
+Results
+
+r Lagged conflict indicator is
+(statistically) significantly related to
+trade variable on all regression runs
+r Militarized interstate dispute does not
+have a statistically significant effect on
+trade
+
+r Statistically significant and negative
+effect of war on trade on only one dyad
+(Argentina–UK)
+r No adverse permanent effect
+associated with war on trade for all
+dyads included
+
+r Greater number of dyads for which
+war has a negative and significant
+effect on trade
+r Onset of an unexpected militarized
+interstate dispute and the degree of
+unpredictability of such dispute reduce
+bilateral trade ex post
+
+r 85% decline in average trade flow
+between belligerent countries at the
+onset of a military conflict
+r Decline in annual average trade flow
+between belligerent countries of about
+3% to 73% in the decade after the
+onset of a conflict (with larger decline
+observed in the years immediately
+preceding the onset of a military
+conflict)
+r Decline in annual average trade flow
+between belligerent and neutral
+country of about 5% to 12% as a result
+of a military conflict and about 42% to
+65% as a result of major wars
+
+14676419, 2019, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/joes.12311 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+1040
+
+1041
+
+Table 5. Estimated Average Effect of a Military Conflict on Trade (from Glick and Taylor, 2005).
+
+Years after the war
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+Reduction in trade
+between adversaries
+
+Reduction in trade between a
+belligerent and a neutral9
+
+85%
+73%
+74%
+68%
+52%
+43%
+32%
+21%
+21%
+10%
+3%
+
+12%
+7%
+4%
+5%
+9%
+7%
+9%
+5%
+Insignificant
+Insignificant
+Insignificant
+
+Source: Glick and Taylor (2005: 111).
+
+Table 6. Foregone Bilateral Trade and 2005 GDP (Expressed in 1985 prices) Based on Glick and Taylor’s
+(2005) Estimates (in Billions).
+
+Cases
+China and Indonesia
+China and Philippines
+China and Vietnam
+
+GDP China
+GDP Partner
+(1985 dollars) (1985 dollars)
+1939.180
+
+234.7
+64.3
+51.6
+
+Total Foregone Average Trade
+
+Cumulative
+foregone
+average trade
+(1985 dollars)
+
+Foregone trade
+(% of China’s
+GDP)
+
+Foregone trade
+(% of partner
+country’s GDP)
+
+39.1
+32.5
+27.3
+
+2.02%
+1.67%
+1.41%
+
+16.65%
+50.51%
+52.85%
+
+98.8
+
+Note: A country’s GDP for a particular year can be expressed in 1985 dollars by applying the relevant real
+GDP growth rate figures of the said country (from the World Development Indicators) to the country’s GDP
+(expressed in current dollars) in 1985. For a justification of the said methodology, please refer to the following
+link: https://www.imf.org/external/pubs/ft/weo/faq.htm#q3c.
+Source: Authors’ calculations using data from UN Comtrade Database.
+
+three country pairs considered all occurred in 2005, the total foregone trade from these conflicts is around
+US$ 98.8 billion (in 1985 US$) which is more than 2.5 times as large as China’s defense spending (also
+in 1985 US$).
+In the case of Indonesia, the cumulative foregone average trade in a hypothetical conflict with China
+is equivalent to more than 16% of the country’s GDP in 2005 (expressed in 1985 US$), which is larger
+than the estimated contribution of agriculture sector on Indonesia’s total GDP in 2005 (at 13.1% of
+GDP12 ). Furthermore, the estimates do not include the value of foregone bilateral trade between each of
+the countries considered (China, Indonesia, Philippines and Vietnam) and other countries that are neutral
+to the hypothetical military conflicts (see Appendix A for more details on the estimated foregone average
+trade flow for each country pair considered).
+Journal of Economic Surveys (2019) Vol. 33, No. 3, pp. 1028–1049
+
+C 2019 John Wiley & Sons Ltd.
+
+14676419, 2019, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/joes.12311 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+ECONOMIC IMPLICATIONS OF DISPUTES
+
+MENDOZA ET AL.
+
+Table 7(a). Foregone Trade in 2006 Based on Li and Sacko’s (2002) Estimates (Postwar Sample, in Billions).
+
+Cases
+
+Estimated foregone Foregone total trade Foregone average
+Total bilateral trade in trade in current US$
+in 1985 US$
+trade in 1985 US$
+2006 (current US$)
+(postwar sample)
+(postwar sample) (postwar sample)
+
+China and Indonesia
+China and Philippines
+China and Vietnam
+
+19.1
+23.4
+9.9
+
+2.3
+2.8
+1.2
+
+1.2
+1.5
+0.6
+
+Total foregone average trade
+
+0.6
+0.8
+0.3
+1.7
+
+Source: Authors’ calculations using data from UN Comtrade Database.
+
+Table 7(b). Foregone Trade in 2006 Based on Li and Sacko’s (2002) Estimates (Larger Sample, in Billions).
+
+Cases
+
+Estimated foregone Foregone total trade Foregone average
+Total bilateral trade in trade in current US$ in 1985 US$ (larger trade in 1985 US$
+2006 (current US$)
+(larger sample)
+sample)
+(larger sample)
+
+China and Indonesia
+China and Philippines
+China and Vietnam
+
+19.1
+23.4
+9.9
+
+1.2
+1.5
+0.6
+
+Total foregone average trade
+
+0.7
+0.8
+0.3
+
+0.3
+0.4
+0.2
+1
+
+Source: Authors’ calculations using data from UN Comtrade Database.
+
+Li and Sacko (2002), on the other hand, estimate that the onset of unexpected military conflict between
+two countries is associated with a 12% reduction in trade using a post-World War sample of 20 countries
+from 1949 to 1992, and a 6.5% reduction in trade using a larger sample of 56 countries from 1870 to
+1992. For each country pair, the authors used the total value of trade between the two countries (in current
+US$) as their trade indicator, and that their indicator for the onset of unexpected military conflict is lagged
+by 1 year. Assuming that hypothetical military conflict occurs for each country pair considered in 2005,
+the findings by Li and Sacko (2002) can be used to come up with an alternative estimate of the value of
+foregone trade in 2006.
+As Tables 7(a) and 7(b) show, the estimated foregone average trade (in 1985 dollars) due to onset of
+an unexpected military conflict ranges from US$ 318.6 million (China and Vietnam case) to US$ 749.8
+million (China and Philippines case) using the postwar sample estimate, and from US$ 172.6 million
+(China and Vietnam) to US$ 406.1 million (China and Philippines) using the larger sample estimate.13
+These correspond to total estimated foregone average trade (in 1985 dollars) of around US$ 1.7 billion
+(using the postwar sample) and US$ 909.3 million (using the larger sample) among the country pairs
+considered, both of which are smaller than the total foregone average trade estimated based on results in
+Glick and Taylor (2005).
+On the other hand, Brutger and Wright (2014) examine the implications of a territorial dispute, along
+with the potential armed conflict that can arise, on bilateral trade. They find that a territorial dispute between
+two countries is associated with a 55% decline in the value of their total bilateral trade (expressed in 2000
+US$) in a given year, and that if the territorial dispute is accompanied by a military dispute, the marginal
+effect increases to 82%.
+Journal of Economic Surveys (2019) Vol. 33, No. 3, pp. 1028–1049
+
+C 2019 John Wiley & Sons Ltd.
+
+14676419, 2019, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/joes.12311 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+1042
+
+1043
+
+Table 8(a). Foregone Trade in 2005 Due to a Territorial Dispute Based on Brutger and Wright’s (2014)
+Estimates (in Billions).
+
+Cases
+
+Estimated foregone Estimated foregone Estimated average
+trade due to a
+trade due to a
+foregone trade due
+Total Bilateral Trade territorial dispute
+territorial dispute
+to a territorial
+2005 (2000 US$)
+(2000 US$)
+(1985 US$)
+dispute (1985 US$)
+
+China and Indonesia
+China and Philippines
+China and Vietnam
+
+14.8
+15.5
+7.2
+
+8.1
+8.5
+4
+
+5.1
+5.3
+2.5
+
+Total foregone average trade
+
+2.5
+2.7
+1.2
+6.4
+
+Source: Authors’ calculations using data from UN Comtrade Database.
+
+Table 8(b). Foregone Trade in 2005 Due to Territorial and Maritime Disputes Based on Brutger and Wright’s
+(2014) Estimates.
+
+Cases
+
+Total bilateral trade
+2005 (2000 US$)
+
+China and Indonesia
+China and Philippines
+China and Vietnam
+
+Estimated foregone Estimated foregone Estimated average
+trade due to
+trade due to
+foregone trade due
+territorial and
+territorial and
+to territorial and
+military disputes
+military disputes
+military disputes
+(2000 US$)
+(1985 US$)
+(1985 US$)
+
+14.8
+15.5
+7.2
+
+12.1
+12.7
+5.9
+
+Total foregone average trade
+
+7.6
+7.9
+3.7
+
+3.8
+4
+1.9
+9.6
+
+Source: Authors’ calculations using data from UN Comtrade Database.
+
+Tables 8(a) and 8(b) show an alternative estimate of the implications of hypothetical conflict for each
+of the three country pairs, based on findings by Brutger and Wright (2014). The estimated average trade
+implications are larger relative to the corresponding figures in Tables 7(a) and 7(b) (based on Li and
+Sacko’s [2002] analysis). These include the estimated foregone average trade flow (in 1985 dollars) due
+to presence of a territorial dispute only, which ranges from US$ 1.2 billion in the case of China and
+Vietnam to US$ 2.7 billion in the case of China and the Philippines.
+
+6. Conclusion
+The economic effects associated with territorial and maritime disputes among states are myriad and vary
+greatly in their size and extent. Much of the existing literature in this area finds evidence suggesting
+implications on both growth and development outcomes. These implications can be traced to the nature
+of confrontations among the disputing states. Nonviolent confrontations entail policy uncertainty, trade
+volume contraction, and barriers to natural resources. Violent, military confrontations entail the casualties,
+foregone trade and investment, and decreased standards of living.
+Journal of Economic Surveys (2019) Vol. 33, No. 3, pp. 1028–1049
+
+C 2019 John Wiley & Sons Ltd.
+
+14676419, 2019, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/joes.12311 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+ECONOMIC IMPLICATIONS OF DISPUTES
+
+MENDOZA ET AL.
+
+While the literature is not unanimous with regards to the presence of possible adverse effect of armed
+conflict on some economic outcomes (e.g., Koubi, 2005; Miguel and Roland, 2011), this does not mean
+that war can be a socially desirable option. As noted by Miguel and Roland (2011:3–4), one cannot
+discount the humanitarian costs and the short-run but disruptive effects of a military conflict on the
+economy.
+Based on the review of evidence herein, the economic implications of conflict in terms of foregone
+average trade among the country pairs considered in the West Philippine Sea/South China Sea (in 1985
+dollars) – which differ in important ways but hint at some common channels of impact – could range
+from US$ 909.3 million to US$ 98.8 billion. More broadly, the impacts on a disrupted global production
+chain can easily amplify these results even further, affecting global growth prospects for many decades,
+according to experience. Unfortunately, it is not yet possible to affix probabilities to these estimates.
+But the goal here nevertheless is to try to illustrate the possible range of economic disruption that could
+take place. Clearly, economic disruption in this part of the world could result in dramatic economic
+and human development implications for the countries concerned – and perhaps even the rest of the
+world.
+Further studies could explore what factors, such as the initial wealth of the countries involved, the
+intensity and protractedness of the conflict, and how the risks of conflict re-emergence is managed,
+affect economic implications of disputes. Furthermore, the authors found that maritime disputes and its
+economic implications remain unexplored in literature relative to disputes over territorial sovereignty.
+Efforts towards illuminating the economic aspects of maritime disputes would be increasingly relevant
+as the West Philippine Sea/South China Sea disputes develop on the world stage.
+
+Notes
+1. The study included only country pairs that are adjacent to each other or separated by no more than
+400 miles of water.
+2. The authors do not find a strongly significant effect of presence of territorial dispute on trade with
+other parties.
+3. One estimate shows that around 20% of fishermen are small-scale fishermen who earn less than US$ 1
+a day, and that many of them can be found in Asia (FAO, 2002). In the case of the Philippines,
+poverty incidence among fishermen is estimated to be around 39.2% in 2012 (PSA-NSCB,
+2012).
+4. The conflict indicator is formulated by first computing the weighted sum of all bilateral conflicts in
+which a particular country is involved during a particular year, with the average daily fatality figure
+of each conflict serving as its weight. The yearly indicators from 1960 to 2000 are then summed up
+to generate the conflict indicator used in their study.
+5. For 2-year time intervals, one observation corresponds to 1971 to 1972, 1973 to 1974, and so forth.
+The average value of most indicators for years included in a unit of observation serves as the value
+of such indicators for that unit of observation.
+6. In this case, the authors simulate the firms’ calculation of the possibility of a military conflict by
+modelling the onset of a conflict as a function of various variables which include bilateral trade flows
+and trade interdependence, historical commonality, distance, presence of alliance and the presence
+of a major world power in a country pair or dyad, among others.
+7. This includes declarations of war and conflicts associated with more than 1000 battle deaths.
+8. The estimate is based on the following figures: Alderman, Hoddinott and Kinsey (2006) find that
+a one standard deviation decrease in height is associated with 0.678 fewer grades completed in
+Zimbabwe while Krishnan, Selassie and Dercon (1998) estimate the returns to education in Ethiopia
+to be around 15%.
+Journal of Economic Surveys (2019) Vol. 33, No. 3, pp. 1028–1049
+
+C 2019 John Wiley & Sons Ltd.
+
+14676419, 2019, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/joes.12311 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+1044
+
+1045
+
+9. A belligerent for a particular year is a country that is involved in a war (as defined by Glick and
+Taylor) for that year while a neutral is a country that is not involved in a war during that year.
+10. In this case, Rtradet=NtradetCPItCPI1985, where Rtradet is the value of trade flow in 1985 prices,
+Ntradet is the value of trade flow in current prices, CPIt is the US CPI for year t, and CPI1985 is the
+US CPI for the year 1985. The World Development Indicators serve as the source of data on US CPI
+(with 2000 = 100).
+11. It is estimated that defense spending accounts for approximately 2.02% of China’s GDP in 2005,
+and the said figure was applied to the estimated GDP in 1985 dollars in 2005 (source of data: World
+Development Indicators).
+12. Figure is from World Development Indicators.
+13. Dividing total foregone bilateral trade figures (in 1985 dollars) by 2 yields the corresponding values
+for the average foregone bilateral trade (in 1985 dollars).
+
+References
+Akresh, R., Lucchetti, L. and Thirumurthy, H. (2012) Wars and child health: Evidence from the EritreanEthiopian conflict. Journal of Development Economics 99: 330–340.
+Alderman, H., Hoddinott, J. and Kinsey, B. (2006) Long term consequences of early childhood malnutrition.
+Oxford Economic Papers 58(3): 450–474.
+Alnasrawi, A. (1992) Iraq: Economic consequences of the 1991 Gulf War and future outlook. Third World
+Quarterly 13(2): 335–352.
+Anderton, C. and Carter, J. (2001) The impact of war on trade: An interrupted time-series study. Journal of
+Peace Research 38(4): 445–457.
+APEC Policy Support Unit. (2013) Global Supply Chain in the APEC Region: Case Study of the Electrical and
+Electronics Industry. Singapore: APEC PSU, APEC Secretariat.
+Associated Press. (2013) Filipino fishermen pay price of disputes. Inquirer.net, May 23 [http://global
+nation.inquirer.net/75345/filipino-fishermen-pay-price-of-sea-disputes].
+Barbieri, K. and Levy, J. (1999) Sleeping with the enemy: The impact of war on trade. Journal of Peace
+Research 36:463–479.
+Brutger, R. and Wright, A. (2014) The costs of conflict: border disputes and trade diversion. Mimeo
+[http://www.austinlwright.com/wp-content/uploads/2014/09/Borders.pdf].
+Burke, L., Selig, E. and Spalding, M. (2002) Reefs at Risk in Southeast Asia. Washington, DC: World Resources
+Institute.
+Bussmann, M. (2010) Foreign direct investment and militarized international conflict. Journal of Peace Research
+47(2): 143–153.
+Castro, I. (2012) Nicaragua’s Ortega expects Colombia to accept border ruling. Reuters.com, November 23.
+[http://www.reuters.com/article/nicaragua-colombia-idUSL1E8MO04F20121124].
+Cheewatrakoolpong, K., Sabsahari, C. and Bunditwattanawong, N. (2013) Impact of the ASEAN economic
+community on ASEAN production networks. ADBI Working Paper Series No. 409.
+Choi, W. (2009) Conditions for peaceful resolution in territorial disputes of Northeast Asia. The Korean Journal
+of International Studies 7(2): 35–53.
+Cupin, B. (2015) From Masinloc to The Hague: A question of livelihood. Rappler.com [http://
+www.rappler.com/nation/98783-masinloc-zambales-china-scarborough-shoal]
+Daoudi, M.S. and Dajani, M.S. (1983) Sanctions: The Falklands episode. The World Today 39, (4): 150–160.
+Dunne, J.P., Smith, R.P. and Willenbockel, D. (2005) Models of military expenditure and growth: A critical
+review. Defense and Peace Economics 16(6):449–461.
+Dyck, A.J. and Sumaila, U.R. (2010) Economic impact of ocean fish populations in the global fishery. Journal
+of Bioeconomics 12(3): 227–243.
+FAO. (2002) The State of World Fisheries and Aquaculture. Rome: Food and Agriculture Organization of the
+United Nations.
+Fearon, J.D. (1995) Rationalist explanations for war. International Organization 49, 3: 379–414.
+Journal of Economic Surveys (2019) Vol. 33, No. 3, pp. 1028–1049
+
+C 2019 John Wiley & Sons Ltd.
+
+14676419, 2019, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/joes.12311 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+ECONOMIC IMPLICATIONS OF DISPUTES
+
+MENDOZA ET AL.
+
+Fravel, M. (2014) Territorial and maritime boundary disputes in Asia. In Oxford Handbook of the International
+Relations in Asia. New York: Oxford University Press.
+Glaser, B. (2012) Armed Clash in the South China Sea. Contingency Planning Memorandum No. 14, Council
+on Foreign Relations [http://www.cfr.org/world/armed-clash-south-china-sea/p27883].
+Glick, R. and Taylor, A. (2005) Collateral damage: Trade disruption and the economic impact of war. Working
+Paper no. 11565, National Bureau of Economic Research.
+Harris, G. (1999) The costs of armed conflict in developing countries. In G. Harris (ed.), Recovery from Armed
+Conflict in Developing Countries: An Economic and Political Analysis. London and New York: Routledge.
+Hensel, P. (2000) Territory: Theory and evidence on geography and conflict. In J.A. Vasquez (ed.), What Do
+We Know about War? Boulder, CO: Rowman and Littlefield.
+Hensel, P. (1996) Charting a course to conflict: Territorial issues and interstate conflict, 1816–1992. Conflict
+Management and Peace Science 15(1): 43–73.
+Hensel, P. (1999) Charting a course to conflict: Territorial issues and interstate conflict, 1816–1992. In P. Diehl
+(ed.), The Road to War. Nashville, TN: Vanderbilt University Press, 115–146.
+Hensel, P. (1997) Issues Correlates of War Project [http://www.paulhensel.org/icow.html#desc]
+Huth, P. (1996) Standing Your Ground: Territorial Disputes and International Conflict. Ann Arbor: University
+of Michigan Press.
+Huy, D. (2011) Ngudan bi tau ca Trung Quocchiemngutruong [Fishermen lost fishing grounds to Chinese
+fishing ships]. Thanh Nien, May 29.
+International Committee of the Red Cross. (2008) How is ‘Armed Conflict’ defined in international humanitarian
+law?
+Jensen, N.M. (2006) Nation-States and the Multinational Corporation: Political Economy of Foreign Direct
+Investment. Princeton: Princeton University Press.
+Jensen, N. and Young, D.J. (2008) A violent future? Political risk insurance markets and violence forecasts.
+Journal of Conflict Resolution 52(4): 527–547.
+Jones, D.M., Stuart, A.B. and David Singer, J. (1996) Militarized Interstate Disputes, 1816–1992: Rationale,
+Coding Rules, and Empirical Patterns. Conflict Management and Peace Science 15: 163–213.
+Kaplan, R. (2014) Asia’s Cauldron: The South China Sea and the End of a Stable Pacific. New York: Random
+House.
+Kastner, S. (2007) When do conflicting political relations affect international trade. Journal of Conflict
+Resolution 51(4): 664–688.
+Koubi, V. (2005) War and economic performance. Journal of Peace Research 42(1): 67–82.
+Krishnan, P., Selassie, T. and Dercon, S. (1998) The urban labour market during structural adjustment: Ethiopia
+1990–1997. Working Paper no. 1998-09, CSAE Working Paper Series.
+Li, Q. (2006) Chapter 11: Political violence and foreign direct investment. Research in Global Strategic
+Management 12: 231–255.
+Li, Q. and Sacko, D. (2002) The (Ir)relevance of militarized interstate disputes on international trade.
+International Studies Quarterly 46: 11–43.
+Li, Q. and Vaschilko, T. (2010) Dyadic military conflict, security alliances and bilateral FDI flows. Journal of
+International Business Studies 41: 765–782.
+Luard, E. (1970) The International Regulation of Frontier Disputes. New York: Praeger.
+Mendoza, R.U. (2012) South China Sea: Heavy Price of Conflict. Rappler. [http://www.rappler.com/thoughtleaders/4390-south-china-sea-the-heavy-price-of-conflict].
+Miguel, E. and Roland, G. (2011) The long run impact of bombing Vietnam. Journal of Development Economics
+96(1): 1–15.
+Mofid, H. (1990) The Economic Consequences of the Gulf War. London: Routledge.
+Morrow, J., Siverson, R. and Taberes, T. (1998) The political determinants of international trade: The major
+powers, 1907–(1990) American Political Science Review 92 (September): 49–61.
+Nagy, S. (2013) Territorial disputes, trade, and diplomacy. Chinese Perspectives 2013(4): 49–57.
+Olson, M. (1982) The Rise and Decline of Nations. New Haven: Yale University Press.
+Organski, A.F.K. and Kugler, J. (1977) The costs of major wars: The phoenix factor. American Political Science
+Review 71(4): 1347–1366.
+
+Journal of Economic Surveys (2019) Vol. 33, No. 3, pp. 1028–1049
+
+C 2019 John Wiley & Sons Ltd.
+
+14676419, 2019, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/joes.12311 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+1046
+
+1047
+
+Paterson, P. and Flynn, R. (2013) Border disputes in Latin America. Regional Insights, William J. Perry Center
+for Hemispheric Defense Studies. [http://chds.dodlive.mil/files/2013/12/pub-RI-paterson.pdf]
+Path, K. (2011) The Sino-Vietnamese dispute over territorial claims, 1974–1978: Vietnamese nationalism and
+its consequences. International Journal of Asian Studies 8(2): 189–220.
+Poh, A. (2017) The myth of Chinese sanctions over South China sea disputes. The Washington Quarterly, 40(1),
+143–165.
+Polachek, S. and Sevastianova, D. (2010) Does conflict disrupt growth? Evidence of the relationship between
+political instability and national economic performance. IZA Discussion Paper no. 4762.
+Pollins, B. (1989) Conflict, cooperation and commerce: The effect of international political interactions on
+bilateral trade flows. American Journal of Political Science 33(3): 737–761.
+PSA-NSCB (2012) 2012 Official Poverty Statistics for the Basic Sectors.
+Rose, A.K. and Spiegel, M.M. (2004) A gravity model of sovereign lending: Trade, default, and credit. IMF
+Economic Review 51(1): 50–63.
+Ruttan, V.W. (2006) Is War Necessary for Economic Growth? Military Procurement and Technology
+Development. Oxford: Oxford University Press.
+Seddiq, R. (2001) Border disputes on the Arabian Peninsula. Policy Watch 525, The Washington Institute
+[http://www.washingtoninstitute.org/policy-analysis/view/border-disputes-on-the-arabian-peninsula]
+Shaaban, A. (2013) Iran releases 13 UAE fishermen. Khaleej Times, June 22. [http://www.
+khaleejtimes.com/article/20130622/ARTICLE/306229889/1002]
+Shebabi, M. (2015) An extraordinary recovery: Kuwait following the Gulf War. Discussion Paper no. 15.20,
+University of Western Australia.
+Simmons, B. (1999) Territorial disputes and their resolution: The case of Ecuador and Peru. United States
+Institute of Peace.
+Simmons, B. (2005) Rules over real estate: Trade, territorial conflict, and international borders as institution.
+The Journal of Conflict Resolution 49(6): 823–848.
+Spich, R. and Grosse, R. (2005) How does homeland security affect U.S. firms’ international competitiveness?
+Journal of International Management 11(4): 457–478.
+Stewart, F. (1993) War and underdevelopment: can economic analysis help reduce the costs? Journal of
+International Development 5(4): 357–380.
+The Economist. (2012) Hot waters. November 29 [http://www.economist.com/blogs/americasview/2012/11/
+colombia-and-nicaragua]
+Tuan, H.A. (2012–2013) The tragedy of Vietnamese fishermen: The forgotten faces of territorial disputes in the
+South China Sea. Asia Journal of Global Studies 5(2): 94–107.
+Vasquez, J. (1993) The War Puzzle. Cambridge: Cambridge University Press.
+West, T. (2006) Failed deterrence: The 1979 Sino-Vietnamese conflict. Stanford Journal of East Asian Affairs
+6(1): 73–85.
+Wiegand, K. (2011) Enduring Territorial Disputes: Strategies of Bargaining, Coercive Diplomacy and
+Settlement. Athens GA: University of Georgia Press.
+Yamarik, S., Johnson, N. and Compton, R. (2010) War! What is it good for? A deep determinants
+analysis of the cost of interstate conflict. Peace Economics, Peace Science and Public Policy 16(1):
+1–33.
+Zachrisen, O. (2015) China’s political use of economic ties in territorial disputes (Unpublished master’s thesis).
+Norwegian University of Science and Technology, Trondheim.
+
+Appendix A: Estimated foregone average bilateral trade, 2005 to 2015 (based on estimated
+average effects by Glick and Taylor (2005)
+The tables below show the estimated foregone average trade flow due to hypothetical military conflict
+among the country pairs considered. The 1985 trade figures are derived by deflating the values of trade
+flows from 2005 to 2015 using USA CPI figures. The foregone average trade figures are based on the
+average effects estimated by Glick and Taylor (2005) of a military conflict on trade between belligerent
+Journal of Economic Surveys (2019) Vol. 33, No. 3, pp. 1028–1049
+
+C 2019 John Wiley & Sons Ltd.
+
+14676419, 2019, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/joes.12311 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+ECONOMIC IMPLICATIONS OF DISPUTES
+
+MENDOZA ET AL.
+
+countries. In this case, 2005 is year 0 (which means that the hypothetical conflict occurred in 2005), while
+2006 is year 1, and so on.
+
+Table A1. Bilateral Trade (Current and Constant) and Foregone Trade from a Hypothetical Military Conflict:
+China and Indonesia (in Billions).
+
+Year
+
+Imports by China from
+Indonesia (1985 dollars)
+
+Exports to Indonesia
+by China (1985
+dollars)
+
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+
+4.6
+5.1
+6.5
+7.1
+6.9
+10.3
+15
+15
+14.5
+11.1
+9
+
+4.6
+5.0
+6.6
+8.6
+7.4
+10.8
+14
+16.1
+17.1
+17.8
+15.6
+
+Total from 2005–2015 (1985 dollars)
+
+Average trade Foregone average
+(1985 dollars) trade (1985 dollars)
+4.6
+5.1
+6.5
+7.9
+7.1
+10.5
+14.5
+15.5
+15.8
+14.4
+12.3
+
+3.9
+3.7
+4.8
+5.4
+3.7
+4.5
+4.6
+3.3
+3.3
+1.4
+0.4
+
+114.3
+
+39.1
+
+Source: Authors’ calculations using data from UN Comtrade Database.
+
+Table A2. Bilateral Trade (Current and Constant) and Foregone Trade from a Hypothetical Military Conflict:
+Philippines and China (in Billions).
+
+Year
+
+Imports by China
+from the Philippines
+(1985 dollars)
+
+Exports to Philippines
+by China (1985 dollars)
+
+Average trade
+(1985 dollars)
+
+Foregone average
+trade (1985
+dollars)
+
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+
+7.1
+9.4
+12
+9.7
+6
+8
+8.6
+9.2
+8.4
+9.5
+8.6
+
+2.6
+3.1
+3.9
+4.6
+4.3
+5.7
+6.8
+7.8
+9.2
+10.7
+12.1
+
+4.8
+6.2
+8
+7.2
+5.1
+6.8
+7.7
+8.5
+8.8
+10.1
+10.4
+
+4.1
+4.6
+5.9
+4.9
+2.7
+2.9
+2.5
+1.8
+1.8
+1
+0.3
+
+83.7
+
+32.5
+
+Total from 2005 to 2015 (1985 dollars)
+Source: Authors’ calculations using data from UN Comtrade Database.
+Journal of Economic Surveys (2019) Vol. 33, No. 3, pp. 1028–1049
+
+C 2019 John Wiley & Sons Ltd.
+
+14676419, 2019, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/joes.12311 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+1048
+
+1049
+
+Table A3. Bilateral Trade (Current and Constant) and Foregone Trade from a Hypothetical Military Conflict:
+China and Vietnam (in Billions).
+
+Year
+
+Imports by China
+from Vietnam (1985
+dollars)
+
+Exports to Vietnam by
+China (1985 dollars)
+
+Average trade
+(1985 dollars)
+
+Foregone average
+trade (1985
+dollars)
+
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+
+1.4
+1.3
+1.7
+2.2
+2.4
+3.4
+5.3
+7.6
+7.8
+9
+11.4
+
+3.1
+4
+6.2
+7.6
+8.2
+11.4
+13.9
+16.0
+22.4
+29
+30.1
+
+2.3
+2.7
+3.9
+4.9
+5.3
+7.4
+9.6
+11.8
+15.1
+19
+20.8
+
+1.9
+1.9
+2.9
+3.3
+2.7
+3.2
+3.1
+2.5
+3.2
+1.9
+0.6
+
+102.7
+
+27.3
+
+Total from 2005–2015 (1985 dollars)
+Source: Authors’ calculations using data from UN Comtrade Database.
+
+Journal of Economic Surveys (2019) Vol. 33, No. 3, pp. 1028–1049
+
+C 2019 John Wiley & Sons Ltd.
+
+14676419, 2019, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/joes.12311 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+ECONOMIC IMPLICATIONS OF DISPUTES
+
+

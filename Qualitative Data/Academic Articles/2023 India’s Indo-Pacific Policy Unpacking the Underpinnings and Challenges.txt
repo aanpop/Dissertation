@@ -1,0 +1,924 @@
+Chinese Political Science Review (2023) 8:597–617
+https://doi.org/10.1007/s41111-022-00226-4
+ORIGINAL ARTICLE
+
+India’s Indo‑Pacific Policy: Unpacking the Underpinnings
+and Challenges
+Arshid Iqbal Dar1
+Received: 16 December 2021 / Accepted: 10 August 2022 / Published online: 26 August 2022
+© Fudan University 2022
+
+Abstract
+This article discusses the strategy India is pursuing to protect its interests within the
+changing dynamics of the Indo-Pacific. The Indo-Pacific hailed as a new arena for
+great-power politics in the twenty-first century is marked by extreme unpredictability and instability. Although China mostly drives India’s Indo-Pacific policy, New
+Delhi has been reluctant to acknowledge this. India is sending a message that it supports the Quad ideals, engagement with China, and the importance of the ASEAN in
+the Indo-Pacific by participating concurrently in the ASEAN, Quad, RIC, SCO, and
+BRICS. The article makes the case that the concept of "hedging" is the best explanation for India’s policy in the Indo-Pacific. As a result, this article examines the hedging component of India’s Indo-Pacific policy as well as the driving factors of such
+a policy choice. Besides, the article also explores the significant constraints that can
+potentially limit India’s hedging policy in the Indo-Pacific.
+Keywords Indo-Pacific · Hedging · India · China · ASEAN · QUAD
+
+1 Introduction
+The emergence of the Indo-Pacific as a result of a confluence of economic and
+strategic factors has once again brought great power politics to the forefront. It
+is essentially the growing salience of the Indian and Pacific Oceans coupled with
+the rapidly evolving Asian geopolitical landscape that has made the Indo-Pacific
+a center of global political discourse. The principal driving factors have been
+the rise of China and India as ambitious powers that have become increasingly
+outward-looking in their economic and military affairs. This is underscored by
+India’s growing economic and security engagement with Southeast Asia, west
+and east of the Malacca Strait, and New Delhi’s deepening security arrangements with other powers like the US, Japan, and Australia. From China’s side, it
+* Arshid Iqbal Dar
+dararshid.ad@gmail.com
+1
+
+Department of Politics and Governance, Central University of Kashmir, Kashmir, India
+
+13
+
+Vol.:(0123456789)
+
+598
+
+Chinese Political Science Review (2023) 8:597–617
+
+is reflected in Beijing’s growing maritime presence in the Eastern Indian Ocean,
+the South China Sea, and Western Pacific (Scott 2012). While China’s presence
+is growing in the Indian Ocean (Karki 2021), India is also revamping its presence
+in the Pacific. Thus, it is the thickening of economic and strategic interaction
+between India and China by bringing together the Indian and the Pacific oceans
+that makes it the core aspect of the Indo-Pacific story.
+The rise of an ambitious China and concerns about the US’s long-term commitments to Asia amid the inherent limitations of regional multilateral institutions underscore the uncertain and unstable nature of the Indo-Pacific. Unsurprisingly, the Indo-Pacific region is likely to shape the trajectory of global politics for
+most of the twenty-first century. In fact, the region will very much be the fulcrum
+around which countries will re-orient and re-align their policies. How to navigate such a geopolitical minefield, particularly for a country like India, which is
+central to this Indo-Pacific construct, is a critical question to consider. Owing to
+Beijing’s growing ambitions, its bold foreign policy posture, and its border skirmishes, New Delhi has been alarmed to focus its energies on it and establish itself
+in a leading role in the Indo-Pacific (Pant and Saha 2020). In particular, in the
+maritime domain, due to China’s increasing assertiveness, India, a traditionally
+continental-obsessed state, has begun to shake Delhi out of its continental stupor
+(Mohan 2016). In many ways, it is the rise of China that has been instrumental
+in shaping India’s Indo-Pacific vision. So much so that its Indo-pacific strategy
+in itself has become its main policy to deal with China (Rajagopalan 2020). This
+article examines how India is modeling its Indo-Pacific policy vis-à-vis China. I
+draw my analysis from the conceptualization of "hedging" and argue that instead
+of putting all its eggs in one basket, New Delhi has been pursuing a typical hedging strategy. The hedging prong in India’s Indo-Pacific policy can be deciphered
+from New Delhi’s simultaneous engagement with the US and the QUAD grouping on the one hand and Russia and China on the other. Besides, India’s emphasis
+on the "free, open, and inclusive Indo-Pacific" as well as the "ASEAN centrality"
+underlines New Delhi’s hedging strategy. Through this policy, India not only projects an image of not siding with any particular side, but it also allows New Delhi
+to offer the smaller ASEAN countries the assurance that the Indo-Pacific will not
+devolve into Cold War power politics. To explore the hedging prong in India’s
+Indo-Pacific policy, following this introduction, this article is divided into four
+sections followed by a conclusion. The next section revisits the literature on the
+notion of "hedging" to examine how it came to dominate the field of international
+relations in the recent past in theory as well as praxis. The next section substantiates the main argument of this article by examining how India has been hedging
+its bets to best secure its interest in the evolving geopolitics of the Indo-Pacific.
+The subsequent section explores the main driving factors that underpin India’s
+solace in the hedging strategy. The penultimate section examines the challenges
+that have the potential to constrain India’s hedging strategy. The final section,
+while summarizing the main arguments and conclusions, also provides some brief
+caveats for New Delhi’s policymaking community. The article argues that hedging is not only the best available analytical tool to explain India’s Indo-Pacific
+policy; it also appears to be the most alluring option for New Delhi. Nevertheless,
+
+13
+
+Chinese Political Science Review (2023) 8:597–617
+
+599
+
+some serious challenges demand a thoughtful response from New Delhi to overcome them to secure its interests.
+
+2 Hedging in International Relations
+For nearly a century, IR theory has offered the so-called parsimonious ’balancing–bandwagoning’ dichotomy in response to a changing balance of power or the
+rise of a new influential actor (Waltz 1979; Walt 1987; Schweller 1994). When allying with others, states either balance or bandwagon. While balancing is defined as
+allying with other states against the threatening one, bandwagoning is allying with
+the source of the threat (Walt 1987). Notwithstanding the contribution of this parsimonious dichotomy within the larger alliance literature, it gradually became
+unfit (Więcławski 2020) to grasp the behavior of most of the states navigating the
+evolving geopolitics of the Asia–Pacific (now Indo-Pacific). Instead, several theoretical and empirical analyses have confirmed the attractiveness of a more nuanced
+approach, which has come to be known as "hedging" (Medeiros 2005; Foot 2006;
+Goh 2005, 2006; Kuik 2008, 2016, 2021; Chung 2009/2010; Jackson 2014; Koga
+2018). Hedging has emerged as the most influential concept in scholarly engagement
+with Asia–Pacific in the twenty-first century. Besides the analysis of US–China and
+southeast Asian relations with a rising China, the concept has been exported to analyze the behavior of states in Europe and Eurasia, East and South Asia, the Persian
+Gulf, and elsewhere (Toje 2010; Tessman 2012; Hoo 2016; Lim and Cooper 2015;
+Lim and Mukherjee 2019). However, despite being "nearly ubiquitous" in IR literature (Ciorciari and Haacke 2019, p. 368), hedging remains an under-studied, undertheorized, and often taken for granted concept in IR literature (Hoo 2016; Kuik
+2021). Remember, back in 2005, Goh and Medeiros lamented that hedging was a
+highly underdeveloped (Medeiros 2005) and problematic concept (Goh 2005). After
+almost one and a half decades, in 2021, Kuik would concur that it still holds today
+and there still is no consensus as to how it should be defined and applied (Kuik
+2021, p. 301–302). Consequently, hedging continues to be a loose, highly contentious, and widely misunderstood concept in both academic and policy circles (Lim
+and Cooper 2015; Shambaugh 2020; Jones and Jenne 2021; Kuik 2021).
+The aforementioned trajectory of hedging demands a brief survey of the literature as to how the concept has been defined so that we can arrive at a better position to explain it as it is to be understood here. First and foremost, the concept of
+hedging is derived from non-IR fields such as finance, business studies, and scenario planning, where it is used to indicate a deliberate position intended to offset
+potential losses or gains incurred by a companion in the investment. By breaking
+the disciplinary boundaries, the term acquired a reputation in IR literature, where it
+came to be defined in too many ways. To simplify the otherwise contentious nature
+of the conceptualization of hedging, I would divide the literature into four broad
+categories. Firstly, hedging is located within the domain of alignment literature to
+hone the balance of power theory by offering an alternative alignment choice (Ciorciari 2019; Tessman and Wolfe 2011; Lim and Cooper 2015; Korolev 2019; Kuik
+2021). By distinguishing it from the more straightforward choices of balancing and
+
+13
+
+600
+
+Chinese Political Science Review (2023) 8:597–617
+
+bandwagoning, Kuik considers hedging not only a "middle" position but also an
+"opposite" and "fallback" position" (Kuik 2021, p. 302). For him, "hedging is a type
+of alignment behavior, where a sovereign state positions itself between two or more
+competing powers while navigating a broad range of risks and uncertainties under
+international anarchy" (Ibid p. 302–303). Likewise, Ciorciari conceived of hedging as an alignment strategy, designed to optimize security cooperation with a great
+power while, at the same time, reducing the risk of entrapment of informal alliances
+and making it easier for the state in question to simultaneously pursue robust political and economic engagement with that great power’s rivals. Accordingly, an informal relationship of security cooperation with another power would not represent a
+full-blown threat to the target state, offering the opportunity to soften this stance by
+employing, at the same time, persuasive and cooperative tools (Ciorciari 2009). Second, hedging is seen as a mixed strategy simultaneously involving balancing as well
+as bandwagoning together to cancel out the risks associated with each action (Dar
+2021). As a counteracting policy, hedging is understood as an "engage and resist
+strategy that is simultaneously a mixture of balancing and engagement (Goh 2005);
+of cooperation and competition (Medeiros 2005); or "risk contingency," which may
+take the form of indirect balancing, and "return maximization," which may turn into
+limited bandwagoning (Kuik 2008, p. 171). Thirdly, hedging looks like a relative
+equidistance and simultaneousness in smaller states’ behavior. It entails "the simultaneous/equidistant improvement" of relationships when smaller states pursue "a
+dual-track, proportional engagement" with different great powers to escape overreliance on only one power (Jackson 2014). Finally, scholars see it as the state’s
+response to specific strategic and economic vulnerabilities, like the danger of curtailment of energy supplies (Tessman and Wolfe 2011; Tunsjø 2013; Salman and
+Geeraerts 2015).
+Besides the conceptual and definitional contestation regarding hedging, scholars
+also dispute the casual variables as well as the purpose that underpin hedging. For
+some, it is a response to systemic uncertainty, and the greater the uncertainty regarding the principal threat and principal support, the higher the tendency for rational
+actors to hedge. As Kuik has pointed out, based on the uncertainties resulting from
+the US–China dynamic in the Indo-Pacific, hedging is the logical, if not inevitable, policy choice among smaller states (Kuik 2021). If the great power competition
+becomes intense, the room for hedging automatically shrinks (Korolev 2019). Some
+studies have pointed toward the role of the state’s contingent and situational calculations when hedging. It is viewed as the result of regional or state-level (sub-systemic) variables such as power asymmetry, geographical proximity, economic development needs, internal state characteristics, leader perceptions, strategic culture,
+bureaucracy, and other domestic political factors (Murphy 2017; Dar 2021; Korolev
+2019). Furthermore, in the domestic arena, especially for smaller states, hedging is
+considered to play an important role in protecting or enhancing domestic government or regime legitimacy (Kuik 2008). Recent research even suggests that domestic sources of hedging are more important than previously thought (Murphy 2017).
+While several scholars have drawn on two or more of the aforementioned conceptualizations of the term in their work, I use hedging precisely as defined in the
+first category of the literature. I define hedging as an ambiguous strategy involving
+
+13
+
+Chinese Political Science Review (2023) 8:597–617
+
+601
+
+a combination of seemingly contradictory policy moves by states to pursue their
+national interest. To navigate a very complex and uncertain strategic environment,
+states deliberately pursue diverse policy choices by moving into as many directions
+as possible to project an image of not siding with or against any of the great powers to maximize their room for maneuverability. However, I argue that the external dimension of "uncertainty," though an important driver for hedging, is not sufficient alone to provide a comprehensive account of why states hedge. There are
+many regional, sub-regional and, domestic factors as well that can illuminate the
+understanding of hedging. As I substantiate in the case of India’s Indo-Pacific policy
+in the following pages, I argue that judiciously combining all these variables will
+broaden the scope and explanatory power of hedging.
+
+3 India’s Indo‑Pacific Strategy: The Epitome of Strategic Hedging
+Since the term Indo-Pacific came into the limelight in 2007, India’s approach
+towards it has been extremely slow and ambiguous. India continues to define the
+Indo-Pacific construct differently than its partners in the region, reflecting its somewhat different interests. For the US, it stretches from ‘Bollywood to Hollywood’,
+implying that it does not stretch beyond the western shores of India. This is also the
+area that falls under the responsibility of the US Indo-Pacific Command. Beyond
+this, to the west, from Pakistan onwards, is the responsibility of the US Central
+Command. This is also the definition adopted by Australia, which sees the IndoPacific as the geopolitical space book-ended by itself and India (Saran 2019). While
+all these states share a focus on China, some, such as Japan and the US in particular, situate India within the Indo-Pacific to manage a rising China in Southeast and
+Northeast Asia. However, the Indo-Pacific is broader for India, including the Indian
+Ocean and extending "from the shores of Africa to those of the Americas", as Prime
+Minister Modi put it. Furthermore, the US has been very vocal in its vision of the
+Indo-Pacific as a bulwark against a rising China, while India has been loath to admit
+that China is the main driver of its Indo-Pacific policy (Rajagopalan 2020). Instead,
+India has emphasized trade and connectivity objectives in its Indo-Pacific vision to
+project a positive construct of development and connectivity in which it can play a
+unique role. In what would become the first official statement of India on the IndoPacific, Prime Minister Modi in his June 2018 Shangri-La-Dialogue speech put it,
+thus: "India does not see the Indo-Pacific region as a club of limited members." Nor
+as a group that seeks to dominate. And we do not believe it is directed at any particular country… India’s vision for the Indo-Pacific region is, therefore, a positive
+one "(Ministry of External Affairs 2018). Apart from keeping the Indo-Pacific open
+and inclusive for everyone, including China, Modi also emphasized the centrality of
+"ASEAN" as "the heart of the new Indo-Pacific", supporting its values of "inclusiveness and openness". At the same time, while reiterating the importance of China,
+Modi recommended that "Asia and the world will have a better future when India
+and China work together in trust and confidence, sensitive to each other’s interests"
+(Ministry of External Affairs 2018). It is through framing its notion of the IndoPacific in purely connectivity and development terms that New Delhi claims it is not
+
+13
+
+602
+
+Chinese Political Science Review (2023) 8:597–617
+
+joining other powers seeking to contain Beijing. As Modi emphasized, "What we
+seek is a level playing field for all. India stands for an open and stable international
+trade regime. We will also support a rule-based, open, balanced and stable trade
+environment in the Indo-Pacific Region, which lifts up all nations on the tide of
+trade and investment (Ministry of External Affairs 2018). From the beginning, India
+has repeatedly emphasized the inclusive nature of the Indo-Pacific with an explicit
+reassurance that it is not meant to target any power, a typical hedging strategy. In
+response to a question from a member of the Lok Sabha (lower house of Parliament)
+on India’s stand on Indo-Pacific, India’s Minister of State in the Ministry of External
+Affairs reiterated, "India envisages Indo-Pacific as a free, open, inclusive, peaceful
+and prosperous region built on rules-based international order, with respect for sovereignty and territorial integrity, freedom of navigation and over-flight, unimpeded
+lawful commerce, peaceful resolution of disputes, as well as equality of all nations"
+(Ministry of External Affairs 2021). Furthermore, during the announcement of the
+Indo-Pacific Economic Framework (IPEF) on May 24, 2022, Modi put it, "The
+Indo-Pacific Economic Framework is a declaration of our collective will to make
+the region an engine of global economic growth." I am confident that this framework will help strengthen trust, transparency, and timeliness and pave the way for
+development, peace, and prosperity in the Indo-Pacific region "(Ministry of External
+Affairs 2022a). The statement by India’s Ministry of External Affairs (MEA) also
+reads, "This framework is intended to advance resilience, sustainability, inclusiveness, economic growth, fairness, and competitiveness for our economies." Through
+this initiative, we aim to contribute to cooperation, stability, prosperity, development, and peace within the region "(Ministry of External Affairs 2022b).
+Given China’s serious reservations over the Indo-Pacific as a US strategy to
+thwart its rise, as an archetypical hedger, India had been projecting its image as not
+being party to such an effort. Therefore, the hedging prong in India’s Indo-Pacific
+policy has been underscored by New Delhi’s attempts to simultaneously engage
+Beijing in the Brazil–Russia–India–China–South Africa (BRICS) forum, the Shanghai Cooperation Organization (SCO), and the Russia–India–China (RIC) trilateral,
+respectively. Additionally, even after the Dokhlam crisis in 2017, New Delhi did
+not give up its instinct to engage Beijing, resulting in the famous ’Astana Consensus’ and the ’Wuhan Summit’ (Prasad 2019). More recently, after the deadly Galwan
+clashes of June 2020, which for some analysts have ’wrecked the India–China relations’ (Smith 2020), New Delhi kept the engagement option open by participating
+in the RIC Foreign Minister’s meet following the clashes. Furthermore, even if their
+armies following the clashes remain deployed in large numbers at frontline positions, their military and diplomatic officials continue to engage in dialog (Dar 2021).
+The position of India on QUAD, a short form of quadrilateral security dialog
+that includes the US, India, Japan, and Australia, best explains India’s embrace of
+the hedging strategy in the Indo-Pacific. When the QUAD, to be the central pillar
+of Indo-Pacific stability, was originally proposed in 2007, India, along with Australia, was the first to roll back its commitments due to the protests from China,
+which perceives it as an "Asian-NATO", aiming at its containment. Not only has
+India been reluctant to conceive of the QUAD as an essential component of its IndoPacific strategy, but it has also been resisting its institutionalization (Saran 2019).
+
+13
+
+Chinese Political Science Review (2023) 8:597–617
+
+603
+
+Although India has close security arrangements bilaterally with each of its members, it cumbersomely identifies them as India–Japan–US, India–Australia–Japan,
+and India–US–Australia trilaterals (Basrur and Kutty 2021). Notwithstanding, China
+being the "elephant in the room" even in these trilateral security arrangements, New
+Delhi, as part of its hedging strategy, considers the QUAD just as a consultative
+mechanism at par with the RIC, BRICS, and even the SCO (Saran 2019). Moreover,
+India even engages China on the questions of the regional order but also stands firm
+in the event of a security crisis involving Beijing. In practical terms, this has meant
+carefully calibrating New Delhi’s Indo-Pacific strategy to cooperate with the other
+Quad members, but not to an extent that might irritate Beijing. India’s tardiness in
+moving forward with QUAD has earned it the title of being the most ‘reluctant’ of
+the four, displaying what Derek Grossman prefers to call "second thoughts" (Grossman 2018). Grossman’s "second thoughts" are what underscore India’s hedging
+strategy, as it does not want to be counted as a party to a China containment mechanism (Henry 2019). Despite attending QUAD meetings, India avoids mentioning the
+QUAD by name (Rajagopalan 2020).
+More recently, India’s difference in QUAD came to light during the 4th ministerial meeting in Melbourne, Australia on February 11, 2022. While the members
+committed to stronger cooperation on Indo-Pacific initiatives, fissures appeared in
+their stand on Russia-NATO tensions over Ukraine and sanctions against Myanmar’s military. While expressing an independent line, S Jaishankar said India does
+not follow the policy of "national sanctions" as far as Myanmar is concerned. However, when asked about India’s stance on Russian actions in Ukraine, Jaishankar said
+that the meeting was "focused on the Indo-Pacific". So I think you should figure out
+the geography there, and where we stand, "he added (Haider 2022). Additionally,
+during the Munich Security Conference held from February 18 to 22, 2022, while
+dismissing claims of the QUAD being an Asian-NATO, he elaborated, "I would
+urge you not to slip into that lazy analogy of an Asian-NATO. It isn’t because the
+three countries are treaty allies. We are not a treaty ally. It doesn’t have a treaty, a
+structure, a secretariat; it’s a kind of twenty-first century way of responding to a
+more diversified, dispersed world "(The Times of India 2022). After Russia invaded
+Ukraine, the three QUAD members—US, Japan, and Australia—condemned the
+Kremlin’s aggression and slapped it with crippling sanctions. However, not only did
+India abstain from many UN resolutions condemning Russia but also stayed neutral. There was also a considerable difference over the Ukraine issue in terms of the
+individual readouts of the QUAD members (The Hindu 2022). The only aspect on
+which the QUAD spoke unitedly was to send humanitarian aid and assistance to
+the people of Ukraine. India’s standing is driven by her geopolitical vulnerabilities
+in a hostile neighborhood, and it needs both the West and Russia to manage China.
+To quote Harsh V Pant, "diplomatically, India has to weigh the balance between
+its ties with the West and those with Russia." The latter is India’s primary defence
+partner, and at a time when Indian soldiers are eyeball to eyeball with their Chinese
+counterparts at several points along the Line of Actual Control (LAC), antagonizing
+Russia is not an option. New Delhi, therefore, has to tread a cautious path and that’s
+what it seems to be doing at the moment" (Pant 2022). The cautious path that Pant
+talks about is what underscores India’s hedging strategy in its Indo-Pacific policy.
+
+13
+
+604
+
+Chinese Political Science Review (2023) 8:597–617
+
+The same logic does apply to most of the smaller ASEAN states who do not wish to
+be part of any Cold-War style Indo-Pacific alliance system. Unsurprisingly, India’s
+security predicaments that underscore its hedging prong find commensurability with
+most of them. An example of Myanmar and Vietnam being the two consequential
+ASEAN members in the evolving dynamic of the Indo-Pacific is a case in point.
+Notwithstanding India’s attempts to reach out and wean them away from China’s
+influence, neither Hanoi nor Naypyidaw want to embrace New Delhi at the cost of
+Beijing. Due to their huge dependence on China, apart from being ready and willing
+to cooperate with Beijing, both Hanoi and Naypyidaw have continuously emphasized the "more friends and fewer enemies" policy to reassure their big neighbor.
+Their strategic blueprint has firmly embraced the "three nos"; no to entangling alliances, no to foreign military bases, and no to assistance programs with any strings
+attached. Therefore, fitting well with India’s security predicament, the hedging strategy, besides allowing New Delhi to spread the risk of engaging with the US and its
+allies on the one hand and Russia and China on the other, also enables it to offer
+the smaller ASEAN countries (like Myanmar and Vietnam) a commitment that the
+Indo-Pacific will not devolve into Cold-War type alliance politics.
+
+4 Why is India Hedging in Indo‑Pacific?
+To answer this question, I argue there are five main factors that shape India’s hedging strategy in the Indo-Pacific. However, the most dominant driving force among
+these five factors is the huge power asymmetry between India and China as is the
+case of most of the ASEAN smaller nations. After all, it is the decline of US power
+and the consequent uncertainty over its reliability as a partner against a rising giant
+China that makes hedging as the best of many less than perfect options available. As
+far as India is concerned, the other four factors that I analyze in the below subsections flow from the ‘power asymmetry’ factor to a large extent. Even though India’s
+quest for strategic autonomy has much to do with New Delhi’s strategic culture, nevertheless its practical manifestation in Indo-Pacific has been shaped by the increasing huge power imbalance with Beijing. Hence, these factors are ordered as per their
+casual significance as follows;
+4.1 India–China Power Asymmetry: New Delhi’s ’Force Majeure’
+The first and precisely the most important factor of India’s hedging strategy in dealing with China within the broad framework of its Indo-Pacific policy is a huge
+power asymmetry with Beijing. Even though it is a rising global player, India’s
+relative power over China has sharply plunged. For example, India’s economy is
+a midget compared with China’s, whose GDP is roughly US $14 trillion, whereas
+India’s is less than $2.7 trillion, making China’s GDP about five times higher (Ganguly and Pardesi 2020). By 2030, India will have the third-largest GDP in the world,
+with a global GDP of roughly $6–7 trillion. However, China’s GDP will be $26 trillion. The current power imbalance between the two economies is $12 trillion, but
+
+13
+
+Chinese Political Science Review (2023) 8:597–617
+
+605
+
+it will be $19 trillion in absolute terms by 2030. Therefore, the gap is growing, not
+reducing (Bajpai 2019). Along with this growing economic imbalance, China being
+the second-largest trading partner of India ensures that New Delhi can ill afford to
+alienate China. Cooperation with China is, therefore, indispensable. Similarly, there
+is also a huge power imbalance in military terms, as underscored by their defence
+budgets. For example, in March 2022, China’s defence budget was hiked by 7.1 percent to USD 230 billion from last year’s USD 209 billion, which is three times that
+of India’s 70 billion USD (The Economic Times 2022). Besides the overwhelming asymmetry in the air and naval forces, the nuclear balance is also heavily tilted
+towards China. The figures for 2021 revealed that India possesses about 156 nuclear
+weapons of various sizes, whereas China had 350, twice the number of devices as
+India (SIPRI 2021). By being the weaker party in the relationship, India has come
+to realize that it is not the right time to challenge China openly. Instead, as a recent
+study by Manjeet Singh Pardesi puts it, "Modi’s India has adopted a mixed strategy
+toward its asymmetric rival China that includes accommodation and cooperation
+at the multilateral level (e.g., the Asian Infrastructure Investment Bank), competition at the regional level (in the Indo-Pacific), rejection of China’s unilateral initiatives (such as the Belt Road Initiative), and deterrence (along the Himalayas and
+in the Indian Ocean)" (Pardesi 2022, p. 45). For Pardesi, while this mix of accommodation and cooperation, rejection, competition, and deterrence may superficially
+seem ad hoc and reactive, India’s approach is best understood as the response of an
+"asymmetrical rival" which in itself is a rising power in Asia, albeit one that has
+been in relative decline vis-à-vis China (Ibid, p. 46). The complex mixture of policy
+responses to deal with a powerful China makes hedging a useful strategy for India.
+4.2 The Shadow of Uncertainty in the Indo‑Pacific
+The highly volatile, complex, and uncertain character of the evolving Indo-Pacific
+arena of great power politics underscores India’s ambiguous policy to meet its security predicaments. The uncertainty, as argued earlier, has much to do with China’s
+amassing of huge comprehensive power capabilities and the simultaneous decline
+of the US’ power (Kahler 2020) and apprehensions over its security commitments to
+the region. S. Jaishankar, India’s external affairs minister, maintains that in an uncertain world, the Indian grand strategy requires "advancing [its] national interests by
+identifying and exploiting opportunities created by global contradictions" in order
+to "extract as much [sic] gains from as many ties as possible" (Jaishankar 2020, p.
+11). For him, in a world of multiple poles and greater choices, India must reach out
+in as many directions as possible and maximize its gains. There will be convergence
+among many but congruence with none (Jaishankar 2020). Instead of putting all the
+eggs in one basket, India will continue to hedge its bets. This is the lesson that India
+learned from its Galwan clashes with China. Neither the West in general nor even
+the QUAD, in particular, condemned China’s actions or even urged Beijing to pull
+back its forces from the Himalayan frontier. This led Salvatore Babones to condemn
+the QUAD as "superfluous" and useless even as an anti-China talking shop. For him,
+there is certainly no appetite in Asia for a pan-Asian military alliance to confront
+
+13
+
+606
+
+Chinese Political Science Review (2023) 8:597–617
+
+China in the way that NATO once confronted the Soviet Union’s Warsaw Pact (Babones 2020). Moreover, the Biden administration, apart from being wary of publicly
+supporting India, has even referred to the Galwan issue not as an ‘aggression’ but in
+a very neutral language as’ the conflict along the LAC ’in its new Indo-Pacific strategy (Chellaney 2022). Therefore, India’s solo struggle to rein in a rising China in the
+icy Himalayan region, apart from not provoking Beijing, necessitates New Delhi to
+search for diverse partners. Here comes Russia, which New Delhi regards as a critical ally in its dealings with China. India’s allegedly pro-Russian stand, as discussed
+in the previous section over the Ukraine invasion, has to be read in this context.
+The Ukraine dilemma, although being outside the scope of the Indo-Pacific, is of
+immense significance to unpacking the hedging prong in India’s Indo-Pacific policy.
+While explaining the (subtle) pro-Russian position, Happymon Jacob points out that
+“an aggressive Russia is a problem for the US and the West, not for India." North
+Atlantic Treaty Organization (NATO) expansion is Russia’s problem, not India’s.
+India’s problem is China, and it needs both the US/West and Russia to deal with the
+China problem” (Jacob 2022). Even if Russia may be of no great consequence to
+India when it comes to the vast maritime sphere of the Indo-Pacific, it nevertheless
+is perhaps India’s only partner of consequence in the entire Asian continental stretch
+that is reeling under immense pressure from China, Pakistan, and the Taliban-led
+Afghanistan. But, to address the China challenge in the Indo-Pacific for India, the
+US and the West have a crucial role to play (Jacob 2022). It is this uncertain strategic landscape that necessitates that India balances all the sides to its strategic advantage. As Jaishankar argues, "this is a time for us to engage America, manage China,
+cultivate Europe, reassure Russia, bring Japan into play, draw neighbors in, extend
+the neighborhood, and expand traditional constituencies of support" (Jaishankar
+2020). The shadow of uncertainty in the Indo-Pacific, therefore, earns hedging more
+currency in New Delhi’s strategic thinking.
+4.3 The Tyranny of Geography
+The third factor, related to the uncertainty one as it also flows from the power asymmetry logic, is the tyranny of geography. India’s location next to China as an immediate neighbor further complicates its policy response (Dar 2021). India shares a
+long border with China which is not demarcated and both have conflicting interpretations of the Line of Actual Control (LAC). Due to the unresolved nature of the
+border dispute, the LAC is regarded as the most protracted border dispute between
+the two. The geographical proximity, along with the active territorial disputes (Galwan), has forced India to live under what has been famously termed the "tyranny of
+geography" (Thayer 2011; Dar 2021). If the tyranny of geography makes China an
+immediate threat to be tackled, it also requires a judicious mix of containment and
+engagement from New Delhi in its dealings with a powerful and assertive neighbor. The geographical proximity dimension in India’s hedging prong in its dealings
+with China has been aptly highlighted by C. Raja Mohan. According to Mohan, "sitting in the front yard, concerned about the dependability of the US commitment to
+Asia and warned by the economic punishment that Beijing has threatened Australia,
+
+13
+
+Chinese Political Science Review (2023) 8:597–617
+
+607
+
+much of Asia has little appetite to stand in opposition to Beijing." It is no surprise
+that these concerns are dressed up in the language of neutralism and non-alignment
+"(Mohan 2021). Though India has been engaging with other Indo-Pacific partners to
+manage China, New Delhi does not wish to emerge as a frontline state in any antiChina containment strategy. The tyranny of geography, as such, underscores India’s
+uneasiness with any conception of QUAD as an anti-China ‘alliance of democracies’. After all, the Galwan clashes, as indicated above, taught India a harsh lesson;
+distant water does not put out a nearby fire. Hence, living next to the rising Chinese
+dragon makes it unwise for India to antagonize it. Instead, a hedging strategy of
+engagement with China as well as a simultaneous alignment with its rivals to boost
+India’s standing appears to be a much more alluring choice.
+
+4.4 ASEAN Centrality: Reassuring the ASEAN Countries
+India’s pronouncements on the Indo-Pacific, argues Rohan Mukherjee "are often
+designed for a Western audience, whereas India’s actions are often aimed at Eastern audiences, especially those in Southeast Asia" (Mukherjee 2019, p. 47). After
+all, India’s primary vehicle for engaging with the Indo-Pacific minus the US and
+Australia is its Act East Policy. India’s senior defence and external affairs ministers
+have repeatedly referred to Southeast Asia as "the heart" and "the central pillar" of
+India’s Act East Policy (The Statesman 2017; Ministry of External Affairs 2017).
+In geopolitical terms, it makes sense to think of Southeast Asia as the center of the
+Indo-Pacific. Although many of these countries are fearful of China’s rise, due to
+their dense economic relations with Beijing and lack of sufficient resources, they
+do not wish to be caught in a cross-fire between China and the US or China and
+India. As such, India’s hedging strategy is driven by the need to reassure the smaller
+ASEAN countries that the Indo-Pacific is not a Cold-War kind of theater. Projecting
+the QUAD as only a consultative mechanism is principally aimed at dispelling this
+perception (Saran 2019). More importantly, emphasizing ASEAN’s centrality allows
+India not only to pursue its vision of a free, open, and inclusive Indo-Pacific but also
+helps in reducing the member state’s anxiety regarding the loss of ASEAN’s place
+in the regional and economic order. Consequently, Modi noted that India’s passage
+to the Quad would be through ASEAN. That means giving due consideration to the
+regional arrangements such as the East Asia Summit, the ASEAN Regional Forum,
+and the ASEAN Defence Ministers’ Meeting-Plus (ADDM-PLUS), as potential
+platforms for dialog with the countries of the Indo-Pacific region (Muraviev et al.
+2021). To a large extent, the objectives of these institutions also coincide with those
+of the Quad. This includes ensuring freedom of navigation and over-flight, which
+falls within the mandate of the ASEAN Maritime Forum and the Expanded ASEAN
+Maritime Forum (Saha 2018). In a way, India is legitimizing its role among the
+ASEAN countries by supporting a free and open Indo-Pacific region, strengthening
+its reach in the ASEAN region, and aligning its security, defense, and trade domains
+to manage China and play an enhanced (sub-superpower) role (Muraviev et al. 2021,
+p. 7). Therefore, India’s security predicament, along with that of most of the smaller
+
+13
+
+608
+
+Chinese Political Science Review (2023) 8:597–617
+
+ASEAN nations (huge power asymmetry with China), complements New Delhi’s
+hedging strategy in the evolving geopolitics of the Indo-Pacific.
+4.5 The Quest for Strategic Autonomy
+India’s strategic culture has much to offer as far as its hedging strategy in the
+Indo-Pacific is concerned. Some analysts have pointed to India’s strategic culture,
+in which ’ideas about an anti-imperialist internationalism and non-alignment continue to inform India’s state-building project and its "overriding" priority of economic development’ (Chacko 2014). As argued by Manjari Chatterjee Miller, even
+though India supposedly jettisoned non-alignment after the end of the Cold War, it
+is still not willing to ally with any country or group (Miller 2021). It is the notion of
+"strategic autonomy and the pursuit of great power status in the multi-polar world"
+that forms the core of contemporary India’s strategic culture (Paranjpe 2020). Strategic autonomy, as Shyam Saran argues, refers to the capacity of the state to make
+relatively independent choices on issues of vital interest to the country, and this is
+the hallmark of great power (Saran 2021). For Indian strategic thinkers, apart from
+ensuring independence and room for maneuverability in foreign policymaking, strategic autonomy is seen as a sine qua non of great power status. Consequently, any
+compromise on it is considered a compromise on its destiny. Being the so-called
+’holy grail’ of India’s strategic culture (Brewster 2011) strategic autonomy has
+informed India’s hedging strategy in the Indo-Pacific by "strengthening" rather than
+"avoiding" partnerships. New Delhi has been looking for coalitions of interest or
+partnerships, which vary and sometimes even diverge depending on context. As A.
+D. Muraviev et al. eloquently stated, "that meant pursuing strategic hedging while
+interacting with all the major powers to maintain the balance of power in its favor."
+To hedge against China, it moved closer to ASEAN through its’ Act East ’policy, as
+well as joined the US-initiated geo-strategic constructs. To hedge against the USA’s
+actions, it engaged China and joined China-initiated institutional frameworks. To
+hedge against China and the USA, it continued to nurture its special relations with
+Russia, although at a lower level "(Muraviev et al. 2021). So, the QUAD, or the
+‘nested strategic partnerships’ (Basrur and Kutty 2021), or even, for that matter, to
+use India’s preferred terminology of Trilaterals, enhances strategic autonomy vis-àvis China much as the RIC, BRICS, and SCO enhance strategic autonomy vis-à-vis
+the West. Consequently, even during the Galwan clashes, despite strong voices supporting a policy shift of completely aligning with the US against China, the government, while being more nuanced in its approach, has made it crystal clear that
+India will not join any alliance system. The Modi government has discovered, as
+per Jaishankar, "the benefits of working with different powers on different issues"
+in the multi-polar world, like, "having many balls up in the air at the same time and
+displaying the confidence and dexterity to drop none" (Jaishankar 2020). Thus, in
+its pursuit to become a leading power in the Indo-Pacific, India’s quest for strategic
+autonomy would continue for New Delhi to find solace in hedging. New Delhi will
+continue to engage big powers, avoid zero-sum alliances and instead pursue alignments on its terms.
+
+13
+
+Chinese Political Science Review (2023) 8:597–617
+
+609
+
+5 Challenges to India’s Hedging Policy in the Indo‑Pacific
+Notwithstanding the allure of the hedging prong in India’s Indo-Pacific policy,
+there are several long-standing and conflicting security, diplomatic, and economic calculations that India needs to weigh very carefully. The dilemmas and
+challenges that have the potential to jeopardize India’s hedging policy in its
+Indo-Pacific vision can be discussed as follows:
+
+5.1 Reducing the Power Asymmetry with China
+If the rise of China and its assertive behavior has been the major driving force
+for India’s Indo-Pacific vision, the role of finding diverse partners or "alignments
+of choice" underscores New Delhi’s playbook. However, partnerships do matter
+as a short-term way to achieve some sort of parity with China, as many experts
+believe it is the internal capabilities or comprehensive power that matter most.
+As already discussed above, in almost every aspect of power, there is a huge
+asymmetry between India and China, and the gap is increasing, not reducing.
+Consequently, this power asymmetry gives China a position of strength to shape
+its approach toward a weaker party, India. However, there is a growing realization in New Delhi regarding setting up a new army strike corps facing China,
+building up Indian infrastructure along the joint border, repositioning Indian
+airpower to this border, and building up India’s nuclear and space deterrence
+capabilities. However, as Rajesh Rajagopalan laments, "all of these efforts are
+facing difficulties: the army strike corps has been reduced because of its cost;
+infrastructure-building has been delayed because of bureaucratic incompetence;
+the Indian Air Force’s squadron strength has declined by a quarter because of
+delays in acquisition; and two decades after the nuclear tests, India still does not
+have a long-range missile that can cover all of China from any part of its territory" (Rajagopalan 2020, p. 88).
+In the naval domain, the naval modernization program faces a more fundamental problem too. Allocation of resources for the Indian Navy not only
+remains the lowest among the three military services but has declined from 19
+percent of the total military budget in 2010/11 to just 15.5 percent in 2018/2019,
+with the navy’s share of capital expenditure also declining from 30 to 25 percent
+over the same period (Rajagopalan 2020). Even India’s indigenous production
+is growing, but very slowly (compared to China). Given the expected growth of
+the Chinese navy in the coming years, it will be nearly impossible for India to
+maintain a favorable power balance in the maritime domain (Singh 2019). Furthermore, if the QUAD, as it has been argued, was setup to contain the growing
+maritime presence of China, New Delhi has to show it is no longer its so-called
+"weakest link" (Grossman 2018) by reducing the huge power imbalance with
+Beijing. Therefore, if carving for a multi-polar Asia free from Chinese hegemony is what constitutes the taproot of India’s Indo-Pacific vision, reducing the
+huge power asymmetry with China is a serious challenge.
+
+13
+
+610
+
+Chinese Political Science Review (2023) 8:597–617
+
+5.2 Fixing the Economic Fissure
+Another significant challenge is the widening gulf between India and the fast-growing Asian economic miracle. Although being a growing economic power, India has
+been undertaking efforts to scale up its role in trade and connectivity in the IndoPacific, guided by its ‘Act East’ policy. Nevertheless, New Delhi’s overall economic
+performance in the region has come under serious pressure. India is only marginally attached to the region through shallow economic partnership agreements with
+Japan, South Korea, and the ASEAN countries; China is far ahead in terms of trade
+with almost all the Indo-Pacific countries (Jacob 2020). India’s decision to exit from
+the Regional Comprehensive Economic Partnership (RCEP), the ‘largest free trade
+agreement in history’ (Petri and Plummer 2020), will further undermine its position
+in the region. Since India is no longer at the trade table, it is going to have catastrophic consequences for its Indo-Pacific policy. India cannot afford to be a member of neither APEC nor the Comprehensive and Progressive Agreement for TransPacific Partnership negotiations. Aside from India, the absence of the United States
+from the RCEP and the Trans-Pacific Partnership (TPP) has raised many questions
+about the Indo-Pacific concept. For Evan Feigenbaum of the Carnegie Endowment
+for International Peace, "we get pan-Asian rules and standards without the ’Indo’
+and the giant economy across the ’Pacific’." Can you have ’Indo-Pacific’ when you
+have neither? " (Feigenbaum 2022). The institutional effects of the regional trading
+arrangement must not be underestimated as trade patterns evolve in this dynamic
+region and as new issues enter the expanding trade permit. New Delhi, by surrendering the opportunity to integrate its economy closer with the Asia–Pacific region,
+risks further isolation in the next round of globalization and regional economic integration. Without an economic integration strategy, India risks that its Act East policy will amount to little more than becoming the naval doorman of the Indo-Pacific
+(Gupta 2019). For a politico-economic construct such as the Indo-Pacific to survive, there must be strong economic partnerships and linkages among its members.
+Merely focusing on strategic talk and possible military cooperation will not work
+because, at some point, the unavoidable economic logic will kick in (Jacob 2020).
+How India, despite its own domestic and structural concerns over RCEP, reintegrates with the Asian economic miracle, which is key to its Indo-Pacific vision, presents a grave problem.
+5.3 The Growing Russia–China Strategic Partnership
+If New Delhi has been betting on its Cold War ally Russia to pursue the hedging
+policy to manage a rising China’s squeeze, the Ukraine conflict, irrespective of
+the outcome, is predicted to make Moscow more dependent on Beijing (Leonhardt
+2022). It is worthwhile pointing out that the Russia–China strategic convergence
+has developed much faster than one would have expected. In 2021, Russian Foreign Minister Sergey Lavrov described the relations as the "best in their entire history". It was not hyperbole, he was keen to underline, but "a well-deserved and fair
+assessment." Presidents Vladimir Putin and Xi Jinping have met 38 times (in person
+
+13
+
+Chinese Political Science Review (2023) 8:597–617
+
+611
+
+and virtually) since 2013 (Krishnan 2022). The biggest factor behind their current
+closeness is their shared discomfort with the U.S. and its allies, especially the IndoPacific construct and QUAD, which they perceive as recreating the "ideology of a
+new Cold War" (Dobson 2022). Many in the west blame the growing Russia–China
+strategic partnership for emboldening Putin’s aggressive move (Krishnan 2022). As
+far as India is concerned, the conventional wisdom says that if Beijing and Moscow
+are apart, New Delhi has much to gain. However, if they are close, there is much
+more to lose. There is speculation that once the dust settles in Ukraine, the Russia–China alliance will emerge tighter than before, coordinating their actions and
+policies, including in India’s backyard (Pal and Mehta 2022). Instead of India creating a wedge between the two, there is now a danger that Beijing may end up creating a gulf between New Delhi and Moscow. As Rajagopalan warned, "If Russia
+had to choose between China and India, it would choose China." It believes it needs
+a strong voice as a partner on the international stage, and that is China, not India
+(Rajagopalan 2021). Apart from undermining the influence of the US, which would
+be catastrophic for India’s Indo-pacific policy, it is also believed that the strengthening China-Russia strategic partnership may be emboldening Beijing toward more
+assertive action against India (Grossman 2022). Much worse, Russia is also making
+inroads with India’s other top adversary, Pakistan, the "all-weather" ally of China.
+The Russia–China–Pakistan strategic convergence is going to be a "geopolitical
+nightmare for India". Not only will the troika potentially constrain India’s influence
+in its backyard, but it will also put serious pressure on New Delhi’s strategic options
+in the Indo-Pacific. Quintessentially, India’s hedging policy will feel the heat.
+5.4 Inside Out: Democratic Backsliding
+India’s democratic trajectory has much to offer within the evolving geopolitics of the
+Indo-Pacific, which is increasingly being portrayed as a democratic bulwark against
+the authoritarianism of China. By making the defence of democratic values the heart
+of his foreign policy, Biden convened the "summit for democracy" to strengthen
+the alliance of democracies to counter the rising authoritarianism all over the world
+(The White House 2021). However, Biden’s eyes were more fixed on China’s authoritarianism in the Indo-Pacific (Yeo 2021), and it is where India is seen as a crucial
+democratic partner to counter it. The so-called "democratic QUAD", in particular,
+is committed to defending democracy and advancing prosperity in the Indo-Pacific
+region by emphasizing the free, open, and rule-based order. This was reiterated by
+the four QUAD leaders in their joint Op-Ed as, "our foundations of democracy and a
+commitment to engagement unite us" (Biden et al. 2021). However, in recent years,
+India’s democratic credentials have suffered a significant setback, which would jeopardize the push for cooperation among "like-minded" democracies, especially when
+it comes to countering China. As Ashley Tellis, a US scholar, cautioned, "the community of liberal democracies internationally stands to lose if domestic unrest fueled
+by confrontational politics stymies India’s growth or if India enlarges its material
+capabilities only by sacrificing its liberal character." Either outcome would dilute
+the West’s eagerness to partner with India (Tellis 2020). Due to the consolidation
+
+13
+
+612
+
+Chinese Political Science Review (2023) 8:597–617
+
+of a Hindu-majoritarian brand of politics; the excessive concentration of power in
+the hands of the executive; the decay in independent institutions; and a clampdown
+on political dissent and freedom of the press (Vaishnav 2021), India’s democracy
+is seriously backsliding. The Freedom House in its annual report downgraded the
+country from ‘free’ to ‘partly free’, saying "rather than serving as a champion of
+democratic practise and a counterweight to authoritarian influence from countries
+such as China, Modi and his party are tragically driving India itself toward authoritarianism" (Freedom House 2022). The V-Dem Institute went a step further, saying
+"the world’s largest democracy has turned into an electoral autocracy" (The Wire
+2021). This backsliding, if left unaddressed poses a dilemma for the US, whose reliance on India to preserve a "free and open Indo-Pacific" has grown in leaps and
+bounds. Not only will the QUAD lose its democratic character, but even the US will
+struggle to justify its partnership with India. For India, that will have a huge impact
+on its hedging policy.
+
+6 Conclusion
+The article examines India’s Indo-Pacific policy from the perspective of a hedging
+strategy. The aforementioned analysis vividly revealed the hedging prong in India’s
+Indo-Pacific policy underscored by New Delhi’s ambiguity and equivocality in shaping her "open and inclusive Indo-Pacific" vision. While pursuing its Indo-Pacific
+policy, New Delhi is projecting its image as not taking any sides in the evolving
+dynamics of the Indo-Pacific, especially to not antagonize China. Despite China
+being the main driver of its Indo-Pacific policy, New Delhi has refrained from
+openly admitting that. By cautiously deepening security ties with other powers like
+the US, Japan, and Australia, New Delhi’s tardiness in moving forward with QUAD
+by conceiving it at par with other regional forums involving Beijing like the BRICS,
+RIC, and SCO underscores its Indo-Pacific policy. Based on the extant literature on
+hedging as revisited in this article, it was found that as a typical hedger, India is
+navigating the uncertain and complex terrain of the Indo-Pacific to reach as many
+directions as possible to best secure its interests. However, beyond the dominant
+‘uncertainty’ variable, this study demonstrated that the hedging strategy employed
+by India is also a function of a number of factors unique to New Delhi’s security
+predicaments. Due to the ‘tyranny of geography’ and huge ‘power asymmetry’ with
+China, New Delhi cannot afford to take a frontline position in challenging China.
+All it necessitates is to pursue a hedging strategy to simultaneously engage China as
+well as reach out to other powers to build a coalition of forces to manage it. Additionally, apart from reassuring the smaller ASEAN states that the Indo-Pacific is not
+going to be the sequel of the Cold War, India’s strategic culture, especially the quest
+for "strategic autonomy", also drives New Delhi’s hedging strategy.
+Notwithstanding the allure of hedging strategy among Indian policymaking circles,
+this study found a number of significant challenges that New Delhi has to reckon with.
+Besides reducing the power asymmetry with China, New Delhi had to seriously fix
+the economic fissuring in the region post the RCEP exit. By reducing the huge power
+gap with China, not only will India be in a position of strength to manage China, but it
+
+13
+
+Chinese Political Science Review (2023) 8:597–617
+
+613
+
+will also add credibility to its image among its so-called like-minded partners who are
+expecting too much heavy lifting from New Delhi in handling Beijing. Furthermore, a
+more powerful and hence more confident India will be a boon for the smaller ASEAN
+countries, which have been looking for New Delhi’s increasing role amid their territorial disputes with China. Otherwise, there are already ample indications that a unipolar
+Asia led by China is on the cards. If it is the inclusion of India that gives the geopolitical construction of Indo-Pacific its’ Indo identity’, a lot of onus lies on New Delhi to
+prevent that from happening. All that is needed is a thorough course correction through
+a policy framework that will ensure healthy economic growth and capacity building on
+a national scale. Leaving the RCEP might have its own concerns, but New Delhi needs
+to reintegrate with the Asian economic miracle for its Indo-Pacific policy to succeed.
+After all, the RCEP is not just a trading arrangement; it has a strategic dimension as
+well, as there continues to be a strong sense among its members that it is only India
+that can provide a degree of a countervailing kind of presence in the arrangement. This
+is vividly underscored by the desperation among member countries, especially Japan
+and Australia, for consistently encouraging India’s return to RCEP as a potential counterweight to China’s rising military presence in the Indo-Pacific. Instead of solidifying
+its insular economic orientation and portraying itself as a besieged land power preoccupied with China, Pakistan, and the Kashmir issue, New Delhi needed to do some soul
+searching in order to move beyond its otherwise rhetorical commitment to the IndoPacific. Furthermore, in an ASEAN split over China, to remove the misperception that
+it is Beijing and not New Delhi that plays well when it comes to trade, India must note
+that strategic talk alone cannot trump overriding economic realities and hence reintegrate with the region like never before. To pursue the hedging policy in the Indo-Pacific
+also demands India to seriously put its democratic credentials on track. Otherwise, an
+undemocratic India runs the risk of being seen as a liability in the rule-based and democratic Indo-Pacific vision of its democratic partners. As Aparna Pande has pointed
+out, India’s democratic reputation is a reason for its seat at the table, and since New
+Delhi has performed very badly on all other fronts, like economic growth and military
+modernization, what is it offering aside from its image? (Venkataramakrishnan 2021).
+Only time will tell how well India manages all these challenges. However, there is a
+punch line. Since all these cannot be done overnight, it requires buying time, and that is
+the luxury only the policy of hedging offers. So, New Delhi’s Indo-Pacific policy will
+find solace in ‘hedging the bets’ by dating as many powers as it can without ‘tying the
+knot’ with anyone.
+Declarations
+Conflict of interest No potential conflict of interest was reported by the author.
+
+References
+Babones, S. 2020. The Quad’s Malabar exercises point the way to an Asian NATO. Foreign Policy.https://​
+forei​gnpol​icy.​com/​2020/​11/​25/​india-​japan-​austr​alia-u-​s-​quad-​allia​nce-​nato/#:​~:​text=​Both%​20the%​
+20Quad%​20its​elf%​E2%​80%​94a,fledg​ed%​20mil​itary%​20all​iance%​20came%​20from
+
+13
+
+614
+
+Chinese Political Science Review (2023) 8:597–617
+
+Bajpai, K.P. 2019. India and the Free and Open Indo-Pacific (FOIP). Paper presented at International
+Workshop, “The New International Relations Template and Japan’s Indo-Pacific Vision” organized
+by Hiroshima Peace Institute and Konrad-Adenauer-Stiftung (KAS), Japan Office.https://​lkyspp.​nus.​
+edu.​sg/​docs/​defau​lt-​source/​cag/​kanti​bajpa​i---​india-​and-​the-​foip.​pdf?​sfvrsn=​347b4​10a_8. Accessed
+21 Dec 2021.
+Basrur, R., and S.N. Kutty. 2021. Modi’s India and Japan: nested strategic partnerships. International
+Politics 59: 67–89.
+Biden, J. et al. 2021. Opinion: Our four nations are committed to a free, open, secure and prosperous
+Indo-Pacific region. The Washington Post. https://​www.​washi​ngton​post.​com/​opini​ons/​2021/​03/​13/​
+biden-​modi-​morri​son-​suga-​quad-​natio​ns-​indo-​pacif​i c/.
+Brewster, D. 2011. Indian strategic thinking about East Asia. Journal of Strategic Studies 34 (6):
+825–852.
+Chacko, P. 2014. The rise of the Indo-Pacific: Understanding ideational change and continuity in India’s
+foreign policy. Australian Journal of International Affairs 68 (4): 433–452.
+Chellaney, B., 2022. The new global Cold War clouds India’s tightrope walk. The Japan Times. https://​
+www.​japan​times.​co.​jp/​opini​on/​2022/​03/​01/​comme​ntary/​world-​comme​ntary/​india-​china-​ukrai​ne/.
+Chung, J.H. 2009/2010. East Asia responds to the rise of China: Patterns and variations. Pacific Affairs
+82 (4): 657–675.
+Ciorciari, J.D. 2009. The balance of great-power influence in contemporary Southeast Asia. International
+Relations of the Asia-Pacific 9 (1): 157–196.
+Ciorciari, John D. 2019. The variable effectiveness of hedging strategies. International Relations of the
+Asia-Pacific 19 (3): 523–555.
+Ciorciari, John D., and Jürgen. Haacke. 2019. Hedging in international relations: An introduction. International Relations of the Asia-Pacific 19 (3): 367–374.
+Dar, A.I. 2021. India-Vietnam Axis and China: The Allure of Hedging. India Quarterly 77 (2): 252–268.
+Dobson, J. 2022. Will Russia’s embrace of China create geopolitical problems for India?. Sunday Guardian Live. https://​www.​sunda​yguar​dianl​ive.​com/​world/​will-​russi​as-​embra​ce-​china-​create-​geopo​litic​
+al-​probl​ems-​india.
+Feigenbaum, E. A. 2022. An Indo-Pacific Economic Framework. Carnegie Endowment for International
+Peace. https://​carne​gieen​dowme​nt.​org/​2022/​03/​01/​indo-​pacif​i c-​econo​mic-​frame​work-​pub-​86564.
+Foot, R. 2006. Chinese strategies in a US-hegemonic global order: accommodating and hedging. International Affairs 82 (1):77–94.
+Freedom House. 2022. Freedom in the World 2022. https://​freed​omhou​se.​org/​count​ry/​india/​freed​om-​
+world/​2022. Accessed 15 May 2022.
+Ganguly, S., & Pardesi, M. S. 2020. Why We Should Worry About China and India’s Border Skirmishes.
+Foreign Policy. https://​forei​gnpol​icy.​com/​2020/​05/​23/​india-​china-​border-​skirm​ishes/.
+Goh, E., 2005. Meeting the China challenge: The US in Southeast Asian regional security strategies. Policy Studies, No. 16. Washington, D.C.: East-West Center. https://​www.​eastw​estce​nter.​org/​publi​catio​
+ns/​meeti​ng-​china-​chall​enge-​us-​south​east-​asian-​regio​nal-​secur​ity-​strat​egies. Accessed 17 Feb 2021.
+Goh, E. 2006. Understanding “hedging” in Asia-Pacific security. PacNet 43: 31.
+Grossman, D. 2018. India Is the Weakest Link in the Quad. Foreign Policy. https://​forei​gnpol​icy.​com/​
+2018/​07/​23/​india-​is-​the-​weake​st-​link-​in-​the-​quad/.
+Grossman, D. 2022. Russia Looks Less and Less Like India’s Friend. RAND Corporation. https://​www.​
+rand.​org/​blog/​2022/​03/​russia-​looks-​less-​and-​less-​like-​indias-​friend.​html.
+Gupta, S. 2019. India’s RCEP blunder. East Asia Forum. https://​www.​easta​siafo​rum.​org/​2019/​11/​09/​
+indias-​rcep-​blund​er/.
+Haider, S. 2022. Quad meet focuses on Indo-Pacific cooperation. The Hindu. https://​www.​thehi​ndu.​com/​
+news/​natio​nal/​exter ​nal-​affai​rs-​minis​ter-s-​jaish​ankar-​atten​ds-​quad-​forei​gn-​minis​ters-​meeti​ng-​in-​
+melbo​urne-​on-​febru​ary-​11-​2022/​artic​le384​12830.​ece.
+Henry, I.2019. Finally, some plain talk on the Quad. The Interpreter. https://​www.​lowyi​nstit​ute.​org/​the-​
+inter​preter/​final​ly-​some-​plain-​talk-​quad.
+Hoo, T.B. 2016. The hedging prong in India’s evolving China strategy. Journal of Contemporary China
+25 (101): 792–804.
+Jackson, Van. 2014. Power, trust, and network complex: Three logics of hedging in Asian security. International Relations of the Asia-Pacific 14 (3): 331–356.
+Jacob, H., 2022. The anatomy of India’s Ukraine dilemma. The Hindu. https://​www.​thehi​ndu.​com/​opini​
+on/​lead/​the-​anato​my-​of-​indias-​ukrai​ne-​dilem​ma/​artic​le650​90424.​ece.
+
+13
+
+Chinese Political Science Review (2023) 8:597–617
+
+615
+
+Jacob, H. 2020. The challenges of walking the Indo-Pacific talk. The Hindu. https://​www.​thehi​ndu.​com/​
+opini​on/​lead/​the-​chall​enges-​of-​walki​ng-​the-​indo-​pacif​i c-​talk/​artic​le621​07239.​ece.
+Jaishankar, S. 2020. The India way: Strategies for an uncertain world. New Delhi: Harper Collins.
+Jones, David Martin, and Nicole Jenne. 2021. Hedging and grand strategy in Southeast Asian foreign
+policy. International Relations of the Asia-Pacific 22 (2): 205–235.
+Karki, H.S. 2021. Explaining India’s view of China’s military relations with other South Asian countries.
+Chinese Political Science Review 2: 1–26.
+Kahler, M. 2020. Emerging powers and leadership norms. Fudan Journal of the Humanities and Social
+Sciences 13: 7–27.
+Koga, Kei. 2018. The concept of “hedging” revisited: The case of Japan’s foreign policy strategy in East
+Asia’s power shift. International Studies Review 20 (4): 633–660.
+Korolev, A. 2019. Shrinking room for hedging: System-unit dynamics and behavior of smaller powers.
+International Relations of the Asia-Pacific 19 (3): 419–452.
+Krishnan, A. 2022. Examining the Russia-China axis. The Hindu. https://​www.​thehi​ndu.​com/​news/​inter​
+natio​nal/​exami​ning-​the-​russia-​china-​axis/​artic​le650​74835.​ece.
+Kuik, Cheng-Chwee. 2008. The essence of hedging: Malaysia and Singapore’s response to a rising China.
+Contemporary Southeast Asia 30 (2): 159–185.
+Kuik, Cheng-Chwee. 2016. How do weaker states hedge? Unpacking ASEAN States’ alignment behavior
+towards China. Journal of Contemporary China 25 (100): 500–514.
+Kuik, Cheng-Chwee. 2021. Getting hedging right: A small-state perspective. China International Strategy Review 3: 1–16.
+Leonhardt, D. 2022. China’s Russia Problem. The New York Times. https://​www.​nytim​es.​com/​2022/​03/​
+08/​brief​i ng/​china-​russia-​xi-​jinpi​ng-​vladi​mir-​putin.​html.
+Lim, Darren J., and Rohan Mukherjee. 2019. Hedging in South Asia: Balancing economic and security
+interests amid Sino-Indian competition. International Relations of the Asia-Pacific 19 (3): 493–522.
+Lim, Darren J., and Zack Cooper. 2015. Reassessing hedging: The logic of alignment in East Asia. Security Studies 24 (4): 696–727.
+Medeiros, E.S. 2005. Strategic hedging and the future of Asia-Pacific stability. The Washington Quarterly
+29 (1): 145–167.
+Miller, M.C., 2021. The QUAD, AUKUS, and India’s Dilemmas. Council on Foreign Relations. https://​
+www.​cfr.​org/​artic​le/​quad-​aukus-​and-​indias-​dilem​mas.
+Ministry of External Affairs. 2018. PM’s Keynote Address at Shangri La Dialogue. https://​www.​mea.​
+gov.​in/​Speec​hes-​State​ments.​htm?​dtl/​29943/​Prime+​Minis​ters+​Keyno​te+​Addre​ss+​at+​Shang​ri+​La+​
+Dialo​gue+​June+​01+​2018
+Ministry of External Affairs. 2017. Keynote Address by External Affairs Minister at the Delhi Dialogue
+IX (Charting the Course for India—ASEAN Relations for the Next 25 Years). https://​www.​mea.​gov.​
+in/​asean​india/​Speec​hStat​ement​ASEM.​htm?​dtl/​22618/​Keyno​te+​Addre​ss+​by+​Exter ​nal+​Affai​rs+​
+Minis​ter+​at+​the+​Delhi+​Dialo​gue+​IX+​Chart​ing+​the+​Course+​for+​India++​ASEAN+​Relat​ions+​
+for+​the+​Next+​25+​Years.
+Ministry of External Affairs. 2021. Question No.1435 Indo-Pacific Vision. https://​www.​mea.​gov.​in/​lok-​
+sabha.​htm?​dtl/​34060/​QUEST​ION_​NO1435_​INDO_​PACIF​IC_​VISION
+Ministry of External Affairs (a). 23 May 2022a. English Translation of Remarks by Prime Minister Shri
+Narendra Modi at the Announcement of Indo-Pacific Economic Framework. https://​www.​mea.​gov.​
+in/​Speec​hes-​State​ments.​htm?​dtl/​35344/​Engli​sh_​Trans​lation_​of_​Remar​ks_​by_​Prime_​Minis​ter_​
+Shri_​Naren​dra_​Modi_​at_​the_​Annou​nceme​nt_​of_​IndoP​acific_​Econo​mic_​Frame​work
+Ministry of External Affairs (b). 2022b. Statement on Indo-Pacific Economic Framework for Prosperity. https://​www.​mea.​gov.​in/​bilat​eral-​docum​ents.​htm?​dtl/​35353/​State​ment+​on+​IndoP​acific+​Econo​
+mic+​Frame​work+​for+​Prosp​erity
+Mohan, C. R. 2016. Raja-Mandala: Maritime India versus Continental Delhi. Indian Express. https://​
+india​nexpr​ess.​com/​artic​le/​opini​on/​colum​ns/​inter​natio​nal-​fleet-​review-​marit​ime-​india-​versus-​conti​
+nental-​delhi/
+Mohan, C. R. 2021. Non-Alignment, nationalism, and QUAD. ORF. https://​www.​orfon​line.​org/​expert-​
+speak/​non-​align​ment-​natio​nalism-​and-​the-​quad/.
+Mukherjee, R. 2019. Looking west, acting east. Southeast Asian Affairs 2019: 43–52.
+Muraviev, A.D., D. Ahlawat, and L. Hughes. 2021. India’s security dilemma: engaging big powers while
+retaining strategic autonomy. International Politics 2: 1–20.
+Murphy, A.M. 2017. Great power rivalries, domestic politics and southeast Asian foreign policy: exploring the linkages. Asian Security 13 (3): 165–182.
+
+13
+
+616
+
+Chinese Political Science Review (2023) 8:597–617
+
+Pal, D. and Mehta, S. 2022. Russia-Ukraine Crisis: The New Player In India-Russia Relations Is East, Not
+West. Bloomberg Quint. https://​www.​bloom​bergq​uint.​com/​opini​on/​russia-​ukrai​ne-​crisis-​the-​new-​
+player-​in-​india-​russia-​relat​ions-​is-​east-​not-​west.
+Pant, H.V., and P. Saha. 2020. India, China, and the Indo-Pacific: New Delhi’s recalibration is underway.
+The Washington Quarterly 43 (4): 187–206.
+Pant, H.V.2022. India must think of reconfiguring its ties with Russia. ORF. https://​www.​orfon​line.​org/​
+resea​rch/​india-​must-​think-​of-​recon​figur​ing-​its-​ties-​with-​russia/.
+Paranjpe, S. 2020. India’s strategic culture: The making of national security policy. Taylor & Francis.
+Pardesi, M.S. 2022. India’s China strategy under Modi continuity in the management of an asymmetric
+rivalry. International Politics 59 (1): 44–66.
+Petri, P.A., Plummer, M. 2020. RCEP: A new trade agreement that will shape global economics and politics. Brookings. https://​www.​brook​ings.​edu/​blog/​order-​from-​chaos/​2020/​11/​16/​rcep-a-​new-​trade-​
+agree​ment-​that-​will-​shape-​global-​econo​mics-​and-​polit​ics/.
+Prasad, N. 2019. India’s Foray into the Indo-Pacific: Embracing ambiguity through strategic autonomy.
+https://​www.​ide.​go.​jp/​libra​ry/​Japan​ese/​Publi​sh/​Repor​ts/​Inter​imRep​ort/​2018/​pdf/​2018_2_​40_​011_​
+ch07.​pdf. Accessed 20 Dec 2021.
+Rajagopalan, R. 2020. Evasive balancing: India’s unviable Indo-Pacific strategy. International Affairs 96
+(1): 75–93.
+Rajagopalan, R. 2021. India, Russia less useful to each other now. Disagreements will only grow. The
+Print.
+https://​thepr​int.​in/​opini​on/​india-​russia-​less-​useful-​to-​each-​other-​now-​disag​reeme​nts-​will-​
+only-​grow/​621264/.
+Saha, P. 2018. The Quad in the Indo-Pacific: Why ASEAN remains cautious. ORF. https://​www.​orfon​
+line.​org/​wp-​conte​nt/​uploa​ds/​2018/​02/​ORF_​Issue​Brief_​229_​QuadA​SEAN.​pdf.
+Salman, M., and G. Geeraerts. 2015. Strategic hedging and China’s economic policy in the Middle East.
+China Report 51 (2): 102–120.
+Saran, S. 2019. India’s place in ‘Indo-Pacific’. Tribune, https://​www.​tribu​neind​ia.​com/​news/​archi​ve/​
+comme​nt/​india-s-​place-​in-​indo-​pacif​i c-​856449
+Saran, S. 2021. To expand India’s strategic autonomy, we need to get back to high growth economy fast.
+The Print. https://​thepr​int.​in/​opini​on/​to-​expand-​indias-​strat​egic-​auton​omy-​we-​need-​to-​get-​back-​to-​
+high-​growth-​econo​my-​fast/​746566/.
+Schweller, R.L. 1994. Bandwagoning for profit: Bringing the revisionist state back in. International Security 19 (1): 72–107.
+Scott, D. 2012. India and the Allure of the ‘Indo-Pacific.’ International Studies 49 (3–4): 165–188.
+Shambaugh, D. 2020. Where great powers meet: America and China in Southeast Asia. Oxford: Oxford
+University Press.
+Singh, L. 2019. Can India survive in a China-centered Asia-Pacific? The Diplomat. https://​thedi​plomat.​
+com/​2019/​12/​can-​india-​survi​ve-​in-a-​china-​cente​red-​asia-​pacif​i c/.
+Smith, J.M. 2020. The galwan killings are the nail in the coffin for the China and India’s relationship. Foreign Policy. https://​forei​gnpol​icy.​com/​2020/​06/​26/​galwan-​border-​china-​india-​war-​confl​ict/.
+Stockholm International Peace Research Institute. 2021. Nuclear weapon modernization continues but the
+outlook for arms control is bleak: New SIPRI Yearbook out now. https://​www.​sipri.​org/​media/​press-​
+relea​se/​2020/​nucle​ar-​weapon-​moder​nizat​ion-​conti​nues-​outlo​ok-​arms-​contr​ol-​bleak-​new-​sipri-​yearb​
+ook-​out-​now. Accessed 15 Feb 2021.
+Tellis, A. 2020. If India keeps diluting its liberal character, the West will be a less eager partner. The
+Print. https://​thepr​int.​in/​opini​on/​if-​india-​keeps-​dilut​ing-​its-​liber​al-​chara​cter-​the-​west-​will-​be-a-​less-​
+eager-​partn​er/​506160/.
+Tessman, B., and W. Wolfe. 2011. Great powers and strategic hedging: The case of Chinese energy security. International Studies Review 13 (2): 214–240.
+Tessman, Brock. 2012. System structure and state strategy: Adding hedging to the menu. Security Studies
+21 (2): 192–231.
+Thayer, C.A. 2011. The tyranny of geography: Vietnamese strategies to constrain China in the South
+China Sea. Contemporary Southeast Asia 33: 348–369.
+The Economic Times. 30 March 2022. China defence budget to grow 7.1 percent in 2022. https://​econo​
+micti​mes.​india​times.​com/​news/​defen​ce/​china-​defen​ce-​budget-​to-​grow-7-​1-​perce​nt-​in2022/​artic​
+leshow/​90005​876.​cms?​from=​mdr#:​~:​text=​The%​20Chi​nese%​20gov​ernme​nt%​20has%​20pro​posed​
+,the%​20cou​ntry’s%​20par​liame​nt%​20on%​20Sat​urday.
+The Statesman. 2017. ASEAN is central pillar of India’s Act East Policy: Sitharaman.https://​www.​thest​
+atesm​an.​com/​india/​asean-​centr​al-​pillar-​indias-​act-​east-​policy-​sitha​raman-​15025​16599.​html.
+
+13
+
+Chinese Political Science Review (2023) 8:597–617
+
+617
+
+The Times of India. 2022. “Don’t slip into the ’lazy analogy’ of referring Quad as Asia”.https://​times​
+ofind​ia.​india​times.​com/​india/​dont-​slip-​into-​the-​lazy-​analo​gy-​of-​refer​ring-​quad-​as-​asian-​nato-​eam-​
+jaish​ankar/​artic​leshow/​89701​174.​cms.
+The White House. 2021. Summit for democracy summary of proceedings. https://​www.​white​house.​gov/​
+brief​i ng-​room/​state​ments-​relea​ses/​2021/​12/​23/​summit-​for-​democ​racy-​summa​r y-​of-​proce​edings/.
+Accessed 15 Feb 2022.
+The Wire. 2021. India is no longer a democracy but an ’electoral autocracy’: Swedish Institute. https://​
+thewi​re.​in/​rights/​india-​no-​longer-​democ​racy-​elect​oral-​autoc​racy-v-​dem-​insti​tute-​report-​bjp-​naren​
+dra-​modi.
+Toje, A. 2010. The EU security strategy revised: Europe hedging its bets. European Foreign Affairs
+Review 15 (2): 171–190.
+Tunsjø, Ø. 2013. Security and Profit in China’s Energy Policy. Columbia University Press.
+Vaishnav, M. 2021. The decay of Indian democracy. Foreign Affairs. https://​www.​forei​gnaff​airs.​com/​artic​
+les/​india/​2021-​03-​18/​decay-​indian-​democ​racy.
+Venkataramakrishnan, R. 2021. The political fix: What does India’s democratic backsliding mean for
+the Quad? Scroll.in. https://​scroll.​in/​artic​le/​990178/​the-​polit​ical-​fix-​what-​does-​india-s-​democ​ratic-​
+backs​liding-​mean-​for-​the-​quad.
+Walt, S. 1987. The Origins of Alliances. New York: Ithaca.
+Waltz, K.N. 1979. Theory of international politics. Long Grove.
+Więcławski, J. 2020. Considering rationality of realist international relations theories. Chinese Political
+Science Review 5: 111–130.
+Yeo, A. 2021. Will Asia buy into the summit for democracy?. Brookings. https://​www.​brook​ings.​edu/​
+blog/​order-​from-​chaos/​2021/​12/​01/​will-​asia-​buy-​into-​the-​summit-​for-​democ​racy/.
+Springer Nature or its licensor holds exclusive rights to this article under a publishing agreement with the
+author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article
+is solely governed by the terms of such publishing agreement and applicable law.
+
+13
+
+

@@ -1,0 +1,2004 @@
+Indonesian Journal of International Law
+Volume 19
+Number 1 International Investment Law
+
+Article 6
+
+10-2-2021
+
+The Protection of Foreign Investments in Disputed Maritime
+Areas of The South China Sea
+Anh Nguyen
+University of Vienna, ng.hoanganh.mika.2797@gmail.com
+
+Follow this and additional works at: https://scholarhub.ui.ac.id/ijil
+Part of the International Law Commons, and the Law of the Sea Commons
+
+Recommended Citation
+Nguyen, Anh (2021) "The Protection of Foreign Investments in Disputed Maritime Areas of The South
+China Sea," Indonesian Journal of International Law: Vol. 19: No. 1, Article 6.
+DOI: 10.17304/ijil.vol19.1.1
+Available at: https://scholarhub.ui.ac.id/ijil/vol19/iss1/6
+
+This Article is brought to you for free and open access by the Faculty of Law at UI Scholars Hub. It has been
+accepted for inclusion in Indonesian Journal of International Law by an authorized editor of UI Scholars Hub.
+
+Indonesian Journal of International Law (2021), Vol. 19 No. 1, pp. 1-38
+https://doi.org/10.17304/ijil.vol19.1.1
+
+THE PROTECTION OF FOREIGN INVESTMENTS IN
+DISPUTED MARITIME AREAS OF THE SOUTH CHINA SEA
+Anh Nguyen
+University of Vienna, Austria
+Correspondence: ng.hoanganh.mika.2797@gmail.com
+
+Abstract
+This study used a legal framework developed by a recent scholarship to examine the protection
+of foreign investments in disputed maritime areas. The framework classifies these areas and
+establishes the jurisdictional challenges faced by investment tribunals in such constellations.
+For instance, there are high-profile foreign investments in the South China Sea (SCS) with
+significant threats of increasing escalation between SCS states. Therefore, this study aimed to
+examine investment protection in disputed waters of SCS using this framework. Since BITs of
+SCS states include maritime areas beyond the territorial sea in their territories, there is need
+to abide to international law. Therefore, tribunals are caught in a double bind when deciding
+on their jurisdiction. For instance, they need to assess whether disputed maritime areas fall
+under the BIT’s territorial scope of protection, conferring them to territorial jurisdiction. This
+necessitate the need to determine the maritime entitlements conformity with international law,
+which is against the scope of jurisdiction of the investment tribunal. The results showed that
+tribunals may not overcome this jurisdictional hurdle as a matter de lege lata. In this regard,
+de lege feranda are promising legal rationales to establish incidental jurisdiction over disputed
+maritime areas. Therefore, tribunals decide on their jurisdiction over investments in these areas.
+Keywords : disputed maritime areas, incidental jurisdiction, ISDS, South China Sea
+
+Submitted : 6 April 2020 | Revised : 19 August 2021 | Accepted : 8 September 2021
+		
+
+I. INTRODUCTION
+The Asia-Pacific region receives the largest share of global FDI inflows
+among developing economies.1 Foreign investors in the South China Sea (SCS)
+are more concerned about protecting their investments amid the increasing
+tensions in this region.2 This is because SCS has untapped seabed energy
+reserves with increasing offshore interests and militarization.3 Therefore, the
+protection of the existing and potential foreign investments is significant for
+United Nations Economic and Social Commission for Asia and the Pacific, Foreign Direct Investment
+Trends and Outlook in Asia and the Pacific 2019/2020 (New York, United States: UNESCAP, 2020), 2.
+2
+“Territorial Disputes in the South China Sea,” The Council on Foreign Relation’s Global Conflict Tracker,
+accessed 31 March 2021, https://on.cfr.org/35aWt9U.
+3
+International Energy Agency, Offshore Energy Outlook 2018 Report, accessed 22 March 2021, https://
+www.iea.org/reports/offshore-energy-outlook-2018.
+1
+
+Copyright © 2021 – Anh Nguyen
+Published by Lembaga Pengkajian Hukum Internasional
+
+Anh Nguyen
+
+host states in the SCS and the attracted foreign investors.4
+The ongoing dispute complicates the inclusion of an investment in
+an SCS coastal state’s maritime within the BIT’s territorial jurisdiction.5
+Therefore, a framework that classifies the types of disputed maritime areas
+has been developed.6 The framework explores the protection of investments7
+beyond a host state’s territorial sea,8 especially in disputed waters or areas
+of uncertain maritime boundaries.9 Offshore hydrocarbon investments10 have
+attracted attention from scholars. Inquiries are about investments in deep
+seabed mining11 and submarine cables12 have been made. Similarly, previous
+investment tribunals have dealt with claims against the disputed territory, such
+as the Crimea cases13 relating to contested annexation and in-state succession
+of Hong Kong/Macao14 and Kosovo.15 However, investor-state arbitration
+Christian Wirth, “Antagonisms in the South China Sea: The Regional Perspective,” Global Challenges,
+February 2017, accessed 22 March 2021, https://globalchallenges.ch/issue/1/antagonisms-in-the-southchina-sea-the-regional-perspective/.
+5
+The Peace Palace library has compiled a comprehensive list of scholarship on the international law of
+the sea and geopolitical dimensions of the SCS Dispute which can accessed at https://peacepalacelibrary.
+nl/south-china-sea-new-titles/.
+6
+British Institute of International and Comparative Law, Report on the Obligations of States under Articles
+74(3) and 83(3) of UNCLOS in respect of Undelimited Maritime Areas (London, United Kingdom: BIICL,
+2016), para 188; Peter Tzeng, “Investment Protection in Disputed Maritime Areas,” The Journal of World
+Investment & Trade 19, (2018): 828, doi: https://doi.org/10.1163/22119000-12340112; Marco Benatar and
+Valentin J. Schatz, “The Protection of Foreign Investments in Disputed Maritime Areas,” in Investments
+in Conflict Zones, Tobias Ackermann, Sebastian Wuschke, eds. (Leiden, The Netherlands: Brill/Nijhoff,
+2020), 176.
+7
+Benatar and Schatz, “The Protection of Foreign Investments,” 176; Tzeng, “Investment Protection,” 828;
+Kathryn Khamsi, “Investments in Unsettled Maritime Boundary Contexts: The Role of Bilateral Investment Treaties in Delivering Certainty,” ICSID Review, 34 (2019): 666.
+8
+Seline Trevisanut and Nikolas Giannopoulos, “Investment Protection in Offshore Energy Production: Bright Sides of Regime Interaction,” Journal of World Investment & Trade 19, (2018): 789, doi:
+10.1163/22119000-12340111.
+9
+Josina A. Y. Wattimena, “Urgency of Boundary Maritime Management: Strategies to Prevent Conflict,”
+Indonesian Journal of International Law 15, no.1 (2017): 29, doi: 10.17304/ijil.vol15.1.740.
+10
+Robert Beckman, “International Law, UNCLOS and the South China Sea,” in Beyond Territorial Disputes in the South China Sea: Legal Frameworks for the Joint Development of Hydrocarbon Resources,
+Robert Beckman, et. al. eds., (Singapore: Edward Elgar, 2013), 47; Natalia Ermolina, “Unilateral Hydrocarbon Activities in Undelimited Maritime Areas,” Indonesian Journal of International Law 15, no. 2
+(2019): 158, doi: 10.17304/ijil.vol15.2.724
+11
+James Harrison, “International Investment Law and the Regulation of the Seabed,” in The Law of the
+Seabed, Catherine Banet, ed. (Leiden, Netherlands: Brill/Nijhoff, 2020), 481.
+12
+Markos Karavias, “Submarine Cables and Pipelines: The Protection of Investors Under International
+Law,” The Journal of World Investment & Trade 19, (2018): 860, doi: 10.1163/22119000-12340113.
+13
+Damien Charlotin, Lisa Bohmer, and Luke E. Peterson, “Russia Disputes Round-up: An update on 19
+Treaty- Based Arbitrations Against the State,” Investment Arbitration Reporter, accessed 17 May 2020,
+https://www.iareporter.com/Articles/russia-round-up-an-update-on-19-treaty-based-arbitrations-againstthe-state/.
+14
+Odysseas G. Repousis, “On Territoriality and International Investment Law: Applying China’s Investment Treaties to Hong Kong and Macao,” Michigan Journal of International Law 37, no.1 (2015): 113.
+15
+Pierre-Emmanuel Dupont, “Foreign Investment and the Status of Kosovo in International Law,” The
+Journal of World Investment & Trade 10, no. 6 (2019): 937, doi: 10.1163/221190009X00051.
+4
+
+2
+
+Foreign Investment in Disputed Maritime Areas
+
+against a maritime sovereignty dispute has never been conducted. Conversely,
+there have been interstate maritime delimitation cases before the ICJ, ITLOS,
+and PCA. These organizations resolve disputes involving offshore concession
+blocks granted to foreign corporations, such as the maritime boundary case
+between Ghana and Côte d’Ivoire.16 Moreover, there have been foreign
+investments in disputed maritime areas with possible territorial protection
+assessed.17 Scholars have established that investment tribunal jurisdiction can
+be constrained to the point of failing to determine maritime entitlements of
+sovereign states. This applies to the Monetary Gold principle when the state
+is protesting the disputed maritime areas. In this case, the host state grants the
+foreign investors rights, while the protesting state is not a party to the investor(host)-state dispute. These are referred to as the questions of implicated issues
+and indispensable parties.18
+This study examined the foreign investments in disputed maritime areas
+to the South China Sea investments based on the current international law
+framework. It outlined the conflict dynamics, and the stakes foreign investors
+hold in the region. Section II of this study discusses the SCS dispute, while
+Section III elaborates on the current foreign investment activities in the SCS.
+Furthermore, Section IV examines BITs surveys by SCS states, focusing on
+whether maritime areas are included in the definition of territory. Section
+V discusses the types of disputed maritime areas between SCS states,
+particularly their territorial protection in BITs. Moreover, Section VI examines
+the jurisdictional challenges in assessing the protection of investments. The
+analysis is based on a preceding survey of SCS BITs and specific maritime
+disputes and tailors the framework on jurisdiction for potential investment
+disputes. In deciding proprio motu on its jurisdiction, a tribunal should
+assess its ability to establish jurisdiction ratione loci. However, it has to
+make determinations on maritime sovereignty and entitlements, which prima
+facie fall out of its jurisdiction. This means that the tribunal completely lacks
+jurisdiction over the investment dispute. This is referred to as the problem
+of implicated issue, dealt with in the last half of Section VI. Section VII
+addresses the jurisdictional hurdle of ratione personae posed by the Monetary
+Gold, indispensable party principle. Also, it discusses the participation of
+the protesting state in investor-(host-)state arbitral proceedings as an amicus
+curia.
+Christine Sim, “Investment Disputes Arising out of Areas of Unsettled Boundaries: Ghana/Côte
+d’Ivoire,” The Journal of World Energy Law & Business 11, no. 1 (2018): 1, doi: 10.1093/jwelb/jwx033.
+17
+Markus P. Beham, “The Concept of ‘Territory’ in BITs of Disputing Sovereigns,” in Investments in
+Conflict Zones, Tobias Ackermann and Sebastian Wuschke, eds. (Leiden, Netherlands: Brill/Nijhoff, 2020),
+139.
+18
+Peter Tzeng, “The Implicated Issue Problem: Indispensable Issues and Incidental Jurisdiction,” New York
+University Journal of International Law & Politics 50, (2018): 477.
+16
+
+3
+
+Anh Nguyen
+
+II. THE SCS DISPUTE
+A. THE GEOGRAPHY OF THE SCS
+SCS is a water body covering 3,685,000 km2, stretching from the Northern
+border by the Taiwan Strait to the Southern border formed by Eastern and
+Southern limits of Singapore and Malacca Straits, the Karimata Strait, and the
+island of Borneo. The Western border is formed by the Southern limit of the
+Gulf of Thailand and the East coast of the Malay Peninsula, while the Eastern
+border is formed by the Philippine Luzon, Balabac, and Mindoro Straits.19
+
+B. THE NINE-DASH LINE
+The Nine-dash line encompasses roughly 90% (the red-dashed line
+in Figure 2) of the SCS. This refers to the demarcation line used by China
+for their claims in the SCS and includes the Paracel, the Spratly, Pratas,
+the Scarborough Shoal, and parts of the Natuna Islands. It overlaps with
+the EEZ and continental shelf of China’s neighboring states, including the
+Philippines, Vietnam, Malaysia, Brunei, and Indonesia. Although China has
+never designated it as a definitive border to sovereignty, there are allegations
+that its territorial waters cover 12nm from its mainland to the claimed offshore
+islands. Specifically, it anchors claims to island groups in the SCS and the
+potential maritime entitlements generated. This means that China claims the
+SCS within its sphere of maritime sovereignty,20 the crux of contention in the
+SCS Dispute.
+
+III. FOREIGN INVESTMENT ACTIVITIES IN THE SCS
+The SCS’s potential for oil and gas significantly attracts foreign investors.
+The think-tank CSIS recently identified operation and exploration blocks held
+by foreign energy corporations investing in the SCS. It shows dozens of blocks
+laying in areas of overlapping EEZ, or continental shelf claims between SCS
+states21 (See Figure 3). This section highlights high-profile energy investment
+projects in SCS states.
+
+A. INDONESIA
+19
+International Hydrographic Organization, Limits of Oceans and Seas, Third Edition (Monte Carlo, Monaco: 1953), 24.
+20
+Chinese Society of International Law, “The South China Sea Arbitration Awards: A Critical Study,”
+Chinese Journal of International Law 17, (2018): 207. Liu Zhen, “What’s China’s ‘nine-dash line’ and why
+has it created so much tension in the South China Sea?” South China Morning Post,12 July 2016, accessed
+on 31 March 2021, https://bit.ly/3nWLWYb.
+21
+“South China Sea Energy Exploration and Development,” Centre for Strategic and International Studies,
+accessed on 23 March 2021, https://amti.csis.org/south-china-sea-energy-exploration-and-development/.
+
+4
+
+Foreign Investment in Disputed Maritime Areas
+
+In 2019, Spanish energy company Repsol made the largest gas discovery
+in Indonesia in 18 years with a preliminary estimate of at least two trillion
+cubic feet of recoverable resources. Indonesia planned to auction 10 oil and
+gas blocks in 2020, with a combined estimated potential of 5,006 billion cubic
+feet of gas and 3,436 million barrels of oil. However, only 54 out of 126
+sediment shelves in the have been explored.22
+
+B. MALAYSIA
+A Thai state energy company discovered its largest gas around 90km
+offshore the state of Sarawak in February 2021. The project partners include
+its operator and three other companies, specifically a Malaysian subsidiary of
+the Thai state energy, Kuwait’s energy, and a Malaysian national oil and gas.23
+
+C. THE PHILIPPINES
+The Philippines announced in October 2020 that it would resume oil
+and gas exploration in the SCS. This came after the administration of former
+President Benigno Aquino III suspended exploration and drilling activities
+in 2014 amid tensions with China. Forum, a UK company with Philippine
+backing, holds a contract to explore near the Reed Bank, an area rich in oil
+and gas. The Philippines has exploited the area due to Chinese interference.
+Moreover, PXP, a Hong Kong company, and the state-owned Philippine oil
+company hold contracts to operate in this area.24
+Renewables projects involving energy generation through platforms
+or devices in the seabed have also attracted investors. This includes the
+generation of electricity from offshore geothermal heat sources, such as
+seabed or marine volcanoes. Examples are the NEC volcanic complex in the
+Indonesia Banda Sea and those near the Sangihe Island.25 The Philippines’
+FDI policy announced that it would allow 100% foreign ownership for largescale exploration, development, and utilization in geothermal projects.26
+Saul Daniel and Audrey Lim, “Can foreign investment in Indonesia’s upstream oil and gas sector live up
+to expectations?” ASEAN Business, 19 October 2020, accessed on 31 March 2021, https://bit.ly/3mkyKfy.
+23
+Tim Daiss, “Headwinds Remain for Malaysia’s Natural Gas Ambitions,” Rigzone, 15 March 2021,
+accessed 22 March 2021, https://www.rigzone.com/news/headwinds_remain_for_malaysias_natural_gas_
+ambitions-15-mar-2021-164880-Article/.
+24
+John Reed and Kathrin Hille, “Philippines to restart oil and gas exploration in the South China Sea,”
+Financial Times, 18 October 2020, accessed 22 March 2021, https://www.ft.com/content/b361afe99aa2-461a-b8ea-d8fc8850ddfa.
+25
+Teguh Rahat Prabowo et. al, “A new idea: The possibilities of offshore geothermal system in Indonesia marine volcanoes,” in The 6th ITB International Geothermal Workshop Conference Series: Earth
+and Environmental (IIGW2017) 22–23 March 2017 (Bandung, Indonesia: IOP Publishing, 2017), 5, doi:
+10.1088/1755-1315/103/1/012012
+26
+John Yeap, “Phlippines allows 100% foreign investment in geothermal project,” Pinsent Masons, 11 November 2020, accessed 23 March 2021, https://www.pinsentmasons.com/out-law/news/philippines-allows22
+
+5
+
+Anh Nguyen
+
+D. VIETNAM
+In August 2020, Vietnam entered into a $5.09 billion LNG power and
+terminal project with Exxon Mobil.27 This was accompanied by another JV
+with Exxon in the Blue Whale Project28 to develop an offshore platform, a
+pipeline to shore, an onshore gas treatment plant, and tase supply pipelines.
+The project awarded Italian Saipem an onshore-offshore front-end engineering
+design contract.29 Another prominent Italian energy investor, ENI, confirmed
+a large gas and condensate field in the Red River Basin, one of the largest
+discoveries made in Southeast Asia in the past two decades.30
+
+E. POLITICAL AND ECONOMIC PRESSURE FROM CHINA
+ON ITS NEIGHBOURS’ FDI POLICY
+Western foreign investors dominate the energy sector, though they face
+stiff competition from the Three Buckets of Oil, the three Chinese national oil
+companies that support SCS ventures outside of the energy sector, including
+shipbuilding and the construction of artificial islands.31 Furthermore, China
+has developed and expanded its national capacity in offshore industries in the
+SCS, such as aquaculture, seabed mining for minerals and precious metals,
+and construction of offshore wind and solar farms, and submarine cables. Its
+economic and geo-strategic interests in the SCS have politically pressurized
+the neighbors, affecting governmental decision-making on the concrete FDI
+initiatives. This was evident in the 2014 moratorium on exploration and
+drilling activities instituted by The Philippines. In Summer 2020, Vietnam was
+forced to rescind licenses of a Russian-Spanish-Emirati investor consortium
+operating at the farther edge of Vietnam’s claimed EEZ, which China asserted
+overlapped with its maritime claims. As a result, Vietnam paid out a one billion
+dollars settlement.32 It remains to be seen whether Vietnam’s joint ventures
+with Exxon and Eni would be subject to the same fate.
+foreign-investment-in-geothermal-projects.
+27
+“Vietnam city says approves LNG project to be developed by Exxon Mobil,” Reuters, 2 October 2020, accessed 23 March 2021, https://www.reuters.com/Article/us-vietnam-exxon-mobil-lng-idUSKBN26N1KZ.
+28
+“Ca Voi Xanh Project Overview,” Exxon Mobil, accessed 30 March 2021, https://exxonmobil.
+co/3ui56Km.
+29
+“FEED for Ca Voi Xanh Project,” Saipem, accessed 30 March 2021, https://www.saipem.com/en/projects/feed-ca-voi-xanh-project
+30
+Damon Evans, “Eni strikes one of the biggest gas finds in Southeast Asia for 20 years,” Energy Voice,
+30 July 2020, accessed 30 March 2021, https://www.energyvoice.com/oilandgas/asia/255731/eni-gas-findvietnam/.
+31
+“Stirring up the South China Sea (IV): Oil in Troubled Waters,” Crisis Group, 27 January 2016, accessed
+30 March 2021, https://medium.com/@CrisisGroup/stirring-up-the-south-china-sea-iv-oil-in-troubledwaters-7d4b7286aac0.
+32
+Bill Hayton, “China’s Pressure Costs Vietnam $1 Billion in the South China Sea,” The Diplomat, 20 July
+2020, accessed 30 March 2021, https://thediplomat.com/2020/07/chinas-pressure-costs-vietnam-1-billionin-the-south-china-sea/.
+
+6
+
+Foreign Investment in Disputed Maritime Areas
+
+To counter China’s political pressure, the regent of Indonesian Natuna
+Islands called for United States, Japan, South Korea, and Australia to invest on
+the island. The Southern tip of the nine-dash line is one of the contested island
+groups in the SCS dispute.33 China’s leveraging of its economic statecraft has
+severed ties with foreign investors and strategic competitors. This has also
+resulted in tacit renouncement of its SCS claims, such as the case with Brunei,
+which secured BRI-related investments.34
+
+IV. THE INCLUSION OF A STATE’S MARITIME ZONES IN
+THE TERRITORIAL SCOPE OF SCS STATES’ BITS
+Under international law, the territory over which a state exercises its
+sovereignty encompasses the land, subsoil, internal waters, the airspace above
+that land, and the territorial sea or archipelagic waters. However, other zones
+of functional rights and jurisdiction have emerged beyond this maritime belt.35
+First, the contiguous zone (Article 33 UNCLOS) is where the coastal state
+may exercise certain maritime administrative functions. Second, the exclusive
+economic zone (EEZ) is where the coastal state enjoys sovereign rights over
+natural resources and other rights regarding marine research (Article 87
+UNCLOS). Third, the continental shelf is a submarine area, comprising the
+seabed and subsoil, over which the coastal state has resource exploitation
+rights (Article 76 UNCLOS). The BIT is responsible for providing a specific
+definition of what is considered part of its territorial scope. When it fails to
+provide the definition, it is determined by Article 29 VCLT,36 which sets out
+that treaties by default apply to the contracting state party’s territory. Therefore,
+an investment treaty, without further guidance on its territorial scope, would
+not apply to maritime zones beyond the contracting state’s maritime belt.
+Surveying the BITs in the SCS shows a pattern including maritime zones
+beyond the coastal state’s maritime belt in the definition of ‘territory’. This
+trend previously observed in a UNCTAD Report.37 The inclusion is prevalent
+James Massola and Amilia Rosa, “Natuna chief urges Australia to invest, says Chinese aid not welcome,”
+The Sydney Morning Herald, 26 June 2020, accessed 30 March 2021, https://www.smh.com.au/world/asia/
+natuna-chief-urges-australia-to-invest-says-chinese-aid-not-welcome-20200610-p551e7.html.
+34
+Bama Andika Putra, “Comprehending Brunei Darussalam’s vanishing claims in the South China Sea:
+China’s exertion of economic power and the influence of elite perception,” Cogent Social Sciences 7,
+(2021): 4, doi: 10.1080/23311886.2020.1858563.
+35
+Malcolm N. Shaw, International Law, Eighth Edition (New York: Cambridge University Press, 2017),
+402.
+36
+Syméon Karagiannis, “Article 29 1969 Vienna Convention,” in The Vienna Convention on the Law of
+Treaties: A Commentary, Oliver Corten and Pierre Kleineds, eds. (New York: Oxford University Press,
+2008).
+37
+UNCTAD, Bilateral investment treaties 1995-2006: Trends in Investment Rulemaking (Geneva, Switzerland: UNCTAD, 2006), 17.
+33
+
+7
+
+Anh Nguyen
+
+when the BIT is concluded between two coastal states. The BITs surveyed
+concluded between the six SCS and twenty-one other coastal states. Of the
+possible 126 BIT constellations, eighty-six existed or were publicly available,
+in which only fourteen did not include a definition. The remaining seventyfour BITs included the definition of territory, referencing the sea and maritime
+zones extending beyond. Therefore, they yielded an 86% likelihood of
+maritime zones being included in the territorial scope of BITs between SCS
+and other coastal state.
+Among those seventy-four BITs, the first two included a definition
+explicitly referring to the EEZ (twenty-two BITs) and the continental shelf
+(twenty-nine BITs).38 The third type implicitly referred to these two zones by
+referencing maritime zones (including seabed and subsoil) beyond a state’s
+maritime belt (the territorial and adjacent seas, and coast). These are the zones
+over which a state exercises resource explorations and exploitation rights (six
+BITs).39 The fourth type, to which most cases belong, referred to maritime
+zones over which the state has sovereign rights and jurisdiction (forty-seven
+BITs). Although almost all these provisions are included an ‘in accordance
+with international law’ clause, UNCLOS was referenced in thirteen surveyed
+BITs. Some surveyed BITs also had different definitions of territory for the
+contracting states. For instance, one party may be defined by a general reference
+to maritime zones, while the territory of the other one may contain an explicit
+reference to the EEZ or continental shelf.40 The territory of one state was only
+defined as land territory and the territorial sea,41 or to its national law, under
+which maritime areas constituted territory.42 The last one included maritime
+zone concerning international law.
+SCS BITs concluded with landlocked states were also surveyed. The
+sample included seven land-locked states and five SCS, giving forty-five
+possible land-locked-coastal-state-BIT constellations. A BIT existed or was
+public only in twenty-five constellations, of which sixteen constellations
+included a definition of territory. Furthermore, twelve included maritime
+zones into the definitions, while four encompassed only generic definitions,
+Article 1(6), Agreement between Denmark and The Philippines regarding the Promotion and Reciprocal
+Protection of Investments (1997), signed 25 September 1997 (entered into force 19 April 1998).
+39
+Article 1(4), Agreement between Indonesia and Spain on Reciprocal Promotion and Protection of Investment (1995), signed 30 May 1995 (entered into force 18 December 1996).
+40
+Article 1(4), Agreement between Netherlands and Indonesia on Promotion and Protection of Investment
+(1994), signed 6 April 1994 (entered into force 1 July 1997). See also Article 1(5), Investment Protection
+Agreement between France and Vietnam (1992), signed 26 May 1992 (entered into force 10 August 1994).
+41
+Article 1(5), Agreement between Denmark and Malaysia for the Mutual Promotion and Protection of
+Investments (1992), signed 6 January 1992 (entered into force 18 September 1992).
+42
+Article 1(a), Agreement between Netherlands and Philippines for the Promotion and Protection of Investments (1985), signed 27 February 1985 (entered into force 1 October 1987).
+38
+
+8
+
+Foreign Investment in Disputed Maritime Areas
+
+such as the territory of state as defined in its law, or over which (state)
+exercises sovereign rights and jurisdiction in line with international law. A
+total of nine constellations lacked definition of territory. This survey indicates
+no likelihood of a definition including the maritime zone across the BITs, with
+12/25, nearly 50%. However, when states include a definition of territory in
+the BIT, they would likely not include maritime areas (12/16, indicating a
+75% chance compared to 4/16, 25%). The tables showing the results of both
+surveys are found in the Annex.
+Treaty-making practices of SCS states include maritime zones within
+the definition of territory. However, it would be incorrect to interpret this
+observation into a BIT, which excludes maritime zones. The omission could
+also reflect the intention of the contract parties to constrain the territorial
+investment on land. Article 29 VCLT stipulates that a treaty applies to
+the entire territory of each party unless there is a different definition or is
+otherwise established. However, the treaties aim to protect investments made
+in areas which the contracting party, such as the host state, effectively or de
+facto controls. Otherwise, the investment would not have been possible. This
+understanding includes areas over which the contracting party has sovereignty
+(territory) and the maritime areas beyond the territorial seas, over which the
+contracting party exercises sovereign rights or jurisdiction.43
+
+V. THE CLASSIFICATION OF DISPUTED MARITIME
+AREAS
+SCS BITs would likely include maritime zones into the definition of
+territory through teleological interpretation. Therefore, maritime or offshore
+investments in the SCS may fall within the territorial scope of the BITs
+concluded by coastal states. This implies jurisdiction ratione loci could prima
+facie be given.
+Based on the status of maritime areas disputed, a new question arises on
+the protection of investments made in the disputed territory. The first step is to
+examine the nature and types of disputed maritime areas proposed by recent
+scholarship44 and the examples from the SCS.
+
+43
+44
+
+Benatar and Schatz, “The Protection of Foreign Investments,”185.
+Benatar and Schatz, “The Protection of Foreign Investments” 185; Tzeng, “Investment Protection,” 844.
+
+9
+
+Anh Nguyen
+
+A. CLASSIFICATION ACCORDING TO THE STATUS OF THE
+DISPUTE
+1. ‘UNREGULATED AREAS’
+The disputed SCS areas are summarized in the following table:45
+Disputed Area
+
+Disputing states
+
+China’s Nine-dash line
+
+Disputed by all remaining SCS states, except Taiwan
+
+Maritime boundary of Borneo (incl the islands of Ligitan
+
+and Sipadan)
+
+China, Taiwan, Brunei, Philippines, Malaysia
+Indonesia (with respect to the two mentioned islands
+only between these latter states)
+
+Paracel Islands, Pratas Island and the Vereker Banks,
+Macclesfield Bank, Scarborough Shoal and the
+Spratly Islands
+
+Generally, between China, Taiwan, The Philippines,
+Vietnam
+Parts only between Malaysia and The Philippines
+
+Maritime boundaries in the waters of Natuna Islands
+
+China, Taiwan, Indonesia
+
+Maritime boundaries off the coast of Palawan and
+Luzon (incl islands in the Luzon Strait)
+
+China, Taiwan, The Philippines,
+
+Maritime boundary, land territory, and the islands of
+Sabah, including Ambalat,
+
+Indonesia, Malaysia, and the Philippines.
+
+2. JOINT DEVELOPMENT AREAS (JDA)
+In November 2018, The Philippines and China signed an MoU on
+Cooperation on Oil and Gas Development. They agreed to establish an InterGovernmental Joint Steering Committee and Inter-Entrepreneurial Working
+Groups to negotiate and pursue cooperation agreements for oil and gas.46 Areas
+under such an arrangement are referred to as Joint Development Area (JDA).
+These are undertakings by coastal states in line with Article 74(3) and 83(3)
+of UNCLOS, which requires states with overlapping EEZs and continental
+shelves claim to enter practical provisional arrangements.47 The only other
+JDA between SCS states is the Malaysia-Vietnam JDA,48 which along with
+the Malaysia-Thailand JDA, forms a tripartite and the first multilateral JDA
+United Nations Economic and Social Commission for Asia and the Pacific, Foreign Direct Investment
+Trends and Outlook in Asia and the Pacific 2019/2020 (New York, United States: UNESCAP, 2020), 4.
+46
+Jay Batongbacal, “The Philippines-China MOU on Cooperation in Oil and Gas Development,” CSIS,
+5 December 2018, accessed 30 March 2021, https://amti.csis.org/philippines-china-mou-cooperation-oilgas-development/.
+47
+Muhammad Faiz Aziz, “Developing Joint Development Zone in Disputed Maritime Boundaries,” Indonesian Journal of International Law 15, no. 4 (2018): 432, doi: http://dx.doi.org/10.17304/ijil.vol15.4.735
+48
+“Petronas And Petrovietnam Extend PM3 CAA Production Sharing Contract,” Petronas, 9 May 2016, accessed 23 March 2021, https://www.petronas.com/media/press-release/petronas-and-petrovietnam-extendpm3-caa-production-sharing-contract.
+45
+
+10
+
+Foreign Investment in Disputed Maritime Areas
+
+worldwide.49
+3. “PROVISIONALLY DELIMITED AREAS”
+This is a provisional delimitation of the disputing party currently absent
+in the SCS. In 2009, Malaysia and Vietnam made a Joint Submission to the
+CLCS50 on their extended continental shelf claims under Article 76 UNCLOS.
+However, the submission did not define the extended continental shelf claim
+of each country. Instead, it merely defined the area jointly claimed by both
+countries. It was referred to as a broad understanding of the apportionment of
+the respective area by the Malaysian Prime Minister.51 In consequence, China
+and The Philippines issued notes verbale against this submission.52 This study
+only examined investments in unregulated areas constituting the possible
+investor-state cases in the SCS. There is only one Agreement, one MoU on
+JDA, and no provisionally delimited areas.
+
+B.
+
+CLASSIFICATION ACCORDING
+CONTENT
+
+TO
+
+THE
+
+DISPUTE
+
+1. OVERLAP OF MARITIME CLAIMS
+The states disagree on delimiting maritime boundaries based on overlapping
+claims to their territorial sea, EEZ, or continental shelf. The overlap of China’s
+Nine-dash line with its neighbors’ EEZ and continental shelf entitlements
+forms the basis of the SCS Dispute. In this regard, the Nine-dash line is
+anchored by China’s sovereignty claims over islands groups in the SCS and
+not generated by its mainland coastline. This would tie in with the further types
+of disputed areas. Without China’s Nine-dash line claim, disagreements about
+overlapping entitlements amongst China’s SCS neighbors would persist. An
+example is The Philippines’ protest to the joint submission by Malaysia and
+Vietnam to the CLCS.
+
+Hong Thao Nguyen, “Vietnam and Joint Development in the Gulf of Thailand,” Asian Yearbook of
+International Law 8, (2003): 138.
+50
+“Outer limits of the continental shelf beyond 200 nautical miles from the baselines: Joint submission
+by Malaysia and the Socialist Republic of Viet Nam,” UN Division for Ocean Affairs and the Law of the
+Sea, last modified, 3 May 2011, accessed 30 March 2021 https://www.un.org/Depts/los/clcs_new/submissions_files/submission_mysvnm_33_2009.htm.
+51
+“Hanoi and KL reach broad understanding on sea claims,” The Star Malaysia, 2 June 2009, accessed 25 March 2021, https://web.archive.org/web/20121009010400/http://thestar.com.my/news/story.
+asp?file=/2009/6/2/-nation/4029224&sec=nation.
+52
+“Outer limits of the continental shelf beyond 200 nautical miles from the baselines: Joint submission
+by Malaysia and the Socialist Republic of Viet Nam,” UN Division for Ocean Affairs and the Law of
+the Sea, accessed 22 March 2021, https://www.un.org/depts/los/clcs_new/submissions_files/submission_
+mys_12_12_2019.html.
+49
+
+11
+
+Anh Nguyen
+
+2. CONTESTED SOVEREIGNTY OVER COASTAL LAND OR A
+FEATURE THAT GENERATES MARITIME ENTITLEMENT
+a.
+
+Disputes Over the Position of Drawing of (Main)Land Boundary
+
+China and Vietnam’s maritime delimitation in the Gulf of Tonkin in
+2000 contradicted a land border agreement a year before. However, this was
+considered political to further negotiate maritime boundaries and not a legal
+condition to generate entitlements. Also, the delimitation of the Gulf of Tonkin
+was based on the location of Vietnamese and Chinese islands in those waters,
+not on their coastal land.53 An example is the Guyana v Venezuela ICJ case,
+in which Venezuela refuted an arbitral award that settled a land boundary,
+complicating the achievement of a final maritime delimitation.54
+b. Dispute Over Sovereignty Over Islands
+The nine-dash line of China, anchored by its sovereignty claims to islands
+in the SCS, is reflected in its ratification of UNCLOS. It filed a declaration to
+UNCLOS reaffirming its sovereignty over all its archipelagoes and islands
+as listed in Article 2 of the Law of the People’s Republic of China on the
+Territorial Sea and Contiguous Zone. According to this provision China’s land
+territory includes its mainland (including Taiwan and the Penghu Islands),
+coastal islands. Furthermore, the Diaoyu (Senkaku) islands in the East China
+Sea55 and islands in the SCS, Dongsha, Xisha, Zhongsha, and the Nansha
+Island (Pratas, Paracel, Macclesfield Bank, and the Spratlys).56
+c.
+
+Disputes over the Characteristics of a Maritime Feature
+
+Even when sovereignty over the land or maritime features is established,
+states could still dispute the entitlements these features generate.
+Status of a rock or island: Under Article 121 UNCLOS, an island generates
+a territorial sea and an EEZ, while a rock is entitled to only a territorial sea.
+The distinguishing factor is whether the feature sustains human habitation or
+economic life. In this regard, the PCA tribunal in the Philippines v China57
+held that the Spratly Islands or their features could not generate an EEZ.
+This means that the Spratlys are not considered islands under the UNCLOS
+definition.
+Benoît de Tréglodé, “Maritime Boundary Delimitation and Sino-Vietnamese Cooperation in the Gulf of
+Tonkin (1994-2016),” China Perspectives 3, (2016): 36, doi: 10.4000/chinaperspectives.7030.
+54
+British Institute of International and Comparative Law, Report on the Obligations of States under Articles 74(3) and 83(3) of UNCLOS, para 188-190.
+55
+“Tensions in the East China Sea,” The Council on Foreign Relation’s Global Conflict Tracker, accessed
+31 March 2021, https://on.cfr.org/31GnSPE.
+56
+China, Laws on the Territorial Sea and the Contiguous Zone, Order No. 55 of 1992.
+57
+South China Sea (Philippines v China), PCA Case No 2013–19, Award (2016), para 577, 646.
+53
+
+12
+
+Foreign Investment in Disputed Maritime Areas
+
+Status of a low tide elevation (LTE): Under Article 10 UNCLOS, an island
+must be above water at high tide. In contrast, a naturally formed area of land
+above and surrounded by water at low tide but submerged at high tide is an
+LTE. It may only measure the breadth of the territorial sea (Art 11) or draw
+straight baselines in certain circumstances (Art 7 (4) UNCLOS). Different to
+rocks, which are permanently above water, LTEs do not generate maritime
+entitlements. In line with this, The Philippines argued in the PCA case that the
+Gaven Reef and McKennan Reef were LTEs, which the tribunal qualified as
+rocks.58
+Dispute over the drawing of baselines: Maritime entitlements could be
+claimed in excess when a coastal state draws baselines in contravention with
+UNCLOS or CIL. This is often the case with misusing straight baselines
+(joining selected points with a straight line, instead of taking low-water line
+along the coast), which is only permissible under certain conditions under Art
+7 UNCLOS. Upon UNCLOS ratification, China filed a declaration announcing
+the use of straight baselines to measure the territorial sea from its mainland
+and the Paracels.59
+
+VI.INVESTMENTS IN DISPUTED MARITIME AREAS OF
+THE SCS AS ‘PROTECTED INVESTMENTS’?
+A. A QUESTION OF JURISDICTION RATIONE LOCI OR
+RATIONE MATERIAE
+A question arises on whether a dispute over maritime areas affects the
+territorial scope of the BIT, jurisdiction ratione loci, or in case it concerns
+jurisdiction ratione materiae. Also, another question concerns the tribunal’s
+empowerment to decide on an investor-state dispute that is tied up with an
+interstate territorial maritime dispute.
+Jurisdiction ratione materiae is the investment disputes the tribunal
+decides on, contingent on states’ consent.60 The tribunal may only decide on
+issues to which the states agreed subject to arbitration. These include disputes
+between an investor and the host state concerning damages and losses incurred
+by the investor through alleged breaches of the BIT by the host state.61
+Ibid, 645.
+China, Declaration of the Government of the People’s Republic of China on the baselines of the territorial sea, 15 May 1996. Government of the People’s Republic of China, available at <https://bit.ly/3m95Ajm>
+60
+Christoph Schreuer, “Jurisdiction and Applicable Law in Investment Treaty Arbitration,” McGill Journal
+of Dispute Resolution 1, no.1 (2014): 16-17.
+61
+Christoph Schreuer, “Investment Disputes,” Max Planck Encyclopedia of Public International Law,
+May 2013, accessed 23 March 2021, https://opil.ouplaw.com/view/10.1093/law:epil/9780199231690/law58
+59
+
+13
+
+Anh Nguyen
+
+The definition of territory in the BITs survey included the maritime zones
+as established according to international law, with some BITs expressly
+referring to UNCLOS. An exception to this is the UK-China BIT, which only
+refers to areas over which sovereignty, sovereign rights, or jurisdiction are
+exercised without referring to international law.62 However, BITs often include
+an applicable law clause that allows consideration of rules of international
+law, such as in the Greece-Vietnam BIT.63 When such clauses are absent in
+BITs, which provide for ICSID Arbitration, Article 42 (1) ICSID Convention
+allows international law to be applied.
+When an investment is made in the host state’s territory, it indicates
+consent to allow tribunals to consider the territorial scope of the BIT by
+applying international law. However, the tribunal must decide on maritime
+sovereignty issues over which prima facie does not have jurisdiction, to
+which the states would not have likely consented.64 The next section addresses
+tribunals’ inherent self-imposed constraints on their jurisdiction when dealing
+with such renvoi clauses.
+
+B. THE NATURE OF APPLICABLE LAW CLAUSES AND
+‘IN ACCORDANCE WITH INTERNATIONAL LAW’
+REQUIREMENTS AS RENVOI CLAUSES
+A liberal understanding of applicable law clauses allows the application
+of rules of international law invoked during the arbitration significant to the
+claims submitted.65 Tribunals have previously applied instruments such as the
+ICCPR, UN Convention against Corruption, and UNESCO Conventions.66
+Moreover, the consideration of non-investment norms in investment
+arbitration has been debated recently in the context of invoking the host state’s
+international human rights obligations, such as claims of expropriation.67
+Under a narrow interpretation of the applicable rules clause, only rules directly
+9780199231690-e517?prd=EPIL.
+62
+Article 1 (2), Agreement between People’s Republic of China and United Kingdom concerning the
+Promotion and Reciprocal Protection of Investments (1986), signed 15 May 1986 (entered into force 15
+May 1986).
+63
+Article 10 (4), Agreement between Greece and Vietnam on the Promotion and Reciprocal Protection of
+Investments (2008), signed 13 October 2008 (entered into force 8 December 2011).
+64
+John Collier and Vaughan Lowe, The Settlement of Disputes in International Law (New York: Oxford
+University Press, 1999), 227.
+65
+Ralph A. Lorz, “Fragmentation and Consolidation and the Future Relationship Between International
+Investment Law and General International Law” in Investment Law within International Law: Integrationist Perspectives, Freya Baetens, ed. (New York: Cambridge University Press, 2013), 482.
+66
+Schreuer, “Jurisdiction and Applicable Law,” 16.
+67
+Eric De Brabandere, Investment Treaty Arbitration as Public International Law: Procedural Aspects
+and Implications (Cambridge: Cambridge University Press, 2014), 129. Chin Leng Lim, Jean Ho and Martins Paparinskis, International Investment Law and Arbitration: Commentary, Awards and other Materials
+(Cambridge: Cambridge University Press, 2018), 86.
+
+14
+
+Foreign Investment in Disputed Maritime Areas
+
+related to investment law may be referred to.68 This would make it particularly
+challenging to refer to UNCLOS or customary law of the sea to determine the
+territorial scope of the BITs in question.
+An investment tribunal’s jurisdiction is granted to decide on the
+international legal responsibility of host states. Therefore, relying on rules of
+international law is allowed, especially when a subject matter of that obligation
+is regulated by international law.69 When interpreting a treaty, Article 31(3)
+(c) VCLT requires any relevant rules of international law applicable in the
+relations between the parties to be considered. This provision is embodied
+in the clinical isolation holding by the WTO Appellate Body on the relation
+between WTO and general international law.70 In the Oil Platforms case, the
+ICJ took an integral approach qua treaty interpretation71 by considering the
+rules on the use of force relevant to the interpretation of the US-Iran Treaty of
+Amity. However, dissenting judges warned against incorporating the totality
+of substantive international law.72
+When applying Article 31(3)(c) VCLT, the UNCLOS rules of the
+customary law of the sea applicable to assess disputed maritime areas are not
+related to the host state and the investor’s home state. On the contrary, they
+apply between the host state and the protesting state, which is not a contracting
+party to the BIT. Furthermore, the contracting parties to the BIT agree that
+their territory is defined based on international law. This could be an implicit
+understanding between states’ economic relations to refrain from creating an
+investment environment that contradicts international law due to the potential
+political risk.
+
+C. THE JURISDICTIONAL CONSTRAINTS ON RENVOI
+CLAUSES IN BITS
+1. THE PROBLEM OF IMPLICATED ISSUES
+An investment tribunal’s main challenge in applying renvoi clauses
+implicates another non-investment question of international law over which
+it lacks jurisdiction. This problem arises when the tribunal has jurisdiction
+ratione materiae over an inside issue. However, that would implicate the
+Schreuer, “Jurisdiction and Applicable Law,” 16.
+De Brabandere, Investment Treaty Arbitration as Public International Law, 127-128.
+70
+The GATT is not to be read in clinical isolation from public international law. See United States - Standards for Reformulated and Conventional Gasoline, AB-1996-1, Report of the Appellate Body 1996, 17.
+71
+Bruno Simma, “Foreign Investment Arbitration: A Place for Human Rights?” International and Comparative Law Quarterly 60, no. 3 (2011): 573, doi:10.1017/S0020589311000224.
+72
+Oil Platforms (Iran v United States), ICJ Reports 2003, at para 4; Separate Opinion Judge Higgins,
+Judgement of 12 December 1996, at paras 45-46; Separate Opinion Buergenthal, Separate Opinion Judge
+Higgins, Judgement of 12 December 1996, at paras 22-23.
+68
+69
+
+15
+
+Anh Nguyen
+
+exercise of jurisdiction over an outside issue beyond the tribunal’s jurisdiction.73
+Furthermore, there is a possibility of renvoi to international law for maritime
+areas. The tribunal’s decision on whether the investment is made in disputed
+areas that are ‘in accordance with international law’ would still require a prior
+determination. This decision concerns inter-state maritime disputes, which is
+not commensurate with the tribunal’s mandate to settle investment disputes.74
+The problem of implicated outside issues could be indispensable
+or incidental.75 The implicated issue is indispensable when the tribunal
+cannot exercise jurisdiction over the inside issue. This would require the
+determination on an outside issue over which the tribunal cannot exercise
+jurisdiction. Furthermore, the implicated issue is incidental when the tribunal
+may exercise jurisdiction over the outside issue. Although this outside the
+tribunal’s jurisdiction, it makes such determinations because it concerns the
+inside issue dispute.76
+The maritime cases, including in Aegean Sea Continental Shelf, Pedra
+Branca, the South China Sea and the Black Sea, Sea of Azov, and Kerch Strait,
+were outside the ICJ and PCA’s jurisdiction. The ICJ and PCA held that such
+issues require the Court or tribunal to decide on maritime entitlements. The
+entitlements regard Greek island’s claim to a continental shelf,77 delimiting
+territorial waters between Singapore and Malaysia,78 the sovereignty of
+islands and maritime features claims by The Philippines and China,79 and
+sovereignty over Crimea.80 These issues were considered out of the tribunal’s
+jurisdiction. Concurrently, they fall within the categories of disputed maritime
+areas established in Section V part B.81 Therefore, an investment tribunal
+must also decide on these issues to establish whether investments made in
+such areas are considered protected. On the contrary, in Certain German
+Interests in Polish Upper Silesia, the PCIJ held that it might interpret other
+international agreements regarded incidental and to which it has jurisdiction.82
+Tzeng, “The Implicated Issue Problem,” 471.
+Benatar and Schatz, “The Protection of Foreign Investments,” 189.
+75
+For discussion adopting the terminology of from the doctrines of ‘indispensable part’ and ‘incidental
+jurisdiction’. See Tzeng, “Investment Protection,” 844.
+76
+Tzeng, “The Implicated Issue Problem,” 471. Benatar and Schatz, “The Protection of Foreign Investments,” 189.
+77
+Aegean Sea Continental Shelf (Greece v Turkey), ICJ Reports 1978, at para 83.
+78
+Sovereignty over Pedra Branca/Pulau Batu Puteh, Middle Rocks and South Ledge (Malaysia/Singapore),
+ICJ Report 2008, at paras 298-299.
+79
+South China Sea (Philippines v China), PCA Case No. 2013–19, Award on Jurisdiction and Admissibility
+(29 October 2015), at para 153.
+80
+Dispute Concerning Coastal State Rights in the Black Sea, Sea of Azov, and Kerch Strait (Ukraine v.
+the Russian Federation), PCA Case No. 2017-06, Award on Preliminary Objections (2020), at paras 197.
+81
+The implicated issues in Aegean Sea Continental Shelf relate to the maritime dispute in Section V.B.3.c.,
+in Pedra Branca to that in V.B.1., in South China Sea to that in V.B.2.b.c, in Black Sea to that in V.B.2.a.
+82
+Certain German Interests in Polish Upper Silesia (Germany v Poland), Preliminary Objections, PCIJ
+73
+74
+
+16
+
+Foreign Investment in Disputed Maritime Areas
+
+Moreover, in Chagos Marine Protected Area, the PCA held that its jurisdiction
+extends to making such findings or ancillary determinations of law to resolve
+the dispute.83
+The ICJ and PCA are two institutions with more suitable competence
+than investment tribunals to affirm incidental jurisdiction. They might decline
+jurisdiction on questions regarding maritime disputes to which the inside issue
+of the mentioned ICJ/PCA proceedings is stronger compared to an investment
+dispute. In this case, investment tribunals must also decline jurisdiction. Even
+with renvoi, allowing the tribunals to use rules of international law regarding
+a maritime issue does not automatically affirm their jurisdiction over such
+issues.84 It is because an investment tribunal making determinations on
+maritime sovereignty or entitlements would be an act of inherent ultra vires
+character. Therefore, de lege lata, the renvoi to international law in BIT’s
+territorial scope, is not commensurate with the tribunal’s jurisdiction ratione
+materiae. However, de lege feranda, there are important policy arguments for
+a tribunal’s establishment of incidental jurisdiction over disputed maritime
+areas, as explored in the next section.
+2. INVESTMENT TRIBUNALS’ “INCIDENTAL JURISDICTION” OVER
+DISPUTED MARITIME AREAS
+Determinations might be perceived to be incidental because the tribunal
+is responsible for settling the dispute referred to it by exercising jurisdiction.
+This is because the failure to exercise jurisdiction could amount to a denial of
+justice,85 especially to investors operating in highly risky areas. It is in these
+areas that investors need assurance of the host state’s commitment to protect
+their assets from third-state interference. Based on estoppel86 considerations,
+a host state authorizing investments in hotly contested areas should not escape
+its treaty obligations under the BIT. Instead, the state should claim it when
+its protection in territory it considers full proof against any objection to its
+conformity to international law by rival states.
+The approach taken by tribunals in the Crimea cases indicates the
+possibility for an investment tribunal to sidestep legality under international
+law regarding the territory under the BIT. Instead, the investment treaties should
+protect investments under the effective control of the contracting states, even
+Reports 1925 (ser A) No. 6, at 18.
+83
+Chagos Marine Protected Area (Mauritius v United Kingdom). PCA Case No. 2011-03, Award, at para
+220.
+84
+“Just as the basis of a tribunal’s jurisdiction does not determine the law it has to apply, the law applicable
+in a case does not determine the tribunal’s jurisdiction,” See Schreuer, “Jurisdiction and Applicable Law,”
+2.
+85
+Tzeng, “Investment Protection,” 845.
+86
+Benatar and Schatz, “The Protection of Foreign Investments,” 199.
+
+17
+
+Anh Nguyen
+
+when the investment is in the territory of the respondent state.87 According to
+the tribunals in PJSC Ukrnafta v Russia and Stabil LLC v Russia, the entire
+territory of Crimea under Russia’s effective control would constitute territory
+under the Russia-Ukraine BIT.88 These findings on territorial jurisdiction
+were affirmed by Swiss courts in set-aside proceedings.89 The Paris Court of
+Appeals set aside the Oschadbank v Russia award because of the tribunal’s
+lack of ratione temporis. However, the Court did not make any findings on the
+issue of territorial jurisdiction.90
+The host state and foreign investor made a mutual calculated risk by
+investing in contested areas of the SCS. Also, a coastal state exercising control
+over a maritime area to grant energy concession blocks to foreign investors
+asserts its rights and jurisdiction over this area. Therefore, it would not object
+to a tribunal’s lack of territorial jurisdiction because this would undermine its
+maritime claim.91
+Effective control could be established by adapting the extraterritorial
+application of international human rights law for an investment law context.
+Human rights treaties are designed to guarantee effective protection of human
+rights. Therefore, their extraterritorial application is affirmed in situations of
+contested sovereignty of occupation and armed conflicts. The most notable
+contestations were made by the ICJ in the Wall Advisory Opinion and Armed
+Activities on the Territory of Congo cases.92 Furthermore, the same reasoning
+could be adopted to protect investments made in disputed maritime areas
+effectively. This could involve expanding jurisdiction by extraterritorial
+application of BITs beyond the territorial sea. Consequently, potential
+investments in the growing industry of offshore energy would be effectively
+protected.93
+Tzeng, “Investment Protection,” 845.
+Jarrod Hepburn and Ridhi Kabra, “Investigation: Further Russia Investment Treaty Decisions Uncovered,
+Offering Broader Window into Arbitrators’ Approaches to Crimea Controversy,” Investment Arbitration
+Reporter, 17 November 2017, accessed 31 May 2018, www.iareporter.com/Articles/investigation-furtherrussia-investment-treaty-decisions-uncovered-offering-broader-window-into-arbitrators-approaches-tocrimea-controver- sy/.
+89
+Damien Charlotin, “Russia Fails to Set Aside Two Crimea-Related Awards at Swiss Seat,” Investment
+Arbitration Reporter, 17 December 2019, accessed 31 May 2018, https://www.iareporter.com/Articles/
+russia-fails-to-set-aside-two-crimea-related-awards-at-swiss-seat/.
+90
+Damien Charlotin, “Crimea-Related 1 Billion USD Award Against Russia is Set Aside, as Paris Court
+Finds that the Tribunal Lacked Jurisdiction,” Investment Arbitration Reporter, 30 May 2021, https://www.
+iareporter.com/Articles/crimea-related-1-billion-usd-award-against-russia-is-set-aside-as-paris-courtfinds-that-the-tribunal-lacked-jurisdiction/.
+91
+Michael Waibel, “Oil Exploration Around the Falklands (Malvinas),” EJIL Talk, 13 August 2012, accessed 27 March 2021, https://www.ejiltalk.org/oil-exploration-around-the-falklands-malvinas/.
+92
+Legal Consequences of the Construction of a Wall in the Occupied Palestinian Territory, Advisory
+Opinion, ICJ Reports 2004, para. 113; Armed Activities on the Territory of the Congo (DRC v Uganda), ICJ
+Reports 2005, paras 216–17
+93
+Benatar and Schatz, “The Protection of Foreign Investments”, 198; Violeta Moreno-Lax, “The Archi87
+88
+
+18
+
+Foreign Investment in Disputed Maritime Areas
+
+VII. THE PROTESTING STATE AS AN INDISPENSABLE
+PARTY TO THE INVESTOR-(HOST)-STATE DISPUTE?
+A. THE MONETARY GOLD PRINCIPLE
+The tribunal’s task of determining whether the host state exercised its
+sovereignty or jurisdiction over the supposed disputed maritime area ‘in
+accordance with international law’ could prejudice to maritime sovereignty of
+a third state. As a result, an additional jurisdictional hurdle regarding ratione
+personae arises. The Monetary Gold, an indispensable party principle, was
+established in the ICJ’s case law94 and is applicable in international dispute
+settlement.95 It prohibits international courts and tribunals from deciding a
+case between two parties amenable to its jurisdiction.96 This is because the
+legal interests of a third state would be affected by a merit judgment, forming
+the subject matter of the case. On the contrary, the principle applies to
+prerequisite determinations in situations requiring the court to determine the
+legality of a third state’s conduct or legal position before determining the case
+in the court.97
+Investment tribunals dealing with objections based on the Monetary principal
+objections do not confirm their applicability in investment arbitration.98 Based
+on the SCS, the tribunal may establish incidental jurisdiction over disputed
+maritime areas. Also, it may decide on the ‘in accordance with international
+law’ requirement in the BIT’s definition of territory. However, this would
+constitute a determination of another third state’s legal position regarding
+territorial sovereignty, maritime delimitation, or entitlements. Consequently,
+the tribunal would have to decline jurisdiction over the investment dispute.99
+B. AMICUS CURIAE PARTICIPATION
+Although the tribunal may side-step the question of maritime sovereignty,
+the protesting state may still appear before the tribunal as a non-disputing
+party (concerning the investor-state dispute) or an amicus curiae. Article 37
+tecture of Functional Jurisdiction: Unpacking Contactless Control—On Public Powers, S.S. and Others v.
+Italy, and the ‘Operational Model,’” German Law Journal 21, no. 3 (2020): 385. doi:10.1017/glj.2020.25.
+94
+Hugh Thirlway, The Law and Procedure of the International Court of Justice: Fifty Years of Jurisprudence (Oxford, United Kingdom: Oxford University Press, 2013) 715 et seq; 1658 et seq.
+95
+Ori Pomson, “Does the Monetary Gold Principle Apply to International Courts and Tribunals Generally?”, Journal of International Dispute Settlement 10, No. 1 (2019): 88, https://doi.org/10.1093/jnlids/
+idz001.
+96
+Monetary Gold Removed from Rome in 1943 (Italy v France, UK, and USA) (Preliminary Question) ICJ
+Report 1956, para 32.
+97
+Malcom N Shaw, Rosenne’s Law and Practice of the International Court: 1920–2015, Volume 1 (Leiden,
+Netherlands: Brill/Nijhoff, 2015), 568.
+98
+Benatar and Schatz, “The Protection of Foreign Investments,” 193.
+99
+Ibid., 94.
+
+19
+
+Anh Nguyen
+
+(2) ICSID Arbitration Rules and Article 5 UNCITRAL Transparency Rules
+allow the non-disputing party to file a submission regarding a matter within
+the dispute where it has a significant interest and provide the tribunal with a
+different perspective.
+Two notable examples of amicus curiae participation in investment
+arbitration were the EU Commission’s amicus curiae100 submissions in
+arbitrations to dispute the application of intra-EU BITs101 and Ukraine’s
+submission in the Crimea cases. The Commission stated that intra-EU BITs
+were incompatible with EU law because they constituted a parallel system
+overlapping with Single Market rules. Additionally, they entrusted disputes
+dealing with EU law to tribunals outside the mechanisms of dispute resolution
+in the TFEU. The EU’s position is essentially not different from one’s state,
+which objects to international tribunals deciding on sovereignty issues. In
+another amicus, Ukraine argued that the tribunal could accept jurisdiction
+without deciding on the status of Crimea.102 The SCS remains unclear how the
+protesting state, especially China, would strategically handle investor-state
+proceedings. It has a vested interest in an international tribunal not making any
+determinations on issues implicating its Nine-dash Line claims. This would be
+similar to Russia’s interest to prevent tribunals from making determinations
+on Crimea. However, in the SCS dispute, the potential protesting state may hit
+the host state with whom it is disputing over the maritime area with a foreign
+investment claim. This creates high fiscal exposures, with claims amounting
+to hundreds of millions or billions of dollars imposed. Consequently,
+this imposes a hefty burden on public budgets in the host state, especially
+developing economies, such as all SCS states.103 However, this cannot happen
+unless China or another state is confronted with an investment claim. The
+consideration was not open to Russia in the Crimea cases. From a political
+perspective, this might be the difference between China and Russia in the
+ISDS proceedings, implicating questions on their sovereign rights over
+disputed territory in their influence.
+
+Filipe G.T.S. Afonso, “The European Commission as Amicus Curiae of Arbitral Tribunals is it a Legitimate Relations,” Spain Arbitration Review 34, (2019): 113.
+101
+“Commission provides guidance on protection of cross-border EU investments,” EU Commission, last
+modified 19 July 2018, accessed https://ec.europa.eu/commission/presscorner/detail/en/MEMO_18_4529.
+102
+Hepburn and Kabra, “Investigation: Further Russia Investment.”
+103
+Directorate for Financial and Enterprise Affairs, Government perspectives on investor-state dispute
+settlement: a progress report (Organisation for Economic Co-operation and Development
+Investment Division, 2012), accessed 30 March 2021, https://www.oecd.org/daf/inv/investment-policy/
+ISDSprogressreport.pdf.
+100
+
+20
+
+Foreign Investment in Disputed Maritime Areas
+
+VIII. CONCLUSION
+The study adopted the current international law framework on foreign
+investments in disputed maritime areas to the South China Sea investments.
+The foreign investment activities in the region, BITs concluded by SCS states,
+and the disputed maritime areas between SCS states were also examined.
+The hotly contested status of the region makes it attract foreign investments,
+especially from the energy sector. For this reason, investors commit to highprofile and forward-looking ventures in the disputed SCS waters. Therefore,
+foreign investments are against the multilateral interstate maritime dispute
+on the overlapping maritime claims over contested waters and features,
+specifically the island groups. According to the BITs survey, the states include
+maritime areas beyond their territorial sea, including continuous zones,
+EEZ, and continental shelf, into their territorial scope of protection. In most
+cases, the BIT’s definition of territory requires states to exercise sovereignty,
+sovereign rights, and jurisdiction over these areas based on international law.
+This renvoi to rules of international law requires tribunals to decide Proprio
+motu on their jurisdiction. Furthermore, they should examine the territorial
+jurisdiction conferred to them by the BIT, though this requires decisions
+on maritime entitlements of sovereign states outside investment tribunals’
+jurisdiction ratione materiae. The problem of implicated issues significantly
+affects the assessment of territorial jurisdiction. By determining what
+constitutes as territory under the BIT, maritime entitlements are implicated by
+making decisions regarding disputed areas.
+This study also examined the rationale for tribunals to decline jurisdiction
+over the inside issue of territorial scope because of the implicated outside issue
+on maritime entitlements (the indispensable issues argument). It concluded
+that this may be the case de lege lata. However, de lege feranda there are
+rationales that support the tribunal’s acceptance of incidental jurisdiction
+over the outside issue as a necessary prior consideration for the inside issue
+of territorial scope (the incidental issues argument). The first rationale is the
+consideration of the political reality of the investor and host state making a
+calculated risk to invest in disputed waters of the SCS.
+The second rationale is the effective control, the approach taken by
+tribunals in the Crimea cases. They applied investment treaties to areas
+controlled by the host state. However, the area did not meet the strict notions
+of territory under international law. The third rationale is the extraterritorial
+application of investment treaties. This would allow the tribunal to address
+SCS states’ maritime entitlements without making direct determinations on
+these entitlements. Therefore, they would not be confronted with the Monetary
+21
+
+Anh Nguyen
+
+Gold or indispensable parties. Instead, the tribunals must only consider amicus
+curiae submissions from the protesting state as a non-disputing party to the
+investor-(host)-state dispute.
+
+22
+
+Foreign Investment in Disputed Maritime Areas
+
+BIBLIOGRAPHY
+Journal Articles
+Afonso, Filipe G.T.S. “The European Commission as Amicus Curiae of Arbitral
+Tribunals Is It a Legitimate Relations.” Spain Arbitration Review 34, (2019):
+113-128.
+Aziz, Muhammad Faiz. “Developing Joint Development Zone in Disputed Maritime
+Boundaries.” Indonesian Journal of International Law 15, no. 4 (2018): 432 448, http://dx.doi.org/10.17304/ijil.vol15.4.735
+Chinese Society of International Law. “The South China Sea Arbitration Awards: A
+Critical Study.” Chinese Journal of International Law 17, no.2 (2018): 207-248.
+Dupont, Pierre-Emmanuel. “Foreign Investment and the Status of Kosovo in
+International Law.” The Journal of World Investment & Trade 10, no. 6 (2019):
+937-957. doi: 10.1163/221190009X00051.
+Ermolina, Natalia. “Unilateral Hydrocarbon Activities in Undelimited Maritime
+Areas.” Indonesian Journal of International Law 15, no. 2 (2019): 156-189. doi:
+10.17304/ijil.vol15.2.724.
+Karavias, Markos. “Submarine Cables and Pipelines: The Protection of Investors
+Under International Law.” The Journal of World Investment & Trade 19, (2018):
+860-889. doi: 10.1163/22119000-12340113.
+Nguyen, Hong Thao. “Vietnam and Joint Development in the Gulf of Thailand.”
+Asian Yearbook of International Law 8, (2003): 137-150.
+Pomson, Ori. “Does the Monetary Gold Principle Apply to International Courts and
+Tribunals Generally?” Journal of International Dispute Settlement 10, 1 (2019):
+88–125. doi: 10.1093/jnlids/idz001.
+Putra, Bama Andika. “Comprehending Brunei Darussalam’s vanishing claims
+in the South China Sea: China’s exertion of economic power and the
+influence of elite perception.” Cogent Social Sciences7, (2021): 1-13. doi:
+10.1080/23311886.2020.1858563.
+Repousis, Odysseas G. “On Territoriality and International Investment Law: Applying
+China’s Investment Treaties to Hong Kong and Macao.” Michigan Journal of
+International Law 37, no.1 (2015): 113-189.
+Schreuer, Christoph. “Jurisdiction and Applicable Law in Investment Treaty
+Arbitration.” McGill Journal of Dispute Resolution 1, no. 1 (2014): 1-25.
+Sim, Christine. “Investment Disputes Arising out of Areas of Unsettled Boundaries:
+Ghana/Côte d’Ivoire.” The Journal of World Energy Law & Business 11, no.1
+(2018): 1-16. doi: 10.1093/jwelb/jwx033.
+Simma, Bruno. “Foreign Investment Arbitration: A Place for Human Rights?”
+International and Comparative Law Quarterly 60, no. 3 (2011): 573–596.
+doi:10.1017/S0020589311000224.
+de Tréglodé, Benoît. “Maritime Boundary Delimitation and Sino-Vietnamese
+Cooperation in the Gulf of Tonkin (1994-2016).” China Perspectives 3, (2016):
+33-41. doi: 10.4000/chinaperspectives.7030.
+Trevisanut, Seline and Nikolas Giannopoulos. “Investment Protection in Offshore
+Energy Production: Bright Sides of Regime Interaction.” The Journal of World
+Investment & Trade 19, (2018): 789-827. doi: 10.1163/22119000-12340111.
+Tzeng, Peter. “The Implicated Issue Problem: Indispensable Issues and Incidental
+
+23
+
+Anh Nguyen
+
+Jurisdiction.” New York University Journal of International Law & Politics 50,
+no. 2 (2018): 477-507.
+Tzeng, Peter. “Investment Protection in Disputed Maritime Areas.” The Journal
+of World Investment & Trade 19, (2018): 828-859. doi: 10.1163/2211900012340112.
+Wattimena, Josina A. Y. “Urgency of Boundary Maritime Management: Strategies to
+Prevent Conflict.” Indonesian Journal of International Law 15, no.1 (2017): 2946. doi: 10.17304/ijil.vol15.1.740.
+Books and Book Chapters
+Beckman, Robert. “International Law, UNCLOS and the South China Sea.” In
+Beyond Territorial Disputes in the South China Sea: Legal Frameworks for the
+Joint Development of Hydrocarbon Resources, edited by Robert Beckman, et. al.,
+47-90. Singapore: Edward Elgar, 2013.
+Benatar, Marco and Valentin J. Schatz. “The Protection of Foreign Investments in
+Disputed Maritime Areas.” In Investments in Conflict Zones, edited by Tobias
+Ackermann and Sebastian Wuschke, 176-208. Leiden: Brill/Nijhoff, 2020.
+Chin Leng Lim, Jean Ho and Martins Paparinskis, International Investment Law and
+Arbitration: Commentary, Awards and other Materials. Cambridge: Cambridge
+University Press, 2018.
+Collier, John and Vaughan Lowe. The Settlement of Disputes in International Law.
+New York: Oxford University Press, 1999.
+Eric De Brabandere, Investment Treaty Arbitration as Public International Law:
+Procedural Aspects and Implications. Cambridge: Cambridge University Press,
+2014.
+Harrison, James. “International Investment Law and the Regulation of the Seabed.”
+In The Law of the Seabed, edited by Catherine Banet, 481–502. Leiden: Brill/
+Nijhoff, 2020.
+Karagiannis, Syméon. “Art 29 1969 Vienna Convention.” In The Vienna Convention
+on the Law of Treaties: A Commentary, edited by Oliver Corten and Pierre
+Kleineds, 731-758. New York: Oxford University Press, 2008.
+Lorz, Ralph A. “Fragmentation and Consolidation and the Future Relationship
+Between International Investment Law and General International Law.” In
+Investment Law within International Law: Integrationist Perspectives, edited by
+Freya Baetens, 482-493. New York: Cambridge University Press, 2013.
+Markus, Beham P. “The Concept of ‘Territory’ in BITs of Disputing Sovereigns.”
+In Investments in Conflict Zones, edited by Tobias Ackerman and Sebastian
+Wuschke, 139-208. Leiden, Netherlands: Brill/ Nijhoff, 2020.
+Shaw, Malcolm N. International Law, Eighth Edition. New York: Cambridge
+University Press, 2017.
+Shaw, Malcom N. Rosenne’s Law and Practice of the International Court: 1920–
+2015, Volume I. Leiden, Netherlands: Brill/Nijhoff, 2015.
+Thirlway, Hugh. The Law and Procedure of the International Court of Justice: Fifty
+Years of Jurisprudence. Oxford: Oxford University Press, 2013.
+
+24
+
+Foreign Investment in Disputed Maritime Areas
+
+Legal Documents
+Aegean Sea Continental Shelf (Greece v Turkey), ICJ Reports 1978.
+Agreement between Denmark and Malaysia for the Mutual Promotion and Protection
+of Investments 1992 (signed 6 January 1992, entered into force 18 September
+1992).
+Agreement between Denmark and The Philippines regarding the Promotion and
+Reciprocal Protection of Investments 1997 (signed 25 September 1997, entered
+into force 19 April 1998).
+Agreement between Indonesia and Spain on Reciprocal Promotion and Protection of
+Investment 1995 (signed 30 May 1995, entered into force 18 December 1996).
+Agreement between Netherlands and Indonesia on Promotion and Protection of
+Investment 1994 (signed 6 April 1994, entered into force 1 July 1997).
+Agreement between Netherlands and Philippines for the Promotion and Protection of
+Investments 1985 (signed 27 February 1985, entered into force 1 October 1987).
+Armed Activities on the Territory of the Congo (DRC v Uganda), ICJ Reports 2005.
+Certain German Interests in Polish Upper Silesia (Germany v Poland), Preliminary
+Objections, PCIJ Reports 1925.
+Chagos Marine Protected Area (Mauritius v United Kingdom), PCA Case No 201103, Award (18 March 2015).
+China. Laws on the Territorial Sea and the Contiguous Zone, Order No. 55 of 1992.
+Convention on the Settlement of Investment Disputes between States and Nationals
+of other States, UNTS 575 (open for signature 18 March 1965, entered into force
+14 October 1966)
+Convention on the Settlement of Investment Disputes Between States and Nationals
+of Other States. 575 UNTS 159 (entered into force 14 October 1966).
+Dispute Concerning Coastal State Rights in the Black Sea, Sea of Azov, and Kerch
+Strait (Ukraine v. the Russian Federation), PCA Case No 2017-06, Award on
+Preliminary Objections (21 February 2020).
+Investment Protection Agreement between France and Vietnam 1992 (signed 26 May
+1992, entered into force 10 August 1994).
+Legal Consequences of the Construction of a Wall in the Occupied Palestinian
+Territory, Advisory Opinion, ICJ Reports 2004,
+Monetary Gold Removed from Rome (Italy v France, UK, and USA), Preliminary
+Question, ICJ Report 1956.
+Oil Platforms (Iran v United States), ICJ Reports 2003.
+Oil Platforms (Iran v United States), Separate Opinion Buergenthal, ICJ Reports 2003.
+Oil Platforms (Iran v United States), Separate Opinion Judge Higgins, ICJ Reports
+2003.
+South China Sea (Philippines v China), PCA Case No 2013–19, Award (12 July 2016).
+Sovereignty over Pedra Branca/Pulau Batu Puteh Middle Rocks and South Ledge
+(Malaysia/Singapore), ICJ Report 2008.
+The United States. Standards for Reformulated and Conventional Gasoline, AB-19961, Report of the Appellate Body 1996.
+United Nations Commission on International Trade Law, UNCITRAL Rules on
+Transparency in Treaty-based Investor-State Arbitration, A/31/98 (1 April 2014).
+
+25
+
+Anh Nguyen
+
+United Nations Convention on the Law of the Sea. UNTS 397 (open for signature 10
+December 1982, entered into force 16 November 1994).
+Vienna Convention on the Law of Treaties. 1155 UNTS 331 (opened for signature 23
+May 1969, entered into force 27 January 1980).
+Others
+British Institute of International and Comparative Law. Report on the Obligations
+of States under Articles 74(3) and 83(3) of UNCLOS in respect of Undelimited
+Maritime Areas. London, United Kingdom: BIICL, 2016.
+Teguh Rahat Prabowo et. al, “A new idea: The possibilities of offshore geothermal
+system in Indonesia marine volcanoes,” in The 6th ITB International Geothermal
+Workshop Conference Series: Earth and Environmental (IIGW2017) 22–23
+March 2017 (Bandung, Indonesia: IOP Publishing, 2017), 5, doi: 10.1088/17551315/103/1/012012
+United Nations Economic and Social Commission for Asia and the Pacific. Foreign
+Direct Investment Trends and Outlook in Asia and the Pacific 2019/2020. New
+York, United States: UNESCAP, 2020.
+International Hydrographic Organization, Limits of Oceans and Seas, Third Edition.
+Monte Carlo, Monaco, 1953.
+UNCTAD.Bilateral investment treaties 1995-2006: Trends in Investment Rulemaking.
+Geneva, Switzerland: UNCTAD, 2006.
+International Energy Agency, Offshore Energy Outlook 2018 Report, accessed 22
+March 2021, https://www.iea.org/reports/offshore-energy-outlook-2018.
+Web Sources
+Centre for Strategic and International Studies. “South China Sea Energy Exploration
+and Development.” Accessed on 23 March 2021, https://amti.csis.org/southchina-sea-energy-exploration-and-development/.
+Charlotin, Damien, Lisa Bohmer, and Luke E. Peterson. “Russia Disputes Roundup: An update on 19 Treaty- Based Arbitrations Against the State.” Investment
+Arbitration Reporter. Accessed 17 May 2020, https://www.iareporter.com/
+Articles/russia-round-up-an-update-on-19-treaty-based-arbitrations-against-thestate/.
+Charlotin, Damien. “Crimea-Related 1 Billion USD Award Against Russia is Set
+Aside, as Paris Court Finds that the Tribunal Lacked Jurisdiction.” Investment
+Arbitration Reporter. Accessed 17 May 2020, https://www.iareporter.com/
+Articles/crimea-related-1-billion-usd-award-against-russia-is-set-aside-as-pariscourt-finds-that-the-tribunal-lacked-jurisdiction/.
+Charlotin, Damien. “Russia Fails to Set Aside Two Crimea-Related Awards at Swiss
+Seat.” Investment Arbitration Reporter. Accessed 17 May 2020, https://www.
+iareporter.com/articles/russia-fails-to-set-aside-two-crimea-related-awards-atswiss-seat/.
+Crisis Group. “Stirring up the South China Sea (IV): Oil in Troubled Waters.” 27
+January 2016. Accessed 30 March 2021, https://medium.com/@CrisisGroup/
+stirring-up-the-south-china-sea-iv-oil-in-troubled-waters-7d4b7286aac0.
+Daiss, Tim. “Headwinds Remain for Malaysia’s Natural Gas Ambitions.” Rigzone,
+
+26
+
+Foreign Investment in Disputed Maritime Areas
+
+15 March 2021. Accessed 22 March 2021, https://www.rigzone.com/news/
+headwinds_remain_for_malaysias_natural_gas_ambitions-15-mar-2021164880-Article/.
+Daniel, Saul and Audrey Lim. “Can foreign investment in Indonesia’s upstream oil
+and gas sector live up to expectations?” ASEAN Business, 19 October 2020.
+Accessed on 31 March 2021, https://bit.ly/3mkyKfy.
+EU Commission. “Commission provides guidance on protection of cross-border
+EU investments.” Last modified 19 July 2018. Accessed https://ec.europa.eu/
+commission/presscorner/detail/en/MEMO_18_4529.
+Evans, Damon. “Eni strikes one of the biggest gas finds in Southeast Asia for 20
+years.” Energy Voice, 30 July 2020. Accessed 30 March 2021, https://www.
+energyvoice.com/oilandgas/asia/255731/eni-gas-find-vietnam/.
+Exxon Mobil. “Ca Voi Xanh Project Overview.” Accessed 30 March 2021, https://
+exxonmobil.co/3ui56Km.
+Hayton, Bill. “China’s Pressure Costs Vietnam $1 Billion in the South China Sea.”
+The Diplomat, 20 July 2020. Accessed 30 March 2021, https://thediplomat.
+com/2020/07/chinas-pressure-costs-vietnam-1-billion-in-the-south-china-sea/.
+Hepburn, Jarrod and Ridhi Kabra. “Investigation: Further Russia Investment Treaty
+Decisions Uncovered, Offering Broader Window into Arbitrators’ Approaches
+to Crimea Controversy.” Investment Arbitration Reporter, 17 November 2017.
+Accessed 31 May 2018, www.iareporter.com/Articles/investigation-furtherrussia-investment-treaty-decisions-uncovered-offering-broader-window-intoarbitrators-approaches-to-crimea-controver- sy/.
+Massola, James and Amilia Rosa. “Natuna chief urges Australia to invest, says Chinese
+aid not welcome.” The Sydney Morning Herald, 26 June 2020. Accessed 23
+March 2021, https://www.smh.com.au/world/asia/natuna-chief-urges-australiato-invest-says-chinese-aid-not-welcome-20200610-p551e7.html.
+Petronas. “Petronas And Petrovietnam Extend PM3 CAA Production Sharing
+Contract.” 9 May 2016. Accessed 23 March 2021, https://www.petronas.com/
+media/press-release/petronas-and-petrovietnam-extend-pm3-caa-productionsharing-contract.
+Reed, John and Kathrin Hille. “Philippines to restart oil and gas exploration in the
+South China Sea.” Financial Times, 18 October 2020. Accessed 22 March 2021,
+https://www.ft.com/content/b361afe9-9aa2-461a-b8ea-d8fc8850ddfa.
+Reuters. “Vietnam city says approves LNG project to be developed by Exxon Mobil.”
+2 October 2020. Accessed 23 March 2021, https://www.reuters.com/Article/usvietnam-exxon-mobil-lng-idUSKBN26N1KZ.
+Saipem. “FEED for Ca Voi Xanh Project.” Accessed 30 March 2021, https://www.
+saipem.com/en/projects/feed-ca-voi-xanh-project.
+Schreuer, Christoph. “Investment Disputes.” Max Planck Encyclopedia of Public
+International Law, May 2013. Accessed 23 March 2021, https://opil.ouplaw.com/
+view/10.1093/law:epil/9780199231690/law-9780199231690-e517?prd=EPIL,
+The Council on Foreign Relation’s Global Conflict Tracker. “Territorial Disputes in
+the South China Sea.” Accessed 31 March 2021, https://on.cfr.org/35aWt9U.
+The Star Malaysia. “Hanoi and KL reach broad understanding on sea claims.” 2 June 2009.
+Accessed 25 March 2021, https://web.archive.org/web/20121009010400/http://
+thestar.com.my/news/story.asp?file=/2009/6/2/-nation/4029224&sec=nation.
+
+27
+
+Anh Nguyen
+
+UN Division for Ocean Affairs and the Law of the Sea. “Outer limits of the continental
+shelf beyond 200 nautical miles from the baselines: Joint submission by Malaysia
+and the Socialist Republic of Viet Nam.” Last modified 3 May 2011. Accessed
+30 March 2021 https://www.un.org/Depts/los/clcs_new/submissions_files/
+submission_mysvnm_33_2009.htm.
+Waibel, Michael. “Oil Exploration Around the Falklands (Malvinas).” EJIL Talk, 13
+August 2012. Accessed 27 March 2021, https://www.ejiltalk.org/oil-explorationaround-the-falklands-malvinas/.
+Wirth, Christian. “Antagonisms in the South China Sea: The Regional Perspective.”
+Global Challenges, February 2017. Accessed 22 March 2021, https://
+globalchallenges.ch/issue/1/antagonisms-in-the-south-china-sea-the-regionalperspective/.
+Yeap, John “Phlippines allows 100% foreign investment in geothermal project.”
+Pinsent Masons, 11 November 2020. Accessed 23 March 2021, https://www.
+pinsentmasons.com/out-law/news/philippines-allows-foreign-investment-ingeothermal-projects.
+Zhen, Liu. “What’s China’s ‘nine-dash line’ and why has it created so much tension in
+the South China Sea?” South China Morning Post,12 July 2016. Accessed on 31
+March 2021, https://bit.ly/3nWLWYb.
+
+28
+
+Foreign Investment in Disputed Maritime Areas
+
+ANNEX
+All the surveyed BITs can be found on UNCTAD’s International Investment Agreements Navigator on Investment Policy Hub.
+
+I. SURVEY OF “COASTAL STATE - SCS COASTAL STATE”
+BITS
+This survey considered any state with a coastline, i.e. access to open
+adjacent sea or ocean.
+Category 1: explicit reference to EEZ (cat1)
+Category 2: explicit reference to the continental shelf (cat2)
+Category 3: implicit reference to EEZ or CS, by referencing maritime
+zones (including seabed, subsoil) beyond a state’s maritime belt (beyond
+the “territorial seas”, “adjacent seas”, “coast”), over which a state exercises
+resource explorations and exploitation rights (cat 3)
+Category 4: general reference to maritime zones, over which the state has
+sovereign rights and jurisdiction (cat4)
+
+29
+
+Australia
+
+Argentina
+
+No BIT
+
+No BIT
+
+Brunei
+
+Art I(g): cat2,
+cat4
+
+Art 1(5): cat4
+
+China
+
+Art I(1)(B)(d):
+cat2, cat4, ref to
+UNCLOS
+
+Art 1(4): with
+respect to
+Argentina’s’
+territory: cat
+4; with respect
+to Indonesia’s
+“territory”: cat4
+ref to UNCLOS
+
+Indonesia
+
+Art 1.2.(x)
+of AustraliaMalaysia-FTA:
+cat1, cat2, cat4,
+ref to UNCLOS
+
+Art 1(d): cat4
+
+Malaysia
+
+Art 2(2): cat1, cat2
+
+Art I(5): with respect
+to Argentina’s territory
+cat4, with respect to the
+Philippines’s ref to its
+Constitution, which includes
+its territorial seas and
+maritime zones beyond
+
+The Philippines
+
+Art 1(f): cat2, cat4
+
+Art 1(5): cat4
+
+Vietnam
+
+Anh Nguyen
+
+30
+
+No BIT
+
+No BIT
+
+France
+
+No BIT
+
+Chile
+
+Denmark
+
+No BIT
+
+Canada
+
+Brunei
+
+31
+Art 1(4): with
+respect to
+Denmark’s’
+territory: cat
+4; with respect
+to Indonesia’s
+“territory”: cat2,
+ref to UNCLOS
+
+Art I(3): cat2,
+cat4
+
+No BIT
+
+Indonesia
+
+Art 1(5): with
+respect to
+Denmark’s
+territory cat4,
+but to Malaysia’s
+territory, only
+“land territory
+and the territorial
+sea”
+
+Art1(e): cat1,
+cat2, cat4
+
+No BIT
+
+Malaysia
+
+Art I(6): cat1, cat2
+
+Art I(3): cat1, cat2
+
+Art I(k): with respect to
+Canada’s “territory” cat3, ref
+to Philippines’ Constitution
+
+The Philippines
+
+Art 1(4), Art 2: No definition of No definition of Art 1 (5): cat1, cat2, cat4
+cat4
+territory
+territory
+
+Art1(5): cat4
+
+Art 1(4): cat4
+
+Art 1(22):
+with respect
+to Canada’s
+“territory”:
+cat1, cat2, ref
+to UNCLOS;
+with respect to
+China’s territory
+cat 4
+
+China
+
+Art 1(5), Art 3. cat4
+
+Art 1(4): cat4
+
+Art 1(3): cat4
+
+No BIT
+
+Vietnam
+
+Foreign Investment in Disputed Maritime Areas
+
+No definition of Art 1(6): cat4, ref Art 1(4): cat4
+territory, but in to UNCLOS
+the Protocol to
+the BIT, Ad Art
+2: explicit reference to inclusion
+of cat1, cat2
+
+No BIT
+Art 1(4): cat4
+
+No BIT
+
+No BIT
+
+No definition of No BIT
+territory
+
+Italy
+
+The Philippines
+
+No BIT
+
+Malaysia
+
+Greece
+
+Indonesia
+
+Art 1(2): cat1, No definition of No definition of No definition of No definition of territory
+territory
+ca12
+territory, but in territory
+the Protocol to
+the BIT, Ad Art
+2: explicit reference to inclusion
+of cat1, cat2
+
+China
+
+Germany
+
+Brunei
+
+No definition of
+territory, but in the
+Protocol to the BIT,
+Ad Art 3: ref to cat
+4
+
+Art I(4): cat4
+
+No definition of
+territory
+
+Vietnam
+Anh Nguyen
+
+32
+
+Japan
+
+India
+
+China
+
+Indonesia
+
+Art 2(a) Ja- No definition of No BIT
+p a n - B r u n e i territory
+Agreement on
+Economic Partnership: cat4
+
+Art 1(f): cat1, Art 1(d): cat1, Art 1(4): with
+cat2
+cat2, ref to UN- respect to InCLOS
+dia’s “territory”
+cat1, cat2, ref to
+UNCLOS; with
+respect to Indonesia’s “territory”
+ref to its national
+law
+
+Brunei
+
+No BIT
+
+Art 1(1)(f): with
+respect to India’s
+territory
+cat1, cat2, ref to
+UNCLOS but to
+Malaysia’s territory, only “land
+territory and the
+territorial sea”
+
+Malaysia
+
+Vietnam
+
+No BIT
+
+Art 1(3), cat1, cat2
+
+Art 1(6): with respect to In- Art 1(f): cat1, cat2,
+dia’s territory cat1, cat2, ref to ref to UNCLOS
+UNCLOS, ref to Philippines
+Constitution
+
+The Philippines
+
+Foreign Investment in Disputed Maritime Areas
+
+33
+
+No BIT
+
+The Nether- No BIT
+lands
+
+Morocco
+
+Brunei
+
+Indonesia
+
+The Philippines
+
+Art 1(1)(d): with No BIT
+respect to Morocco’s territory cat3
+but to Malaysia’s
+territory,
+only
+“land
+territory
+and the territorial
+sea”
+
+Malaysia
+
+Art 1(v): cat2, Art 1(4): with No definition of Art 1(a): cat4
+cat4
+respect to The territory
+Netherlands’ territory: cat 4; with
+respect to Indonesia’s “territory”:
+cat2, ref to UNCLOS
+
+Art 1(4): cat3, Art
+I
+(5):
+cat4
+with
+respect
+to
+Morocco’s
+“territory”:cat3;
+with respect to
+Indonesia’: ref to
+national law
+
+China
+
+Art 1 (c): cat4
+
+Art 1 (4): cat3, cat4
+
+Vietnam
+
+Anh Nguyen
+
+34
+
+No BIT
+
+No BIT
+
+Art 1(2): cat4
+
+Saudi Arabia
+
+Singapore
+
+South Korea
+
+Brunei
+
+Indonesia
+
+Malaysia
+
+The Philippines
+
+35
+
+No definition of Art
+territory
+cat2,cat4,
+
+No BIT
+
+No definition of
+territory
+
+No BIT
+
+Vietnam
+
+1(6): Art 1(e): with Art 2(e): with respect to South Art 1 (4): cat4
+respect to South Korea’s “territory” cat4, ref to
+Korea’s territory Philippines’ Constitution
+cat4, but to Malaysia’s territory,
+only “land territory and the territorial sea”
+
+No definition of Not
+publicly No BIT
+territory
+available
+
+No definition of Not
+publicly Art 1(4): with Not publicly available
+territory
+available
+respect to Saudi
+Arabia’s territory
+cat4, but to Malaysia’s territory,
+only “land territory and the territorial sea”
+
+China
+
+Foreign Investment in Disputed Maritime Areas
+
+No BIT
+
+No BIT
+
+No BIT
+
+No BIT
+
+No BIT
+
+Spain
+
+Turkey
+
+UAE
+
+UK
+
+USA
+
+Brunei
+
+Indonesia
+
+Malaysia
+
+36
+
+No BIT
+
+No BIT
+
+No BIT
+
+Art 1(2): cat2, Art 1(e): cat4
+cat4
+
+Art 1(6): cat4
+
+No definition of Art I(4): cat4
+territory
+
+Art I (4): cat3, cat4
+
+Art 1 (2): cat1, cat2,
+
+The Philippines
+
+Art 1 (4): cat1, cat4
+
+Art 1 (4): cat4
+
+Art I(4), cat1, cat2
+
+Vietnam
+
+No BIT
+
+No BIT
+
+No BIT
+
+Art 1(5): generic Art I(2): ref to Constitution of Art 1 (e): cat4
+definition of ter- both parties
+ritory
+
+Art 1(6): only No BIT
+“land
+territory
+and the territorial
+sea”
+
+Art 1(d): cat4
+
+Art 1(4): cat1, Art I(4): with re- Art 1(4). cat4
+cat2
+spect to Spain’s
+territory
+cat1,
+cat2, : with respect to Indonesia: cat 4 ref to
+UNCLOS
+
+China
+
+Anh Nguyen
+
+No definition
+
+Bolivia
+
+37
+
+With reference to maritime zone
+
+Serbia
+
+Luxembourg
+
+No definition
+
+With reference to continental shelf
+
+Art (d)
+
+(*despite being land- Art 1 (5)
+locked, its coastline
+With reference to maralong the Caspian Sea
+itime zone
+is a likely drafting
+consideration)
+
+Kazakhstan
+
+Czech Republic
+
+No definition
+
+Austria
+
+Art 1 (4)
+
+Art 1 (d) Generic
+
+China
+
+Armenia
+
+Coastal SCS States //
+Landlocked States
+
+No BIT
+
+No definition
+
+No BIT
+
+The Philippines
+
+No definition
+
+With reference to continental shelf
+
+Art (d)
+
+No BIT
+
+With reference to maritime zone
+
+Art I (4)
+
+No BIT
+
+Art 1 (d) with refer- Art 1 (3)
+ence to the maritime
+Generic
+zone
+
+No BIT
+
+No definition
+
+No BIT
+
+Malaysia
+
+Art 1 (5) With reference to maritime zone No BIT
+and UNCLOS
+
+No BIT
+
+No BIT
+
+Art 1 (4) Generic
+
+No BIT
+
+No BIT
+
+No BIT
+
+Indonesia
+
+II. SURVEY OF “LAND-LOCKED STATE - SCS COASTAL STATE” BITS
+
+No BIT
+
+No definition
+
+With reference to maritime zone
+
+Art 1 (4)
+
+With reference to maritime zone
+
+Art 1 (4)
+
+No BIT
+
+No definition
+
+BIT not public
+
+Vietnam
+
+Foreign Investment in Disputed Maritime Areas
+
+No definition
+
+No BIT
+
+Art 1 (4) with reference to maritime zone
+
+Art 1 (4)With reference to maritime zone
+
+Switzerland
+
+Uganda
+No BIT
+
+No BIT
+
+No BIT
+
+Art I (4) Generic
+
+No BIT
+
+Art 1 (3) With reference to the maritime
+zone
+
+Anh Nguyen
+
+38
+
+

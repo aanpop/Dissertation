@@ -1,0 +1,822 @@
+Dự án Đại Sự
+Ký Biển Đông
+
+Digitally signed by Dự án Đại Sự Ký Biển
+Đông
+DN: cn=Dự án Đại Sự Ký Biển Đông,
+o=daisukybiendong.wordpress.com, ou,
+email=sukybiendong@gmail.com, c=DE
+Date: 2017.02.01 00:10:03 +01'00'
+
+OCEAN DEVELOPMENT & INTERNATIONAL LAW
+2017, VOL. 48, NO. 1, 17–34
+http://dx.doi.org/10.1080/00908320.2017.1265362
+
+When Good Lawyers Write Bad History: Unreliable Evidence and
+the South China Sea Territorial Dispute
+Bill Hayton
+Asia Programme, Chatham House, London, United Kingdom
+
+ABSTRACT
+
+ARTICLE HISTORY
+
+The recent award by an arbitral tribunal in a case brought by the
+Philippines against China gives lawyers reason to reexamine the
+historical evidence put forward by claimants in the South China Sea
+disputes. While the Tribunal was barred from considering territorial or
+boundary questions, it did cast doubt on the historical narrative rule
+that China has asserted in support of its claims. Fresh evidence from
+other sources also suggests that discussions of these matters need to
+move beyond arguments put forward in a small number of papers
+published more than thirty years ago. A close examination of the
+references used in those papers shows that they relied upon highly
+partisan Chinese sources. Recent historical research has produced new
+facts about the development of the competing territorial claims in the
+South China Sea, but international legal discourse has yet to take these
+ﬁndings into account. This article examines some of the key works in
+the ﬁeld and calls for them to be reassessed and for future discussion
+of the disputes to be based upon veriﬁable and contextualized
+evidence rather than on nationalist assertions.
+
+Received 18 July 2016
+Accepted 5 September 2016
+KEYWORDS
+
+Historic evidence; South
+China disputes; sovereignty
+claims
+
+Introduction
+The South China Sea disputes involve some of the most vexed interstate territorial arguments of the early twenty-ﬁrst century. The disputes involve competing territorial claims to
+rocks and reefs asserted by China (both the Republic of China and People’s Republic of
+China), Malaysia, the Philippines, Vietnam, and Brunei. These are complicated by further
+disputes over the maritime entitlements of certain features; the delimitation of maritime
+zones; and whether states can restrict the operation of military vessels in national waters.
+The disputes are particularly critical because of the strategic importance of the South
+China Sea to China, the United States, and other states. Some observers have calculated that
+more than $5 trillion worth of trade passes through the South China Sea each year.1 The
+area is also a vital transit route for military vessels between Asia, the Middle East, and
+Europe. In the eyes of many Western analysts, the South China Sea has also become a critical
+testing ground for China’s emergence as a great power. They regard China’s attitude to the
+
+CONTACT Bill Hayton
+bill@billhayton.com
+Asia Programme, Chatham House, 10 St James’s Square, London SW1Y
+4LE, United Kingdom.
+Color versions of one or more of the ﬁgures in this article can be found online at www.tandfonline.com/uodl.
+© 2017 Taylor & Francis Group, LLC
+
+18
+
+B. HAYTON
+
+1982 United Nations Convention on the Law of the Sea (UNCLOS)2 as a test of whether the
+country’s leadership will, in the future, follow the existing rules of the international system
+or challenge them.3
+In an effort to try to simplify the disputes, the Republic of the Philippines brought a
+case against the People’s Republic of China to an arbitral tribunal constituted under
+Annex VII of UNCLOS. While the tribunal was unable to rule on matters of territory
+or maritime delimitation, it did clarify the question of whether China could assert “historic rights” in the South China Sea. According to the Award, issued on 12 July 2016:
+“The Tribunal considers the text and context of the Convention to be clear in superseding any historic rights that a State may once have had in the areas that now form part
+of the exclusive economic zone and continental shelf of another State.”4 In other words,
+China has no claim to rights over the resources of the sea beyond those provided for in
+UNCLOS. This direct negation of the historic narrative that underpins China’s ambiguous maritime claim in the South China Sea should be a spur for a more critical reexamination of that narrative.
+The South China Sea disputes only began to take shape in the 1900s. While the modern
+claimants may assert earlier evidence in support of their cases, it is clear that there was no
+state-to-state dispute over any of the islands before the twentieth century. This article shows
+that the ﬁrst such dispute arose in early 1909 between Qing China and Japan over Pratas
+Island, following the discovery of a Japanese merchant engaged in mining guano there. This
+resulted in China buying out the merchant and Japan recognising China’s claim in late 1909.
+The episode also led China to stake a claim to at least some of the Paracel Islands in June
+1909.5 The dispute expanded in the 1920s and 1930s, with France, various Chinese authorities, and Japan pursuing competing claims initially in the Paracels and later the Spratly
+Islands.
+The history of the disputes is strongly disputed by the rival claimants, and this has
+affected academic analysis of the claims. The search for a clear narrative has been hindered
+by government secrecy, poor access to archives, and language barriers. Debate within the
+international law and international relations communities has suffered from a lack of
+engagement with other disciplines; in particular, the insights from historical research have
+been neglected. However, digitization has made many hitherto inaccessible archives easily
+available for the ﬁrst time, and it is now relatively simple for researchers to critically investigate previously asserted narratives.
+In attempting to understand the origins of the disputes, many legal writers have
+taken texts produced by one side or other in the early twentieth century to be proof of
+facts. This article argues that many of those texts should be better understood as
+attempts to create a claim rather than as proof of preexisting claims. In trying to come
+to a full understanding of the origins of the disputes it is necessary to remain skeptical
+of evidence put forward by all sides. This article shows, through detailed analysis of the
+references used in some of the key academic papers and comparison with the ﬁndings
+from recent historical research, that foundational references for discussion of the South
+China Sea within the international law communities have major evidential failings.
+These failings led those authors, “good lawyers,” to write “bad history”—accounts that
+are at odds with veriﬁable evidence. They have adopted unsupported arguments that
+owe more to nationalist wishful thinking than neutral consideration. This “bad history”
+has led them to a series of erroneous conclusions.
+
+OCEAN DEVELOPMENT & INTERNATIONAL LAW
+
+19
+
+The ﬁrst English-language analyses
+There was little or no English-language academic analysis of the South China Sea disputes
+before 1974. The ﬁrst writings appeared only after the “Battle of the Paracels” in January
+1974, when Chinese forces invaded the Vietnamese-occupied western half of the Paracel
+Islands. The ﬁrst legal works were written by Chinese academics working in the United
+States: Tao Cheng in the student-edited Texas International Law Journal in 1975,6 and
+Hungdah Chiu, who worked with his Korean colleague, Choon-Ho Park, on a paper published in this journal the same year.7 These papers are still inﬂuential today. Most subsequent
+legal works on the South China Sea disputes either refer to them directly or rely on works
+based upon them. Their signiﬁcance can be judged from the fact that a 2014 study of the
+South China Sea disputes produced by the U.S. Center for Naval Analyses, a federally funded
+research and development center in the United States, quoted Cheng 26 times and Chiu and
+Park more than 60 times.8
+In subsequent years, other academics joined the discourse—notably the German sinologist Dieter Heinzig9 and the American geographer Marwyn Samuels.10 These texts set the
+agenda for almost all the subsequent writing on the South China Sea disputes within the disciplines of political science, international relations, and international law. Google Scholar
+calculates that Chiu and Park’s paper has been cited by 79 others, and Samuels’s book by
+143. A second round of writing in the 1990s—following China’s occupation of six of the
+Spratly Islands in 1988 and of Mischief Reef in 1994—tended to use the earlier works as their
+main sources of historical background. Works that quote these authors include one by Brian
+Murphy from 199411 and those by Jianming Shen in 199712 and 200213, which are, in turn,
+quoted by 34 and 35 others, respectively, and by Chi-kin Lo, whose 1989 book14 is cited by
+111 other works. These references are probably the tip of the iceberg since some descendent
+works have been re-cited hundreds of times. For example, the 2014 book by Stefan Talmon
+and Jia Bing Bing on the case brought by the Philippines against China15 also ascribes key
+elements of historical evidence to references from all of the books and papers just decribed.
+What these texts all have in common is that they used, as their basic references, Chinese
+media articles that were published at times when discussion about the South China Sea was
+highly politicized. They were not works of historical scholarship but partisan assertions of
+claim with minimal referencing. Cheng’s 1975 paper16 relied primarily upon Chinese sources
+with additional information from U.S. news media. The most important were editions of the
+Shanghai-based Wai Jiao Ping Lun [Wai Chiao P’ing Lun] (Foreign Affairs Review) from
+1933 and 1934 and Xin Ya Xiya yue kan [Hsin-ya-hsi-ya Y€
+ueh-k’an] (New Asia Monthly)
+from 1935. These were supplemented by material from a 1974 edition of the Hong Kongbased news magazine Ming Pao Monthly. Other newspapers quoted included a 1933 edition
+of Guo Wen Zhou Bao [Kuo Wen Chou Pao] (National News Weekly), published in Shanghai, Renmin Ribao [Jen Ming Jih Pao] (People’s Daily), and the New York Times. Cheng did
+not reference any French, Vietnamese, or Philippine sources, with the exception of a 1933
+article from La Geographie that had been translated and reprinted in Wai Jiao Ping Lun.
+The 1975 paper by Hungdah Chiu and Choon-Ho Park17 relied upon similar sources. In
+crucial sections it quotes evidence based upon articles published in 1933 in Wai Jiao Ping
+ueh-pao] (Diplomacy Monthly),19 and Fan Zhi
+Lun18 and Wai Jiao Yue Bao [Wai-chiao y€
+Yue Kan [Fan-chih y€
+ueh-k’an] (Geography Monthly) from 1934,20 as well as Guo Wen Zhou
+Bao and the Chinese government’s own Wai Jiao Bu Gong Bao [Wai-chiao-pu kung-pao]
+
+20
+
+B. HAYTON
+
+(Gazette of the Ministry of Foreign Affairs).21 It supplements this information with material
+gathered by a geographer employed by the Republic of China Ministry of the Interior, Zheng
+Ziyue [Cheng Tzu-y€
+ueh], and published as Nanhai Zhudao Dili Zhilue [Nan-hai chu-tao ti-li
+chih-lū eh] (General Records on the Geography of Southern Islands) in 194722 and Republic of
+China government statements from 195623 and 1974.24
+Chiu and Park use some Vietnamese references, notably eight press releases or fact sheets
+provided by the Embassy of the Republic of Vietnam in Washington. They also refer to
+some “unpublished material in the possession of the authors.” However, the vast majority of
+their sources are from the Chinese media.
+Writing a year later, Heinzig25 relied, in particular, on editions of two Hong Kong-based
+publications published in the aftermath of the Paracels incident and written in support of
+China’s claim: Qishi Niandai [Ch’i-shih nien-tai] (Seventies Monthly) and Ming Bao [Ming
+Pao] Monthly,26 published in March and May 1974, respectively. The pattern set by Cheng,
+Chiu and Park, and Heinzig was then repeated in Marwyn Samuels’s book. Samuels himself
+acknowledges the Chinese bias of his sources in the book’s introduction, when he states:
+this is not a study primarily either in Vietnamese or Philippine maritime history, ocean policy
+or interests in the South China Sea. Rather, even as the various claims and counterclaims are
+treated at length, the ultimate concern here is with the changing character of Chinese ocean
+policy.27
+
+Compounding the issues, Samuels acknowledges that his Asian research was primarily in
+Taiwanese archives. However, crucial records relating to the Republic of China’s actions in
+the South China Sea in the early twentieth century were only declassiﬁed in 2008/2009, long
+after his work was published.28
+The context of these sources is critical. The year 1933 was when France formally annexed
+several features in the Spratly Islands—provoking widespread anger in China. The months
+after the French announcement, on 14 July 1933,29 was the point when Chinese intellectuals
+and government ofﬁcials began a concerted effort to try to deﬁne and establish evidence for
+a claim to the features in the South China Sea. In 1956 a Philippine businessman, Tomas
+Cloma, claimed most of the Spratlys for his own independent country of “Freedomland”—
+provoking counterclaims by the Republic of China, the People’s Republic of China, and the
+Republic of Vietnam; and 1974 was the year of the Paracels incident. Newspaper articles
+published during these three periods cannot be assumed to be neutral and dispassionate
+sources of factual evidence. Rather, they should be expected to be partisan advocates of particular national viewpoints. This is not to say they are incorrect, but it would be prudent to
+verify their claims with primary sources. This is not something that the authors just cited
+appear to have done.
+Over the past four decades, new sources of information about the history of the South
+China Sea have been tapped and new evidence has come to light. As a result, it is now clear
+that all the works mentioned in the preceding suffer from major problems. Although excellent lawyers, these authors were not good historians. They relied upon untrustworthy sources and failed to take the context and meaning of certain texts into account when they drew
+conclusions. Bad or incomplete history led to poor analysis. These problems were subsequently reproduced and propagated in many more analyses and to some extent have become
+the orthodox account of the development of the disputes. It is time that they were
+reexamined.
+
+OCEAN DEVELOPMENT & INTERNATIONAL LAW
+
+21
+
+Pre-nineteenth-century history
+There is not space here to cover all the claims the writers made about events before the nineteenth century. In summary, the accounts by Cheng, Chiu and Park, and Samuels share the
+common assumption that China was always the dominant naval, trading, and ﬁshing power
+in the South China Sea. Cheng, for example, writes: “It has been an important part of the sea
+route from Europe to the Orient since the 16th century, a haven for ﬁshermen from the
+Hainan Island, and the gateway for Chinese merchants from south China to Southeast Asia
+since earlier times.”30
+Recent empirically based histories of the South China Sea suggest the situation was much
+more complex. Works by the historians Leonard Blusse,31 Derek Heng,32 Pierre-Yves Manguin,33 Roderich Ptak,34 Angela Schottenhammer,35 Nicholas Tarling,36, and Geoff Wade
+and Li Tana37 have revealed a much more heterogeneous usage of the South China Sea in
+the premodern period. Chinese vessels and merchants played almost no role in seaborne
+trade until the 10th century, and even after that were never dominant but shared the area
+with Malays, Indians, Arabs, and Europeans. A recent paper by an expert maritime archaeologist, reviewing the history of discovered wrecks in the South China Sea and Southeast Asia,
+states:
+The Southeast Asians, in their lashed-lug ships, gained many centuries of knowledge of the
+islands and reefs in the South China Sea before other seafarers ventured into these waters.
+Towards the end of the ﬁrst millennium, Arab and Indian traders voyaged through the South
+China Sea, probably under the guidance of Southeast Asian pilots. It was not until the 11th century that Chinese junks took to the high seas to trade directly with Southeast Asian polities.38
+
+Evidence from Chinese navigational instructions from the 15th and 17th centuries demonstrate that Chinese vessels deliberately avoided the reefs and islands in the center of the
+South China Sea. For example, a Chinese manuscript from the early Ming period, Shun Feng
+Xiang Song [Shun Fê ng Hsiang Sung] (Fair Winds for Escort), contains sailing instructions
+for about 100 voyages between China and points in East and Southeast Asia. This is thought
+to have been composed around 1430, toward the end of the Ming Dynasty’s naval epoch.
+This was the era when several navigators, including the most famous, Zheng He, sailed from
+China as far as East Africa. The routes laid down in Shun Feng Xiang Song clearly show that
+navigators avoided the center of the sea both for safety and in order to visit trading ports
+along the coasts of what are now Vietnam, Malaysia, Brunei, and the Philippines.39 The
+recently rediscovered “Selden Map,” thought to have been drawn in either Southeast Asia or
+coastal China around 1620, shows almost exactly the same arrangement of routes. The chart,
+which covers most of East and Southeast Asia, is remarkably accurate in many respects but
+distorted by a lack of measurements in the center of the South China Sea.40
+Research by François-Xavier Bonnet41, Ulises Granados,42 and Stein Tonnesson43 shows
+how similar patterns persisted into the twentieth century. Contemporary accounts from the
+early twentieth century demonstrate that the Chinese state had great trouble controlling its
+own coast and was completely unable to project authority to islands hundreds of miles offshore. For example, the inability of the Chinese authorities to control piracy in the West
+River, inland from Canton/Guangzhou, prompted moves by the British authorities to establish their own patrols in early 1908.44 A 1909 article in the Australian newspaper The Examiner relates that foreigners (“two Germans, one Japanese, and several Malays”) had begun
+mining operations on Hainan Island without the authorities ﬁnding out until much later. It
+
+22
+
+B. HAYTON
+
+also records the presence of foreigners on the Paracels who had carved their names into
+trees.45 Empirically based histories demonstrate that until the mid twentieth century the
+South China Sea was essentially ungoverned, except for the occasional interventions of
+foreign powers against piracy.
+It was only in 1909, following the scandal surrounding the occupation of Pratas Island by
+a Japanese guano entrepreneur, Nishizawa Yoshiji, that the Chinese authorities became
+interested in the offshore islands.46 The discovery of his guano-mining venture on the island,
+in the context of antiforeigner feeling in China at the time, led to large-scale protests in several cities. Eventually, after consultations with the Japanese consul, the Chinese government
+paid Mr. Nishizawa 130,000 Canton silver dollars to abandon his activities and he handed
+the island over to Chinese control.47 The story was reported in detail throughout 1909 by
+the North China Herald, South China Morning Post, and Singapore-based Straits Times,
+among other sources.48
+
+Nineteenth- and twentieth-century evidence
+There is more to be written about sources for the pre-modern history of the South China
+Sea, but the remainder of this article focuses on particular episodes in the modern period,
+since the late nineteenth century, examining the assertions made in the papers under review
+and testing them against new evidence.
+
+The ambassador’s claim, 1876
+To demonstrate how assertions based on unreliable evidence have passed down through the
+literature, one need only examine what is sometimes said to be the earliest modern ofﬁcial
+act of administration of any of the disputed South China Sea islands. In their 1997 book
+Sharing the Resources of the South China Sea, Valencia, Van Dyke, and Ludwig state: “In
+1876, the ﬁrst formal act of a sovereignty claim was made, when China’s ambassador to England claimed the Paracel Islands as Chinese territory.”49 The authors reference a 1993 paper
+by Jon M. Van Dyke and Dale L. Bennett, which attributes the two claims to Samuels’s
+book.50 Samuels, in turn, attributes this to two articles published in Ming Pao Monthly in
+May 1974.51
+However, an examination of the journal of the ambassador, Guo Songtao, which was
+translated and published in English by J. D. Frodsham in 1974, tells a different story. The
+episode comes early in his Shi Xi Ji Cheng (Travel Notes of an Envoy to the West), which was
+written to inform the Chinese imperial court about life outside China. After leaving Hong
+Kong on a P&O steamer, the Travancore, he writes, “Not far away to port [the left] lay the
+P’ai-la-su [Paracel] Islands which produce sea slugs, and coral, though not of the best quality. These islands belong to China, but they are barren and uninhabited.”52 There are several
+things to note here. The most important is that this was an entry in the ambassador’s diary,
+not a formal diplomatic claim by a government. Second, he observes that the Paracels are
+uninhabited, and third, he uses a transliteration of the English name for the Paracels—
+because the modern Chinese name for the islands, Xisha, had not been coined at this point.
+Xisha (meaning West Sand) is a twentieth-century neologism. It also appears that everything
+he noted about the islands he learned from the passengers and crew of the Travancore, not
+
+OCEAN DEVELOPMENT & INTERNATIONAL LAW
+
+23
+
+from Chinese sources. Indeed, the fact that Guo felt it necessary to mention the existence of
+the islands suggests that the Qing court was not previously aware of their existence.
+The authors of the 1974 article in Ming Pao Monthly removed all these key elements of
+the passage from their text, thus changing its meaning entirely. The bowdlerized version was
+adopted by Samuels, and then Van Dyke and Bennett, and then Valencia et al., and deployed
+in support of China’s claim to the islands. A detailed examination of the text shows that it
+does not support the conclusions that have subsequently been drawn from it—that the
+Chinese government formally asserted a territorial claim to the Paracels in 1876.
+The protest against German surveys of the Paracel Islands, 1883
+According to Chiu and Park, “In 1883, the German government tried to survey the Spratly
+Islands, but stopped when China protested.”53 They attribute this to a statement by the
+Kuangtung [Guangdong] Provincial government in 1933, ﬁfty years after the events in
+question. The reference was Cho Min, “The Triangular Relationship Among China, France
+and Japan and the Question of Nine Islands,” published in Wai Jiao Yue Bao (Diplomacy
+Monthly), vol. 3, no. 3 (Peiping [Beijing], September 15, 1933), p. 82, note 4.
+It is clear from contemporary archive sources that the statement is erroneous. German
+records show that the two naval ships, SMS Freya and SMS Iltis, were not engaged in surveying the Spratly Islands. They were surveying the Paracels. At the time, Germany was looking
+for potential coaling stations for its embryonic East Asian empire. The Freya and Iltis surveyed the islands for three months a year between 1881 and 1883. A Chinese source referenced by the French historical geographer Francois-Xavier Bonnet attests that they did so
+without either seeking the permission of or incurring protest by the Chinese government.54
+The German Admiralit€at subsequently published, in 1885, a detailed and comprehensive
+chart of the Paracels,55 which was copied and republished in the same year by the British
+and French hydrographic services.56 There is no contemporary evidence that the German
+surveyors changed their plans because of objections from the Chinese authorities. The claim
+that an 1883 protest was an assertion of Chinese sovereignty over the Spratly Islands is not
+supported by any archival evidence.
+The Sino–French convention, 1887
+According to Chiu and Park:
+After Vietnam (Annam) became a protectorate of France in 1884, a Convention respecting the
+Delimitation of the Frontier between China and Tonkin (Vietnam) was signed on June 26,1887.
+Article 3 of the Convention provided:
+Au Kouang-Tong…. Les ^ıles qui sont a Test de meridien de Paris 105 43, de longitude est,
+c’est-a-dire de la ligne nord-sud passant par la pointe orientale de l’^ıle de Tch’a Kou ou Ouanchan (Tra-co) et formant la frontiere sont egalement attribuees a la Chine. Les ^ıles Gotho et les
+autres ^ıles qui sont a l’ouest du ce meridien appartiennent a 10 Annam.
+Chinese government spokesmen and independent writers have on a number of occasions
+pointed out that both the Paracels and the Spratlies [sic] lie east of the delimitation line as provided in the 1887 Convention and are therefore Chinese territory.57
+
+The references provided are accounts from 50 or even 70 years after the events: Shao
+Hsun-cheng, “Chinese Islands in the South China Sea” People’s China, no. 13 (Peking,
+
+24
+
+B. HAYTON
+
+Figure 1. The map attached to the 1887 Sino–Tonkin Convention showing the maritime boundary extending from the mouth of the Beilun River into the Tonkin Gulf. Note the extremely large scale. The islands
+referred to are approximately 600 meters offshore. It is clear that this agreement was never intended to
+apply to islands in the South China Sea.
+
+1956), p. 26 (Spratly Islands); Lu Tung-ya, “What [We] Should Know About the Hsisha
+Islands,” Wai Jiao Ping Lun (The Foreign Affairs Review), Shanghai, vol. 2, no. 10 (October
+1933), pp. 64–65 (Paracel Islands); and the note from the Republic of China legation to the
+French government dated July 26, 1932, in Wai Jiao Bu Gong Bao, vol 6, no. 3 (July–
+September 1933), p. 208.
+However, the map attached to the 1887 Sino-French Convention shows that the delimitation could not have been intended to refer to any islands beyond those immediately adjacent
+to the coast of Tonkin. The map (see Figure 1) is of such large scale that it is clearly intended
+only to illustrate the drawing of the boundary in the mouth of the Beilun/Ka Long river. It
+extends no further than Tra Co island, which lies just 600 meters offshore. There is no indication that the cartographer intended the map to have any meaning further south. Indeed,
+this was the conclusion the Chinese and Vietnamese negotiators came to when they agreed
+to their maritime boundary in the Gulf of Tonkin in 2000.58
+1902 Chinese expedition to the Paracel Islands
+Several authors, following Chiu and Park, have asserted that Chinese authorities made a
+voyage to the Paracel Islands in 1902.59 Again, this is not supported by the contemporary
+evidence. Chiu and Park state that
+
+OCEAN DEVELOPMENT & INTERNATIONAL LAW
+
+25
+
+Recently a Hong Kong magazine published a photograph, presumably supplied by the PRC,
+showing a stone marker on an islet of the Paracels. The Chinese inscription on it says ‘Hs€
+unyueh chi-nien’ [In commemoration of inspection], and is dated 1902 (Ch’i-shih nien-tai [The
+Seventies], no. 3 [March 1973], p.39). The exact year of this inspection cannot be determined by
+the authors.60
+
+However, a survey of contemporaneous newspapers ﬁnds no mention of a voyage to the
+islands in 1902. In fact, information from Chinese archives demonstrates that evidence of a
+Chinese expedition to the Paracels in 1902 was faked by an expedition 35 years later, in June
+1937. François-Xavier Bonnet found an account of that mission written by its commander,
+the chief of Chinese Administrative Region Number 9, Huang Qiang.61 His role was partly
+to check whether there was Japanese activity in the islands, but he had another mission
+too—which a secret annex to his report makes clear. An excerpt of the annex was published
+in Chinese in 1987 by the Committee of Place Names of Guangdong Province.62 Huang
+Qiang’s boat was loaded with 30 stone markers taken from sites on the mainland, some
+dated 1902, others 1912, and others 1921. On North Island, they buried two markers from
+1902 and four from 1912; on Lincoln Island, the team buried one marker from 1902, one
+from 1912, and one from 1921; and on Woody Island, two markers from 1921. Finally, on
+Rocky Island, they deposited a single marker, dated 1912. The markers were forgotten until
+1974 when, after the Paracels incident, they were found and the “discovery” was trumpeted
+in Hong Kong newspapers, such as Ming Pao Monthly and the English-language Hong Kong
+Standard.63 The nonexistent 1902 expedition then entered the history books. Only recently
+has the story been discredited.64
+The ﬁrst ofﬁcially documented Chinese expedition to the Paracels thus far discovered
+took place in 1909. According to the account of the Chinese commander who led the voyage,
+Admiral Li Zhen [Li Chun], it was prompted by the discovery of the Japanese entrepreneur,
+Mr. Nishizawa, on Pratas. It was only after Admiral Li traveled to Pratas that he learned of
+the existence of the Paracels, far to the west. After this expedition, plans were made by the
+Guangdong provincial authorities to formally claim the Paracels. This was carried out during
+a brief three-day visit to the islands in June 1909, the ﬁrst recorded ofﬁcial assertion of
+authority made there by any Chinese government.65
+There is some confusion about the year of this expedition, with several sources asserting
+that it took place in 1907.66 This appears to be a mistake based upon the versions of the
+account of Admiral Li that were published in Chinese newspapers in 1933 (see later discussion). These asserted that the year of the expedition was 1907. However, examinations of
+contemporary sources—editions of the South China Morning Post and other newspapers—
+show no evidence of an expedition in 1907, only in 1909.
+
+China’s protest to France against the French annexation of several of the Spratly
+Islands, 1933
+An argument that is key to China’s claim to the Spratlys is the oft-repeated assertion that the
+Republic of China made a formal protest to the government of France following the latter’s
+annexation of several features in the Spratly Islands in July 1933.67 It is true that the annexation provoked consternation in government and nationalist anger among the Chinese public. But was a formal protest ever lodged?
+
+26
+
+B. HAYTON
+
+Cheng references an article in Xinya Xiya Yuekan [Hsin-ya-hsi-ya ’y€
+ueh kan] (New Asia
+68
+Monthly) from two years later, 1935. Chiu and Park state in a footnote that “there is proof
+that China also protested.”69 They reference an article in Wai Jiao Yue Bao (Diplomacy
+Monthly) by Cho Min,70 and the 1947 book by Zheng Ziyue, Nanhai Zhudao Dili Zhilue.71
+However, they concede that
+The date of the Chinese note was not reported in Cheng’s book, nor is it mentioned in the
+‘Memorandum on Four Large Archipelagoes of the Republic of China in South Sea,’ issued by
+the ROC Ministry of Foreign Affairs in February 1974. See Lien-ho-pao [United daily news],
+overseas edition, February 25, 1974, p. 3.72
+
+There are no mentions of a formal protest being issued in the pages of the Chineselanguage, Shanghai-based Shen Bao [Shun Pao] newspaper during July–September 1933 and
+no author has been able to cite a reference to a protest document in any government
+archives. Although it is impossible to completely prove a negative, it seems much more likely
+that no ofﬁcial protest was ever delivered to France by the Chinese government. All there is
+on record are statements of a possible intention to issue a protest. According to Chiu and
+Park, “On August 4, 1933, the ROC government notiﬁed the French government that, pending a thorough investigation of the matter, it ‘reserved its rights’ with respect to the said
+French occupation.”73 Chiu and Park’s source is very contemporary—an edition of Wai Jiao
+Bu Gung Bao (Gazette of the Ministry of Foreign Affairs), vol. 6, no. 3 (July-September 1933),
+p. 219. This source is, indeed, correct. But it only mentions the Chinese government “reserving its rights” while it considers how to respond. There is no mention of a 1933 protest in
+relation to the Spratlys, only a 1932 protest relating to the Paracels.
+However, other contemporary newspaper reports and archives reveal a more complex
+history. At the time there was a rival government in China, known as the Southwest Political
+Council, based in Guangdong Province. According to the historian John Hunter Boyle:
+Embracing the provinces of Kwantung and Kuangsi, the Southwest Political Council was nominally an arm of the Nanking Government. Its armies were likewise nominally a part of the
+National Army, but in fact the authority of Nanking reached the southwestern provinces only
+to the extent that the self-appointed leaders of the Southwestern Political Council tolerated it.
+In all except name it was a separatist regime. … The regime in the south could, and did, embarrass the Central Government by condemning its temporizing policies toward Japan.74
+
+The Council was at odds with the central government in Nanjing over many issues,
+notably over how to respond to alleged infringements of Chinese sovereignty by Japan
+and other powers. It is clear from contemporaneous reports in Shen Bao and the
+English-language North China Herald (the principal English-language newspaper published in China during this period) that immediately after the French government
+announced the annexation of the Spratlys, on Bastille Day, July 14, 1933, there was
+confusion in the Chinese government and population over where the islands were. Several articles asserted that the islands were the Paracels and therefore belonged to
+China.75 Bonnet has found U.S. records showing that the Nanjing authorities had to
+ask their consul in Manila, Mr. Kuan-ling Kwong, to ask the American colonial authorities there for a map showing the location of the Spratly Islands.76
+A North China Herald report, dated August 1, 1933, and attributed to the Kuo Min
+news agency, states that the Foreign Ministry received a telegram from the Chinese
+Consulate-General in Manila conﬁrming that the islands annexed by France lie about
+
+OCEAN DEVELOPMENT & INTERNATIONAL LAW
+
+27
+
+600 miles northwest of Palawan in the Philippines. “Earlier reports that these islands
+correspond to what in Chinese are known as the Sisha islands [the Paracels] are stated
+to be incorrect.”77 Only then was the government in Nanjing able to understand that
+these islands were not in the Paracels and then decide not to issue any formal protest.78
+An article published in French by a Taiwanese scholar, Chen Hsin-chih, in 2001 corroborates this version of events.79
+According to Bonnet, the reason is evident from minutes of a meeting of the Republic of
+China’s Military Council on September 1, 1933, “All our professional geographers say that
+Triton Island [in the Paracels] is the southernmost island of our territory.”80 The Republic
+of China decided that it had no claim in the Spratly Islands at that point and therefore had
+nothing to protest against. However, the rival “government” of the Southwest Political
+Council was not convinced by the new evidence and maintained that the French had
+annexed the Paracels or, if they had not, that whatever they had annexed belonged to
+China.81 This confusion fed into public discussion of the islands in 1933 and continues to
+haunt the literature to this day.
+The episode just described gives an excellent insight into the discussions within the
+Chinese governing circles around this time. It is clear from contemporary documents that
+there were confusion and misunderstanding about China’s claims in the South China Sea in
+1933. No ofﬁcial or civilian expert was sure about which features should be claimed nor
+what evidence China might deploy in order to assert those claims. The outpouring of ofﬁcial
+and journalistic articles from the summer of 1933 and into 1934 is evidence of a deliberate
+process of searching through old documents by diplomats, civil servants, academics, and
+journalists to try to ﬁnd anything that might support such claims and allow the state to
+clarify its position.
+It should be noted that this activity took place within the context of a much wider debate
+about the nature of China’s frontiers. The geographer William Callahan has described how
+the new government of the Republic of China was unable to formally deﬁne the country’s
+borders after it took power in 1911. Its 1911 Constitution simply asserted: “The sovereign
+territory of the Republic of China continues to be the same as the domain of the former
+Empire.”82 However, a process of deﬁning the extent of that “sovereign territory” was not
+begun until the Republic of China constituted its “Inspection Committee for Land and
+Water Maps” on June 7, 1933.83
+Despite the lack of an ofﬁcial protest to France in 1933, the Canadian researcher Christopher Chung has found evidence that by the time the Republic of China government
+came to discuss the Spratly Islands again in 1946, following the Japanese surrender at the
+end of the Second World War, a belief had taken root among Chinese ofﬁcials that the
+Republic of China did protest to France 13 years before.84 What may have happened is
+that these ofﬁcials confused genuine protests made by the Chinese government against
+French activities in the Paracels in 1932 and 1938 with a nonexistent protest against
+French activities in the Spratlys in 1933. According to Chiu and Park, “On July 27, 1932,
+the ROC foreign ministry instructed its legation in Paris to protest to the French Quai
+d’Orsay, rejecting the French claim over the Paracel Islands.”85 Given the chaos of the
+Second World War it is perhaps unsurprising that government records and ofﬁcials’ memories may not have been clear. However, this belief in an earlier assertion of a claim to the
+Spratlys became, at least internally, the Chinese justiﬁcation to reclaim the islands from
+Japan after the Second World War.
+
+28
+
+B. HAYTON
+
+Naming of the islands
+Chiu and Park assert: “After the establishment of the republican government in 1912, the
+Spratly Islands were referred to as Tuansha ch’€
+un-tao [A heap of sand archipelago], but as
+early as 1934, China began to call them Nansha ch’€
+un-tao and ﬁnally in 1947 the ROC
+government decided to adopt this name for the Spratlies.”86 Their sources are Hsien-chen
+Kuang-tung fen-hsien ming-his-tu [Pocket detailed country map of Kuangtung Province]
+(Shanghai: Pai hsin shu tien, 1941) and the map in Hu Han-yung, “The Southern Sea Islands
+Coveted by France and Japan,” Wai-chiao p’ing lun [The Foreign Affairs Review], vol. 3, no. 5
+(May 1934).
+This brief paragraph obscures a much more complex story. What actually happened, as a
+list of island names published by the Hainan Institute for South China Sea Studies in 1996
+makes clear, is that the Chinese names for the islands evolved over the twentieth century.87
+In January 1935 the Republic of China’s “Inspection Committee for Land and Water Maps”
+published a list of Chinese names for the island features. However, these were simply translated or transliterated from the English names found on British maps. For example, in the
+Paracels, Antelope Reef (named after the British ship that surveyed it) became Ling Yan
+Jiao—a direct translation. Money Island (named after William Taylor Money, the Superintendent of the Bombay Marine) became Jin Yin Dao—again, a direct translation of his
+name. In the Spratlys, North Danger became Bei Xian—another translation—and Spratly
+Island became Si-ba-la-tuo—a transliteration of the name of the English sea captain, Richard
+Spratly. The same was true for the other features given ofﬁcial Chinese names. At this point
+the Spratlys were known as the Tuansha—which means “chaotic sand”—a literal translation
+of the phrase “Dangerous Ground” that appeared on British maps of the time. Importantly,
+the committee gave the name Nansha—the southern sands—to the Macclesﬁeld Bank, a submerged feature that lies in the center of the South China Sea. The committee chose this name
+because it was the southernmost feature claimed by China.
+These names were subsequently printed on a map of the South China Sea published by
+the committee in April 1935; see Figure 2. However, when, in 1946/1947, the Republic of
+China extended its claim further south, to include the Spratly Islands, the name Nansha was
+moved south, to refer to the Spratlys, and Macclesﬁeld Bank became the Zhongsha—or
+central sands.
+The island names were further revised in 1947. Spratly became Nanwei (Noble South) in
+1947 and Luconia Shoals, which had been initially dubbed Lo-kang-ni-a in 1935, became
+Kang. The word kang means health, but the derivation is from the original transliteration.
+Some names were revised again in 1982. Scarborough Shoal was originally transliterated as
+Si ge ba luo in 1935 (Scarbough Shoal). In 1947 it was renamed Min’zhu—Democracy—Reef
+by the Nationalist government. A further round of renaming, by the Communist government in Beijing in 1982, included revising the Chinese name for Scarborough Shoal to the
+less politically sensitive Huangyan (Yellow Rock).
+
+Cheng, Chiu and Park’s conclusions
+It is not surprising that, having relied extensively on evidence from Chinese publications, the
+authors whose works are reviewed here subsequently wrote histories of the disputes that
+leaned very much toward the Chinese position. Chiu and Park asserted: “There is no doubt
+
+OCEAN DEVELOPMENT & INTERNATIONAL LAW
+
+29
+
+Figure 2. Map of the South China Sea published by the Inspection Committee for Land and Water Maps of
+the Republic of China in 1935. The “Chinese” names for the features are almost entirely translations or
+transliterations of the names found on British and other international maps.
+
+that China discovered and used the Paracels for several hundred years before Vietnam began
+asserting its claim in 1802.”88 They also use a similar argument for the Spratlys: “The
+Chinese discovery and historic use of or settlement on these islets could at least establish
+that in 1933 China did have some rights to them.”89 Cheng concludes, “The origin of the
+
+30
+
+B. HAYTON
+
+Chinese claim goes back to a few centuries before the emergence of the principle of discovery-occupation.”90 However, as this article has outlined, independent archaeologists and historians of the South China Sea reject the notion that the Chinese state “discovered” or that
+only Chinese people “used” the islands before the twentieth century. Historians such as
+Leonard Blusse describe the sea as “ungoverned” before very recent times.91
+Cheng progresses from unreliable evidence to conclude:
+It is probably safe to say that the Chinese position in the South China Sea islands dispute is a
+‘superior claim’, to borrow the expression of the Permanent Court of International Justice. Both
+Chinese contentions are strong: the ancient title based on ‘immemorial possession’ or discovery-occupation and the conﬁrmation of the title repeatedly by subsequent international
+agreements.92
+
+Chiu and Park’s understanding of what actually happened in the South China Sea during the
+twentieth century was limited and conﬁned to the partisan accounts that they discovered in Chinese newspapers and magazines. For example, when they assert that “Assuming that France did
+validly establish sovereignty over these islands for Vietnam in the 1930s, one can hardly understand why it neither tried to take them over after the Japanese defeat in 1945 nor protested China’s
+taking them over in 1946”93 they are demonstrating their lack of knowledge of the French expedition to the Spratly Islands in October 1946 by the FR Chevreuil and to the Paracels by the Tonkinois in January 1947. Stein Tonnesson has provided a full account of these events.94 Chiu and
+Park’s lack of knowledge of these episodes allows them to write: “The only logical reason to
+explain this must be that France either considered its acquisition of the Paracels and the Spratlies
+as invalid in international law or, if it were valid at all, decided to relinquish its claim.”95 Moreover,
+“In view of the foregoing analysis, it appears that China has a stronger claim to the sovereignty of
+the Paracels and the Spratlies than does Vietnam.”96 Better historical research would have prevented them making such an assessment.
+Researchers continue to make new discoveries about the history of the South China Sea
+and interactions between Southeast Asia and China. Much of what has been asserted as support by claimants to sovereignty over the islands is turning out to be at odds with the
+evidence. In summary, at present, historians and archaeologists can ﬁnd no evidence of any
+ofﬁcial Chinese act of administration in the Paracel Islands before June 1909 and none in
+the Spratlys before the Republic of China Navy visited Itu Aba on December 12, 1946.
+
+Conclusion
+There is more research to be done into the history of the islands of the South China Sea in
+the ﬁrst half of the twentieth century. However, the evidence that is available negates much
+of what has been published in the English-language accounts common within the disciplines
+of international law and international relations. There is more to be discovered. The Republic of China archives in Taiwan are largely untapped, as are contemporaneous Chinese and
+international newspaper accounts. Any work on the twentieth-century history of the South
+China Sea that relies on the evidence put forward in the works under review needs to be
+reevaluated to determine whether the arguments stand in the light of the new information
+becoming available.
+Cheng, Chiu and Park, Heinzig, and Samuels were specialists in international law, political science, and geography, respectively—not Asian maritime historians. They did not
+
+OCEAN DEVELOPMENT & INTERNATIONAL LAW
+
+31
+
+conduct independent investigations of archive sources but relied on texts printed much later
+in highly partisan sources, almost exclusively Chinese, to write their histories of the South
+China Sea. It is also worth noting that Cheng and Chiu were Chinese born. Cheng graduated
+with an LLB from Peking University and Chiu from National Taiwan University. It is reasonable to assume they were more familiar with Chinese documents and the Chinese point
+of view. Both Samuels and Heinzig were scholars of China.
+In 1933, 1956, 1974, and again today, histories of the islands have been written and
+rewritten. During each diplomatic or military crisis, advocates of the Chinese position have
+published new versions of history that recycle earlier mistakes and sometimes added more.
+By the time these accounts leapt the language barrier into English in the mid 1970s their
+shaky foundations appeared solid to those exploring the history for the ﬁrst time. They were
+printed in Western academic journals and “became fact.” But a review of the sources of the
+“facts” reveals their inherent weakness. As a result, forty years of discussion and debate on
+the South China Sea territorial disputes have been skewed in favor of a Chinese narrative
+that has little basis in fact. This has had implications well beyond academia, right to the
+highest levels of government decision making. It is time for a new generation of legal experts
+to reexamine the evidence and reach fresh conclusions.
+
+Notes
+1. B. S. Glaser, “Armed Clash in the South China Sea: Contingency Planning Memorandum Update”
+(2015), Council on Foreign Relations, www.cfr.org/sasia-and-paciﬁc/conﬂict-south-china-sea/p36377.
+2. U.N. Convention on the Law of the Sea, 1833 U.N.T.S. 397.
+3. A. S. Erickson, “America’s Security Role In The South China Sea,” Naval War College Review 69
+(2016): 7–20.
+4. In the Matter of the South China Arbitration (the Philippines and China), Award, 12 July 2016,
+para. 247, on the website of the Permanent Court of Arbitration, www.pca-cpa.org.
+5. B. Hayton, The South China Sea: The Struggle for Power in Asia (New Haven, CT: Yale University
+Press, 2014), 65.
+6. Cheng Tao, “Dispute over the South China Sea Islands,” Texas International Law Journal 10
+(1975): 265–277.
+7. H. Chiu and C. H. Park, “Legal Status of the Paracel and Spratly Islands,” Ocean Development &
+International Law 3 (1975): 1–28.
+8. Pete Pedrozo, “China Versus Vietnam: An Analysis of the Competing Claims in the South China
+Sea,” Center for Naval Analyses, August 2014, at www.cna.org/sites/default/ﬁles/research/IOP2014-U-008433.pdf.
+9. D. Heinzig, Disputed islands in the South China Sea: Paracels, Spratlys, Pratas, Macclesﬁeld Bank,
+(Hamburg: Institut f€
+ur Asienkunde, 1976).
+10. Marwyn S. Samuels, Contest for the South China Sea (New York, NY: Methuen, 1982).
+11. Brian K. Murphy, “Dangerous Ground: the Spratly Islands and International Law,” Ocean and
+Coastal Law Journal 1 (1994): 187–212.
+12. Jianming Shen, “International Law Rules and Historical Evidence Supporting China’s Title to the
+South China Sea Islands,” Hastings International and Comparative Law Review 21 (1997–1998):
+1–75.
+13. Jianming Shen, “China’s Sovereignty over the South China Sea Islands: A Historical Perspective,”
+Chinese Journal of International Law 1 (2002): 94–157.
+14. Chi-kin Lo, China’s Policy Towards Territorial Disputes: The Case of the South China Sea Islands
+(London: Routledge, 1989).
+15. S. Talmon and B. B. Jia, The South China Sea Arbitration: A Chinese Perspective (London:
+Bloomsbury Publishing, 2014).
+
+32
+
+B. HAYTON
+
+16. Cheng, supra note 6.
+17. Chiu and Park, supra note 7.
+18. Wai Jiao Ping Lun [Wai-chiao p’ing-lun/The Foreign Affairs Review], Shanghai, vol. 2, no. 10
+(October 1933): 64–65.
+19. Wai Jiao Yue Bao [ Wai-chiao y€
+ueh-pao/Diplomacy Monthly], vol. 3, no. 3 (Peiping [Peking], September 15, 1933): 78.
+20. Fanzhi Yuekan [Fan-chih y€
+ueh-k’an/Geography Monthly], vol. 7, no. 4 (Nanking, April 1, 1934): 2.
+21. Wai Jiao Bu Gongbao [Wai-chiao-pu kung-pao/Gazette of the Ministry of Foreign Affairs] vol. 6,
+no. 3 (July–September 1933), 208.
+22. Zheng Ziyue [Cheng Tzu-y€
+ueh], Nanhai Zhudao Dili Zhilue [Nan-hai chu-tao ti-li chih-l€
+ueh]
+(A Brief Geography of the South Sea Islands) (Shanghai: Shang wu yin shu guan [Shang-wu yingshu-kuan], 1947).
+23. Statement made by the ROC Foreign Ministry on June 10, 1956, summarized in “Vietnamese
+Claim of Sovereignty Refuted,” Free China Weekly, June 26, 1956, p. 3; Chung-yang jih-pao, June
+11, 1956, p. 6; and Shao Hsun-cheng, “Chinese Islands in the South China Sea,” People’s China,
+no. 13 (Peking, 1956), Foreign Languages Press.
+24. Lien-ho-pao [United Daily News], overseas edition, February 25, 1974, p. 3; “Memorandum on
+Four Large Archipelagoes” ROC Ministry of Foreign Affairs (February 1974).
+25. Heinzig, supra note 9.
+26. Ming Pao Y€
+ueh-k’an, no. 101, May 1974.
+27. M. Samuels, supra note 10, p. xii.
+28. C. P. C. Chung, “Since Time Immemorial”: China’s Historical Claim in the South China Sea, MA
+Thesis (University of Calgary, 2013), 8.
+29. The public announcement was followed by notices published in the Journal Ofﬁciel de la Republique Francaise on July 25, 1933, p. 7794, and July 26, 1933, p. 7837.
+30. Cheng, supra note 6, p. 266.
+31. Leonard Blusse, “Chinese Century: The Eighteenth Century in the China Sea Region,” Archipel 58
+(1996): 107–130.
+32. Derek Heng, “Trans-Regionalism and Economic Co-Dependency in the South China Sea: The
+Case of China and the Malay Region (tenth to fourteenth centuries AD),” The International History Review 35 (2013): 486–510.
+33. Pierre-Yves Manguin, “The Southeast Asian Ship: An Historical Approach,” Journal of Southeast
+Asian Studies 11 (1980): 266–276.
+34. Roderich Ptak, “The Northern Trade Route to the Spice Islands: South China Sea–Sulu Zone–
+North Moluccas (14th to Early 16th Century),” Archipel 43 (1992): 27–56.
+35. Angela Schottenhammer, “The ‘China Seas’ in World History: A General Outline of the Role of
+Chinese and East Asian Maritime Space From Its Origins to c. 1800,” Journal of Marine and
+Island Cultures 1 (2012): 63–86.
+36. Nicholas Tarling, The Cambridge History of Southeast Asia (Cambridge University Press, 1999).
+37. Geoff Wade and Li Tana (eds.), Anthony Reid and the Study of the Southeast Asian Past (Institute
+of Southeast Asian Studies, Singapore, 2012).
+38. M. Flecker, “Early Voyaging in the South China Sea: Implications on Territorial Claims,”
+Nalanda-Sriwijaya Centre Working Paper No 19 (Singapore: Institute of Southeast Asian Studies,
+2015), p. 48.
+39. J. V. Mills, “Chinese Navigators in Insulinde,” Archipel 18 (1979): 69–93.
+40. T. Brook, Mr. Selden’s Map of China: Decoding the Secrets of a Vanished Cartographer (London,
+UK: Bloomsbury, 2013), and Robert K. Batchelor, London: The Selden Map and the Making of a
+Global City, 1549–1689 (University of Chicago Press, 2014). Note that the two authors have different hypotheses about the location of the map’s cartographer.
+41. F.-X. Bonnet, “Geopolitics of Scarborough Shoal,” Discussion Paper 14 (2012), Research Institute
+on Contemporary Southeast Asia, Bangkok.
+42. U. Granados, “As China Meets the Southern Sea Frontier: Ocean Identity in the Making, 1902–
+1937,” Paciﬁc Affairs 78 (2005): 443–461.
+
+OCEAN DEVELOPMENT & INTERNATIONAL LAW
+
+33
+
+43. S. Tonnesson, “The South China Sea in the Age of European Decline,” Modern Asian Studies 40
+(2006): 1–57; S. Tonnesson (2001), “An International History of the Dispute in the South China
+Sea,” Working Paper No. 71 (Singapore: East Asia Institute).
+44. “Chinese Foreign Relations,” The Times, January 18, 1908, p. 5, and “The Recent Piracy in Canton
+Waters,” The Times, January 25, 1908, p. 5.
+45. “China and Her Islands—Keeping an Eye on Foreign Nations,” The Examiner (Launceston, Tasmania), June 12, 1909, p. 8.
+46. See Granados, supra note 42, p. 447.
+47. Ibid., p. 448.
+48. “China to Receive Island Back on Certain Terms,” Straits Times, October 28, 1909, p. 7.
+49. Mark J. Valencia, Jon M. Van Dyke, and Noel A. Ludwig, Sharing the Resources of the South
+China Sea (University of Hawaii Press, 1997), 21.
+50. Jon M. Van Dyke and Dale L. Bennett, “Islands and the Determination of Ocean Space in the
+South China Sea,” Ocean Yearbook 10 (1993): 52.
+51. Samuels, supra note 10, p. 52.
+52. J. D. Frodsham, The First Chinese Embassy to the West; The Journals of Kuo-Sung-Tʻao, Liu HsiHung and Chang Te-yi (Oxford: Clarendon Press, 1974), 11.
+53. Chiu and Park, supra note 7, p. 11.
+54. Bonnet, supra note 41, p. 14.
+55. Deutsche Seewarte, Annalen der Hydrographie und maritimen Meteorologie (Berlin: E.S. Mittler
+und Sohn, 1889), X.
+56. D. Hancox and V. Prescott, “A Geographical Description of the Spratly Islands and an Account of
+Hydrographic Surveys Amongst Those Islands,” Maritime Brieﬁng, vol. 1, no. 6 (1996), International Boundaries Research Unit, University of Durham, p. 36.
+57. Chiu and Park, supra note 7, p. 11.
+58. H.T. Nguyen, “Maritime Delimitation and Fishery Cooperation in the Tonkin Gulf,” Ocean
+Development & International Law 36 (2005): 25–44.
+59. Chiu and Park, supra note 7, p. 25; Samuels, supra note 10, p. 53; and Pavin Chachavalpongpun
+(ed.), Entering Uncharted Waters?: ASEAN and the South China Sea (Institute of Southeast Asian
+Studies, Singapore, 2014).
+60. Chiu and Park, supra note 7, p. 25.
+61. Francois-Xavier Bonnet, “Archaeology and Patriotism: Long Term Chinese Strategies in the
+South China Sea,” paper presented at the Southeast Asia Sea conference, Ateneo Law Center,
+Makati, Manila. March 27, 2015, see opinion.inquirer.net/84307/a-chinese-strategy-manipulating-the-record.
+62. Committee of Place Names of the Guangdong Province [Guangdong sheng di ming wei yuan hui]
+(1987), Compilation of References of the Names of all the South Sea Islands [Nan Hai zhu dao di
+ming zi liao hui bian], Guangdong Map Publishing Company [Guangdong sheng di tu chu ban
+she], p. 289.
+63. “Tablet Proves Ancient Rights,” Hong Kong Standard, March 6, 1979, p. 5.
+64. Bonnet, supra note 61.
+65. “Paracels Islands: Chinese Ofﬁcial Mission Returns,” South China Morning Post, June 10, 1909.
+66. Samuels, supra note 10, p. 53; Valencia, Van Dyke, and Ludwig, supra note 50, p. 21; and Sam
+Bateman and Ralf Emmers (eds.), Security and International Politics in the South China Sea:
+Towards a Co-operative Management Regime (Routledge, 2008), p. 43.
+67. Teh-Kuang Chang, “China’s Claim of Sovereignty Over Spratly and Paracel Islands: A Historical
+and Legal Perspective,” Case Western Reserve Journal of International Law 23 (1991): 412.
+68. Cheng, supra note 6, p. 268, cites Lu, Hsi-sha Ch’in-tao Chih-yao [A Brief Note on the Paracel
+Islands], 9 Hsin Ya Hsi Ya Yueh Kan no. 6 (June 1935), at 50–54.
+69. Chiu and Park, supra note 7, p. 24 fn. 31; Cheng, supra note 6, p. 269; Michael Bennett, “The People’s Republic of China and the Use of International Law in the Spratly Islands Dispute,” Stanford
+Journal of International Law 28 (1991–1992): 437; and Lee G. Cordner, “The Spratly Islands Dispute and the Law of the Sea,” Ocean Development & International Law 25 (1994): 64.
+
+34
+
+B. HAYTON
+
+70. Cho Min, “The Triangular Relationship Among China, France and Japan and the Question of
+Nine Islands in South Sea,” Wai-chiao y€
+ueh-pao [Diplomacy Monthly], vol. 3, no. 3 (Peiping
+[Peking], September 15, 1933), p. 78.
+71. Cheng Tzu-y€
+ueh, Nan-hai chu-tao ti-li chih-l€
+ueh [General Records on the Geography of Southern
+Islands] (Shanghai: Shang-wu ying-shu-kuan, 1948), p. 80.
+72. Chiu and Park, supra note 7, p. 25, fn. 59.
+73. Ibid., p. 12.
+74. J. H. Boyle, China and Japan at War, 1937–1945: The Politics of Collaboration (Stanford, CA:
+Stanford University Press, 1972), 42.
+75. “French Claim to Nine Paciﬁc Islands,” North China Herald, August 2, 1933, p. 162.
+76. Bonnet, supra note 41, p. 16.
+77. “Canton’s Claim on Islands,” North China Herald, August 9, 1933, p. 202.
+78. Bonnet, supra note 41, p. 17.
+79. Chen Hsin-chih, “La Ré ponse Chinoise à l’Occupation Française des Iles Spratly En 1933,”
+Guerres mondiales et conﬂits contemporains, no. 199 (Juillet 2001): 5–24.
+80. Wai Jiao bu nan hai zhu dao dang an hui bian [Compilation by the Department of Foreign Affairs of
+All the Records Concerning the Islands in the South Sea], Vol. 1 (Taipei, 1995), pp. 47–49, quoted in
+Bonnet, supra note 41, p. 99.
+81. “Island Dispute—Nanking Orders an Investigation,” South China Morning Post, August 1, 1933,
+p. 14.
+82. W.A. Callahan, “The Cartography of National Humiliation and the Emergence of China’s Geobody,” Public Culture 21 (2009): 141–173.
+83. Granados, supra note 42, p. 452.
+84. See Chung, supra note 28, p. 5 (plus personal communication) and Republic of China Ministry of
+Foreign Affairs, “Nansha Qundao [南沙群島, or the “Spratly Archipelago”],” The Historical
+Archives of the Department of Modern History in the Academia Sinica [Zhongyang Yanjiuyuan
+Jindaishi Yanjiusuo Dang’an Guancang中央研究院近代史研究所檔案館藏], ﬁle series 019.3/
+0012, ﬁle 031. This ROC ofﬁcial telegram is dated August 24, 1946. See also Ministry of Foreign
+Affairs, “Nansha Qundao [南沙群島, or the “Spratly Archipelago”],” The Historical Archives of
+the Department of Modern History in the Academia Sinica [Zhongyang Yanjiuyuan Jindaishi
+Yanjiusuo Dang’an Guancang中央研究院近代史研究所檔案館藏], ﬁle series 019.3/0012, ﬁle
+145–146. This ROC ofﬁcial telegram is dated to 1946 (the month is unclear).
+85. Chiu and Park, supra note 7, p. 12.
+86. Ibid., at p. 11.
+87. Chen Keqin, General Editor, Zhong guo Nan hai Zhu do [China’s Southern Sea Islands] (Hainan
+guoji xinwen chuban zhongxin, 1996).
+88. Chiu and Park, supra note 7, p. 17.
+89. Ibid., p. 18.
+90. Cheng, supra note 6, p. 276.
+91. Leonard Blusse, “China as a Maritime Power: the Historical Perspective,” paper given at “Maritime Governance in 21st Century Asia: Historical Precedents, Legal Foundations, and Regional
+Institutions in Addressing Common Security Challenges,” The Centre for Rising Powers, University of Cambridge, September 10, 2014, plus personal communication.
+92. Cheng, supra note 6, p. 277.
+93. Chiu and Park, supra note 7, p. 19.
+94. Tønnesson (2006), supra note 43.
+95. Chiu and Park, supra note 7, p. 19.
+96. Ibid., p. 20.
+
+

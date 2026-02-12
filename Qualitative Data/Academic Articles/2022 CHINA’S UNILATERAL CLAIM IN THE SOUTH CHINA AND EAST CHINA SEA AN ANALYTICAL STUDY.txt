@@ -1,0 +1,867 @@
+Journal of Liberty and International Affairs | Volume 8 · Number 3 · 2022 | eISSN 1857-9760
+Published online by the Institute for Research and European Studies at www.e-jlia.com
+
+Copyright © 2022 The author/s
+This work is licensed under a CC-BY 3.0 license
+(*) Corresponding author
+Peer review method: Double-blind
+Received: 30.08.2022
+Accepted: 06.09.2022
+Published: 10.12.2022
+Review article
+DOI: https://doi.org/10.47305/JLIA2283399m
+How to cite:
+Mukherjee, Baidyanath. 2022. “CHINA‟S UNILATERAL CLAIM IN THE SOUTH CHINA AND EAST CHINA SEA: AN ANALYTICAL STUDY”. Journal of
+Liberty and International Affairs 8 (3):399-417. https://e-jlia.com/index.php/jlia/article/view/769.
+
+CHINA’S UNILATERAL CLAIM IN THE SOUTH CHINA AND
+EAST CHINA SEA: AN ANALYTICAL STUDY
+1*
+
+Baidyanath Mukherjee
+1
+
+School of Law, AURO University, India
+
+https://orcid.org/0000-0002-1165-3432  baidyanath.mukherjee@aurouniversity.edu.in
+
+Abstract: The increased territorial conflicts in the center of the maritime South and East China Seas have ramifications for Asian regional stability.
+
+The area is resource-rich, strategically placed along waterways, and has indisputable oil and natural gas reserves. There had also been a perceived
+change in the international system built by the United States during World War II, with China attempting to replace it as the regional power. China's
+behavior toward the remaining claimants, as well as to some extent toward other foreign parties in the conflicts, is examined using ideas from
+International Relations and case studies from International Law. Employing a qualitative research design, the author attempted to analyze the
+territorial dispute in the East China Sea and the South China Sea. This paper explains how the islands are strategically located near commercial
+fishing grounds, major shipping channels, and undiscovered oil and gas potential and how the issue is linked to China's preservation of national
+sovereignty, while the remaining claimant states perceive it as an incursion by the approaching menace of China. Whoever gains control of the
+islands eventually gains control of a major portion of East China and South China Seas' economic resources.
+Keywords: China; Dispute; East China Sea; South China Sea; Islands; Economic Resources
+
+INTRODUCTION
+The territorial waters of the countries in the East and South China Sea are often violated
+by China, and it has now enlisted Russia's help, heightening concerns about military activities in
+the region. Recently Japan spotted warships of Russia and China in the disputed East China Sea
+Island for several minutes, as reported by Kyodo News Agency (Kumar 2022). China's territorial
+sovereignty and resource claims in the East and South China Seas are one of three connected
+but different types of maritime disputes or groups of concerns between Beijing and other
+countries. Apart from the Taiwan issue, disputes over maritime disputes over maritime
+sovereignty and resources are primarily focused on (a) the Sino-Japanese impasse over
+overlapping maritime resource claims and sovereign control over the Senkaku/Diaoyu islands
+northeast of Taiwan and (b) the intricate web of disagreements between Beijing and several
+Southeast Asian nations (Vietnam, the Philippines, Malaysia, Brunei, and Taiwan) over numerous
+islands, atolls, reefs, and shoals in the South China Sea.
+Another set of disagreements concerns the activities of naval military operations within
+China's Exclusive Economic Zone (EEZ) and non-demarcated „near seas‟ (jinhai), including US
+
+399
+
+Journal of Liberty and International Affairs | Volume 8 · Number 3 · 2022 | eISSN 1857-9760
+Published online by the Institute for Research and European Studies at www.e-jlia.com
+
+Navy ISR operations and exercises along China's coastline, allied concerns over PLAN naval
+transits and the growing PLAN presence in sensitive waters close to other states, and conflicting
+interpretations of the rights of foreign navies to operate in EEZs as defined by the UN
+Convention on the Law of the Sea (UNCLOS). On a more general scale, the third set of issues is
+more strategic and affects the entire region of the so-called „first island chain‟, which stretches
+from Japan to Southeast Asia. These issues have not yet reached the status of an active dispute,
+instead forming an intensifying competition. They result from the tension between the long-held
+American belief that maintaining military superiority in the Western Pacific was necessary and
+the recently emerging Chinese capability to challenge some aspects of that belief. This capability
+has primarily been manifested through deploying increasingly potent „counter-intervention‟ or
+anti-access, area-denial (A2/AD)-type weapons systems along China's maritime periphery.
+The United States is destined to play a significant role in handling these exponential
+issues as the dominant maritime power in the Western Pacific, with a solid commitment to
+maintaining peace and stability in the region, and as an Asian power with specific political,
+economic, and security relations with two regional allies involved in the above disputes (Japan
+and the Philippines). In recent years, Washington has been far more involved and direct in
+maritime conflicts in the South and East China Seas.
+The Paracel Islands, located in the South China Sea, are governed by the People's
+Republic of China and are claimed by Vietnam and the Republic of China (Taiwan). During the
+Chinese Civil War in 1950, China took control of sections of the islands from Taiwan (The World
+Fact Book 2015). In 1951, Japan relinquished its claim to the islands. Due to a diminished US
+military presence and South Vietnamese garrisons, China took unilateral action in 1974 and took
+control of the remaining islands from South Vietnam, thereby controlling the whole archipelago
+(Tri and Collin 2014). In 1991, China updated the infrastructure on Woody Island by building a
+runway, avoiding the problem of sovereignty, and postponing settlement (Fravel 2008). China
+founded the city of Sansha in Hainan Province to manage the territory on 12 July 2012. On
+Woody Island, a military base with an updated 1.24-mile airport and an artificial harbor was
+developed (Boudreau 2014). China's state-owned energy corporation completed drilling
+activities near Vietnam's claim between May 2 and 15 July 2014, sparking naval clashes at sea
+and violent anti-Chinese demonstrations on land (Li 2014).
+The Spratly Islands comprise around 100 tiny islands or reefs and 12 larger islets. The
+Spratlys, like the Paracels, have excellent fishing grounds and possible oil and gas resources. The
+Spratlys and its surrounding waters are strategically significant since they carry more than half of
+all worldwide merchant traffic and 80 percent of oil bound for Japan, South Korea, and Taiwan.
+From 1933 until 1939, the islands were under French control, and then during the second
+world war, Japan seized the archipelago (Pletcher 2015). Following 1951, the islands were
+claimed by China, Taiwan, and Vietnam, partly by Malaysia and, in 1955, by the Philippines.
+Brunei claims Louisa Reef as an extension of its continental shelf and part of its exclusive
+economic zone. Taiwan has held Itu Aba, the biggest island in the Spratly group and the only
+one with a freshwater supply, since 1955. Taiwan launched reclamation activities in 2014 as part
+of a $100 million port project, with no opposition from China, adding to an existing radar station
+and meteorological center (Pincus 2015). The Philippines has had a military airstrip on the island
+of Zhongye Dao since 1975 at Ranudo Air Field. Recently, a Sino-Philippine maritime standoff
+
+400
+
+Journal of Liberty and International Affairs | Volume 8 · Number 3 · 2022 | eISSN 1857-9760
+Published online by the Institute for Research and European Studies at www.e-jlia.com
+
+occurred in April 2012 at Scarborough Shoal, followed by a show of force off the Philippine-held
+Second Thomas Shoal (Tri and Collin 2014). In reaction to the Chinese buildup during the
+previous 18 months, the Philippine government stated in June 2014 that $11 million would be
+put aside to improve the runway and associated infrastructure (Pincus 2015). Taylor Fravel
+observed an upsurge in competition between China, the Philippines, and Vietnam between 1992
+and 1995, with contracts for seismic surveys and petroleum exploration given to Crestone,
+Mobil, and Alcorn (Fravel 2008). To bolster its claim, China began dredging land on four Spratly
+Islands in May 2014, sparking suspicions of a southerly expansion and force projection (Ansfield
+2014).
+China constructed a 1.86-mile-long land feature large enough for a runway and a harbor
+capable of accommodating tankers and significant surface combatants near Fiery Cross Reef in
+August 2014 (Panda and Ramachandran 2014). Already occupying islands with airstrips, China
+now ranks with Taiwan, the Philippines, Malaysia, and Vietnam (Wong and Ansfield 2014). Unlike
+China, however, several signatories abstained from establishing any more structures following
+the 2002 signing of the Declaration on the Conduct of Parties in the South China Sea until
+recently (Malik 2013). The Chinese's zeal and magnitude of reclamation operations vastly
+outpace those of the other claims. The signatories to the 2002 „Declaration on the Conduct of
+Parties in the South China Sea‟ express their adherence to international law, especially the 1982
+United Nations Convention on the Law of the Sea (UNCLOS). Other features of the ten-point
+agreement include freedom of navigation and overflight, peaceful resolution of disputes without
+the use or threat of force, restraint to prevent conflict escalation, cooperative efforts, and peace
+and stability promotion (The Asian Secretariat 2012). Although the national oil firms of China,
+the Philippines, and Vietnam signed a collaborative agreement to undertake seismic activities in
+March 2005, the statement agreed in Cambodia in 2002 fell short of an enforceable code of
+conduct (The World Fact Book 2015). The Nine-Dash Line is a barometer of China's ambitions in
+the Paracel and Spratly islands. The nine-dash line, or U-shaped line, was initially a portion of the
+eleven-dash line put out by the nationalists in 1947 under Chiang Kai-shek and was amended by
+the People's Republic of China in 1953 (Malik 2013). Malaysia, Vietnam, and the Philippines filed
+claims with the UN Commission on the Limits to the Continental Shelf in 2009. China filed a
+counterclaim with a map showing a nine-dash line suggesting an unclear area within the Ushaped border.
+The US openly requested China and Taiwan to explain their respective claims and bring
+them into compliance with international law on 5 February 2014 (Bader 2014). This “uncertainty
+fits China's internal aim, which is to maintain the government's legitimacy and satisfy domestic
+public opinion”, Sun Yun, a former analyst for the International Crisis Group in Beijing, says (Hill
+2012). If the nine-dash line becomes a reality, China will control 80 percent of the South China
+Sea.
+
+401
+
+Journal of Liberty and International Affairs | Volume 8 · Number 3 · 2022 | eISSN 1857-9760
+Published online by the Institute for Research and European Studies at www.e-jlia.com
+
+Figure 1: China Claims Over the South China Sea (Source: China Daily Mail 2012)
+
+China and Taiwan claim the Senkaku Diaoyu islands, five uninhabited islands in the East
+China Sea (based on ownership since the XIV century). Japan had claimed sovereignty of the
+islands since 1895, when the islands were annexed by Cabinet resolution and only after a tenyear survey declared the islands unoccupied. The United States governed the Senkaku/Diaoyu
+islands until 1969 when the Okinawa Treaty handed them back to Japan. The UN Economic
+Commission for Asia and the Far East conducted a geological study in 1968, which led to the
+discovery of oil and gas deposits beneath the seabed (Liao 2008). China, Japan, and Taiwan
+renewed their sovereignty claims in the 1970s. China's energy demands are increasing, and
+reliance on Middle Eastern imports, similar to Japan's postwar energy economy, leaves the
+country vulnerable. According to the US Energy Information Administration, the East China Sea
+contains 100 million barrels of oil and one to two trillion cubic feet of natural gas, which is
+enough to provide China's long-term energy needs for the next 100 years (Guo and Katakey
+2012). Rallies erupted across China on 18 September 2012, four days after Japan declared its
+intention to buy the islands from their private owner. Some claim the government staged the
+protests to fuel nationalist feelings (The Economist 2012). According to political expert Li
+Weidong, the countless demonstrations that have erupted around China and the government's
+accommodating attitude are reminiscent of the Qing dynasty's employment of Boxers to
+combat foreign political intrusions. There is evidence that Chinese government officials were
+participating in the demonstrations, including the police chief of Xi'an, a western metropolis.
+Wenfang Tang and Benjamin Darr of the University of Pennsylvania concluded in a study that
+nationalism is utilized to stifle widespread calls for democratic reform. China, America, and Japan
+were also found to have the most significant levels of nationalism among the 36 nations
+evaluated during the last decade. The Japanese government bought the three islands from their
+private owner in September 2013, hoping to prevent them from falling into the hands of their
+right-wing nationalists (The Economist 2013). Instead of pleasing China, the decision sparked a
+
+402
+
+Journal of Liberty and International Affairs | Volume 8 · Number 3 · 2022 | eISSN 1857-9760
+Published online by the Institute for Research and European Studies at www.e-jlia.com
+
+new round of public and diplomatic objections since any administration regarded as
+accommodating is viewed as weak by its supporters (BBC News 2014).
+Beijing established an Air Defence Identification Zone (ADIZ) in November 2013 to
+strengthen its stance against Japan. The ADIZ is a prophylactic measure to avert mishaps such as
+mid-air collisions. Even though no international agreements control an ADIZ, it is a security and
+safety measure that governments follow (Welch 2013).
+Table 1: China‟s Claim in the South and the East China Sea (Source: Fravel 2008, 267)
+Dispute
+Other Claimants
+
+Senkaku/Diaoyu
+Japan, Taiwan
+
+Paracel
+Vietnam, Taiwan
+
+Spratlies
+Brunei, Malaysia,
+Philippines, Taiwan,
+Vietnam
+
+Other Non Claimants
+Number of Islands
+and Location
+
+United States
+8 islands in the East
+China Sea
+
+United States
+44 Islands in the
+South China Sea
+
+Basis for Claim
+Occupied by
+
+Historical context
+Japan
+
+United States
+13 Islands in the
+South China Sea
+(Amphitrite and
+Crescent Groups)
+Historical context
+China
+
+Interests
+
+Resource, Economic,
+Strategic,
+Sovereignty
+
+Use of Force
+
+Historical context
+Brunei, China,
+Malaysia,
+Philippines,
+Vietnam
+
+Resource, Economic,
+Strategic, Sovereignty
+1974 China
+
+Resource,
+Economic, Strategic,
+Sovereignty
+1988, 1994 China
+
+THE ANALYSIS OF THE DISPUTE
+
+Tension in the South China Sea
+The South China Sea has become a hotly contested region with growing Chinese
+aggression. The country‟s unilateral maritime claims have led to disputes with multiple littoral
+states. While furthering its claim, China has violated international law and challenged the
+sovereignty of many countries. The South China Sea is one of the busiest waterways in the
+world, serving as a vital commerce and maritime transportation route. The South China Sea
+conflicts involve maritime and island claims between the region's sovereign governments. The
+countries geopolitically located in the Indo-Pacific region and parties to the dispute are Brunei,
+Taiwan, Chain, Vietnam, the Philippines, Vietnam and Malaysia. China has lately made headlines
+for unilaterally altering the situation on the ground in the South China Sea. It is expanding its
+footprint in the South China Sea amid the Covid-19 pandemic. It agreed to form two districts to
+oversee the disputed Paracel and Spratly islands in the South China Sea. Previously, Beijing has
+given new names to 25 islands or reefs and 55 underwater entities in the South China Sea to
+reassert its authority over the region. The Spratly Islands, Paracel Islands, and maritime limits in
+the Gulf of Tonkin are among the areas of controversy. Waters surrounding the Natuna Islands
+
+403
+
+Journal of Liberty and International Affairs | Volume 8 · Number 3 · 2022 | eISSN 1857-9760
+Published online by the Institute for Research and European Studies at www.e-jlia.com
+
+in Indonesia are also controversial. The acquisition of fishing grounds surrounding the two
+archipelagos, suspected crude oil and natural gas in various regions of the South China Sea, and
+control of strategically significant shipping routes are why these areas are contested and
+essential to the involved nations.
+The South China Sea occupies a strategic connection because it connects the Indian
+Ocean with the Pacific Ocean, the most important commercial sea route. The sea has a very high
+degree of economic significance as it is a vital sea lane of communication and is rich in natural
+resources. Nearly 60 percent of the global maritime trade passes through this South China Sea.
+The countries present in the South China Sea are heavily dependent on the sea for global
+commerce. The sea is also rich in natural resources. According to studies conducted by the US
+Energy Information Administration, the South China Sea holds 11 billion barrels of oil and 190
+trillion cubic feet of natural gas, thus making it economically very significant (US Energy
+Information Administration 2013). The United States plays a critical role in resolving the conflict
+because it has extensive security obligations in East Asia and is allied with numerous nations
+bordering the South China Sea, including the Philippines, Singapore, and Vietnam. As a result,
+any disagreement between them will directly impact the United States.
+
+Tension in the East China Sea
+Japan legally claimed the Senkaku/Diaoyu islands in 1895, and they have been privately
+owned by a series of Japanese people for the majority of the past 120 years. Aside from a brief
+period during World War II when the area was under US authority, Japan effectively controlled
+the islands since 1895. In the 1970s, China started claiming the Senkaku/Diaoyu islands, alleging
+historical rights to the territory. Tensions flared again in September 2012 when Japan bought
+three disputed islands from a private owner. The economically significant islands northeast of
+Taiwan have prospective oil and natural gas deposits, are close to major shipping lanes, and are
+bordered by productive fishing grounds. The Exclusive Economic Zone (EEZ) claimed by each
+nation is 200 nautical miles from its coast. However, this area overlaps with China and Japan
+because the distance between them is just 360 nautical miles (Council on Foreign Relations
+2019). President Barack Obama became the first American president to expressly clarify in April
+2014 that the US-Japan Security Treaty covers the disputed islands. However, the US does not
+take a formal stance on its ultimate sovereignty. An unintentional military event or political
+blunder by China or Japan might entangle the US in armed conflict with China (Panda and Tiezzi
+2014). In 2012, Japan and China started discussing creating a crisis management tool. Tensions
+reached their pinnacle in 2013, when China announced the creation of an air defense
+identification zone - an area over land where civil aircraft are identified, located, and controlled
+for national security purposes - talks came to a standstill (Rinehart and Elias 2015). Early in 2015,
+bilateral talks to establish the maritime and aerial communication mechanism were restarted
+after Japan and China issued a four-point consensus paper outlining their disagreements about
+the disputed islands (Tiezzi and Kuo 2014). The process was introduced in June 2018 following
+nine rounds of high-level consultations (Kyodo 2018).
+As China and Japan continue to develop their military capabilities in the region, notably
+their radar and missile systems, tensions over the disputed Senkaku/Diaoyu islands have risen
+
+404
+
+Journal of Liberty and International Affairs | Volume 8 · Number 3 · 2022 | eISSN 1857-9760
+Published online by the Institute for Research and European Studies at www.e-jlia.com
+
+(Gady and Harán 2018). China and Japan created a new crisis communication hotline in June
+2018 to prevent unintentional collisions at sea and in the air (Kyodo 2018). Although the number
+of times Japan's military had to scramble planes in response to Chinese air intrusions decreased
+by 41% in 2017, the Ministry of Defence of Japan indicated that the number climbed in 2018 and
+is expected to continue to rise in 2019. Japan has recently erected new military outposts on
+surrounding islands, ostensibly to keep an eye on the Miyako and Tokara Straits and stop China
+from advancing its military capabilities in the area (Denyer 2019).
+Regarding China's approach toward rival claimants in the conflicts, several elements are
+at play, including a shifting balance in the international system, sovereignty claims, and resource
+constraints. The Paracel, Spratly, and Senkaku/Diaoyu islands are all located near undiscovered
+oil and gas resources. It is impossible to say how much of a role oil plays as a component in the
+war. Some argue that oil is sufficient motivation for conflict (Samuels 2015). Others feel it is only
+a facet of the claimants' internal and export requirements. If the first scenario is correct,
+increasing demand and the availability of prospective oil raises the stakes, dangers, and general
+instability in the region. The concepts of soft and hard power and the self-help system that
+underpins realist ideology is used to evaluate a shifting balance in the international system. In
+the East and the South China Sea disputes, China has demonstrated its ability to use soft and
+hard power in its dealings with rivals. China offers an alternative to the International Monetary
+Fund (IMF) and the World Bank to display its soft power reach and expand its regional economic
+influence.
+China announced the establishment of the Asian Infrastructure Investment Bank in 2014,
+which will be able to fund large infrastructure projects across the region. Apart from intraASEAN trade, China is ASEAN's most prominent commercial partner, accounting for roughly 14.5
+percent of total trade, followed by the European Union (EU), Japan, and the United States.
+China's soft power reach has so far included hundreds of infrastructure projects worldwide,
+ranging from mining operations in Africa to the modernization of the Nigerian railway to the
+construction of highways spanning Asia and Europe (Giang and Johnson 2011). China appears to
+be going to great lengths to ensure its objectives are mutually beneficial rather than
+antagonistic. One might judge which actions are offensive or defensive based on one's point of
+view. Soft power as a tactic of containment has positive and negative implications for China. The
+deployment of military, economic, or soft power against China is a divisive issue, particularly
+after its failure during the Cold War (Nye 2007). Japan has been accused of using the TransPacific Partnership (TPP) to restrain China and divert attention away from the main problem of
+lowering tariffs and opening up its protected rice market in recent negotiations between the US
+and Japan. The Chinese can claim that trade is being used to benefit them.
+Japan serves as a weapon for containment and a political tool for avoiding challenging
+domestic concerns (The Economist 2015). The Obama administration's justifications for
+Congressional passage include the use of the TPP by the United States as a counterweight to
+China's expanding economic strength and as a global standard-bearer (Calmes 2015). The
+international community's response to China's soft and hard power employment reflects the
+international system's shifting balance. According to Stephen Walt's „balance-of-threat‟ theory,
+the claimant nations prioritize intangible values over tangible assets. External sources of threat
+impacted by the intangible variable of sovereignty provide a stronger push for claimant state
+
+405
+
+Journal of Liberty and International Affairs | Volume 8 · Number 3 · 2022 | eISSN 1857-9760
+Published online by the Institute for Research and European Studies at www.e-jlia.com
+
+behavior in the East and South China Seas disputes, according to the Balance of Threat theory.
+Neither Japan nor China is willing to give up its territorial claims, and territorial conflicts
+continue to intensify. Each country has used economic statecraft to establish its stance, whether
+through a boycott of consumer goods, import restrictions, or reaching out to other countries to
+counter China's increasing assertiveness (The Economist 2014).
+China has used a delaying strategy in the East China Sea, and the South China Sea
+conflicts up until recently. In contrast, the remaining claimants have used balancing behavior,
+not against the most powerful state in the system but against the more dire state of China.
+According to Fravel, domestic or internal sources of insecurity motivate the Chinese leadership
+to collaborate in territorial disputes; the two variables have a direct association. The drive for offshore land disputes involving sovereignty is likely to be the opposite, as leadership may utilize
+territorial problems to sway domestic opinion in its favor. There are no concerns about internal
+regime security in the South China Sea disputes; thus, there is no incentive to collaborate (Fravel
+2005). Fravel looked at twenty-three territorial conflicts dating back to 1949 and discovered that
+China had made concessions in at least seventeen of them, none of which involved off-shore
+disputes. Instead, China uses a delaying strategy in the off-shore disputes, emphasizing the
+islands' worth regarding maritime rights to resources, access to sea lanes, and strategically as
+bases for force deployment. States are “most likely to use a delaying approach in order to
+maximize potential economic or strategic rewards” (Fravel 2005).
+As an internal dimension of China's actions, the concept of sovereignty and nationalism
+also plays a role. Nationalism and consecutive strong views, according to Fravel and Dobson,
+appeal to conservative leaders and factions. Their power base degenerates due to rapid
+economic modernization and subsequent reforms. A global backlash against China's actions
+could reduce reforms to a sustainable pace (Dobson and Fravel 1997). There is a desire to
+compensate for territory lost during the Qing era, accompanied by growing waves of
+nationalism.
+China has used soft and hard power in its interactions with its neighbors. Despite signs
+of rising economic interdependence between China and the other claimants in the East and
+South China Sea disputes, China prefers to take a military approach to the conflicts. China aims
+to decrease its vulnerability by gaining control of vital waterways due to the self-help aspect of
+the international system. It strives to seize control of disputed resources to ensure its economic
+security. China's soft power is already being used in other countries. The Paracel, Senkaku, and
+Spratly islands cases are the most recent examples of China ensuring its military security by
+using hard power to counterbalance the US in the Asia Pacific region.
+
+China‟s Truculent Approach
+Beijing has taken various aggressive measures to support and assert its claim since 2007,
+including an increase in the number of ships and the frequency of patrol and training exercises,
+the establishment of new administrative entities and the elevation of existing ones. The
+approach further includes the announcement of parcels for development in disputed areas,
+efforts to create new status quo in specific cases through taking control of one land feature and
+undertaking sustained incursions into the nearby airspace and waters of a disputed group of
+
+406
+
+Journal of Liberty and International Affairs | Volume 8 · Number 3 · 2022 | eISSN 1857-9760
+Published online by the Institute for Research and European Studies at www.e-jlia.com
+
+islands, and a variety of diplomatic and not so diplomatic actions, from demarches to formally
+presenting justifications or claims to international organizations and issuing threats or advisories
+against foreign oil firms. This broad trend of increasing activity has been observed since 2008,
+peaking over the Senkaku/Diaoyu islands in spring 2011, spring/summer 2012, and currently.
+The majority (but not all) of China's increasing activity has been primarily caused by the activities
+of other claimants, in addition to Beijing's improved capabilities to install assets in disputed
+territories as a whole. China's increasingly aggressive moves have mostly been a part of an
+interaction dynamic among multiple claimants, as Taylor Fravel and other observers have
+pointed out (including most notably Vietnam, the Philippines, and Japan, in addition to China).
+As mentioned above, although typically intended as a sort of „tit-for-tat‟ reaction, Beijing
+has occasionally chosen to deliberately escalate the situation to establish a new status quo in its
+favor or to take more decisive action to show resolve and prevent further escalations by others.
+Examples of this conduct include the May 2011 cable-cutting incident, the April 2012 takeover
+of Scarborough Shoal, the June 2012 declaration of exploration blocks, and the beginning of
+routine intrusions into the Senkaku/Diaoyu islands region in October 2012.
+According to some experts, these and other activities are a part of a larger intentional
+Chinese strategy to use perceived provocations as justification for pre-planned actions to alter
+the status quo. This implies that Beijing may even fabricate events to support its assertions.
+However, there is currently little proof to support this interpretation of Beijing's actions; thus, it
+can only be considered an educated guess. An equally reasonable alternate theory holds that
+China frequently creates a new status quo in response to perceived attempts by others (such as
+Manila and Tokyo) to change the status quo. There is much speculation about how Xi Jinping
+and the new leadership will affect the dynamic mentioned above. Xi has probably significantly
+impacted how China handled the Scarborough Shoal and Senkaku/Diaoyu islands crises. He has
+reportedly been a significant senior member of two monitoring organizations since at least mid2012. One was established to address maritime security challenges in general, and the other was
+established to address the Senkaku/Diaoyu islands conflict. Analysts claim that Xi personally
+authorized the step-by-step plan to increase pressure on Japan, rejecting the more reasonable
+strategy that others inside the Ministry of Foreign Affairs had suggested.
+Others contend that the new leadership will pursue a much more forceful, militarily
+focused foreign policy under his leadership, particularly toward maritime and other sovereignty
+disputes. They cite Xi's prior experience with the People‟s Liberation Army (PLA), his famous wife
+(a well-known singer of patriotic songs), his endorsement of the „Chinese dream‟ concept, and
+his high-profile visits to military facilities. This broad conclusion is now highly theoretical,
+another intriguing theory that needs more convincing data.
+INTERNATIONAL CONVENTION AND THE DISPUTE
+Nation-building processes have been affected by intrastate disputes from the very
+beginning. The present international system was shaped by wars between and within states,
+which established new laws and governments and strengthened pre-existing ones. However,
+disputes can threaten international peace and security, particularly when the international
+community fails to give them the necessary attention. The South China Sea and the East China
+
+407
+
+Journal of Liberty and International Affairs | Volume 8 · Number 3 · 2022 | eISSN 1857-9760
+Published online by the Institute for Research and European Studies at www.e-jlia.com
+
+Sea are now the scenes of one such battle. The conflicts are primarily territorial, with some
+parties stating their claims as historical rights and others relying on claims based on
+international law and treaties. The parties have sought to resolve their issue with the aid of
+international organizations, such as the Permanent Court of Arbitration (PCA), and the
+application of the United Nations Convention on the Law of the Sea throughout time as tensions
+have risen (UNCLOS). However, efforts to lessen the strife in the area have had little to no
+results. Several hundred tiny islands, reefs, and atolls make up the SCS, virtually all uninhabited
+and unusable. Due to their importance to the coastal nations surrounding them, the island
+groupings known as the Spratly/Paracel and Senkaku/Diaoyu islands have been the main subject
+of the conflicts for decades. Since several of the islands are located inside the exclusive
+economic zones (EEZ) of Vietnam, Malaysia, the Philippines, and Japan, the natural resource
+component of the region is one of the main reasons for the disputes about the islands.
+Therefore, it is not unexpected that these coastal governments are advancing their territorial
+claims in the region, along with China, Brunei, and the Republic of China (ROC) in Taiwan. By
+exerting their rights to exclusive exploitation of the region via international law and other
+methods to ensure that they are protected and exploited, each wishes to defend its national
+interests.
+International law presents a viable alternative to China's military strategy. The provisions
+of the Law of the Sea and other treaties provide a mechanism for resolving conflicts without
+resorting to hard power techniques. The analogous situation of Norway, the United Kingdom,
+Denmark, Germany, and the Netherlands dividing up the North Sea has implications for
+maritime disputes over islands in the South China Sea and the East China Sea. From 1959, when
+oil and gas were discovered, to 1965, these opposing claims were settled smoothly and
+peacefully (Lewis 2015). Despite competing interests, such as access to trade routes, shipping
+lanes, and fishing rights dating back over 400 years, international law is successfully
+implemented in the North Sea. There have been instances where sovereignty has been
+temporarily suspended to allow for shared resource development. Conflicts in the North Sea
+were resolved through numerous treaties reached by the contending nations (Barry et al. n.d.).
+According to Ashley Roach, UNCLOS defines a full-fledged island as one that can sustain life, is
+always above water, and is thus subject to sovereignty claims and maritime zone entitlements.
+According to UNCLOS, maritime zone rights include a territorial sea of 12 nautical miles (nm), an
+exclusive economic zone (EEZ) of 200 nautical miles (nm), and a continental shelf of 200 nautical
+miles (nm) (Roach 2015). All states have the right to navigate and communicate within an EEZ,
+but the right to extract, explore, manage, and exploit resources belongs to the state with
+sovereign rights. The median line principle, which states that every point should be equidistant
+from the baseline, should also be addressed because it was utilized as a first step in resolving
+North Sea conflicts. It was the approach used to split the North Sea in 1965 between the UK and
+Norway, in 1999 between Scotland and the rest of the UK for fisheries, and the 1960s for
+borders with other nations (Brocklehurst 2013). Oil and natural gas were extracted in the 1960s
+after the UK, Norway, Denmark, Germany, and the Netherlands agreed to national EEZ
+restrictions. The median line principle, agreed upon in March 1965, governs oil output. Oil firms
+were then granted production licenses that granted them exclusive rights to explore, drill, and
+produce (Government of Norway 2013).
+
+408
+
+Journal of Liberty and International Affairs | Volume 8 · Number 3 · 2022 | eISSN 1857-9760
+Published online by the Institute for Research and European Studies at www.e-jlia.com
+
+According to Barry, Elema, and van der Molen, the Dutch formula for successful North
+Sea governance involves management and governance, having a philosophy, and defining
+limitations. The three governance components are regional and international treaties,
+agreements, and legislation; formal institutions to help smooth out national policies; and shared
+information systems to aid administration. When it comes to resolving maritime disputes, the
+median line technique is commonly used, with a few exceptions, “when political and equity
+issues are taken into account” (Barry et al. n.d.). It is encouraging to see treaties adapt to the
+changing international context, especially when baselines constantly evolve in concert with
+resource needs (Barry et al. n.d.). The United Kingdom and Norway signed the Frigg Unitization
+Agreement in 1976, which set a precedent for future cooperative accords. The treaty came up
+due to a common problem: partitioning a fluid hydrocarbon deposit that straddled an
+international border. The deal permitted a single operator acting on behalf of many parties to
+develop a field. It also kept key aspects from prior agreements, such as a common deposit
+clause and a commitment to observe the continental shelf demarcation as the final deciding
+factor in apportioning reserves (Wong 2008). Other cross-border unitization agreements, such as
+the Statfjord Agreement between the United Kingdom and Norway in 1979, followed suit in a
+similar spirit. The Ems-Dollard Treaty, signed at the Hague on April 8, 1960, formalized various
+cooperation agreements while leaving the border problem unsolved. Fishing was allowed in the
+common area, categorized as internal water or territorial sea (Molenaar 2002, 120). The pact was
+modified multiple times to satisfy changing interests, including measures addressing mining and
+environmental concerns. A management agreement for the estuary, covering waterway traffic
+and resources, was completed in 2013 after years of talks dating back to 1989.
+The regulation of the common fisheries policy was last updated on 1 January 2014, after
+being introduced in 1970 and accepted by the European Union in 1983 (European Parliament
+2022). Catch quotas are allocated to the member nations of Denmark, the Netherlands, Norway,
+and the United Kingdom to maintain sustainability and economic viability. Implementation
+began in 2003 with a monitoring scheme involving monitoring boarding fishing vessels.
+The South China Sea maritime conflicts showed some signs of collaboration. The
+Declaration on the Behaviour of Parties in the South China Sea was signed in 2002 as a
+cooperative gesture to codify a non-binding code of conduct. Ministers from eleven ASEAN
+nations and the People's Republic of China signed it. A commitment “to freedom of navigation
+and oversight as given by generally recognized norms of international law, including UNCLOS”
+(Buszynski 2003) is one of the most significant issues. Second, peaceful ways should be used to
+resolve problems instead of turning to threats or using force. Last but not least, self-control is
+exercised in activities that might complicate or aggravate disagreements and jeopardize peace
+and stability, including dwelling features (Buszynski 2003).
+In contrast to events in the North Sea, the Philippines submitted the Spratly case to the
+UN tribunal on 7 July 2015, citing violations of the UNCLOS treaty and the 2002 Declaration on
+the Conduct of Parties in the South China Sea.
+The Philippine government's main claims against China are that China has no historic
+rights, that the nine-dash line is unfounded, that the maritime features China claim as islands are
+rocks, and that permanently changing their features through reclamation does not change their
+original nature and that China has irreversibly damaged the marine environment. If China “can
+
+409
+
+Journal of Liberty and International Affairs | Volume 8 · Number 3 · 2022 | eISSN 1857-9760
+Published online by the Institute for Research and European Studies at www.e-jlia.com
+
+defy the limits imposed by the Convention on its maritime entitlements in the South China Sea,
+and disregard the rights of the Philippines under the Convention, then what value is there in the
+Convention for small States Parties concerning their bigger, more powerful, and better-armed
+neighbors?” (Rosario 2015). Albert F. Del Rosario, former Secretary of Foreign Affairs of the
+Philippines, at the end of his statement before the Permanent Court of Arbitration, further
+added that, at the “danger of China ejecting us, the Philippines is using every weapon in its
+limited armory” (Rosario 2015). Because it lacks the vision or resources to strengthen its position
+on the ground, the Philippines is raising the diplomatic stakes for China, forcing it to choose
+between honoring its treaty pledge as a 2006 UNCLOS signatory or publicly disobeying it. The
+Permanent Court of Arbitration decided in October 2015 that it had jurisdiction over the
+Philippines' complaint against China and that hearings would take place (Perlez 2015). China
+does everything it can to stymie the process by refusing to engage in the procedures and
+insisting on a bilateral solution instead (Calonzo 2015). China has yet to explain its claims for
+resource-rich areas or the whole South China Sea within the nine-dash line. It has opted out of
+mandatory arbitration, questioning the UNCLOS' jurisdiction to adjudicate sovereignty-related
+conflicts (Heydarian 2015).
+China claims all land inside the ill-defined „nine-dash line‟, which runs from Taiwan to
+Malaysia. This boundary is allegedly based on outdated maps. The Hague International Court of
+Justice decided that such a claim lacked legal support in 2016. Other nations have continued to
+protest about Chinese warships in their seas while China disputed the ruling. However, the 2016
+judgment is legally binding, and China must be compelled to uphold it. India stated at a recent
+East Asia Summit (EAS) meeting that the Code of Conduct for SCS, currently being negotiated
+between China and ASEAN, should not prejudice the legitimate interests of third parties and
+should be consistent with the United Nations Convention on the Law of the Sea.
+CONCLUSION
+The most controversial issue in the maritime disputes over the East and South China Seas
+is sovereignty or rival claims to ownership of the islands. Much can be accomplished if claimants
+are willing to set aside their respective ownership claims to foster joint development in the
+interim, preferably one that takes into account the lessons learned from the North Sea
+experience, without alienating smaller powers in the region or leaving China wanting.
+Across the 1970s, confidence-building methods were used in Europe to create a channel
+for dispute resolution. In the North Sea, for example, an agreement was established before the
+start of resource exploitation to preclude competing drilling. The treaties that regulate the North
+Seas are founded on international law principles that promote restraint and collaboration, as
+stated "in Article 83(3) of the Law of the Sea convention, which specifies that governments
+concerned should make every effort not to compromise the final accord” (United Nations
+Convention on the Law of the Sea 1982). According to Bonnie Glaser, confidence-building tactics
+are an effective strategy for resolving political impasses. Formal, informal, unilateral, bilateral,
+multilateral, military, cultural, social, and non-profit formats may be used; transparency is
+essential to create confidence and end hostilities (Glaser 2015). In the Spratly, Paracel, and
+Senkaku/Diaoyu disputes, on the other hand, little is being done to foster confidence-building
+
+410
+
+Journal of Liberty and International Affairs | Volume 8 · Number 3 · 2022 | eISSN 1857-9760
+Published online by the Institute for Research and European Studies at www.e-jlia.com
+
+measures or to exercise restraint; instead, the opposite is happening. In the South China Sea
+issue, creeping expansionism is comparable to what Nye defined as British and Soviet defensive
+expansionism in the nineteenth century (Nye Jr. 2008, 132). The Permanent Court of Arbitration
+decided on 29 October 2015 to consider the Philippines' complaint against China in the South
+China Sea over the features that China currently controls (Kraska 2015). China boycotted the
+hearings, and its Foreign Ministry has stated that it will not accept any court decision. Despite
+ratifying UNCLOS in 1996, the PRC issued a declaration 10 years later in 2006 stating that it
+would not accept procedures involving binding rulings. China ironically cited UNCLOS
+regulations in its conflict with Japan over the Senkaku/Diaoyu islands in 2009 (Wagner and
+Tupaz 2015). China is threatening to withdraw from the treaty in response to international
+criticism of its aggressive pursuit of maritime claims, claiming, among other things, that the US
+is not a signatory; world powers use international law for self-interest, and the benefits of
+withdrawing from the treaty outweigh the costs (Valencia 2013). China is breaking international
+law at every turn as it pushes through with its land reclamation work in the Spratlys, which
+comes on top of the latest concern that China would announce an expanded ADIZ across the
+Spratly and Paracel islands.
+Any type of cooperation or appeasement will not be well welcomed by domestic
+constituencies when nationalistic sentiments ring loud, historic passions are constantly
+regurgitated, and the status quo is forcibly upset. Because the states studied in Gause's study in
+the Middle East confronted several foreign and domestic threats, alliance options must be
+adequately organized, according to Gause. In 2003, he cited Jordan and Saudi Arabia as
+countries that balanced maintaining connections with the US while actively opposing the
+unpopular Iraq War at home (Gause III 2003). China's competitors and neighbors in the East and
+South China Sea conflicts exhibit similar balancing conduct. Japan and the Philippines have
+pushed for more robust economic and military ties with the US. Gause also discovered that risks
+to internal regime security posed by pan-Arabism and Islam were more important to most
+regimes than just strengthening military capability (Gause III 2003). Fravel's examination of
+China's territorial compromises, in which it relinquished most of its territory in border areas
+where the government's management was shaky, provides similar support for Gause's claim. In
+addition, China, Japan, and the Philippines use soft and hard power tools. China has delayed its
+relations with countries involved in territorial disputes in the East and South China Seas for
+several decades. This strategy has shifted due to Chinese domestic politics and changing
+economic requirements, a shifting balance of power among the region's important nations, and
+a movement in the international system due to the perceived decline of US dominance in the
+Asia Pacific. As a result of China's increased use of hard power, countries in the region are
+experimenting with various ways to safeguard the security of their interests.
+China's actions may be a reaction to changes in the alliance system at the system level;
+its supremacy may be a case of too much, too fast. China's increased use of military force in its
+maritime conflicts in the East and South China Seas has prompted the US, Japan, and some of
+China's neighbors to engage in threat-balancing actions. The Philippines and Vietnam are also
+employing the soft and hard power tools at their disposal, such as growing militarization,
+courting foreign partners such as the United States through mutual defense treaties, and
+requesting UNCLOS, which will elevate the conflicts to a multilateral level.
+
+411
+
+Journal of Liberty and International Affairs | Volume 8 · Number 3 · 2022 | eISSN 1857-9760
+Published online by the Institute for Research and European Studies at www.e-jlia.com
+
+A good explanation for China's behavior in its territorial disputes in the East and South
+China Seas is neorealism1. On 27 October 2015, a US-guided missile destroyer traveled 12
+nautical miles off Subic Reef, the Philippines' closest neighbor, in Chinese-controlled territory
+(Tisdall 2015). Despite China's condemnation, Australia, Japan, the Philippines, and others have
+supported the move (LaGrone 2015). The US and Japan are strengthening their military ties by
+giving the Japanese Self Defence Forces greater global mobility (Pei 2015). States are
+responsible for their security in the absence of a higher government. Given China's expanding
+influence in the region, how the resolution is reached may establish a precedent for other
+territorial claims. China can act as a stabilizing or destabilizing force in the Asia Pacific as a
+regional power. Sovereignty will not be put on hold in the interim for shared development.
+
+1
+
+Neorealism, also known as structural realism, is a theory of international relations that places an emphasis on the
+role of power politics in these relationships, sees conflict and competition as enduring characteristics, and sees little
+room for cooperation.
+
+412
+
+Journal of Liberty and International Affairs | Volume 8 · Number 3 · 2022 | eISSN 1857-9760
+Published online by the Institute for Research and European Studies at www.e-jlia.com
+
+COMPLIANCE WITH ETHICAL STANDARDS
+Acknowledgments:
+Not applicable.
+Funding:
+Not applicable.
+Statement of Human Rights:
+This article does not contain any studies with human participants performed by any authors.
+Statement on the Welfare of Animals:
+This article does not contain any studies with animals performed by any authors.
+Informed Consent:
+Not applicable.
+
+Publisher‟s Note:
+The Institute for Research and European Studies remains neutral concerning jurisdictional claims
+in published maps and institutional affiliations.
+
+413
+
+Journal of Liberty and International Affairs | Volume 8 · Number 3 · 2022 | eISSN 1857-9760
+Published online by the Institute for Research and European Studies at www.e-jlia.com
+
+REFERENCES
+1. Ansfield, Jonathan. 2014. “To Bolster Its Claims, China Plants Islands in Disputed Waters
+(Published 2014).” The New York Times, June 16, 2014.
+https://www.nytimes.com/2014/06/17/world/asia/spratly-archipelago-china-trying-tobolster-its-claims-plants-islands-in-disputed-waters.html.
+2. The Asian Secretariat. 2012. “Declaration on the Conduct of Parties in the South China
+Sea.” Association of South East Asian Nations. https://asean.org/declaration-on-theconduct-of-parties-in-the-south-china-sea-2/.
+3. Bader, Jeffrey A. 2014. “The US and China‟s Nine-Dash Line: Ending the Ambiguity.”
+Brookings - Quality. Independence. Impact. February 6, 2014. http://www.brookings.edu.
+4. Barry, Michael, Ina Elema, and Paul van d. Molen. n.d. “Governing the North Sea in the
+Netherlands.” International Federation of Surveyors.
+https://www.fig.net/resources/publications/figpub/pub36/chapters/chapter_5.pdf.
+5. BBC News. 2014. “How uninhabited islands soured China-Japan ties.” BBC, November 10,
+2014. http://www.bbc.com/news/world-asia-pacific-11341139.
+6. Boudreau, John. 2014. “China's Airstrip in Paracel Islands Heightens Vietnam Tensions.”
+Bloomberg Business, October 9, 2014. http://www.bloomberg.com/news/articles.
+7. Brocklehurst, Steven. 2013. “BBC News: Home.” BBC, April 16, 2013.
+http://www.bbc.com/news.
+8. Brocklehurst, Steven. 2013. “BBC News: Home.” BBC, April 16, 2013.
+http://www.bbc.com/news.
+9. Buszynski, Leszek. 2003. “ASEAN, the Declaration on Conduct, and the South China Sea.”
+Contemporary South East Asia 25 (3): 343-362. JSTOR.
+10. Calmes, Jackie. 2015. “Trans-Pacific Partnership Is Reached, but Faces Scrutiny in
+Congress.” The New York Times, October 5, 2015. http://nyti.ms/1Ngd3Z4.
+11. Calonzo, Andreo. 2015. “Arbitral tribunal ends jurisdiction hearing on Philippine case vs.
+China.” http://www.gmanetwork.com/news/story.
+12. Council on Foreign Relations. n.d. “China's Maritime Disputes.” YouTube. Accessed
+August 19, 2022. https://www.cfr.org/chinas-maritime-disputes/#!/.
+13. Denyer, Simon. 2019. “Japan builds an island 'wall' to counter China's intensifying
+military, territorial incursions.” The Washington Post, August 21, 2019.
+https://www.washingtonpost.com/world/asia_pacific/japan-builds-an-island-wall-tocounter-chinas-intensifying-military-territorial-incursions/2019/08/20/802bc282-ae1111e9-9411-a608f9d0c2d3_story.html.
+14. Dobson, William J., and M. T. Fravel. 1997. “Red Herring Hegemon: China in the South
+China Sea.” Current History 96 (611). JSTOR.
+15. The Economist. 2012. “Protesting too much; East Asian Rivalry.” The Economist - World
+News, Politics, Economics, Business & Finance, September 22, 2012.
+http://www.economist.com.
+16. The Economist. 2013. “The Senkaku/Diaoyu islands Dangerous shoals.” The Economist,
+January 19, 2013. http://www.economist.com/node/21569740.
+
+414
+
+Journal of Liberty and International Affairs | Volume 8 · Number 3 · 2022 | eISSN 1857-9760
+Published online by the Institute for Research and European Studies at www.e-jlia.com
+
+17. The Economist. 2014. “The Pacific Age.” The Economist, November 15, 2014.
+https://www.economist.com/special-report/2014/11/13/the-pacific-age.
+18. The Economist. 2015. “Don't Treat Trade as a Weapon.” The Economist, April 23, 2015.
+https://www.economist.com/leaders/2015/04/25/dont-treat-trade-as-a-weapon.
+19. Fravel, M. T. 2005. “Regime Insecurity and International Cooperation: Explaining China's
+Compromises in Territorial Disputes.” International Security 30 (2): 46-83. JSTOR.
+20. Fravel, M. T. 2008. Strong Borders, Secure Nation: Cooperation and Conflict in China's
+Territorial Disputes. N.p.: Princeton University Press.
+21. Gady, Franz, and Juan M. Harán. 2018. “China Flies Long-Range Bombers, Fighter Jets
+Through Miyako Strait.” The Diplomat, March 26, 2018.
+https://thediplomat.com/2018/03/china-flies-long-range-bombers-fighter-jets-throughmiyako-strait/.
+22. Gause III, F. Gregory. 2003. “Balancing What? Threat Perception and Alliance Choice in
+the Gulf.” Security Studies 13 (2): 273-305. 10.1080/09636410490521271.
+23. Giang, Vivian, and Robert Johnson. 2011. “108 Giant Chinese Infrastructure Projects that
+are Reshaping the World.” Business Insider, December 5, 2011.
+http://www.businessinsider.com.
+24. Glaser, Bonnie S. 2015. “Confidence Building Measures.” Center for Strategic and
+International Studies. http://csis.org/programs/international-security-program/asiadivision.
+25. Government of Norway. 2013. “Norway's oil history in 5 minutes.” Forsiden regjeringen.no. https://www.regjeringen.no.
+26. Guo, Aibing, and Rakteem Katakey. 2012. “Disputed Islands with 45 Years of Oil Split
+China, Japan.” Bloomberg, October 10, 2012.
+https://www.bloomberg.com/news/articles/2012-10-10/disputed-islands-with-45-yearsof-oil-split-china-japan.
+27. Heydarian, Richard J. 2015. “The moment of truth: Philippines vs. China at The Hague.”
+CNN Philippines, July 9, 2015. http://cnnphilippines.com/news/2015/07/09.
+28. Hill, Craig. 2012. “China's nine-dashed line in the South China Sea.” China News – News
+and Feature Articles About China, May 25, 2012. http://chinadailymail.com.
+29. Kraska, James. 2015. “A Legal Analysis of the Philippine-China Arbitration Ruling.” The
+
+Diplomat – The Diplomat is a current-affairs magazine for the Asia-Pacific, with news and
+analysis on politics, security, business, technology and life across the region., November
+
+2, 2015. http://thediplomat.com/2015.
+30. Kumar, Ajeet. 2022. “Chinese & Russian warships spotted yet again outside Senkaku
+islands, Japan MoD claims.” Republic World. https://www.republicworld.com/worldnews/rest-of-the-world-news/chinese-and-russian-warships-spotted-yet-again-outsidesenkaku-islands-japan-mod-claims-articleshow.html.
+31. Kyodo. 2018. “China-Japan hotline launched to avoid sea, air clashes.” South China
+Morning Post, June 8, 2018. https://www.scmp.com/news/china/diplomacydefence/article/2149835/china-japan-hotline-launched-avoid-sea-air-clashes.
+32. LaGrone, Sam. 2015. “US Destroyer Made an „Innocent Passage‟ Near Chinese South
+China Sea
+
+415
+
+Journal of Liberty and International Affairs | Volume 8 · Number 3 · 2022 | eISSN 1857-9760
+Published online by the Institute for Research and European Studies at www.e-jlia.com
+
+33. Artificial Island in Recent Mission.” US Naval Institute News, October 2, 2015.
+http://news.usni.org/2015/11/02.
+34. Lewis, Alexander. 2015. “North Sea.” http://www.britannica.com/place/North-Sea.
+35. Li, Zoe. 2014. “China finds signs of oil near disputed Paracel Islands.” CNN, July 16, 2014.
+https://edition.cnn.com/2014/07/16/world/asia/china-paracel-islands-drillingcompleted/index.html.
+36. Liao, Janet X. 2008. “Sino-Japanese Energy Security and Regional Stability: The Case of
+the East China Sea Gas Exploration.” East Asia 25 (1): 57-78.
+https://www.researchgate.net/publication/227218775_SinoJapanese_Energy_Security_and_Regional_Stability_The_Case_of_the_East_China_Sea_Gas_
+Exploration.
+37. Malik, Mohan. 2013. “Historical Fiction: China's South China Sea Claims.” World Affairs
+176, no. 1 (June): 83-90. http://www.jstor.org/stable/43554768.
+38. Molenaar, E. J. 2002. “Fisheries in a European and international legal context.”
+Netherlands Yearbook of International Law 33 (July): 119-170.
+10.1017/S016767680000132X.
+39. Nye, Joseph S. 2007. Understanding International Conflicts: An Introduction to Theory
+and History. 6th ed. N.p.: Pearson Longman.
+40. Nye Jr., Joseph S. 2008. Understanding International Conflicts: An Introduction to Theory
+and History. N.p.: Longman. 9780321011015.
+41. Panda, Ankit, and Shannon Tiezzi. 2014. “Obama: Senkakus Covered Under US-Japan
+Security Treaty.” The Diplomat, April 24, 2014. https://thediplomat.com/2014/04/obamasenkakus-covered-under-us-japan-security-treaty/.
+42. Pei, Minxin. 2015. “Why the New US-Japan Security and Trade Pacts Will Incur China's
+Wrath.” Huffington Post, May 4, 2015. http://www.huffingtonpost.com/minxin-pei.
+43. Perlez, Jane. 2015. “In Victory for the Philippines, Hague Court to Hear Dispute Over
+South China Sea.” New York Times, October 30, 2015.
+http://www.nytimes.com/2015/10/31/world/asia.
+44. Pincus, Walter. 2015. “China is not the only country reclaiming land in the South China
+Sea.” The Washington Post, June 1, 2015.
+https://www.washingtonpost.com/world/national-security/china-is-not-the-onlycountry-reclaiming-land-in-south-china- sea/2015/06/01/38817a58-0569-11e5-a428c984eb077d4e_story.html.
+45. Pincus, Walter. 2015. “National Security.” The Washington Post, June 1, 2015.
+http://www.washingtonpost.com/world/national-security.
+46. Pletcher, Kenneth. n.d. “Spratly Islands.” Encyclopedia Britannica.
+https://www.britannica.com/place/Spratly-Islands.
+47. Rinehart, Ian E., and Bart Elias. 2015. “China's Air Defense Identification Zone (ADIZ).” FAS
+Project on Government Secrecy. https://sgp.fas.org/crs/row/R43894.pdf.
+48. Roach, J. A. 2015. “China's Shifting Sands in the Spratlys.” American Society of
+International Law 19, no. 15 (July).
+https://www.asil.org/insights/volume/19/issue/15/chinas-shifting-sands-spratlys.
+
+416
+
+Journal of Liberty and International Affairs | Volume 8 · Number 3 · 2022 | eISSN 1857-9760
+Published online by the Institute for Research and European Studies at www.e-jlia.com
+
+49. Rosario, Albert D. 2015. “Statement before the Permanent Court of Arbitration, The
+Hague.”
+https://www.americanrhetoric.com/speeches/albertdelrosariopermanentcourtofarbitratio
+nsouthchinasea.htm.
+50. Samuels, Marwyn. 2015. Contest for the South China Sea. N.p.: Routledge.
+51. Tiezzi, Shannon, and Mercy A. Kuo. 2014. “A China-Japan Breakthrough: A Primer on
+Their 4 Point Consensus.” The Diplomat, November 7, 2014.
+https://thediplomat.com/2014/11/a-china-japan-breakthrough-a-primer-on-their-4point-consensus/.
+52. Tisdall, Simon. 2015. “US maneuver in the South China Sea leaves little wiggle room with
+China.” The Guardian, October 27, 2015.
+http://www.theguardian.com/world/2015/oct/27.
+53. Tri, Ngo M., and Koh Swee L. Collin. 2014. “Lessons from the Battle of the Paracel
+Islands.” The Diplomat, January 23, 2014. https://thediplomat.com/2014/01/lessonsfrom-the-battle-of-the-paracel-islands/.
+54. US Energy Information Administration. 2013. “Contested areas of South China Sea likely
+have few conventional oil and gas resources.” US Energy Information Administration EIA - Independent Statistics and Analysis.
+https://www.eia.gov/todayinenergy/detail.php?id=10651.
+55. Valencia, Mark. 2013. “The danger of pushing China too far on the law of the sea.” South
+China Morning Post: HK, China, Asia news & opinion from SCMP's global edition, July 9,
+2013. http://www.scmp.com.
+56. Wagner, Daniel, and Edsel Tupaz. 2015. “China, the Philippines, and the Rule of Law.”
+Huffington Post, November 2, 2015. http://www.huffingtonpost.com.
+57. Welch, David A. 2013. “What's an ADIZ?” Foreign Affairs, December 9, 2013.
+http://www.foreignaffairs.com/articles/140367/david-a-welch/whats-an-adiz.
+58. Wong, Avril-Lee. 2008. “The North Sea Experience-An Analysis of Cross Border
+Unitisation- And Move towards Establishing an International Legal Framework.” The
+Centre for Energy, Petroleum and Mineral Law and Policy Gateway.
+http://www.dundee.ac.uk/cepmlp/gateway.
+59. Wong, Edward, and Jonathan Ansfield. 2014. “To Bolster Its Claims, China Plants Islands
+in Disputed Waters.” The New York Times, June 16, 2014.
+http://www.nytimes.com/2014/06/17/world/asia.
+60. The World Fact Book. 2015. “Paracel Islands.” The World Factbook.
+https://www.cia.gov/library/publications/the-world-factbook/geos/pf.html.
+
+417
+
+

@@ -1,0 +1,1249 @@
+The Paciﬁc Review
+
+ISSN: 0951-2748 (Print) 1470-1332 (Online) Journal homepage: www.tandfonline.com/journals/rpre20
+
+Why do states engage in cybersecurity capacitybuilding assistance? Evidence from Japan
+Benjamin Bartlett
+To cite this article: Benjamin Bartlett (2024) Why do states engage in cybersecurity
+capacity-building assistance? Evidence from Japan, The Paciﬁc Review, 37:3, 475-503, DOI:
+10.1080/09512748.2023.2183242
+To link to this article: https://doi.org/10.1080/09512748.2023.2183242
+
+Published online: 28 Feb 2023.
+
+Submit your article to this journal
+
+Article views: 899
+
+View related articles
+
+View Crossmark data
+
+Citing articles: 2 View citing articles
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=rpre20
+
+THE PACIFIC REVIEW
+2024, VOL. 37, NO. 3, 475–503
+https://doi.org/10.1080/09512748.2023.2183242
+
+Why do states engage in cybersecurity
+capacity-building assistance? Evidence
+from Japan
+Benjamin Bartlett
+Department of Political Science, Miami University, Oxford, OH, USA
+ABSTRACT
+
+In 2009, Japan began to engage in cybersecurity capacity-building assistance
+in Southeast Asia. Based on existing literature, there are three plausible
+motives for Japan to have done so. The first was to strengthen its economic
+security, either by promoting its own cybersecurity firms or by reducing risks
+to its supply chain and the regional infrastructure upon which its firms relied.
+The second was to strengthen diplomatic and security ties with Southeast
+Asia in the face of a rising China. The third was to promote norms regarding
+the use of cyberspace in line with its newly-declared “values oriented diplomacy”. By examining both the nature of the assistance given in the first few
+years and government statements and documents surrounding the decision
+to provide assistance, this article finds that Japan engaged in cybersecurity
+capacity-building assistance with ASEAN member-states primarily to maintain
+a stable economic environment for its firms. This is evidence that, despite
+reforms made in Japan during the 2000s meant to encourage the use of foreign aid to pursue wider geopolitical goals, in some areas economic security
+continued to be a major driver of Japanese foreign aid. These findings also
+highlight that while cybersecurity capacity-building assistance is a form of
+security cooperation, it cannot be assumed that traditional security concerns
+are what is driving it.
+
+KEYWORDS Japan; ASEAN; foreign aid; cybersecurity; capacity-building
+
+Introduction
+Starting in 2009, Japan began to engage in cybersecurity capacity-building
+assistance. While some of this assistance was a natural extension of its existing capacity-building efforts, such as adding training on cybercrime to its
+law enforcement capacity-building assistance, much of this was new.1 This
+article seeks to explain why Japan chose to engage in cybersecurity
+CONTACT Benjamin Bartlett
+bartlebg@miamioh.edu
+Department of Political Science, Miami
+University, 125 Harrison Hall, 349 E. High Street, Oxford, OH 45056-2807, USA.
+ß 2023 Informa UK Limited, trading as Taylor & Francis Group
+
+476
+
+B. BARTLETT
+
+capacity-building assistance. It does so by looking at the period immediately before and after Japan’s decision to engage in cybersecurity capacitybuilding assistance, as its early projects should reflect the priorities it had at
+the time of the initial decision. During this period, which lasted through
+2013, Japan’s cybersecurity capacity-building assistance primarily targeted
+Southeast Asia2, under the auspices of the ASEAN-Japan Information
+Security Policy Meeting.3 At this point, assistance was primarily given for
+building government capacities, including through the development of policy, and for educating general publics. After this period, both the number
+of organizations involved in providing assistance and the nature of that
+assistance would expand.
+This article argues that, based on existing literature and Japan’s stated foreign policy agenda at the time, there are three likely explanations for the initial decision to engage in cybersecurity capacity-building. The first explanation
+is that the Japanese government sought to protect Japan’s economic security,
+either by promoting its own cybersecurity technologies or by helping to
+ensure a stable economic environment in a region on which its own economy
+heavily relies. The second is that Japan’s government sought to strengthen
+political and security ties with ASEAN member-states, in no small part to counter the influence of China. The third possibility is that it was seeking to promote its preferred norms regarding the use of cyberspace, in line with the
+“values oriented diplomacy” enunciated by the first Abe administration.
+Looking at descriptions of the capacity-building assistance projects, policy
+documents, public statements, and the minutes of meetings of the committee
+that at the time decided on Japan’s national cybersecurity strategies, I find
+that the original decision to engage in cybersecurity capacity-building assistance in Southeast Asia was made for reasons of economic security, specifically
+in the sense of maintaining a stable economic environment.
+This article contributes to two sets of literatures. The first is the literature
+on cybersecurity cooperation. This is still a relatively new area of research,
+and to date the literature has focused either on cooperation among developed countries (Anagnostakis, 2021; Vosse, 2022) or within ASEAN (Heinl,
+2014). Given the growing need for cybersecurity capacity in developing
+countries, developed countries will increasingly find cybersecurity capacitybuilding assistance to be a useful tool of foreign policy, and thus it is
+important to understand to what ends they will use it.
+The second set of literature looks at the reasons why states provide foreign aid. This literature suggests that the recipients of foreign aid, including
+technical cooperation, are primarily determined by the political and strategic concerns of the donor state (Alesina & Dollar, 2000; Bueno de
+Mesquita & Smith, 2007, 2016; Dreher et al., 2018; Fuhrmann, 2009; Lebovic,
+1988; Rudloff et al., 2013) However, this leaves open the question of what,
+
+THE PACIFIC REVIEW
+
+477
+
+exactly, those political and strategic concerns are. Until the 2000s, it was
+generally agreed that Japan primarily used its foreign aid to pursue its own
+economic goals (Arase, 1994, 1995; Pharr & Bullock, 1994; Yasutomo, 1986).
+Yet, since that time an increasing number of scholars have argued that
+Japan has been using its foreign aid to achieve wider geopolitical goals,
+pointing in particular to reforms that began under Prime Minister
+Hashimoto Ryutaro in 1998. These reforms culminated with the increased
+centralization of aid distribution under a single agency in 2008, under
+Prime Minister Abe Shinzo (Jain, 2016; Trinidad, 2018; Yamamoto, 2020).
+Because cybersecurity capacity-building assistance is useful both for
+strengthening economic security and for building political and security ties,
+it provides a useful case for understanding whether these reforms led
+Japan to use its aid to pursue wider geopolitical goals whenever possible,
+or whether economic security continued to be a driver of its behavior.
+Thus, this article brings these two literatures together, contributing to
+the cybersecurity cooperation literature by beginning to explore why developed states are cooperating with developing states on cybersecurity, and
+contributing to the literature on Japanese foreign aid by examining
+whether this shift to wider geopolitical goals is reflected in Japan’s cybersecurity capacity-building assistance.
+This article proceeds as follows: first, I discuss the three possible motives
+for Japan to be engaging in capacity-building assistance. Then I briefly outline the methodology of this article. I follow this by describing the initial
+period of capacity-building assistance, from 2009 to 2013, and show that
+the assistance could have been driven either by economic security concerns
+or by a desire to build ties. I then look at evidence from policy documents,
+the minutes of meetings, and public statements to show that economic
+security was the main impetus for Japan to begin cybersecurity capacitybuilding assistance. I conclude with some brief evidence that economic
+security continues to be a driver of Japan’s cybersecurity capacity-building
+assistance and a discussion of the implications of this article.
+
+Seeking economic security
+Scholarship on Japan has long noted that its foreign policy and security
+decisions are in no small part motivated by a desire to maintain its economic security (Friedman & Samuels, 1993; Heginbotham & Samuels, 1998;
+Katzenstein & Okawara, 1993). Indeed, while there has been a great deal of
+political disagreement within Japan over more traditional security issues,
+including the role of the Japan Self-Defense Forces (JSDF), there has been
+wide consensus on economic security issues (Katzenstein & Okawara, 1993).
+This desire for economic security has been a major motivation for its
+
+478
+
+B. BARTLETT
+
+foreign aid as well. Indeed, through the 1990s, this was widely considered
+by scholars to be the main driver for Japan’s foreign aid (Arase, 1994, 1995;
+Pharr & Bullock, 1994; Yasutomo, 1986) though by the end of the 1990s
+there had been some movement toward using foreign aid for other purposes as well (Hook & Zhang, 1998; Miyashita, 1999).
+However, many scholars, including Jain (2016), Trinidad (2018), and
+Yamamoto (2020), argue that Japanese behavior shifted beginning around
+the 2000s, and particularly after 2008 when the distribution of ODA became
+increasingly centralized. Prior to 2008, aid was disbursed not by a single
+organization, but by four different bureaucratic organizations: the Ministry
+of Foreign Affairs (MOFA), the Ministry of Economy, Trade and Industry
+(METI) (formerly the Ministry of International Trade and Industry (MITI)), the
+Ministry of Finance (MOF), and the Economic Planning Agency (EPA). While
+MOFA was interested in using this aid to promote Japan’s image abroad, as
+well as for geopolitically strategic reasons, MITI/METI and EPA were primarily concerned with strengthening Japan’s economy and promoting its firms
+(MOF was primarily concerned with keeping spending down). This led to a
+conflict of interests when it came to determining how to distribute the aid.
+MITI/METI and EPA tended to win these contests, because they had strong
+domestic constituencies (the business interests they were supporting) that
+could lobby for them, while MOFA did not. As a result, Japan’s ODA tended
+to be used to support its firms rather than for larger geopolitical goals
+(Hook & Zhang, 1998; Orr, 1990; Rix, 1980, 1989).
+However, in 2008, there was a shift in terms of who was in control of disbursing aid. The Japan International Cooperation Agency (JICA), which
+MOFA oversees, was reorganized into an independent administrative
+agency and put in charge of administering and coordinating ODA loans,
+grants, and technical assistance. This was the result of a long series of
+reforms that had begun at least as early as 1998, when then-Prime Minister
+Hashimoto presented structural reforms meant to help create a more coherent ODA strategy that would follow the guidelines of the Prime Minister,
+instead of separate efforts determined by the interests of the ministries
+involved. The effort to reform ODA policy to make it more strategic continued under Prime Minister Koizumi Junichiro (2001–2006). In 2006, Prime
+Minister Abe Shinzo, who as chief cabinet secretary under PM Koizumi had
+been a major backer of reform, would pass the bill that led to the 2008
+reorganization (Yamamoto, 2020). While this did not entirely eliminate the
+role of other ministries and agencies in disbursing Japan’s ODA, it greatly
+strengthened MOFA’s influence over ODA disbursement. As a result, several
+authors argue that Japan became more strategic in its use of ODA due to
+the centralization of ODA policymaking under a single pilot organization
+(Jain, 2016; Trinidad, 2018; Yamamoto, 2020).
+
+THE PACIFIC REVIEW
+
+479
+
+Despite this change, however, some authors have continued to point to
+economic security as at least a partial explanation for Japan’s foreign policy
+and foreign aid behavior (Bradford, 2004; Jain, 2016; Yoshimatsu, 2017).
+Moreover, METI, which is the ministry most heavily concerned with Japan’s
+economic security, plays a large role in determining Japan’s cybersecurity
+policy, as does the Ministry of Internal Affairs and Communications (MIC),
+which, given its responsibility for Japan’s telecommunications firms, also
+has incentives to promote Japan’s economic security within that particular
+sector (Bartlett, 2018, 2022). Indeed, from 2009–2013, JICA was not involved
+in cybersecurity capacity-building assistance in ASEAN. Instead, as mentioned earlier, assistance was distributed under the auspices of the ASEANJapan Information Security Policy Meeting, in which METI and MIC, but not
+MOFA, were participants. Thus, there are good reasons to believe that, even
+if Japan’s overall use of ODA was aimed at achieving wider strategic goals
+at this point, its cybersecurity capacity-building assistance could still be primarily driven by economic security concerns.
+However, there are two different ways in which economic security could
+play a role. One way in which Japanese concerns about economic security
+manifest is through a desire for technological autonomy (Friedman &
+Samuels, 1993; Heginbotham & Samuels, 1998; Katzenstein & Okawara,
+1993). Though it is difficult to determine the exact size of Japan’s cybersecurity sector relative to other countries, it is clear that in 2009, it lagged
+behind the United States. Looking at the endpoint security market (which
+covers products that protect end users, such as anti-malware software), one
+Japanese firm, Trend Micro, accounted for an admittedly impressive 9% of
+the share of the market. However, two American firms, Symantec and
+McAfee, held a 35.8% share and a 18.1% share respectively. Additionally, no
+other firm holding at least a 0.1% market share was Japanese; the remainder of such firms were American, European, or Israeli (Kolodgy, 2010). Thus,
+there was good reason for the Japanese government to seek market opportunities for Japanese cybersecurity firms.
+Additionally, because ASEAN member-states were both rapidly-growing
+and were becoming increasingly reliant upon ICT technologies, and
+because they already had strong economic ties to Japan, they represented
+good potential markets for Japanese cybersecurity technologies. One projection at the time predicted that the Asian cybersecurity market would
+increase from around $1.3 billion USD in 2009 to around $2.2 billion by
+2014 (Kolodgy, 2010) (it ended up being closer to $2 billion (Grand View
+Research, n.d.)). While this market includes Northeast Asia as well, nevertheless it gives a sense of the opportunities available in the region. Using
+cybersecurity capacity-building assistance, Japan could create market
+opportunities both directly, by purchasing and then providing Japanese
+
+480
+
+B. BARTLETT
+
+cybersecurity technologies to Southeast Asian countries, and indirectly, by
+having Japanese cybersecurity firms conduct trainings and thus have
+opportunities both to introduce their own products and services and to
+build contacts with governments and firms in target countries. Thus, providing cybersecurity capacity-building assistance to Southeast Asia could be
+consistent with a goal to create markets for Japan’s own cybersecurity
+firms.
+However, there is a second way in which Japan has pursued economic
+security: by making certain that the economic environment in which its
+firms operate is stable. This has included taking steps to secure its supply of
+natural resources (Jain, 2016; Katzenstein & Okawara, 1993) and to combat
+piracy (Bradford, 2004). Because of the interconnected nature of both the
+internet and the global economy, weak cybersecurity in developing states
+potentially threatens the stability of Japan’s economic environment. Due to
+the global nature of the internet, it is easy for actors in cyberspace to act
+across borders. As a result, threats to the cybersecurity of Japanese firms
+can originate anywhere, not simply within its own borders. Moreover, due
+to Japanese foreign direct investment (FDI), outsourcing, and global supply
+chains, its firms are increasingly reliant upon the critical infrastructure of
+developing countries. If cybersecurity in these developing countries is inadequate, then this infrastructure, and thus Japanese firms, are at risk.
+Additionally, access to corporate networks in overseas branches of companies can also be leveraged to obtain access to company networks within
+Japan.
+As with technology promotion, Japan had good reasons to invest in
+cybersecurity capacity-building assistance in Southeast Asia if maintaining a
+stable economic environment was its primary concern. By 2009, ASEAN was
+already both a major trading partner and a primary target for outwardbound FDI from Japan. Japan’s outward FDI to ASEAN totaled $75.746 billion USD, around 10.2% of Japan’s total outward FDI. By 2013, the end of
+the period in question, it had increased to $136.258 billion, or about 12.2%
+of the total. By contrast, in 2009, the Middle East and Africa counted for
+about 0.6% and 0.77% of the total respectively. Of developing regions, only
+Latin America attracted more investment, accounting for about 13.4% of
+investment, though this was driven mainly by the Cayman Islands; without
+them, the number drops to around 4.55%. By 2013 FDI in ASEAN had outgrown FDI in Latin America even including the Cayman Island, a situation
+that has continued to the present day (Japan External Trade Organization
+(JETRO), 2022b). In terms of trade, in 2009 ASEAN accounted for approximately 13.85% of Japan’s exports and 14.1% of its imports. Only China was
+a larger source of imports for that year (Japan External Trade Organization
+(JETRO), 2010).
+
+THE PACIFIC REVIEW
+
+481
+
+Adding to ASEAN’s economic importance to Japan during this period, in
+December 2008, the ASEAN-Japan Comprehensive Economic Partnership
+(AJCEP) Agreement came into force. This agreement covered trade in
+goods, trade in services, and investment. Under this agreement, tariffs for
+most products would be eliminated in 10 years for Japan, Brunei
+Darussalam, Indonesia, Malaysia, the Philippines, Singapore, Thailand, and
+Vietnam, and in 13 years for Cambodia, Laos, and Myanmar (ASEAN, 2015).
+Given this, there were good reasons for Japan to anticipate that the economic importance of ASEAN to Japan would continue to increase, and thus
+to be concerned with strengthening the cybersecurity capacity of ASEAN
+member-states in order to protect Japanese regional investments and
+trade.
+In short, there were two possible economic motives for Japan to provide
+cybersecurity capacity-building assistance to ASEAN member-states. First, it
+is possible Japan was doing this primarily to promote its own firms and
+technologies. Second, it is possible that Japan was doing this primarily to
+maintain a stable economic environment for its firms.
+
+Strengthening ties with ASEAN member-states
+Another possible explanation for Japan deciding to provide cybersecurity
+capacity-building assistance to ASEAN member-states was to strengthen
+diplomatic and security ties. The literature on security-related capacity
+building suggests that it can be particularly useful for strengthening relationships between donors and recipients, and this applies to cybersecurity
+capacity-building assistance as well. According to this literature, assistance
+is most useful in building ties when it is both valuable to the recipient and
+when the asset being provided would be difficult to obtain otherwise
+(Fuhrmann, 2009; Walt, 1987). Both of these apply to cybersecurity capacity-building assistance.
+Cybersecurity capacity is valuable to developing countries for several
+reasons. First, it can help to strengthen their national security against state
+and non-state actors who might use cyber means to collect intelligence or
+to launch attacks against the government. Second, it can help to protect
+critical infrastructure, which is vital both to the economies of these countries and to the lives of their citizens. Third, it can reduce the costs to their
+economies from ransomware and other forms of cybercrime.
+It is also difficult for developing countries to develop adequate cybersecurity capacity without outside assistance. While in theory it might be possible for developing states to build these capabilities without outside help,
+cybersecurity capacity-building assistance allows them to do so in a much
+shorter amount of time and at a lower cost in a situation where time is of
+
+482
+
+B. BARTLETT
+
+the essence. Developing countries’ usage of and reliance upon information
+technology is rapidly increasing, and without an equally-rapid scaling up of
+their cybersecurity capacities they will become increasingly vulnerable.
+Exacerbating this problem, the technologies themselves are rapidly-changing.4 Thus, cybersecurity capacity-building assistance is quite valuable to
+developing countries and so useful for strengthening ties.
+Cybersecurity capacity-building assistance may be particularly valuable
+to ASEAN member-states. Other work has noted that ASEAN member-states
+are particularly drawn to non-traditional security cooperation because their
+governments, which are politically fragile and have limited capacities, are
+more likely to face serious non-military threats than military ones. In particular, these regimes rely on economic growth and stability to justify their
+continuing rule, and therefore threats to growth and stability are particularly troubling (Arase, 2010). Cyber operations, particularly against critical
+infrastructure, pose just such a threat.
+Given that cybersecurity capacity-building assistance is a useful tool for
+building relationships, there are several reasons why Japan could have
+wanted to use it to strengthen ties with ASEAN member-states. First, Japan
+has, since the end of the Cold War, sought to demonstrate that it can serve
+a leadership role in Asia. Part of the way it has done this has to build stronger ties with ASEAN member-states (Sudo, 2009; Yuzawa, 2018). In particular, since 2008 Japan has more forcefully positioned itself as a strategic
+partner to ASEAN member-states in response to China’s increasing efforts
+to strengthen its influence in the region (Wallace, 2019). This fits the timing
+for when Japan begins to engage in cybersecurity capacity-building
+assistance.
+Second, Japan has sought to diversify its security relations beyond the
+U.S. for multiple reasons, including to reduce its dependence on the U.S., to
+build U.S. commitment to the Asian region by developing more multilateral
+security arrangements, and to strengthen its own usefulness as a partner to
+the U.S. These efforts began at the end of the Cold War, but have intensified since 2008 as perceptions of the relative decline of the U.S. and the
+rise of China have intensified (Midford, 2018a, 2018b; Yuzawa, 2018).
+Engaging in cybersecurity capacity-building assistance in Southeast Asia is
+one more way for Japan to build security relations with states in the region.
+Third, Japan has increasingly sought to build security ties in the region
+in response to security challenges posed by China (Hughes, 2009; Koga,
+2020). In the main, the concern has not been that China will use military
+force against Japan, but instead that China will use ‘grey zone’ operations
+that do not rise to the level of military force in order to change the status
+quo. This has been a particular concern in the maritime sphere. One way
+Japan has dealt with this issue has been to cooperate with Southeast Asian
+
+THE PACIFIC REVIEW
+
+483
+
+countries on maritime security, including by providing capacity-building
+assistance to the Philippines, Vietnam, and Indonesia (Grønning, 2018;
+Japan Today, 2016; Koga, 2018; Oros, 2017; Parameswaran, 2016; Pollmann,
+2015). Likewise, Japan may have decided to provide cybersecurity capacitybuilding assistance to Southeast Asian countries to make it more difficult
+for China to conduct grey zone operations via cyber means.
+In summation, there are good reasons to believe the decision to engage
+in cybersecurity capacity-building assistance may have been driven by
+Japan’s desire to build stronger diplomatic and security relations with
+ASEAN member-states. In particular, assistance began in the same period
+when Japan was becoming increasingly worried about the relative decline
+of the U.S. and the increasing strength of China in the region and was taking other steps to build strategic partnerships with Southeast Asian states.
+Additionally, while it is the case that JICA was not directly involved in cybersecurity capacity-building assistance in Southeast Asia during the initial
+period of aid, its reorganization was the result of a series of reforms
+intended to make it easier for Japan to use foreign aid in order to achieve
+broader strategic goals. Not only is it possible these reforms affected cybersecurity capacity-building assistance as well, the fact the reforms occurred
+at all demonstrates that the Japanese government was increasingly interested in using foreign aid for these purposes. Due to these factors, it is
+reasonable to hypothesize that Japan began providing cybersecurity capacity-building assistance to ASEAN member-states to promote diplomatic
+and security ties.
+
+Norm promotion
+A third possible explanation is that Japan was using these capacity-building
+efforts to promote its preferred norms with regard to behavior in cyberspace. The first Abe administration, which was in power from September
+2006 to September 2007, had announced that Japan would implement a
+new “values oriented diplomacy”, which involved, in the words of Foreign
+Minister Aso Taro, “placing emphasis on the “universal values” such as democracy, freedom, human rights, the rule of law, and the market economy”
+(Aso, 2006). The Ministry of Foreign Affairs put this in more concrete terms,
+stating that “Japan will be acting in partnership with other nations that
+share our fundamental values to jointly bring about a society characterized
+by both freedom and prosperity by cooperating in the areas of trade and
+investment as well as by making use of official development assistance to
+provide support for basic human needs such as health care and education,
+support to enable democracy to take root, and support to enhance infrastructure and legal frameworks” (Ministry of Foreign Affairs of Japan, 2007).
+
+484
+
+B. BARTLETT
+
+While these statements do not mention cyberspace specifically, promoting
+norms such as the rule of law in cyberspace and the free flow of information would clearly be in line with such “values oriented diplomacy”.
+While the Abe administration was no longer in power by the time the
+ASEAN-Japan Information Security Policy Meeting was first held in February
+2009, it is entirely possible this new foreign policy approach influenced the
+decision to provide cybersecurity capacity-building assistance to ASEAN
+member-states, both because policy discussions likely began at least a couple of years before the Meeting was first held and because the man who
+had enunciated “values oriented diplomacy” as foreign minister, Aso Taro,
+was prime minister at the time the First Meeting occurred.
+There are two ways in which Japan could have sought to use capacitybuilding assistance to promote norms regarding the use of cyberspace.
+First, because cybersecurity capacity-building assistance includes policy
+development, it could have aimed to embed norms into the cybersecurity
+policies of Southeast Asian states. Second, through interactions between
+government officials through cybersecurity trainings and exercises, it could
+have attempted to socialize government officials from ASEAN memberstates into these norms. Atkinson (2006) finds that the U.S. military has pursued engagement with foreign militaries as a means to promote American
+values and democratic governance. Essentially, military elites in partner
+countries learn about and are socialized into democratic norms by their
+American colleagues. They then use their influential positions within their
+domestic governments to promote those same norms at home. A parallel
+situation could take place with cybersecurity trainings and exercises, where
+officials in the recipient countries are socialized into norms regarding the
+use of cyberspace and then promote those norms within their home
+governments.
+
+Methodology
+This article looks at two sets of evidence to determine what motivation led
+to Japan’s decision to engage in cybersecurity capacity-building assistance
+in Southeast Asia. The first is to look at the nature of the assistance itself. If
+firm promotion were the motivation, we would expect equipment provision
+and training conducted by Japanese firms to be major components of the
+assistance. As will be seen in the next section, Japan’s capacity-building
+assistance during this period does not involve much equipment provision
+or trainings conducted by Japanese firms, which helps to eliminate the
+hypothesis that Japan was seeking to strengthen its cybersecurity sector.
+Distinguishing between ensuring a secure economic environment, building diplomatic and security ties, and promoting norms is more difficult: in
+
+THE PACIFIC REVIEW
+
+485
+
+any of these three cases, there would be a heavy emphasis on government
+training and critical infrastructure, in the former case because these are necessary to reduce the risks of cyber threats to firms, and in the latter cases
+because these are useful ways to build ties with the governments of target
+states and either make them more useful security partners or socialize them
+into preferred norms. There are some differences that would be suggestive,
+however. A desire to create a stable economic environment would arguably
+be more likely to lead to efforts to educate publics, since bad cybersecurity
+practices on the part of individuals is a major vulnerability for firms, though it
+could be argued this is also a form of public diplomacy. Efforts to build capacity in target countries’ militaries would be probably be the clearest sign of a
+desire to build security ties rather than to create a secure economic environment, but at this point in time Japan did not engage in any such trainings.
+While policy development and trainings and exercises are useful for all three
+purposes, a lack of these things would weigh against norm promotion as an
+explanation. Overall, as we will see, the capacity-building assistance during
+this period could have been used for any of these three ends, though the support is somewhat weaker for norm promotion than for the other two explanations. That having been said, some of the goals given for these projects do
+provide some initial support for the hypothesis that Japan’s goal was to build
+a stable economic environment.
+However, the clearest evidence comes from government statements and
+documents, including minutes from meetings of the Information Security
+Policy Council (ISPC), which at the time was responsible for determining
+Japan’s national cybersecurity policies. Located in the Cabinet Office under
+the IT Strategic Headquarters, which set wider information technology policy, it was chaired by the Chief Cabinet Secretary. Its members included the
+Minister of Economy, Trade and Industry; the Minister of Internal Affairs and
+Communications; the Minister of Defense; the Chairman of the National
+Public Safety Committee; the Minister of State for Science and Technology
+Policy; and six members from academia and the private sector. The Minister
+of Foreign Affairs was added as a member in 2012. Its secretariat, the
+National Information Security Center (NISC), was staffed by bureaucrats
+seconded from METI, MIC, MOD, and the National Police Agency (NPA)
+(Tsuchiya, 2016).
+The discussions in the ISPC and the evidence from other policy documents point to economic security in the sense of maintaining a stable economic environment as the main driver. This article now turns to discussing
+the initial capacity-building efforts from 2009–2013 to demonstrate that
+there was little evidence that Japan was pursuing sector promotion and
+then discusses the documentary evidence Japan was pursuing a secure economic environment.
+
+486
+
+B. BARTLETT
+
+Cybersecurity capacity-building assistance: 2009–2013
+During this early period of Japan’s efforts, capacity-building assistance in
+Southeast Asia was conducted entirely under the auspices of the ASEANJapan Information Security Policy Meeting (renamed the ASEAN-Japan
+Cybersecurity Policy Meeting in 2018). These are high-level meetings
+between the ministries and agencies concerned with the economy or with
+information technology and communications. The ASEAN secretariat also
+participates. On Japan’s side, the participants are from NISC, METI, and MIC.
+In these meetings, the participants determine the agenda for Japan-ASEAN
+cooperation on cybersecurity and what measures should be implemented
+to achieve that agenda (Cybil, 2020b; NISC, n.d.-a; NISC et al., 2009 ). Since
+it was first created, this meeting format has been expanded to include
+three working group meetings (the first, second, and third ASEAN-Japan
+Cybersecurity Working Groups), each of which meet once a year, for a total
+of four meetings per year (Cybil, 2020c; Matsubara, 2017; Ministry of
+Economy, Trade and Industry, 2020; NISC, n.d.-a ).
+Aid during this period focused on increasing government cybersecurity
+capacity, including helping ASEAN member-state governments to craft
+cybersecurity policies, and on educating the publics of ASEAN memberstates. By and large, these projects did not include equipment provision or
+trainings by Japanese firms, and thus there is little evidence that Japan was
+seeking to create markets for its cybersecurity firms. However, these efforts
+would be useful for ensuring a stable economic environment, for strengthening ties to Southeast Asian states, and for norm promotion.
+It bears noting that during this period, the government was ruled by
+two different parties. While at the beginning of the time period in question,
+the Liberal Democratic Party (LDP) was in charge of the government, in
+August 2009 the Democratic Party of Japan (DPJ) swept into power. In
+December 2012, the LDP would return to power under Prime Minister Abe
+Shinzo. However, this shift in ruling parties does not seem to have had any
+effect on Japan’s cybersecurity capacity-building assistance during this
+period—policy in this regard looked much the same under the DPJ as
+under the LDP.5
+Japan’s cybersecurity cooperation with ASEAN member-states began
+with the First ASEAN-Japan Information Security Meeting, which took place
+in Tokyo from February 24–25, 2009. Participants identified several potential
+areas for cooperation, including public awareness, human resources development, support for the creation of information-security-related institutions, and research and development (NISC, 2009a; NISC et al., 2009).
+The first distinct capacity-building assistance project developed under
+the auspices of the ASEAN-Japan Information Security Policy meeting was
+aimed at strengthening government capacities. In 2010, NISC implemented
+
+THE PACIFIC REVIEW
+
+487
+
+the ASEAN-Japan Information Security Training project. This project consisted of two parts: a policy-crafting course and a hands-on course on operations. The former was aimed at helping governments develop
+cybersecurity policies, while the latter focused on helping them to
+strengthen their ability to protect their own networks. These trainings were
+held in August in Tokyo, with the policy-crafting course lasting four days
+and the operations course lasting five. In the policy-crafting course, participants were updated on the policies of each participating country and a discussion was held about Japanese and ASEAN mutual awareness. In the
+operations course, participants were given training on security operations,
+including the use of actual devices, and on the final day an exercise was
+held to measure the effectiveness of the training (Matsubara, 2017; NISC &
+Takada, 2011). Because the trainings involved government officials from
+Japan and ASEAN member-states working together, and because it provided knowledge and training that would help ASEAN member-state governments to defend themselves from cyber operations, these trainings
+certainly would have been potentially useful for building ties. As this project involved both policy development and trainings, it would also have
+been useful for norm promotion. At the same time, having cybersecurity
+policies in place and being able to respond to cyber incidents are key components of building a more cybersecure economic environment. In short,
+this project potentially fulfills all three purposes, and thus is not strong evidence for any one of them.
+In 2012, Japan followed this up with a project (still ongoing) aimed at
+educating general publics in ASEAN member-states about cybersecurity:
+the ASEAN-Japan Joint Awareness Raising Activities project. This project
+provides materials for educating general publics in ASEAN member-states
+about cybersecurity (Cybil, 2020a; Mission of Japan to ASEAN, 2013; NISC,
+n.d.-b). By providing citizens of ASEAN member-states with the tools to protect themselves from cybercrime and other threats, this certainly does help
+to create a secure economic environment; on the other hand, the intention
+could have been to demonstrate to Southeast Asian countries’ publics that
+Japan was a helpful partner. This project would have been less useful for
+norm promotion, given that it did not involve policy development nor
+interaction between government officials.
+After these initial projects, Japanese and ASEAN member-state cooperation on cybersecurity was reaffirmed on September 12 and 13, 2013, when
+a meeting was held between the ministers in charge of information technology from each of the ASEAN member-states, the Deputy SecretaryGeneral for Economic Affairs from the ASEAN Secretariat, and the Minister
+of Internal Affairs and Communications and the Parliamentary Vice-Minister
+for the Economy, Trade and Industry from Japan. Entitled the ASEAN-Japan
+
+488
+
+B. BARTLETT
+
+Ministerial Policy Meeting on Cybersecurity Cooperation, it differed from
+the ASEAN-Japan Information Security Policy Meeting in that the
+Information Security Policy Meeting was attended by high-level bureaucrats, while this was a meeting of high-level politicians. Highlighting its
+importance, Prime Minister Abe, who had returned to office in 2012, gave
+the opening speech (NISC et al., 2013a).
+After this meeting, Japan and the ASEAN member-states released a joint
+ministerial statement affirming the importance of strengthening collective
+efforts between Japan and ASEAN in cybersecurity. It mentioned specific
+goals such as promoting cooperation in the area of cybersecurity strategies,
+fostering human resources development, enabling information sharing
+between ASEAN member-states and Japan, building a quicker response to
+cyber incidents through cyber exercises, and promoting joint awarenessraising activities (ASEAN-Japan Ministerial Policy Meeting on Cybersecurity
+Cooperation, 2013).
+Two more projects to be implemented under the auspices of the ASEANJapan Information Security Policy Meeting were announced. One was the
+Japan-ASEAN Cybersecurity Human Resources Initiative (日ASEANサイバー
+セキュリティ人材育成イニシアティブ)6 which over five years would train one
+thousand government workers in cybersecurity. The second was the JapanASEAN Security PartnERship (JASPER). JASPER consists of two efforts, infection alerts and the Proactive Response Against Cyberattacks Through
+International Collaborative Exchange (PRACTICE), which uses world-wide
+distributed sensors to monitor the internet in order to track the behavior of
+malware (ASEAN-Japan Ministerial Policy Meeting on Cybersecurity
+Cooperation, 2013; Matsubara, 2017; Ministry of Internal Affairs and
+Communications, 2013; Soesanto, 2020; Yoshioka, 2013). In short, the first
+project was aimed at strengthening the capacities of ASEAN member-state
+governments by strengthening their human resources, while the latter was
+aimed at strengthening their awareness of their threat environments. For
+similar reasons to the ASEAN-Japan Information Security Training Project,
+these projects were potentially useful both for ensuring a secure economic
+environment and for building ties between Japan and Southeast Asian
+countries, and thus do not help to distinguish between these two hypotheses, though again neither seems useful for creating market opportunities
+for Japanese cybersecurity firms. Given its focus on government workers,
+the Japan-ASEAN Cybersecurity Human Resources Initiative would also
+potentially be useful for norm promotion, though JASPER would be less so.
+The final project for the time period under analysis, the Annual Cyber
+Exercises, was announced at the 6th ASEAN-Japan Information Security
+Policy Meeting, held on October 9–10, 2013. At the time they were
+announced, these consisted of remote exercises aimed at developing
+
+THE PACIFIC REVIEW
+
+489
+
+communication procedures between ASEAN member-states and Japan in
+the case of a cyber attack (Cybil, 2021; NISC et al., 2013b). Again, because
+these exercises involved cooperation between Japanese and ASEAN member-state officials, they would have been useful for building ties between
+the countries or for norm promotion through socialization. At the same
+time, being able to better communicate and cooperate in the case of a
+cyber attack would also help to build a secure economic environment.
+In summation, during this early period of capacity-building assistance, projects were created entirely under the auspices of the ASEAN-Japan Information
+Security Policy Meeting, the Japanese participants of which were NISC, METI,
+and MIC. Projects focused primarily on educating publics about cybersecurity
+and on strengthening governments’ capacities for responding to cyber incidents, as well as on helping governments to develop cybersecurity policies.
+Because the projects did not heavily involve equipment provision or trainings
+conducted by Japanese firms, there is little support for the hypothesis that the
+Japanese government was seeking to create markets for Japanese cybersecurity firms. About half of the projects would have been useful for norm promotion, while all of the projects would have been both useful for building ties
+and for advancing economic security. Thus, without additional evidence, it
+would be difficult to eliminate any of the hypotheses entirely, with the exception of firm promotion. Fortunately, the evidence from the minutes of ISPC
+meetings and from Japanese policy documents leading up to the initial provision of assistance clearly indicates that Japan was seeking to ensure a stable
+economic environment.
+
+Seeking a stable economic environment
+Because I am interested in the motivation for the original decision to provide cybersecurity capacity-building assistance to ASEAN member-states, I
+focus on documents and statements prior to and within the first two years
+following the decision to create the ASEAN-Japan Information Security
+Policy Meeting. While by the Third ASEAN-Japan Information Security
+Meeting, held in March 2011, there is some evidence that Japan was beginning to realize that this cooperation could be used for wider purposes
+(though even at that meeting, the focus was still primarily on economic
+security), evidence from government documents and statements prior to
+that point make it clear that the original motivation for cooperation with
+ASEAN member-states on cybersecurity, including cybersecurity capacitybuilding assistance, was to maintain a stable economic environment.
+Discussions about the policy are almost entirely framed in terms of Japan’s
+self-interest on that front. Reinforcing this, it is clear that concerns about
+China, either in terms of security or political competition, were not raised as
+
+490
+
+B. BARTLETT
+
+a concern at this point; indeed, the earliest discussions about what would
+eventually become the ASEAN-Japan Information Security Policy Meeting
+indicate that originally Japan envisioned Asian-wide cooperation on cybersecurity, presumably including China.
+Within the materials I was able to find, the earliest evidence of discussions taking place within the Japanese government about how Japan might
+contribute to cybersecurity internationally, beyond simply serving as a
+model to others, appears in 2007. The key piece of evidence from this time
+is a policy document that was released by the ISPC at its 14th meeting on
+October 3, 2007. Entitled “Japan’s Initiatives for International Cooperation
+and Contribution to Information Security” (我が国の情報セキュリティ分野にお
+ける国際協調・貢献に向けた取組み), this document describes Japan’s plans
+for cooperating internationally on cybersecurity, as well as the justification
+for doing so. It also discusses what will become the ASEAN-Japan
+Information Security Policy Meeting. There are two key points about this
+document: first, it justifies Japan’s efforts to contribute to information security, both internationally and regionally, entirely in terms of economic security, specifically in the sense of maintaining a stable economic environment.
+Second, it does not mention strengthening ties with ASEAN member-states
+as a goal. Indeed, the document consistently refers to cooperation within
+the Asian region as a whole, rather than with ASEAN (Information Security
+Policy Council, 2007b).
+The document begins by noting that the livelihoods of Japan’s citizens
+and Japan’s economic activities increasingly rely upon information technology (IT), and that because of the interconnected nature of that technology,
+problems that affect Japan’s IT can affect the IT of other countries and viceversa. Thus, both Japan’s citizens’ livelihoods and its economic health rely
+not only upon its own information security but also that of the world
+(Information Security Policy Council, 2007b). That is, Japan’s economic
+security, in the sense of maintaining a stable economic environment, is the
+justification given for its international activities.
+The document discusses efforts Japan should make both globally, primarily by participating in global fora, and regionally. In its discussion of in
+which regions Japan will focus its effort, we again see evidence for the economic security motive: the document notes that given Japan’s limited
+resources, it should focus on those regions most important to the economic
+activities of its firms and the livelihoods of its citizens. Based on these criteria, it goes on to state that the three regions in which Japan will engage in
+information security cooperation are the United States, Europe, and Asia. As
+further evidence that economic security is the motive, the document justifies engagement in Asia based on its increasing regional economic interconnectedness, including FDI and outsourcing, as well as the increasing
+
+THE PACIFIC REVIEW
+
+491
+
+number of free trade agreements between countries in the region
+(Information Security Policy Council, 2007b).
+The document then goes on to describe Japan’s planned contributions
+to Asian regional information security, again justifying them in terms of
+economic security. In this section the meeting that will eventually become
+the ASEAN-Japan Information Security Meeting is mentioned, though in
+line with the regional focus of the rest of the document it is at this point
+provisionally named the “Asian Information Security Meeting”. The document envisions that this meeting will fulfill a number of roles, including
+serving as a forum for discussing regional information-security-related
+issues, advancing consideration of how to respond multilaterally to cyber
+threats, and providing information to businesses about how to prevent and
+respond to cyber threats in order to contribute to the stability of the global
+economy—again addressing threats to economic security.
+At this point, the document makes clear that Japan’s contributions to
+Asian regional information security will include capacity-building assistance,
+including technical and governmental cooperation, advancing policy
+research on cooperation and on education and development activities, clarifying and spreading best practices, creating an Asian Information Security
+Month to increase awareness among the public, and taking steps to deal
+with cybercrime (Information Security Policy Council, 2007b). In short, in
+this document, Japan’s focus upon and contributions to cybersecurity in
+the Asian region are clearly justified in terms of economic security, specifically in terms of maintaining a stable economic environment rather than in
+terms of promoting Japanese cybersecurity technology. It also makes no
+mention of the need to strengthen ties with ASEAN member-states, either
+to compete with China or for other reasons, and indeed the focus is on
+cooperation within the entire Asian region rather than with Southeast Asian
+countries specifically. There is also no discussion of the need to promote
+norms relating to cyberspace.
+Other evidence from the period prior to the First ASEAN-Japan
+Information Security Meeting points in the same direction. In the minutes
+of the meeting of the ISPC prior to the one in which the Initiatives were
+presented (the 13th), held on August 3, 2007, arguments for Japan to contribute to international and regional cybersecurity were likewise couched in
+terms of economic security. One participant7 noted the lack of understanding about information security risks regarding critical infrastructure among
+government officials and infrastructure operators in developing countries.
+They proposed that Japan could help resolve this problem by inviting the
+responsible members of government and infrastructure operators from
+developing countries to Japan for study-by-observation and for training.
+The Parliamentary Vice Minister of Internal Affairs and Communications,
+
+492
+
+B. BARTLETT
+
+speaking on behalf of MIC, likewise mentioned the need for Japan to contribute internationally in order to strengthen the information security of critical
+infrastructure. The Parliamentary Vice-Minister of Economy, Trade, and
+Industry, speaking for METI, noted that METI would like Japan to take measures to allow for the safe and secure use of IT by Japanese companies and citizens through such measures as establishing a warning system in Asia
+(Information Security Policy Council, 2007a). All of these comments reflect a
+concern with economic security, in the sense of maintaining a stable economic
+environment; there is at this point no discussion of promoting Japanese cybersecurity firms, nor are there indications that the goal is to build stronger relations with ASEAN member-states or to compete with China. Indeed, in other
+comments on cooperation on information security in the region, the target for
+cooperation continues to be Asia rather than ASEAN.
+Further evidence of the economic security orientation comes from the
+reports of the two meetings with ASEAN ministers in which MIC and METI
+raised the idea of what would become the ASEAN-Japan Information Security
+Policy Meeting. On August 24, 2007, the Second ASEAN Telecommunications
+and IT Ministers Meeting with Japan (TELMIN þ 1) was held. At this meeting,
+MIC raised the proposal of hosting a high-level meeting on information security policy in 2008, a proposal which was well-received by the participating
+ministers from the ASEAN member-states. When describing this proposal in
+the chairman’s press statement after the meeting, the ministers noted that
+this proposal was welcomed in the context of the importance of information
+security to the conduct of economic activities (ASEAN TELMIN þ 1, 2007). The
+very next day, at the 14th Consultation between the ASEAN Economic
+Ministers and the Minister of Economy, Trade and Industry of Japan (AEMMETI), METI raised the same proposal to the ASEAN member-state ministers
+participating. Again, the proposal was well-received, and again, in the press
+statement released after the meeting, the ministers recognized the importance
+of a secure IT environment to economic activities in the region, including
+investment and outsourcing, in welcoming this proposal (ASEAN, 2007).
+The Vice-Minister for the Economy, Trade and Industry reiterated this
+economic security justification when he later reported on this meeting at
+the 14th meeting of the ISPC (the same meeting at which Japan’s Initiatives
+for International Cooperation and Contribution to Society was presented):
+Speaking for METI, from the point of view of securing the international
+industrial ecosystem, and from the point of view of protecting the information
+security of Japan’s firms’ overseas factories and overseas business partners,
+along with developing our domestic infrastructure, it is necessary to
+simultaneously engage in efforts on international security measures.
+Recognizing this, on August 25 at AEM-METI, METI gave a concrete proposal for
+a high-level meeting on information security.8 (Information Security Policy
+Council, 2007c, p. 5)
+
+THE PACIFIC REVIEW
+
+493
+
+As can be seen from the policy document that first laid out Japan’s plans
+for participating in cybersecurity capacity-building assistance, from the
+reports of the meetings that surrounded the creation of this document, and
+from the statements made after MIC and METI met with ASEAN ministers,
+Japan’s primary motivation for becoming involved in building cybersecurity
+capacity in the region was to protect its own firms and the livelihoods of its
+citizens, along with the global economy more broadly. In short, it is clear
+economic security was the motive here, specifically in the sense of creating
+a stable economic environment in the region.
+The statements and documents surrounding the First and Second
+ASEAN-Japan Information Security Meetings likewise provide strong evidence that maintaining a secure economic environment was the primary
+goal. For example, a document released by NISC on February 2, 2009, summarizing the agenda for 20th Information Security Policy Council, gives a
+description of the planned First ASEAN-Japan Information Security Policy
+Meeting, to be held at the end of that month. In a discussion of the background for the meeting, it mentions that direct investment by Japanese
+firms in East Asia is increasing and that international consignments are progressing, then goes on to state: “[b]ecause the international development of
+information security, which is the foundation of business activities, guarantees
+the deepening of economic relations, we will begin our efforts, with cooperative relations with ASEAN as the first step.” (NISC, 2009b, p. 9). Elsewhere, the
+document states: “[the meeting] aims to support the deepening of economic
+relations between Japan and ASEAN through the guaranteeing of the reliability and security of information and telecommunications infrastructure that
+supports global economic activities and through the maintenance of a safe
+and secure investment environment” (NISC, 2009b, p. 9). Clearly the emphasis
+is on economic security.
+A news release describing the plan for the First Meeting likewise reflects
+the primary emphasis on economic security. At the meeting, three topics
+are to be discussed: “maintaining a secure business environment for a knowledge economy society”, “maintaining an environment for the secure use of
+ICT”, and “government-led information security measures.” While the first is
+clearly about economic security, the other two topics were justified in terms
+of economic security as well. The description of the second topic begins by
+noting that “ICT infrastructure is becoming the common foundation supporting global business activities, and high-level information security measures
+and the maintenance of safe and reliable infrastructure that guarantees business continuity is necessary to ensure safe business activities” (NISC et al.,
+2009). The description of the final topic begins with “[a]s the importance of
+information systems as infrastructure for socio-economic activities has been
+increasing, information security is shifting from the stovepiped efforts made
+
+494
+
+B. BARTLETT
+
+until now to a policy issue requiring a cross-cutting national strategy” (NISC
+et al., 2009).
+Further supporting evidence is found in a document describing a framework for cooperation agreed upon during the First Meeting. In justifying
+the actions to be taken, the document states: “Japan and ASEAN, in order to
+strengthen economic cooperation, increase regional economic activity, and
+gain regional competitiveness, as well as to improve information security
+measures for the information infrastructure that supports the foundations of
+nations, will promote cooperation to achieve the following goals” (NISC et al.,
+2009b, p. 2). Again, we can see that economics are being used to justify the
+investment in information security. Further reinforcing this, in Japan’s own
+national cybersecurity policy released that year, Secure Japan 2009, the
+efforts conducted under the auspices of the ASEAN-Japan Information
+Security Policy Meeting are listed as “Specific Measures” under the section
+on “Protection of Information Security in Response to Globalization of
+Economic Activities” (Information Security Policy Council, 2009, pp. 85-87).
+This narrow focus on economics as justification for these efforts continues
+into 2010 as well. In a document presented by NISC to the ISPC the purpose
+of the Second ASEAN-Japan Information Security Policy Meeting is given as follows: “While on the one hand direct investment by Japanese companies in the
+ASEAN region is expanding and outsourcing is progressing, in that same region
+problems such as data leaks and web page defacement are occurring. In the field
+of information security, which is one basis for socio-economic activities, along
+with contributing to the rise of the level of information security in the region, we
+will guarantee the deepening of ASEAN-Japan economic relations by strengthening international cooperation and efforts with ASEAN member-states” (NISC,
+2010, p. 1). Likewise, in its yearly information security plan, the ISPC, when
+describing ASEAN-Japan cooperation on information security, states that “[i]n
+order to speed up the efforts toward the building of a secure business environment in the Asian region with deepening economic relations with Japan, the
+protection of the reliability of infocom infrastructure that supports economic
+activities and technology innovations, and the drafting of a cross-sectoral information security policy by government, cooperation will be enhanced with various ASEAN countries through the ASEAN-Japan Information Security Policy
+Meeting” (Information Security Policy Council, 2010, p. 60).9 Again, we see a
+focus on the need to build a secure business environment and an emphasis
+on the role that reliable telecommunications infrastructure plays in supporting
+economic activities.
+In summary, the evidence is quite clear that Japan’s initial capacity-building
+assistance to ASEAN member-states was driven by a desire to protect its own
+firms, which were increasingly tied economically to ASEAN member-states and
+thus could be affected by any cyber incidents that might occur within them.
+
+THE PACIFIC REVIEW
+
+495
+
+Due to these concerns, Japan established the ASEAN-Japan Information
+Security Policy Meeting in 2008, and for the next few years engaged in capacity-building assistance under its auspices, focusing primarily on strengthening the capacities of governments and on educating general publics.
+
+Conclusion
+This article finds that Japan’s decision to engage in cybersecurity capacitybuilding assistance was driven by a desire for economic security, specifically
+in the sense of ensuring a stable economic environment. While the nature
+of the assistance was such that it was potentially useful both for securing
+the economic environment and for building political and security ties with
+Southeast Asian states—though not for promoting Japan’s cybersecurity
+firms—the documentary evidence surrounding the decision quite clearly
+points to the economic security motive. Indeed, the evidence suggests that
+Japan originally hoped for there to be region-wide cooperation on cybersecurity, including China, but ultimately ended up providing capacity-building
+assistance solely to Southeast Asian countries through the ASEAN-Japan
+Information Security Policy Meeting.
+Though this paper only looks at the time period surrounding the initial
+decision, the available evidence suggests that economic security has continued to be a concern even as other government organizations in Japan have
+come to participate in cybersecurity capacity-building assistance. Most notably, the 2016 Basic Policy to Support Cybersecurity Capacity-Building in
+Developing Countries, which set the basis for future capacity-building
+assistance, noted that capacity-building assistance would “guarantee the
+stability of the lives of Japanese citizens living abroad and of the activities of
+Japanese companies that depend upon the critical infrastructure, etc., of the
+countries receiving assistance” (NISC et al., 2016, p. 1).
+The clearest takeaway from these findings is that Japan will continue to
+provide cybersecurity capacity-building assistance to ASEAN member-states
+for the foreseeable future. ASEAN continues to be a major target for
+Japanese FDI, accounting for around 14.2% of investment in 2021 (Japan
+External Trade Organization (JETRO), 2022b). Likewise, in 2021, ASEAN
+accounted for 15% of Japanese exports and 14.7% of its imports (Japan
+External Trade Organization (JETRO), 2022a). Given its economic importance
+and the role economic security played in Japan’s decision to engage in
+cybersecurity capacity-building assistance in the region, even if, for
+example, relations with China improved dramatically, we would still expect
+to see Japan providing assistance to ASEAN member-states.
+Given Japan’s limited resources, it is unlikely that it will expand its cybersecurity capacity-building assistance beyond Southeast Asia in the near
+
+496
+
+B. BARTLETT
+
+term. If and when it does, however, these findings suggest that maintaining
+Japan’s economic security will be the primary concern. As such, a likely
+next target for Japan’s assistance would be the Gulf States. While Japan
+does not have the level of trade or investment with the Gulf States that it
+does with Southeast Asia, energy security has been a long-standing concern
+of the Japanese government, and oil and gas facilities in the region have
+been a major target for cyber attacks (Hassib & Shires, 2022).
+In terms of Japan’s wider foreign aid policy, the evidence shows that
+while it may indeed be the case that the reforms leading up to the 2008
+reorganization of foreign aid under JICA led Japan to more frequently use
+its aid in service of broader strategic goals, economic security continued to
+be a driver of aid in some cases. This fits with findings that, even under the
+recent Abe administration, known for its desire to strengthen political and
+security relations with ASEAN member-states, infrastructure development
+assistance to those countries was motivated in part by economic concerns
+(Yoshimatsu, 2017).
+Japan’s continued focus on economic security also means we should not
+entirely rule out potential cybersecurity cooperation with China in the
+future. For the time being, Chinese cyber theft of intellectual property
+poses an economic threat to Japan, so it can be difficult to imagine the two
+cooperating. However, the two countries continue to be heavily intertwined
+economically, and cyber attacks against Chinese critical infrastructure pose
+as great a threat to Japan’s economic security as do attacks against ASEAN
+member-state critical infrastructure. Thus, it is possible that in the future
+the two will wish to cooperate, at the very least against potential threats
+from non-state actors. As with other regional arrangements, ASEAN may
+prove useful as a mediating institution for any such cooperation.
+While one does not wish to draw overly broad conclusions from a single
+country case, there are some wider implications as well. Most obviously,
+while cybersecurity capacity-building assistance is a form of security assistance, that does not necessarily mean it is driven by traditional security concerns. Because the targets of cyber operations are often critical
+infrastructure or private firms, cybersecurity capacity (or lack thereof) has
+major economic implications as well, and this can drive state behavior.
+A second implication is that, assuming that other countries and not just
+Japan are motivated by economic security concerns, those developing
+countries that are more economically important to developed countries are
+more likely to receive assistance than those that are not. It is possible that
+this may be ameliorated to some degree by aid from international governmental organizations, which may distribute aid differently than governments, but nevertheless this suggests the ironic outcome that those
+developing countries most tied into the international economy, and thus
+
+THE PACIFIC REVIEW
+
+497
+
+most likely to have the resources to invest in cybersecurity capacity themselves, are also the most likely to receive outside assistance. Given that
+weak cybersecurity capacity can make it more difficult for a developing
+country to take advantage of information and communications technologies in order to achieve economic growth, there is the possibility of a
+vicious cycle. While states, facing constrained resources, are most inclined
+to use those resources in ways that materially benefit themselves, nevertheless policymakers and those in the wider cybersecurity world should strive
+to make certain assistance is being provided to those countries that most
+need it.
+These findings still leave a number of questions for future research. First,
+there is the question of why starting in 2014 the number of organizations
+in Japan involved in cybersecurity capacity-building assistance increased.
+Second, there is the question of whether other countries engage in cybersecurity capacity-building assistance primarily for economic security or for
+other reasons, and, assuming there are differences between the motivations
+of different countries, what explains those differences. Third, there is the
+question of whether cybersecurity capacity-building assistance funded by
+states but implemented by international governmental organizations differs
+in a systematic way from that directly implemented by states. Despite these
+remaining questions, this article illustrates the ways in which the economic
+implications of weak cybersecurity capacity within developing states can
+drive the capacity-building assistance behavior of developed states.
+
+Acknowledgements
+The author would like to express gratitude to conference participants at ISAMidwest 2020 and ISA 2021, to Dr. Deirdre Q. Martin, and to an anonymous
+reviewer for their feedback on various stages of this manuscript.
+
+Disclosure statement
+The author reports there are no competing interests to declare.
+
+Notes
+1.
+2.
+
+3.
+
+4.
+
+Note that I am not including cybersecurity capacity-building assistance implemented by
+international governmental organizations, some of which receives funding from Japan.
+From 2013–2017, there was a single capacity-building assistance project targeting
+Colombia, though this appears to have been a one-off (Japan International Cooperation
+Agency, 2013).
+At this point in time, Japan used the phrase ‘information security’ instead of
+‘cybersecurity’. In this context, the two have the same meaning and I use them
+interchangeably, though I try to use ‘information security’ when discussing Japanese
+statements or documents and ‘cybersecurity’ otherwise.
+For an overview of the challenges facing developing countries, see Schia (2018).
+
+498
+
+B. BARTLETT
+5.
+6.
+7.
+8.
+9.
+
+This fits with other findings that when it came to security policy, there was more
+continuity than change between the DPJ and the LDP. See in particular Oros (2017).
+I include the Japanese title in cases where I have been unable to find an official English
+translation.
+Speakers are not identified in the minutes, although some identify themselves as
+speaking for a particular ministry.
+Italicized quotes are from Japanese-language documents and have been translated by
+the author.
+This same language appears in every yearly plan from 2010-2014; it changes in 2015.
+
+Notes on contributor
+Dr. Benjamin Bartlett is an assistant professor in the Department of Political
+Science at Miami University in Oxford, Ohio. He received his Ph.D. in Political
+Science from the University of California at Berkeley and an M.Sc. in Computer
+Science from the University of Toronto. His research interests include comparative
+cybersecurity policy, cybersecurity in East Asia, and international cooperation on
+cybersecurity capacity building. He has published in the Journal of Cyber Policy and
+Asia Policy. His most recent publication was a chapter in the Oxford Handbook of
+Japanese Politics on cybersecurity in Japan. He is also a 2022 recipient of an NEH
+Fellowship for Advanced Social Science Research on Japan.
+
+References
+Alesina, A., & Dollar, D. (2000). Who gives foreign aid to whom and why? Journal of
+Economic Growth, 5(1), 33–63.
+Anagnostakis, D. (2021). The European Union-United States cybersecurity relationship: A transatlantic functional cooperation. Journal of Cyber Policy, 6(2), 243–261.
+Arase, D. (1994). Public-private sector interest coordination in Japan’s ODA. Pacific
+Affairs, 67(2), 171–199.
+Arase, D. (1995). Buying power: The political economy of Japan’s foreign aid. Boulder,
+CO: Lynne Rienner Publishers.
+Arase, D. (2010). Non-Traditional Security in China-ASEAN Cooperation: The
+Institutionalization of Regional Security Cooperation and the Evolution of East
+Asian Regionalism. Asian Survey, 50(4), 808–833.
+ASEAN. (2007, August 25). The Fourteenth Consultation between the ASEAN Economic
+Ministers and the Minister of Economy, Trade and Industry of Japan (AEM-METI)
+Makati City, Philippines, 25 August 2007 Joint Media Statement. ASEAN Main Portal.
+https://web.archive.org/web/20210715113118/https://asean.org/?static_post=thefourteenth-consultation-between-the-asean-economic-ministers-and-the-ministerof-economy-trade-and-industry-of-japan-aem-meti-makati-city-philippines-25august-2007-joint-media-statement.
+ASEAN. (2015). Building the ASEAN Community: ASEAN-Japan Comprehensive
+Economic Partnership: Building Strong Economic Partnerships. https://web.archive.
+org/web/20220929151151/https://www.asean.org/wp-content/uploads/images/
+2015/October/outreach-document/Edited%20AJCEP.pdf.
+ASEAN TELMIN þ 1. (2007). Chairman’s Press Statement: Second ASEAN TELMIN þ 1
+Meetings with Dialogue Partners, 24 August 2007, Siem Reap, Cambodia, “ICT:
+Reaching Out to the Rural”. https://web.archive.org/web/20221004005152/https://
+asean.org/wp-content/uploads/images/2012/Economic/TELMIN/presrelease/The
+
+THE PACIFIC REVIEW
+
+499
+
+%20Second%20ASEAN%20TELMIN+1%20Meetings%20with%20Dialogue%20
+Partners.pdf.
+ASEAN-Japan Ministerial Policy Meeting on Cybersecurity Cooperation. (2013). Joint
+Ministerial Statement of the ASEAN-Japan Ministerial Policy Meeting on
+Cybersecurity Cooperation. https://web.archive.org/web/20221005144644/https://
+www.asean.org/wp-content/uploads/images/Statement/final_joint_statement%20
+asean-japan%20ministerial%20policy%20meeting.pdf.
+Aso, T. (2006, November 30). MOFA: Speech by Mr. Taro Aso, Minister for Foreign
+Affairs on the Occasion of the Japan Institute of International Affairs Seminar “Arc of
+Freedom and Prosperity: Japan’s Expanding Diplomatic Horizons.” https://warp.da.
+ndl.go.jp/info:Ndljp/pid/8200257/www.mofa.go.jp/announce/fm/aso/speech0611.
+html.
+Atkinson, C. (2006). Constructivist implications of material power: Military engagement and the socialization of states, 1972-2000. International Studies Quarterly,
+50(3), 509–537.
+Bartlett, B. (2018). Government as facilitator: How Japan is building its cybersecurity
+market. Journal of Cyber Policy, 3(3), 327–343.
+Bartlett, B. (2022). Cybersecurity in Japan. In R. J. Pekkanen & S. M. Pekkanen (Eds.),
+The Oxford handbook of Japanese politics. Oxford, UK and New York: Oxford
+University Press.
+Bradford, J. F. (2004). Japanese anti-piracy initiatives in Southeast Asia: Policy formulation and the coastal state responses. Contemporary Southeast Asia, 26(3), 480–
+505.
+Bueno de Mesquita, B., & Smith, A. (2007). Foreign aid and policy concessions.
+Journal of Conflict Resolution, 51(2), 251–284.
+Bueno de Mesquita, B., & Smith, A. (2016). Competition and collaboration in aid-forpolicy deals. International Studies Quarterly, 60(3), 413–426.
+Cybil (2020a). Cybil Portal. https://web.archive.org/web/20221003232827/https://
+cybilportal.org/projects/.
+Cybil (2020b, July 3). ASEAN - Japan Cybersecurity Working Group/Policy Meeting Cybil Portal. https://web.archive.org/web/20221003233056/https://cybilportal.org/
+projects/asean-japan-cybersecurity-working-group-policy-meeting/.
+Cybil (2020c, July 3). ASEAN-Japan Cybersecurity Capacity Building Centre - Cybil
+Portal. https://web.archive.org/web/20221003233329/https://cybilportal.org/projects/asean-japan-cybersecurity-capacity-building-centre/.
+Cybil (2021, January 27). Annual Cyber Exercises in ASEAN - Cybil Portal. https://web.
+archive.org/web/20221003232534/https://cybilportal.org/projects/annual-cyberexercises-in-asean/.
+Dreher, A., Fuchs, A., Parks, B., Strange, A. M., & Tierney, M. J. (2018). Apples and
+dragon fruits: The determinants of aid and other forms of state financing from
+China to Africa. International Studies Quarterly, 62(1), 182–194.
+Friedman, D. B., & Samuels, R. J. (1993). How to succeed without really flying. In
+Regionalism and rivalry: Japan and the United States in Pacific Asia (pp. 251–320).
+Chicago and London: University of Chicago Press.
+Fuhrmann, M. (2009). Taking a walk on the supply side: The determinants of civilian
+nuclear cooperation. Journal of Conflict Resolution, 53(2), 181–208.
+Grand View Research (n.d). Endpoint Security Market Size, Share & Trends j Industry
+Report, 2024. Retrieved September 26, 2022, from https://web.archive.org/web/
+20220926183043/https://www.grandviewresearch.com/industry-analysis/endpointsecurity-market.
+
+500
+
+B. BARTLETT
+
+Grønning, B. E. M. (2018). Japan’s security cooperation with the Philippines and
+Vietnam. Pacific Review, 31(4), 533–552.
+Hassib, B., & Shires, J. (2022). Cybersecurity in the GCC: From economic development
+to geopolitical controversy. Middle East Policy, 29(1), 90–103.
+Heginbotham, E., & Samuels, R. J. (1998). Mercantile Realism and Japanese Foreign
+Policy. International Security, 22(4), 171–203.
+Heinl, C. H. (2014). Regional Cybersecurity: Moving Toward a Resilient ASEAN
+Cybersecurity Regime. Asia Policy, 18, 131–160.
+Hook, S. W., & Zhang, G. (1998). Japan’s aid policy since the cold war: Rhetoric and
+reality. Asian Survey, 38(11), 1051–1066.
+Hughes, C. W. (2009). Japan’s response to China’s rise: Regional engagement, global
+containment, dangers of collision. International Affairs, 85(4), 837–856.
+Information Security Policy Council. (2007a). 高度情報通信ネットワーク社会推進戦略本部
+情報セキュリティ政策会議 第１３回会合 議事要旨 (IT Strategic Headquarters: Minutes
+of the 13th Information Security Policy Council). https://web.archive.org/web/
+20110322211412/http://www.nisc.go.jp/conference/seisaku/dai13/pdf/13gijiyoushi.
+pdf.
+Information Security Policy Council. (2007b). 我が国の情報セキュリティ分野における
+国際協調・貢献に向けた取組み (Japan’s Efforts Toward International Cooperation
+and Contributions Regarding Information Security). https://web.archive.org/web/
+20221003233626/https://www.nisc.go.jp/pdf/policy/kokusai/international_approach.
+pdf.
+Information Security Policy Council. (2007c). 高度情報通信ネットワーク社会推進戦略本部
+情報セキュリティ政策会議 第１４回会合 議事要旨 (IT Strategic Headquarters: Minutes
+of the 14th Information Security Policy Council). https://web.archive.org/web/
+20110322211233/http://www.nisc.go.jp/conference/seisaku/dai14/pdf/14gijiyoushi.pdf.
+Information Security Policy Council. (2009). Secure Japan 2009 – All Entities Should
+Assume They May Be Subject to Accidents. https://warp.da.ndl.go.jp/info:Ndljp/pid/
+12364972/www.nisc.go.jp/eng/pdf/sj2009_eng.pdf.
+Information Security Policy Council. (2010). Information Security 2010 [Tentative
+Translation].
+https://warp.da.ndl.go.jp/info:ndljp/pid/12364972/www.nisc.go.jp/
+eng/pdf/is2010_eng.pdf.
+Jain, P. (2016). Japan’s foreign aid: institutional change and shifting policy directions.
+In H. Kato, J. Page, & Y. Shimomura (Eds.), Japan’s development assistance (pp. 56–
+71). Palgrave Macmillan UK.
+Japan External Trade Organization (JETRO). (2010). Japan’s international trade in
+goods (yearly) 2009. https://web.archive.org/web/20220929150221/https://www.
+jetro.go.jp/ext_images/en/reports/statistics/data/gaikyo2009e.xls.
+Japan External Trade Organization (JETRO). (2022a). Japan’s international trade in
+goods (yearly) 2021. https://web.archive.org/web/20220929160758/https://www.
+jetro.go.jp/ext_images/en/reports/statistics/data/gaikyo2021cy_e.xls.
+Japan External Trade Organization (JETRO). (2022b). Japan’s Total Outward FDI by
+Country/Region (International Investment position). https://web.archive.org/web/
+20220929143024/https://www.jetro.go.jp/ext_images/en/reports/statistics/data/
+21fdistock01_en.xls.
+Japan International Cooperation Agency. (2013). コロンビア共和国土地返還政策
+促進のための土地情報システムセキュリティ管理能力強化 プロジェクト 詳細計画策
+定調査報告書 (Project on Capacity Development on Information Security
+Management of Land Information System for Land Restitution Policy Promotion
+
+THE PACIFIC REVIEW
+
+501
+
+Detailed Plan Formation Report). https://web.archive.org/web/20221005143241/
+https://libopac.jica.go.jp/images/report/12126819_01.pdf.
+Japan Today. (2016, December 22). Japan, Indonesia to cooperate on maritime security.
+Japan Today. https://web.archive.org/web/20221003233913/https://japantoday.com/
+category/politics/japan-indonesia-to-cooperate-on-maritime-security.
+Katzenstein, P. J., & Okawara, N. (1993). Japan’s national security: Structures, norms,
+and policies. International Security, 17(4), 84–118.
+Koga, K. (2018). Japan’s strategic interests in the South China Sea: Beyond the horizon? Australian Journal of International Affairs, 72(1), 16–30.
+Koga, K. (2020). Japan’s ’Indo-Pacific’ question: Countering China or shaping a new
+regional order? International Affairs, 96(1), 49–73.
+Kolodgy, C. J. (2010). Worldwide Endpoint Security 2010–2014 Forecast and 2009
+Vendor Shares. 27.
+Lebovic, J. H. (1988). National interests and US foreign aid: The Carter and Reagan
+years. Journal of Peace Research, 25(2), 115–135.
+Matsubara, M. (2017). July 26). Japan’s Cybersecurity Capacity-Building Support for
+ASEAN. Palo Alto Networks Blog. https://web.archive.org/web/20221003201235/
+https://www.paloaltonetworks.com/blog/2017/07/cso-japans-cybersecurity-capacitybuilding-support-asean-shifting/.
+Midford, P. (2018a). Decentering from the US in regional security multilateralism:
+Japan’s 1991 pivot. Pacific Review, 31(4), 441–459.
+Midford, P. (2018b). New directions in Japan’s security: Non-US centric evolution,
+introduction to a special issue. Pacific Review, 31(4), 407–423.
+Ministry of Economy, Trade and Industry (2020, November 6). Outcomes of the 13th
+ASEAN-Japan Cybersecurity. https://web.archive.org/web/20221003234310/https://
+www.meti.go.jp/english/press/2020/1106_003.html.
+Ministry of Foreign Affairs of Japan. (2007). A new pillar for Japanese diplomacy: creating an arc of freedom and prosperity. https://warp.da.ndl.go.jp/info:ndljp/pid/
+12365369/www.mofa.go.jp/policy/other/bluebook/2007/html/h1/h1_01.html.
+Ministry of Internal Affairs and Communications (2013). 総合的な情報セキュリティ対
+策の推進 (The advancement of comprehensive information security). https://web.
+archive.org/web/20150601115522/http://www.nisc.go.jp/conference/seisaku/dai37/
+pdf/37sankou.pdf.
+Mission of Japan to ASEAN (2013, November 12). ASEAN-Japan joint information
+security awareness raising initiatives. Mission of Japan to ASEAN: Press Releases.
+https://web.archive.org/web/20221003234751/https://www.asean.emb-japan.go.jp/
+release13_34.html.
+Miyashita, A. (1999). Gaiatsu and Japan’s foreign aid: Rethinking the reactive-proactive debate. International Studies Quarterly, 43(4), 695–731.
+NISC (n.d.-a). ASEAN-Japan collaboration on information security. National center of
+Incident readiness and Strategy for Cybersecurity. Retrieved October 3, 2022, from
+https://web.archive.org/web/20220901033031/https://www.nisc.go.jp/eng/fw_top.
+html.
+NISC. (n.d.-b). ASEAN-Japan joint information security awareness raising initiatives.
+Retrieved October 3, 2022, from https://web.archive.org/web/20220623052801/
+https://www.nisc.go.jp/aj-sec/index.html.
+NISC. (2009a). 第1回 日ASEAN情報セキュリティ政策会議結果について情報セキュリティ政
+策会議結果について (About the results of the first ASEAN-Japan Information Security
+Meeting). https://web.archive.org/web/20221004000015/https://www.nisc.go.jp/
+pdf/council/seisaku/ciip/dai24/24siryou04.pdf.
+
+502
+
+B. BARTLETT
+
+NISC. (2009b). 第20回情報セキュリティ政策会議の開催について －「第２次情報セ
+キュリティ基本計画」の決定等－(About the Opening of the 20th Information Security
+Policy Committee: Decision on the “Second Information Security Basic Plan”, etc.).
+https://web.archive.org/web/20140213030036/http://www.nisc.go.jp/conference/
+seisaku/dai20/pdf/20seisakupress.pdf.
+NISC. (2010). 第2回日・ASEAN情報セキュリティ政策会議の結果 (Results of the Second
+ASEAN-Japan Information Security Policy Meeting). https://warp.da.ndl.go.jp/info:
+Ndljp/pid/8560885/www.nisc.go.jp/conference/seisaku/dai23/pdf/23siryou0204.pdf.
+NISC. (2012). Campaign in ASEAN 2012. https://warp.da.ndl.go.jp/info:Ndljp/pid/
+10198915/www.nisc.go.jp/aj-sec2012/index.html.
+NISC, & Takada, M. (2011). 情報セキュリティ分野における日本とASEANとの連携について
+(About Japanese and ASEAN Cooperation in the Field of Information Security).
+https://web.archive.org/web/20221004002705/https://www.jssm.net/jssm/security_
+day/2011/20110226_1.pdf.
+NISC, Ministry of Internal Affairs and Communications, & Ministry of Economy, Trade
+and Industry (2009, February 17). 総務省｜報道資料｜第1回日・ASEAN情報セ
+キュリティ政策会議の開催 (MIC j News Release j Holding of the First Japan-ASEAN
+Information Security Policy Meeting). 総務省 (MIC). https://web.archive.org/web/
+20221004002939/https://www.soumu.go.jp/menu_news/s-news/090217_5.html.
+NISC, Ministry of Internal Affairs and Communications, & Ministry of Economy, Trade
+and Industry. (2013a, September 13). 総務省｜報道資料｜日・ASEANサイバー
+セキュリティ協力に関する閣僚政策会議の結果 (MIC j News Releases j Results of the
+ASEAN-Japan Ministerial Policy Meeting on Cybersecurity Cooperation). 総務省
+(MIC).
+https://web.archive.org/web/20221004003155/https://www.soumu.go.jp/
+menu_news/s-news/01ryutsu03_02000056.html.
+NISC, Ministry of Internal Affairs and Communications, & Ministry of Economy, Trade
+and Industry. (2013b, October 11). 第6回「日・ASEAN情報セキュリティ政策会議」の結果
+(Outcomes of the 6th Japan-ASEAN Information Security Policy Meeting). https://web.
+archive.org/web/20221004003512/https://www.soumu.go.jp/menu_news/s-news/
+01ryutsu03_02000060.html.
+NISC, National Police Agency, Ministry of Internal Affairs and Communications,
+Ministry of Justice, Ministry of Foreign Affairs of Japan, Ministry of Economy,
+Trade and Industry, & Ministry of Defense. (2016). サイバーセキュリティ分野におけ
+る開発途上国に対する能力構築支援 (基本方針) (Cybersecurity capacity-building
+assistance for developing countries (basic policy)). https://warp.da.ndl.go.jp/
+info:ndljp/pid/12213293/www.nisc.go.jp/conference/cs/dai10/pdf/10shiryou09.pdf.
+Oros, A. L. (2017). Japan’s security renaissance: New policies and politics for the
+twenty-first century. New York: Columbia University Press.
+Orr, R. M. (1990). The emergence of Japan’s foreign aid power. New York: Columbia
+University Press.
+Parameswaran, P. (2016, November 15). Japan to Give Malaysia 2 Large Vessels
+During Najib Visit. The Diplomat. https://web.archive.org/web/20221004003728/
+https://thediplomat.com/2016/11/japan-to-give-malaysia-2-large-vessels-duringnajib-visit/.
+Pharr, S. J., & Bullock, M. (1994). Japanese aid in the new world order. In C. C. Garby &
+M. B. Bullock (Eds.), Japan: A new kind of superpower? Baltimore and London:
+Johns Hopkins University Press.
+Pollmann, M. (2015, December 2). Amid South China sea tensions, Japan strengthens
+ties with Philippines, Vietnam. The Diplomat. https://web.archive.org/web/
+
+THE PACIFIC REVIEW
+
+503
+
+20221004004558/https://thediplomat.com/2015/12/amid-south-china-sea-tensionsjapan-strengthes-ties-with-philippines-vietnam/.
+Rix, A. (1980). Japan’s economic aid: Policy-making and politics. New York: St. Martin’s
+Press.
+Rix, A. (1989). Japan’s foreign aid policy: A capacity for leadership? Pacific Affairs,
+62(4), 461–475.
+Rudloff, P., Scott, J. M., & Blew, T. (2013). Countering adversaries and cultivating
+friends: Indirect rivalry factors and the allocation of US foreign aid. Cooperation
+and Conflict, 48(3), 401–423.
+Schia, N. N. (2018). The cyber frontier and digital pitfalls in the Global South. Third
+World Quarterly, 39(5), 821–837.
+Soesanto, S. (2020). Japan’s national cybersecurity and defense posture: Policy and
+organizations. ETH Zurich. https://web.archive.org/web/20221004010013/https://
+www.research-collection.ethz.ch/bitstream/handle/20.500.11850/437790/CyberReports-2020-08-Japan.pdf?sequence=2&isAllowed=y.
+Sudo, S. (2009). Japan’s ASEAN policy: Reactive or proactive in the face of a rising
+China in East Asia? Asian Perspective, 33(1), 137–158.
+Trinidad, D. D. (2018). What does strategic partnerships with ASEAN mean for Japan’s
+foreign aid? Journal of Asian Security and International Affairs, 5(3), 267–294.
+Tsuchiya, M. (2016). Cyber security governance in Japan: Two strategies and a basic
+law. In K. E. Kushida, Y. Kasuya, & E. Kawabata (Eds.), Information governance in
+Japan: Towards a new comparative paradigm. Silicon Valley New Japan Project.
+Vosse, W. (2022). A conceptional broadening of the security order in the Indo-Pacific:
+The role of EU-Japan cooperation in ICT and cybersecurity. Asian Affairs, 53(3),
+561–582.
+Walt, S. M. (1987). The origins of alliances. Ithaca, NY: Cornell University Press.
+Yamamoto, R. (2020). The trajectory of ODA’s strategic use and reforms – From
+. Australian Journal of International Affairs, 74(6),
+Nakasone Yasuhiro to Abe Shinzo
+633–648.
+Yasutomo, D. T. (1986). The manner of giving: Strategic aid and Japanese foreign
+policy. Lexington, MA: Lexington Books.
+Yoshimatsu, H. (2017). Japan’s export of infrastructure systems: Pursuing twin goals
+through developmental means. Pacific Review, 30(4), 494–512.
+Yoshioka, K. (2013). PRACTICE - Proactive response against cyber-attacks through
+international collaborative exchange. IEICE Technical Report, 112(499), 55. https://
+ken.ieice.org/ken/paper/20130325JB2Y/eng/.
+Yuzawa, T. (2018). From a decentering to recentering imperative: Japan’s approach
+to Asian security multilateralism. Pacific Review, 31(4), 460–479.
+
+

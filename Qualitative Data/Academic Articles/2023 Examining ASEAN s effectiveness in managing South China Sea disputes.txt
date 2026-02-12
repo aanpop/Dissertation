@@ -1,0 +1,1275 @@
+The Pacific Review
+
+ISSN: (Print) (Online) Journal homepage: https://www.tandfonline.com/loi/rpre20
+
+Examining ASEAN’s effectiveness in managing
+South China Sea disputes
+Le Hu
+To cite this article: Le Hu (2023) Examining ASEAN’s effectiveness in managing South China Sea
+disputes, The Pacific Review, 36:1, 119-147, DOI: 10.1080/09512748.2021.1934519
+To link to this article: https://doi.org/10.1080/09512748.2021.1934519
+
+© 2021 The Author(s). Published by Informa
+UK Limited, trading as Taylor & Francis
+Group
+Published online: 29 Jun 2021.
+
+Submit your article to this journal
+
+Article views: 17507
+
+View related articles
+
+View Crossmark data
+
+Citing articles: 1 View citing articles
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=rpre20
+
+THE PACIFIC REVIEW
+2023, VOL. 36, NO. 1, 119–147
+https://doi.org/10.1080/09512748.2021.1934519
+
+Examining ASEAN’s effectiveness in managing
+South China Sea disputes
+Le Hu
+School of Politics and International Studies, University of Leeds, Leeds, UK
+ABSTRACT
+
+For the Association of Southeast Asian Nations (ASEAN), the South China Sea
+(SCS) disputes between China and Southeast Asian claimant states (Vietnam,
+the Philippines, Malaysia, and Brunei) are a major concern. However, the dominant sceptics are pessimistic about ASEAN’s effectiveness in managing these
+disputes. This article contributes to the field by providing a systematic analysis
+on this topic, which is missing within the literature. Also, many of the arguments presented in this article challenge the dominant views and thus provide
+an alternative understanding of ASEAN’s effectiveness in managing the disputes. The arguments are as follows: First, ASEAN members do have shared
+interests and a common policy regarding managing the disputes. Second,
+China’s influence on individual ASEAN members is not as strong as the sceptics
+often argue. Third, the degree of ASEAN’s goal attainment is medium because
+it achieved essential goals while conceding important but non-essential ones.
+Fourth, compared with a legalistic and adversarial posturing approach, ASEAN’s
+approach is more effective in managing these disputes.
+
+KEYWORDS South China Sea disputes; ASEAN-China relationship; ASEAN’s effectiveness;
+
+China; ASEAN
+
+Introduction
+The Association of Southeast Asian Nations (ASEAN) considers the South
+China Sea (SCS) disputes between China and Southeast Asian claimant
+states (Vietnam, the Philippines, Malaysia, and Brunei) highly concerning for
+multiple reasons. First, the disputes have been a prominent flashpoint in
+the Southeast Asian region (Severino, 2014), impacting ASEAN’s claimant
+and non-claimant members and undermining regional peace. Second, the
+disputes are a stumbling block for deepening ASEAN-China ties. For
+CONTACT Le Hu
+Leeds, Leeds, UK.
+
+pt13lh@leeds.ac.uk
+
+School of Politics and International Studies, University of
+
+ß 2021 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group
+This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercialNoDerivatives License (http://creativecommons.org/licenses/by-nc-nd/4.0/), which permits non-commercial re-use,
+distribution, and reproduction in any medium, provided the original work is properly cited, and is not altered,
+transformed, or built upon in any way.
+
+120
+
+L. HU
+
+instance, a retracted ASEAN 2016 statement wrote that while ASEAN states
+‘look forward to working with China to bring China-ASEAN cooperation to
+the next level’, they cannot ignore the concerns about ‘what is happening in
+the SCS’ (Thayer, 2016a). Third, in the context of the tense Sino-US strategic
+competition, the disputes, if mishandled, could embroil Southeast Asia in this
+competition. Fourth, ASEAN’s self-claimed leadership, centrality, and relevance in regional affairs may be called into question if it cannot effectively
+deal with SCS disputes, one of the most heated issues in East Asia.
+Owing to their importance, many scholars view ASEAN’s handling of
+these disputes as the litmus test of the organization’s effectiveness (Stubbs,
+2019). In this regard, so far, sceptics appear to have the upper hand
+(Beeson, 2020; Cook, 2018; Jones & Jenne, 2016; Le Thu, 2019). Even some
+ASEAN proponents appear to recognise ASEAN’s ineffectiveness regarding
+this issue (Acharya, 2018; Stubbs, 2020).
+The sceptics’ arguments can be summarised as follows: first, as the
+organization of Southeast Asian states, ASEAN failed to support its claimant
+members’ interests in the SCS (Ba, 2016) or confront China’s illegal SCS
+claims (Le Thu, 2019). Second, facing China’s superior economic and military
+power, ASEAN is not unified and has been ineffective in managing the disputes or preserving its self-proclaimed leadership and centrality in regional
+affairs (Cook, 2018; Yahuda, 2019). Third, ASEAN’s working mechanism,
+characterised by consensus decision-making, face-saving, and informality,
+has been manipulated by China and lacks effectiveness in managing the
+disputes (Beeson, 2020; Jones & Jenne, 2016).
+However, despite these criticisms, there is a dearth of systematic analysis
+of ASEAN’s effectiveness in managing the SCS disputes. Thus, this article
+aims to fill this gap by examining to what extent ASEAN is effective in managing these disputes. Moreover, the article’s findings challenge many arguments made by the sceptics and thus could provide an alternative
+evaluation of ASEAN’s effectiveness in the context of SCS disputes.
+This article’s main arguments are as follows: First, ASEAN members do
+have shared interests and a common policy regarding managing SCS disputes. Second, China’s influence on individual ASEAN members is not as
+strong as the sceptics argue. Third, the degree of ASEAN’s external effectiveness (goal attainment) is medium, as it achieved some essential goals
+while making compromises on important but non-essential ones. Fourth,
+compared with a legalistic and ‘adversarial posturing’ approach (Acharya,
+2001, as cited in Eaton & Stubbs, 2006, p.138), ASEAN’s approach is more
+effective in managing the disputes.
+The rest of this article is organized as follows. The first part outlines the
+analytical framework, wherein ASEAN’s effectiveness is considered in terms
+of internal effectiveness (ability to act) and external effectiveness (goal
+
+THE PACIFIC REVIEW
+
+121
+
+attainment). Specifically, ASEAN’s internal effectiveness is evaluated by four
+criteria (coherence, consistency, power, and recognition). It is worth noting
+that recognition may also relate to external effectiveness. This is because if
+ASEAN is not recognised as a legitimate party in dispute management, it must
+establish recognition as a goal to enhance its ability to act. Moreover, the
+effectiveness of ASEAN’s dispute management approach is compared to a
+legalistic and adversarial posturing approach. The second part analyses
+whether ASEAN members share interests and have a common policy regarding
+the disputes (coherence). The third part analyses ASEAN’s consistency in pursuing shared interests and the common policy. The fourth part analyses ASEAN’s
+power, recognition, and external effectiveness. The fifth part compares the
+ASEAN approach with the legalistic and adversarial posturing approach. The
+sixth part concludes the article. Many sources for this article are based on new
+empirical material and a new reading of existing secondary sources.
+
+Analytical framework
+While effectiveness is widely viewed as an important criterion for evaluating
+a political organisation’s performance, its definition varies, with the most
+common being an actor’s ability to achieve its stated goals (Groen, 2019).
+This definition has two major components: the actor’s ability and stated
+goals. Scholars generally view goal attainment as an important dimension
+for measuring an organisations’ effectiveness, but they do not all agree that
+its ability to act or ‘actorness’ is another dimension (Elsig, 2013; Groen &
+Niemann, 2013; Thomas, 2012). This article thinks that actorness often positively correlates with an organisation’s goal attainment and thus should be
+a major dimension for measuring an organization’s effectiveness. Like some
+scholars, this article defines an organisation’s goal attainment as ‘external
+effectiveness’ and actorness as ‘internal effectiveness’ (Carbone, 2013,
+p.343, Van Schaik, 2013, p.38).
+Regarding external effectiveness, there are two concerns. First, an actor
+may have conflicting goals, which cannot be fully achieved simultaneously.
+The actor has to strike a balance between these goals. For instance, regarding SCS disputes, China has conflicting goals; it wishes to consolidate its
+nationalist claims while preserving relatively benign relationships with its
+neighbouring countries (Fravel, 2017). Thus, China is ‘threading the needle’
+(Fravel, 2017, p.223) to strike a balance. Second, to reach an agreement,
+negotiating parties often need to make concessions. Thus, only in rare circumstances, can an actor fully achieve its stated goals.
+As an actor is often unable to fully achieve its stated goals, it is impractical to examine its external effectiveness in an either-or manner (effective or
+not effective). Instead, the degree of external effectiveness should be
+
+122
+
+L. HU
+
+measured ‘along a continuum going from low to medium to high effectiveness’ (da Conceiç~ao-Heldt & Meunier, 2014, p.968). In this article, ASEAN’s
+external effectiveness is deemed high when it achieves most of its stated
+goals and concedes unimportant interests. ASEAN’s external effectiveness is
+considered medium when it achieves bottom-line goals, obtains some
+important concessions from other relevant parties, and concedes other
+important but not bottom-line interests. ASEAN’s external effectiveness is
+considered low when it achieves the least and concedes the most.
+Regarding internal effectiveness, scholars examining the EU’s internal
+effectiveness have proposed many criteria. Bretherton and Vogler (2013, pp.
+386–387) examined internal effectiveness through ‘opportunity, presence
+and capability’. Groen and Niemann (2013, p.309) analysed internal effectiveness through ‘recognition, authority, coherence, and autonomy’. Brattberg
+and Rhinard (2013, p. 359) proposed ‘context, coherence, capability, consistency’. Many criteria in these frameworks overlap, such as coherence and recognition. However, as these scholars mainly analysed the EU’s internal
+effectiveness, some of their criteria are not applicable to the ASEAN context.
+For instance, authority (Jupille & Caporaso, 1998, p. 216, da Conceiç~ao-Heldt
+& Meunier, 2014, p.964) refers ‘to the extent of delegated competences from
+the member states to the EU’. Thus, authority is a concept related to sovereignty pooling, meaning that some member states could be outvoted
+(McLean & McMillan, 2018). However, ASEAN’s mechanism is consensus decision-making, in which member states cannot be outvoted.
+Drawing on the available frameworks, this article chose four criteria that
+are helpful in analysing ASEAN’s internal effectiveness in SCS dispute management. The first criterion is coherence. Specifically, this article analyses to
+what extent ASEAN members share interests regarding SCS disputes
+(‘preference coherence’) and whether ASEAN has a common policy to manage SCS disputes (‘output coherence’) (Groen & Niemann, 2013, p.310).
+The second criterion is ‘consistency’ (Brattberg & Rhinard, 2013, p.359),
+which refers to whether ASEAN members persist in carrying out ASEAN’s
+common policy rather than ignoring it or pursuing their national interests.
+The third criterion is ASEAN’s power. Power is defined as the ability to
+‘get others to do what they would otherwise not do’ (Nye, 1990, p.154).
+Drawing on da Conceiç~ao-Heldt’s (2014) and Groen’s (2019) works, this article first examines ASEAN’s power resources/instruments in SCS disputes.
+Second, this article postulates that if ASEAN has more power resources than
+China in some dimensions, it will compel China to make concessions.
+However, because China has important leverage regarding SCS disputes,
+ASEAN will consider China’s position and make some important but not
+bottom-line concessions. Third, ASEAN’s contradictory shared interests may
+constrain its ability to compel China.
+
+THE PACIFIC REVIEW
+
+123
+
+The fourth criterion is recognition (Delreux, 2014), that is, whether
+ASEAN is recognised by relevant parties as a legitimate player in managing
+the disputes. If so, ASEAN’s ability to attain goals will be enhanced.
+Otherwise, ASEAN has to establish recognition as a goal to enhance its ability to act.
+In addition to internal and external effectiveness, an important idea
+stemming from the literature is that an organisation’s effectiveness should
+be compared. Acharya and Johnston (2007, p. 2) analyse regional institutions by examining ‘whether variation in institutional design leads to variation in … efficacy of these institutions for resolving regional cooperation
+problems.’ For SCS disputes, one important debate is whether an ASEAN
+approach that ‘emphasises consultation, consensus decision-making, informality, and a non-confrontational bargaining style’ (Stubbs, 2019, p. 928) is
+more effective in helping ASEAN achieve its goals than a legalistic and
+adversarial posturing approach. Scholars analysing the EU’s external effectiveness argue that a political organisation’s external effectiveness not only
+depends on its internal effectiveness but also on the context in which it
+operates (Groen & Niemann, 2013). The context mainly includes relevant
+parties’ positions, which facilitate or constrain the organisation’s actions
+(Groen & Niemann, 2013). Because China is the most powerful claimant
+state and makes the most extensive claim, the key to comparing the
+approaches’ effectiveness is ascertaining which approach is more effective
+in pushing China into SCS dispute management and helping ASEAN attain
+its goals.
+In short, this article analyses ASEAN’s effectiveness in managing SCS disputes by examining its internal effectiveness (coherence, consistency,
+power, and recognition) and external effectiveness (goal attainment). It also
+compares the ASEAN approach with an adversarial posturing and legalistic
+approach by examining which approach is more effective in pushing China
+into SCS dispute management and facilitating ASEAN’s goal attainment. As
+the extent to which ASEAN members share interests regarding SCS disputes
+is the basis for its internal effectiveness and for the goals that ASEAN needs
+to achieve, this article examines coherence first.
+
+ASEAN’s internal effectiveness-coherence
+Some scholars doubt ASEAN’s capability to protect its member states’ interests in SCS disputes (Ba, 2016; Beeson, 2020). However, this argument lacks
+nuance. ASEAN functions effectively when its member states ‘join hands to
+advance common interests when and where they deemed fit’ (Acharya,
+2016, p.118). Thus, regarding SCS disputes, ASEAN is responsible for protecting member states’ shared interests, but not their distinctive national
+
+124
+
+L. HU
+
+interests. As these shared interests are the basis of ASEAN’s common policy
+on SCS disputes, it is important to distinguish shared interests from the
+national interests of individual member states.
+First, ASEAN states prefer to manage SCS disputes through an ASEAN-led
+approach. As a grouping of Southeast Asian states built to promote
+‘regional peace and stability’ (ASEAN, 1967), ASEAN has interests in managing the disputes that deeply affect regional peace. Moreover, claimant
+states are more inclined to seek ASEAN’s help to constrain China’s assertive
+actions at sea than to bilaterally negotiate with China (Guan, 1998;
+Odgaard, 2003). Non-claimant members also endorse the ASEAN-led
+approach. In 1999, Thailand’s then Foreign Minister Surin Pitsuwan (1999,
+as cited in Chung, 2009, p.102) said that SCS issues must be discussed at
+the ASEAN Foreign Minister Meeting (AMM) because conflicts at sea ‘would
+be adverse to all of us’. Cambodia, while opposing the ‘internationalisation
+of the disputes’, stated that they must be managed within the ASEANChina framework (Tan, 2012).
+Second, ASEAN members have a shared interest in avoiding unduly escalating the SCS disputes and completely breaking down their relationships
+with China. The non-claimant and mild claimant ASEAN states’ interests in
+this regard have been widely recognised. The two assertive claimant states,
+Vietnam and the Philippines, share this interest as well. In October 2019,
+when Vietnamese citizens expressed their concern about China’s challenges
+ Trong, the
+to Vietnam’s sovereignty claims in the SCS, Nguy~^en Phu
+_
+Vietnamese President, answered that Vietnam needs to preserve a stable
+external environment for development, while firmly protecting its territorial
+integrity (Vietnam News Agency [VNA], 2019). Likewise, in December 2020,
+Vietnam’s Vice Defence Minister Nguyen Chi Vinh (2020, cited in VNA,
+2020b) simultaneously highlighted the importance of defending Vietnam’s
+sovereignty rights in the SCS and ensuring an amicable relationship with
+China. Thus, Vietnam will continue its ‘cooperation and struggle’ strategy
+when dealing with SCS disputes (Thayer, 2016b, p.210). That is, while deterring China from challenging Vietnam’s sovereignty claims, Vietnam will continue engaging with China to conciliate and manage the tensions at sea
+(Thayer, 2016b).
+Also, in 2016, to de-escalate the heightened tensions at sea and to
+improve the relationship between the Philippines and China, the
+Philippines Duterte administration decided to put aside the arbitration tribunal awards that give the country a landslide victory over China regarding
+SCS dispute claims. In 2018, the then Philippines’ Foreign Secretary
+Cayetano (2018, as cited in Jaipragas, 2018) explained the decision: ‘if you
+want development … you have to have peace … we focus first on stop
+bleeding’. Also, Cayetano (2018, as cited in Jaipragas, 2018) stated that ‘we
+
+THE PACIFIC REVIEW
+
+125
+
+don’t allow this dispute to define the overall relationship of China and the
+Philippines’. Some observers may argue that the Philippines does not
+always adopt a de-escalation and amelioration strategy when handling the
+disputes, because Duterte’s predecessor, Aquino III, was more confrontational in this regard. However, compared to other predecessors, aside from
+Aquino III, Duterte’s handling of the Philippines-China SCS disputes shows
+continuity. For instance, after China seized the Mischief Reef in 1995, while
+strengthening military ties with the US, the Philippines’ then President
+Ramos continued engaging with China to de-escalate tensions and maintain a benign relationship (Heydarian, 2017). Also, in 2009, to maintain a
+stable relationship with China and avoid escalating the disputes, the Arroyo
+administration declined to participate in Vietnam and Malaysia’s joint submission of extended continental shelf claims in the SCS to the United
+Nations (Heydarian, 2017).
+Third, ASEAN members share an interest in avoiding embroiling the
+region in the US-China power play. Since its founding, ASEAN has aimed to
+free the Southeast Asian region from ‘involvement in the quarrels of the
+strong’ (Severino, 2006, p.10). While many ASEAN states welcome the US
+presence in the region, they desire moderate US-China competition, which
+would afford them space to manoeuvre between the great powers and
+maximise their autonomy (Han, 2018). The deepening US involvement in
+the disputes, guided by the Freedom of Navigation operation or its aim to
+prevent China from ‘bullying’ other claimant states (Esper, 2020, as cited in
+Lendon, 2020), may trigger Chinese countermeasures or even backlash. In
+consequence, the SCS may become a field of US-China competition
+(Jaipragas, 2018, Graham, 2020). This would compel regional states to
+choose sides.
+Some observers may argue that claimant countries may side with the US
+because of China’s assertive actions in the SCS. However, this article argues
+that although SCS disputes are a major cause of friction between ASEAN
+claimants and China, they are not threatening enough for the claimants to
+choose sides. A 2012 Vietnam Academy of Social Sciences report argues
+that China does not pose a ‘lethal threat’ to Vietnam’s sovereignty and
+independence, and it will not threaten Vietnam’s sovereignty beyond the
+disputed area (Nguy~^en, 2012, as cited in Zhao, 2020, p.107). The report
+views the SCS disputes as a ‘partial dispute’ between the two countries
+^
+((Nguy~
+en, 2012, as cited in Zhao, 2020, p.107). Likewise, The Philippines’
+President Duterte states that China ‘has never invaded a piece of my country all these generations’ (TRT World, 2016). Moreover, on July 15, 2020,
+China contacted the Philippines after the US had denounced China’s claims,
+the Philippines reassured China that the frictions at sea are ‘not [a] sum
+total’ of their relationship (Rocamora, 2020). Because China does not
+
+126
+
+L. HU
+
+threaten the claimants’ survival, they probably do not treat China as a pure
+enemy. Moreover, because they view the SCS disputes as a part of their
+relationship with China, they will continue engaging with China despite the
+contentious disputes. Thus, the claimants may continue to favour a hedging
+strategy that simultaneously engages with and balances against China,
+rather than openly opposing China by siding with the US.
+These shared interests are contradictory. First, using ASEAN forums or
+strong wording in forum communiques to address SCS disputes may antagonise China and further escalate tensions. Second, to push China towards
+the ASEAN-led approach, the US must act as a balancer. However, this
+could trigger a backlash from China, thereby intensifying the great power
+competition.
+Although ASEAN states share some interests, defending the claimant
+members’ sovereignty claims is not one of them, because only four ASEAN
+members are claimants and they dispute each other’s claims. To list a few
+examples, in March 2020, Malaysia placed an oil rig in an area of the
+extended continental shelf that Vietnam also claims (Vu, 2020). In August
+2020, Vietnam protested that the Philippines had given official names to
+some land features in the Spratly (VNA, 2020a). From July to August 2020,
+Malaysia and the Philippines argued about their respective sovereignty
+claims over the Borneo state of Sabah (Regalado, 2020).
+Some analysts may argue that ASEAN does not need to defend claimant
+members’ sovereignty claims, but that it should defend their legal sovereignty rights, entitled by the 2016 arbitration tribunal awards. However, to
+others, this argument is somewhat hypocritical because even ASEAN claimant
+members do not fully obey the awards. The tribunal determined that all land
+features in the Spratly cannot generate Exclusive Economic Zones (EEZ) (The
+Republic of Philippines [PH] v. The People’s Republic of China [PRC], 2016).
+This means they are rocks or low tide elevations. If the land features are lowtide elevations, they are not eligible to generate sovereignty and thus belong
+to the states whose EEZs they are located within. Vietnam occupies 27 land
+features in Spratly. However, although Vietnam has been pressuring China to
+obey the award, so far, Vietnam has not conceded its occupied low tide elevations within the Philippine or Malaysian EEZs (Zhao, 2019). Some may
+argue that the award is only binding to China and the Philippines. However,
+if so, ASEAN has no legal right to enforce the awards as a third party.
+Based on the shared interests of its members, ASEAN has formed a common policy to manage SCS disputes. The common policy is Code of
+Conduct for the SCS (COC), which is the only dispute management mechanism that allows ASEAN members to reach a consensus. Even Cambodia,
+which is recognised as China’s ASEAN ally, has endorsed the COC (Shanghai
+Evening Post, 2012).
+
+THE PACIFIC REVIEW
+
+127
+
+Thus far, the COC is the most viable mechanism through which ASEAN
+members can, to a certain degree, realise their shared interests regarding
+SCS disputes. First, this is an ASEAN-driven approach. Thus, it reflects
+ASEAN’s centrality and leadership in managing SCS disputes. Second, the
+COC is the only binding multilateral SCS dispute management mechanism
+that is endorsed by both Southeast Asian claimant states and China. Thus, a
+relatively robust and binding COC can restrain the claimants from engaging
+in provocative actions, thereby de-escalating tensions at sea and improving
+their relationships to a certain degree. Third, by ameliorating frictions, the
+COC may reduce ASEAN claimants’ need to involve the US in the disputes.
+This will alleviate China’s fear that it will be besieged by a US-led coalition
+and need to assertively respond, thereby decreasing the intensity of the
+great power competition.
+Overall, regarding SCS disputes, ASEAN members favour an ASEANdriven approach. They also share interests in avoiding unduly escalating
+tension, completely breaking down their relationships with China, and letting the disputes embroil Southeast Asia in the great power competition.
+However, ASEAN members do not share interests in defending claimant
+states’ sovereignty claims or claimed legal rights. Based on the shared interests, ASEAN forms a common policy of concluding the COC. However, as
+the shared interests are contradictory, they may have a negative impact on
+ASEAN’s consistency in realising the interests and the COC.
+
+ASEAN’s internal effectiveness-consistency
+Many sceptics argue that ASEAN lacks consistency when managing SCS disputes. Le Thu (2019) argues that ASEAN is incapable of creating a coherent
+response to China’s assertive actions in the SCS because China has successfully exploited ASEAN members’ divergent threat-benefit calculations
+through a divide and rule strategy. Likewise, Yahuda (2019, p.42) argues
+that ‘the ASEAN way that has prized consensus … is turning out to be well
+suited to manipulation by China’. The most cited evidence of this argument
+is that under China’s pressure, Cambodia vetoed Vietnam and the
+Philippines’ proposal which had specified disputed SCS areas in the 2012
+AMM’s joint communique (Gill & Schreer, 2018). This led to ASEAN’s failure
+to issue a communique for the first time since its founding, revealing its
+lack of unity. The second solid piece of evidence is that at the 2016 special
+Kunming Meeting between China and ASEAN, China heavy-handedly
+blocked ASEAN’s statement (Thayer, 2016a).
+This article argues that while China does decrease ASEAN’s consistency
+in managing SCS disputes, its influence is not as significant as the sceptics argue.
+
+128
+
+L. HU
+
+First, take the 2012 Cambodia’s case as an example. To be sure, at the
+meeting to draft the 2012 AMM communique, Cambodia’s stubborn rejection of Vietnam and the Philippines’ proposal did reflect China’s position
+regarding the disputes (Thayer, 2012). Moreover, Cambodia might not have
+insisted on this position without China’s pressure. However, ASEAN’s disunity at the meeting was also due to a contradiction in the member states’
+shared interests. As noted, these shared interests are contradictory because
+all ASEAN members endorse an ASEAN-led approach but using ASEAN-led
+forums or strong wording in the forums’ statements may antagonise China
+and further escalate tension. At the meeting, Cambodia used ASEAN’s
+shared interest in de-escalating tensions, noting that the wording in the
+communiqu
+e draft was so strong as to be unhelpful in realising this interest
+(Thayer, 2012). Some ASEAN states also mentioned this interest. Thailand
+highlighted the need to de-escalate tensions and preserve a benign relationship with China (Thayer, 2012). Brunei, Laos, and Myanmar stressed the
+need to promote regional peace and engage with China (Thayer, 2012).
+Also, Malaysia and Indonesia proposed the less confrontational phrase
+‘disputed area’, which Cambodia went on to endorse (Thayer, 2012). This
+demonstrates a compromise on the part of a mild claimant like Malaysia.
+However, the Philippines and Vietnam rejected this proposal and used
+another ASEAN interest to support their argument. They insisted that
+ASEAN-led forums must stress the tension in the specific area (Thayer,
+2012). Thus, examining the meeting in detail did not show that ASEAN was
+divided into two, with Cambodia representing China’s interests and the
+other ASEAN members wishing to address concerns by specifying the area
+of tension. In addition to the China factor, ASEAN’s disunity occurred
+because of its members’ insistence on realising ASEAN’s contradictory interests. Hayton (2014) indicated that most ASEAN countries stressed the
+importance of ASEAN’s unity and that Cambodia’s rejection caused the disunity. However, ASEAN’s unity could also have been achieved if Vietnam
+and the Philippines had accepted the wording of ‘disputed area’ proposed
+by Malaysia and Indonesia and endorsed by Cambodia.
+Moreover, what often goes unnoticed is ASEAN members’ consistency in
+proceeding with drafting the COC and pushing China into the COC talks
+since 2012 despite China’s reluctance. From 2011 to early 2013, China was
+very reluctant to endorse COC talks (Zhang, 2018), as evidenced by the
+then Chinese Foreign Minister Yang Jiechi’s statement in 2011 that ‘China
+would be willing to negotiate COC with ASEAN when conditions were ripe’
+(People’s Net, 2011). However, despite China’s unwillingness, in May 2012,
+as the ASEAN chair, Cambodia announced that ASEAN had concluded key
+elements of the COC draft and would commence negotiations with China
+(Vong, 2012). Also, at the 2012 AMM meeting, ASEAN members generally
+
+THE PACIFIC REVIEW
+
+129
+
+noted the COC progress and stressed the need to continue advancing
+(Thayer, 2012). After failing to issue the joint communique for the 2012
+AMM, ASEAN quickly agreed to Indonesia’s six-point principles on the SCS,
+one of which was to complete the COC (Thayer, 2017). At the November
+2012 East Asia Summit (EAS), ASEAN asked Cambodian Prime Minister Hun
+Sen to convey its unity and determination to start formal COC talks with
+China as soon as possible to the then Chinese Premier Wen Jiabao (Fang,
+2012). By doing so, ASEAN intended to send a clear signal that China
+should not expect to avoid COC talks by asking Cambodia for a favour and
+breaking ASEAN’s consensus on this matter. ASEAN continued compelling
+China to start the talks after the 2012 Chinese leadership transition. In 2013,
+the Sultan of Brunei, the then ASEAN chair, directly talked about the COC
+with the Chinese President Xi Jinping during their meeting on the side-lines
+of the Boao Forum (Thayer, 2013). These examples illustrate that ASEAN
+members spoke with one voice to pressure China to start COC negotiations
+from 2012 to 2013.
+The 2016 Kunming meeting also demonstrates that China’s influence on
+some ASEAN members is not as significant as the sceptics argue. Chinese
+Foreign Minister Wang Yi did replace ASEAN’s statement with China’s 10point consensus at the meeting on June 14 (Thayer, 2016a). China also
+asked Laos and Cambodia to block the statement (Thayer, 2016a). As a
+result, ASEAN failed to issue the statement (Thayer, 2016a). Thus, this is a
+solid example that China blocked ASEAN’s statement by asking some
+ASEAN members for a favour.
+However, this incident also demonstrated ASEAN’s unity in the face of
+Chinese pressure (Singh et al., 2016). To abide by ASEAN’s decision, the
+organization’s coordinator for the ASEAN-China dialogue, Balakrishnan did
+not present at the press conference held for the special meeting and let
+Wang present by himself (Singh et al., 2016). While ASEAN explained that it
+did not want to publicly disagree with Wang (Balakrishnan, 2016, as cited in
+Thayer, 2016a), making Wang attend the conference alone was a signal of
+ASEAN’s anger. This is because ASEAN’s decision contradicted its norm of
+saving face. Also, it seems that China failed to persuade its ASEAN friends
+to attend the conference to show that China was not isolated. This is
+another demonstration of ASEAN’s unity.
+Finally, although Cambodia and Laos backtracked on their endorsement
+of the joint statement (Thayer, 2016a), they had revealed dissatisfaction and
+demonstrated ASEAN’s unity against China’s pressure before the meeting.
+In April 2016, China claimed that it had reached a four-point consensus
+regarding SCS disputes with Laos, Cambodia, and Brunei (Singh et al.,
+2016). However, Brunei and Laos did not mention SCS disputes in their official statements after they met with China (Singh et al., 2016). Cambodia did
+
+130
+
+L. HU
+
+not issue a statement and denied reaching any agreement with China
+(Singh et al., 2016). These reactions reveal that the countries indirectly protested against China’s heavy-handedness and attached more importance to
+ASEAN’s common position (Singh et al., 2016).
+Overall, by examining these two oft-cited examples regarding ASEAN’s
+consistency, the article argues that China is not as effective in manipulating
+ASEAN’s consensus decision-making mechanism as previously argued by
+sceptics. First, China’s pressure on Cambodia was not the only cause of
+ASEAN’s failure to issue the 2012 AMM communique, because ASEAN members’ shared but contradictory interests factored in as well. Also, from 2012
+to 2013, China failed to prevent unified ASEAN members from proceeding
+with drafting the COC and compelling China into COC talks. Finally, during
+the 2016 Kunming special meeting between ASEAN and China, Chinese
+Foreign Minister Wang Yi successfully prevented ASEAN from collectively
+issuing a statement. However, his action caused unified opposition from
+ASEAN. Also, Wang failed to obtain endorsements from China’s ASEAN
+friends regarding the four-point consensus before the meeting.
+
+ASEAN’s internal effectiveness—power, recognition, and
+external effectiveness
+Within this section, this article examines ASEAN’s power, recognition, and
+external effectiveness (goal attainment) altogether, because they are interrelated. ASEAN’s ability to compel China to accept the organization’s preferences by utilising its power resources/instruments is vital for its external
+effectiveness. Also, if ASEAN is recognised as a legitimate party in managing
+SCS disputes, the organization will find it easier to achieve goals. Otherwise,
+recognition becomes the goal to enhance its ability to act.
+Regarding ASEAN’s instruments and external effectiveness, scholars generally argue that the US role as an external balancer can help ASEAN counter China’s advantageous power and compel the country to accept
+undesired outcomes. Jones and Jenne (2016) argue that in the 1990s,
+China’s heavy-handed SCS policy increased the possibility of the US’ deeper
+involvement in the disputes, which compelled China to adopt a softer
+approach in the 2000s. Likewise, Murphy (2017) argues that in the 1990s,
+the US role as the balancer successfully softened China’s assertive SCS
+actions, and the Philippines and Vietnam have continued seeking the US
+assistance to constrain China since 2010. Ge (2012) argues that ASEAN’s
+strategy of using great powers, such as the US, to balance against China
+has facilitated ‘ASEANisation’ of the disputes.
+However, many sceptics criticise the ASEAN way for its ineffectiveness in
+addressing SCS disputes. The common criticism of the ASEAN way is that
+
+THE PACIFIC REVIEW
+
+131
+
+ASEAN-led institutions are talk shops (Emmerson, 2017). Jones and Smith
+(2007, pp.175-177) argue that the ASEAN way ‘makes process not progress’
+in changing China’s preferences and serves China’s self-interest rather than
+addressing the disputes. Likewise, Beeson (2018, p. 144) argues that China’s
+actions in the SCS ‘gives little cause for optimism about the capacity of
+ASEAN-inspired institutions to make a decisive difference to great
+power behavior’.
+In contrast to the sceptics outside China, Chinese scholars generally
+argue that the ASEAN way has successfully pressured China to accept
+undesired outcomes. Pang (2012) argues that China has been caught in
+ASEAN’s ‘diplomatic trap’, compelled to recognise the norm of not using
+force to recover unoccupied land features, and increasingly constrained by
+ASEAN-led multilateralism. Nie (2013) argues that ASEAN’s non-confrontational, face-saving, and gradualist approach reduced China’s distrust and
+cautiously led China into ASEAN’s desired multilateral approach of handling
+SCS disputes. Lu (2016) argues that since 2012, ASEAN has been increasingly proactive and uncompromising in dealing with SCS disputes, ignoring
+China’s preference for a bilateral approach and harming the ChinaASEAN friendship.
+This article joins this debate by examining to what extent ASEAN could
+compel China into COC negotiation and attain the organization’s stated
+goals concerning COC, ASEAN’s common policy of handling SCS disputes.
+Specifically, this article analyses ASEAN’s instruments for pressuring China
+and to what extent ASEAN could achieve its goals by using these
+instruments.
+To begin, in 2011, amidst the rising SCS tension, ASEAN began to officially push to conclude the COC. At the July AMM, Indonesian President
+Yudhoyono stressed the importance of the COC conclusion (BBC News,
+2011). Also, during the November EAS, the Indonesian Foreign Minister
+Marty Natalegawa said that the ASEAN Foreign Ministers had discussed the
+feasibility of pushing for a legally binding COC negotiation and including
+China in the negotiations as soon as possible (Zhang & Ji, 2011). In terms of
+his statement, ASEAN discussed two COC goals that are legally binding and
+early conclusion.
+However, ASEAN faced a recognition problem, because from 2011 to
+early 2013, China was reluctant to recognise the necessity and legitimacy of
+completing the COC. According to an article published by People’s
+Daily, China thought that some ASEAN claimants overtly relied on ASEAN’s
+multilateral forums to pressure China to accept undesired terms
+(Zhongsheng, 2011). According to China, these states did not aim to create
+peace but to ‘constrain China and loosen their hands and feet’ through the
+COC (Zhongsheng, 2011).
+
+132
+
+L. HU
+
+Moreover, China was reluctant to recognise ASEAN’s legitimacy for pushing the COC conclusion. ASEAN did have the legitimacy because all ASEAN
+states and China had signed the Declaration on Conduct of Parties in the
+SCS (DOC), which prescribes that all signatories ‘agree to work … towards
+the eventual attainment of’ the COC (ASEAN & China, 2002). However,
+China was dissatisfied that to increase ASEAN’s internal unity and international influence, ASEAN pushed for the COC conclusion and internationalised the disputes (Zhongsheng, 2011). In 2011, a People’s Daily report stated
+that the COC talks were delayed because ‘some states wanted ASEAN to
+negotiate the COC with China as a group’ (People’s Net & People’s Daily,
+2011). This hinted at China’s insistence on bilateral talks regarding SCS dispute management.
+This article will not judge China’s view. However, because of this view,
+China continued declining ASEAN’s request to begin the COC talks from
+2011 to 2013 (Nie, 2013). However, as noted in the last section, ASEAN persisted in pressuring China to start the COC negotiation from 2012 to 2013.
+Also, from 2013 to 2016, ASEAN’s joint communiques for the AMMs were
+increasingly hardline regarding the SCS disputes despite China’s opposition
+(Lu, 2016). First, SCS disputes were often referred to in the communiques
+(Lu, 2016). For instance, in the 2013, 2014, 2015, and 2016 communiques,
+two (points 90-91), six (points 150-155), seven (points 150-156), and five
+(points 174-178) points referred to SCS disputes respectively (Lu, 2016).
+Second, the wording became increasingly strong in these communiques
+(Lu, 2016; Storey, 2018). For instance, while the 2013 communique was generally positive (ASEAN, 2013), the 2014 communique expressed a ‘serious
+concern over recent developments which had increased tension in the SCS’
+(ASEAN, 2014). This hinted at China’s deployment of an oil rig in the waters
+that China claimed to be an overlapping area between the Paracel Islands
+and Vietnam’s EEZs but over which Vietnam claimed exclusive EEZ rights.
+Compared to the 2014 joint communique, the 2015 version was more specific in noting the events that caused regional tensions. It expressed ‘serious
+concerns … on the land reclamations in the SCS, which … may undermine
+peace … in the SCS’ (ASEAN, 2015). The 2016 communique also noted a
+‘serious concern’ over land reclamations in the SCS (ASEAN, 2016).
+In addition to ASEAN’s strong diplomatic pressure, ASEAN or ASEAN
+members’ cooperation with the US put pressure on China. According to an
+article written by the Chinese National People’s Congress’s Deputy Director
+of Foreign Affair Committee, Fu Ying, and the President of Chinese National
+Institute for SCS Studies, Wu Shicun, since 2010, the US has used ‘political,
+diplomatic … and military instruments to increase China’s operational cost
+in the SCS, compel China to concede, and contain so-called Chinese expansion in the SCS’ (Fu & Wu, 2016). From China’s perspective, one of the
+
+THE PACIFIC REVIEW
+
+133
+
+political and diplomatic instruments was ASEAN-led multilateral forums,
+which facilitated US ‘interference’ in the disputes and its diplomatic support
+to the ASEAN claimants (Zhongsheng, 2011). For instance, some ASEAN
+states claimed that they would cooperate with the US to solve SCS disputes
+at the 2011 AMM (Zhongsheng, 2011). Regarding the military instruments,
+the US has increased military presence in the SCS and military support to
+the ASEAN claimants since 2011 (Fu & Wu, 2016). For instance, since 2011,
+the US warships have continued patrolling near or within the territorial
+waters of the China-controlled Paracel Islands and Spratly land features (Fu
+& Wu, 2016). Also, since 2011, the US has increased intelligence cooperation
+and military drills with Vietnam and the Philippines (Fu & Wu, 2016).
+ASEAN’s diplomatic pressure and cooperation with the US has proved to
+be fruitful, because since 2013, China conceded to the ASEAN-driven multilateral approach. In early 2013, China signalled a willingness to start the
+COC talks (Thayer, 2017). In July 2013, China formally accepted Brunei’s suggestion of a ‘two-track approach’, wherein claimants should directly solve
+sovereign and maritime disputes, and ‘China and ASEAN countries should
+work together to maintain peace … in the Sea’ (Xinhua, 2016). China formally consulted with ASEAN regarding the COC in September 2013 (Thayer,
+2017). This shows that despite its reluctance, China officially recognised
+ASEAN as a legitimate party for managing the disputes and had to begin
+the COC negotiation. As bilateral talks aimed at solving sovereignty disputes between China and claimant countries are unlikely to be realised in
+the foreseeable future, China to a certain degree conceded ASEAN’s major
+demand to endorse the ASEAN-led multilateral approach for managing
+SCS disputes.
+Moreover, because China was unable to prevent ASEAN from being
+increasingly hardline and compelling the country to accept the talks, China
+probably considered that it had to concede and join the talks to alleviate
+ASEAN’s pressure and shape the COC talks. First, in contrast to ASEAN’s
+preference for an early conclusion to the COC, China said that the COC
+negotiations should not be rushed (Xinhua, 2013). Second, China prefers a
+COC that is not legally binding (Storey, 2017). Third, China states that
+‘China and ASEAN members should overcome disturbances’ (Xinhua, 2013).
+This indicates that China wanted to use the negotiations to constrain
+ASEAN’s attempts to involve the US in the disputes.
+Regarding SCS disputes, China is the most powerful disputant and makes
+the most maritime claims. Thus, China’s approval is a must if any dispute
+management mechanism is expected to be effective. This gives China leverage to compel ASEAN to concede in the COC talks. First, contrary to
+ASEAN’s preference for an early conclusion to the COC, the COC talks progressed slowly from September 2013 to July 2016. Some observers argued
+
+134
+
+L. HU
+
+that this was because China ‘dragged [its] feet’ (Storey, 2016, p.143; Panda,
+2015). Second, ASEAN conceded to China’s demand for a non-legally binding COC. In the ASEAN-China COC framework that was concluded in 2017,
+ASEAN omitted the legally binding phrase (Storey, 2017).
+Third, although with the help of the US, ASEAN could to some degree
+balance against China’s hard power, over-reliance on US support could lead
+to a backlash from China and thus embroil the region in a great power
+competition. Moreover, embroiling the region in the competition will not
+enhance regional peace or increase ASEAN’s relevance in the disputes.
+Thus, ASEAN was cautious to limit the US’s participation in the dispute
+management. At the 2014 ASEAN Regional Forum, ASEAN members were
+generally lukewarm towards the then US Secretary of State John Kerry’s
+proposal of freezing proactive actions in the SCS (Mooney & Wroughton,
+2014). In 2015, Indonesian Defence Minister Ryamizard Ryacudu (2015, as
+cited in Parameswaran, 2015) stated that ‘if regional countries can manage
+the SCS on their own, there is no need to involve others’. Moreover, when
+former US President Trump offered to mediate the dispute in 2017,
+Vietnam cautiously responded to his offer and the Philippines’ President
+Duterte said that the dispute was ‘better left untouched’ (Shi & Liu, 2017).
+ASEAN’s actions of limiting the US’ involvement in the disputes somewhat
+met China’s demand for avoiding external powers’ ‘disturbances’
+(Xinhua, 2013).
+The COC talks began to accelerate from July 2016, probably because
+China had consolidated sovereignty claims by completing land feature reclamations and declining the awards of the SCS arbitral tribunal. Some analysts view this as solid evidence of ASEAN’s weakness in managing SCS
+disputes. Panda (2015) argues that only after China is ‘satisfied with its position in the SCS disputes’ can the ASEAN-driven approach progress.
+Likewise, Zhang (2018, p.78) argues that ASEAN managed SCS disputes by
+‘making pragmatic compromise under the principles’. In other words,
+ASEAN insisted on pushing China into COC negotiation, representing the
+organization’s unswerving principle (Zhang, 2018). However, facing China’s
+advantageous hard power, ASEAN made pragmatic compromises by tolerating China changing the status quo to proceed with the negotiations
+(Zhang, 2018).
+Although this article recognises that China’s advantageous hard power
+over ASEAN is one reason that ASEAN reluctantly accepted China’s land reclamation activities, this is not the only reason. First, China was not the only
+claimant country that reclaimed and built outposts on land features from
+2013 to 2016. For instance, in this period, Vietnam reclaimed several land
+features and built military facilities on them, such as Sandy Cay and West
+London Reef (Pincus, 2015). In 2014, the Philippines allocated money to
+
+THE PACIFIC REVIEW
+
+135
+
+upgrade airfields and navy ports in its occupied Thitu Island (Pincus, 2015).
+Accordingly, the then US Defence Minister Ash Carter recognised that “it’s
+true that almost all nations that claim parts of SCS have developed outposts
+over the years … of different scope and degree” (Pincus, 2015). Like Carter,
+some analysts may argue that China ‘had gone much further and faster
+than any other’ (Pincus, 2015). However, the others’ outpost developments
+provided China with an excuse to reject the criticisms and ask ASEAN to
+obey the principle of not taking sides in the disputes.
+Second, while consolidating sovereignty claims, China was restrained to
+prevent frictions in the SCS from spiralling out of control and breaking
+down the ASEAN-China relationship. China did not use force to seize land
+features held by other claimants and only reclaimed the land features that
+it already occupied. Moreover, China did not cross any red line established
+by the Philippines’ Duterte administration, such as not building on the
+Scarborough Shoal (Viray, 2018). Further, aside from China’s de facto control over the Scarborough Shoal in 2012, China often moderated when
+other claimant states strongly reacted to its actions. In 2014, China
+deployed an oil rig in waters that Vietnam claimed were within its EEZ,
+while China claimed the location was between the EEZs of the Paracel
+Islands and Vietnam. The deployment caused a strong response from
+Vietnam, which sent smaller vessels and fishing boats to confront China
+(Thayer, 2016b). China then moderated by withdrawing its oil rig and sending senior diplomat Yang Jiechi to reconcile with Vietnam (Thayer, 2016b).
+By being restrained, China has tried to act within ASEAN members’ limits
+and maintain a space for dialogue with ASEAN.
+Some analysts may also highlight ASEAN’s weakness in managing the
+disputes because it conceded to China’s demand for concluding a nonlegally binding COC. However, ASEAN’s bottom-line regarding COC is binding rather than legally binding because some ASEAN states believe that no
+independent world court truly exists and can punish disobedient behaviours (Cayetano, 2017, as cited in Esmaquel, 2017). China had once been
+ambiguous about whether the code should be binding. For instance, in
+2017, Chinese Foreign Minister Wang Yi stated that whether the code was
+binding or not should be decided through ASEAN-China discussions (CCTV
+News, 2017). However, China conceded to ASEAN’s demand for a binding
+code. In 2019, Wang states that China will conclude a ‘final and binding
+COC’ with ASEAN countries (CGTV, 2019).
+To sum up, this article finds that both sceptics and proponents’ arguments concerning ASEAN’s power and external effectiveness are flawed,
+because the ASEAN approach achieved some objectives and conceded
+others. From 2011 to 2017, through exerting a strong and persistent diplomatic pressure on China and getting support from the US, ASEAN achieved
+
+136
+
+L. HU
+
+three essential goals. First, ASEAN successfully gained formal recognition
+from China as a legitimate player in SCS dispute management. Second,
+China agreed with the ASEAN-driven COC approach despite its previous
+insistence on a bilateral approach. Third, ASEAN defended its bottom-line
+of concluding a binding COC despite China’s reluctance. However, as the
+most powerful claimant state, China has important leverage in shaping the
+COC because the COC would not be effective without its participation.
+ASEAN did not attain its goal of early COC conclusion and conceded to
+China’s non-legally binding code demand. Moreover, due to ASEAN’s
+contradictory shared interests, the organization was cautious in involving
+the US in the disputes, which somewhat met China’s demand to exclude
+US involvement in the disputes.
+Finally, ASEAN failed to prevent China from reclaiming land features.
+Three factors caused this failure. First, China has hard power advantages
+over ASEAN. Second, other claimants’ reclamations of or build-up of outposts on the disputed land features gave China an excuse to ask ASEAN
+not to take sides. Third, China cautiously acted within ASEAN’s red lines to
+maintain a space for reconciliation.
+
+The legalistic and adversarial posturing approach versus the
+ASEAN approach for managing SCS disputes
+As noted in the analytical framework section, a comparison between the
+ASEAN approach and the legalistic and adversarial posturing approach
+helps to ascertain which approach is more effective in pushing China into
+SCS dispute management and thus facilitates ASEAN’s goal attainment.
+China’s reaction to the Philippines’ 2013 SCS disputes submission to the
+arbitration tribunal and its proceedings and awards is an illustrative case
+that can demonstrate whether a legalistic approach can constrain China
+and realise ASEAN’s shared interests. This article will not engage in a normative debate over whether China should accept the awards but will
+instead focus on empirically analysing whether the legalistic approach
+is effective.
+The 2016 SCS disputes tribunal awards challenge most of China’s sovereignty and maritime rights claims. To list a few, the tribunal ruled that
+China’s historical maritime rights claims within the nine-dashed lines are
+invalid (PH v. PRC, 2016). Second, it ruled that all Spratly land features and
+the Scarborough shoal are not islands and thus cannot generate EEZs (PH
+v. PRC, 2016).
+China rejected the awards entirely. Chinese State Councillor Yang Jiechi
+(2016, as cited in Xinhua Agency, 2016) states that ‘the awards are invalid
+and illegal’. Yang argues that the Philippines distorted the United Nations
+
+THE PACIFIC REVIEW
+
+137
+
+Convention on the Law of the Sea (UNCLOS) to pursue self-interests and
+harm China’s legal sovereignty rights (Yang, 2016, as cited in Xinhua
+Agency, 2016). China’s view of the arbitration is also linked to its perception
+that it was disadvantaged in the SCS disputes. In contrast to China’s claim
+over the entire Spratly Islands, China occupies 7 land features in Spratly,
+much less than Vietnam’s 27 and one less than the Philippines’ 8 (Fravel,
+2012). Thus, Liu Huaqing (2004), the Chinese Navy Commander from 1972
+to 1992, was angered that other claimants occupy most of the land features
+in Spratly, which strategically and militarily disadvantage China. Due to this
+perception, some Chinese scholars argue that some ASEAN claimants wish
+to use a so-called legalistic approach to unfairly compel China to recognise
+the disadvantaged fait accompli in the SCS (An, 2017). The arbitration probably solidifies this view.
+Moreover, for China, the Philippines’ SCS disputes submission reflects
+‘adversarial posturing’. First, in 2013, the Philippines ignored China’s lobby
+that China was willing to restart the COC negotiations if the Philippines
+retracted its submission (Thayer, 2013). Second, although China expressed
+strong and repeated opposition to the tribunal through public statements
+and note verbales in 2013, the arbitration process still moved forward
+(Fravel, 2017). Thus, China thought that the tribunal ‘ignored its solemn
+and just position’ (Yang, 2016, as cited in Xinhua Agency, 2016). Third,
+China viewed the arbitration as a plot to ‘stigmatise and isolate China in
+international society’ (Yang, 2016, as cited in Xinhua Agency, 2016).
+In response to the arbitration and its awards, in 2013, Chinese President
+Xi decided to reclaim the land features in Spratly to ‘fundamentally reverse
+the strategic trend in the SCS’ (Xuexi Shibao, 2017). Also, at the 2016 meeting between Duterte and Xi Jinping, Xi reportedly threatened to go to war
+if the Philippines tried to enforce the awards (Mogato, 2017). Moreover, in
+2020, the US Secretary of State Pompeo issued a statement supporting the
+tribunal awards, which triggered strong criticism from China and further
+deteriorated the Sino-US relationship (Pamuk et al.,, 2020).
+China’s response shows that ASEAN is unable to realise its member
+states’ shared interests through a legalistic and adversarial posturing
+approach. The approach dramatically destabilised the region and may
+intensify the Sino-US competition. Moreover, if ASEAN had insisted on
+enforcing the awards, China would have been more assertive in defending
+its sovereignty claims and the ASEAN-China relationship would have
+deteriorated.
+In contrast, ASEAN’s non-confrontational approach prevented tensions in
+the SCS from further escalating. For instance, after Pompeo issued the
+statement on 13 July 2020, Chinese Foreign Minister Wang Yi had a virtual
+talk the next day with his Philippines counterpart Locsin to ensure that the
+
+138
+
+L. HU
+
+Philippines would cooperatively manage SCS disputes with China
+(Rocamora, 2020). For China, this assurance probably indicates that the
+Philippines will not side with the US. Moreover, on the same day, Chinese
+President Xi called his Thailand and Singapore counterparts Prayut and Lee
+respectively to obtain similar reassurances (Xinhua Net, 2020). ASEAN’s nonconfrontational approach avoided pushing China into a corner, thereby
+preventing it from taking increasingly assertive actions to defend its sovereignty. Moreover, as demonstrated in the last section, although ASEAN did
+not fully attain its goals, the ASEAN approach had compelled China to recognise the bloc’s role as a legitimate dispute manager and to accept the
+ASEAN-driven binding COC approach.
+Some analysts may argue that the COC is actually a victory for China and
+serves China’s interests very well. This article recognizes that China will gain
+many benefits from concluding the COC. China may want to use the code
+to ‘extricate itself from’ the arbitral awards (Takahashi, 2019). Also, China
+may wish to limit US involvement in the disputes by completing the code.
+Moreover, China may wish to win ASEAN over in the US-China competition
+by completing the code.
+However, China’s victory does not necessarily mean that ASEAN will not
+also gain benefits from the code. This is because an acceptable negotiation
+result is that all negotiating parties gain benefits and make concessions.
+The assumptions of the China victory argument are probably that contrary
+to ASEAN’s expectation, the COC/ASEAN approach cannot truly constrain
+China and that China will ensure its own COC version rather than making
+substantive concessions to ASEAN in the COC negotiation.
+Regarding the criticism that the ASEAN approach lacks a constraining
+effect on China, Beeson (2020, p.579) argues that ‘China seems to be able
+to live quite comfortably with an ASEAN style diplomacy that its adherents
+are under no obligation to comply with, and yet which confers fig leaf legitimacy’. While the COC is under negotiation, China’s conformity with ASEAN
+multilateralism can be deduced from examining the country’s obedience to
+the DOC. Many scholars agree that after the DOC was signed in 2002, the
+SCS was generally peaceful until 2008 (Fu & Wu, 2016; Jones & Jenne, 2016;
+Storey, 2012).
+Jones and Jenne (2016, p.228) argue that Beijing’s signing of the DOC in
+2002, and its shift from ‘frown’ to ‘smile’ diplomacy from 1998 to 2008
+stemmed from its wish to limit US involvement in the disputes when China
+was weak. Storey (2012) argues that China’s cooperation with ASEAN was just
+lip service because Beijing made the DOC vague and non-binding in 2002
+and was lukewarm in establishing the guidelines for implementing the DOC.
+This article disagrees with Storey (2012) and Jones and Jenne (2016)
+argument that China just paid lip service to the DOC or the ASEAN-driven
+
+THE PACIFIC REVIEW
+
+139
+
+approach. To be sure, Storey (2012) is right to argue that China was lukewarm in making progress on formalising the binding code in this period.
+However, being lukewarm in completing the guideline does not mean that
+the DOC did not constrain China. Contrary to Jones and Jenne (2016) argument, the period from 2002 to 2007 should have been a good time for
+China to consolidate its claims in the SCS if the DOC had not restrained the
+country. From 2001 to 2007, as the US was preoccupied with its war on terror, conflicts over rocks or maritime rights in the SCS probably ranked
+rather low on its agenda. Thus, China did not need to deter the US’ involvement in the disputes by signing the DOC. Moreover, while China was not
+strong and had a national policy of keeping a low profile from 2002 to
+2008, it was stronger than the ASEAN states and could use less provocative
+means to consolidate sovereignty. For instance, China could have delayed
+the negotiation process of the DOC in 2002 after the US was already distracted with the 911 terrorist attack in 2001. While Storey (2012) argues
+that the DOC was vague, it was better for China to not sign the DOC,
+because the DOC would restrain the country from seizing unoccupied land
+features in the SCS. China’s need to trade with Southeast Asian countries
+may explain its obedience to the DOC from 2002 to 2008. However, at the
+time, many Southeast Asian countries had just recovered from the 1997
+financial crisis and thus needed China more than China needed them. Thus,
+without US constraints on China’s hard power during this period, China
+should have hurried up its consolidation of sovereignty in the SCS if it had
+just paid lip service to the DOC or ASEAN-led multilateralism. Jones and
+Jenne (2016) view China’s increasingly assertive actions from 2009 onwards
+as evidence that the country abandoned its superficial commitment to
+ASEAN-led multilateralism as it became stronger. However, to make such an
+argument, one would have to consider the spiral of tension between China
+and other claimant countries since 2009. From China’s perspective, the
+actions were not an abandonment of the DOC but a response to other
+claimants’ disobedience of the DOC (Fravel, 2012; Fu & Wu, 2016). If a vague
+and non-binding DOC could constrain China, it is reasonable to assume
+that the binding COC will have a greater constraining effect on China.
+Regarding China’s concessions, to be sure, China will probably not concede to ASEAN’s every demand. However, existing evidence suggests that
+China has made several substantive concessions in the COC negotiation.
+Some scholars suspected that China would ensure a non-binding COC
+(Castro, 2020; Storey, 2017). However, as noted earlier, although China did
+not accept a legally binding COC, it conceded to ASEAN’s demand for a
+binding COC. Moreover, according to the Philippine Foreign Secretary
+Teodoro Locsin, Jr (2019, as cited in Santos, 2019) in 2019, in the COC negotiation, China ‘softened its insistence on controversial provisions’, such as
+
+140
+
+L. HU
+
+giving up ‘provisions excluding the western military presence’. This is also a
+concession that some scholars suspected that China would not make
+(Castro, 2020; Hoang, 2020).
+
+Conclusion
+This article presents a systematic analysis of ASEAN’s effectiveness in managing SCS disputes and many of its findings challenge the dominant pessimistic views. First, the article finds that ASEAN members do have shared
+interests and a common policy regarding SCS dispute management.
+Second, China’s influence on individual ASEAN members is not as strong as
+sceptics often argue. Third, ASEAN’s external effectiveness is medium. It
+achieved some essential goals but also made important compromises.
+ASEAN’s diplomatic pressure and utilisation of US power successfully
+ASEANised the disputes and compelled China to accept the COC negotiation and conclude the binding COC. However, because China is the most
+powerful claimant state and ASEAN’s use of US power has limitations,
+ASEAN conceded to China’s demand to slow the COC negotiations and
+reduce US involvement in the disputes. Moreover, compared with a legalistic and adversarial posturing approach, the ASEAN-driven approach is more
+effective in managing the disputes.
+
+Acknowledgement
+I would like to thank Professor Jason Ralph, Dr. Kingsley Edney, Dr. Chi Zhang,
+anonymous reviewers, and the editors for their helpful feedback.
+
+Disclosure statement
+No potential competing interests were reported by the author
+
+References
+€rzel & T. Risse (Eds.),
+Acharya, A. (2016). Regionalism beyond EU-centrism. In T. A. Bo
+The Oxford handbook of comparative regionalism. (pp. 109–133). Oxford: Oxford
+University Press
+Acharya, A. (2018). Doomed by dialogue: Will ASEAN survive great power rivalry in
+Asia.? In G. Rozman & J. C. Liow (Eds.), International relations and Asia’s Southern
+Tier: ASEAN, Australia, and India. (pp. 77–95). Singapore: Springer Nature.
+Acharya, A., & Johnston, A. I. (2007). Comparing regional institutions: An introduction. In A. Acharya., & A. I. Johnston (Eds.), Crafting cooperation: Regional international institutions in comparative perspective (pp. 1–32). Cambridge: Cambridge
+University Press.
+
+THE PACIFIC REVIEW
+
+141
+
+An, G. (2017, September 5). Ruhe lijie nanhai xingwei zhunze kuangjia wenjian de
+dacheng [How to understand completion of COC framework]. World Affairs.
+http://www.sohu.com/a/169591463_825951.
+ASEAN (1967, August 8). The ASEAN declaration (Bangkok Declaration) [Press
+Release]. https://asean.org/the-asean-declaration-bangkok-declaration-bangkok-8august-1967/.
+ASEAN (2013, June 29-30). Joint Communique 46th ASEAN foreign ministers’ meeting
+[Press release]. https://www.asean.org/storage/images/2013/news/joint%20communique%20of%20the%2046th%20asean%20foreign%20ministers%20meeting%
+2046th%20amm%20-%20final%20-%2030%20june%202013.pdf.
+ASEAN (2014, August 8). Joint Communique 47th ASEAN foreign ministers’ meeting
+[Press release]. https://asean.org/storage/2012/05/Joint-Communique-of-47thAMM.pdf.
+ASEAN (2015, August 4). Joint Communique 48th ASEAN foreign ministers’ meeting
+[Press release]. https://www.asean.org/wp-content/uploads/images/2015/August/
+48th_amm/JOINT%20COMMUNIQUE%20OF%20THE%2048TH%20AMM-FINAL.pdf.
+ASEAN (2016, July 24). Joint Communique 49th ASEAN foreign ministers’ meeting
+[Press release]. https://asean.org/storage/2016/07/Joint-Communique-of-the-49thAMM-ADOPTED.pdf.
+ASEAN & China (2002, November 4). Declaration on the conduct of parties in the
+South China Sea [Press release]. https://asean.org/?static_post=declaration-on-theconduct-of-parties-in-the-south-china-sea-2.
+Ba, A.D. (2016). The South China Sea: Primary contradictions in China-Southeast Asia
+relations. In I. Storey & Cheng-yi Lin (Eds.), The South China Sea dispute: Navigating
+diplomatic and strategic tensions (pp. 104–134). Singapore: ISEAS
+BBC News. (2011, July 19). South China Sea: ASEAN urged to tackle dispute. BBC
+News. https://www.bbc.co.uk/news/world-asia-pacific-14195994.
+Beeson, M. (2018). East Asia’s institutional inadequacies and great power rivalry in
+the South China Sea. In H. Feng & K. He (Eds.), US-China competition and the South
+China Sea Disputes (pp.134–151). New York: Routledge
+Beeson, M. (2020). The great ASEAN Rorschach test. The Pacific Review, 33(3-4),
+574–581. doi:10.1080/09512748.2019.1624384
+Brattberg, E., & Rhinard, M. (2013). Actorness and effectiveness in international disaster relief: The European Union and United States in comparative perspective.
+International Relations, 27(3), 356–374. doi:10.1177/0047117813497298
+Bretherton, C., & Vogler, J. (2013). A global actor past its peak? International
+Relations, 27(3), 375–390. doi:10.1177/0047117813497299
+Carbone, M. (2013). Between EU actorness and aid effectiveness: The logics of EU aid
+to Sub-Saharan Africa. International Relations, 27(3), 341–355. doi:10.1177/
+0047117813497300
+Castro, R. C. D. (2020). The limits of intergovernmentalism: The Philippines’ changing
+strategy in the South China Sea dispute and its impact on the Association of
+Southeast Asian Nations (ASEAN). Journal of Current Southeast Asian Affairs, 39(3),
+335–358. doi:10.1177/1868103420935562
+CCTV News. (2017, August 7). Dongmeng waizhang huiyi tongguo nanhai xingwei
+zhunze kuangjia yuenan duici you butong shengyin? Wang Yi huiying [ASEAN
+Foreign Minister meeting passed COC framework, Vietnam expressed different
+concern? Wang Yi’s response]. Guanchazhe [The observer]. https://www.guancha.
+cn/Neighbors/2017_08_07_421695.shtml.
+
+142
+
+L. HU
+
+CGTV. (2019, August 1). China confident to complete a ’final, binding’ code of conduct in the South China Sea. CGTV. https://news.cgtn.com/news/2019-07-31/
+China-ASEAN-complete-first-reading-of-South-China-Sea-COC-draft.–IMfjnOtXeo/
+index.html
+Chung, C. (2009). Southeast Asia and the South China Sea dispute. In S. Bateman &
+R. Emmers (Eds.) Security and international politics in the South China Sea: Towards
+a cooperative management regime (pp. 95–110). Oxon: Routledge
+Cook, M. (2018). Southeast Asia’s developing divide. In G. Rozman & J. C. Liow (Eds.),
+International relations and Asia’s Southern Tier: ASEAN, Australia, and India
+(pp.63–77). Singapore: Springer Nature.
+da Conceiç~ao-Heldt, E. (2014). When speaking with a single voice isn’t enough:
+Bargaining power (a)symmetry and EU external effectiveness in global trade governance. Journal of European Public Policy, 21(7), 980–995. doi:10.1080/13501763.
+2014.912146
+da Conceiç~ao-Heldt, E., & Meunier, S. (2014). Speaking with a single voice: Internal
+cohesiveness and external effectiveness of the EU in global governance. Journal
+of European Public Policy, 21(7), 961–979. doi:10.1080/13501763.2014.913219
+Delreux, T. (2014). EU actorness, cohesiveness and effectiveness in environmental
+affairs. Journal of European Public Policy, 21(7), 1017–1032. doi:10.1080/13501763.
+2014.912250
+Eaton, S., & Stubbs, R. (2006). Is ASEAN powerful? Neo-realist versus constructivist
+approaches to power in Southeast Asia. The Pacific Review, 19(2), 135–155. doi:10.
+1080/09512740500473148
+Elsig, M. (2013). The EU as an effective trade power? strategic choice of judicial candidates in the context of the World Trade Organization. International Relations,
+27(3), 325–340. doi:10.1177/0047117813497301
+Emmerson, D. K. (2017). ASEAN between China and America: Is It time to try horsing
+the cow? TRaNS: Trans -Regional and -National Studies of Southeast Asia, 5(1),
+1–23. doi:10.1017/trn.2016.31
+Esmaquel, P. R. (2017, May 19). Cayetano wary of “legally binding” rules in South
+China Sea. Rappler. https://www.rappler.com/nation/dfa-cayetano-code-conductsouth-china-sea.
+Fang, X. (2012, November 19). Dongmeng hanjian yizhi xiwang yu zhongguo tanpan
+nanhai xingwei zhunze [In a rare circumstance, ASEAN consensually hopes to
+negotiate code of conduct in the South China Sea with China]. Dongfang Zaobao
+[oriental Morning Post]. http://news.sina.com.cn/c/2012-11-19/062925608308.
+shtml.
+Fravel, T. (2012). Maritime security in the South China Sea and the competition over
+maritime rights. In P. M. Cronin. (Ed.). Cooperation from strength: The United States,
+China and the South China Sea (pp. 31–51). Washington, D.C.: Center for a New
+American
+Security.
+https://s3.amazonaws.com/files.cnas.org/documents/
+CNAS_CooperationFrom Strength_Cronin_1.pdf?mtime=20160906081232.
+Fravel, T. (2017). Threading the needle: The South China Sea disputes and US-China
+relations. In R. Ross, & Ø. Tunsjø (Eds.), Strategic adjustment and the rise of China:
+Power and politics in East Asia (pp. 233–261). Ithaca and London: Cornell
+University Press.
+Fu, Y., & Wu, S. (2016, May 12). Nanhai jushi ji Nansha qundao Zhengyi: Lishi huigu
+yu sikao [South China Sea: How we got to this stage: Understanding the source of
+tension]. Xinhua Net. http://www.xinhuanet.com/world/2016-05/12/c_128977813.
+htm.
+
+THE PACIFIC REVIEW
+
+143
+
+Ge, H. (2012). Dongmeng zai nanhai wenti shangde zhengce pingxi [commentary on
+ASEAN’s South China Sea policy]. Waijiao Pinglun [Diplomacy Commentary], 4,
+66–80.
+Gill, B., & Schreer, B. (2018). Countering China’s “United Front”. The Washington
+Quarterly, 41(2), 155–170. doi:10.1080/0163660X.2018.1485323
+Graham, E. (2020, May 4). West Capella standoff leaves U.S. allies uncertain. Foreign
+Policy.
+https://foreignpolicy.com/2020/05/04/malaysia-south-china-sea-us-navydrillship-standoff/.
+Groen, L. (2019). Explaining European Union effectiveness (goal achievement) in the
+Convention on Biological Diversity: The importance of diplomatic engagement.
+International Environmental Agreements: Politics, Law and Economics, 19(1), 69–87.
+doi:10.1007/s10784-018-9424-y
+Groen, L., & Niemann, A. (2013). The European Union at the Copenhagen climate
+negotiations: A case of contested EU actorness and effectiveness. International
+Relations, 27(3), 308–324. doi:10.1177/0047117813497302
+Guan, A. (1998). Vietnam-China relations since the end of the cold war. Asian Survey,
+38(12), 1122–1141. doi:10.2307/2645825
+Han, E. (2018). Under the shadow of China-US competition: Myanmar and Thailand’s
+alignment choices. The Chinese Journal of International Politics, 11(1), 81–104. doi:
+10.1093/cjip/pox017
+Hayton, B. (2014). The South China Sea: The struggle for power in Asia. London: Yale
+University Press.
+Heydarian, R. J. (2017). Tragedy of small power politics: Duterte and the shifting
+sands of Philippine foreign policy. Asian Security, 13(3), 220–236. doi:10.1080/
+14799855.2017.1354569
+Hoang, V. (2020, September 28). The code of conduct for the South China Sea: A
+long and bumpy road. The Diplomat. https://thediplomat.com/2020/09/the-codeof-conduct-for-the-south-china-sea-a-long-and-bumpy-road/.
+Jaipragas, B. (2018, April 13). Q&A: Philippine Foreign Minister on why Duterte and
+Xi Jinping get along. South China Morning Post. https://www.scmp.com/weekasia/geopolitics/article/2141500/qa-philippine-foreign-minister-why-duterte-andxi-jinping-get.
+Jones, D. M., & Jenne, N. (2016). Weak states’ regionalism: ASEAN and the limits of
+security cooperation in Pacific Asia. International Relations of the Asia-Pacific, 16(2),
+209–240. doi:10.1093/irap/lcv015
+Jones, D. M., & Smith, M. L. R. (2007). Making Process, not progress: ASEAN and the
+evolving East Asian regional order. International Security, 32(1), 148–184. doi:10.
+1162/isec.2007.32.1.148
+Jupille, J., & Caporaso, J. A. (1998). States, agency, and rules: The European Union in
+global environmental politics. In C. Rhodes (Ed.), The European Union in the World
+Community. (pp.213–231). Boulder: Lynne Rienner Publishers.
+Le Thu, H. (2019). China’s dual strategy of coercion and inducement towards ASEAN.
+The Pacific Review, 32(1), 20–36. doi:10.1080/09512748.2017.1417325
+Lendon, B. C. (2020, July 23). Esper pushes allied effort to challenge China. CNN.
+https://edition.cnn.com/2020/07/22/asia/esper-china-asia-us-military-intl-hnk-scli/
+index.html.
+Liu, H. (2004). Liu Huaqing huiyi lu [Memoir of Liu Huaqing]. Jiefangjun Chubanshe
+[People’s Liberation Army Press].
+
+144
+
+L. HU
+
+Lu, J. (2016). Nanhai wenti yinfa de dongmeng duihua guanxi xinbianhua [South
+China Sea disputes lead to new changes in ASEAN-China relationship]. Yatai
+Anquan Yu Haiyang Yanjiu [Asia-Pacific Security and Oceanic Studies], 4, 87–101.
+McLean, I., & McMillan, A. (2018). Pooled sovereignty. In G.W. Brown., I. MaLean & A.
+McMillan (Eds.), A Concise oxford dictionary of politics and international relations (4th
+ed.). Oxford: Oxford University Press. https://www.oxfordreference.com/view/10.1093/
+acref/9780199670840.001.0001/acref-9780199670840-e-1047?rskey¼4S1dyz&result¼1.
+Mogato, M. (2017, May 19). Duterte says China’s Xi threatened war if Philippines
+drills for oil. Reuters. https://www.reuters.com/article/us-southchinasea-philippines-china-idUSKCN18F1DJ.
+Mooney, P., & Wroughton, L. (2014, August 9). U.S. call for South China Sea “freeze”
+gets cool response from China. Reuters. https://cn.reuters.com/article/instant-article/idUSKBN0G904O20140809.
+Murphy, A. M. (2017). ASEAN’s external policy: Caught between the United States
+and China. In D. Denoon (Ed.). China, the United States and the future of Southeast
+Asia, (pp. 50–79). New York: New York University Press.
+Nie, W. (2013). Dongmeng ruhe zai nanhai wenti shang fan-lingdao le zhongguo?
+Yizhong ruozhe de shijian celue fenxi [How does ASEAN assert “counter leadership” over China in the South China Sea? Empirical analysis of a weak actor’s strategy]. Dangdai Yatai [Journal of Contemporary Asia-Pacific Studies], 4, 85–106.
+Nye, J. (1990). Soft power. Foreign Policy, 80, 153. doi:10.2307/1148580
+Odgaard, L. (2003). The South China Sea: ASEAN’s security concerns about China.
+Security Dialogue, 34(1), 11–24. doi:10.1177/09670106030341003
+Pamuk, H., Mohammed, A., & Tian, Y. L. (2020, July 15). U.S. rejects China’s claims in
+South China Sea, adding to tensions. Reuters. https://www.reuters.com/article/ususa-china-southchinasea-idUSKCN24E2OU.
+Panda, A. (2015, August 1). For the ASEAN-China South China Sea Code of Conduct,
+ninth time Isn’t the charm. The Diplomat. https://thediplomat.com/2015/08/forthe-asean-china-south-china-sea-code-of-conduct-ninth-time-isnt-the-charm/.
+Pang, Z. (2012). Dongmeng de waijiao xianjing [ASEAN’s diplomatic trap]. Ai Sixiang
+[Inquiring Mind]. http://www.aisixiang.com/data/53496.html.
+Parameswaran, P. (2015, December 8). The new U.S.-Indonesia strategic partnership
+after Jokowi’s visit: Problems and prospects. Brookings. https://www.brookings.
+edu/opinions/the-new-u-s-indonesia-strategic-partnership-after-jokowis-visit-problems-and-prospects/.
+People’s Net & People’s Daily. (2011, July 22). Balidao fengxiang shangdai guancha
+[the trend in Bali still needs observation]. Sina. http://news.sina.com.cn/c/2011-0722/032622855529.shtml.
+People’s Net (2011, July 26).Zhihui jiejue nanhai wenti [Wisely solve South China Sea
+issue]. CCTV. http://news.cntv.cn/20110726/104234.shtml.
+Pincus, W. (2015, June 1). China is not the only country reclaiming land in South
+China Sea. Washington Post. https://www.washingtonpost.com/world/nationalsecurity/china-is-not-the-only-country-reclaiming-land-in-south-china-sea/2015/06/
+01/38817a58-0569-11e5-a428-c984eb077d4e_story.html?utm_term=.5921707a5302.
+Regalado, F. (2020, September 29). Malaysia’s spat with Philippines over Sabah: Five
+things to know. Nikkei Asia. https://asia.nikkei.com/Politics/International-relations/
+Malaysia-s-spat-with-Philippines-over-Sabah-Five-things-to-know.
+Rocamora, A. J. L. (2020, July 15). SCS maritime issue “not sum total” of PH-China
+ties. Philippine News Agency. https://www.pna.gov.ph/articles/1109030.
+
+THE PACIFIC REVIEW
+
+145
+
+Santos, E. (2019). September 25). Progress made in South China Sea Code of
+Conduct as Beijing eases up on demands – Locsin. CNN Philippines. https://www.
+cnnphilippines.com/news/2019/9/25/teddy-boy-locsin-south-china-sea-code-ofconduct.html#.
+Severino, R. C. (2006). Southeast Asia in Search of an ASEAN Community. Singapore:
+ISEAS-Yusof Ishak Institute.
+Severino, R. C. (2014). Preventing Conflict in the South China Sea. In P.
+Chachavalpongpun (Ed.), Entering uncharted waters? ASEAN and the South China
+Sea. (pp.3–15). Singapre: ISEAS Publishing.
+Shanghai Evening Post. (2012, July 10). Zhunze bingfei zhizai jiejue nanhai Zhengyi
+[Code of Conduct does not aim at solving South China Sea disputes]. Ifeng.
+https://news.ifeng.com/c/7fcdLFyTpxC.
+Shi, J., & Liu, Z. (2017, November 12). ‘Better left untouched’: Philippines and
+Vietnam wary of Trump offer to mediate South China Sea disputes. South China
+Morning Post. https://www.scmp.com/news/china/diplomacy-defence/article/
+2119551/better-left-untouched-philippines-and-vietnam-wary.
+Singh, B., Ho, S., & Tsjeng, H.Z. (2016, June 20). ASEAN unity in the face of China’s
+unilateral “consensus”. RSIS Commentary. https://www.rsis.edu.sg/rsis-publication/
+rsis/co16151-asean-unity-in-the-face-of-chinas-unilateral-consensus/#.YBsjCi8b10s.
+Storey, I. (2012). China’s bilateral and multilateral diplomacy in the South China Sea.
+In P. M. Cronin (Ed.), Cooperation from strength: The United States, China and the
+South China Sea (pp. 51–67). Washington, D.C.:Center for a New American
+Security.https://s3.amazonaws.com/files.cnas.org/documents/CNAS_Cooperation
+FromStrength_Cronin_1.pdf?mtime=20160906081232.
+Storey, I. (2016). Rising tensions in the South China Sea: Southeast Asian responses.
+In I. Storey & Cheng-yi. Lin (Eds.), The South China Sea dispute: Navigating diplomatic and strategic tensions (pp.134–161). Singapore: ISEAS Publishing.
+Storey, I. (2018). ASEAN’s falling grade in the South China Sea. In G. Rozman & J.C.
+Liow (Eds.), International relations and Asia’s Southern Tier: ASEAN, Australia, and
+India. (pp. 111–125).Singapore: Springer Nature.
+Storey, I. (2017, August 8). Assessing the ASEAN-China framework for the code of
+conduct for the South China Sea. ISEAS Perspective. https://www.iseas.edu.sg/
+images/pdf/ISEAS_Perspective_2017_62.pdf.
+Stubbs, R. (2019). ASEAN sceptics versus ASEAN proponents: Evaluating regional
+institutions. The Pacific Review, 32(6), 923–950. doi:10.1080/09512748.2019.
+1611627
+Stubbs, R. (2020). Debating ASEAN: A response to commentaries on ‘ASEAN sceptics
+versus ASEAN proponents. The Pacific Review, 33(3-4), 604–607. doi:10.1080/
+09512748.2020.1720270
+Takahashi, T. (2019, August 12). What Beijing really wants from South China Sea
+code of conduct. Nikkei Asia. https://asia.nikkei.com/Spotlight/Comment/WhatBeijing-really-wants-from-South-China-Sea-code-of-conduct.
+Tan, L. (2012, April 1). Jianpuzhai fandui nanhai wenti guojihua: Yingzai dongmengzhongguo kuangjia nei jiejue [Cambodia opposed internationalisation of South
+China Sea disputes, which must be solved within ASEAN-China framework].
+Global Times. https://world.huanqiu.com/article/9CaKrnJuOCK.
+Thayer, C. (2012). ASEAN’S code of conduct in the South China Sea: A litmus test for
+community-building? The Asia-Pacific Journal, 34(4), 1–22.
+Thayer, C. (2013). ASEAN, China and the code of conduct in the South China Sea.
+SAIS Review of International Affairs, 33(2), 75–84. doi:10.1353/sais.2013.0022
+
+146
+
+L. HU
+
+Thayer, C. (2016b). Vietnam’s strategy of ‘cooperating and struggling’ with China
+over maritime disputes in the South China Sea. Journal of Asian Security and
+International Affairs, 3(2), 200–220. doi:10.1177/2347797016645453
+Thayer, C. (2016a, June 19). Revealed: The truth behind ASEAN’s retracted Kunming
+statement. The Diplomat. https://thediplomat.com/2016/06/revealed-the-truthbehind-aseans-retracted-kunming-statement/.
+Thayer, C. (2017, July 18). ASEAN’s Long March to a code of conduct in the South
+China Sea. Maritime Issues. http://www.maritimeissues.com/politics/aseans-longmarch-to-a-code-of-conduct-in-the-south-china-sea.html.
+The Republic of Philippines v. The People’s Republic of China. (2016). The South
+China Sea Arbitration (The Republic of Philippines v. The People’s Republic of
+China)(Final Award) (Permanent Court of Arbitration, 12 July 2016). [2013-19].
+Thomas, D. (2012). Still punching below Its weight? Coherence and effectiveness in
+European Union foreign policy. JCMS: Journal of Common Market Studies, 50(3),
+457–474. doi:10.1111/j.1468-5965.2011.02244.x
+TRT World (2016, Oct 20). Duterte aligns with China and says ’goodbye’ to US. TRT
+World. https://www.trtworld.com/asia/duterte-aligns-with-china-and-says-goodbye-to-us-3402.
+Van Schaik, L. (2013). EU effectiveness and unity in multilateral negotiations: More
+than the sum of its parts?. New York: Palgrave Macmillan.
+Vietnam News Agency (2019, October 15).Yuegong Zhongyang zongshuji Guojia
+zhuxi Ruan Fuzhong huijian henei xuanmin [General secretary of communist party
+u Trong met Hanoian voters].
+of Vietnam, Vietnamese President Nguy~^en Ph
+_
+Vietnam Plus. https://zh.vietnamplus.vn/越共中央总书记国家主席阮富仲会见河
+内市选民/103486.vnp.
+Vietnam News Agency (2020a, August 27). Yuenan waijiaobu fayanren lishi
+qiuheng:Zai Yuenan Changsha qundao kaizhan er weijing yuenan pizhun de
+renhe huodong doushi haowujiazhide [Spokesperson of Vietnam Foreign
+Ministry: Without Vietnam’s permission, any activities in Vietnam’s Trư ờ ng Sa
+islands are worthless]. Vietnam Plus. https://zh.vietnamplus.vn/越南外交部发言人
+黎氏秋姮在越南长沙群岛开展而未经越南准许的任何活动都是毫无价值的
+/123237.vnp.
+Vietnam News Agency (2020b, December 25). Vi^e: t Nam actively pursues defence
+diplomacy in peace time for national development: Defence official. Vietnam
+News.
+https://vietnamnews.vn/politics-laws/836279/viet-nam-actively-pursuesdefence-diplomacy-in-peace-time-for-national-development-defence-official.html.
+Viray, P. L. (2018, May 29). Philippines, China draw “red lines” in South China Sea dispute. Philstar. https://www.philstar.com/headlines/2018/05/29/1819745/philippines-china-draw-red-lines-south-china-sea-dispute.
+Vong, S. (2012, May 24).Progress on South China Sea Code. The Phnom Penh Post.
+https://www.phnompenhpost.com/national/progress-south-china-sea-code.
+Vu, H. D. H. (2020, March 11). Malaysia should embrace compliance on its overlapping continental shelf claim. Asia Maritime Transparency Initiative. https://amti.
+csis.org/malaysia-should-embrace-compliance-on-its-overlapping-continental-shelfclaim/.
+Xinhua (2013, August 5). China warns against rush to set code of conduct in South
+China Sea. Global Times. http://www.globaltimes.cn/content/801630.shtml.
+Xinhua (2016, July 24). China sticks to “dual-track” approach to solve South China
+Sea issue: FM. Global Times. https://www.globaltimes.cn/content/996206.shtml.
+
+THE PACIFIC REVIEW
+
+147
+
+Xinhua Agency. (2016, July 15). Yang Jiechi jiu nanhai zhongcaian zhongcaiting zuochu zuowei caijue jieshou zhongyang meiti caifang [Yang Jiechi answers state
+media’s questions concerning so-called awards issued by the arbitral tribunal for
+the SCS arbitration]. Xinhua Agency. http://www.xinhuanet.com/world/2016-07/
+15/c_1119221292.htm.
+Xinhua Net. (2020, July 15). Tong xintai liangguo lingdaoren tong dianhua, Xi zhuxi
+tebie tidao hezuo xinliangdian [Having phone calls with leaders of Singapore and
+Thailand, Chairman Xi highlighted new areas of cooperation]. CRI online. http://
+news.cri.cn/20200715/677dd26f-68be-f605-9009-a794e0e51f00.html.
+Xuexi Shibao. (2017, July 28). Xi Jinping zong shuji de chengzhang zhilu [General
+Secretary Xi Jinping’s career development]. Xuexi Shibao, [Study Times]. http://cpc.
+people.com.cn/n1/2017/0728/c64094-29433685-3.html.
+Yahuda, M. (2019). Economic (asymmetrical) interdependence and territorial disputes. T.T. Tran, J. B. Welfield, & T. T. Le (Eds.), Building a normative order in the
+South China Sea: Evolving disputes, expanding options. (pp. 27–47). Cheltenham:
+Edward Elgar.
+Zhang, H., & Ji, P. (2011, November 16). Cujin quyu hezuo shixian gongtong fazhan
+dongya lingdaoren xilie huiyi jianfu zhongren [East Asian leaders summits shoulder great responsibility for enhancing regional cooperation and development].
+People’s Daily. http://roll.sohu.com/20111117/n325884248.shtml.
+Zhang, M. (2018). Yuanze xiade tuoxie: Dongmeng yu nanhai xingwei zhunze tanpan
+[Compromise under the principle: ASEAN and the code of conduct for the South
+China Sea]. Dongnanya Yanjiu, [Southeast Asian studies], 3, 58–80.
+Zhao, W. (2019). Yuenan nanhai wenti tiaozhen: Yanbian yu shizhi [Vietnam’s south
+China sea policy adjustment: Evolution and essence]. Dongnanya Yanjiu,
+[Southeast Asian Studies], 1, 16–32.
+Zhao, W. (2020). Yuenan zai nanhai de xindongxiang yu zhongyue guanxi zoushi
+[Vietnam’s new action in South China Sea: Motivations, goals and trends]. Journal
+of Boundary and Ocean Studies [Bianjie yu Haiyang Yanjiu], 5(1), 99–110.
+Zhongsheng. (2011, July 20). Renmin ribao： meiyou yige hao huanjing jiu bu
+keneng jiejue nanhai wenti [People’s daily: Without a good environment, SCS disputes cannot be solved]. People’s Daily. http://www.gov.cn/jrzg/2011-07/20/content_1909667.htm.
+
+

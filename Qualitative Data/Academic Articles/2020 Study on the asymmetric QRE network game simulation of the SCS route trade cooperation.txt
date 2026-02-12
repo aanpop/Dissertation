@@ -1,0 +1,1318 @@
+Marine Policy 111 (2020) 103724
+
+Contents lists available at ScienceDirect
+
+Marine Policy
+journal homepage: http://www.elsevier.com/locate/marpol
+
+Study on the asymmetric QRE network game simulation of the South China
+Sea route trade cooperation
+Changping Zhao a, Rui Li a, Yu Gong b, *, Xin Xu a
+a
+b
+
+School of Maritime Economics and Management, Dalian Maritime University, Dalian, 116026, China
+Southampton Business School, University of Southampton, Southampton, SO17 1BJ, UK
+
+A R T I C L E I N F O
+
+A B S T R A C T
+
+Keywords:
+The South China Sea route
+Asymmetric QRE model
+Network game
+Simulation
+
+This paper explores in depth the cooperative mechanism of the “Community of Shared Future” and its influ­
+encing factors. According to the theory of geo-economics, the trading network of the South China Sea Route
+(SCSR) was constructed on the basis of trade routes and weighted by trade volume. The asymmetric Quantal
+Response Equilibrium (QRE) model was introduced to establish a complex network game model of trade
+cooperation in the SCSR in order to investigate the influencing factors on community cooperation. Through
+simulation tests, the influence of the participants’ cognitive beliefs on self-action sensitivity, cognitive beliefs
+about the reaction sensitivity of other participants, the proportion of initial collaborators, rewards from neigh­
+boring countries, and implementation cost of environmental barriers on the cooperation of the SCSR were
+investigated. We concluded that the subjective cognitive asymmetry among countries will restrict the trade
+cooperation of SCSR to a certain extent. Policy recommendations to promote the cooperation of the SCSR were
+provided based on our findings.
+
+1. Introduction
+The South China Sea is an important traffic hub for the global trade
+of goods and an important passage of the 21st Century Maritime Silk
+Road, as well as a key junction for energy transportation and an
+important military channel, with high economic value and strategic
+position [1,2]. Under the recent situation of increasingly severe Sino-US
+trade frictions and expanding scope of Sino-US game, the South China
+Sea, as an important strategic fulcrum of Sino-US game, continues to
+attract the attention of all countries. Such issues in the South China Sea
+presents new uncertainties. In this context, guided by the concept of
+prosperous community, Chinese President Xi Jinping emphasized and
+advocated “adhering to the Path of peaceful development and promot­
+ing the construction of a Community of Shared Future for Mankind” at
+various occasions such as the 2017 Annual Meeting of the World Eco­
+nomic Forum and the Shanghai Cooperation Organization Summit
+[3–5]. Building a new type of economic cooperation platform along the
+SCSR and analyzing the factors affecting cooperation among countries
+will help countries to take various response measures to promote
+regional trade cooperation and marine economic development, and thus
+maintain the peace and stability of the global economic and political
+
+pattern.
+A well-developed literature have discussed the potential areas of
+cooperation and the establishment of cooperation mechanism in the
+South China Sea. According to political theory, fundamental facts and
+cooperation practices in other regions, some scholars believed that the
+conservation and management of marine living resources is currently
+the most promising area of cooperation in the South China Sea [6], and
+on this basis, the specific objectives and approaches for fishery coop­
+eration in the South China Sea are proposed [7,8]. At the same time,
+cooperation in the fields of energy, security, scientific research and
+environment also has broad potentials [9–14]. However, in these po­
+tential areas of cooperation, there is currently no effective cooperation
+mechanism in the South China Sea. On the one hand, most existing
+cooperation mechanisms focus on Marine environmental protection,
+such as “The East Asian Seas UNEP Regional Seas Programme” [15],
+“The Partnership in Environmental Management for the Seas of East
+Asia” and “The South China Sea Large Marine Ecosystems Project”,
+while the cooperation mechanisms in other fields are relatively less. On
+the other hand, because it is based on soft law and most of the funding is
+not led by actors in the region, existing cooperation mechanisms are not
+binding [16]. Therefore, the establishment of an effective South China
+
+* Corresponding author. 02/5047, Southampton Business School, University of Southampton, Southampton, SO17 1BJ, UK.
+E-mail address: Y.Gong@soton.ac.uk (Y. Gong).
+https://doi.org/10.1016/j.marpol.2019.103724
+Received 15 January 2019; Received in revised form 5 July 2019; Accepted 21 October 2019
+Available online 2 November 2019
+0308-597X/© 2019 Elsevier Ltd. All rights reserved.
+
+C. Zhao et al.
+
+Marine Policy 111 (2020) 103724
+
+this method in the field of international cooperation [34–36].
+In addition, we find that most of the existing game studies are based
+on the assumption of rational economic man and complete information,
+but this is not the case in practice. Due to differences in comprehensive
+strength, countries have incomplete cognition of themselves and other
+countries in the network, and their trade cooperation is an irrational
+strategic choice based on incomplete information. Therefore, this paper
+introduces the asymmetric QRE model of behavioral economics theory,
+adds the endogenous factors that affect game equilibrium, such as the
+participants’ cognitive beliefs on self-action sensitivity and cognitive
+beliefs about the reaction sensitivity of other participants, thus inno­
+vatively constructs a complex network game model, which will improve
+the explanatory power of network game simulation results.
+In summary, this paper attempts to introduce asymmetric QRE model
+to simulate the trade cooperation game between countries on the basis
+of building the SCSR trade network. By analyzing the subjective,
+objective and network structure factors affecting trade cooperation, and
+comparing the nature and degree of different factors, the possibility of
+establishing the SCSR Trade Community is explored. The rest of this
+paper is organized as follows: The construction of SCSR trade network is
+provided in Section 2. The network game with asymmetric QRE model is
+given in Section 3. The simulation experiments and evaluation results
+are provided in Section 4. Finally, conclusions and policy implications
+are discussed in section 5.
+
+Sea cooperation mechanism has become the common aspiration of all
+governments and scholars.
+In this context, some scholars proposed to learn from the cooperation
+experience of the polar treaty system or other similar regions [17–19],
+suggesting that the cooperation should start from low-sensitive fields
+[20], and the cooperation in environment and trade may be more
+operable than that in energy, security and other fields. The proposal of
+“Pan-South China Sea economic cooperation circle” [21,22] and re­
+searches on trade cooperation among stakeholders in the South China
+Sea [23,24] demonstrated the feasibility of establishing trade coopera­
+tion mechanism in the South China Sea and the broader region around
+the South China Sea. These achievements have laid a theoretical foun­
+dation for the study of this paper. However, different from the existing
+studies, this paper will discuss the South China Sea cooperation mech­
+anism in a larger scope. Although it still centers on the South China Sea
+and its surrounding areas, it will break through the restrictions of
+regional scope, extend outward according to ports and routes, and
+include the main international trade subjects on the main routes and
+even the extended routes of the SCSR, so as to build a global trade
+community.
+Game theory is a common method in the study of international
+cooperation, especially in trade cooperation and environmental coop­
+eration. In general game analysis, cross-border environmental problems
+are often assumed as prisoner’s dilemma games [25]. Due to the exter­
+nalities of environmental production and consumption, environmental
+costs cannot be internalized. Although cooperation is beneficial to both
+sides, it is still difficult to maintain cooperation. On the contrary, ac­
+cording to the theory of comparative advantage [26] and the theory of
+international division of labor [27], international trade can enable
+countries to achieve specialized economies of scale, so trade games are
+mostly balanced by mutual cooperation or opening up. This game
+equilibrium difference between environment and trade and the
+complementarity of their benefits make many scholars attempt to link
+the two to make game analysis. The results show that the substantial
+benefits brought by trade cooperation can be used as an effective
+incentive to promote environmental cooperation, and the “free-riding”
+behavior in global environmental protection can be effectively sup­
+pressed, thus bringing environmental protection out of the “prisoner’s
+dilemma” of cooperation [28,29]. Therefore, although cooperation
+mechanisms in various fields in the South China Sea need to be estab­
+lished and improved, it is clear that economic and trade cooperation is
+the basis for other cooperation. This paper will focus more on game
+analysis of trade cooperation.
+At the same time, some scholars pointed out that free trade and
+environmental protection have a certain mutual restriction relationship
+[30], while discussing international trade cooperation, the impact of
+environmental problems cannot be avoided, and some studies showed
+that the correlation game between trade and environment can promote
+both trade cooperation and environmental cooperation [31]. However,
+the related game will also make the original complex trade issues more
+complex, and thus make cooperation more difficult to achieve [32].
+Therefore, this paper adopts a compromise approach, although only a
+single game of trade cooperation is conducted, the discussion of envi­
+ronmental factors will be introduced when exploring the factors
+affecting trade cooperation.
+Most of the above researches use game theory alone to analyze the
+general international cooperative behaviors, and lack of game analysis
+for specific situations such as a specific region or some specific subjects.
+By contrast, the game based on complex networks seems to be more
+practical and specific. In the game analysis based on the construction of
+a complex trade network, the relationship and influence among in­
+dividuals will also be taken into consideration in the selection of game
+strategies [33], which is more in line with the complex states’ relations
+in reality than using the game theory alone. Few studies have applied the
+network game method to the research of the “Belt and Road”, RCEP and
+other regional trade cooperation, verifying the powerful practicability of
+
+2. Construction of the SCSR trade network
+2.1. Scope definition of the SCSR trade network
+According to the geo-economic theory [37], the scope of SCSR Trade
+Network should be defined by taking into account both geographical
+and economic factors. Firstly, with routes as the main dimension, ac­
+cording to the actual freight routes operated by Maersk and China Ocean
+Shipping Group, all global routes passing through the South China Sea
+and routes extending from ports around the South China Sea were
+divided into two regions: the main channel of the SCSR and the exten­
+sion line of the SCSR. In addition, countries whose lands, islands and
+coastal waters belong to the South China Sea region are also stake­
+holders of the SCSR. The three parts together constitute the geographical
+scope of the SCSR trade network, covering hundreds of ports and more
+than 120 countries in the world. In order to seize the core countries and
+find the key partners, priority should be given to the trade cooperation
+between countries with large bilateral trade volume, high trade
+dependence and close trade links, thus we set the bilateral trade volume
+as another standard for network construction.
+Accordingly, countries with bilateral trade volume of more than 1
+billion USD in the South China Sea region, the main channel of the SCSR
+and the extension line of the SCSR were identified as the core countries
+of the SCSR trade network, while other non-core node countries were
+not included. On this basis, the scope of the SCSR trade network was
+determined, including 46 countries in Asia, Europe, America, Africa and
+Oceania, as shown in Table 1:
+2.2. Construction of the SCSR trade network
+There are various economic and trade cooperation relations among
+the selected countries. The economic dependence degree and the trade
+contact degree of countries in the network vary with the trade volume,
+thus based on the value of trade flow we built a weighted network.
+Taking 46 countries covered by the SCSR trade network as nodes of the
+network, the bilateral trade volume data of 46 countries in 2017 were
+obtained from the UNCTADstat database, then an initial trade matrix of
+46*46 was constructed. In order to facilitate the follow-up study, the
+data were binarized by taking the total exports of node countries to other
+countries exceeding 1 billion USD as the standard for the existence of
+economic and trade cooperation between two countries. If it exceeds 1
+2
+
+C. Zhao et al.
+
+Marine Policy 111 (2020) 103724
+
+42, 26].
+
+Table 1
+Scope of the SCSR trade network.
+
+3. Design of the network game model
+
+Area of belonging
+
+Countries
+
+the South China Sea
+region
+the main channel of
+the SCSR
+
+China, Singapore, Thailand, Vietnam, Malaysia, Indonesia,
+Philippines
+India, Pakistan, Bangladesh, Iran, Oman, Qatar, Saudi
+Arabia, United Arab Emirates, Egypt, Turkey, Israel, Italy,
+Spain, Romania, France, United Kingdom, Germany,
+Netherlands, Belgium, Poland, United States, Brazil,
+Argentina, Angola, South Africa, Australia
+Japan, South Korea, Russia, Portugal, Sweden, Ireland,
+Norway, Denmark, Finland, Canada, Mexico, Colombia,
+Chile
+
+the extension line of
+the SCSR
+
+3.1. Asymmetric Quantal Response Equilibrium (QRE) model
+In standard game theory, the assumption that players are always
+perfect maximizers is adopted, i.e. people use their beliefs about un­
+certain events, including other players’ actions, to make decisions that
+are consistent with the maximization of expected payoffs [39]. Yet
+humans are not perfect, they sometimes take decisions irrationally that
+does not give them the best outcome [40].
+“In general, each player does not really know the other players’ value
+systems; this is part of the reason why in reality many games have
+incomplete and asymmetric information. In such games, trying to find
+out the values of others and trying to conceal or convey one’s own
+become important components of strategy.” [41].
+In a real situation, most people make mistakes, thus in competitive
+situations people such as athletics, business, and politics may alter their
+behavior in anticipation of their own and others’ mistakes. To address
+the shortcomings of standard game theory, McKelvey, Palfrey and others
+[42] began to apply QRE model in game experiments; Capra [43]
+established the QRE refining model and tested it in 1999; Weiszacker
+[44] extended the QRE model to asymmetry. It is an equilibrium concept
+based on bounded rational strategic behavior, assuming that players
+play a noisy best response. The QRE is an extended version of Nash
+where there is a rationality variable which adds margin of error. If the
+rationality variable goes towards infinity, the equilibrium approaches
+Nashs [45]. On the other hand, if the rationality variable approaches
+zero the players will pick their strategy with an irrational mind not
+knowing what strategy is the best. Therefore, in the actual situation, the
+optimal strategy in the sense of Nash equilibrium does not appear with
+probability 1. Use the Logit reaction function or the exponential pay­
+ment reaction function to represent the QRE equilibrium model as
+follows:
+"
+0 1
+P
+exp βi Peðs i ÞUi ðsi ; s i Þ�
+B C
+s i
+C
+!
+!#
+"
+PB
+(1)
+@si A ¼
+Pe
+P
+exp βi P s i Ui sk ; s i
+
+Note: The trade volume data of the countries in the table are from the
+UNCTADstat database.
+
+billion USD, it is believed that economic and trade cooperation relations
+exist between the two countries, and the adjacency matrix is assigned a
+value of 1; otherwise, it is considered that there is no economic and trade
+cooperation relation between the two countries, and the adjacency
+matrix is assigned a value of 0. UCINET software was used to plot and
+process the binarization data. The graph of the SCSR trade network was
+shown in Fig. 1:
+In Fig. 1, the size of the nodes represents the status and influence of
+the country in the network. The area of each node in the network shown
+in Fig. 1 is different, indicating the different influence of countries in the
+network. There are many large nodes at the same time, which shows that
+the power in the network is centralized as well as decentralized, and the
+cooperation and competition relationship between countries is more
+complex. The game behavior under such network structure is more
+complex and dynamic.
+The edges between nodes indicate trade links between countries.
+Trade cooperation between countries on the SCSR is a network-based
+cooperative game relationship. Each node country plays a strategic
+game with the countries with direct contact and high trade dependence,
+while there is no game relationship with the countries without direct
+trade relationship, which suggest that node countries only play game
+with their network neighbors and there is no game relationship between
+neighbors’ neighbors and them.
+The total benefit of the trade cooperation of the node countries is the
+benefit synthesis of game between node countries and all neighboring
+countries. Substituting the different degree values of each country into
+the asymmetric QRE network game model will have different effects on
+the parameter conditions of game returns and the choice of game stra­
+tegies of each country [[38]: 69]. In the SCSR trade network, the degree
+of a node is the total number of its neighbors, which are: [9, 13, 19, 9,
+32, 31, 20, 11, 45, 7, 15, 7, 15, 39, 43, 34, 26, 11, 14, 9, 39, 35, 34, 22,
+18, 37, 18, 5, 4, 9, 17, 10, 12, 11, 26, 26, 20, 12, 33, 21, 28, 20, 26, 36,
+
+sk
+
+0 1
+eB C
+P @s i A ¼
+
+s
+
+i
+
+e
+P
+exp ½ β i Pðsi ÞU i ðsi ; s i Þ�
+s i
+!
+!#
+"
+e P
+P
+S k exp β i P si U i si ; s k
+si
+
+Fig. 1. The SCSR trade network.
+3
+
+(2)
+
+C. Zhao et al.
+
+Marine Policy 111 (2020) 103724
+
+In formulas (1) and (2), Pðsi Þ is the probability that game participant i
+e
+adopts strategy Si . P ðs i Þ is the probability that participant -i adopts
+strategy S i ; βi , β~ i represent the participants’ cognitive beliefs on selfaction sensitivity and cognitive beliefs about the reaction sensitivity of
+other participants respectively.
+In the asymmetric QRE model, the probability of the participant
+taking strategy Si is related to the self-action sensitivity cognitive beliefs
+and other participants’ expected utility, while the probability of other
+participants taking strategy S i is related to participants’ cognitive be­
+liefs on the reaction sensitivity of others and other participants’ ex­
+e
+pected utility. Pðsi Þ, P ðs i Þ formed a circular nested relationship.
+In the SCSR trade network, due to historical reasons, cultural dif­
+ferences, national strength and other factors, the perception of node
+countries to themselves and other countries in the network is incom­
+plete, and the trade cooperation between them is also an irrational
+strategy choice based on incomplete information. Using the QRE model
+to describe the game process of the SCSR trade network would be able to
+depict the relationship between them in a more realistic way, and the
+established model could also have a stronger explanatory power for the
+cooperation mechanism of the SCSR trade network.
+
+Table 2
+Payment matrix of the single game.
+Single game between i-node and j-node
+The strategy of i-node
+
+The strategy of j-node
+
+cooperation
+betrayal
+
+cooperation
+
+betrayal
+
+b-d; b-d
+
+-d; b
+
+b; -d
+
+e; e
+
+6) In the SCSR trade network, each node country only plays game with
+their neighbor countries. In order to promote cooperation, network
+neighbors will give preferential policies and rewards to the node
+countries. From the perspective of rational decision makers, each
+country’s rewards to other countries will not exceed the benefits it
+gains. Use a to represent the proportion of rewards given by each
+node country to its neighbors in its cooperation benefits, and
+0 < a<1.
+7) Environmental problems generally exist in countries in the SCSR
+Trade Network, so some countries will implement environmental
+barriers in trade to protect their ecology. However, because most of
+the environmental barriers are false and discriminatory [52], the
+countries that implement environmental barriers will not only bear a
+certain loss of interests themselves, but also be condemned by other
+countries. We name the loss and pressure in these two aspects as the
+implementation cost of environmental barriers, and its proportion in
+the cooperation benefits is expressed as w, then 0 < w < 1.
+8) The proportion of initial cooperators was r0 , it is the numbers of
+countries that choose a cooperative strategy at the beginning of
+game.
+
+3.2. Hypothesis of the network game model
+Combining the QRE model with the actual situation of the SCSR
+trade network, the following eight assumptions can be made. Among
+them, hypothesis 1) - 4) is the general hypothesis of standard game
+theory. Hypothesis 5) is the endogenous factors that influence the
+cooperation among international trade subjects introduced according to
+the QRE model. In order to facilitate the comparison, we also add some
+objective factors that affect trade cooperation. A large number of doc­
+uments have demonstrated the positive impact of “selective incentive
+measures” on trade cooperation [46–48] in hypothesis 6); the restrictive
+effect of environmental barriers on free trade [49–51] mentioned in
+hypothesis 7) is also a general consensus in the international trade
+community. Hypothesis 8) is the network structure factor that affects
+cooperation. From the existing literature, we know that these two
+objective factors have an impact on international trade cooperation, but
+compared with the subjective endogenous factors, which degree of
+impact is greater is worth discussing.
+
+According to the above assumptions, the total utility value of par­
+ticipants at time t can be obtained as follows:
+!
+!
+X
+X
+� XX
+Uit sit ; sjt ; cit ¼
+πi ðsi ; sj P si þ
+aji wi
+xj
+(3)
+j2NBR si
+
+j2NBR;si ¼1
+
+i6¼j;si ¼0
+
+Introducing the asymmetric QRE model:
+"
+�i
+0 1
+Pe � � �
+exp βi P sj ui si ; sj
+B C
+sj
+C
+!
+!#
+"
+PB
+@si A ¼
+P
+Pe
+exp βi P sj ui sk ; sj
+sk
+
+1) Assuming that each participant has two strategies to choose from:
+cooperation and betrayal. Si ¼ {0,1} is the policy set of node i, and 1
+represents cooperation, while 0 represents betrayal.
+2) Assuming that both sides of the game have symmetric benefits, that
+is, the respective cooperative benefit obtained from the game is b,
+and the value range of b is b > 0; at the same time, there is cost for
+cooperating, the cost of cooperation is expressed by d, and its value
+range is (0 < d < b).
+3) Assuming that the respective return is e when two neighboring node
+countries choose the betrayal strategy, and e > 0.
+
+0 1
+eB C
+P @sj A ¼
+
+s
+
+(4)
+
+i
+
+"
+e P
+�
+��
+exp β j P si uj si ; sj
+s
+
+i
+
+!
+!#
+"
+e P
+P
+s k exp β j P si uj si ; s k
+
+(5)
+
+si
+
+Combining with the game income payment matrix in Table 2,
+substituting the values in the matrix into the formulas (4) and (5), and
+the formulas (6) and (7) were obtained:
+�
+���
+�
+d
+exp βi PSjC b d þ PSjD
+�
+�
+���
+�
+��
+PSiC ¼
+(6)
+d
+þ exp βi PSjC b þ PSjD e
+exp βSi PSjC b d þ PSjD
+
+Combining the hypotheses (1), (2) and (3), the income payment
+matrix can be obtained as shown in Table 2:
+
+PSjC ¼
+
+4) Participants choose cooperative and non-cooperative strategies ac­
+cording to the probability of the game. Assuming that they cooperate
+according to the probability of Pðsi Þ, then the probability of not to
+cooperate is 1 Pðsi Þ.
+5) There is a difference between the participants’ cognitive beliefs on
+self-action sensitivity and cognitive beliefs about the reaction
+sensitivity of other participants, due to most participating countries
+believe that they are more considerate than other countries. That is,
+e
+βi � β j .
+
+�
+exp βj PSi C b
+�
+�
+exp βSj PSiC b d þ PSiD
+
+�
+���
+d þ PS i D
+d
+���
+�
+��
+d
+þ exp βj PSiC b þ PSiD e
+
+(7)
+
+PSiC ¼ 1
+
+PSiD
+
+(8)
+
+PSjC ¼ 1
+
+PSjD
+
+(9)
+
+3.3. Analysis of network game model
+The countries in the SCSR trade network will constantly adjust their
+behavioral strategies in accordance with the revenue situation in the
+4
+
+C. Zhao et al.
+
+Marine Policy 111 (2020) 103724
+
+network. When the cooperation revenue of the node countries is greater
+than the betrayal revenue, they will adopt the cooperation strategy,
+otherwise they will adjust to adopt the betrayal strategy. Substituting
+the formulas (6)–(9) into formula (3), formula (10) can be obtained:
+
+8
+>
+>
+Nc b
+>
+>
+< it
+Uit ¼
+
+!
+
+!
+
+d PSjt þ
+
+N
+
+!
+
+N cit
+
+!
+
+d
+
+1
+
+!
+
+>
+>
+>
+>
+:
+
+N cit bPSjt
+
+þ
+
+N
+
+N cit
+
+!
+
+e 1
+
+PSjt
+
+PSjt
+
+X
+aij
+
+þ
+
+j 2 NBR
+Si ¼ 1
+
+X
+wit
+xj
+
+data adjustment and trial-and-error. The simulation results are as
+follows:
+4.1. Analysis of the influence of participants’ cognitive beliefs on self-
+
+i ​ is ​ the ​ cooperator
+(10)
+
+i ​ is ​ the ​ betrayer
+
+i6¼j
+
+action sensitivity on the number of cooperators in the SCSR trade network
+
+In formula (10), N represents the total number of nodes in the
+network, Nc represents the number of partners in the network, and PSjt
+represents the probability that node j adopts cooperative strategy.
+The equilibrium condition for i-node to choose cooperative strategy
+is: the benefits of cooperation � the benefits of betrayal, as shown in
+formula (11):
+
+!
+N cit b
+
+X
+aij
+
+d PSjt þ N
+
+!
+N cit
+
+X
+j 2 NBR
+xj
+þ wit
+Si ¼ 1
+i6¼j
+
+!
+d
+
+!
+1
+
+PSjt
+
+!
+
+X
+þ
+
+aij
+
+!
+N cit dPjt
+
+N
+
+N cit
+
+Assume that the initial game matrix of node countries i and j of the
+SCSR trade network is (5, 2; 7, 3), the proportion of initial cooperators
+is 0.5, the value of neighboring countries’ reward is 0.08, and the value
+of the implementation cost of environmental barriers is 0.025. Let
+βj ¼ 0.1 to test the influence of βi (βj < βi ) on the number of cooperators
+
+j 2 NBR
+� N cit bPSjt þ N
+Si ¼ 1
+
+!
+eþd
+
+PSjt
+
+!
+PSjt
+
+wit
+
+X
+xj
+
+(11)
+
+i6¼j
+
+in the SCSR trade network. When βi ¼ 0.11, 0.2, 0.3, 0.5, 0.8 respec­
+tively, the simulation results are shown in Fig. 2:
+As can be seen from Fig. 2, when other variables remain unchanged,
+when βi ¼ 0.11, after three rounds of game, the number of cooperators in
+the SCSR trade network stabilizes at 46, that is, all countries adopt
+cooperative strategies; when the value of βi increased to 0.3, after four
+rounds of game, all countries also chose the cooperative strategy; when
+the value of βi is greater than 0.5, no matter how the value changes, the
+number of cooperators in the network was stabilized at 15 after several
+rounds of game. So it can be concluded that the value of self-belief has a
+negative impact on the cooperation of the SCSR trade network. The
+greater the value, the more likely the node countries in the network tend
+to adopt the betrayal strategy, which is more detrimental to the coop­
+eration of the SCSR trade network.
+
+!
+1
+
+N cit e 1
+
+�0
+(12)
+
+It can be known from formula (12) that the choice of a certain round
+of game strategy of each node country in the SCSR trade network is
+directly related to the reward for cooperation given by the neighbor
+node, the cost of cooperation input, the profit gained from the betrayal
+strategy selected by the node, the implementation cost of environmental
+barriers, and the probability value of the neighbor node choosing
+cooperation. Moreover, the probability of neighbor nodes choosing to
+cooperate is related to the participants’ cognitive beliefs on self-action
+sensitivity and cognitive beliefs about the reaction sensitivity of other
+participants. Next section presents the simulation results of the influence
+of relevant variables on the game equilibrium of the SCSR trade
+network.
+
+4.2. Analysis of the influence of participants’ cognitive beliefs about the
+reaction sensitivity of other participants on the number of cooperators in
+the SCSR trade network
+
+4. Analysis of network game simulation results
+
+Assume that the initial game matrix is (5,
+
+Using MATLAB software, the effects of the participants’ cognitive
+beliefs on self-action sensitivity βi , cognitive beliefs about the reaction
+sensitivity of other participants βj , the proportion of initial cooperators
+r0 , rewards from neighboring countries a, and the implementation cost
+of environmental barriers w on the number of cooperators in the SCSR
+trade network were simulated.
+In the simulation process, the initial game matrix and related vari­
+ables can be randomly selected within a given range. The overall trend
+of simulation results will not change as long as other variables remain
+fixed while testing the influence of one variable. The assumed values
+given in the paper are based on empirical analysis and data trial-anderror. Firstly, a critical point interval where the trend line may be
+reversed was roughly determined according to the value range of vari­
+ables and the experience of previous research results. Then, a group of
+variables with obvious trend can be determined through small range
+
+2; 7, 3), the proportion of
+
+Fig. 2. The simulation diagram of the influence of participants’ cognitive be­
+liefs on self-action sensitivity on the number of cooperators in the SCSR
+trade network.
+5
+
+C. Zhao et al.
+
+Marine Policy 111 (2020) 103724
+
+countries have also chosen cooperation strategies, and the speed of
+network game reaching the total cooperative equilibrium was acceler­
+ated. Therefore, the proportion of initial cooperators has a positive
+impact on the cooperation of the SCSR trade network. The results sug­
+gest that the higher the proportion of initial cooperators, the more
+cooperative-oriented the strategic choice of node countries in the
+network, the more conducive to the cooperation of the SCSR trade
+network; in addition, in order to achieve the full cooperation, the initial
+number of cooperators should be above a certain range (in this example,
+r0 should be more than 0.5, under the limitation of the rewards from
+neighboring countries and public opinion pressure).
+Fig. 3. The simulation diagram of the influence of participants’ cognitive be­
+liefs about the reaction sensitivity of other participants on the number of co­
+operators in the SCSR trade network.
+
+4.4. Analysis of the influence of the rewards from neighboring countries
+on the number of cooperators in the SCSR trade network
+Assume that the initial game matrix is (5, 2; 7, 3), the proportion of
+initial cooperators is 0.5, and the value of the implementation cost of
+environmental barriers is 0.025. Let βi ¼ 0.5 and βj ¼ 0.1(βj < βi ) to test
+the influence of the rewards from neighboring countries on the number
+of cooperators in the SCSR trade network. When a ¼ 0.01, 0.05, 0.08,
+0.081, 0.085 respectively, the simulation results are shown in Fig. 5:
+In Fig. 5, other variables remain unchanged. When the reward value
+of neighboring countries was 0.01 and 0.05, the number of cooperators
+in the SCSR trade network stabilized at 15 after 2 rounds and 3 rounds of
+game respectively; when the value was increased to 0.08, after 7 rounds
+of game, the number of cooperators was still stable at 15. It was indi­
+cated that in this interval, the neighbor reward value only increased the
+number of game rounds that reach equilibrium, and would not change
+the final equilibrium result, which had no significant impact on the
+cooperation of the SCSR trade network. When the reward value of the
+neighboring country rose to 0.081, after 4 rounds of game, the number
+of cooperators stabilized at 46, that is, all countries chose the coopera­
+tion strategy. Continued to increase the reward value of neighboring
+countries, the faster the members of the SCSR trade network reached a
+full cooperation equilibrium. Therefore, the rewards from neighboring
+node countries have a significant positive impact on the cooperation of
+the SCSR trade network. The greater the value, the more likely countries
+in the network tend to choose the cooperation strategy, and the faster
+the cooperation equilibrium is reached, the more conducive to the
+cooperation of the SCSR trade network.
+
+initial cooperators is 0.5, the value of neighboring countries’ reward is
+0.08, and the value of the implementation cost of environmental barriers
+is 0.025. Let βi ¼ 0.5 to test the influence of βj (βj < βi ) on the number of
+cooperators in the SCSR trade network. When βj ¼ 0.01, 0.09, 0.15, 0.3,
+0.48 respectively, the simulation results are shown in Fig. 3:
+In Fig. 3, when other variables remain unchanged and βj ¼ 0.01, after
+two rounds of game, the number of cooperators in the SCSR trade
+network stabilized at 46, that is, all countries chose cooperation stra­
+tegies and the network reached the equilibrium state of full cooperation;
+when βj increases to 0.09, the equilibrium state of full cooperation was
+reached after four rounds of game; however, when βj increased to 0.15,
+the situation of cooperation went down sharply and the number of co­
+operators kept decreasing. It can be seen that the greater the network
+node countries’ cognitive belief value to others’ reaction sensitivity, the
+more vulnerable they were to be influenced by self-interest and specu­
+lative psychology, and adopted a first-mover strategy of betrayal, which
+had a negative impact on the cooperation of the SCSR trade network.
+4.3. Analysis of the influence of the proportion of initial cooperators on
+the number of cooperators in the SCSR trade network
+Assume that the initial game matrix is (5, 2; 7, 3), the value of
+neighboring countries’ reward is 0.08, and the value of the imple­
+mentation cost of environmental barriers is 0.025. Let βi ¼ 0.5 and
+βj ¼ 0.1(βj < βi ) to test the influence of r0 on the number of cooperators
+in the SCSR trade network. When r0 ¼ 0.1, 0.3, 0.5, 0.6, 0.8 respectively,
+the simulation results are shown in Fig. 4:
+In Fig. 4, other variables remain unchanged. When the initial co­
+operators ratio was 0.1, 0.3 and 0.5, after 2, 4 and 7 rounds of the game
+respectively, the number of cooperators in the SCSR trade network
+stabilized at 15, showing that in this range, the influence of the pro­
+portion of initial cooperators on the cooperation of the SCSR trade
+network is not obvious. Until the proportion of initial cooperators
+increased to 0.6, after two rounds of game, the number of cooperators
+stabilized at 46. Continued to increase to 0.8, after a round of game, all
+
+4.5. Analysis of the influence of the implementation cost of environmental
+barriers on the number of cooperators in the SCSR trade network
+Assume that the initial game matrix is (5, 2; 7, 3), the proportion of
+initial cooperators is 0.5, and the value of rewards from neighboring
+countries is 0.08. Let βi ¼ 0.5 and βj ¼ 0.1(βj < βi ) to test the influence of
+the implementation cost of environmental barriers on the number of
+cooperators in the SCSR trade network. When w ¼ 0.01, 0.03, 0.04,
+0.041, 0.045 respectively, the simulation results are shown in Fig. 6:
+In Fig. 6, other variables remain unchanged. When the value of the
+
+Fig. 4. The simulation diagram of the influence of the proportion of initial
+cooperators on the number of cooperators in the SCSR trade network.
+
+Fig. 5. The simulation diagram of the influence of the rewards from neigh­
+boring countries on the number of cooperators in the SCSR trade network.
+6
+
+C. Zhao et al.
+
+Marine Policy 111 (2020) 103724
+
+reaction sensitivity of other participants have a greater effect on trade
+cooperation than participants’ cognitive beliefs on self-action sensi­
+tivity. In other words, in the game of international trade cooperation,
+“knowing other players” is more influential than “self-confidence” on
+the strategic choice of international trade subjects. This may be the
+result of the complex political relations and lack of trust between
+countries in the SCSR trade network.
+In addition, from the simulation results of the initial cooperative
+proportion, we can find that the larger the initial cooperative propor­
+tion, the more conducive to cooperation. This seems to be reasonable,
+because the more countries that initially choose cooperative strategies,
+the more they can form cooperative orientation to the strategy choice of
+other node countries in the network. Just based on the herd mentality,
+they will be more inclined to cooperate. But this may only be an ideal
+situation, because, as Kao [16] mentioned, some existing cooperation
+mechanisms in the South China Sea, such as the Asian Development
+Bank, cover a larger area outside the South China Sea, but have not been
+able to effectively promote cooperation. On the contrary, more partici­
+pants mean more complex relationships and more diversified goals,
+which are likely to run counter to the aspirations of the South China Sea
+countries. Therefore, in the practice of establishing SCSR trade com­
+munity, the number of initial participants should be well measured.
+
+Fig. 6. The simulation diagram of the influence of the implementation cost of
+environmental barriers on the number of cooperators in the SCSR
+trade network.
+
+implementation cost of environmental barriers was 0.01, after 2 rounds
+of game, the number of cooperators in the SCSR trade network stabilized
+at 2; when its value increased to 0.03, after 3 rounds of game, the
+number of cooperators stabilized at 15; when it continued to increase to
+0.04, after 5 rounds of game, the number of cooperators was stable at 27;
+when the value of the implementation cost of environmental barriers
+increased to 0.041, after 4 rounds of game, all countries chose cooper­
+ation strategy; continuing to increase the value of the implementation
+cost of environmental barriers, the speed of reaching a full cooperation
+equilibrium in the SCSR trade network accelerated. It can be concluded
+that the implementation cost of environmental barriers has a significant
+positive impact on the trade cooperation of SCSR. On the one hand,
+small changes in its value will cause significant changes in the number of
+game rounds and the number of cooperators; on the other hand, the
+greater the value, the greater the pressure on the selectors of betrayal
+strategies, the greater the possibility that the countries in the network
+choose the cooperation strategy, which is more conducive to the coop­
+eration of the SCSR trade network.
+
+5.2. Policy implications
+The policy implications of this research on promoting trade coop­
+eration in SCSR are as follows:
+Firstly, the establishment of the SCSR Trade Community should be
+carried out step by step and selectively. The friendly large and developed
+countries can give priority to that have established strategic partner­
+ships at all levels on the SCSR to form a trade cooperation organization,
+so as to increase the proportion of initial partners and the probability of
+successful cooperation of this trade organization. The SCSR trade com­
+munity still takes the South China Sea region and its surrounding
+countries as its core. As the most important cooperation organization in
+the region, ASEAN has made tremendous progress in achieving internal
+economic integration [54]. At the same time, it has carried out
+“export-oriented” economic cooperation, gradually forming the coop­
+eration mechanism of ASEAN þ China, Japan and South Korea (10 þ 3)
+[55]. But with the new wave of globalization, broader global coopera­
+tion is imperative. The SCSR trade community can be established by
+expanding the capacity of existing cooperative organizations, so that
+more countries with strong cooperation intentions can join in and share
+the development dividends.
+Secondly, a reasonable incentive mechanism should be drawn up for
+the establishment of the SCSR Trade Cooperation Organization. Specif­
+ically, it includes the following aspects: 1) Through multilateral nego­
+tiations, a tax exemption policy of tax-free or low-tax for countries in the
+region can be reached to reward those who adopt cooperative strategies,
+thus promoting the development of intra-regional trade. 2) Increase the
+investment in infrastructure of the countries in the cooperation orga­
+nization, especially in ports and waterways, so as to improve the level of
+infrastructure development in relevant countries, thereby improving
+logistics performance and promoting trade development. 3) Strengthen
+the capacity cooperation with countries within the trade cooperation
+organization, export China’s advantageous production capacity to these
+countries, and help them develop manufacturing industries, thus
+achieving economic take-off. 4) Increase the import quotas of these
+countries and stimulate their production and employment through
+trade. 5) Adopt appropriate economic and political sanctions to punish
+non-cooperative countries and adjust trade weights with them, so as to
+promote the evolution of SCSR Trade Network to the equilibrium of
+cooperation.
+Thirdly, appropriate sanctions should be taken against countries that
+implement unfair environmental barriers. Environmental barriers have
+a two-way impact on free trade. On the other hand, the high standards of
+
+5. Discussion and conclusion
+5.1. Discussion on simulation results
+Through simulation, some interesting findings were discovered.
+Firstly, the simulation results verify the influence of the subjective factor
+of asymmetric cognition between countries on trade cooperation, which
+is undoubtedly negative. The SCSR trade network includes developed,
+developing and emerging countries of various types. Due to differences
+in economic level and cultural distance, asymmetric cognition is bound
+to be generated among them. Generally speaking, developed countries
+have more information advantages, so developing countries may be
+more susceptible to “egoist” in the absence of information awareness
+and adopt relatively conservative trade policies [53], which undoubt­
+edly has a negative impact on cooperation.
+But from the comparison of subjective factors and objective factors,
+we find that the influence is limited. From the simulation diagram, we
+can see that the small change in the value of the reward from neighbor
+countries and the implementation cost of environmental barriers will
+bring a big change in the cooperative equilibrium results, while the
+cooperative equilibrium result is much slower to respond to the sub­
+jective asymmetric cognition. This may be the role played by the
+increasingly rational and mature decision-making processes of coun­
+tries. At the same time, the results also shows that subjective factors only
+have an impact on the cooperation among countries under certain
+conditions, and can not necessarily change the strategic choice of all
+countries in the network. Therefore, in the process of promoting trade
+cooperation, countries should not take subjective factors as the main
+consideration.
+From the internal comparison of the two aspects of asymmetric
+cognition, we can also find that participants’ cognitive beliefs about the
+7
+
+C. Zhao et al.
+
+Marine Policy 111 (2020) 103724
+
+environmental barriers to product technology and production process
+will also promote the development of industry and trade to a higher
+level. WTO is committed to global sustainable development, and its
+relevant regulations provide certain legitimacy for the implementation
+of environmental barriers [56]; but its principles of openness, equality
+and reciprocity also require countries to reduce tariff and non-tariff
+trade barriers [57,58]. Therefore, it is very important to fully under­
+stand the rules of WTO and make rational use of them in the interna­
+tional trade game. In addition, the Marine Environmental Protection
+Committee (MEPC) under IMO has also put forward a series of technical,
+operational and market-oriented measures [59] in the field of green
+shipping, which requires countries to complete the green transformation
+as soon as possible, develop the environmental protection industry, and
+realize the coordinated development of environmental protection and
+free trade.
+Finally, the communication among countries in the SCSR trade
+network should be strengthened to reduce the asymmetry of cognitive
+beliefs. On the one hand, China should attach importance to the flexi­
+bility of strategy, treat countries with different cognitive beliefs differ­
+ently, and moderately reduce the self-belief value and belief value to
+other countries’ reaction sensitivity. On the other hand, it is necessary to
+strengthen the construction of the trade destiny community of the SCSR,
+carry out various public service cooperation with relevant countries,
+establish a multi-level and diversified communication and cooperation
+platform, and share information through the platform, so as to increase
+the transparency of information among countries in the SCSR trade
+network, reduce transaction costs of cooperation, and reduce the
+asymmetric cognition in decision-making, thus promoting the cooper­
+ation of SCSR Trade Community.
+
+But a wider range of participants means more complex relationships,
+and asymmetric perceptions among countries may make many countries
+in the network tend to choose self-interested and conservative trade
+policies, making cooperation a sub-optimal choice. But with the wave of
+digital globalisation, this information gap is likely to narrow and na­
+tional decision-making will become more rational. At the same time,
+driven by incentive of interests and the implementation pressure of trade
+barriers, the SCSR trade network is evolving towards the direction of
+cooperation equilibrium. Of course, “Rome was not built in a day”, and
+the establishment of the SCSR Trade Community will be a long-term
+process.
+Our research also has some limitations. First of all, the trade volume
+is only used as the standard for the construction of the SCSR trade
+network, based on which to explore the establishment of the community
+may be slightly weak; because the concept of the community contains
+not only common interests, sustainable development is equally impor­
+tant. Therefore, we will try to build a weighted network combining trade
+and sustainable development to improve the authenticity and practica­
+bility of the game results. In addition, the game process is carried out on
+an established static network, but the actual SCSR trade network is
+variable and dynamically changing. In the follow-up research, we will
+consider the impact of the dynamic changes of network topology on the
+game, providing a more reasonable theoretical explanation for the
+cooperative research of the trade community.
+
+5.3. Conclusion
+
+Appendix A. Supplementary data
+
+The establishment and improvement of South China Sea cooperation
+mechanism has been a hot topic in the fields of international politics, law
+and economics. Previous studies were mostly confined to geographical
+scope, only around the South China Sea and its surrounding areas, to
+explore the possibility of establishing cooperation mechanisms of
+coastal countries in the South China Sea [60,61]. The interference of
+complex external forces is one of the main factors that make cooperation
+in the South China Sea difficult, so it is understandable that scholars
+hope to exclude countries outside the region when establishing coop­
+eration mechanisms. But beyond the political sphere, the trade coop­
+eration relationship extended by the SCSR is a network connecting the
+whole world. Therefore, building a global SCSR Trade Community is a
+good way to promote regional cooperation and stabilize the global po­
+litical and economic pattern.
+From the existing research, we can find that game theory is widely
+applied in the field of international cooperation, but most of them are
+based on the assumption of rational economic man and complete in­
+formation, ignoring the important role of subjective asymmetric cogni­
+tion among countries in game decision-making. In contrast, based on the
+construction of SCSR trade network, this paper introduces QRE model
+and innovatively designs the SCSR trade network game model. The
+factors affecting trade cooperation are discussed from three aspects:
+subjective, objective and network structure, so that the explanatory
+power of the simulation results is more comprehensive, specific and
+practical.
+To sum up, the SCSR trade network itself is a complex network with
+close trade links. At present, there are some regional cooperation
+mechanisms such as ASEAN in the network, and great progress has been
+made in promoting regional economic integration and foreign economic
+cooperation. Although it has not yet developed into a global cooperative
+organization, these organizations have laid the foundation for the
+establishment of a global SCSR Trade Community. At the same time, as
+the focus of global maritime trade shifts to the Indian Ocean [62], the
+number of partners in the SCSR trade network will continue to increase.
+
+Supplementary data to this article can be found online at https://doi.
+org/10.1016/j.marpol.2019.103724.
+
+Acknowledgment
+This research was supported by The Ministry of Education Human­
+ities and Social Science Project, China, Grant No: 14YJAZH093.
+
+References
+[1] W.B. Liu, The South China Sea issue and China’s construction of the 21st century
+maritime silk road, Southeast Acad. Res. 3 (2016) 18–25 (in Chinese).
+[2] W.L. Nan, Z.S. Zhang, L. Zhao, Analysis of the impact of the construction of the
+“21st century maritime silk road” on The South China Sea region, Ocean Dev.
+Manag. 33 (6) (2016) 84–91 (in Chinese).
+[3] People’s Daily, Xi Attended the Opening Ceremony of the 2017 BBS Annual
+Meeting of the World Economy and Delivered a Keynote Speech [Online, 2017.
+Available at: http://cpc.people.com.cn/n1/2017/0118/c64094-29031823.html.
+(Accessed 20 December 2018).
+[4] XinhuaNews, Dream and Sail, and Work Together for an Even Brighter Future –
+Interpretation of President Xi’s Important Speech at the SCO Summit in Qingdao
+[Online, 2018. Available at: http://www.xinhuanet.com/2018-06/10/c_11229649
+80.htm. (Accessed 20 December 2018).
+[5] XinhuaNews, Xi Proposed to Adhere to the Path of Peaceful Development and
+Promote the Building of a Community of Shared Future for Mankind [Online, 2017.
+Available at: http://www.xinhuanet.com/politics/19cpcnc/2017-10/18/c_11218
+21003.htm. (Accessed 20 December 2018).
+[6] S.M. Kao, N.S. Pearre, Regional cooperation in the post-south China Sea arbitration
+Era: potential mechanism and cooperative areas, Coast. Manag. 46 (2) (2018)
+103–122.
+[7] Y.H. Jiang, X.A. Xue, Building a cross-strait cooperation mechanism for the
+conservation and management of fishery resources in the South China Sea, Ocean
+Coast Manag. 116 (2015) 318–330.
+[8] H.Z. Zhang, Fisheries cooperation in The South China Sea: evaluating the options,
+Mar. Policy 89 (2018) 67–76.
+[9] E. Meierding, Joint development in the South China Sea: exploring the prospects of
+oil and gas cooperation between rivals, Energy Res. Soc. Sci. 24 (2017) 65–70.
+[10] G. Baldacchino, Non-traditional security issues and the South China Sea: shaping a
+new framework for cooperation, Island Stud. J. 10 (2) (2015) 282–284.
+[11] N. Hong, On the construction of non-traditional maritime security cooperation
+mechanism in the South China Sea – based on the analysis of piracy and maritime
+terrorism, Asia-Pac. Secur. Marit. Aff. 1 (2018), 36-52þ124-125 (in Chinese).
+[12] H. Chang, Marine scientific research cooperation and regulation in The South
+China Sea, DEStech Trans. Environ. Energy Earth Sci. (sses/icfse) (2016) 171–176.
+OCT 15-16.
+[13] J.P. Wang, Marine protected areas network in The South China Sea: charting a
+course for future cooperation, Int. J. Mar. Coast. Law 32 (2) (2017) 373–377.
+
+8
+
+C. Zhao et al.
+
+Marine Policy 111 (2020) 103724
+[37] C. Chen, Geographical relations and the construction of world economic
+geography, World Reg. Stud. 3 (2001) 1–7 (in Chinese).
+[38] F.J. Xie, Games on Complex Networks, Tsinghua University Press, Beijing, China,
+2016 (in Chinese).
+[39] R.W. Rosenthal, Games of perfect information, predatory pricing and the chainstore paradox, J. Econ. Theory 25 (1) (1981) 92–100.
+[40] A. Fiat, C. Papadimitriou, When the Players Are Not Expectation Maximizers,
+International Symposium on Algorithmic Game Theory, Springer, Berlin,
+Heidelberg, 2010, pp. 1–14.
+[41] O. Hart, J. Moore, Incomplete contracts and renegotiation, Econometrica 56 (4)
+(1988) 755–785.
+[42] R.D. McKelvey, T.R. Palfrey, Quantal response equilibria for normal form games,
+Games Econ. Behav. 10 (1) (1995) 6–38.
+[43] C.M. Capra, et al., Anomalous behavior in a traveler’s dilemma, Am. Econ. Rev. 43
+(1999) 613–636.
+[44] G. Weizs€
+acker, Ignoring the rationality of others: evidence from experimental
+normal-form games, Games Econ. Behav. 44 (1) (2003) 145–171.
+[45] J.F. Nash, Equilibrium points in n-person games, Proc. Natl. Acad. Sci. 36 (1)
+(1950) 48–49.
+[46] M. Olson, The Theory of Collective Action: Public Goods and the Theory of Groups,
+Harvard University Press, Cambridge, 1965.
+[47] P. Oliver, Rewards and punishments as selective incentives for collective action:
+theoretical investigations, Am. J. Sociol. 85 (6) (1980) 1356–1375.
+[48] P. Oliver, Rewards and punishments as selective incentives: an apex game, J. Confl.
+Resolut. 28 (1) (1984) 123–148.
+[49] C.F. Runge, Trade protectionism and environmental regulations: the new nontariff
+barriers, Nw. J. Int’l L. & Bus. 11 (1990) 47.
+[50] A.C. Michalos, Trade Barriers to the Public Good: Free Trade and Environmental
+Protection, McGill-Queen’s Press-MQUP, 2008.
+[51] E. Neumayer, Greening Trade and Investment: Environmental Protection without
+Protectionism, Routledge, 2017.
+[52] C.A.I. Jie, Green barrier and our foreign trade, J. Tianjin Univ. Commer. (2001) 1.
+[53] E. Rasmusen, B. Blackwell, Games and Information, 1994, p. 15. Cambridge, MA.
+[54] R.G. Driver, Understanding ASEAN-An Alternative Approach to International
+Relations Theory in Asia, 2018.
+[55] R. Stubbs, ASEAN plus three: emerging East Asian regionalism? Asian Surv. 42 (3)
+(2002) 440–455.
+[56] D.L. Carlson, WTO reforms, sustainable development and climate clubs: calls for
+new thinking, J. Energy Nat. Resour. Law 34 (1) (2016) 126–136.
+[57] M. Imbruno, China and WTO liberalization: imports, tariffs and non-tariff barriers,
+China Econ. Rev. 38 (2016) 222–237.
+[58] B. Hoekman, A. Nicita, Non-tariff measures and trade facilitation: WTO disciplines
+and policy space for development, Non-Tariff Meas. (2018) 13.
+[59] G.J. Mr�celi�c, R. Rabadan, M. Sli�skovi�c, A comparision of the results on carbon
+dioxide emission obtained from the 2nd IMO greenhouse gas study 2009 and the
+3rd IMO greenhouse gas study 2014, in: The International Multidisciplinary
+Scientific Conference Mediterranean Islands Conference-MIC 2018, 2018.
+[60] Q. Liu, Constructing cooperation mechanisms of coastal states in The South China
+Sea, China Invest. (17) (2018) 30–31 (in Chinese).
+[61] Y.B. Shi, Construction of regional environmental protection cooperation
+mechanism in coastal countries of The South China Sea: from the perspective of
+legislation and law enforcement of greenhouse gas emission reduction in
+international maritime industry, Humanit. Soc. Sci. J. Hainan Univ. 36 (02) (2018)
+40–49 (in Chinese).
+[62] R.D. Kaplan, Center Stage for the Twenty-First Century: Power Plays in the Indian
+Ocean, Foreign Affairs, 2009, pp. 16–32.
+
+[14] S.L. Chen, Environmental cooperation in The South China Sea: factors, actors and
+mechanisms, Ocean Coast Manag. 85 (SI) (2013) 131–140.
+[15] H. Kirkman, The East asian Seas UNEP regional Seas Programme, Int. Environ.
+Agreements Polit. Law Econ. 6 (3) (2006) 305–316.
+[16] S.M. Kao, N.S. Pearre, J. Firestone, Regional cooperation in the South China Sea:
+analysis of existing practices and prospects, Ocean Dev. Int. Law 43 (3) (2012)
+283–295.
+[17] S.V. Scott, What lessons does the Antarctic Treaty System offer for the future of
+peaceful relations in the South China Sea, Mar. Policy 87 (2018) 295–300.
+[18] J.Y. Bai, H.J. Hu, Transcending divisions and harmonizing interests: how the arctic
+council experience can inform regional cooperation on environmental protection in
+The South China Sea, Chin. J. Int. Law 15 (4) (2016) 935–945.
+[19] R.T.H. Tai, N.S. Pearre, S.M. Kao, Analysis and potential alternatives for the
+disputed South China Sea from ocean governance in the polar regions, Coast.
+Manag. 43 (6) (2015) 609–627.
+[20] M. Kao, Regional cooperation in the Mediterranean and the Caribbean Seas: lessons
+learned and possible alternatives to The South China Sea disputes, Coast. Manag.
+42 (3) (2014) 263–279.
+[21] F. Liu, Preliminary analysis on the conception of “Pan-South China Sea economic
+cooperation circle”, Manag. Obs. 32 (2017) 96–99 (in Chinese).
+[22] J.N. Liu, Q.Y. Wu, Study on the construction of Pan-South China Sea economic
+circle from the perspective of new Era, J. Hainan Trop. Ocean Univ. 25 (05) (2018)
+114–121 (in Chinese).
+[23] C.P. Zhao, J.H. Qi, M.X. Zheng, H.M. Fan, Evolution of goods trade network of
+stakeholders in the “South China Sea issue”, J. Dalian Marit. Univ. 43 (04) (2017)
+59–66 (in Chinese).
+[24] C.P. Zhao, X.H. Cao, J.H. Qi, H.M. Fan, Complex network game simulation of trade
+cooperation among stakeholders in The South China Sea, J. Dalian Marit. Univ. 44
+(02) (2018) 87–94 (in Chinese).
+[25] G. Heal, Formation of International Environmental Agreements. Trade, Innovation,
+Environment, Springer, Dordrecht, 1994, pp. 301–322.
+[26] D. Ricardo, Principles of Political Economy and Taxation, G. Bell, 1891.
+[27] A. Smith, D. Stewart, An Inquiry into the Nature and Causes of the Wealth of
+Nations, Irwin, Homewood, Ill, 1963.
+[28] C. Carraro, D. Siniscalco, International institutions and environmental policy:
+international environmental agreements: incentives and political economy, Eur.
+Econ. Rev. 42 (3–5) (1998) 561–572.
+[29] G. Hauer, C.F. Runge, Trade-environment linkages in the resolution of
+transboundary externalities, World Econ. 22 (1) (1999) 25–39.
+[30] D. Tussie, The environment and international trade negotiations: open loops in the
+developing world, World Econ. 22 (4) (1999) 535–545.
+[31] N. Lim~
+ao, Trade policy, cross-border externalities and lobbies: do linked
+agreements enforce more cooperative outcomes? J. Int. Econ. 67 (1) (2005)
+175–199.
+[32] H. Xu, Game analysis of international environmental cooperation and trade
+linkages, J. Guizhou Univ. Fin. Econ. (4) (2009) 41–45 (in Chinese).
+[33] T. Konno, A condition for cooperation in a game on complex networks, J. Theor.
+Biol. 269 (1) (2011) 224–233.
+[34] C.P. Zhao, Y.C. Wang, X. Jin, J.H. Qi, H.M. Fan, Research on complex network
+evolutionary game model and simulation of economic and trade cooperation of
+“the belt and road”, in: 2019 International Conference on Modeling, Simulation,
+Optimization and Numerical Techniques (SMONT 2019), Atlantis Press, 2019.
+[35] C.P. Zhao, J.H. Qi, X.H. Cao, H.M. Fan, Game simulation of “the belt and road”
+trade network based on “Rabin model”, J. Dalian Marit. Univ. 44 (03) (2018)
+41–48 (in Chinese).
+[36] C.P. Zhao, M. Qu, K. Kang, H.M. Fan, Network game simulation of RCEP
+cooperation based on inequality aversion function, Math. Pract. Theor. 48 (11)
+(2018) 67–72 (in Chinese).
+
+9
+
+

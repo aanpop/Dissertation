@@ -1,0 +1,1422 @@
+598538
+research-article2015
+
+MCXXXX10.1177/0097700415598538Modern ChinaChung
+
+Article
+
+Drawing the U-Shaped
+Line: China’s Claim in
+the South China Sea,
+1946–1974
+
+Modern China
+2016, Vol. 42(1) 38­–72
+© The Author(s) 2015
+Reprints and permissions:
+sagepub.com/journalsPermissions.nav
+DOI: 10.1177/0097700415598538
+mcx.sagepub.com
+
+Chris P. C. Chung1
+
+Abstract
+This article examines the genesis, usage, and meaning of the People’s
+Republic of China’s and the Republic of China’s U-shaped line claim in the
+South China Sea territorial dispute from 1946 to 1974. The Republic of
+China (ROC) officially created the line in 1947, which the People’s Republic
+of China (PRC) then adopted in 1949. Although the PRC claims sovereignty
+over all of the disputed islands and features, it remains silent on what specific
+waters the line claims. Based on ROC national archival files on the line,
+which remain virtually unused by scholars on the dispute, this article argues
+that the line was an “islands attribution” boundary until at least 1974. It
+claimed only the islands, features, and any adjacent waters consistent
+with contemporary conceptions of international maritime law. The article
+concludes with the present-day significance of this history and suggestions
+for future avenues of scholarship.
+Keywords
+South China Sea dispute, U-shaped line, nine-dash line, Spratly Islands,
+Paracel Islands
+
+The South China Sea dispute is among the most pressing issues in Southeast
+Asia and one of the most complex territorial disputes in the world. Six
+1University
+
+of Toronto, Toronto, Ontario, Canada
+
+Corresponding Author:
+Chris P.C. Chung, Department of History, University of Toronto, Room 2074, Sidney Smith
+Hall, 100 St. George Street, Toronto, Ontario M5S3G3, Canada.
+Email: cpcchung@gmail.com
+
+Chung
+
+39
+
+nations—the People’s Republic of China (PRC), Vietnam, the Philippines,
+Malaysia, Brunei, and the Republic of China (ROC, or Taiwan)—vie for control over some or all of the Spratly Islands 南沙群島, Paracel Islands 西沙群
+島, Pratas Islands 東沙群島, and Macclesfield Bank 中沙群島, which consist of well over a hundred islands, reefs, and banks throughout the South
+China Sea. These islands and features are miniscule, inhospitable, hazardous
+to the unwary sailor, and contain negligible economic resources, but they
+matter in other ways. They stand close to one of the busiest shipping routes
+in the world, nearby waters teem with seafood, and the seabed holds potentially massive reserves of oil and natural gas.1
+Political necessity compels disputant governments to firmly maintain their
+claims to these archipelagos and waters. To do otherwise likely would invite
+political suicide from a nationalistically inflamed populace and rivals who
+would seize the opportunity to strike. Hardline stances, provocations such as
+arrests of foreign fishermen, and even violent conflict all have occurred as a
+result.
+The PRC and ROC have staked the most extensive claims to the region.
+Both are embodied by a dashed U-shaped boundary line (sometimes called
+the nine-dash line) that the ROC government originally drew in an official
+map in 1947 and publicly released the following year, titled the Location
+Map of the South China Sea Islands 南海諸島位置圖 (see Map 1 in the
+Appendix). The line encompasses most of the South China Sea. The PRC,
+however, has not officially clarified what the line claims. It asserts ownership over the archipelagos and their “adjacent” and “relevant” waters without specifying their geographical extent and the maritime rights it confers
+on China, leading to much debate (PRC, 2011: 1). Some scholars, such as
+Li Jinming and Zhao Lihai, argue that the line is an “islands attribution
+line,” which only delimits a claim to the disputed islands, features, and
+adjacent waters derived from contemporaneous conceptions of international law (Li, 2011: 60–61; Zhao, 1996: 38).2 Others, such as Fu Kuenchen, Huang Wei, Wu Shicun, and Gao Zhiguo and Jia Bingbing, assert that
+it delimits a “historic rights” waters zone. This confers the sole right to
+economic exploitation, scientific exploration and research, environmental
+conservation, and the construction of artificial islands and installations over
+all of the waters contained within the U-shaped line, on the basis of historic
+Chinese dominance (Fu, 1995: 35–42, 210; Huang, 2011; Wu, 2013: 81–82;
+Gao and Jia, 2012: 108–10, 123-24). Although Fu uses the term “special
+historic waters” 特殊的歷史性水域, he advocates the same rights.
+The PRC’s official ambiguity over the line’s meaning plays a significant
+role in perpetuating the dispute. No meaningful resolution can emerge if it is
+unclear what the PRC claims in the first place. Uncertainty also prompts
+
+40
+
+Modern China 42(1)
+
+Southeast Asian countries and the media to assume the worst: that the PRC
+claims sole rights to exploitation and even to passage regulation across most
+of the South China Sea, as a gigantic historic waters zone (Thanh Nien News,
+2013; Calica, 2013).3 The Philippines’ note verbale of April 5, 2011, for
+instance, denounced the PRC’s claim on the grounds that the line delineated
+the PRC’s “relevant waters as well as the seabed and subsoil thereof” (Thang
+and Nguyen, 2012: 42; Government of the Philippines, 2011a). These countries’ adoption of defensive measures such as an arms build-up, alliance making, and encouragement of the United States’ involvement in the region alarm
+the PRC and lead it to believe that foreign powers are conspiring to contain
+it. Hence, the PRC has escalated its hardline measures.
+This article examines the historical origins and meaning of the line in an
+effort to clear up this vagueness. It does so by analyzing the archival evidence
+surrounding the formation of the official U-shaped line map from 1946 to
+1948 and its usage by the ROC and PRC since then. These archival files,
+located in Taipei, remain virtually unused by either Chinese or Englishlanguage scholarship on the line. Many of the files were declassified in 2008
+and 2009. They argue strongly for the islands attribution stance, as does the
+PRC’s early usage of the line.
+The three collections of archival files examined constitute most, if not all,
+of those written during the formation of the U-shaped line: the Military
+History and Translation Office of the Ministry of National Defense 國防部史
+政編譯局, the Ministry of the Interior 内政部, and the Ministry of Foreign
+Affairs 外交部.4 The Republic of China National Archives Administration,
+National Development Council 國家發展委員會檔案管理局 holds the first
+two collections, while the Archives of the Institute of Modern History at the
+Academia Sinica 中央研究院 holds the third.
+Some points about terminology must be mentioned. First, “China” in this
+article refers to the official representative government of that country in the
+world at any given point in time: the Qing government during the Qing
+dynasty (1644 to 1912), the Republic of China during the Republican era
+(1912 to 1971, when the ROC lost its seat in the United Nations),5 and the
+People’s Republic of China from 1971 onward. The appellations “PRC” and
+“ROC” will be used when more specificity is required. Second, this article
+will only use non-pinyin romanization systems when citing authors or figures
+whose legal or preferred names are not written in pinyin. It will use traditional Chinese characters, except for names and titles of works originally
+written in simplified Chinese. Third, all the maps discussed in the article can
+be found in the Appendix. Fourth, “historic rights waters” is a conceptual
+term. It refers to maritime zones to which states, as some scholars argue, possess “historic rights.” It does not appear in the United Nations Convention of
+
+Chung
+
+41
+
+the Law of the Sea (UNCLOS), the dominant piece of international maritime
+law today (United Nations, 1982). Finally, the term “historic rights” focuses
+exclusively on four themes: economic exploitation, scientific research, the
+construction of artificial islands and installations, and environmental conservation. All historic rights’ scholars agree on their centrality.
+At first glance, Fu Kuen-chen and Wu Shicun appear to advocate historic
+rights that encompass more than these four themes. Fu supports China’s “right
+to control maritime and aerial traffic” within the U-shaped line 航海, 航空交
+通管制的權利 (Fu, 1995: 210). Likewise, Wu argues for China’s right to “designate routes” 航道劃定 within these historic rights waters (Wu, 2013: 81–82).
+However, both strictly dissociate historic rights waters from maritime zones
+that confer comprehensive control. Using analogous international legal concepts, they limit regulation to traffic that violates the four historic rights themes.
+Fu maintains that historic rights waters are neither internal nor territorial
+waters, partly because China has never protested against foreign traffic there
+(Fu, 1995: 34–38). Internal waters stretch landward from a coastal state’s
+baselines.6 The state possesses all rights to the water column, seabed, and
+airspace as it would with land territory, such as the exclusion of any foreign
+traffic. Territorial waters extend 12 nautical miles (nm) seaward from a state’s
+baselines.7 Foreign vessels and aircraft may traverse them only if their passage is continuous and “innocent,” meaning it is “not prejudicial to the peace,
+good order or security of the coastal state.” Otherwise, the state holds significant regulatory powers, such as designating sea lanes for the safety of navigation (United Nations, 1982: Articles 17–22).
+Similarly, Wu asserts that China’s historic rights are neither
+an entirely exclusive and all-encompassing sovereignty . . . nor [a] purely nonexclusive [one]. . . . The content of [historic] rights should be [made] applicable
+to the corresponding analogy of the exclusive economic zone [EEZ] and
+combined according to history. (Wu, 2013: 81–82).
+
+In other words, Wu argues that the content of historic rights is analogous to
+rights inherent in an exclusive economic zone. Claimants should use history
+to determine where to apply historic rights.
+EEZs are maritime zones that extend up to 200 nm seaward from a coastal
+state’s baselines. EEZ privileges are identical to the four historic rights
+themes: the sole right to exploit resources, conduct scientific research and
+exploration, protect and preserve the marine environment, and construct
+artificial islands and installations (United Nations, 1982: Articles 55–75).
+Article 58 of UNCLOS limits traffic regulatory powers to these rights. It
+confers freedom of navigation and overflight in the high seas to all foreign
+vessels and aircraft that traverse EEZs, provided they “have due regard” for
+
+42
+
+Modern China 42(1)
+
+the coastal state’s rights and duties there (United Nations, 1982: Articles 58).
+Wu’s analogizing extends this restriction to claimed historic rights waters.
+It is possible that Wu ties historic rights traffic regulation to Chinese
+interpretations of EEZs. One is unconventional: the regulation of foreign
+military vessels conducting military activities. For instance, on March 8,
+2009, five PRC vessels disrupted USNS Impeccable’s military surveillance
+operations and passage within Hainan’s EEZ. PRC Foreign Ministry spokesman Ma Zhaoxu denounced the surveillance ship for “conduct[ing] activities in China’s special economic zone in the South China Sea without China’s
+permission” (Xinhua News, 2009). Yet, this view is not the focus on the four
+historic rights themes. It merely shows that Wu’s vision of historic rights
+traffic regulation is tied to a disputed legal interpretation of the high seas.
+Countries that assert EEZ military regulations, such as India, Myanmar,
+Indonesia, Portugal, and China, commonly hold that military activities are
+not for “peaceful purposes.” Thus, they abuse the freedom of the high seas
+that Article 58 of UNCLOS confers (Kraska and Pedrozo, 2013: 238–40;
+Rahman and Tsamenyi, 2013: 324–28; Zou, 2002: 459–68). Wu’s analogizing applies this high seas interpretation to claimed historic rights waters.
+
+Sovereignty and Development in the South China
+Sea Islands after the Second World War
+The earliest archival files examined in this article were written in 1946, which
+marked a continuance of the scramble for the South China Sea islands. Japan’s
+wartime occupation of the archipelagos had only suspended a prior contest in
+the 1930s between France, Japan, and the ROC (Granados, 2008: 132–40;
+Samuels, 1982: 55–64). Immediately after the war, the ROC was determined
+to “reassert” and “protect” its sovereignty over these islands from foreign
+“infringement.” On September 25, 1946, representatives of the Ministry of
+Foreign Affairs, Ministry of the Interior, Ministry of National Defense, and
+ROC Navy General Headquarters 海軍總司令部 (NHQ) convened in the
+Ministry of the Interior to resolve several issues pertaining to the South China
+Sea islands (MOFA, file series 019.3/0012, files 097 and 098). The minutes
+listed each issue and the resolution agreed upon. The first topic, the most significant, determined the scope of what the ROC would claim in the South
+China Sea:
+Resolved matters:
+1. The case of how to delimit the scope of what is to be received [from Japan]
+for the purpose of reclaiming [lit., “receiving”] each of the islands in the South
+China Sea.
+
+Chung
+
+43
+
+Resolution: As according to the scope shown in the Ministry of the Interior’s
+copy of the Location Sketch Map of the South China Sea Islands 南海諸島位
+置略圖. After the Executive Yuan has checked and approved [the scope], it will
+order the Guangdong provincial government to comply [and carry it out].
+(MOFA, file series 019.3/0012, file 097)
+決議事項：1. 接收南海各島應如何劃定接收範圍案。決議：依照内政部
+擬製之「南海諸島位置略圖」所示範圍呈由。行政院核定令廣東省政府
+遵照。
+
+The dual use of the verb “to receive” 接收 reflected the ROC’s view that the
+islands were originally theirs. It was “reclaiming” them from Japan, which
+had recently surrendered.
+This passage clearly conveys the ROC government’s view of the U-shaped
+line. It referred solely and directly to the Location Sketch Map of the South
+China Sea Islands—the 1946 U-shaped line map that led to the official version the following year (Map 2 in the Appendix)—when demarcating the area
+that was to be under Chinese sovereignty.8 However, all of the area within the
+U-shaped line was not to be ROC territory. The above passage merely defined
+the islands to be reclaimed: “the scope of what is to be received for the purpose of receiving each of the islands of the South China Sea” (italics added)
+(“接收南海各島應如何劃定接收範圍案”). Mention of matters pertaining
+to the waters around the islands is absent. The remaining six resolutions of
+the conference concerned other details about the islands, such as the physical
+expression of Chinese sovereignty or the approval of translations of the
+names of these islands (MOFA, file series 019.3/0012, files 097 and 098).
+The U-shaped line, in other words, was created solely to delineate China’s
+sovereignty over the land of the islands and other features.
+This resolution was adopted in late 1946, when ROC Commanding Officer
+Lin Zun and Captain Yao Ruyu led several naval expeditions to formally
+“reclaim” the South China Sea islands from the Japanese. Despite repeated
+delays in mid-November due to stormy weather, the main islands were
+secured the following month. ROC troops landed on Woody Island of the
+Paracels on November 28, 1946, and Itu Aba Island of the Spratlys on
+December 12, 1946 (MHTO, file series 0035/061.8/3030, files 002/001/0002
+and 002/003/0002; MOI, file series 0036/E41502/1, file 0005/007/0001;
+MHTO, file series 0036/002.2/4022, file 001/001/0005).
+These expeditions further constituted the basis for the official U-shaped
+line of 1947. The “recapture” of these islands led to government discussions
+about the need for a clear expression and protection of sovereignty over the
+islands. Situation reports—surveys of the islands describing their geographic
+coordinates, topography, vegetation, resources, personnel, buildings,
+
+44
+
+Modern China 42(1)
+
+histories, and almost always recommendations for future actions—began to
+call for increased garrisons and construction on the islands. For instance, the
+Report on the Reconnaissance of the Paracel Islands in the South China Sea
+南海西沙群島勘察報告書, written by the ROC Air Force General
+Headquarters 空軍總司令部 and issued on December 25, 1946, recommended that more naval personnel be dispatched to safeguard the islands
+(MHTO, file series 0035/944/1060, file 001/001/0007). On February 4, 1947,
+the Report on the Reconnaissance of the Spratly Islands in the South China
+Sea 南海南沙群島勘察報告書 noted that “the Chinese navy has already sent
+a platoon of soldiers to garrison the islands and set up weather observation and
+radio stations to prevent foreigners from coveting, invading, and occupying
+the islands” (MHTO, file series 0035/944/1060, file 001/002/0007). It recommended building a 1,200 meter air strip on Itu Aba Island and envisioned turning the archipelago into a string of “island bases in the South China Sea, akin
+to American bases in the Pacific Ocean” (MHTO, file series 0035/944/1060,
+file 001/002/0007).
+The ROC government soon held plenary meetings to discuss plans to
+develop the islands in order to “safeguard” national defense. The Ministry of
+National Defense sent a report— File on Increasing Defense and Building
+Facilities in the Paracel Islands for Ensuring the Protection of Sovereignty
+[over the Islands] and the Strengthening of National Defense 加強建設西沙
+群島力保主權而固國防案—of one such meeting to the Executive Yuan on
+June 14, 1947. It recommended increasing the ROC’s military presence in the
+South China Sea islands by garrisoning troops “wherever possible in the
+archipelagos”; protecting fishermen who “come from Hainan Island and go
+to the islands” to fish; “vigorously constructing” lighthouses, weather stations, and radio stations; improving food and water equipment; deciding on
+the islands’ system of governance; investigating several aspects of the islands
+such as soil quality, weather, marine resources, and governance in order to aid
+the development of facilities there; and compiling research about the islands
+to expound Chinese sovereign rights and impress their importance on the
+Chinese population (MHTO, file series 0035/061.8/3030, files 005/012/0009
+to 0011). The ROC supported the garrisoning and development of the South
+China Sea islands in order to show the world that they were theirs, actions
+that led to the official promulgation of the U-shaped line.
+These files again strongly support the island attribution line. They focus
+almost exclusively on matters pertaining to the islands’ land territories. While
+the plans for development were never completed because of the Chinese
+Civil War (1946–1950), the ROC nevertheless strove to assert ownership
+over the land territories of the archipelagos for the explicit purpose of
+“reclaiming,” demonstrating, and protecting its sovereignty from foreigners
+
+Chung
+
+45
+
+(Granados, 2006a: 173–74). The same cannot be said for the waters around
+the islands. Neither report made any mention of plans for naval protection
+over a large special waters zone of any kind. There were only two, and rare,
+exceptions to the absence of maritime affairs in the archival files. The first
+was the establishment of naval patrols in order to safeguard supplies to troops
+stationed on the islands, as distinct from those established to protect a waters
+zone (MHTO, file series 0035/061.8/3030, file 005/012/0010). These patrols
+simply were meant to escort supply ships. The second exception was the
+protection of Chinese fishermen. For instance, as the File on Increasing
+Defense and Building Facilities in the Paracel Islands advocated, the ROC
+government was to “implement immigration [to the islands] for fishermen
+who regularly and seasonally travel from Hainan to the Paracel and Spratly
+archipelagos to fish, and provide greater protection of their fishing permits”
+(MHTO, file series 0035/061.8/3030, file 005/012/0010). To “provide greater
+protection of their fishing permits,” the ROC navy was to ensure that no one
+challenged the fishermen’s activities.
+Although such reports did not specify the exact scope of fishing waters to
+be guarded by the ROC navy, only “fishermen who went to the Paracel and
+Spratly Islands from Hainan to catch fish” were to be protected (“對於我國
+. . . 來往西南沙群島捕水產之瓊州漁民應加保護獎助.” Qiongzhou 瓊州
+was the old term for Hainan Island). This passage, coupled with the ROC’s
+focus on the islands’ land territory, strongly indicates that Chinese fishermen
+stayed close to the islands and did not routinely venture into the vastness of
+the South China Sea. This interpretation fits the ROC’s contemporary conception of waters zones. At the Hague Codification Conference of 1930, the
+last international meeting to discuss the standardization of the scope of territorial waters before the creation of the U-shaped line maps, the ROC supported a three nautical mile territorial waters zone and a twelve nautical mile
+contiguous waters zone beyond it (Koh, 1987: 7–8). The ROC government
+officially implemented the former zone in 1931, the latter in 1934, and
+allowed fishing within both despite the conference having never reached a
+consensus (Chiu, 1975: 38–41; Granados, 2006a: 167). It did not support any
+other waters zone beyond these two until the concept of the continental shelf
+zone was first discussed internationally in the UN Geneva Convention of
+1958. That the scope of protection of fishermen was not specified in any
+archival document, especially those focused on increasing the ROC’s defense
+and development of the islands, compromises any argument that the ROC at
+this time held a historic rights waters view.
+It is doubtful that the minutes of the September 1946 conference, the summaries of other meetings convened on the issue, and the situation reports in
+the ROC archival collections would leave out reference to a special waters
+
+46
+
+Modern China 42(1)
+
+zone as massive as the U-shaped line, if one existed. Two express purposes of
+these documents and meetings were, first, to define the geographical scope of
+what was to be Chinese, and second, to specify what areas were to be developed and how, with the deliberate aim of asserting and “protecting” Chinese
+sovereignty. The September 1946 conference, furthermore, eliminates
+another possibility: that a historic rights waters zone could have emanated
+from the mainland and not from the South China Sea islands, thus explaining
+the absence of references to special waters zones in the archival files. As the
+September 1946 conference summary showed, the ROC purposely created
+and used the U-shaped line to encompass all matters pertaining to the islands.
+One cannot dissociate a historic rights waters zone from the islands, since the
+waters were represented by the line, whose existence hinged on those insular
+features. Any historic maritime zone as delineated by the U-shaped line must
+emanate from the South China Sea islands, as must any discussion of the
+idea. Even authors who support a historic rights claim, such as Fu and Huang,
+indirectly admit this much, as they unfailingly assert that the line represented
+and enforced a waters zone in addition to showing Chinese sovereignty over
+the islands (Fu, 1995: 204–10; Huang, 2011).
+Similarly, plans to develop marine resources shortly after the genesis of
+the U-shaped line also focused exclusively on the islands. In March 1950,
+the Hainan Fisheries Authority submitted a report to the NHQ, titled The
+Hainan Fisheries Authority’s Pilot Project on the Development of Marine
+Resources in the Paracel Archipelago 海南特區水產管理局西沙群島水
+產開發試驗計劃. It proposed four objectives in expanding the exploitation
+of resources in the waters around the islands. The first three were to process
+useful marine fauna; relieve unemployed fishermen by resuming development of marine resources; and “clearly understand” the Paracel and Spratly
+archipelagos and plan their future development. The fourth “objective”
+comprised four points, some redundantly listed: increase revenue, cultivate
+marine resources, improve the islands’ infrastructure,9 and carry forward
+the Hainan Fisheries Authority’s business plans for the islands. It described
+the funds and equipment required for the proposal, conditions of investment, and plans for radio communication between fishermen and the islands
+(MHTO, file series 0035/061.8/3030, files 007/013/0011 to 0014). The proposal did not mention protection of Chinese fishermen nor a special waters
+zone to be enforced by the ROC navy. The first two objectives were silent
+on the specific area of fishing. In contrast, the third and fourth objectives
+solely and repeatedly referred to the development of the islands’ land territories so as to support fishing nearby. The project merely envisioned an
+intensification, not an expansion in geographic scope, of the exploitation of
+marine resources.
+
+Chung
+
+47
+
+Granted, nearly all ROC naval forces stationed on the South China Sea
+islands had been transferred to Taiwan by June 1949, to defend it against an
+expected PRC invasion. Yet, a small military presence remained on the islands
+until May 1950, two months after the Pilot Project was drafted (Granados,
+2006a: 160, 162). This decrease cannot account for the absence of well-defined
+limits of maritime jurisdiction and protection in the plan. On April 12, 1950, the
+NHQ sent a telegram to the Hainan Fisheries Authority suggesting modifications to the Pilot Project. One proposed that five percent of “profits” go toward
+the welfare of naval units that provide assistance to the islands as well as
+“rewards” for garrison troops (“盈利部分提百分之五應改爲海軍協助單位
+福利金及駐島官兵犒賞費”) (MHTO, file series 0035/061.8/3030, files
+007/014/0002 to 0003). The source of these “profits,” although unspecified, was
+likely the development of the islands, given the telegram’s purpose of providing
+modifications to the March plan. The ROC evidently remained confident in the
+future development of the islands and the military’s ability to protect them.
+ROC diplomatic protests made after the release of the U-shaped line
+further support the islands attribution argument. The ROC only protested
+against “infringements” of sovereignty over the islands’ land territories, not
+its waters. One example provides a telling distinction between the islands’
+land and maritime jurisdictions and their importance to the ROC government. On April 13, 1949, ROC ambassador Chen Chih-Ping raised with
+Felino Neri, the Filipino undersecretary of foreign affairs, the issue of
+newspaper articles that stated that the Filipino government planned to send
+Commodore Jose Andrada to inspect Itu Aba Island. One article in particular reported that “some cabinet members suggested that their people be
+induced to settle there [on Itu Aba] preparatory to making a claim for the
+annexation of this group to the Philippines, if necessary, as a security measure.” Chen requested confirmation of the veracity of these statements and
+emphasized that “Taiping [i.e., Itu Aba] Island is the territory of the
+Republic of China.” Neri’s reply on May 11 reassured Chen that there was
+no cause for worry: “In the meeting referred to, the Cabinet simply discussed the need for affording greater protection to Filipino fishermen who
+are reportedly operating in the waters surrounding Itu Aba” (MOFA, file
+series 019.3/013, files 038 and 039).
+Both Chen’s and Neri’s letters indicated that the islands’ land territories
+were the main concern of the ROC government. Chen worried that the
+Filipino cabinet had authorized an inspection of Itu Aba Island and discussed
+the settlement of Filipino fishermen there, thus “infringing” on the ROC’s
+sovereignty. Neri recognized Chen’s concern, and through the word “simply”
+denied the validity of the newspaper reports. Neri, however, clearly thought
+the presence of Filipino fishermen “operating in the waters surrounding Itu
+Aba Island”—well within the limit delineated by the U-shaped line—was not
+
+48
+
+Modern China 42(1)
+
+an issue. He never mentioned maritime jurisdiction, which presumably he
+considered a relatively trivial matter.
+Chen never replied to Neri’s response, which suggests that the Filipino
+explanation satisfied the ROC. The ROC did not issue any diplomatic protests against the Philippines involving sovereignty issues in the South China
+Sea region until late May 1956, after a Filipino citizen, Thomas Cloma,
+informally proclaimed the formation of Kalayaan, or “Freedomland,” over
+some of the Spratly Islands to the Filipino and world press on May 15
+(Samuels, 1982: 82).10 The ROC responded by sending three expeditions to
+reclaim the Spratly Islands from June 1 to September 24, 1956—ROC garrisons on the islands earlier had been recalled to defend against an anticipated Communist invasion of Taiwan (Samuels, 1982: 84). In short, for the
+ROC, it was the islands that were the key aspect of the South China Sea
+archipelagos, not the exclusion of foreign fishermen from the surrounding
+waters. The ROC did not consider the waters of the U-shaped line as providing special rights.
+Like Freedomland, the “Kingdom of Humanity” was also a foreign threat to
+“Chinese sovereignty” over the islands. Although private American citizen
+Morton Meads’ attempt to establish an independent country over part of the
+Spratlys was seen as bizarre or comical by most of the international community—Filipino naval and air searches for the kingdom using coordinates provided by Meads proved fruitless—the ROC treated the affair seriously (MOFA,
+file series 019.3/0003, files 045 to 046). On July 9, 1955, Chow Shu-Kai, ROC
+chargé d’affaires ad interim in Manila, notified Filipino vice president Carlos
+Garcia, who also was serving as the Filipino secretary of foreign affairs, that the
+ROC was
+conducting [an] investigation in the waters around the Spratley Islands [sic] in
+connection with alleged violation of Chinese territory by the so called
+“Kingdom of Humanity.”
+According to information emanating from the “Consul” in Manila of said
+“Kingdom” [i.e., Meads11], the “Kingdom’s” territory appears to be so
+delineated as to include the Spratley Island Group, which constitutes part of the
+territory of the Republic of China. The Chinese Government has therefore
+initiated action to conduct [an] investigation in said area with a view of
+determining whether infringement on Chinese territorial rights has been
+committed by the said “Kingdom.” It would be appreciated if Your Excellency
+would kindly acquaint pertinent authorities of the Philippine Government with
+this effect. (MOFA, file series 019.3/0003, file 077)
+
+This statement did not constitute a direct diplomatic protest to Manila, as
+Meads was acting on his own. Chow was simply informing Garcia of
+Chinese naval activity in the Spratlys as a result of information on Meads
+
+Chung
+
+49
+
+that it received from the Philippines. It may, however, have been an indirect
+warning, as former Filipino senator Camilo Osías openly believed that the
+Kingdom existed and the Philippines should establish diplomatic ties with it
+(MOFA, file series 019.3/0003, file 046). Osías was the only significant
+politician in his country to take Meads’ claim seriously. Chow may have
+aimed to dissuade the Philippines from annexing the Kingdom by reiterating
+China’s claim to the Spratlys. In any case, the focus again was solely on the
+islands’ land territory. While the ROC’s investigation was conducted in the
+waters surrounding the islands, its purposes were to ensure that its sovereignty on the islands was not infringed and to prevent further incursions by
+foreigners.
+
+Japan’s Administration of the South China Sea
+Islands and Their Postwar Transfer to China
+The post–Second World War transfer of sovereignty over the islands from
+Japan to China presents certain possibilities that could undermine the islands
+attribution line argument.12 By March 30, 1939, Japan had militarily occupied the Pratas, Paracel, and Spratly Islands. The next day, it formally proclaimed the creation of the Shinnan Guntō 新南群島 (New South
+Archipelago), an administrative area covering a portion of the Spratlys and
+incorporated under Taiwan province (Granados, 2008: 138). ROC archival
+files on the South China Sea islands include a map of this administration. Its
+boundaries were solid and encompassed a significant area of water. Its seven
+corners possessed specific geographic coordinates, contained within the
+range of 7–12° N and 111–117° E (MOFA, file series 019.3/0012, file 066).13
+Plausibly, the boundary encompassed the Shinnan Guntō’s waters, indicating
+that the zone conferred certain exclusive maritime rights. However, no written document directly verifies this assumption.
+Nevertheless, irrespective of the nature of the Shinnan Guntō’s boundaries, the postwar transfer of Japan’s wartime administration of the islands to
+China could not have contributed to a historic rights waters zone as delineated by the U-shaped line. If the Shinnan Guntō’s boundaries simply denoted
+an islands attribution line, there would be no waters to hand over to the ROC
+in the first place when China reacquired Taiwan province after the war. If the
+Shinnan Guntō’s boundaries did denote a waters zone, this was lost in the
+postwar transfer to China. The Shinnan Guntō factored into the formation of
+the U-shaped line because of the islands it encompassed, not because it conferred a delineated sea zone. As a telegram order that the Ministry of Foreign
+Affairs sent to the NHQ on August 5, 1946, indicated, the ROC was simply
+preparing to take back the islands of the Shinnan Guntō it thought were
+
+50
+
+Modern China 42(1)
+
+originally its own. It sought to clarify whether they were the same as those of
+Tizard Bank, or the Tuansha Islands 團沙群島 (MOFA, file series 019.3/0012,
+file 014).14 In December 1946, the ROC dropped the Tuansha appellation and
+subsumed the area within the Nansha, or Spratly archipelago (MOFA, file
+series 019.3/0013, file 030).
+The report resulting from the telegram listed the islands individually and
+gave general descriptions of them, with no mention of any waters zone. It
+concluded that the Tuansha constituted only one part of the Shinnan Guntō,
+meaning the two were not identical (MOFA, file series 019.3/0012, files 014,
+016 to 019). Besides the ROC’s sole focus on the islands, these files show
+that it was not interested in inheriting the Shinnan Guntō administration.
+Rather, the ROC sought to restore what it thought was the prewar administration of the Tuansha by reclaiming the Shinnan Guntō islands that coincided
+with the former. These files undercut any argument that the ROC inherited
+the waters delineated by the boundaries of the Shinnan Guntō.
+The ROC’s main goal of restoring the prewar Tuansha administration
+strongly indicates the U-shaped line’s islands attribution character in another
+way. No official Chinese maritime boundaries delineating sovereignty over
+waters existed in the islands region before the Second World War, including
+the Tuansha administration and the claims of prior dynasties it was based
+on.15 Consequently, China had no historic rights waters to inherit after the
+war. Precursor maps of the U-shaped line existed from the 1910s to 1930s,
+but the ROC government never officially endorsed them for release. Hu
+Junjie, a Chinese cartographer, drew the first such map in 1914, which
+included only the Pratas and Paracel islands. Maps of the region largely continued this pattern until the mid-1930s. In 1935, the ROC Land and Water
+Maps Inspection Committee 水陸地圖審查委員會 created the Map of
+Chinese Islands in the South China Sea 中國南海各島嶼. It placed the
+southernmost edge of China’s maritime boundary at 4° north latitude, thus
+incorporating the Spratly Islands and James Shoal. Bai Meichu, another
+prominent Chinese geographer, drew the last notable map on the eve of the
+Sino-Japanese War in 1936, the Map of Chinese Domain in the South China
+Sea 海疆南展後之中國全圖. It did not include a boundary line (Zou, 2007:
+88–89).
+Records from the Qing dynasty indicate that China did not claim or exercise a long-standing dominance of the waters in the center of the South China
+Sea, as would be needed to substantiate a historic rights waters zone.16
+Mentions of the islands were sparse, brief, and merely demonstrated that
+China was aware of their existence. An example is Chen Lunjiong’s Records
+of Sights and Sounds of the Maritime Countries 海國聞見錄, an official compendium of geographies, locations, and maritime routes to many foreign
+
+Chung
+
+51
+
+kingdoms. Completed in 1730, it was the first Qing work to mention the
+islands:
+[Sailing] by oneself in the Greater Qizhou Sea 七州大洋:17 The beginning of
+the sea lies off [of Hainan Island]. The waters here are lively and swing back
+and forth. There is a ridge of mountains marking the start of the Qizhou Sea 七
+州洋.18 Sail with the correct compass bearings and with strong yet smooth
+winds. Six to seven days are needed for one to cross [the Qizhou Sea], after
+which one will be able to spot Tiebiluo 呫嗶囉 [present-day Cham Islands],
+which lies off the coast of Guangnan 廣南 [Vietnam]. To the east, one will
+encounter 犯 the Wanli Changsha 萬里長沙 [the Paracels] and Qianli Shitang
+千里石塘 [the Spratlys]. To the west are currents that flow into Guangnan Bay
+[the Gulf of Tonkin]. Without a western wind, one cannot leave this area.
+(Chen, 1984: 120)
+
+Chen simply described the islands’ locations, their use as sea-route landmarks, and the directions needed to sail there. The islands, however, were
+not intended to be traveled to. Chen noted only that if one strayed east
+from his described route, these islands would be “encountered.” The corresponding Chinese character, 犯 (fan), normally denotes “illegality,”
+“trespassing,” and “violating,” indicating that the Qing regarded the
+islands as locations to be avoided. All subsequent Qing texts that mentioned the South China Sea islands repeated Chen’s focus on description,
+such as Yan Ruyou’s Essentials of Maritime Defense 洋防輯要 of 1838
+and Wei Yuan’s Illustrated Gazetteer of the Maritime Countries 海國圖志
+of 1847 (Samuels, 1982: 40). There is no mention of dominance over the
+waters surrounding the islands.
+Qing naval defense manuals and travel chronicles, far from considering
+these archipelagos as areas to be patrolled by the Qing navy, commonly
+warned sailors to stay away from them. For instance, Lu Kun and Deng
+Tingzhen’s Compendium on the Maritime Defense of Guangdong 廣東海防
+彙覽, completed in 1838, wrote of the “extreme danger” 極險 one would
+encounter when deviating into the area (Lu and Deng, 2009: 969). Yang
+Pingnan’s Maritime Records 海錄, written in 1844, was especially vivid:
+Ships that stray into [the Wanli Changsha 萬里長沙, or Paracels] cannot return
+due to these floating sands. Many ships are destroyed here. Sailors who
+encounter this fate have no choice but to lie on wooden planks [i.e., the flotsam
+of their shipwreck] and spend many days floating toward the sands. . . . To the
+south of the Qizhou Sea is the Qianli Shitang 千里石塘 [the Spratlys]. Here,
+there are a great many terrible and furious waves. If ships stray into this area,
+they will be smashed to pieces. (Yang, 1984: 265–66)
+
+52
+
+Modern China 42(1)
+
+Shallows, storms, and frequently changing winds and currents that can push
+boats toward the islands and submerged features characterize the area,
+prompting Yang to remark that ships that stray there cannot escape (United
+States National Geospatial Intelligence Agency, 2004: 3–14). Sailors had
+known of these dangers for centuries. As Granados and Samuels note, major
+trading routes avoided the hazardous center of the South China Sea (Granados,
+2006b; Samuels, 1982: 23). The most used route hugged the coastline of
+southeast China and eastern Vietnam, down south to the coasts of Thailand,
+Indonesia, and Malaysia. This absence of historic domination over almost all
+of the South China Sea attenuates any claim to a transfer of sovereignty that
+could lead to a historic rights waters zone within the U-shaped line.
+
+Physical Characteristics of the U-Shaped Line
+Another topic that merits close examination concerns the appearance and
+physical characteristics of the U-shaped line in its three major manifestations: the 1946 and 1947 versions of the Location Sketch Map of the South
+China Sea Islands and the official 1947 Location Map of the South China Sea
+Islands, which was later publicly released in 1948 (see Maps 1, 2, and 3 in the
+Appendix). The way the line was drawn supports the conclusion that it was
+an islands attribution line, not a historic rights waters zone.
+Chinese scholars often state that the U-shaped line was an equidistant
+marker between China and neighboring states. As Li Jinming and Li Dexia
+note, Wang Xiguang, an ROC official who helped formulate the U-shaped
+line, stated that “the dotted national boundary line was drawn as the median
+line between China and adjacent states” (Li and Li, 2003: 290). A line equidistant to the shores of countries claiming the same waters can suggest a maritime boundary. Such a line was one of many basic methods of compromise
+between competing spheres of maritime sovereignty at the time. Indeed, the
+distances between the southeasternmost Spratly Islands, the U-shaped line,
+and Borneo and Palawan Island, are roughly equidistant in the U-shaped line
+maps. However, this equidistance principle did not feature in most of the
+U-shaped line, such as between Macclesfield Bank and the Philippines and
+between the easternmost Spratlys and the southeastern coast of Vietnam (see
+Maps 1, 2, and 3 in the Appendix). In these cases, the distance from the
+U-shaped line to the nearest land feature was either much shorter or longer
+compared to that of the opposite side of the same section of the line. Hence, it
+is problematic to claim that the U-shaped line was a maritime boundary
+because of its employment of the equidistance principle.
+Virtually all scholars of the South China Sea dispute, moreover, overlook
+another noteworthy feature. On all three maps of the U-shaped line, an
+
+Chung
+
+53
+
+inconspicuous section branches off from the main boundary line and sits
+between the southern tip of Palawan Island of the Philippines and northern
+Borneo (see Maps 1, 2, and 3 in the Appendix).19 This section was attached to
+and marked identically with the same pattern as the rest of the boundary,
+using a series of dots, lines, and in the two 1947 maps, incomplete circles.
+What it denotes thus presumably held true for the rest of the U-shaped line.
+This segment of the line clearly did not delineate a maritime boundary. It
+extended eastward into and past the Philippines’ border with northern
+Borneo, as defined in the Filipino constitution of 1935. According to the
+government of the Philippines, the nation’s boundaries stemmed from the
+“Philippine Treaty Limits,” based on three treaties: the Treaty of Paris
+between Spain and the United States of December 10, 1898; the Treaty of
+Washington between Spain and the United States of November 7, 1900, and
+the “Convention between the United States of America and Great Britain
+Delimiting the Boundary between the Philippine Archipelago and the State
+of North Borneo” of January 2, 1930. The last is the most recent and relevant
+treaty concerning the boundary between North Borneo and the Philippines
+(Bautista, 2011: 37–39).20
+Granted, the boundary set by this treaty appeared to have been only an
+islands attribution line. It established “the line separating the islands belonging to the Philippine Archipelago on the one hand and the islands belonging
+to the State of North Borneo which is under British protection on the other”
+(Government of the Philippines, 1930). The treaty did not specify “waters” of
+any sort. Only in 1961 did the Filipino government officially declare that its
+territorial waters lay between its straight baselines and the boundaries set by
+the “Philippine Treaty Limits” (Government of the Philippines, 1961).
+Nevertheless, if the boundary set by the 1930 convention had indicated
+only the islands of the Philippines and Borneo and not their waters, the same
+conclusion would hold. As Tommy Koh notes, for over a hundred years
+before the Second World War, Great Britain was a champion of the three
+nautical mile limit concept for territorial waters (Koh, 1987: 9). It constantly
+strove to maintain this range unless agreed otherwise in special arrangements
+with foreign states. Two months after the U.S.–Great Britain Convention of
+1930, Britain reiterated this stance in the Hague Codification Conference
+(Koh, 1987: 7–8). This international conference was the first and last of its
+kind to address the scope of a nation’s waters before the creation of the
+U-shaped line maps. The segment of the U-shaped line in question, however,
+did not reflect such long-established maritime borders. According to the distance conversion scale provided by the three U-shaped line maps, the segment of the U-shaped line between British-held Borneo and the Philippines
+lay roughly 25 km, or 13.5 nm, from the nearest coast of either state, far past
+
+54
+
+Modern China 42(1)
+
+the three nautical mile mark (see Maps 1, 2, and 3 in the Appendix). Whether
+the Philippine Treaty Limits denoted a waters zone in 1946 and 1947 is
+inconsequential. In either scenario, this segment of the U-shaped line did not
+conform to any maritime boundary or principle previously recognized in the
+region, whether by the United States, Great Britain, or the Philippines.
+In contrast, arguably the ROC drew this segment of the U-shaped line
+merely to specify where the land of the Philippines ended and that of Borneo
+began. They possessed islands that were close to each other, particularly the
+three visible in the U-shaped line maps: Balabac, Banggi, and Balambangan
+(see Maps 1, 2, and 3 in the Appendix). The U-shaped line correctly marked
+as Filipino the same islands established by the 1930 convention. This segment of the line, furthermore, does not extend longitudinally past the western
+half of the width of Palawan Island. Why it was cut short and not enclosed
+can best be explained by the ROC’s main preoccupation with denoting which
+islands were whose via the U-shaped line from China’s viewpoint. The digression of the line from the main U-shaped body was extended just enough to
+serve a useful purpose: to avoid confusion in the map. This argument again
+supports the islands attribution line. Carried over to the rest of the U-shaped
+line, this underlying intent would explain especially those parts that were
+equidistant from neighboring lands, such as between the South China Sea
+islands and Palawan and Borneo, where the two groups lay close to each
+other and had to be divided for demarcation purposes.
+
+The 1945 Truman Proclamation and Continental
+Shelf Zones
+It would be unconvincing to argue that the archival files did not mention a
+historic maritime zone around the islands simply because waters zones had
+not yet been internationally standardized and were seen as a natural extension
+of the land and hence did not merit mention. Although the Hague Codification
+Conference of 1930 did not produce an international standardization of territorial waters, countries nevertheless thereafter unilaterally specified maritime
+borders. On September 28, 1945, for instance, the United States proclaimed
+the “1945 US Presidential Proclamation No. 2667, Policy of the United States
+with Respect to the Natural Resources of the Subsoil of the Sea Bed and the
+Continental Shelf.” Also known as the Truman Proclamation of 1945, this
+document broke precedent in international law by unilaterally declaring an
+extended fisheries protection and continental shelf zone (Government of the
+United States of America, 1945). Several other countries followed suit, such
+as Saudi Arabia and Kuwait in 1949; Chile, Ecuador, and Peru in 1952; Israel
+in 1953; Iran in 1955; and Venezuela in 1956 (Suarez, 2008: 28–29). This
+
+Chung
+
+55
+
+trend led to a convention on continental shelves in the First United Nations
+Conference on the Law of the Sea, held in Geneva on April 29, 1958 (Suarez,
+2008: 29). By no means were countries uninterested in defining the scope of
+their waters around the time of the creation of the U-shaped line.
+The ROC was no exception. It officially announced the extent of its maritime
+boundaries in 1931 and 1934, before the creation of the U-shaped line. Yet, a
+historic rights waters zone as massive as the area within the U-shaped boundary
+would have broken precedent with the ROC’s existing borders and the whole
+world. The line was created at a time when the idea of continental shelves—never
+mind an even larger historic maritime zone—was still revolutionary in international law. If the concept of a historic maritime zone was what the ROC intended
+with the U-shaped line, it would not have overlooked the matter out of “insignificance,” given the sheer level of detail contained in the situation reports, plans for
+development, and conference summaries that defined the scope of the line.
+Fu’s and Gao and Jia’s conclusion that the U-shaped line denoted historic
+rights waters precisely because it was the ROC’s own Truman Proclamation is,
+however, problematic (Fu, 1995: 204; Gao and Jia, 2012: 103, 109).21 They
+provide no evidence that the coincidence between the two stemmed from cause
+and effect. They merely assume this to be the case. The officials who created
+the U-shaped line, however, did so without considering the Truman
+Proclamation. The ROC archival files—most importantly those detailing the
+exact determination of the line—never mentioned the Truman Proclamation,
+continental shelves, the scope of fishing waters, and scarcely even the United
+States. Fu as well as Gao and Jia also overlook the logic in the Truman
+Proclamation and all similar claims by other countries: the claiming of a maritime zone within countries’ continental shelves (Suarez, 2008: 28–29). Most of
+the waters that the U-shaped line delineated, especially those surrounding the
+Spratly Islands, extended far past China’s continental shelf. The ROC, furthermore, had not officially declared its support and adherence to the concept of a
+continental shelf zone when the U-shaped line maps were created. It only advocated a three nautical mile territorial waters zone and a twelve nautical mile
+contiguous zone (Chiu, 1975: 38). The ROC first officially approved the continental shelf concept nearly a decade after the creation of the U-shaped line,
+when it helped draft and signed the Geneva Convention in 1958. The ROC
+government did not ratify it until October 12, 1970 (United Nations, 1964).
+Besides the lack of a claim to historic rights waters, nothing indicates that
+the ROC attempted to enforce such zones throughout the South China Sea.
+The United States navy by this time reigned supreme in the waters of the
+South China Sea. ROC naval activity in the region in 1946 and 1947 was
+largely confined to landing expeditions, supplying garrisons, and protecting a
+limited fishing zone. The ROC government had more pressing matters to
+
+56
+
+Modern China 42(1)
+
+attend to, chief among them the Chinese Civil War. As the tide of the war
+swung irreversibly in favor of Mao Zedong, and the threat of an invasion in
+Taiwan loomed in 1949, the South China Sea islands became increasingly
+trivial to the ROC. By May 1950, the last ROC troops stationed on the islands
+were recalled to Taiwan (Granados, 2006a: 160, 162). While the ROC sent
+some troops back to the islands from June to September 1956, only Itu Aba
+and the Pratas Islands were secured. Naval activity afterward in the South
+China Sea islands region focused on supplying the garrisons and ensuring that
+the islands were not infringed upon by others. For instance, on October 1,
+1956, a ROC patrol boat and destroyer found Cloma’s brother Filemon’s ship
+anchored off North Danger Reef. They demanded he leave and promise never
+to return to the islands. Filemon refused, and discussions dragged into the next
+day. After issuing a final warning and confiscating his weapons, the two ROC
+ships released him and his crew and departed. Filemon discovered that their
+structures on Northeast and Southwest Cay, the reef’s two islands, had been
+“completely removed” (Hartendorp, 1961: 226–27; Haijun xunyi Nansha haijiang jingguo, 1975: 163–70; Samuels, 1982: 84–85). Developments on the
+ground during this period confirmed that the ROC’s sole concern was the
+islands’ land territory, not a massive waters zone.
+There is one last consideration. Jacques deLisle notes that the U-shaped
+line generally ran along the 200-meter isobaths line, a feature usually associated with continental shelves as set out by the Truman Proclamation and the
+Geneva Convention of 1958.22 This “implies that China claimed everything
+beyond the outer limits of rival states’ continental shelves” (deLisle, 2012:
+615). While interesting, this logic is flawed. It would mean that the U-shaped
+line was affected by the Truman Proclamation, for which there is no direct
+evidence as previously explained. DeLisle also fails to recognize the implication of associating the Truman Proclamation with the line in such a manner.
+If the ROC had indeed made a historic claim over the waters of the South
+China Sea in 1946, it willingly diminished what it viewed as a “patriotically
+sacred” and millennia-old claim for the sake of respecting a year-old principle that was then unprecedented in scope, legally unfounded in international
+law, and followed by neither the ROC nor any of the Southeast Asian colonies bordering the U-shaped line save the United States in the Philippines.
+Notwithstanding the inherent contradiction, there simply is no evidence that
+the ROC government made such a decision.
+
+Enter the PRC
+Considering itself to be the sole legitimate representative of China, the PRC
+adopted the U-shaped line in 1949. Although the line underwent a slight
+
+Chung
+
+57
+
+change in 1953—in particular, the removal of the two dashes separating
+Vietnam and China in the Bay of Tonkin—the same shape remained (Franckx
+and Benatar, 2012: 91). Like the ROC, the PRC in its early years used the line
+in a way that supported the islands attribution view. It made no official claim
+to any waters zone that remotely approached the size of the territory encompassed by the U-shaped line for several decades afterward.
+The PRC made its first official claim to the islands in 1951, when Premier
+Zhou Enlai denounced the joint U.S./U.K. draft for the Treaty of San
+Francisco: “As a matter of fact, the Paracel Archipelago and Spratly Island,
+like the entire Nansha [Spratly], Zhongsha [Macclesfield Bank], and Dongsha
+[Pratas] Archipelagos, have always been Chinese territory” (Zhou, 1990: 41).
+The PRC simply announced that the South China Sea islands were an inherent part of Chinese territory. It did not mention any special waters zone. Even
+more telling, its “Declaration on the Territorial Sea” in 1958 announced that:
+The breadth of the territorial sea of the People’s Republic of China shall be
+twelve nautical miles. This provision applies to all territories of the People’s
+Republic of China, including the Chinese mainland and its coastal islands, as
+well as Taiwan and its surrounding islands, the Penghu Islands, the Pratas
+Islands, the Paracel Islands, Macclesfield Bank, the Spratly Islands, and all
+other islands belonging to China, which are separated from the mainland and
+its coastal islands by the high seas (隔有公海的). (PRC, 1958)
+中华人民共和国的领海宽度为12海里。这项规定适用于中华人民共和国
+的一切领土，包括中国大陆及其沿海岛屿， 和同大陆及其沿海岛屿隔有
+公海的台湾及其周围各岛 、 澎湖列岛 、 东沙群岛 、 西沙群岛 、 中沙群
+岛、南沙群岛以及其他属于中国的岛屿。
+
+This statement explicitly indicated that a belt of high seas separated the
+Chinese mainland from the South China Sea islands. The PRC did not hold
+to, nor did it attempt to enforce, a historic rights waters interpretation of the
+line. Its navy remained largely inactive in the islands region until 1974 (Lo,
+1989: 29–29; Samuels, 1982: 67, 87–88).
+From that year, however, official PRC claims and protests employed
+vague terms such as “adjacent” and “relevant” to characterize the waters next
+to the islands it claimed. The first case was an official PRC statement on
+January 11, 1974, issued five days before PRC and South Vietnamese forces
+battled for control of the southern half of the Paracel Islands (the Crescent
+Group), and in reaction to South Vietnam’s official incorporation of the
+Spratly Islands on September 6, 1973. It stated that “the Nansha [Spratly],
+Xisha [Paracel], Zhongsha [Macclesfield Bank], and Dongsha [Pratas] archipelagos are all part of Chinese territory. The People’s Republic of China has
+
+58
+
+Modern China 42(1)
+
+indisputable sovereignty over these islands and islets. The resources of these
+islands and their adjacent seas also belong entirely to China” (Renmin ribao,
+1974: 1, italics added). This statement did not clarify the geographic extent or
+rights of these “adjacent” waters. Thus, it is uncertain whether it can be considered an assertion of a historic rights waters regime.
+PRC laws and statements continued this pattern of ambiguity. Article 14 of
+its EEZ law, implemented on June 26, 1998, stated that “the provisions of this
+Law shall not affect the historic rights enjoyed by the People’s Republic of
+China” (PRC, 1998, italics added). This was the first time the PRC government indicated that it possibly held such rights in the region, but it did not
+clarify what these entailed and where they applied.
+On May 7, 2009, China submitted a note verbale to the UN, responding to
+Vietnam and Malaysia’s joint submission of their claim to an extended continental shelf to the Commission on the Limits of the Continental Shelf. It
+attached a map of the U-shaped line, the first time the PRC officially presented the line on an international level to illustrate its claim and rebut that of
+others. However, its only explanation relating to the map was that
+China has indisputable sovereignty over the islands in the South China Sea and
+the adjacent waters, and enjoys sovereign rights and jurisdiction over the
+relevant waters as well as the seabed and subsoil thereof (see attached map23).
+The above position is consistently held by the Chinese Government, and is
+widely known by the international community.
+The continental shelf beyond 200 nautical miles as contained in the Joint
+Submission by Malaysia and the Socialist Republic of Viet Nam has seriously
+infringed China’s sovereignty, sovereign rights and jurisdiction in the South
+China Sea. (PRC, 2009)
+
+While terms such as “adjacent waters,” “sovereign rights,” and “jurisdiction”
+were used, their scope was not specified. The words “relevant waters” were
+followed by a reference to the U-shaped line map, without stating whether the
+“relevant waters” equaled some or all of the waters contained within the line.
+The confusion was evident in the Filipino note verbale of April 5, 2011, its
+response to China’s note. The Philippines denounced the U-shaped line as
+illegal, because its scope and the term “relevant waters” were not clarified,
+while the line overlapped with Filipino claims in the Spratlys (Government of
+the Philippines, 2011a). China’s response to the Filipino note on April 14,
+2011, did not address these concerns. It simply reiterated that China had
+“indisputable sovereignty over the islands in the South China Sea and the
+adjacent waters, and enjoys sovereign rights and jurisdiction over the relevant waters as well as the seabed and subsoil thereof” (PRC, 2011).
+
+Chung
+
+59
+
+This official ambiguity has since persisted. On January 22, 2013, in
+response to the Philippines’ efforts to bring the South China Sea dispute
+before international arbitration, the PRC’s ambassador in Manila, Ma Keqing,
+reiterated Chinese sovereignty “over the islands in the South China Sea and
+its adjacent waters” (Xinhua News, 2013). On December 12, 2014, PRC foreign ministry spokesman Hong Lei denounced Vietnam for submitting its
+statement of position to the arbitration panel. He reaffirmed that “China has
+indisputable sovereignty over the Nansha [Spratly] Islands and their adjacent
+waters. And it is an indisputable fact that the Xisha [Paracel] Islands are an
+integral part of China’s territory” (PRC, 2014). Neither Ma nor Hong clarified the scope and rights of these “adjacent waters.”
+
+Conclusion: The Significance of the History of the
+U-Shaped Line to the Present Dispute
+It is because this vagueness continues today that examining the history of the
+U-shaped line is important. Not only did the PRC adopt the line used by the
+ROC to represent its claims in the South China Sea, it used this line in the
+same way until at least 1974, and possibly beyond: as an islands attribution
+line. There was continuity between the ROC’s and PRC’s interpretation of the
+line. Therefore, the ROC’s early usage of the line represents the first step to
+understanding and clarifying how the PRC interprets it today.
+This article points toward an important avenue of future research. A thorough comparison between the origins and early usage of the line and the PRC’s
+position in the South China Sea region since 1974 would reveal changes and
+continuities on these issues and the reasons for them. Identifying these aspects
+would help in resolving the disputes over the South China Sea, for instance, by
+determining how to proceed with negotiations. If the PRC continues to adhere
+predominantly to the islands attribution view, it would be better first to negotiate less sensitive matters pertaining to maritime areas rather than a delineation
+of the islands, as this would encounter less opposition from China. Initial limited cooperation among claimants would help to reduce provocations and foster
+confidence building in the region. Examples could include joint projects in
+marine conservation, emergency response, anti-piracy, and perhaps scientific
+exploration and research. Such measures could gradually erode mistrust and
+increase the chances of success in later rounds of negotiations that address
+more sensitive topics, such as finally settling ownership over the islands.
+Determining how far the PRC still adheres to the ROC’s early usage of the
+line will help concerned parties understand the PRC’s present claims, and eliminate historical inaccuracies and biases. This would encourage constructive
+debate and resolution by allowing claimants to sort through worrying aspects of
+
+60
+
+Modern China 42(1)
+
+China’s claims that have obstructed progress in the dispute. By the same token,
+to reveal changes in China’s historical arguments that do not adhere to its original claim,24 have no foundation in international law, or indicate simple expansionism, will assist non-Chinese claimants to decide which areas of the dispute
+they must be adamant about.
+Of special importance, a balanced investigation of the history of the
+U-shaped line might lead all claimants to understand that listening to other
+claims does not automatically mean accepting them. This point is often lost
+in the wrangling over clashing claims. China’s assertion of “indisputable
+sovereignty” in the region, for instance, is far too inflexible. It prevents
+China from realizing that its historical claim raises genuine concerns, and
+from addressing them. China’s refusal to clarify its historical claims fuels
+fear among its neighbors, while glaring historical inaccuracies weaken its
+case and prompt inflexible stances from non-Chinese claimants.
+Meanwhile, non-Chinese states’ refusal to meaningfully consider China’s
+claims, stemming from a lack of understanding of China’s U-shaped line claim,
+equally discourages peaceful resolution. Thus, the Philippines’ unsuccessful
+Zone of Peace, Freedom, Friendship and Cooperation plan stated in a footnote
+that the U-shaped line did not merit consideration, even in areas not disputed by
+the Philippines (Government of the Philippines, 2011b: 2).25 This approach prevented China from employing the line even as a basis with which to participate in
+the proposed resolution plan. The Philippines dismissed China’s views on history
+and international law so abruptly that China refused even to discuss the plan. Had
+the Philippines taken China’s claim into consideration, which would not have
+necessarily meant accepting it, China may have participated and removed ambiguity over the line, thus moving toward resolution. Instead, this incident encouraged China to continue hardline measures in order to “protect” its claims.
+Finally, examining the history of the ROC’s usage of the line could help
+guide the ROC government on deciding what stance to adopt on the dispute.
+Its claims have been as wide-ranging as the PRC’s, if not more so. On April
+13, 1993, under its “South China Sea Policy Guidelines” 南海政策綱領, the
+ROC officially stated that “the waters within the South China Sea historic
+waters boundary (歷史性水域界線) are under the jurisdiction of the Republic
+of China. Our country possesses all rights and interests in these waters”
+(Executive Yuan of the Republic of China, 1993). The “historic waters boundary” referred to the U-shaped line created in 1948, as the chairman of the
+Research, Development, and Evaluation Commission of the Executive Yuan
+clarified shortly afterward (Sun, 1995: 403). The Policy Guidelines did not
+articulate what “all rights and interests” entailed. A literal reading of “historic
+waters” would make nearly the entire South China Sea equivalent to the
+ROC’s internal waters.
+
+Chung
+
+61
+
+The ROC government terminated the Policy Guidelines on December 15,
+2005 (Executive Yuan of the Republic of China, 2005). However, its current
+official position is unclear. Like the PRC, it claims the islands and their “surrounding waters” 周遭水域 (MOFA, 2011). Recent developments have not
+clarified this ambiguity. On September 2014, ROC president Ma Ying-jeou
+delivered a speech at the Academia Historica that adhered to the islands attribution view. According to the Economist, he specified that the 1947 claim
+“was limited to islands and 3 to 12 nautical miles of their adjacent waters.
+There were, he said, ‘no other so-called claims to sea regions’” (“Joining the
+Dashes,” 2014). Yet, in a letter to the Economist’s editor on November 1,
+ROC representative to the UK Liu Chih-Kung stressed that “President Ma
+did not say that the ROC’s claim was limited to the islands and three to 12
+nautical miles of their adjacent waters, since the Location Map of the South
+China Sea Islands, published by the ROC government in 1947, covers both
+the islands and their surrounding waters” (Liu, 2014). It is unclear how far
+these “surrounding waters” extend, but Liu made it clear that it was not limited to twelve nautical miles from the islands. This indicates that the ROC
+government possibly holds a historic rights or historic waters view. It may
+also be evidence of confusion or dissension among ROC offficials regarding
+this stance. There has been no official response to this letter.
+The ROC’s actions regarding the South China Sea dispute frequently
+contradict a historic waters or historic rights waters stance. The ROC has
+never claimed nor attempted to uphold the right to prohibit or regulate foreign maritime and aerial traffic across the South China Sea, notwithstanding the repealed Policy Guidelines (Wang, 2010: 249). The ROC’s law on
+the territorial sea and contiguous zone, Exclusive Economic Zone law, and
+baselines declaration claim only measurable sea zones, using language
+derived solely from international law. They do not include such terms as
+“historic rights” and “adjacent” or “relevant” waters (MOI, 1998a; MOI,
+1998b; MOI, 1999). The government continues to focus on garrisoning and
+developing the islands it has retained since 1955, the Pratas and Itu Aba
+Island. Almost all development there has focused on land territories. For
+instance, the ROC opened Itu Aba Island to tourism, built an airstrip to
+bolster the island’s defense in 2007, completed a solar power plant in 2011,
+and is currently building a port (Lin and Hsiao, 2012: 1–2, 6–7, 13–14;
+Gold, 2015). The scope of its military patrols is limited to a narrow 10 km
+(approximately 5.4 nm) belt of exclusionary waters around Itu Aba Island.
+Given the potentially negative diplomatic consequences of claiming a large
+historic maritime zone, since archival files support its present focus on the
+islands, the ROC government might gain from officially declaring an
+islands attribution stance on the U-shaped line.
+
+62
+
+Modern China 42(1)
+
+Appendix
+
+Map 1. The Location Map of the South China Sea 南海諸島位置圖, 1947
+(Government of the Republic of China, 1947). The same map was publicly
+published in 1948. Reproduced with permission from Nansha.org 南沙群岛在线.
+The English labels are my own.
+
+Chung
+
+63
+
+Map 2. The Location Sketch Map of the South China Sea Islands 南海諸島位置略圖,
+1946 (MHTO, file series 0035/061.8/3030, file 001/001/0009). Reproduced with
+permission from the Republic of China National Archives Administration. This map
+can also be found in MOFA, file series 019.3/0012, file 103. The English labels are
+my own.
+
+64
+
+Modern China 42(1)
+
+Map 3. The 1947 version of The Location Sketch Map of the South China Sea Islands
+南海諸島位置略圖 (MHTO, file series 0035/061.8/3030, file 006/008/0012). Map 1
+came from this version. Note the eleven dashes, soon to be standard, as opposed
+to the eight in the 1946 version. The shape, however, is identical. Reproduced
+with permission from the Republic of China National Archives Administration. The
+English labels are my own.
+
+Author’s Note
+This article is developed from my master’s thesis, “‘Since Time Immemorial’: China’s
+Historical Claim in the South China Sea,” completed in 2013 at the University of
+
+Chung
+
+65
+
+Calgary. It provides new interpretations of primary source materials, corrects previous mistakes, and covers certain developments since 2013.
+
+Acknowledgments
+I extend my sincere thanks—in alphabetical order by their last names—to Kathryn
+Bernhardt, John R. Ferris, Richard Gunde, Ma Yu-cheng 馬有成, David Curtis
+Wright, Wu Jen-shu 巫仁恕, the peer referees of this article, and the archival staff of
+the Republic of China National Archives Administration for their invaluable insight
+and assistance. Two of the three referees have kindly revealed their identities: M.
+Taylor Fravel and Ulises Granados.
+
+Declaration of Conflicting Interests
+The author(s) declared no potential conflicts of interest with respect to the research,
+authorship, and/or publication of this article.
+
+Funding
+The author(s) received no financial support for the research, authorship, and/or publication of this article.
+
+Notes
+1. Estimates of total proven and probable oil and natural gas reserves in the South
+China Sea vary considerably due to the territorial dispute, which prevents a thorough survey of the seabed. They range from 11 to 125 billion barrels of oil and
+190 to 500 trillion cubic feet of natural gas (United States Energy Information
+Administration, 2013: 2).
+2. By “adjacent waters derived from contemporaneous conceptions of international
+law,” I am referring solely to waters zones created, discussed, and standardized
+by international maritime laws and conferences at any given time. This entails
+internal waters, territorial waters, contiguous waters, exclusive economic zones,
+and/or continental shelf zones. For definitions and rights of these maritime
+zones, see the United Nations Convention of the Law of the Sea (UNCLOS), the
+dominant international maritime law today (United Nations, 1982). Until finally
+standardized by UNCLOS in 1982, these zones often varied between different
+countries and were constantly changed by them. Most of these differences concerned geographical extent. Important differences will be covered in-text.
+3. Unlike “historic rights,” “historic waters” claim the same privileges found in
+internal waters on the basis of historic dominance, the most important being
+the ability to regulate all forms of maritime and aerial traffic (Symmons, 2008:
+1–11). Nearly all Chinese scholars today reject or refuse to take this position.
+Zou Keyuan is especially insistent about this (Zou, 1999: 40–44).
+4. On January 27, 2014, the National Institute for South China Sea Studies 中国
+南海研究院 (NISCSS), the PRC’s largest think-tank on the dispute, opened its
+
+66
+
+5.
+
+6.
+
+7.
+8.
+9.
+
+10.
+11.
+12.
+
+13.
+
+14.
+
+Modern China 42(1)
+South China Sea archives (China Daily USA, 2014). However, the three ROC
+archival file collections examined still contain most, if not all, of the relevant
+ROC files written at the time of the creation of the U-shaped line. The NISCSS
+files focus on and draw from ROC-era archival files found in Taiwan, China, and
+other countries (China Daily USA, 2014). The PRC still lacks data from when
+the ROC was in control of China. Many ROC academics expressed wariness
+when NISCSS president Wu Shicun visited the “Exhibition on the Republic of
+China’s Historical Data for the Southern Territories” at the Academia Historica
+in September 2014. They feared it gave the PRC an opportunity to use ROC files,
+of which it has few, to bolster its claims (Tzou and Chung, 2014). Granted, the
+NISCSS archives may contain valuable PRC documents as well as a few files
+from the ROC era that cannot be found in Taiwan.
+For the sake of simplicity, the politically complex warlord period from 1916 to
+1928 will be subsumed under this category. The actions of the warlord governments have no relevance to the findings and conclusions of this article.
+Baselines are a series of straight lines that connect the outermost features of a
+state’s coast and islands. There are limitations to the application of baselines.
+For instance, they “must not depart to any appreciable extent from the general
+direction of the coast, and the sea areas lying within the lines must be sufficiently
+closely linked to the land domain” (United Nations, 1982: Article 7). Only archipelagic states may apply straight baselines connecting the outer points of an
+archipelago (United Nations, 1982: Articles 6, 7, 47).
+One nautical mile equals 1.852 km (1.15078 miles).
+The character lüe 畧 in the map’s title indicates that it was a draft, or “Sketch
+Map.”
+This infrastructure would serve to facilitate marine resource development. For
+instance, the report listed the need for wireless radio stations on the islands to
+enable communications with fishermen (MHTO, file series 0035/061.8/3030,
+files 007/013/0011 to 0014).
+Cloma made the formal declaration on July 6 (MOFA, file series 019.3/0005,
+files 071 to 073).
+Meads often claimed to be the “consul” of the Kingdom of Humanity (MOFA,
+file series 019.3/0003, file 045).
+The assumption here is that Japan formally returned the South China Sea islands to
+the ROC after the Second World War. The PRC believes it inherited the peace treaty
+that the ROC signed with Japan in 1952, which supposedly specified the postwar
+transfer of the islands. These ROC and PRC official views are still debated. This
+article does not attempt to judge which side is legally correct. Rather, it explains
+why these interpretations still support the islands attribution stance.
+The coordinates of the Shinnan Guntō, counterclockwise from the southwesternmost corner, are: 7°N 111°E; 9°N 111°E; 12°N 114°E; 12°N 117°E; 9°N 117°E;
+8°N 116°E; and 7°N 114°E.
+“Check whether the Tuansha [Islands] and Shinnan [Guntō] are two names for
+the same place. Have we received [i.e., taken] them yet [the islands marked by
+
+Chung
+
+15.
+
+16.
+
+17.
+18.
+19.
+
+20.
+21.
+22.
+23.
+24.
+25.
+
+67
+
+the Shinnan Guntō area]?” 查新南與團沙是否同地兩名, 我方已否接收？
+(MOFA, file series 019.3/0012, files 014). Tizard Bank has had several Chinese
+names. For example, one list of the South China Sea islands in September 1946
+translated “Tizard B.R.” as 鉄沙群島 (MOFA, file series 019.3/0012, files 089).
+“Tizard B.R.” almost certainly referred to Tizard Bank, the “R” standing for
+“reef.” It was a subheading under which some of its individual parts were listed,
+and correctly. 鉄沙, pronounced “Tiesha,” is a transliteration of Tizard. Today,
+Tizard Bank is written as 郑和群礁.
+To the ROC, the Tuansha administration theoretically had its origins in Qing
+claims. These in turn were supposedly based on over a millennia of uninterrupted historic ownership. This supposed continuity is frequently claimed in
+ROC archival files (MOFA, file series 019.3/0001, file 011; MHTO, file series
+0035/061.8/3030, file 005/012/0010).
+Chinese mentions of the islands and South China Sea stretch back to at least the
+tenth century ce, and at most the eleventh century bce (Samuels, 1982: 10; Shen,
+1998: 150). I am, however, evaluating the Qing’s historical record for three reasons. First, one needs only to examine the historical record of the last Chinese
+dynasty before the Republican era to confirm whether this supposedly long and
+continuous history of ownership of the Tuansha did indeed exist. Second, a long
+history of China’s dominance over the South China Sea and its islands would
+count for nothing if China let the claim fade for several centuries during the Qing
+dynasty. Finally, most Qing records that mention the islands compile relevant
+records from past dynasties.
+Traditionally correlated with part of the South China Sea.
+That is, if one starts from Hainan Island.
+The 1946 Location Sketch Map of the South China Sea added the term Yingshu
+英屬 in front of the label for Borneo, which simply denoted that the territory was
+British.
+For a map showing the boundaries set by the coordinates provided by the 1930
+U.S.–Great Britain Convention, see Bautista, 2011: 37.
+Zou Keyuan only agrees with the possibility of this correlation (Zou, 2012: 28).
+An isobath line connects points in the seabed that have the same depth; 200
+meters in this case.
+This refers to the U-shaped line map attached at the end of the document.
+This aspect is important, as the PRC continues to base its claims on the U-shaped
+line as originally created and used by the ROC.
+The Zone of Peace, Freedom, Friendship and Cooperation plan envisioned
+delimiting undisputed areas from disputed ones using ten proposed strategies.
+Joint cooperation schemes and rights would then be negotiated in disputed areas
+according to Part IX of UNCLOS and multilateral agreements. The plan would
+create a Code of Conduct to prevent accidents and misunderstandings. Examples
+of “joint cooperation” include joint economic development, scientific research,
+marine conservation, and transnational crime prevention (Government of the
+Philippines, 2011b: 1–4).
+
+68
+
+Modern China 42(1)
+
+References
+BAUTISTA, LOWELL (2011) “Philippine territorial boundaries: internal tensions,
+colonial baggage, ambivalent conformity.” J. of Southeast Asian Studies 16
+(Dec.): 35–53.
+CALICA, AUREA (2013) “Asean pushes sea code, talks with China.” Philippine
+Star, April 26. www.philstar.com/headlines/2013/04/26/935041/asean-pushessea-code-talks-china.
+CHEN LUNJIONG 陳倫炯 (1984) 海國聞見錄 (Records of sights and sounds of the
+maritime countries). 中國南海諸群島文獻彙編 (Collection of documents on the
+South China Sea Islands), rept. ed., vol. 3. Taipei: Taiwan xuesheng shuju.
+China Daily USA (2014) “South China Sea archives open in Hainan.” Jan. 28. http://
+usa.chinadaily.com.cn/china/2014-01/28/content_17261850.htm.
+CHIU, HUNGDAH (1975) “China and the question of territorial sea.” Maryland J. of
+Int. Law 1, 1: 29–77.
+DELISLE, JACQUES (2012) “Troubled waters: China’s claims and the South China
+Sea.” Orbis 56, 4: 608–42.
+Executive Yuan of the Republic of China 行政院 (1993) 南海政策綱領 (South
+China Sea policy guidelines). April 13. www.cga.gov.tw/GipOpen/wSite/public/
+Attachment/f1259488571867.pdf.
+Executive Yuan of the Republic of China (2005) 台內地字第09400162932號函停止
+適用 (Repeal of ROC Ministry of Interior Department of Land Administration’s
+file #09400162932 [the South China Sea policy guidelines]). Dec. 15. www.land.
+moi.gov.tw/law/chhtml/lawdetail.asp?Lid=3910.
+FRANCKX, ERIK and MARCO BENATAR (2012) “Dots and lines in the South
+China Sea: insights from the law of map evidence.” Asian J. of Int. Law 2 (Jan.):
+89–118.
+FU KUEN-CHEN 傅崐成 (1995) 南(中國)海法律地位之研究 (Legal status of the
+South [China] Sea). Taipei: 123 Information Co. Ltd.
+GAO ZHIGUO 高之国 and JIA BINGBING 贾兵兵 (2012) “The nine-dash line in
+the South China Sea: history, status, and implications.” Amer. J. of Int. Law 107,
+1 (Jan.): 98–124.
+GOLD, MICHAEL (2015) “Taiwan turns to Chinese shipper for help with port in disputed waters.” Reuters, Feb. 6. www.reuters.com/article/2015/02/06/us-taiwanchina-spratlys-idUSKBN0LA12K20150206.
+Government of the Philippines (1930) Convention between the United States of America
+and Great Britain Delimiting the Boundary between the Philippine Archipelago and
+the State of North Borneo. Jan. 2. www.gov.ph/1932/12/15/convention-betweenthe-united-states-of-america-and-great-britain-delimiting-the-boundary-betweenthe-philippine-archipelago-and-the-state-of-north-borneo-1930/.
+Government of the Philippines (1961) Republic Act No. 3046 of 17 June 1961. An
+Act to Define the Baselines of the Territorial Sea of the Philippines. www.un.org/
+Depts/los/LEGISLATIONANDTREATIES/PDFFILES/PHL_1961_Act.pdf.
+Government of the Philippines (2011a) Philippines Note Verbale to the United
+Nations, No. 000228. April 5. www.un.org/Depts/los/clcs_new/submissions_
+files/vnm37_09/phl_re_chn_2011.pdf.
+
+Chung
+
+69
+
+Government of the Philippines (2011b) Philippine Paper on ASEAN-China Zone
+of Peace, Freedom, Friendship and Cooperation (ZoPFF/C) in the WPS [West
+Philippine Sea] (SCS [South China Sea]). Sept. 22. http://nghiencuubiendong.vn/
+download/doc_download/364-philippine-paper-on-asean-china-zone-of-peacefreedom-friendship-and-cooperation-in-the-south-china-sea.
+Government of the Republic of China (1947) Location Map of the South China Sea
+Islands. In 南沙群岛在线 (Nansha.org), 南沙群岛地图–1947. www.nansha.org.
+cn/maps/3/1947_South_China_Sea_Map.html.
+Government of the United States of America (1945) 1945 US Presidential Proclamation
+No. 2667, Policy of the United States with Respect to the Natural Resources of
+the Subsoil of the Sea Bed and the Continental Shelf. Sept. 28. http://cil.nus.edu.
+sg/rp/il/pdf/1945%20US%20Presidential%20Proclamation%20No.%202667pdf.pdf.
+GRANADOS, ULISES (2006a) “Chinese ocean policies towards the South China Sea
+in a transitional period, 1946–1952.” China Rev. 6, 1 (Spring): 153–81.
+GRANADOS, ULISES (2006b) “The South China Sea and its coral reefs during the
+Ming and Qing dynasties: levels of geographical knowledge and political control.” East Asian History 32–33 (Dec. 2006–June 2007): 109–28.
+GRANADOS, ULISES (2008) “Japanese expansion into the South China Sea: colonization and conflict, 1902–1939.” J. of Asian History 42, 2: 117–42.
+Haijun xunyi Nansha haijiang jingguo 海軍巡弋南沙海疆經過 [Records of naval
+patrols along the coastal waters of the Spratly Archipelago] (1975) 中國南海諸
+群島文獻彙編 (Collection of documents on the South China Sea Islands), rept.
+ed., vol. 9. Taipei: Taiwan xuesheng shuju.
+HARTENDORP, A. V. H. (1961) History of Industry and Trade of the Philippines:
+The Magsaysay Administration, vol. 2. Manila: Philippines Education Co.
+HUANG WEI 黄伟 (2011) “论中国在南海 U 形线内‘其他海域’的历史性权利”
+(Discussing the historical rights of “other waters” within the U-shaped line). 中
+国海洋大学学报 (English title: J. of Ocean Univ. of China) 3: 36–40.
+“Joining the Dashes” (2014) The Economist, Oct. 4. www.economist.com/news/
+asia/21621844-south-china-seas-littoral-states-will-fight-museums-archivesand.
+KOH, TOMMY (1987) “The origins of the 1982 Convention on the Law of the Sea.”
+Malaya Law Rev. 29: 1–17.
+KRASKA, JAMES and RAUL PEDROZO (2013) International Maritime Security
+Law. Leiden: Martinus Nijhoff.
+LI JINMING 李金明 (2011) “国内外有关南海断续线法律地位的研究述评” (An
+overview of reviews on the legal status of the U-shaped line in the South China
+Sea). 南洋问题研究 (English title: Southeast Asian Affairs) 2: 54–80.
+LI JINMING and LI DEXIA (2003) “The dotted line on the Chinese map of the South
+China Sea: a note.” Ocean Development & Int. Law 34, 3–4: 287–95.
+LIN, CHENG YI and ANNE HSIU-AN HSIAO (2012) “Taiwan’s South China Sea
+policy, 1999–2011.” Paper presented at the “Workshop on the South China Sea
+Dispute: Political and Security Implications for the Region’s Future,” Jan. 12–13,
+
+70
+
+Modern China 42(1)
+
+Academia Sinica, Taipei. Also published under the same title in Center for AsiaPacific Area Studies of the Research Centre for Humanities and Social Sciences,
+Academia Sinica, 2012 Workshop on the South China Sea Dispute: Political and
+Security Implications for the Region’s Future. Taipei [Honolulu, HI]: Center for
+Asia Pacific Area Studies (CAPAS), RCHSS, Academia Sinica, 2012.
+LIU CHIH-KUNG (2014) “Taiwan and the South China Sea.” The Economist, Nov.
+1. www.economist.com/news/letters/21629213-letters-editor.
+LO, CHIKIN (1989) China’s Policy Towards Territorial Disputes: The Case of the
+South China Sea Islands. London: Routledge.
+LU KUN 盧坤 and DENG TINGZHEN 鄧廷楨 (2009) 廣東海防彙覽 (Compendium
+on the maritime defense of Guangdong). Wang Hongbin 王宏斌, ed. Shijiazhuang:
+Hebei renmin chubanshe.
+MHTO 國防部史政編譯局 [ROC Military History and Translation Office of the
+Ministry of Defense]. 國家發展委員會檔案管理局 (ROC National Archives
+Administration). 西南沙群島勘查報告書 (Reconnaissance reports on the
+Paracel and Spratly archipelagos), file series 0035/944/1060; 進駐西南沙群島
+案 (File on the stationing of troops in the Paracel and Spratly archipelagos), file
+series 0035/061.8/3030; 南沙群島調查概況 (Survey overview of the Spratly
+archipelago), file series 0036/002.2/4022.
+MOFA 外交部檔案 [Archival Files of the ROC Ministry of Foreign Affairs] (1928–
+1975) 中央研究院近代史研究所檔案館藏 (Archives of the Institute of Modern
+History, Academia Sinica). 西沙群島問題 (Paracel archipelago issue), file series
+019.3/0001; 南沙群島 (Spratly archipelago), file series 019.3/0003, 019.3/0005,
+019.3/0012, and 019.3/0013.
+MOFA (2011) 中華民國外交部重申南海議題立場 (Republic of China Ministry of
+Foreign Affairs reaffirms position on the South China Sea issue). Apr. 17. http://
+www.mofa.gov.tw/News_Content.aspx?n=FAEEE2F9798A98FD&sms=6DC1
+9D8F09484C89&s=112934DBCF739E79.
+MOI 内政部 [ROC Ministry of the Interior]. “進駐西南沙群島案” (File on the stationing of troops in the Paracel and Spratly archipelagos). 國家發展委員會檔
+案管理局 (ROC National Archives Administration). File series 0036/E41502/1.
+MOI (1998a) 中華民國領海及鄰接區法 (Law on the territorial sea and the contiguous zone of the Republic of China), Jan. 21. www.land.moi.gov.tw/law/chhtml/
+mainframe.asp?LCID=212&.
+MOI (1998b) 中華民國專屬經濟海域及大陸礁層法 (Law on the exclusive economic zone and the continental shelf of the Republic of China), Jan. 21. http://
+maritimeinfo.moi.gov.tw/marineweb/aspx/UpLoad/UFile/0000000040///000000
+0040001.pdf.
+MOI (1999) 中華民國第一批領海基線、領海及鄰接區外界線 (Declaration on the
+first set of the baselines, territorial waters, and contiguous waters of the Republic
+of China), Feb. 10. Revised Dec. 18, 2009. http://www.land.moi.gov.tw/content/
+5835-U.pdf.
+PRC (1958) 中华人民共和国政府关于领海的声明 (PRC declaration on the territorial sea). Sept. 4. http://big5.gov.cn/gate/big5/www.gov.cn/test/2006-02/28/
+content_ 213287.htm.
+
+Chung
+
+71
+
+PRC (1998) 中华人民共和国专属经济区和大陆架法 (Law of the People’s Republic
+of China on the exclusive economic zone and the continental shelf). June 26. In
+Office of the Commissioner of the Ministry of Foreign Affairs of the People’s
+Republic of China in the Hong Kong Special Administrative Region. http://big5.
+fmprc.gov.cn/gate/big5/www.fmcoprc.gov.hk/chn/tyyflsw/jbflwj/qgxfl/t54834.
+htm.
+PRC (2009) China Note Verbale to the United Nations, CML/17/2009. In United
+Nations, Oceans and Law of the Sea. May 7. www.un.org/Depts/los/clcs_new/
+submissions_files/mysvnm33_09/chn_2009re_mys_vnm_e.pdf.
+PRC (2011) China Note Verbale No. CML/8/2011. In United Nations, Oceans and
+Law of the Sea. April 14. http://www.un.org/Depts/los/clcs_new/submissions_
+files/vnm37_09/chn_2011_re_phl_e.pdf.
+PRC (2014) Foreign Ministry Spokesperson Hong Lei’s Remarks on Vietnam’s
+Statement on the Chinese Government’s Position Paper on Rejecting the
+Jurisdiction of the Arbitral Tribunal Established at the Request of the Philippines
+for the South China Sea Arbitration. Dec. 12. www.fmprc.gov.cn/mfa_eng/
+xwfw_ 665399/s2510_665401/t1218756.shtml.
+RAHMAN, CHRIS and MARTIN TSAMENYI (2013) “A strategic perspective on
+security and naval issues in the South China Sea.” Ocean Development & Int.
+Law 41, 4 (Nov.): 315–33.
+Renmin ribao 人民日报 (1974) “我外交部发言人发表声明” (Ministry of Foreign
+Affairs spokesman issues statement), Jan. 12.
+SAMUELS, MARWYN (1982) Contest for the South China Sea. New York: Metheun.
+SHEN, JIANMING (1998) “Territorial aspects of the South China Sea island dispute.” Pp. 139–218 in Myron Nordquist and John Moore (eds.), Security
+Flashpoints: Oil, Islands, Sea Access and Military Confrontation. The Hague:
+Martinus Nijhoff.
+SUAREZ, SUZETTE (2008) The Outer Limits of the Continental Shelf: Legal
+Aspects of Their Establishment. Berlin: Springer.
+SUN, KUAN-MING (1995) “Policy of the Republic of China towards the South
+China Sea.” Marine Policy 19, 5 (Sept.): 401–9.
+SYMMONS, CLIVE (2008) Historic Waters in the Law of the Sea: A Modern
+Re-appraisal. Leiden: Martinus Nijhoff.
+THANG NGUYEN-DANG and NGUYEN HONG THAO (2012) “China’s nine dotted lines in the South China Sea: the 2011 exchange of diplomatic notes between
+the Philippines and China.” Ocean Development & Int. Law 43, 1: 35–56.
+Thanh Nien News (2013) “Southeast Asia to reach out to China on sea disputes.” April
+25. www.thanhniennews.com/index/pages/20130425-southeast-asia-to-reach-outto-china-on-sea-disputes.aspx.
+TZOU JING WEI and JAKE CHUNG (2014) “Chinese official’s presence at exhibit
+arouses concern.” Taipei Times, Sept. 5. www.taipeitimes.com/News/taiwan/arc
+hives/2014/09/05/2003599057.
+United Nations (1964) Convention on the Continental Shelf. June 10. P. 4 in United
+Nations, Treaty Collection. http://treaties.un.org/doc/Publication/MTDSG/
+Volume%20II/Chapter%20XXI/XXI-4.en.pdf.
+
+72
+
+Modern China 42(1)
+
+United Nations (1982) United Nations Convention of the Law of the Sea. Dec. 10.
+www.un.org/depts/los/convention_agreements/texts/unclos/UNCLOS-TOC.
+htm.
+United States Energy Information Administration (2013) South China Sea. http://
+www.eia.gov/beta/international/analysis_includes/regions_of_interest/South_
+China_Sea/south_china_sea.pdf.
+United States National Geospatial Intelligence Agency (2004) South China Sea and
+the Gulf of Thailand. Sailing Directions 9th ed., vol. 162. Annapolis: ProStar.
+WANG, KUAN-HSIUNG (2010) “The ROC’s maritime claims and practices with
+special reference to the South China Sea.” Ocean Development & International
+Law 41, 3: 237–52.
+WU SHICUN 吴士存 (2013) 南沙争端的起源与发展 (修订版) (The South China
+Sea dispute: origin and development [revision]). Revised ed. Beijing: Zhongguo
+jingji chubanshe.
+Xinhua News (2009) “Navy lawmaker: violation of China’s sovereignty not allowed.”
+Xinhua News, Mar. 10. http://news.xinhuanet.com/english/2009-03/10/content_
+10985038.htm.
+Xinhua News (2013) “Chinese ambassador: China has indisputable sovereignty over
+South China Sea islands.” Xinhua News, Jan. 22. http://news.xinhuanet.com/english/china/2013-01/22/c_132120518.htm.
+YANG BINGNAN 楊柄南 (1984) 海錄 (Maritime records) 中國南海諸群島文獻
+彙編 (Collection of documents on the South China Sea Islands), rept. ed., vol. 3.
+Taipei: Taiwan xuesheng shuju.
+ZHOU ENLAI 周恩来 (1990) 周恩来外交文选 (Selected works of Zhou Enlai on
+foreign relations), vol. 1. Beijing: Zhongyang wenxian chubanshe.
+ZHAO LIHAI 赵理海 (1996) 海洋法问题研究 (A study of the issue of maritime
+law). Beijing: Beijing daxue chubanshe.
+ZOU KEYUAN (1999) “The Chinese traditional maritime boundary line in the South
+China Sea and its legal consequences for the resolution of the dispute over the
+Spratly Islands.” International J. of Marine and Coastal Law 14, 1: 27–55.
+ZOU KEYUAN (2002) “Disrupting or maintaining the marine legal order in East
+Asia?” Chinese J. of International Law 1, 2: 449–98.
+ZOU KEYUAN (2007) “South China Sea studies in China: achievements, constraints
+and prospects.” Singapore Year Book of Int. Law 11: 85–98.
+ZOU KEYUAN (2012) “China’s U-shaped line in the South China Sea revisited.”
+Ocean Development & Int. Law 43: 18–34.
+
+Author Biography
+Chris P. C. Chung is a PhD student in history at the University of Toronto. He
+focuses on the history of the South and East China Sea islands disputes. He generally
+studies how late imperial and modern Chinese notions of history, territory, and international law have intersected to inform national identity.
+
+

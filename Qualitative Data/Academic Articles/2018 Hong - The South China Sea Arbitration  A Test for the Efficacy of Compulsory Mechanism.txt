@@ -1,0 +1,1332 @@
+The South China Sea Arbitration:
+A Test for the Efficacy of
+Compulsory Mechanism of UNCLOS
+and Implications for Dispute
+Management in the Region
+
+Nong Hong *
+
+This article analyzes China’s policy approach to dispute settlement through the angle
+of its attitude on international law, especially the role of third-party compulsory
+mechanism in solving international disputes. It explains China’s position of no
+acceptance and no participation in the South China Sea arbitration case and discusses
+the legal implication of the arbitration case and its political and security impacts on
+the South China Sea (SCS). A compulsory dispute settlement mechanism may not be
+the only or the best option for addressing the disputes in the SCS. A model of
+maritime dispute management is proposed with the goal of achieving peace and
+stability in the region of the SCS. This article suggests a practical four-tiered model of
+maritime dispute management in the SCS, namely, environmental security as a
+driving force of cooperation in the SCS, fisheries cooperation as a start of the SCS
+dispute resolution, United Nations Convention on the Law of the Sea as a framework
+for ocean governance in the SCS, and lastly, transformation of ways of thinking as a
+foundation to lead policy and research direction.
+Key words: arbitration, China, dispute management, South China Sea, UNCLOS
+
+中菲南海仲裁案：《联合国海洋法》强制性机制效力的检验及该机制对地区争端
+管制的影响
+
+本文通过阐明中国对国际法的态度, 尤其是中国关于第三方强制机制在解决国际争端中所
+起作用的立场, 分析了中国解决争端的政策途径。本文阐述了中国在南海仲裁案中的不接
+受和不参与立场, 讨论了该仲裁案的法律含义及其对南海造成的政治安全问题。强制性争
+端解决机制可能不是解决南海争端的唯一或最佳选择。本文还提出了一种以实现南海地区
+和平与稳定为目标的海洋争端管控模式。本文提出了一种实用的南海海洋争端管控四级模
+
+*Nong Hong is executive director and senior fellow of Institute for China–America
+Studies and concurrently a research fellow with the National Institute for South China
+Sea Studies (China), and China Institute, University of Alberta (Canada).
+DOI: 10.1111/aspp.12395
+Asian Politics & Policy—Volume 10, Number 2—Pages 219–246
+C 2018 Policy Studies Organization. Published by Wiley Periodicals, Inc.
+V
+
+Asian Politics & Policy—Volume 10, Issue 2—2018
+
+型, 即环境安全是南海合作的动力, 渔业合作是解决南海争端的开端, 《联合国海洋法》是
+南海海洋治理的框架, 思维方式转变是政策与研究方向指导的基石。
+关键词：联合国海洋法公约, 仲裁, 争端管控, 南海, 中国,
+
+El arbitraje del Mar del Sur de China: Una prueba de la eficacia del
+mecanismo obligatorio de la CDM y sus implicaciones para la gestión de
+las disputas en la región
+Este ensayo analiza la aproximaci
+on polıtica de China para la resoluci
+on de disputas a
+traves del angulo de su actitud frente a la ley internacional, especialmente el papel
+que juega el mecanismo obligatorio de terceros para resolver disputas internacionales.
+Explica la posici
+on de China de no aceptar y no participar en el caso de arbitraje del
+Mar del Sur de China y discute la implicaci
+on legal del arbitraje y sus impactos
+polıticos y de seguridad en el Mar del Sur de China. Un mecanismo de resoluci
+on de
+disputas obligatorio podrıa no ser la mejor opci
+on para abordar las disputas en el Mar
+del Sur de China. Un modelo de manejo de disputas marıtimas se propone con el
+objetivo de llegar a la paz y la estabilidad en la regi
+on del Mar del Sur de China. Este
+artıculo sugiere un modelo practico de cuatro niveles para la gesti
+on de disputas en el
+Mar del Sur de China, es decir, la seguridad ambiental como impulso para la
+cooperaci
+on en el Mar del Sur de China, la cooperaci
+on en pesca como un inicio para
+la resoluci
+on de disputas, la CDM como un marco para la gobernanza del oceano en
+ ltimo, la transformaci
+el Mar del Sur de China y, por u
+on de las formas de pensar
+como una base para guiar la polıtica y la investigaci
+on.
+Palabras clave: CDM, arbitraje, gesti
+on de disputas, Mar del Sur de China, China
+
+Introduction
+
+T
+
+he release of the Arbitral Tribunal’s Award on July12, 2016 ended the arbitration case on the South China Sea (SCS) which the Philippines had
+brought against China in January 2013 under Annex VII of the United Nations
+Convention on the Law of the Sea (UNCLOS). This thoroughly one-sided
+award ruled that many of China’s maritime claims in the SCS were contrary to
+UNCLOS and had thereby violated Philippine sovereign rights and freedoms.
+The ruling does not mean that the dispute between the Philippines and China
+is over. The debate on both the jurisdiction and merit of the case is still going
+on. Nevertheless, it does have political and legal implications for China, the
+Philippines, other claimant States, and the political environment of the SCS
+region.
+This article starts by analyzing China’s policy approach to dispute settlement
+through the angle of its attitude toward international law, especially the role of
+third-party compulsory mechanism in solving international disputes. China
+has always advocated bilateral negotiations as the most practical means of dispute settlement between states, which explains China’s position of no acceptance and no participation in the SCS arbitration case. It then moves on to
+discuss the legal implication of the arbitration case and political and security
+impacts on recent developments in the SCS. It concludes that a compulsory dispute settlement mechanism may not be the only or the best option in
+
+19430787, 2018, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/aspp.12395 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+220
+
+221
+
+addressing the disputes in the SCS. A model of maritime dispute management
+is proposed with the goal of achieving peace and stability in the SCS region.
+
+China’s Policy Approach to Dispute Settlement
+Ways of peaceful settlement of dispute cover good office,1 mediation, consultation, negotiation, arbitration, courts, and so forth. In most cases, China prefers
+selecting negotiation and/or consultation directly with the other party. This orientation is mostly original from and owing to the Chinese culture and state
+practice. China has always advocated bilateral negotiations as the most practical means of dispute settlement between states. In practice, China has resolved
+several of its bilateral disputes with other countries through negotiation and
+consultation, such as border disputes, among other issues. In so far as judicial
+proceedings are concerned, China’s attitude is very conservative. Thus far, no
+sovereignty or maritime-related dispute between China and any other State has
+been brought to the International Court of Justice (ICJ) or other international tribunals, except the SCS arbitration case. During the Sino-India border conflict in
+1962, China refused India’s proposal to submit the dispute to international arbitration by stating that “Sino-India border dispute is an important matter concerning the sovereignty of the two countries, and the vast size of more than
+100,000 square kilometres of territories. It is self-evident that it can only be
+resolved through direct bilateral negotiations. It is never possible to seek a settlement from any form of international arbitration” (Gao, 1995, pp. 611–2).
+However, after the 1980s, China changed its policy by consenting to arbitration
+in treaties that it ratified, but confined this only to economic, trade, scientific,
+transport, environmental, and health areas (Zou, 2009, p. 31).
+Some conventions require the contracting States to accept compulsory judicial dispute settlement procedures. For instance, UNCLOS makes it obligatory
+for State parties to select at least one of the compulsory procedures: ICJ, ITLOS,
+arbitration, and special arbitration. Upon ratification of the convention, China
+did not state which mechanism it had accepted. Therefore, it was deemed to
+have accepted the mechanism of arbitration (UNCLOS, 1982, Article 297(3)).
+Meanwhile, China’s perception of the role of international courts in dispute
+settlement is also passive. In treaties in which it is a party, China has usually
+made a reservation about the clause of judicial settlement by the ICJ. On September 5, 1972, China declared not to recognize the statement of the former Chinese government on Acceptance of the Compulsory Jurisdiction of the ICJ. In
+fact, it refused to settle any dispute with other countries through the ICJ (Gao,
+1995, p. 162). On the other hand, as a UN Security Council member, it has nominated Chinese nationals as judges to the ICJ as well as to other international
+courts, such as ITLOS. Since these courts are composed mainly of judges from
+the West, some developing countries, including China, are doubtful of the
+impartiality and justice the international judiciary can maintain (Zou, 2009, p.
+32). As for UNCLOS, China declared on September 7, 2006 under Article 298
+the exclusion of certain disputes (such as concerning maritime delimitation, territorial disputes, or military use of the ocean) with other countries from the
+jurisdiction of international judiciary or arbitration (China’s Declaration in
+Accordance with Article 298 of UNLOCS, 2006). As one Chinese scholar points
+
+19430787, 2018, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/aspp.12395 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+The Efficacy of Compulsory Mechanism of UNCLOS
+
+Asian Politics & Policy—Volume 10, Issue 2—2018
+
+out, there is slim hope for China to change its attitude toward any third-party
+forum in the near future with regard to its dispute in the SCS.2
+Nevertheless, some other international legal scholars in China have started to
+bring to the table the issue of third-party compulsory dispute settlement
+forums. Some suspect China’s nonparticipation of the arbitral procedure was
+due to its fear of lacking strong legal evidence to support its claims in the SCS.
+However, in fact, as former ITLOS Judge Choon-Ho Park pointed out, compared with Vietnam and other SCS countries, China has more historic evidence
+to show its jurisdiction in the SCS.3 Jon Van Dyke (2009, pp. 66–7) also commented, “China’s historical claim is a weak one, but Vietnam and other littoral
+countries’ contiguity claim is not stronger.” Tony Carty points out that “China’s
+historical claim sounds weak as a result of imperialist disruptions of the SCS
+order. China’s presence in the SCS seems weak because since the 1970s Vietnam
+and the Philippines have been willing to use force to seize most of the Spratly
+Islands in the SCSs against protests from China” (Carty, 2016, p. 51). Jia Yu
+(2004) argues that China’s reluctance to accept a third-party settlement forum
+in addressing its disputes with other countries, especially those of sovereignty
+and maritime jurisdiction, comes from, first of all, the lack of experience in
+international litigation, and second, the lack of expertise in the international
+law field with regard to dispute settlement. One of the lessons for China to
+draw from the SCS arbitration is to catch up in retaining international expertise
+and training its own international litigation team. Apart from the reasons given
+by Jia Yu, the political culture of China, and some Asian countries—the belief
+that maintaining good neighborly relations will be jeopardized if their differences have to be resolved by a third party—sets a psychological obstacle for
+pursuing a third-party mechanism. Some state practice in Southeast Asia, for
+example, two cases in the International Court of Justice, Batu Puteh, Middle
+Rocks and South Ledge (Malaysia/Singapore) (ICJ, 2008), and Pulau Ligitan
+and Pulau Sipadan (Indonesia/Malaysia) (International Court of Justice, 2002)
+however suggest a changing pattern in how Asia chooses the approach to dispute settlement.
+China’s position of nonparticipation arouses academic and policy debates
+and criticism. Bing Ling (2015) listed several big losses for China due to its decision of nonparticipation in the process, for example, giving up the opportunity
+to present its legal argument, damaging China’s international image and reputation, being not conformity with China’s recent practice of participating in
+international cooperation. Julian Ku (2016) said it is Beijing’s fault that China
+lost big in the SCS ruling. Zheng Wang (2016) suggested that “there are multiple lessons that China can learn from this arbitration case, especially when it
+comes to decision making, policy research, attitudes and perception, and
+communication.” Jiangyu Wang (2016) argues that “China’s non-participation
+policy in the SCS arbitration case goes against its own national interests. . . nonparticipation offers less benefits but definitely incurs more costs for China.”
+
+China’s Position on the SCS Arbitration Case
+China’s position on the SCS arbitration case, namely nonparticipation and
+nonacceptance, has been coherent. On January 23, 2013, the day after the
+
+19430787, 2018, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/aspp.12395 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+222
+
+223
+
+Philippines filed its Notification and Statement of Claims, the Chinese Foreign
+Ministry spokesman stated that China has “indisputable sovereignty” over the
+SCS under “abundant historical and legal grounds” (“China Reiterates Islands
+Claim,” 2013). He blamed the dispute on the Philippines’ “illegal occupation of
+some of the Chinese islets and atolls of the Spratly Islands,” and claimed that
+China had been “consistently working towards resolving the disputes through
+dialogue and negotiations to defend Sino-Philippine relations and regional
+peace and stability.”
+On February 19, 2013, China officially refused to participate in the proceedings (“China Rejects Philippines’,” 2013). In addition, China accused the Philippines of making factually flawed accusations and of violating the Declaration
+on the Conduct of Parties in the SCS (DOC).4 Chinese Foreign Ministry spokesman Hong Lei mentioned the consensus that China and ASEAN member States
+reached when they signed the DOC in November 2002 that disputes should be
+solved through talks between the nations directly involved.5
+China considers the act of initiating arbitration proceedings unfriendly and
+damaging to Sino-Philippine relations. China complained that “the Philippine
+side had failed to notify the Chinese side, not to mention seek China’s consent,
+before it actually initiated the arbitration.”6 China’s reasons for rejecting the
+arbitration included: (i) China has insisted on its position on resolving the disputes between Beijing and Manila through bilateral negotiations (China’s Position Paper, 2014); (ii) under international law, China has the right to turn down
+the request from the Philippines for the arbitral proceedings because it has
+made a declaration under Article 298 of UNCLOS (China’s Position Paper,
+2014, paras. 57–75); and (iii) the act of filing the arbitration case sets an obstacle
+for the two countries to develop their friendly relations (China’s Position Paper,
+2014, para. 90).
+In addition, China also questioned whether the Arbitration Tribunal has
+jurisdiction over this case based on Articles 281, 282, 283, and 298 of UNCLOS.
+Article 281 and 282 envisage the resolution of disputes outside the framework
+of Part XV if certain specified conditions are met. If States have selected their
+own means of dispute settlement, the procedures available through Part XV
+will only apply if, according to Article 281, no resolution is reached through
+that means and if the parties did not exclude any further procedures in so
+choosing. In accordance with the emphasis on the free choice of States in selecting the means to resolve disputes, the alternative agreement may provide either
+explicitly or implicitly, the exclusive method of dispute settlement. In that case,
+the dispute is not subject to Part XV’s mandatory jurisdiction if no resolution
+was reached because it would run contrary to the wishes of the parties to utilize
+the (probably noncompulsory) procedures in the alternative agreements. Article 282 also permits States to refer disputes concerning the interpretation or
+application of the Convention to procedures that produce a binding decision
+under general, regional, or bilateral agreements. The alternative agreements
+will again apply in lieu of Part XV’s compulsory procedures unless the parties
+to the dispute agree otherwise.
+China has consistently stated that any disputes relating to the SCS should be
+settled by means other than through litigation and refers in this context especially to the DOC (China’s Position Paper, 2014, paras. 32–56), which was
+
+19430787, 2018, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/aspp.12395 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+The Efficacy of Compulsory Mechanism of UNCLOS
+
+Asian Politics & Policy—Volume 10, Issue 2—2018
+
+signed between China and the members of ASEAN, including the Philippines,
+in November 2002.7 In particular, under Article 4 of the Declaration, the participants “undertake to resolve their territorial and jurisdictional disputes by
+peaceful means, without resorting to the threat of force, through friendly consultations and negotiations by sovereign States directly concerned, in accordance with universally recognized principles of international law, including
+the 1982 UN Convention on the Law of the Sea.”
+The Tribunal asked itself whether the DOC could be regarded as an
+“agreement” for the purposes of Article 281 of UNCLOS, and reached the conclusion that the DOC is not as such legally binding, and that that in itself was
+sufficient to mean that Article 281 did not apply (“Award on Jurisdiction and
+Admissibility,” 2015, para. 219). The Tribunal concluded that Article 4 of the
+Declaration cannot “be construed as a representation that the Philippines
+would not bring compulsory proceedings against China” (“Award on Jurisdiction and Admissibility,” 2015, para. 251).
+The importance of resolving disputes through negotiations is reaffirmed
+through Article 283, which reads: “When a dispute arises between States parties
+concerning the interpretation or application of the Convention, the parties to
+the dispute shall proceed expeditiously to an exchange of views regarding its
+settlement by negotiation or other peaceful means” (UNCLOS, 1982). This obligation is intended to be a continuing obligation applicable at every stage of the
+disputes, and even extends to the manner of implementing any settlement
+reached. The inclusion of an obligation to exchange views was designed to cater
+to the wishes of delegations that the primary obligation of parties to a dispute
+should be to make every effort to settle the matter through negotiations.
+Whether the exchange has been undertaken is a subjective determination,
+however.
+The question is therefore whether the Philippines did indeed sufficiently
+make clear to China that it wished to resort to the procedures in Part XV and
+that it wished to discuss the means of settling a dispute under UNCLOS. From
+the Award, it appears that the bilateral exchanges between China and the Philippines were concerned much more with the overall dispute, which of course is
+fundamentally one about the sovereignty over land territory, rather than about
+a dispute about the interpretation of UNCLOS (China’s Position Paper, 2014,
+paras. 4–29). In other words, the exchanges referred to by the Philippines do
+not seem to have the necessary specificity, as stipulated by Judges Anderson
+and Greenwood, to justify the conclusion that Article 283 has been fulfilled.8
+The Tribunal sets out the contents of some of the exchanges between China and
+the Philippines, and then concludes that Article 283 has been complied with
+(“Award on Jurisdiction and Admissibility,” 2015, para. 337).
+Articles 297 and 298 set the limitations and exceptions of compulsory settlement under UNCLOS. Compulsory dispute settlement under Section 2 of Part
+XV is available to States for disputes relating to the delimitation of the territorial
+sea, continental shelf, and Exclusive Economic Zone (EEZ), and to historic title
+unless States have opted to exclude these disputes by virtue of Article 298(1)(a)
+(i). The issue of maritime boundaries remains critical when assessing the conduct of the parties within certain maritime areas. The Philippines has asserted
+that it has been denied the right to undertake the exploitation of living
+
+19430787, 2018, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/aspp.12395 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+224
+
+225
+
+resources. However, the Tribunal can only assess whether this right exists
+when it knows in which maritime zone the Philippines is operating and can
+only decide who is entitled to rights in such maritime zone after territorial sovereignty has been determined. In addition to the above issues, there is yet
+another jurisdictional hurdle under Article 298. China’s actions in preventing
+fishing by Philippine vessels could be considered as law enforcement activities
+against illegal fishing in an EEZ and hence fall outside compulsory procedures
+entailing binding decisions.
+The Tribunal noted that China has exercised Article 298(1)(a)(i) of UNCLOS
+to exclude certain disputes from the compulsory settlement of disputes, and
+one of the category of disputes which China has excluded is “disputes. . .
+involving historic . . . titles.”9 The Tribunal then considers whether this exclusion precludes it from exercising jurisdiction over the Philippines’ submissions
+relating to the nine-dash line (Award on Merits, 2016, para. 215). The Award
+suggests that China’s history-based claims within the U-shaped line do not
+include a claim to “historic title” (which bears the characteristics of sovereignty
+and will be excluded from the Tribunal’s jurisdiction by China’s declaration in
+2006 based on Article 298 of UNCLOS). Rather, China’s claim is one of “historic
+rights” which the Tribunal judged to be an exclusive claim of sovereign rights
+and jurisdiction in the exclusive economic zone of the Philippines.
+
+Legal Implications of the Award
+The implications of the Award may be analyzed from the perspective of the
+direct impact of the merits of the Award, and further implications for international law, especially the role of UNCLOS in settling or managing maritime disputes. The most controversial implication is on the U-shaped line. After
+passing the jurisdictional threshold of 298(1)(a)(i) (Award on Merits, 2016, para.
+230), the Tribunal then moved on to discuss the merits of the Philippines’ submissions that Chinese rights in the SCS “may not extend beyond” those provided for in UNCLOS, and that the “historic rights” claimed by China in the
+SCS are “without lawful effect” to the extent that they are incompatible with
+UNCLOS (Award on Merits, 2016, para. 230).10 The Tribunal ruled that China’s
+claims were contrary to UNCLOS and without lawful effect because they
+exceeded the geographic and substantive limits of China’s maritime entitlements under the Convention. This finding has two major flaws. First, the Tribunal interpreted the U-shaped line, as a line of “historic right” (Award on
+Merits, 2016, para. 227), while China has never made a public official statement
+about the legal meaning of this line, although the published works of Chinese
+scholars show a preference to interpret the legal status of the waters enclosed
+by the line as enjoying nonexclusive historic right (Hong, 2012). There are different categories of historic rights, namely, historic titles entailing sovereignty,
+historic rights short of sovereignty, historic rights short of sovereignty that a
+quasi-territorial or zonal impact beyond the territorial sea, nonexclusive historic
+rights, and traditional fishing rights. Nevertheless, the Tribunal considers China’s historic claims within this line are all identical, without providing a clear
+differentiation based on facts. Second, assuming that the U-shaped line is
+regarded by China as a line of “historic right,” the Tribunal took a different
+
+19430787, 2018, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/aspp.12395 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+The Efficacy of Compulsory Mechanism of UNCLOS
+
+Asian Politics & Policy—Volume 10, Issue 2—2018
+
+stance on China and the Philippines. It did agree that Manila is entitled to reach
+beyond the text of the Convention to enjoy a nonexclusively exercised traditional fishing right in the territorial sea of the Scarborough Shoal, which was
+part of the body of general international law preserved by UNCLOS (Award on
+the Merit, 2016, para. 761). However, the Tribunal denied China’s historic rights
+in a foreign EEZ and its reasoning was unsatisfactory (Award on the Merit,
+2016, para. 271). Its limitation of artisanal fishing rights to territorial seas rather
+than other exclusive maritime zones constituted an arbitrary narrowing of the
+jurisprudence created in the case of Eritrea v. Yemen. In the case of Eritrea v.
+Yemen, the ICJ had reached beyond the Western legal tradition to imaginatively
+rule that such rights accrue as a sort of servitude international (i.e., as a sort of
+nonpossessory right or interest in access and resources) in waters that were
+hitherto the “high seas” within a semienclosed sea but have since become part
+of a coastal State’s EEZ.
+The Tribunal discussed the relationship between UNCLOS and historic
+rights, which is essentially a question on the relationship between treaties
+and customary international law. The Tribunal relied on Article 31111 to
+explain UNCLOS’ relation to other conventions and international agreements
+and 293(1)12 to demonstrate that only those pre-existing rights that are either
+expressly “permitted or preserved such as in Articles 10 and 15” or compatible
+with the UNCLOS would be preserved (Award on Merit, 2016, para. 238(a)).
+The Tribunal noted that “where independent rights and obligations have arisen
+prior to the entry into force of the Convention and are incompatible with its
+provisions, the principles set out in article 30(3) of the Vienna Convention and
+article 293 of the Convention provide that the Convention will prevail over the
+earlier, incompatible rights or obligations” (Award on Merit, 2016, para. 238
+(d)). In other words, focusing on historic rights for fishing and continental shelf
+resources, the Tribunal concluded that UNCLOS precludes China’s such claims
+within the 200 nm EEZ and continental shelf of another State.
+It is obvious that the scope and contemporary relevance of historic claims
+were significantly restricted by the Tribunal which found that UNCLOS supersedes any previous historic titles/rights apart from those explicitly recognized
+in Articles 10 and 15 of UNCLOS. The challenge of the Tribunal’s argument
+rests on, first, the lack of explanation on the reasoning of the Tribunal why Article 311 on the relationship between the UNCLOS and conventions and international agreements could be analogically applied to the relationship between the
+UNCLOS and historic rights as rules of customary international law (Kopela,
+2017, pp. 181–207). Similarly, as Kopela (2017, p. 184) pointed out, Article 293
+concerns dispute settlement and the applicable law, rather than the relationship
+between the UNCLOS and other rules of international law, including historic
+rights. The only relevant provision that the UNCLOS entails with respect to
+customary international law is written in the Preamble of UNCLOS: “affirming
+that matters not regulated by this Convention continue to be governed by the
+rules and principles of general international law.” UNCLOS does not contain
+any provisions prohibiting the preservation of rights preexisting UNCLOS or
+nullifying them. Potential existence of historic rights is not precluded as long as
+the requirements for their establishment have been met. Historic rights, relating
+to a particularized regime, reflect a continuous, long-established, and
+
+19430787, 2018, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/aspp.12395 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+226
+
+227
+
+undisturbed situation. They should be assessed on a case-by-case basis according to the historical particularities and realities of the claim (Kopela, 2017, p.
+199).
+The second controversial issue is the island regime. The Tribunal finds that
+five named features are low-tide elevations (Award on Merits, 2016, para.
+1203B(3)(c)), that six named features are “rocks” within the meaning of Article
+121(3) of UNCLOS, and that “with respect to the status of other features in the
+South China Sea,” all of the “high-tide features” are “rocks” (Award on Merit,
+2016, para. 1203B(7)(a)). There is no precedent for an international tribunal or
+court to adjudicate upon the status of a feature when the underlying sovereignty over that feature is disputed. The Tribunal distinguished the status of
+features from their implications for maritime delimitation (“Award on Jurisdiction and Admissibility,” 2015, paras. 155–157, 401, and 403). As Whomersley
+(2017, p. 6) points out, “It is unprecedented for an international judicial body to
+draw what seems an artificial distinction, given the intimate connection
+between the two issues, and one might question whether the Tribunal was right
+to go ahead at all on this basis.” Any decision about the status of a feature inevitably raises a question about the applicability of Articles 74 and 83 and is thus
+covered by Article 298(1)(a)(i).
+One of the most significant elements of the ruling was its finding that Itu Aba
+(Taiping Dao), the largest feature in the Spratly group, currently occupied by
+Taipei, is not an “island” but is instead merely a “rock.” As pointed out by
+Sourahb Gupta (2016), the Arbitral Tribunal threw decades of jurisprudential
+caution by directly addressing the distinction between “islands” and “rocks,”
+and added an arbitrary “historical use” test in the case of features that are difficult to define. The Tribunal’s interpretation bears little resemblance to the spirit
+of Article 121 which was drafted deliberately ambiguous. Tony Carty (2016)
+argues that “The tribunal has gone outside its judicial function in playing a legislative role rewriting Article 121 of the Convention on the Law of the Sea to
+implement a goal of favoring coastal states wishing to project exclusive economic zones or continental shelves from their mainland coasts.” The rationale
+of the treaty itself is that it is for the State parties to agree with one another on
+equitable maritime boundary demarcations—also excluded by China by its reservation under Article 298—and not for a tribunal to use a legislative power to
+knock one of the parties out of the picture.
+The ruling also suggests that China’s land reclamation activities have caused
+harm to the coral reef ecosystem and thereby—in violation of its international
+treaty obligations (CITES, Convention on Biodiversity)—damaged the marine
+environment.13 Given the provisions of international treaty law, including
+UNCLOS, with respect to the protection and preservation of the marine environment, it becomes a critical issue whether China has fulfilled its obligations.
+China’s official statement from the Ministry of Foreign Affairs suggested China
+has conducted Environment Impact Assessment (EIA) and that it is continuing
+to monitor the impact of its reclamation activities (Embassy of the People’s
+Republic of China in Malaysia, 2015). It seems necessary for China to make the
+EIAs public and acknowledge its duty to cooperate with potentially affected
+States.14 Due diligence duties for maintaining permanent means for giving
+warning of the islands’ presence and appropriate publicity as to the depth,
+
+19430787, 2018, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/aspp.12395 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+The Efficacy of Compulsory Mechanism of UNCLOS
+
+Asian Politics & Policy—Volume 10, Issue 2—2018
+
+positions, and dimensions should also be encouraged. As China defends its
+land reclamation as improving China’s capacity to deliver maritime public
+services, China needs to show evidence or set examples of using the reclaimed
+construction for maintaining maritime safety and security, offering support for
+search, rescue, scientific research, and so forth. Nevertheless, whether China’s
+choice in the first place is a right one is another question.
+The SCS arbitration case has thrown to the fore a number of additional issue
+areas where the two sides have competing interpretations. These range from
+the applicability of the tribunal’s award to the outstanding SCS maritime entitlement disputes, to the role of enforcement rights regarding implementing the
+award’s provisions. More broadly, the arbitration case also shone the spotlight
+on the abuse of the sensitive issue of “judicial law making.” As a general practice, international judicial institutions when adjudicating a dispute must identify, elaborate, and apply relevant international laws and rules to eliminate the
+source of the dispute. Judicial interpretations should hew to the letter and spirit
+of the relevant laws and rules and, ideally in contested interpretive areas, pay
+due regard to prevailing state practice. Disputant parties resort to international
+judicial institutions on the basis of their natural trust in international law and
+their expectation of fair redressal. Of late, however, the principle of “judicial
+law making” in the international maritime jurisprudential space has been damaged by some UNCLOS-constituted judicial or arbitral body to fashion fresh
+legal rules that depart from the intent of the legal texts as well as prevailing
+state practice. And in the process of doing so, this trend has disturbed the regularity and legal stability that state parties had come to expect when they signed
+up to submit to the dispute settlement chapter of UNCLOS. Tony Carty (2016)
+criticizes the Arbitration Tribunal for overstepping in making new legal policy
+governing disputed islands. Some analysts raise the concern that the role of the
+judiciary in any legal order has to be limited to the interpretation of norms
+about whose meaning there is a broad social consensus. “Where there is fundamental disagreement about the meaning of rules, it is not appropriate for
+unelected legal officials to resolve the legal vacuum” (Zhang, 2017).
+The SCS arbitration is not a complete loss for China, however. Over the past
+three years, it has not only been the government which has argued against the
+jurisdiction of the Tribunal and the outcome of the case, but also Chinese legal
+scholars and students of international law.15 Debates in the field of Chinese
+international law, dozens of publications on the SCS arbitration case and the
+heightened interest in UNCLOS all show that China is undergoing a transformational way of thinking regarding its future choices for resolving maritime
+disputes. Will its conventional approach of bilateral negotiations and consultations still be its preferred method for settling interstate disputes? Or will China
+come to accept that third-party dispute resolution has a pivotal role to play in
+settling problems with neighboring countries? The Arbitral Tribunal’s ruling
+on the SCS provides an opportunity for China to rethink its traditional
+approach to dispute resolution.
+
+19430787, 2018, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/aspp.12395 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+228
+
+229
+
+Security Implications and State Practice in the SCS
+This case is so far the first attempt by a claimant State in the SCS to refer the
+dispute to a third-party forum. However, it does not make a desired contribution to resolving the real dispute between the two. The disputes on territory
+and maritime delimitation remain unsolved. The bilateral relations deteriorated
+during the three years’ course of the arbitration. Nevertheless, the ruling has
+incentivized ASEAN and China to accelerate negotiations for finalizing a code
+of conduct (COC) for the SCS. Although the ruling has, to some extent, complicated ASEAN-China relations, ASEAN has avoided taking sides and cooperation with China is ongoing. For instance, in September 2016, ASEAN and
+China adopted a set of guidelines to establish telephone hotlines among their
+foreign ministries to be used in times of crisis. The two sides also agreed to
+apply the Code for Unplanned Encounters at Sea to the SCS to reduce the risk
+of potentially dangerous incidents at sea. The Chairman’s Statement of the 20th
+ASEAN-China Summit reiterated the commitment to the full and effective
+implementation of the DOC, and adopted the Leaders’ Declaration on a Decade
+of Coastal and Marine Environmental Protection in the SCS, which is reflective
+of the shared commitment to implement the DOC and desire to transform the
+SCS into a sea of peace, stability, and prosperity. The leaders collectively
+announced that the substantive negotiations on the text of the COC will commence in early 2018 (ASEAN, November 13, 2017).
+The ruling has also created an opportunity for the Philippines and China to
+restart bilateral talks on the dispute. One of these efforts was the pragmatic
+approach adopted by Duterte to move on to bilateral dialogue with China without explicitly urging for the enforcement of the award. Philippine President
+Rodrigo Duterte appointed former President Fidel Ramos as his special envoy
+to China to begin the process of bilateral negotiations (Mogato, 2016). During
+his visit to Beijing in October 2016, rather than getting entangled on the SCS dispute, Duterte focused on economy-driven goals and signed documents covering several trade deals as well as cooperation in cultural, tourism, antinarcotics,
+and maritime affairs. Playing low key on the SCS indicates a future where the
+parties are able to move on, at least in the short term, from a bitter row over the
+insular features in the SCS. Philippine ships have been allowed access to Scarborough Shoal in the SCS. The coast guards of the Philippines and China lined
+up joint drills, including search and rescue, oil pollution management, boarding, and law enforcement—particularly on combating drug trafficking and
+other transnational crimes, implementing an agreement that President Duterte
+signed during his state visit to China in October 2016.
+Following the example of China and the Philippines, China and Vietnam
+agreed to make good use of the border negotiation mechanism between the two
+governments and seek a fundamental and long-term solution to the maritime
+disputes in the SCS. To achieve this, both sides agreed to conduct follow-up
+activity on the joint inspection in waters outside the Beibu Gulf (“China, Vietnam Reach Consensus,” 2017). Concerning cooperation at sea, the two sides
+agreed to promote the efforts of the working group on cooperation for development at sea and step up joint projects in less sensitive fields (Vietnam, China
+issue joint statement, November 13, 2017). Before this, the two countries’ coast
+
+19430787, 2018, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/aspp.12395 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+The Efficacy of Compulsory Mechanism of UNCLOS
+
+Asian Politics & Policy—Volume 10, Issue 2—2018
+
+guards also signed a memorandum of understanding and held their first working meeting in August 2016.
+While China and ASEAN are cooperating to better manage the dispute, the
+role of other stakeholders should not be ignored. The SCS dispute has evolved
+from a territorial and maritime dispute among the claimant States to a source of
+competition between China and the United States. In 2016, the United States
+increased the frequency of its naval patrols in and outside the 12 nautical mile
+zones of the Spratly and Paracel Islands under the name of innocent passage
+and freedom of navigation, without challenging China’s sovereignty claims.
+Compared with its strong reaction to the 2001 EP-3 incident and the 2009 Impeccable incident, during which strong nationalism dominated public discourse,
+China reacted with low-profile official protests, without objecting to the doctrine of freedom of navigation itself. The behavior of the United States and
+China reflects the political willingness of both countries to keep the SCS dispute
+under control and to enhance maritime cooperation despite these divergent
+views.
+Whether this balance will continue during the Trump administration is not
+yet clear. During his confirmation hearing, Secretary of State Rex Tillerson took
+a tougher stance against China’s presence in the SCS. He contested China’s sovereignty claim in the SCS, saying that China’s “access to those islands is not
+going to be allowed” (Hunt, 2017). Later, however, he reportedly pushed President Donald Trump to reaffirm the One-China Policy, after he had earlier indicated that it should be reconsidered (Roberts, 2017). Secretary of Defense James
+Mattis also seems to be eager to walk back the rhetoric a little, suggesting during his inaugural trip to Tokyo that there is “no need for dramatic U.S. military
+moves in [the] South China Sea” (Stewart, 2017). At the same time, however,
+Steve Bannon, the appointed senior counselor to the president, said “there is no
+doubt” that the United States is “going to war in the South China Sea in 5 to 10
+years” (Brannen, 2017). Sean Spicer, Trump’s White House press secretary,
+claimed that “we’re going to make sure that we defend international territories
+from being taken over by one country” (VOA, 2017). Notably, the words
+“freedom of navigation”—the linchpin of Obama-era declamations of U.S.
+interests in the SCS—did not appear at the briefing. Whether this signaled a
+sharp departure in the U.S. approach to handling China’s territorial claims at
+sea remains to be seen. All these comments from key members of Trump’s foreign policy team suggest an uncertain U.S. policy in the SCS.
+In addition to the uncertainty and unpredictability of the Trump administration’s policy, the debate about the presence of the U.S. Coast Guard (USCG) in
+the SCS might be another point of friction between the United States and China.
+On November 29, 2016, Admiral Paul Zukunft, the USCG commandant, spoke
+at the Brookings Institution about sending USCG ships to the SCS to maintain
+regional order (Shim, 2016). From the U.S. perspective, as USCG Vice Commandant Charles Michel has argued, there is reason to think that China might
+respond more positively to USCG white hulls than U.S. Navy cruisers and
+destroyers, and that the coast guard can more easily maneuver the “narrow
+door of diplomacy” (Pickrell, 2016). However, the argument that the USCG
+should have a more visible presence in the SCS highlights a misunderstanding
+
+19430787, 2018, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/aspp.12395 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+230
+
+231
+
+about coast guard roles and thereby risks increasing the chance of conflict with
+China and possibly other claimant states, especially Indonesia and Malaysia.
+From November 3–14, 2017, U.S. President Trump swung through five Asian
+countries on the first Asia-Pacific trip of his presidency, including attending the
+2017 APEC CEO Summit in Vietnam and the 50th ASEAN Anniversary in
+Manila. Interestingly, the SCS, which was predicted by many as one of the hot
+issues to be discussed at ASEAN serial summits, seemed to draw much less
+attention than expected. Two important points are worth noting with regard to
+the Trump visit and the SCS issue. First, little of the visit’s focus was dominated
+by the SCS. Although President Xi Jinping had mentioned China’s land reclamation activities in the SCS in his 19th Party Congress report as a domestic
+issue that did not pertain to external actors, Trump did not offer any pushback.
+Second, to the extent that the SCS issue has somewhat faded from the regional
+headlines, this might provide a useful opening for China to maintain and
+strengthen relationships and strategic stability in the SCS region.
+During his trip to the region, Trump unveiled his “Free and Open IndoPacific” concept and repeatedly used the term “Indo-Pacific” instead of “AsiaPacific” for the region. Earlier, on October 18, 2017, in a speech at the Center for
+Strategic and International Studies (CSIS) titled “Defining Our Relationship
+with India for the Next Century,” Secretary of State Rex Tillerson repeatedly
+highlighted the role of India in the context of the administration’s new “IndoPacific” concept. Although U.S. Department of State officials have since
+attempted to downplay the “Indo-Pacific’s” strategic role as a mechanism to
+encircle China, most D.C.-based analysts share the view that the United States’
+“Quad” plan, involving India, Japan, and Australia, is aimed at balancing—if
+not outright containing—China.
+
+A Practical Model of Maritime Dispute Management
+As analyzed above, a compulsory dispute settlement mechanism may not be
+the only or the best option for addressing the disputes in the SCS. The State
+practice of maritime dispute management in this region suggests that there is
+not a unique or single answer as to which mode is the best. This following section proposes a pragmatic dispute management regime for the SCS dispute
+from four dimensions.
+
+Environmental Security as a Driving Force of Cooperation
+in the South China Sea
+In general, environmental interdependence is both a source of conflict and
+potential for international cooperation. If the political actors address serious
+environmental problems as security matters, they are more likely to put them
+at the top of the agenda and deal with them in a satisfactory way, that is, to
+cooperate and find solutions that are acceptable to all parties involved. The
+direction of the development, that is, whether it leads to conflict or cooperation,
+is to a large degree a question of how the decision makers perceive the
+situation.
+In general, marine environment problem is not at the top of the agenda of
+most SCS countries. Based on securitization theory of the Copenhagen School,16
+
+19430787, 2018, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/aspp.12395 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+The Efficacy of Compulsory Mechanism of UNCLOS
+
+Asian Politics & Policy—Volume 10, Issue 2—2018
+
+environmental problem should be now securitized if we wish to put it at the
+top of the agenda among the SCS countries and address it in an effective manner. The Copenhagen School defines the referent object of environmental security as the environment, or some strategic part of it. It considers the abilities of
+individuals, communities, or nations to cope with environmental risks, changes
+or conflicts, or limited natural resources. If serious environmental problems
+were defined by the political actors as security matters, then they would most
+certainly be put higher up on the agenda. Then, environmental security issues
+can be used as a driving force of cooperation in the SCS. This driving force
+could be strengthened as the link between the oceans and climate change is
+receiving greater international attention. The gradual awareness of the critical
+link between marine environment and climate change thus highlights the
+importance of securitizing marine environment in the SCS.
+How can security considerations function as driving forces for regional cooperation? One very important aspect related to this is that driving forces cannot
+function as such without being perceived by the political actors as high politics.
+Hence, the concept must be related to the general perceptions of the politicians.
+The actors must recognize and perceive the link between their high politics concern and marine environment security in the SCS. It is the issue of politicomilitary security that is likely to generate calls for closer international cooperation in the SCS. To a large degree, one may say that security questions have
+been a driving force for continued regional integration in Southeast Asia
+(Dokken, 2001, p. 509). Increasingly, problems of environmental security will
+do the same.
+The states around the SCS are to a large degree interdependent when it
+comes to questions of the marine environment. If they fail to find common solutions to environmental problems they may end up in violent conflict against
+each other. Regional environmental problems may be considered in terms of
+shared hazards and shared resources: both categories are now poised to acquire
+significant integrative potential. The problems are growing, and so are the
+potential gains of cooperation (Dokken, 2001, p. 523). It is therefore necessary to
+ask whether there are signs of epistemic communities playing such a role in
+relation to marine environmental cooperation in the SCS region. Studies on the
+role of experts in relation to environment, security, and international cooperation in the SCS region are as yet limited. Around the Mediterranean and Baltic
+Seas, authoritative regional communities of scientists have emerged and these
+communities were influential in establishing ocean governance systems for
+those seas (Haas, 1990; Hjorth, 1994, pp. 11–31; Næss, 1999). Generally, authoritative expertise and data are a vital basis for any community or group of policymakers dealing with the environment. Scientists who have the ability to think
+ecologically and in broad terms can play an important role in the development
+of ocean governance systems (Dokken, 2001, p. 523). The impact of scientific
+advice is more likely in situations where decision makers are uncertain about
+environmental problems (Haas, 1992, pp. 1–37). This is the case with the SCS.
+There is a general lack of qualified information on the sea and its resources.
+There are, however, several factors impeding a possible scientific impact on
+environmental policies in the SCS. At the outset, heavy emphasis on vital State
+interests and national sovereignty does not leave much room for independent
+
+19430787, 2018, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/aspp.12395 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+232
+
+233
+
+scientific advice on how to formulate environmental policies in the region. For
+the time being, the climate is dominated by high politics. This obviously hampers the influence of expert advice, and the way it works today.
+The dependency on the sea for its resources, as means of transportation and
+foreign exchange earnings from fishing, tourism, and so forth, and the fact that
+the states around the SCS are heavily interdependent in relation to the use of
+the resources, should imply that international cooperation is the only sensible
+policy alternative in the future. However, knowing that today there is a perceived contradiction between environmental considerations and international
+cooperation on the one hand and the emphasis on vital state interests and
+national sovereignty on the other, what does it take to press the political actors
+to cooperate? The concept of “environmental security” may be part of the
+answer.
+According to this concept, there is no contradiction between international
+environmental regimes and vital national interests. Rather, international cooperation on environmental resources is the only way to secure vital national
+resources for the future. Dealing with environmental problems will normally
+require some pooling of state sovereignty on behalf of common ecological security. The linkage between political/military security and environmental security arises from the fact that we are living in an interdependent world. In our
+days, the destinies of nations are becoming intertwined in ever more complex
+ways. Sensitivity and vulnerability are two key concepts related to the phenomenon of interdependence. In general, the sensitivity and vulnerability of states
+in an interdependent world create a need for policy coordination to reduce the
+effects of vulnerability and regain control. So far, this has been of importance
+primarily in relation to political-military security. However, the conceptualization is equally valuable where environmental security is concerned. A transborder ecosystem out of control creates the need to cooperate between states so as
+to reduce further vulnerability and regain control (Dokken, 2001, p. 524).
+On environmental security matters, states never have been, nor will they ever
+become, fully sovereign. This is particularly evident when it comes to international policy on pollution. Trans-boundary pollution of waterways raises the
+question of whether polluting activities within the boundaries of one state
+should remain the exclusive jurisdiction of its government. Alternatively, is the
+sovereignty of a State compromised when its environment is degraded by pollutants emanating from neighboring countries (Dokken, 1997, p. 89; Soroos,
+1986)? These are among the points that need to be emphasized by the scientific
+experts when asked for advice by the policymakers in the SCS region. It
+all points in the direction of the need for further international cooperation
+(Dokken, 2001, p. 524).
+The main question is whether common marine environmental problems
+could be a driving force for further cooperation in the SCS, within ASEAN and
+between ASEAN, China, and Taiwan. The recognition of strong environmental
+interdependence is one of the strongest driving forces for regional cooperation
+and integration outside Europe today. We know that in organizations like
+ASEAN, and between ASEAN and China, pragmatic interests are not sufficient
+for the cooperation process to move forward. A driving force is needed. It is
+possible that, if defined as security matters, grave regional marine
+
+19430787, 2018, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/aspp.12395 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+The Efficacy of Compulsory Mechanism of UNCLOS
+
+Asian Politics & Policy—Volume 10, Issue 2—2018
+
+environmental problems could be the necessary driving force for the SCS cooperation in the future. For the political leaders of the SCS littoral states to perceive environmental problems as security matters, they must acknowledge that
+they are. Teaching the political actors about the relationship between environment and security in the SCS region may therefore be an important task for the
+epistemic communities of concerned scientists in the region.
+
+Fisheries Cooperation as a Start of the SCS Disputes Resolution
+Stability can be achieved through cooperation undertaken at the lowest levels
+of contact in the SCS, even as major political disagreements remain unresolved.
+A prime example of cooperation can be found in the field of fisheries management, an area in which cooperation among the littoral states is encouraged.
+Fisheries cooperation might be one practical option to avert outright conflict in
+a region that seems perpetually on the edge of hostilities.
+The SCS meets the criteria set out in Article 122 of the UNCLOS defining the
+term “semi-enclosed sea”: “[E]nclosed or semi-enclosed sea’ means a gulf, basin
+or sea surrounded by two or more States and connected to another sea or the
+ocean by a narrow outlet or consisting entirely or primarily of the territorial
+seas and exclusive economic zones of two or more coastal States.”
+Because the SCS is semienclosed, any change in its ecosystem will have significant impact on the whole area. It is generally recognized that the living
+resources in the SCS area migrate from one EEZ to another, particularly highly
+migratory species such as tuna and other shared stocks. It is interesting to note
+that most of the fishery resources in the SCS region are either shared stocks
+such as scads and mackerels that migrate across the EEZs of more than one
+coastal State, or highly migratory species, especially tuna, whose migratory patterns sometimes cover a vast area of the ocean. Common stocks of scads and
+mackerels are believed to occur along the coasts of the Gulf of Thailand and the
+eastern region of the SCS (K.-H. Wang, 2001, p. 536).
+Each country may already have its own assessment of its living resources in
+its EEZ, assuming that the definition and delineation of each EEZ is clear. The
+problem is that many of those EEZ boundaries are not well defined or mutually
+agreed upon by the relevant parties. Likewise, there are various conflicting
+claims to islands that complicate and defer the determination of the EEZ
+boundaries. For this reason, many experts and scholars are convinced of the
+need to cooperate on the assessment of the living resources in the SCS without
+regard to jurisdictional boundaries.
+UNCLOS further provides in Article 123 that, “States bordering an
+enclosed or semi-enclosed sea should co-operate with each other in the exercise of their rights and in the performance of their duties under this Convention. To this end they shall endeavour, directly or through an appropriate
+regional organisation.” Therefore, all parties concerned should be aware that
+fish are migratory and fishery resources are exhaustible, so that rational use
+of the SCS and the preservation of its marine environment are important to
+all parties. Thus, cooperation among littoral States in the region is essential.
+To avoid overfishing or depletion of resources, conservation measures have
+to be taken. Such measures are not possible without regional cooperation and
+
+19430787, 2018, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/aspp.12395 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+234
+
+235
+
+require close coordination among the parties concerned especially in a semienclosed sea.
+In the SCS region, it is not difficult to locate opportunities for cooperation.
+Military cooperation, joint development on hydrocarbon resources, marine scientific research, marine environmental protection, and fisheries cooperation are
+all options. To date, however, disputes surrounding possible hydrocarbon
+resources in the area and actions in favor of conservation and management of
+fishery resources have been delayed. Nevertheless, conservation and management of fishery resources could be the starting point for cooperation in this area
+and could have a “spill-over effect” on other areas of cooperation. Accordingly,
+the next step depends on littoral states’ political will and determination to pursue cooperation in this matter.
+
+UNCLOS as a Framework for Ocean Governance in the SCS
+UNCLOS provides an integrated legal framework on which to build sound
+and effective regulations to the different uses of the ocean. Whether or not we
+choose to call UNCLOS a constitution for the ocean, it does articulate a system
+of ocean governance (Young, 2005, p. 42). It does not specify in detail when and
+how fishers can harvest living resources in the EEZs of coastal States or what
+the terms of leases for deep seabed mining will be. What it does do, however, is
+to create, although sometimes contentious, procedures for arriving at collective
+decisions about such matters. This is precisely what we expect a constitution or
+constitutive agreement about governance to do. Rainer Lagoni argues that
+UNCLOS is no constitution in the sense of the usual terminology of the law of
+States. Notwithstanding this, it is the principal legal instrument that provides
+the framework for the public order of the oceans and seas (Lagoni, 2005, p. 51).
+This function has to be taken into account during its interpretation and application by the State Parties. Moreover, it determines its systematic role for the integration of all international treaties relating to the oceans and seas into such an
+international public order.
+A constitutional perspective suggests that UNCLOS was not intended to be
+comprehensive to the extent that there would be no need to create further law
+(Stevenson & Oxman, 1994, p. 492). This means that, although UNCLOS made
+use of “vagueness, ambiguity, and silence” at certain points and in respect of
+certain controversial matters (Pardo, 1987, p. 13), it could be regarded as legally
+effective to the extent that it provides clearly for a system within which to
+address substantive issues as they arise. The goal of a constitution is to provide
+for a system of governance rather than to deal with all substantive matters.
+UNCLOS refers in almost 70 provisions to the possibility that the subject in
+question may be governed by another international instrument, bilateral or
+multilateral, anterior or posterior (Wolfrum, 1997, p. 190).
+In “Ocean governance: Sustainable development of the seas,” UNCLOS was
+highly praised as follows:
+In considering the extent to which existing international institutions are adequate to the task of making a reality of the concept of sustainable development in the field of marine resources, the obvious starting point is the 1982
+UN Convention on the Law of the Sea. Designed to reflect elements of the
+“New International Economic Order” and to establish the legal content of
+
+19430787, 2018, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/aspp.12395 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+The Efficacy of Compulsory Mechanism of UNCLOS
+
+Asian Politics & Policy—Volume 10, Issue 2—2018
+
+the concept of the “common heritage of mankind,” the Convention gives
+expression precisely to those elements of universal participation, equity and
+balanced reciprocal obligation, transference of funds, science and technology
+to the developing countries, and regulation of access to shared natural resources, that are also inherent in the concept of sustainable development.
+(Payoyo, 1994)
+
+UNCLOS, rather than as a compulsory channel to settle the disputes, sees
+itself more as a framework within which regional ocean governance seems to
+be an approach to address the dispute in the SCS. A regional system of ocean
+governance—which presupposes some concepts of shared, rather than selfcentered, sovereign authority, in this sense, would mean not only more intensive and transparent consultations among ASEAN members and China on a
+full range of ocean issues, but also a more ready willingness on their part to
+accept and institutionalize a strategic notion of regional security based on a
+comprehensive system of ocean security. “Regional ocean governance” simply
+means that the comprehensive process of sustainable development of and for
+the oceans at the regional level. Its underlying premise reiterates the core principle of UNCLOS that “the problems of ocean space in a region are closely
+interrelated and need to be considered as a whole” (UNCLOS, Premise). Like
+ocean governance at the global level, regional ocean governance has two prerequisites: sustainable development norms and sustainable development institutions. While in the SCS, there is no an overall policy on ocean governance per
+se, it could be said that the building blocks for this policy are already in place.
+A consideration of the normative framework for ocean sustainable development in the region would show that the regime of comprehensive security envisioned by UNCLOS process can find supports in the ocean management
+regimes of ASEAN and China—enhancing, directly or indirectly, the substantive framework of sustainable development and/or comprehensive security
+embodied in UNCLOS. The elements of a regional regime of ocean governance
+consist of the several distinct strands of ocean management norms and standards which have become integral to the international law of ASEAN and China.
+Mention may be made, first, of DOC, which may be considered as setting forth
+the broad framework of regional cooperation which could very well be
+extended to the oceans, or applied in the context of expanded and integrated
+ASEAN 1 1 program on marine affairs.17 The norms and standards elaborated
+under these agreements specify the concrete aims and the various forms of
+regional cooperation, as well as the norms of conflict-avoidance and peaceful
+settlement of disputes.
+The DOC may be cited as such a framework agreement on ocean management in the SCS region. The consistency with which it has been invoked in
+ASEAN and China does make it an authoritative basis for conflict avoidance
+and cooperation in the region: in addition to its call for restraint and a peaceful
+resolution of the overlapping territorial claims, the declaration invites all parties involved “to explore the possibility of cooperation in the South China Sea
+relating to the safety of maritime navigation and communication, protection
+against pollution of the marine environment, coordination of search and rescue
+operations, efforts towards combating piracy and armed robbery, as well as collaboration in the campaign against illicit trafficking in drugs” (Nguyen, 2005).
+
+19430787, 2018, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/aspp.12395 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+236
+
+237
+
+The ASEAN members pledged to “seek an early, peaceful resolution” of the
+dispute and to “explore ways and means to prevent conflict and enhance
+cooperation in the South China Sea consistent with the Treaty of Amity and
+Cooperation, the ASEAN Declaration on the South China Sea of 1992, as well as
+international law, including the UN Convention on the Law of the Sea”
+(ASEAN, 1995).
+
+COC as a Cornerstone for Shaping an Identical Legal
+Culture in the SCS
+Nonregional countries have high expectations on a COC. China is inclined to
+formulate a multilateral mechanism which is applicable to the Spratly Islands
+area and mainly contributes to involving only the parties’ conversations. It does
+not aim at solving sovereignty or maritime jurisdiction issues. There are divergences regarding the COC within the ASEAN. For instance, the purpose of former Philippine President Benigno Aquino III is to make COC a disputeresolving mechanism with legally binding force. Vietnam takes the same standpoint with the Philippines on the legal attributes of COC, but it does not agree
+with the Philippines on solving territorial and border disputes by resorting to a
+third-party mechanism. There are other divergences among the claimant countries, such as the applicable maritime space of COC. China expects that to cover
+the Spratly area only. Vietnam hopes COC to be applicable to the Paracel area
+as well. The Philippines expects to extend the applicable area to the Scarborough Shoal. In addition to that, Malaysia also has disputes with Vietnam. Thus,
+the future of negotiation would not be a smooth process.
+In this context, setting the COC as the cornerstone of the legal-cultural community of the SCS area may pave the way for the difficult process of negotiating
+divergent positions. This is in accordance with the interests of both China and
+ASEAN. For ASEAN, the SCS issue should not have any negative impact on its
+integration. For China, an institutionalized SCS order based on certain rules
+benefits its national interest and is compatible with its advocacy of international
+law and its defense of the basic rules of international relations. China should
+seize this opportunity of negotiating COC with the ASEAN and constitute the
+regional order of SCS that benefits this region.
+ASEAN and China should work on a consensus over the legal status of the
+COC, that is, the issue of legal binding force, as soon as possible. The international society at the moment, especially external countries such as the United
+States, Japan, and Australia, holds a profound misunderstanding that China
+does not wish to see a legally binding COC. They attribute the slow progress of
+negotiations to China’s objections to international expectations. Some Chinese
+scholars have pointed out that it benefits China’s interests that the COC should
+be legally binding, and moreover, include punitive clauses. “If there is anything
+insufficient in the DOC, it is the lack of legal binding force and the contents on
+the costs to violations of the clauses.”18 As a regional norm evolved from the
+DOC, the COC should be legally binding. A COC devoid of legally binding
+force will not contribute to trust building with ASEAN countries, effective management of the SCS disputes, or prevention of interventions from external parties. Given that the ASEAN countries have not achieved internal consensus on
+the issue, China could remain open and calibrate its stance based on the
+
+19430787, 2018, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/aspp.12395 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+The Efficacy of Compulsory Mechanism of UNCLOS
+
+Asian Politics & Policy—Volume 10, Issue 2—2018
+
+progress of negotiations. For now, a proposal could be considered on building
+a legally binding COC to address low-end issues, a mechanism employed to
+solve disputes aside from territorial sovereignty and maritime delimitation, for
+example, fishery disputes and maritime environmental issues.
+
+Transformation of Ways of Thinking as a Foundation to Lead Policy
+and Research Direction
+Rethinking the problem-solving orientation starts by questioning the premise
+that conflicts need to be viewed as problems in the first place (Bush & Folger,
+2004, p.81). A different premise would suggest that disputes could be viewed
+not as problems at all but as opportunities for moral growth and transformation. This different view is the transformative orientation to conflict.
+Conflict affords people the opportunity to develop and exercise both selfdetermination and self-reliance (Bush & Folger, 2004, p.82). Moreover, the
+emergence of conflict confronts each party with a differently situated other who
+holds a contrary viewpoint. This encounter presents each party with an opportunity for acknowledging the perspectives of others. It gives the individual the
+chance to feel and express some degree of understanding and concern for
+another, despite diversity and disagreement. Conflict thus gives people the
+occasion to develop and exercise respect and consideration for others. In sum,
+conflicts embody valuable opportunities for both dimensions of moral growth,
+perhaps to a greater degree than most other human experiences. This may be
+why the Chinese have a tradition of using identical characters to depict crisis
+and opportunity.
+In the transformative orientation, the ideal response to a conflict is not to
+solve “the problem” (Bush & Folger, 2004, p. 82). Instead, it is to help transform
+the individuals involved, in both dimensions of moral growth. Responding to
+conflicts productively means utilizing the opportunities they present to change
+and transform the parties as human beings. It means encouraging and helping
+the parties to use the conflict to realize and actualize their inherent capacities
+both for strength of self and for relating to others. It means bringing out the
+intrinsic goodness that lies within the parties as human beings. If this is done,
+then the response to conflict itself helps transform individuals from fearful,
+defensive, or self-centered beings into confident, responsive, and caring ones,
+ultimately transforming society as well. Conflicts are seen as rich opportunities
+for growth, and mediation represents a way to take full advantage of this
+opportunism.
+Transformation of ways of thinking can be applied in pushing for positive
+utilization of the nationalism in claimants of the SCS. National humiliation
+(Callahan, 2004, pp. 199–218) is a common and recurring theme in Chinese public culture. The discourse takes many forms: public histories, textbooks, museums, mass movements, romance novels, popular songs, prose poems, feature
+films, national holidays, and atlases. All these are part of a modernist narrative
+in its most basic sense of a linear progressive history that prescribes the unity
+and homogeneity of the nation-state. The belief that the SCS fell within China’s
+administration and jurisdiction from ancient times is deeply rooted among
+Chinese who are educated from the textbooks, among others. Although
+national humiliation is considered in Western discussions of Chinese
+
+19430787, 2018, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/aspp.12395 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+238
+
+239
+
+victimization as something that needs to be overcome for China to be a responsible member of international society, Chinese sources, on the other hand, stress
+how the outside world, particularly the prosperous West, needs to understand
+China’s particular suffering. In order to avoid triggering Chinese nationalism
+sentiment which might lead to the escalation of the SCS dispute, the Chinese
+government should carefully direct the trend of its nationalism movement, trying to lead to affirmative nationalism, rather than aggressive nationalism.
+China is not the only country whose foreign policy is affected by nationalist
+sentiments. The Vietnamese, in their entire schooling, have been taught that
+Ho
+ang Sa (Paracel Islands) and Tru’
+o’ng Sa (Spratly Islands) belong to Quaœng
+Ng~
+ai District. There are two famous museums in Vietnam, one of which is War
+Memorial Museum to commemorate the Vietnamese War, the other is titled as
+“Ho
+ang Sa and Tru’
+o’ng Sa: Vietnamese Islands.” This museum obviously
+intends to enhance the “national land awareness” among Vietnamese, especially the younger generation. Incidents in the SCS do not now lead to the public confrontations that occurred even in the 1990s, but they are watched closely
+as signs of possible encroachment. For instance, Vietnam allowed several hundred demonstrators to stage a noisy rally outside the Chinese Embassy in
+Hanoi against Beijing’s deployment of an oil rig in the SCS in 2014 (Brummitt,
+2014). At least 21 people were killed and nearly 100 injured in Vietnam during
+violent protests against China in one of the deadliest confrontations between
+the two neighbors since 1979 (Hodal & Kaiman, 2014). However, awareness of
+not overplaying the card of nationalism is also raised in Vietnam. As Bui (2017)
+notes, “Vietnam managed to adopt a middle approach that included tough rhetoric to criticize Chinese actions, but also avoided overplaying the nationalist
+card.”
+“Transformation of ways of thinking” should be introduced to the policymakers and scholars on the SCS as a foundation to lead their policy and
+research direction. Diplomatic communities and academics need to change
+their tunes and reinterpret the situation at hand. The vast majority of material
+published either has the purpose of glorifying (or vilifying) ASEAN efforts to
+manage the conflict or arguing whether China constitutes a threat to the rest of
+Southeast Asia. In the public discourse on the SCS arbitration, for instance,
+media coverage or analysis with buzzwords like “China challenging rule-based
+order” can easily catch readers’ eyes. Less attention is given to works which try
+to provide a balancing view. Chinese scholars unsurprisingly encountered
+harassment when attending conferences if they attempted to explain or defend
+China’s stance and policy, no matter how professionally their analyses were
+presented. Wearing a “China hat” invites criticism, some fair and some not.
+A quantitative study was conducted by a group of researchers on the media
+coverage in 2014 of the SCS arbitration in the two disputants’ countries
+(Montiel, Salvador, See, & De Leon, 2014). According to the authors, principal
+components analyses show that the Philippine Daily Inquirer reports revolve
+around words related to local fishing and livelihoods. News accounts in
+China’s People’s Daily, on the other hand, uphold national sovereignty. A complementary qualitative analysis of the news reports gives our mathematically
+derived themes more meaning. Philippine maritime claims cite recent
+Philippine history and international law. China’s story references lost
+
+19430787, 2018, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/aspp.12395 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+The Efficacy of Compulsory Mechanism of UNCLOS
+
+Asian Politics & Policy—Volume 10, Issue 2—2018
+
+sovereignty and ancient rather than recent history. Positioning analysis demonstrates how each newspaper claims its own country owns Scarborough Shoal
+and is the victim of the other country (Montiel et al., 2014).19
+Owing to all the flaws, spins, and shortcomings present in both the Transformative Conflict Theory and its scholastic adversaries, it is necessary to reconstruct the model on more solid foundations. It might also help if those involved
+were able to turn out a few more realistic options for settlement.
+On the policy line, ASEAN and China should step up their efforts to resolve
+their maritime border conflicts. In the past 20 years, the two have signed
+the long-awaited DOC and China has largely settled its boundary disputes
+with Vietnam in the Gulf of Tonkin. The change in Chinese leadership and the
+relative economic and political stability of the region presents a window of
+opportunity for renewed attempts at a final solution. This need not and should
+not indicate the sort of ultimatum negotiations that would drive China and
+others away from the bargaining table. The solution to this impasse is to transcend and include these malformed interpretations into a more integral model
+which takes account of the historical record and connections made by dispassionate common sense, just as much as it extracts the truths from within and
+without the prevailing theories. At the same time, claimants need to be motivated to move forward with negotiations, both by the production of resolution
+options springing from new conflict interpretations and by the launching of
+high-level, informal. In this manner, the negotiations for the SCS disputes can
+progress at the pace of the ASEAN 1 1 Way while keeping an eye to the longterm goal of complete conflict resolution.
+The discourse of the SCS seems to come back to the China-ASEAN arena.
+The statement made by Philippine President Duterte as ASEAN Chair in 2017,
+listed three major threats faced by ASEAN: terrorism, piracy and maritime
+armed robbery, and illegal drug tariffing. The SCS issues disputes are not
+raised. The Party Secretary of Vietnam, Tran Dai Quang made a statement that
+Vietnam explores ways to settle its maritime disputes through peaceful negotiation. Li Xianlong, Prime Minister of Singapore as the coordinator of ChinaASEAN Dialogue and ASEAN Chair 2018 praised the step taken by ASEAN
+and China to start the COC text negotiation. In the Statement of ASEAN 50th
+Summit, all parties reaffirmed the importance of nonmilitarization and selfrestrain in the SCS, and stressed the improved relations between ASEAN and
+China. China and ASEAN should work together to exclude external interferences, speed up the COC consultation, and put into place the China-ASEAN
+track of the “dual-track approach,” which will jointly safeguard peace and stability in the SCS.
+In terms of research, academics and diplomats should step back and reinterpret the conflict at hand. Re-examine the SCS, its origins and evolution, the
+roles of military confrontations and ASEAN multilateralism in that evolution,
+and behaviors and rhetoric of the countries involved. Most importantly, get the
+context straight on all levels. Develop the new interpretations integrally so that
+the illustration is vivid and intelligible. Although it may seem counterintuitive,
+it can be quite helpful to dispose of theoretical and academic frameworks while
+injecting dispassionate common sense. By stepping away from the conflict with
+the freedom to sculpt opinions, new connections can be discovered and one can
+
+19430787, 2018, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/aspp.12395 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+240
+
+241
+
+get a better glimpse of the big picture. By disassociating from the partisan viewpoints of the transformed conflict theory and its scholastic adversaries, the creative researcher can escape the trappings of a conflict unable to transform any
+further. In many ways, the misinterpretations inherent in today’s prevailing
+theories are the very reasons for a lack of proposed solutions. Therefore, the
+second recommendation to researchers is to exploit these new interpretations
+for all they are worth to see if any windows for resolution can be found and
+how to get there. Once a number of solutions become available, the disputants
+will break from their romance with the status quo. As that begins to happen,
+the prospects for resolution will finally come into view.
+
+Conclusion
+China prefers selecting negotiation and/or consultation directly with the
+other party in solving its international disputes, especially those relevant to
+sovereignty and land and maritime boundary delimitation. This orientation is
+mostly originated from and owing to Chinese culture and state practice. However, there is an alternative explanation to China’s preference for negotiation.
+Some assume that any powerful state will almost always seek to negotiate bilaterally to maximize its power asymmetry against a weaker and smaller party,
+while small and middle powers prefer multilateral diplomacy for the aforementioned reasons. “Given that coalitions are easier to form in multilateral rather
+than bilateral negotiations, it is best for the less powerful states to try to negotiate with a more powerful state in a multilateral setting. Meanwhile, the more
+powerful state has a distinct advantage in bilateral negotiations” (Meerts, 2015,
+p. 60).
+China has a long way to go to be persuasive that it will never use coercion to
+pursue its national interest. To do so, China should build up a narrative about
+its rationale why it prefers negotiation in handling problems with its neighbors,
+by highlighting its successful experiences in its land boundary negotiations. A
+clear message should be sent to the international and regional community
+about China’s willingness to accommodate and compromise.
+Meanwhile, China’s perception of the role of international judicial institutions in dispute settlement is also passive, except for those in economic and
+investment fields which it considers less sensitive. As for UNCLOS, China
+declared on September 7, 2006 under Article 298 the exclusion of certain disputes (such as concerning maritime delimitation territorial disputes or military
+use of the ocean) with other countries from the jurisdiction of international judiciary or arbitration.
+China’s position on the SCS arbitration case, namely nonparticipation and
+nonacceptance, has been coherent. China considers the act of initiating arbitration proceedings unfriendly and damaging to Sino-Philippine relations. In
+addition, China also questioned whether the Arbitration Tribunal has jurisdiction over this case based on Articles 281, 282, 283, and 298 of UNCLOS. In addition to the legal implications derived from the Award on the merit, the further
+implication for international law, especially the role of the third-party compulsory mechanism of UNCLOS in settling or managing maritime disputes is also
+discussed in this article.
+
+19430787, 2018, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/aspp.12395 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+The Efficacy of Compulsory Mechanism of UNCLOS
+
+Asian Politics & Policy—Volume 10, Issue 2—2018
+
+Another legal and policy implication which deserves attention is China’s
+future trajectory for maritime dispute settlement. Will its conventional
+approach of bilateral negotiations and consultations still be its preferred
+method for settling interstate disputes? Or will China come to accept that
+third-party dispute resolution has a pivotal role to play in settling problems
+with neighboring countries? The Arbitral Tribunal’s ruling on the SCS provides
+an opportunity for China to rethink its traditional approach to dispute
+resolution.
+Although the arbitration case does not lead to the settlement of the maritime
+disputes in the SCS, it does motivate China and ASEAN to speed up the negotiation on the consultation of the COC. The ruling has also created an opportunity for the Philippines and China to restart bilateral talks on the dispute. The
+temperature of the SCS disputes region has been cooled down after July 2016
+thanks to the efforts made by regional states. While China and ASEAN are
+cooperating to better manage the dispute, the role of other stakeholders should
+not be ignored. The SCS dispute has evolved from a territorial and maritime
+dispute among the claimant states to a source of competition between China
+and the United States. To resolve this paradox, China and the United States
+have no choice but to engage each other and maintain regular communication
+on how they can coexist and respect each other’s core interests.
+As analyzed from the implications of the SCS arbitration case, the compulsory dispute settlement mechanism may not be the only, or the best, option to
+address disputes in the SCS. State practice in maritime dispute management in
+this region suggests that there is not a unique or single answer as to which
+model is the best. Instead, this article has suggested a four-tiered model of maritime dispute management in a practical manner in the SCS, namely, environmental security as a driving force of cooperation in the SCS, fisheries
+cooperation as a start of the SCS disputes resolution, UNCLOS as a framework
+for ocean governance in the SCS, and lastly, transformation of ways of thinking
+as a foundation to lead policy and research direction.
+
+Notes
+1
+
+Typically, low-key actions by a third party to bring opposing parties to dialogue or negotiation.
+Good offices may include informal consultations to facilitate communication; offer of transportation,
+security, or site of venue; or fact-finding. The third party may suggest ways into negotiations and a
+settlement but usually stops short of participating in negotiations.
+2
+Interview with Dr. Wu Shicun, President of National Institute for South China Sea Studies in July
+2014.
+3
+Interview with Judge Chan Ho Park in Shanghai, 2005.
+4
+Declaration on the Conduct of Parties in the South China Sea, November 4, 2002, available
+at http://www.asean.org/asean/external-relations/china/item/declaration-on-the-conduct-ofparties-in-the-south-china-sea. Article 5 states that “[t]he Parties undertake to exercise self-restraint
+in the conduct of activities that would complicate or escalate disputes and affect peace and stability
+including, among others, refraining from action of inhabiting on the presently uninhabited islands,
+reefs, shoals, cays, and other features and to handle their differences in a constructive manner.”
+5
+Foreign Ministry spokesperson Hong Lei’s Regular Press Conference on October 28, 2014, http://
+www.fmprc.gov.cn/mfa_eng/xwfw_665399/s2510_665401/t1204813.shtml;
+Foreign
+Ministry
+Spokesperson Hong Lei’s Regular Press Conference on November 23, 2015, http://www.fmprc.gov.
+cn/mfa_eng/xwfw_665399/s2510_665401/t1317589.shtml.
+6
+Press Conference by Chinese Embassy On Philippines’ Submission of a Memorial to the Arbitral
+Tribunal on disputes of the South China Sea with China, in the web site of Embassy of the People’s
+Republic of China in the Republic of the Philippines, April 1, 2014, at http://ph.china-embassy.org/
+eng/xwfb/t1143166.htm (last visited April 28, 2014).
+
+19430787, 2018, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/aspp.12395 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+242
+
+243
+
+7
+
+Available on the ASEAN official website (www.asean.org) under the heading ASEAN Documents Series 2002.
+8
+Georgia v. Russia, ICJ Reports 2011, Separate Opinion of Judge Greenwood, page 323, at
+paragraph 9.
+9
+For more analysis on the historic concepts in the SCS Arbitration, read Chris Whomersley, The
+Award on the Merits in the Case Brought by the Philippines against China Relating to the South China Sea: A
+Critique (Oxford University Press, 2017).
+10
+See also the Philippines’ Submissions B (1) and (2) at paragraph 112 of Award on Merits.
+11
+Article 311(1) of UNCLOS: This Convention shall prevail, as between States Parties, over the
+Geneva Conventions on the Law of the Sea of 29 April 1958.
+12
+Article 293(1) says “A court or tribunal having jurisdiction under this section shall apply this
+Convention and other rules of international law not incompatible with this Convention.”
+13
+11th Press Release of The South China Sea Arbitration (The Republic Of The Philippines v. The People’s
+Republic Of China), at https://pcacases.com/web/sendAttach/1801.
+14
+China MFA spokeswoman Hua Chunying, on the press conference on April 9, 2015, http://
+www.mfa.gov.cn/ce/cemy/chn/fyrth/t1253375.htm.
+15
+Several international law associations were founded, with a focus on the study of the SCS arbitration case, for example, The South China Sea from the Legal Perspective (in Chinese, Fa Yan Kan Nan
+Hai, a social media platform initiated by Chinese international law students in the Netherlands).
+Many publications were issued analyzing the arbitration in the period of 2014 to now, for example,
+Proceedings on Public International Law Colloquium on Maritime Disputes Settlement (Hong Kong, 2016).
+16
+The Copenhagen School claims that any specific matter can be nonpoliticized, politicized, and
+securitized. An issue is nonpoliticized when the state does not address it and when it is not included
+in the public debate. An issue becomes politicized when it “is part of public policy, requiring government decision and resource allocations or, more rarely, and some other forms of communal governance.” Finally, a political concern can be securitized through an act of securitization. The latter
+refers to a process in which “an issue is framed as a security problem.’’
+17
+The 1995 Bangkok Summit Declaration asserts that “cooperative peace and shared prosperity are
+the fundamental goals of the ASEAN.”
+18
+This comment was made by Wu Shicun, president of National Institute for South China Sea Studies at his meeting with a group of Japan scholars on August 12, 2017 in Haikou.
+19
+According to the authors, Philippine and Chinese news accounts of the Scarborough Shoal conflict are text mined by RapidMiner software. With almost 100% accuracy, mathematical models successfully classify sets-of-words that belong to each domestic newspaper.
+
+References
+ASEAN. (1995, December 15). ASEAN Summit Declaration (Bangkok). Retrieved from http://asean.
+org/?static_post5bangkok-summit-declaration-of-1995-bangkok14-15-december-1995.
+ASEAN. (2017, November 13). Chairman’s statement of the 20th ASEAN-China Summit. Manila, Philippines: Author. Retrieved from http://asean.org/storage/2017/11/FINAL-Chairmans-Statement-of-the-20th-ASEAN-China-Summit-13-Nov-2017-Manila1.pdf.
+“Award on Jurisdiction and Admissibility” in the South China Sea Arbitration (referred as Award
+on Jurisdiction and Admissibility). (2015, October 29). Retrieved from https://pcacases.com/
+web/sendAttach/1506.
+Award on Merits. (2016, October 29). Award on the Merits of the South China Sea Arbitration (PCA
+Case No 2013-19). Retrieved from https://pcacases.com/web/sendAttach/2086.
+Brannen, Kate. (2017, January 30). Steve Bannon is making sure there’s no White House Paper Trail,
+says Intel Source. Foreign Policy. Retrieved from http://foreignpolicy.com/2017/01/30/stevebannon-is-making-sure-theres-no-white-house-paper-trail-trump-president/.
+Brummitt, Chris. (2014, May 10). Vietnam allows anti-China protest over oil rig. The San Diego
+Union-Tribune. Retrieved from http://www.sandiegouniontribune.com/sdut-vietnamese-protests-chinese-oil-rig-deployment-2014may10-story.html.
+Bui, Nhung T. (2017). Managing anti-China nationalism in Vietnam: Evidence from the media during the 2014 oil rig crisis. The Pacific Review, 30(2), 169–187. Retrieved from http://www.tandfonline.com/doi/pdf/10.1080/09512748.2016.1201132.
+Bush, Robert A. Baruch, & Folger, Joseph P. (2004). The promise of mediation: The transformative
+approach to conflict. San Francisco, CA: Jossey-Bass.
+Callahan, William A. (2004). National insecurities: Humiliation, salvation, and Chinese nationalism.
+Alternatives, 29, 199–218. Retrieved from http://www.humiliationstudies.org/documents/CallahanChina.pdf.
+Carty, Antony. (2016). The South China Sea disputes are not yet justiciable. In Shicun Wu & Keyuan
+Zou (Eds.), Arbitration concerning the South China Sea (pp. 23–51). Farnham, UK: Ashgate Publishing.
+
+19430787, 2018, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/aspp.12395 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+The Efficacy of Compulsory Mechanism of UNCLOS
+
+Asian Politics & Policy—Volume 10, Issue 2—2018
+
+Carty, Tony. (2016, July 25). Justice not served by tribunal’s ruling on South China Sea. South China
+Morning Post. Retrieved from http://www.scmp.com/comment/insight-opinion/article/
+1994587/justice-not-served-tribunals-ruling-south-china-sea.
+China’s Position Paper. (2014, December 7). Position Paper of the Government of the People’s
+Republic of China on the Matter of Jurisdiction in the South China Sea Arbitration Initiated by
+the Republic of the Philippines. Retrieved from http://www.fmprc.gov.cn/mfa_eng/zxxx_
+662805/t1217147.shtml.
+China reiterates islands claim after Philippine UN move. (2013, January 23). BBC. Retrieved from
+http://www.bbc.co.uk/news/world-asia-21163507.
+China rejects Philippines’ arbitral request. (2013, February 19). China Daily. Retrieved from http://
+www.chinadaily.com.cn/china/2013-02/19/content_16238133.htm.
+China, Vietnam reach consensus on trade, maritime cooperation: Joint statement. (2017, November 13).
+Xinhua. Retrieved from http://news.xinhuanet.com/english/2017-11/13/c_136749356.htm.
+Dokken, Karin. (1997). Environment, security and regional integration in West Africa (Dr. Philos dissertation). University of Oslo, Department of Political Science, Oslo.
+Dokken, Karin. (2001). Environment, security and regionalism in the Asia-Pacific: Is environmental
+security a useful concept? The Pacific Review, 14(4), 509–530.
+Embassy of the People’s Republic of China in Malaysia. (2015, April 9). 2015 Nian 4 Yue 9 Ri Waijiaobu Fayanren Hua Chunying Zhuchi Lixing Jizhehui [China MFA spokewoman Hua Chunying, on
+the press conference on April 9, 2015]. Retrieved from http://www.mfa.gov.cn/ce/cemy/chn/
+fyrth/t1253375.htm.
+Embassy of the People’s Republic of China in the Republic of the Philippines. (2014, April 1). Press
+conference by Chinese Embassy on Philippines’ submission of a memorial to the arbitral tribunal on disputes of the South China Sea with China [Press Conference]. Retrieved from http://ph.chinaembassy.org/eng/xwfb/t1143166.htm.
+Gao, Yanping. (1995). Guoji Zhengduan de Jiejue [International dispute settlement]. In Tieya Wang
+(Ed.), Guoji Fa [International law] (pp. 611–612). Beijing: Law Press.
+Gupta, Sourahb. (2016, August 31). No restraint: Judicial activism in the South China Sea Arbitration
+ruling. ICAS Bulletin. Retrieved from http://chinaus-icas.org/wp-content/uploads/2016/08/
+ICAS-Bulletin-August-31-2016.pdf.
+Haas, Peter. (1990). Saving the Mediterranean: The politics of international environmental cooperation.
+New York, NY: Colombia University Press.
+Haas, Peter. (1992). Introduction: Epistemic community and international policy coordination. International Organization, 46(1), 1–37.
+Hjorth, Ronnie. (1994). Baltic Sea environmental cooperation: The role of epistemic communities and
+the politics of regime change. Cooperation and Conflict, 29(1), 11–31.
+Hodal, Kate, & Kaiman, Konathan. (2014, May 15). At least 21 dead in Vietnam anti-China protests
+over oil rig. The Guardian. Retrieved from https://www.theguardian.com/world/2014/may/
+15/vietnam-anti-china-protests-oil-rig-dead-injured.
+Hong, Nong. (2012, May 15). Interpreting the U-shape line in the South China. China US Focus.
+Retrieved from https://www.chinausfocus.com/peace-security/interpreting-the-u-shape-linein-the-south-china-sea.
+Hunt, Katie. (2017, January 12). Tillerson sets stage for showdown with Beijing over South China
+Sea. CNN. Retrieved from http://www.cnn.com/2017/01/12/politics/china-tillerson/.
+ICJ. (2008). Judgment of Sovereignty over Pedra Branca/Pulau Batu Puteh, Middle Rocks and South
+Ledge (Malaysia/Singapore). Retrieved from http://www.icj-cij.org/files/case-related/130/
+130-20080523-JUD-01-00-EN.pdf.
+International Court of Justice. (2002, December 17). International Court finds that sovereignty over
+islands of Ligitan and Sipatan belongs to Malaysia [Press Release]. Retrieved from http://www.un.
+org/press/en/2002/ICJ605.doc.htm.
+Kopela, Sophia. (2017). Historic titles and historic rights in the Law of the Sea in the light of the South
+China Sea arbitration. Ocean Development & International Law, 48(2), 181–207.
+Ku, Julian. (2016, July 17). It is Beijing’s fault that China lost big in the South China Sea ruling. Quartz
+Media LLC. Retrieved from https://qz.com/733012/it-is-beijings-fault-that-china-lost-big-inthe-south-china-sea-ruling/.
+Lagoni, Rainer. (2005). Commentary. In Alex G. Oude Elferink (Ed.), Stability and change in the Law of
+the Sea: The role of the LOS convention (pp. 49–51). Leiden, The Netherlands: Martinus Nijhoff
+Publishers.
+Ling, Bing. (2015, December 18). Weishenme Zhongguo Jujue Nanhai Zhongcai Yousun Zhongguode
+Liyi [Why China’s no participation harms its own interests and rights]. China-US Perception Monitor.
+Retrieved from http://www.uscnpm.com/model_item.html?action5view&table5article&id57961.
+Meerts, Paul. (2015). Aspects of diplomatic negotiation. In Diplomatic negotiation: Essence and evolution. Enschede, The Netherlands: Gildeprint.
+
+19430787, 2018, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/aspp.12395 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+244
+
+245
+
+Ministry of Foreign Affairs of People’s Republic of China. (2014, October 28). Foreign Ministry spokesperson Hong Lei’s Regular Press Conference on October 28, 2014 [Press Conference]. Retrieved from
+http://www.fmprc.gov.cn/mfa_eng/xwfw_665399/s2510_665401/t1204813.shtml.
+Ministry of Foreign Affairs of People’s Republic of China. (2015, November 23). Foreign Ministry spokesperson Hong Lei’s Regular Press Conference on November 23, 2015 [Press Conference]. Retrieved from
+http://www.fmprc.gov.cn/mfa_eng/xwfw_665399/s2510_665401/t1317589.shtml.
+Mogato, Manuel. (2016, September 27). Philippine envoy’s China trip shelved until ‘proper time.’
+Reuters. Retrieved from https://www.reuters.com/article/us-philippines-china/philippineenvoys-china-trip-on-hold-till-proper-time-idUSKCN11X0NU.
+Montiel, Cristina Jayme, Salvador, Alma Maria O., See, Daisy C., & De Leon, Marlene M. (2014).
+Nationalism in local media during international conflict: Text mining domestic news reports of
+the China–Philippines maritime dispute. Journal of Language and Social Psychology, 33(5), 445–
+464. Retrieved from http://journals.sagepub.com/doi/abs/10.1177/0261927X14542435.
+Næss, Tom. (1999). Environment and security in the South China Sea region: The role of experts, nongovernmental actors and governments in regime building processes (Master’s thesis in political science). University of Oslo, Oslo, Norway. Retrieved from https://www.duo.uio.no/handle/
+10852/14400.
+Nguyen, Dong Manh. (2005, December). Settlement of disputes under the 1982 United Nations Convention on the Law of the Sea: The case of the South China Sea dispute. New York: UN-Nippon Foundation, Fellowship on the Law of the Sea.
+Pardo, Arvid. (1987). The new Law of the Sea and some of its implications. Journal of Law and the
+Environment, 4(1), 3–15.
+Payoyo, Peter Bautista (Ed.). (1994). Ocean governance: Sustainable development of the seas. Tokyo,
+Japan: The United Nations University.
+Pickrell, Ryan. (2016, December 1). US Coast Guard eager for deployment to the highly-contested
+South China Sea. The Daily Caller. Retrieved from http://dailycaller.com/2016/12/01/us-coastguard-eager-for-deployment-to-the-highly-contested-south-china-sea/.
+Roberts, Joshua. (2017, February 10). Tillerson played key role in Trump’s ‘One China’ shift. Reuters.
+Retrieved from http://www.newsweek.com/donald-trump-rex-tillerson-china-one-chinatrade-555534.
+Shim, Elizabeth. (2016, November 30). U.S. commandant: Coast Guard could play a broader role in
+Asia-Pacific. United Press International. Retrieved from http://www.upi.com/Top_News/
+World-News/2016/11/30/US-Commandant-Coast-Guard-could-play-broader-role-in-AsiaPacific/5501480528590/?fs.
+Soroos, Marvin S. (1986). Beyond sovereignty: The challenge of global policy. Columbia, SC: University of
+South Carolina Press.
+Stevenson, John R., & Oxman, Bernard H. (1994). The future of the United Nations convention on the
+Law of the Sea. American Journal of International Law, 88(3), 488–499.
+Stewart, Phil. (2017, February 3). Mattis says no need for dramatic U.S. military moves in South
+China Sea. Reuters. Retrieved from http://www.reuters.com/article/us-usa-trump-southchinasea-mattis-idUSKBN15J061.
+United Nations Convention on the Law of the Sea (UNCLOS). (1982, December 10). United Nations
+Treaty Series, Vols. 1833, 1834, 1835, No. 31363, p. 3. Montego Bay, Jamaica. Retrieved from
+http://www.un.org/depts/los/convention_agreements/texts/unclos/unclos_e.pdf.
+Van Dyke, Jon M. (2009). Dispute over islands and maritime boundaries in East Asia. In SeoungYong Hong & Jon M. Van Dyke (Eds.), Maritime boundary disputes, settlement processes, and the
+Law of the Sea (pp. 39–76). Leiden, The Netherlands: Martinus Nijhoff Publishers.
+Vietnam, China issue joint statement. (2017, November 13). Nhan Dan. Retrieved from http://en.
+nhandan.com.vn/politics/external-relations/item/5641902-vietnam-china-issue-joint-statement.html.
+VOA. (2017, January 23). US vows to prevent China taking over territory in international waters.
+VOA news. Retrieved from https://www.voanews.com/a/us-vows-prevent-china-taking-overterritory-international-waters/3689135.html.
+Wang, Jiangyu. (2016, April 6). National interests, international law, and China’s position on the
+South China Sea disputes. IPP Review. Retrieved from https://ippreview.com/index.php/
+Blog/single/id/93.html.
+Wang, Kuan-Hsiung. (2001). Bridge over troubled waters: Fisheries cooperation as a resolution to
+the SCS conflicts. The Pacific Review, 14(4), 531–551.
+Wang, Zheng. (2016, July 14). What China can learn from the South China Sea case. The Diplomat.
+Retrieved from https://thediplomat.com/2016/07/what-china-can-learn-from-the-southchina-sea-case/.
+Whomersley, Chris. (2017). The award on the merits in the case brought by the Philippines against China
+relating to the South China Sea: A critique. Oxford, UK: Oxford University Press.
+
+19430787, 2018, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/aspp.12395 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+The Efficacy of Compulsory Mechanism of UNCLOS
+
+Asian Politics & Policy—Volume 10, Issue 2—2018
+
+Wolfrum, R€
+udiger. (1997). The legal order for the seas and oceans. In Myron H. Nordquist & John
+Norton Moore (Eds.), Entry into force of the Law of the Sea Convention. The Hague, The Netherlands: Martinus Nijhoff Publishers.
+Young, Oran. (2005). Commentary on Shirley V. Scott “The LOS Convention as a constitutional
+regime for the ocean”. In Alex G. Oude Elferink (Ed.), Stability and change in the Law of the Sea:
+The role of the LOS Convention (pp. 39–47). Leiden, The Netherlands: Martinus Nijhoff
+Publishers.
+Yu, Jia. (2004). Presentation on the Conference of Energy Security and the South China Sea, Haikou,
+China.
+Zhang, Hua. (2017). Guoji Haiyang Zhengduan Jiejue zhong de Sifa Zaofa Wenti [Judicial law making in international maritime dispute settlement: The South China Sea Arbitration]. Contemporary Legal Studies, 5, 142–152.
+Zou, Keyuan. (2009). China-ASEAN relations and international law. Witney, UK: Chandos Publishing.
+
+19430787, 2018, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/aspp.12395 by Corvinus University Of Budapest, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+246
+
+

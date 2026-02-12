@@ -1,0 +1,1004 @@
+Asian Studies Review
+
+ISSN: 1035-7823 (Print) 1467-8403 (Online) Journal homepage: www.tandfonline.com/journals/casr20
+
+Small Power Hedging in an Era of Great-power
+Politics: Southeast Asian Responses to China’s
+Pursuit of Energy Security
+Rebecca Strating
+To cite this article: Rebecca Strating (2020) Small Power Hedging in an Era of Great-power
+Politics: Southeast Asian Responses to China’s Pursuit of Energy Security, Asian Studies Review,
+44:1, 97-116, DOI: 10.1080/10357823.2019.1681935
+To link to this article: https://doi.org/10.1080/10357823.2019.1681935
+
+Published online: 10 Nov 2019.
+
+Submit your article to this journal
+
+Article views: 1629
+
+View related articles
+
+View Crossmark data
+
+Citing articles: 3 View citing articles
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=casr20
+
+ASIAN STUDIES REVIEW
+2020, VOL. 44, NO. 1, 97–116
+https://doi.org/10.1080/10357823.2019.1681935
+
+Small Power Hedging in an Era of Great-power Politics:
+Southeast Asian Responses to China’s Pursuit of Energy
+Security
+Rebecca Strating
+La Trobe University
+ABSTRACT
+
+KEYWORDS
+
+This article contributes to the literature on the international preferences, behaviours and interactions of small powers in relation to
+great powers. It examines the foreign policy choices of Southeast
+Asian states in response to China’s energy diplomacy through two
+case studies: the Malacca Strait and the South China Sea. Southeast
+Asian states have diﬀerent interests and priorities and have
+attempted various forms of what Ba and Kuik refer to as complex
+“engagement and constrainment” in coping with China’s pursuit of
+energy security. Smaller Southeast Asian powers, by drawing on
+support from other powers (including the United States and Japan),
+have adopted diﬀerent forms of hedging and resistance strategies
+in response to China’s oil-diversiﬁcation plans in the region. The
+article examines the institutional, structural and domestic dimensions of Southeast Asian hedging strategies, arguing that these are
+far from uniform across the region. Ultimately, the article demonstrates that strategic competition between great powers provides
+new opportunities for and constraints on smaller powers as they
+pursue strategic autonomy, with implications for the Asian regional
+security order.
+
+Energy security; hedging;
+Southeast Asia; China; South
+China Sea
+
+Introduction
+Over the past decade, much scholarly attention has been paid to China as a rising power
+and attendant balance of power shifts in international relations. Emerging literature has
+sought to address the nature of China’s inﬂuence on developing states as a rising power
+(Goh, 2016; Storey, 2011), the new leadership roles it has adopted via investment
+programs, such as the Belt and Road Initiative (BRI) (Callahan, 2016), and the creation
+of multilateral economic institutions, such as the Asian Infrastructure Investment Bank
+(AIIB) (Hameiri & Jones, 2018). There have also been studies devoted to China’s energy
+security – that is, its attempts to ensure reliable and diversiﬁed oil supply – and its
+subsequent drive for new sources of oil and new methods or routes for transporting
+imported oil (Vivoda, 2009, p. 4616).1 China’s strategic policies have in part been driven
+by concerns about energy security and its capacity to guarantee the security of its oil
+supplies. The BRI, for instance, potentially provides new avenues for China to invest in
+CONTACT Rebecca Strating
+
+b.strating@latrobe.edu.au
+
+© 2019 Asian Studies Association of Australia
+
+98
+
+R. STRATING
+
+the type of infrastructure in and across other states that will enable it to shore up its
+growing need for oil.
+China is the world’s biggest consumer of energy. In 2017 China surpassed the United
+States (US) as the largest importer of crude oil in the world, importing 8.4 million barrels
+per day compared with US imports of 7.9 million barrels (US Energy Information
+Administration, 2018). In 2016, China (excluding Hong Kong and Taiwan) consumed
+3.05 billion tonnes of energy, compared with 2.27 billion tonnes for the United States
+(BP, 2017, p. 8). In contrast, the six biggest Southeast Asian states – Indonesia, Malaysia,
+Philippines, Singapore, Vietnam and Thailand – cumulatively consumed energy at an
+annual rate of around a ﬁfth of China, at 587.8 million tonnes (BP, 2017, p. 8).2 China is
+also increasingly dependent on oil imports: the International Energy Agency (2012, p. 5)
+has estimated that China’s demand will rise to nearly 15 million barrels a day, exacerbating its vulnerability to price shocks and supply constraints.
+Driven by contemporary supply realities and historical experiences of oil embargoes,
+since the turn of the 21st century, China’s policymaking in energy security has been
+increasingly preoccupied with securing oil importation. Yet, its energy security eﬀorts are
+contingent on relations with other, less powerful states. How do “small powers” respond
+to China’s oil diversiﬁcation eﬀorts? Do they have the capacity to resist or challenge? This
+article focusses speciﬁcally on Southeast Asian responses to China’s oil-diversiﬁcation
+strategies. With some exceptions (for example, Zhao, 2008), this region has received less
+attention in the literature on China’s energy diversiﬁcation than Central Asia or Africa.
+Part of the reason is because China’s energy policy has coincided with its growing reach
+into these regions that have previously been perceived as the domain of the US, which has
+highlighted the ways in which its strategic interest in energy has contributed to China’s
+changing global role, particularly through the provision of grants and loans to oil-rich
+states in Africa and beyond. In contrast, Southeast Asia has always mattered to China and
+vice versa due to the necessity of proximity.
+The article begins by examining the literature on Southeast Asia’s responses to greatpower politics, speciﬁcally focussing on the institutional, structural and domestic dimensions of the dominant “hedging” strategies of the region. Rather than focussing solely on
+the eﬀorts of China to secure energy and its strategies for engaging smaller powers in the
+region, this article examines how Southeast Asian states have responded to China’s oildiversiﬁcation plans using two case studies. The ﬁrst considers responses to China’s
+eﬀorts to ﬁnd new oil-transport options in Southeast Asia to reduce its dependence on
+the Malacca Strait. The “Malacca Dilemma” – so named by former Chinese President Hu
+Jintao – provided an important motivation for China to diversify not just sources of oil
+but also its options for transporting energy resources to China. The second case study
+examines the reactions of Southeast Asian states to China’s eﬀorts to exploit and extract
+new sources of oil in the South China Sea. The disputes in the South China Sea have
+produced much scholarly attention in the security ﬁeld in terms of island-building,
+maritime boundaries, national sovereignty, the law of the sea, naval militarisation, freedom of navigation operations, and resources such as ﬁshing (for a comprehensive overview see Buszynski & Roberts, 2015). This article examines the oil and gas dimensions of
+these disputes, and how Southeast Asian states resist or acquiesce to China’s demands.
+These case studies consider the parameters of legitimate action for small powers, and
+their options for opening or closing the spaces for political manoeuvring in the pursuit of
+
+ASIAN STUDIES REVIEW
+
+99
+
+their national interests. By drawing on support from the US and from other regional
+powers invested in but not party to the South China Sea disputes – including the US and
+Japan – smaller Southeast Asian states have, at various times, resisted and challenged
+China’s plans to secure supplies of oil and gas using diﬀerent foreign policy strategies.
+These responses have been far from consistent within and across ASEAN states, with the
+diversity of strategies a consequence of various factors, including size, alliance relationships, national interests, domestic politics and their capacity for strategic manoeuvring.
+This has challenged China’s abilities to unilaterally exploit potentially rich sources of oil
+in the seas that it claims as its own. Ultimately, Southeast Asian states have diﬀerent
+interests in relation to China’s oil-diversiﬁcation strategies and have attempted diﬀerent
+forms of complex “engagement and constrainment” (Ba & Kuik, 2018, p. 229) to cope
+with China’s pursuit of energy security, including attempts to establish a regional Code of
+Conduct and engage in joint development projects.
+The preferences and activities of these smaller powers can assist in understanding the
+nature of the emergent regional security order. A contested Asian security order provides
+new opportunities for small states to shape the political landscape. This was acknowledged in the US Indo–Paciﬁc Strategy report (US Department of Defense, 2019), which
+emphasised the importance of US allies and partners in preserving the regional order
+from a revisionist China. Smaller powers have long mattered in Asia insofar as their
+consent has helped determine the balance of power, including the US’s “incomplete
+hegemony” (Mastanduno, 2003). Yet, the public diplomacy of Southeast Asian leaders
+suggests that these states do not necessarily share US perceptions about China’s role in
+contesting the security order (see, for example, Lee Hsien Loong, 2019). While smaller
+powers might attempt to leverage great-power competition in their favour, changing
+security orders also present new risks, tensions and uncertainties. These complex and
+contradictory dynamics are reﬂected in the diﬀerent responses to China’s pursuit of
+energy security in Southeast Asia.
+
+Small Power Hedging in Southeast Asia
+In examining responses to China’s energy diplomacy, this article concentrates mostly on
+Southeast Asia’s smaller powers, which encompass both “small states” in terms of
+territory and population (i.e. Singapore) and less economically and politically powerful
+states (i.e. Myanmar). The terms small (or weak) states and small (or weak) powers are
+often conﬂated in the literature, and have eluded clear deﬁnition (Maass, 2009).
+Quantitative considerations generally relate to the size of territory, population, military
+and economy. The dominant consideration in classifying a “small state” is population,
+with David Vital (1971) suggesting a vaguely deﬁned limit of 10–15 million people. Yet,
+there is no precise limit for categorising states as small, and selecting the boundaries for
+inclusion has always been “an arbitrary process” (Maass, 2009, p. 76). While Chih-Mao
+Tang (2018) describes Southeast Asia as comprising “small states”, only Singapore,
+Brunei, Laos and Timor-Leste sit comfortably within a population-based classiﬁcation.
+This article instead uses the term “small power”, which emphasises the military, economic and ideational capacities of states relative to great (or middle) powers. It follows
+the work of Long (2017), who argues that we should see “smallness” as a reﬂection of the
+relationships in which states are engaged. As power is relative, we should be thinking in
+
+100
+
+R. STRATING
+
+terms of relational asymmetries and “how power diﬀerentials structure relationships”
+(Womack, cited in Long, 2017, p 146). Hence, most Southeast Asian states – with the
+exception of Indonesia – may be considered “small” in contradistinction to rising China
+or the United States, or wealthy, self-described “middle powers” such as Australia or
+Canada.3
+There is much to be gained from studying small states and small powers in international
+relations, as they are often overlooked in favour of great powers (Veenendaal & Corbett,
+2015, p. 529). In the case of global energy politics, the advantage lies in understanding how
+smaller powers deﬁne and defend their interests in relation to great powers, and how they
+may prevent or enable great powers from achieving their interests. International relations
+literature tends to be dominated by great powers rather than smaller powers because their
+roles and actions are considered the most consequential to inﬂuencing and shaping
+international structures, the security environment and the “rules of the game”. It has
+tended to observe what is done to smaller powers by great powers, focussing on overly
+determinist narratives of foreign domination and imposition rather than the foreign policy
+choices of small powers (Brown & Harman, 2013, p. 2). Neo-realism, for instance, casts
+smaller powers as highly vulnerable in the international system of power politics, and as
+such preoccupied with external systemic constraints and the need to preserve sovereignty
+(Elman, 1995, pp. 175–179). This strand of international relations tends to assume that
+smaller powers are easily inﬂuenced by larger powers, have little agency compared with
+larger powers and have little capacity to shape their structural environment, in terms of
+both power balance and the “rules-based order”.
+The literature on alliance politics, however, lacks a consensus on how small powers
+actually behave in their relations with great powers. Walt (1987, pp. 21–31) argues that
+they are more likely to reluctantly “bandwagon” with (i.e. form an alliance with) an
+aggressive great power than balance against it. In contrast, Labs (1992) argues that
+smaller powers tend towards balancing behaviours. Sharman (2016, p. 561), meanwhile,
+ﬁnds that smaller states delegate fewer prerogatives to alliances with great powers than
+some much larger states, not more. For Mouritzen (1994, p. 158), what matters is how the
+external conﬁguration of power relative to strong powers in the “salient environment”
+aﬀects the foreign policy of small states. The immediate environment of a small state may
+constitute an adaptive acquiescent constellation (whereby small states accept certain rules
+and avoid agitating great powers), an alliance constellation (in which small states are
+closely tied to a great power and have limited freedom of activity) or a symmetrical
+constellation, in which small states have greater freedom as they play oﬀ competing great
+powers (Mouritzen, 1991, p. 219).
+This concept of how diﬀerent “constellations” inﬂuence alliance behaviour is useful,
+particularly in the contested Asian security order in which concerns over a rising China
+are coupled with uncertainty about the regional intentions of the US. In Southeast Asia
+some have observed a pattern of bandwagoning with China (Kang, 2003) and others of
+balancing with the US (Acharya, 2003), but the dominant pattern is actually “hedging”,
+involving low-intensity balancing with the US combined with engagement with China
+(Roy, 2005, p. 305–306). Hedging is typically characterised as a middle ground “insurance policy”. Kuik (2016, pp. 502–505) suggests that a deﬁning attribute of hedging is the
+adoption of ambiguous and contradictory positioning through “opposite acts” that are
+counteracting and give the image of not siding with or against any one power. The
+
+ASIAN STUDIES REVIEW
+
+101
+
+literature on Southeast Asian foreign policy highlights how these diverse small (and
+middle) powers adopt diverse strategies to negotiate their relationships with the great
+powers. They often seek to use a double-edged hedging strategy. On the one hand,
+Southeast Asian relations with China since the late 1980s have become “more complex,
+involving interdependent economic and political-security interests” as these states have
+developed bilateral and multilateral engagements (Ba, 2003, p. 464). On the other, most
+Southeast Asian states have sought to persuade the US to maintain its security presence in
+the region. These states have been less likely to engage in pure bandwagoning or
+balancing because these strategies are likely to undermine political autonomy.
+Hedging strategies are designed to provide smaller powers with room to manoeuvre
+and avoid having to side with one great power. Kuik (2008, p. 171) suggests that hedging
+aims to maximise returns and reduce risks. “Risk contingency” strategies include indirect
+balancing (balancing that does not necessarily or explicitly target China) and “dominance
+denial” (limiting the hegemonic capacities of one state). “Return-maximising” strategies
+involve economic pragmatism, binding engagement – such as discussed above – and
+limited bandwagoning, which views economic relations as not necessarily zero sum
+(Kuik, 2008, p. 166). At the extreme ends of this middle zone are pure balancing and
+bandwagoning. “Strong” hedgers prefer approaches closer to the middle ground, while
+“weak” hedgers tend towards one side. However, given that Kuik’s characterisation of
+hedging entails strategic, political and economic dimensions, weighing up the relationships to determine the hedging tendency can be complicated, and the balance between
+security and economic priorities can shift. This can have implications for whether states
+tend towards strong or weak hedging, or low or high intensity bandwagoning or
+balancing.
+This article focusses on three inﬂuences on how states hedge: institutional priorities,
+structural shifts and domestic politics. First, as Ba demonstrates, Southeast Asian states seek
+to diversify relations to maintain political autonomy and create complex institutional webs of
+interdependence that can both engage and constrain greater powers (Ba, 2005, p. 103; Ba &
+Kuik, 2018). For Goh (2008, p. 146), Southeast Asian states engage in “omni-enmeshment”
+and “complex balancing” as they attempt to deter and/or limit the military capabilities of
+powers or persuade them to alter interests and policies. Smaller states are preoccupied with
+how to bind powerful states, to ensure limits to the potential use of great power to maximize
+the gains in terms of public goods but minimize costs in terms of disruptions to the rules and
+institutions that regulate international life (Goh, 2011, p. 376).
+
+The Association of Southeast Asian Nations (ASEAN) is the most salient example of
+Southeast Asia’s eﬀorts to collectively deal with issues, create stability across the region,
+promote norms of sovereignty and non-interference, and bind the great powers. Further,
+ASEAN’s institutional oﬀshoots such as the Asian Regional Forum (ARF) are not just
+useful for engaging China but also for trying to enmesh the US within the region.
+Second, how states operationalise hedging strategies diﬀers across speciﬁc issue areas
+and can shift according to structural exigencies. Whether states display a tendency to hedge
+depends on certain conditions: the absence of immediate threat or all-pervasive rivalry of
+the type that would force small states to pick a side, and the absence of ideological fault-lines
+that force alignments with one great power (Kuik, 2008, p. 165). Applying Mouritzen’s
+work, Southeast Asian states exist within a mix of alliance and symmetrical power
+
+102
+
+R. STRATING
+
+constellations: some states, such as Singapore and the Philippines, have sought strong
+defence relations with the US, while also acting to preserve their political autonomy. The
+contested East Asian security environment produces new anxieties for all states, but also
+potentially new opportunities for small powers to leverage their relations with existing and
+rising powers. Structural changes can limit or enable room to manoeuvre, and the choices
+of great powers can also impact smaller states. For example, a signiﬁcantly reduced US
+presence in Asia would limit the capacities of ASEAN states to engage in “dominancedenial”, and resist pressure from China. A rising China may propel states to shift towards
+strong or weak hedging, or soft balancing or soft bandwagoning.
+Third, domestic politics matter for how smaller powers approach their relationships
+with great powers. This is relevant to both democratic and non-democratic states: in
+democracies, elites are concerned about what is acceptable to their public, while illiberal
+governments are concerned about maintaining regime legitimacy (Kuik, 2008, p. 159).
+Small power relations with great powers entail more than just power calculations; they
+are also informed by domestic and ideational factors, including nationalism and history.
+These factors shape national interests and threat perceptions, and help explain why
+ASEAN states may diverge on key issues such as the South China Sea (discussed below).
+Changing international and domestic circumstances have produced new patterns of
+engagement in Southeast Asia. In recent years, alliances in Southeast Asia have been
+shifting as states hedge between the US and China in the pursuit of maximum gain.
+While Vietnam has increasingly moved into Washington’s orbit, under President
+Rodrigo Duterte, the Philippines – a traditional security partner of the US – has been
+actively courting China (Aizawa, Bisley, Masou, & Strating, 2018). The development of
+new alignment arrangements is a sign of states trying to manage the changing security
+environment in order to advance and protect their interests. This macro-hedging by
+small states in managing their relations with great powers then shapes (and is shaped by)
+their foreign policy in speciﬁc issue areas. As the rest of the article demonstrates, the
+factors that drive hedging can be seen as Southeast Asian states seek to cope with China’s
+attempts to ensure its energy security interests in the region. In some cases, responses
+have shifted as broader hedging tendencies have changed, due to changing structural
+and/or domestic political conditions.
+
+Smaller Powers and China’s Malacca Dilemma
+China is highly dependent on oil that is transferred via tankers over sea lines of communication (SLOCs). One of the key planks of the BRI is building infrastructure – the
+new “Silk Roads” – connecting continental Asia. This includes land pipelines that would
+link oil and gas producers to China and be out of the reach of the US military.
+Importantly, the pipelines pursued by China aim to circumvent the use of the Malacca
+Strait for oil transportation. A key maritime choke-point, the Malacca Strait is an 890kilometre stretch of water between the Malay Peninsula and the island of Sumatra that
+bridges the Paciﬁc and Indian Oceans and carries an estimated 25 per cent of the world’s
+traded goods. Oil from the Persian Gulf and Africa headed to Asia comes through the
+Strait, and these regional sources contribute nearly 80 per cent of China’s oil imports.
+While the Malacca Dilemma may in fact be “commonly exaggerated” (Leung, 2011,
+p. 1334), what matters is that Chinese leaders perceive this to be a vulnerability that leaves
+
+ASIAN STUDIES REVIEW
+
+103
+
+other national economic and strategic objectives open to threat (Vivoda, 2009, p. 4615).
+Geopolitical dynamics exacerbate Beijing’s energy insecurity as this SLOC has been
+controlled by the US and the littoral states, Indonesia, Singapore and Malaysia. Much
+attention has been paid to the 3,000-kilometre Kazakhstan–China oil pipeline and
+China’s eﬀorts at pipeline cooperation with Russia,4 but there has been less consideration
+about the Myanmar–China Oil and Gas Pipelines or the Kra Canal in Thailand. Both of
+these options have or require acquiescence from China’s Southeast Asian neighbours.
+Former Chinese President Hu Jintao used the term “Malacca Dilemma” to describe its
+vulnerabilities in relation to energy security, reﬂecting fears that the Strait could be
+blockaded to cut China oﬀ from its oil supplies. It has had little sway over the Malacca
+Strait compared with smaller states in the region (Storey, 2006; Zhang, 2011, p. 7612).
+Singapore, for example, has control over the narrowest part of the Straits (Phillips
+Channel), which is 2.8 kilometres from coast to coast. Singapore’s capacity to seize
+goods or squeeze oil imports is an important consideration driving China’s energy
+diversiﬁcation strategies, giving it – along with Indonesia and Malaysia – some inﬂuence
+in shaping China’s policies. While Singapore engages in building economic relations with
+China, in the Southeast Asian context, it has shared a particularly close security relationship with the US, although falling short of an “oﬃcial” alliance due to concerns around
+political autonomy. The Strait constitutes an important strategic sealane for the US, and
+it continues to have a naval presence in Singapore, making use of military base facilities
+alongside Australia and Britain. Along with Indonesia and Malaysia, Singapore asserts
+the right to manage the Straits, including through joint air and naval patrols. These
+dynamics restrict the ability of rising powers to control the Straits.
+One suggestion for circumventing the Straits is to build a canal through Thailand’s
+Isthmus of Kra to connect the Gulf of Thailand with the Andaman Sea. This long-mooted
+idea – which has been around since the 1600s – would shorten the travel and transport
+time for shipments of oil to China, and to others such as Japan. This, however, requires
+the partnership of Thailand, which has itself developed plans to divert the Strait traﬃc
+through such a canal and capture some of the economic beneﬁts that the Malacca states
+accrue. There has been growing speculation that the maritime dimension of the BRI may
+include loans to subsidise the US$28 billion and technological support to see the Kra
+Canal become a reality (Menon, 2018). While the Thai government has also approached
+other countries, China and Thailand reportedly signed a Memorandum of
+Understanding on the canal project in Guangzhou in 2015. This was subsequently denied
+by both governments, however, and Thailand announced that it had no plans to build the
+canal (The Independent, 2016).
+On the face of it, this kind of initiative sits comfortably with China’s maritime Silk
+Road ambitions and its desire for increased energy security. Historically, Thailand’s
+defence relations with the US, and good relations with other regional states such as
+Japan, have enabled its hedging, and allowed it to avoid bandwagoning with China,
+which would undermine political autonomy. It has sought to maintain good relations
+with both China and the US simultaneously, although the rise to power of a military junta
+in 2014 has complicated relations with the US. Nevertheless, the political ambivalence in
+Thailand towards the Kra Canal has been partly related to an unwillingness to upset the
+US, which is opposed to the plan as its capacity to project naval power in the canal would
+be less than it currently wields in the Malacca Strait.
+
+104
+
+R. STRATING
+
+There are also concerns that the canal could aﬀect Thailand’s regional relations.
+Singapore and Malaysia are both ASEAN states that risk losing some of the economic
+beneﬁts associated with heavy traﬃc of the Malacca Strait. According to Sulong (2012,
+p. 122), the Kra Canal could also upset the maritime Southeast Asian hedgers as it would
+“further solidify China’s power and inﬂuence in the Southeast Asian region”. Yet,
+Thailand’s key concerns have revolved around domestic issues. There are major concerns
+in Thailand that its location in a conﬂict zone between the government and militant
+groups could intensify separatist movements in Southern Thailand and even split the
+country. This potential for separatist violence and terrorism to spill over into neighbouring countries would also aﬀect regional relations. The canal could lead to a split between
+maritime and continental Southeast Asia, undermining ASEAN unity and centrality, and
+its inﬂuence (Sulong, 2012). Importantly, the Kra Canal is cast as a grand Chinese
+“masterplan”, but it is not a new idea, and successive Thai leaders have expressed interest
+in accruing the economic beneﬁts that would be expected to ﬂow from the new trade
+route. Domestic, structural and regional interests shape Thailand’s attitudes to the canal
+and prevent China from simply imposing its will on the sovereign nation.
+China has developed some cooperative enterprises with its neighbours that concern
+diversifying energy transport routes. In 2006, China signed a Greater Mekong Sub-region
+Cooperation Program with Laos, Myanmar, Vietnam and Thailand for a trial run designed to
+ship oil along the Mekong during the wet season (May to December) (Goh, 2007, p. 30). This
+has required China to invest in infrastructure development including blasting impediments
+and dredging along a 330-kilometre stretch of the river. These states were apparently “pleased
+to accept Chinese support, mainly for the construction of physical infrastructure that dispenses with burdensome and costly environmental and social safeguard standards in order to
+accelerate their economic development” (Middleton, cited in Bae & Kim, 2014, p. 265). The
+Beijing Consensus, unlike the Washington Consensus, does not attach conditions to aid. This
+makes China’s patronage – albeit in the form of grants and loans, not aid – attractive for nondemocratic regimes that value their sovereignty and political autonomy. For China, however,
+it exacerbates the risk that political instability or regime crisis will aﬀect its energydiversiﬁcation strategies that involve these partners. Thailand’s leaders, however, have been
+again ambivalent about using the Mekong as a shipping lane: the Thai military had been
+concerned that any alterations to the Mekong might aﬀect its boundaries, and in civil society,
+environmental groups have opposed the plans (Goh, 2007, p. 29). However, in 2017 the Thai
+government approved Chinese geological, hydrological and engineering surveys for
+a “navigation channel improvement project” of the Mekong to allow heavy shipping
+(Cochrane, 2017). While originally subject to an annual transport quota of 70,000 tonnes, if
+the Mekong met China’s aims of allowing 200,000 tonnes to pass through annually, this would
+meet some of its diversiﬁcation goals by circumventing the Malacca Strait.
+Meanwhile, a $2 billion crude oil pipeline that allows China to bypass the Straits
+through Myanmar and into the South China Sea began operations as part of the BRI
+(South China Morning Post, 2017). The Myanmar–China Oil and Gas Pipelines deal was
+signed in March 2009 between Beijing and Myanmar’s ruling military junta. China’s
+inﬂuence in Myanmar has been enabled by “no strings attached” loans, ongoing political
+support to the military rulers and arms provisions (Zhao, 2008, p. 218). As an isolated
+“pariah” state, Myanmar was subject to punishing sanctions from the West due to its
+poor human rights record. Despite instituting elections, the military continues to exert
+
+ASIAN STUDIES REVIEW
+
+105
+
+signiﬁcant control over the state, which continues to limit not just economic development opportunities but also its strategic autonomy, forcing a dependency on relations
+with China. Chinese state-owned enterprises have been engaged in more than 62 hydropower, oil and gas and mining projects in Myanmar as of 2007 (Zhao, 2008, p. 218).
+Hence, Myanmar’s military has relied on China economically and strategically to the
+extent that its domestic political interests in maintaining its political power led it to adopt
+a client state position vis-à-vis China. Myanmar has hence not traditionally had the same
+kind of trading and economic options as Thailand. From the perspective of Myanmar’s
+ruling class – including members of the military – the payoﬀ for supporting China’s
+pipeline goals has been that China has used its veto power in the United Nations to
+support Myanmar. However, its political regime has limited space to manoeuvre in
+playing oﬀ big powers against each other.
+
+Energy Competition in the South China Sea
+China’s energy-diversiﬁcation strategy in the South China Sea provides an interesting case
+study on how small states can resist the actions of great powers and constrain their capacity
+to act. Increased Sino–US competition is changing regional power constellations as China
+asserts a greater role in East Asia. This is particularly true in the South China Sea, where oil
+and gas reserves provide China with incentives to extend its maritime claims beyond what
+is permissible under international law. As part of its energy-diversiﬁcation policy, China
+has attempted to ﬁnd new sources of oil in the South China Sea, an area that it has claimed
+through the “nine-dash line” and the concept of “historic rights”, which China views as
+providing it with sovereign entitlements to maritime resources (see, for example, Gao & Jia,
+2013). Littoral Southeast Asian states also claim various maritime zones and territorial
+features in the area. International law often provides one recourse for smaller states in
+relations with great powers. In these disputes, states such as the Philippines and Vietnam
+have attempted to use the United Nations Convention of the Law of the Sea (UNCLOS) to
+justify and assert their entitlements.
+The tensions in the South China Sea began to emerge in the late 1960s when “the
+potential for oil and natural gas came to be appreciated” (Gao & Jia, 2013). Oil and gas
+interests are now situated among a broader set of complex, interconnected disputes, as
+coastal states are motivated by a swathe of material and ideational factors, including
+security, ﬁshing rights, nationalism and international law and norms. Much of the
+hydrocarbon deposits sit around the periphery and in the southern half of the seas,
+which advantages Malaysia, Brunei, Indonesia, Vietnam and the Philippines (Graham,
+2014, p. 85). While the US estimates that the hydrocarbons in the region are valued at
+between $3 trillion and $8 trillion, Chinese estimates put the South China Sea deposits at
+between $25 trillion and $60 trillion (Corr, 2018). China’s much higher estimate – the
+seas are occasionally referred to as the “second Persian Gulf” – coupled with its attempts
+to secure its oil supplies, has contributed to the growing militarisation of the South China
+Sea and the use of largely non-kinetic “grey zone” operations, which are often conducted
+by non-military actors, such as coastguards and ﬁshing vessels, and fall below the
+threshold of war. Yet, China’s economic coercion strategies in oil and gas exploitation
+are not merely concerned with energy security; they are used to advance China’s broader
+strategic interests in the seas. This section examines Vietnam’s eﬀorts at resisting Chinese
+
+106
+
+R. STRATING
+
+pressure in oil and gas exploration and exploitation. It then examines two types of
+engagement: bilateral engagements through joint development plans with the
+Philippines; and multilateral attempts at “enmeshing” China through a Code of
+Conduct negotiated with ASEAN.
+Oil and gas drilling: Resistance and capitulation
+Beijing has engaged in low-level conﬂicts in the South China Sea with its smaller and weaker
+neighbours, particularly Vietnam (Tran & Sato, 2018). Vietnam has a history of skirmishes
+with China over oil and gas exploration, including the 27-day Johnson South Reef incident in
+1988, when the Vietnamese and Chinese navies opened ﬁre on each other. In 2004, another
+bout of naval skirmishes occurred after Beijing protested Hanoi’s decision for PetroVietnam
+to allow overseas oil companies to drill in the Spratlys (Zhao, 2008, p. 221). In 2007, Beijing
+warned international energy companies not to pursue oﬀshore ventures with PetroVietnam,
+and China attacked Vietnamese vessels twice in 2011 (Shekhar, 2012, p. 259). In 2014,
+Chinese authorities sent a deep-sea drilling rig to Vietnam’s exclusive economic zone
+(EEZ), creating a diplomatic crisis. In response, Vietnamese protestors burned down
+Chinese-owned factories. Amid the riots, China withdrew its oilrig from Vietnam’s EEZ,
+suggesting that there were limits to how far Beijing would push its administrative control
+within (and beyond) the nine-dash line. In 2019, a Chinese survey ship Haiyang Dizhi 8 and
+its escorts conducted research activities in Vanguard Bank, within Vietnam’s claimed EEZ.
+This produced a strong public reaction from Vietnam, which demanded China remove the
+vessels from its EEZ. The US Department of State (2019) also publicly expressed deep
+concern at the “series of aggressive steps to interfere with ASEAN claimants’ longstanding,
+well-established economic activities”. The incident raised new questions about the capacities
+of Vietnam to protect its legal entitlements from Chinese drilling activities, and the role of the
+international community in assisting Hanoi’s resistance eﬀorts.
+How does a small power cope with an assertive great power such as China? Le Hong
+Hiep (2013, p. 334) describes Vietnam’s approach towards China as “a calibrated mixture of
+deference and deﬁance”. First, Vietnam has sought to “internationalise” the South China
+Sea dispute by involving foreign ﬁrms. To enhance its claims to the area, Vietnam has
+sought to diversify its portfolio of joint-venture partners, with concession grants to ﬁrms
+listed in Russia, India and the US, among others (Graham, 2014, p. 85; Hiep, 2013, p. 358).
+As discussed further below, Vietnam has also attempted to bind China to following rules by
+using ASEAN as a diplomatic “soft balancing” tool (Hiep, 2013, p. 359).
+Second, as part of its hedging strategy, Vietnam moved closer to Washington during
+the Obama administration and indicated its objective to form a strategic partnership with
+the US (Tran, 2019). Hanoi has looked towards internal and external balancing, seeking
+to build up its naval capacities and developing a defence industry, partly to reduce
+dependence on foreign suppliers. Along with the Philippines, Vietnam “moved fastest
+and farthest in developing stronger defense cooperation with the pivoting America”
+(Kuik, 2016, p. 511). In some respects, Hanoi successfully leveraged competition in the
+South China Sea to advance its internal balancing aims. While not a formal ally of the US,
+in 2013, Vietnam signed a comprehensive partnership agreement to extend bilateral
+relations as part of the US pivot, with the ﬁrst priority listed as “maritime capacity
+building” (US State Department, 2013). A Joint Vision Statement on Defense Relations
+
+ASIAN STUDIES REVIEW
+
+107
+
+was signed with the US in 2015, and a statement on enhancing the comprehensive
+partnership followed in 2017. In 2019, the US donated six patrol boats to Hanoi, in
+addition to the 12 “Metal Shark” patrol boats and a high-endurance cutter provided in
+2017 and 2018, plus a training centre, maintenance facility and other associated technologies (Reuters, 2019). In total, 24 patrol boats were scheduled to be transferred to
+Vietnam. In 2018, an American aircraft carrier visited Vietnam for the ﬁrst time since the
+Vietnam War, a sign that both countries were moving ahead with plans for greater
+military cooperation. This relationship partly reﬂects Washington’s eﬀorts to oﬀset the
+uncertainty around US commitment in the region by demonstrating its willingness to
+support the interests of smaller states against China’s economic coercion. Yet it also
+reveals the ways Vietnam used the US pivot and its emerging Indo-Paciﬁc strategy to
+attempt to develop its coastguard capacities to defend its claims against China in the
+South China Sea.
+Hanoi has also looked to strengthen relations with other regional powers, including
+Japan. During a visit to Vietnam in 2017, Japanese Prime Minister Abe Shinzo promised six
+new patrol vessels, with a concessional loan to enable the purchase, declaring that Japan
+would “strongly support Vietnam’s enhancing its maritime law enforcement capability”
+(cited in Nyugen & Pham, 2017). This followed Japan’s gift of six used vessels in 2015.
+Russia is Vietnam’s biggest supplier of arms, and in 2009, Vietnam signed a $2 billion
+contract with Russia to buy six submarines, plus other maritime assets including frigates
+and patrol vessels (Hiep, 2013, p. 353; Tran & Sato, 2018, p. 89, p. 91, p. 92). It also
+expanded defence relations with Australia and India, including signing a strategic partnership with Australia during the ASEAN summit in Sydney in 2018. These diversiﬁed military
+relations are part of Vietnam’s eﬀorts at soft balancing against China.
+Third, Vietnam has drilled for oil in its EEZ regardless of Chinese pressure. An
+example of Vietnam’s resistance was its decision to drill in an area subject to an overlapping claim in 2017. Under UNCLOS, this formed part of Vietnam’s seabed, but
+because maritime boundaries are not delimited it remains a contested zone: it overlaps
+with the area that China claims under its nine-dash line. Vietnam also lodged formal
+protests in 2011 about Chinese civilian vessels interfering with its oil-survey vessels.
+China has responded to Vietnam’s drilling activities, however, by threatening to attack
+Vietnamese bases in the Spratly Islands (Mollman, 2017). In March 2018, PetroVietnam
+ordered Spanish corporation Repsol to halt a US$200 million oil-drilling project in the
+“Red Emperor” block in Vietnam’s maritime area. This was the second time in the space
+of a year that PetroVietnam had cancelled an oil project due to Chinese pressure. These
+backdowns from Vietnam highlight its susceptibility to economic coercion, but also
+Hanoi’s lack of naval deterrent capacity and a lack of conﬁdence in US protection
+(Hayton, 2018).
+Vietnam’s balance between the various dimensions of hedging – economic pragmatism, enmeshment, and hard and soft balancing – shifts according to China’s actions in
+the South China Sea (Hiep, 2013, p. 335; Tran & Sato, 2018, p. 75, p. 81). An important
+factor is the ways in which domestic political imperatives shape responses to external
+contingencies, particularly as nationalists demand that Vietnam’s government protect
+sovereign entitlements and interests in relation to oil. This has made strategic bandwagoning with China undesirable, even as Hanoi has sought to maintain strong economic
+relations with China. Vietnam has attempted to resist China, yet the more assertive China
+
+108
+
+R. STRATING
+
+grows in the South China Sea – and the less certain US support seems – the less able
+Hanoi has been to withstand the pressure around oil and gas exploitation, aﬀecting its
+capacity to “defy” China and assert its marine resource entitlements.
+Joint development
+A range of complex bilateral and multilateral engagements have taken place to manage
+disputes over oil and gas in the South China Sea. Under UNCLOS, energy disputes may be
+resolved through establishing Joint Development Areas (JDAs) through international
+negotiations, with boundary delimitation not a necessary condition for these shared
+regimes. JDAs may provide mutual gains as states put aside sovereignty disputes in order
+to jointly develop resources, and can shift dispute resolution away from binding conﬂictmanagement mechanisms, such as third-party arbitration. By contesting claims outside of
+international courts, however, these agreements can also serve to “prevent the legalization
+of the disputes”, which can favour more powerful states – such as China – whose claims are
+less certain under international law (Emmers, 2016, p. 155).
+China’s JDA oﬀers have been predicated on Southeast Asian claimants accepting
+Chinese sovereignty in the South China Sea. The 2005–2008 trilateral Joint Seismic
+Marine Undertaking between the Philippines, Vietnam and China, for instance, was
+scuttled due to domestic political opposition in the Philippines – which was framed
+around accusations that Manila elites were corrupt and that the Philippines’ Constitution
+would not legally permit such a sharing venture – as well as China’s encroachments in the
+Filipino EEZ (Santamaria, 2018). The Aquino government abandoned the Philippines’
+earlier conciliatory approach by taking the dispute with China to an Arbitral Tribunal,
+following the Scarborough Shoal standoﬀ in 2012. This was also driven by concerns that
+the US had failed to substantively assist the Philippines to maintain its claim to the Shoal,
+exacerbating longstanding doubts about US willingness to protect its treaty ally in the
+event of conﬂict in the South China Sea. China refused to participate in the process and
+rejected the tribunal’s ruling that there were no overlapping claims in the hydrocarbonrich areas, as these are part of the Philippines’ continental shelf, and that China’s claims
+to historic rights were invalid under international law: “as far as the ‘July 2016 arbitral
+ruling is concerned, the areas are no longer disputed, meaning that the Philippine
+government cannot enter joint exploration or development with China without possibly
+violating the award or the Constitution” (Cigaral, 2018). According to the ruling, the
+hydrocarbon deposits, including the Reed Bank, fall within the Philippines’ EEZ, meaning that any compromise by the Philippines could undermine both domestic and international law. However, the Philippines, like Vietnam, has struggled to assert its oil and
+gas entitlements. For instance, in 2011 Chinese patrol vessels prevented a survey ship
+operating with the Philippines’ permission from exploring in the Reed Bank, which falls
+well within 200 nautical miles of the Philippines’ coast. In 2017, the Duterte government
+announced that Chinese President Xi Jinping had declared that there would be war if
+Manila tried to drill for oil (Mogato, 2017).
+The Philippines oﬀers an instructive example of how domestic leadership can shape
+the foreign policy priorities of smaller states. While no speciﬁc details have been released,
+in 2018, Chinese and Philippine diplomats renewed discussions over establishing a JDA
+in the South China Sea. Duterte has taken a diﬀerent approach to China from his
+
+ASIAN STUDIES REVIEW
+
+109
+
+predecessor, and has expressed a preference for “co-ownership” (see Heydarian, 2017).
+The key motivating factors for the Duterte administration are access to Chinese ﬁnancial
+assistance for infrastructure projects through the Belt and Road Initiative, and its own
+energy security. Duterte has played down the Arbitral Tribunal ruling as he prioritises
+improving ties with China. This highlights the agency of smaller states as they look to
+leverage the choices and opportunities for investment and infrastructure loans that come
+from great-power competition in infrastructure development. The hedging framework
+outlined earlier in the article helps to explain how Duterte leans towards economic
+pragmatism: that is, towards maximising the economic beneﬁts that he sees as emerging
+through closer relations with Beijing. Yet this latter point about the energy security needs
+of smaller states tends to get overlooked in the scholarship on China’s energy diplomacy.
+That is, smaller states that play a role in securing China’s oil supplies may themselves
+have their own supply needs that shape their foreign policy interests and behaviour. The
+Malampaya ﬁeld, which provides 40 per cent of the electricity to the Philippines’ main
+island of Luzon, is close to depleted. Manila is concerned not only about securing
+a revenue stream from hydrocarbon resources, but also about enhancing its own energy
+security and curbing reliance on imported oil. A JDA is a short-term, pragmatic arrangement: the rationale of this approach is that an agreement that unlocks the resource would
+mean the Philippines accessing some oil, which is better than none.
+The Philippines has continued to operate in the middle ground of hedging, but has
+shifted from military to economic priorities, which has contributed to changing relations
+with the two great powers. Duterte declared that he would pursue an “independent”
+foreign policy. Moving towards China was hence presented in the narrative as
+a correction, or a countervailing move against Aquino’s perceived reliance on the US.
+Yet, while Duterte has rhetorically rejected the US, and had announced his intention to
+seek a “divorce” from it, the Philippines has maintained its military ties with Washington.
+While Duterte downgraded security ties at the end of 2016, two new bilateral exercises
+were held in 2017, and military exercises, including the annual Balikatan exercises,
+continued in 2018. Furthermore, the US has provided ongoing military aid to the
+Philippines as it responds to the terrorist threat in Marawi (Lischin, 2018). The
+Philippines also continues to be more reliant on the US than China in terms of foreign
+investment, remittances and the outsourcing industry. Further, it is not China that is the
+leading investor in the Philippines, but rather Japan. One of the strongest Asian allies of
+the US, Japan also seeks to counter China’s rising inﬂuence in the region. In 2017, Japan
+pledged the Philippines a 1 trillion yen (US$9 billion) aid and investment package,
+leading Duterte to declare that the two countries were embarking on a “golden age of
+strategic partnership” (Galang, 2019). This indicates that the Philippines is playing oﬀ
+China and Japan in development and infrastructure (Jennings, 2017).
+The Philippines’ hedging has changed across diﬀerent administrations, which suggests that domestic factors such as leadership and public opinion matter for how it has
+addressed great-power relations more generally, as well as the speciﬁc challenge presented by China to its oil and gas entitlements in the South China Sea. While the
+Philippines’ public has a less favourable view of China than the US, Duterte’s eﬀorts to
+secure a JDA come at a time when the Trump administration has tarnished the US
+reputation (Poushter & Bishop, 2017). Duterte has privileged economic interests over
+strategic concerns, and has a transactional approach to foreign policy. His government
+
+110
+
+R. STRATING
+
+has been more pragmatic than its predecessor, which had a liberal institutionalist vision
+of international aﬀairs, as reﬂected in the decision to take China to international
+arbitration (Baviera, 2012, p. 327). While there are those in the Philippines who do
+not trust China’s intentions, due in part to historical clashes such as its occupation of
+Mischief Reef in 1995 and the standoﬀ over Scarborough Shoal in 2012, Duterte
+appears mistrustful of the US, particularly the Obama administration, which pressed
+his administration on human rights. Although US Secretary of State Mike Pompeo
+visited Manila in February 2019 to assure the Philippines that it would come to its
+defence if it came under attack in the South China Sea, concerns remain about US
+commitment to the Mutual Defense Treaty. Without enforcement or self-help capacities, the international arbitration remains merely a moral victory, as China does not
+recognise the ruling even though it is binding. These concerns about a lack of
+enforcement measures reﬂect realist perspectives about the weakness of international
+law more generally (Zhang, 2016).
+In keeping with Kuik’s understanding of hedging outlined above, domestic pressures are shaping Duterte’s contradictory and oppositional responses to China’s oil and
+gas diplomacy. Under Duterte’s rule, the Philippines has undoubtedly moved closer to
+reaching an agreement with China. Yet, for JDAs to work they need to put aside
+sovereignty claims. States may agree in principle to “co-ownership” but have diﬀerent
+interpretations of what this might entail. In May 2018, the Philippines reportedly
+issued a note verbale protest against China over the militarisation of islands and
+reefs in the gas-rich Spratly Islands, with the government claiming that it sent dozens
+of oﬃcial protests (Esmaquel, 2018). Government oﬃcials reiterated that Duterte
+would “never give away even an inch of territory” (cited in CNN, 2018). As China’s
+assertive actions intensiﬁed, in August 2018, Duterte publicly warned Beijing to
+“temper . . . its behaviour” in the South China Sea (cited in Associated Press, 2018).
+This warning came amid protests in the Philippines that Duterte was being “soft” on
+China in the SCS. Southeast Asian states have generally been sceptical of shared
+sovereignty regimes, as a consequence of “neo-Westphalian” modes of sovereignty
+that imply absolute jurisdictional exclusivity. The Aquino government used “David
+versus Goliath” narratives to invoke nationalism in its maritime disputes with China,
+making it harder for the Philippines to compromise on what it claimed was its
+sovereign entitlement to oil and gas (De Castro, 2016, p. 33). The Duterte government
+movement towards Beijing’s sphere of inﬂuence may be considered an overcorrection
+of the Aquino government’s preference for closer relations with the US. Its conﬂicted
+approach to energy resources in the South China Sea has emerged from its weak
+hedging, as well as the domestic political imperative to maintain its sovereign rights
+accorded by international law.
+Code of Conduct
+Southeast Asian states have attempted to use ASEAN to resolve tensions among claimants since its ﬁrst oﬃcial Declaration on the South China Sea in 1992. This reﬂects the
+role of institutional “binding” or “enmeshment” in Southeast Asian hedging and engagement strategies. In 2002, China and ASEAN signed the Declaration on the Conduct of
+Parties in the South China Sea, an initiative driven by the Southeast Asian states.
+
+ASIAN STUDIES REVIEW
+
+111
+
+Problematically for the institutional component of hedging, not all states are claimants in
+the South China Sea or invested in the same ways, which makes it challenging for ASEAN
+as a consensus-based regional institution to form a uniﬁed and collective front. The most
+notable example was in 2012 when Cambodia – a close partner of China and not
+a claimant to the SCS – prevented the organisation from releasing a Joint
+Communique. Consequently, China has implemented a “divide and conquer” strategy
+as ASEAN has been unable to coherently deal with the complex, overlapping sets of
+maritime claims, island-building and naval militarisation, or collectively respond to
+China’s refusal to abide by the 2016 ruling by the Arbitral Tribunal. Diﬀerent domestic
+and strategic interests driving the foreign policies of Southeast Asian states have undermined eﬀorts of the claimant states – especially Vietnam and the Philippines – to
+institutionally bind China on the SCS dispute.
+Since 2002, ASEAN has been working with China on developing a Regional Code of
+Conduct on the South China Sea. The COC has repeatedly stalled, not just due to the
+reluctance of China to engage multilaterally, but also due to the competing interests of
+ASEAN states as most of its members have no hydrocarbon resource claims in the South
+China Sea. Nevertheless, in pushing for a Code of Conduct, Southeast Asian states have
+pursued the “internationalization and legalization of the disputes” (Emmers, 2016,
+p. 155). This approach is in line with ASEAN’s eﬀorts to use institutions to engage and
+constrain great powers, including China, as one hedging strategy (Kuik, 2008). While
+China prefers to deal with Southeast Asian states bilaterally, ASEAN is aware that trying
+to deal with China multilaterally can give it greater collective inﬂuence. In August 2018,
+an agreement was reached on a Single Draft South China Sea Negotiating Text. Several
+issues remain uncertain, such as whether the COC would be legally binding, the geographical scope of the COC, the types of dispute resolution mechanism, and the status of
+the arbitral award (Thayer, 2018). While some were optimistic that at least negotiations
+had begun, critics raised concerns about the process. Huong Le Thu (2018), for instance,
+argued that China would use the COC to “legitimize its actions in the South China Sea by
+engaging in the process while subverting its spirit”. In other words, China is “talking
+while taking” (Ba, 2003, p. 627), or engaging ASEAN on a COC while simultaneously
+militarising the Spratlys and engaging in grey zones operations in order to bolster its
+maritime security and defend its energy resource claims in the South China Sea.
+While critics have suggested that Southeast Asian states need to be aware of the “traps”
+of a counter-productive COC, which may enable China to “control” the South China Sea, it
+appears that ASEAN members do not have the same view about the process and potential
+outcomes. Singapore’s foreign minister Ng Eng Hen, for example, argued that ASEAN and
+China must conclude a Code of Conduct to ensure maritime security and preserve ASEAN
+centrality. One of the key issues with using a multilateral Code of Conduct to bind China is
+that the bind works both ways: this is in part an eﬀort from China to limit third-party
+involvement in the South China Sea. Yet, the smaller Southeast Asian states view the COC
+as a potential pathway to the management of disputes – including over energy resources
+such as oil and gas – if not their resolution. For smaller powers, their capacity to engage and
+constrain China is dependent in part on their own capacities to operate as a bloc and to
+maintain the presence of other regional powers without compromising their political
+autonomy or sovereignty. This is becoming increasingly diﬃcult as individual ASEAN
+states pursue their speciﬁc interests in their relationships with Beijing.
+
+112
+
+R. STRATING
+
+Conclusion
+Small powers can diversify their international relations, hedge/play great powers oﬀ against
+each other, respond to changing power dynamics, seek to shape the normative order,
+bolster their inﬂuence, and straddle lines between resistance, balancing and bandwagoning.
+As the powers of the region – the US, China, and to a lesser extent, Japan, Russia and
+India – jostle for power and inﬂuence in Asia, this has provided small powers with new
+opportunities to shape and contribute to the external political landscape. This perspective
+has signiﬁcant implications for understanding the region’s emerging security order. For
+example, the success or failure of China’s economic multilateralism through mechanisms
+such as the Belt and Road Initiative relies in part on the consent and acquiescence of smaller
+states, which themselves can align interests and pool their collective power. The capacities
+of potentially hostile powers to establish military bases or engage in cooperative behaviour
+remain of primary concern to states in the region. Yet smaller powers can implement
+a broad range of sovereign prerogatives and, by so doing, contribute to the regional security
+order, as illustrated in this article’s analysis of China’s energy security strategies in Southeast
+Asia.
+China’s drive for energy security has challenged US dominance in terms of global
+reach, as China has adopted a “going out” strategy that included Africa, Central Asia and
+Latin America. Energy security strategies have implications for global order and the new
+roles that an emerging power such as China might play in regions that it had previously
+neglected. Using foreign loans, investment in infrastructure and largely Chinesecontrolled economic institutions, China can combine its strategic policy with its need
+to ensure a stable supply of energy. While these dynamics have received signiﬁcant
+attention in terms of China’s aims and goals, Southeast Asia provides a valuable context
+for examining how smaller states managed China’s pursuit of energy security through
+a combination of engagement, institutional binding and resistance.
+These dynamics are as much to do with domestic, institutional and structural factors
+that shape the foreign policy preferences and priorities of small states as they are about
+China’s capacity to inﬂuence and coerce smaller powers. So rather than examining how
+a rising power such as China seeks to exert inﬂuence, as much of the literature on China’s
+energy strategy tends to do, it is important to consider these as dyadic and complex
+relationships. It is not always the case that material size matters for inﬂuence, as the case
+of Singapore’s control over the Malacca Strait indicates. The challenges to the Kra Canal
+are largely to do with Thailand’s reluctance to proceed for domestic reasons. While
+ASEAN states have similar normative values around non-interference that is ostensibly
+promoted by the Beijing Consensus, some have also resisted China’s attempts to claim
+and control the South China Sea. In contrast, Myanmar has been willing to engage with
+China on a proposed pipeline partly because its longstanding domestic issues concerning
+human rights abuses, corruption and rule of law have prevented it from building closer
+relations with Western states, thereby aﬀecting its ability to adopt an eﬀective hedging
+strategy. It is advantageous for Myanmar that, unlike Western states, China has traditionally ignored domestic political issues such as human rights.
+As Zhao (2008) suggests, China’s need for energy diversiﬁcation has brought it into
+closer contact with some of the ASEAN states but has exacerbated tensions with others.
+Whether China’s eﬀorts to enhance its energy security lead to conﬂict in the region
+
+ASIAN STUDIES REVIEW
+
+113
+
+depends in part on to what extent Southeast Asian states, with the assistance of allies and
+partners, are willing and able to resist coercion. ASEAN states such as Vietnam and the
+Philippines had resisted China’s determination to extract oil from the South China Sea,
+although in recent years the Philippines has pursued a joint development approach and
+Vietnam has experienced new challenges in protecting energy resources within its EEZ. If
+the US reduces its role in the region while China continues to increase its inﬂuence, this
+may leave smaller states with fewer options to employ hedging strategies and resist
+Beijing’s eﬀorts to exploit and extract hydrocarbons in the South China Sea.
+
+Notes
+1 There are diﬀerent deﬁnitions of energy diversiﬁcation, including expanding the range of
+sources of energy, such as renewable sources. This article focusses speciﬁcally on developing
+new sources of oil, and new routes and methods of transporting oil.
+2 The BP report bundles the other four ASEAN states (Laos, Cambodia, Brunei and
+Myanmar) in the “other Asia–Paciﬁc” category, which in 2016 only consumed 66 million
+tonnes of energy combined.
+3 Singapore is also a diﬃcult state to classify – it is a small state in terms of size and
+population, but arguably a middle power if judged by its wealth and military capacity.
+4 There were also plans for an “energy corridor” running from Gwadar and Karachi in
+Pakistan to China.
+
+Acknowledgments
+This article was ﬁrst presented at the International Political Science Association/Australian
+Political Studies Association conference in Brisbane in 2018. I would like to thank the audience
+and panel members who provided helpful feedback during that conference. I would also like to
+thank the anonymous peer reviewers for their useful comments.
+
+ORCID
+Rebecca Strating
+
+http://orcid.org/0000-0002-7695-130X
+
+References
+Acharya, A. (2003). Will Asia’s past be its future? International Security, 28(3), 149–164.
+Aizawa, N., Bisley, N., Masou, C., & Strating, R. (2018). Cooperation in contested Asia. Melbourne:
+La Trobe Asia Policy Brief Series.
+Associated Press. (2018, 15 August). South China Sea: Duterte warns China to temper its
+behaviour. Sydney Morning Herald. Retrieved from https://www.smh.com.au/world/asia/southchina-sea-duterte-warns-china-to-temper-its-behaviour-20180815-p4zxkp.html
+Ba, A. (2003). China and ASEAN: Reinvigorating relations for a 21st century Asia. Asian Survey, 43
+(4), 622–647.
+Ba, A. (2005). Southeast Asia and China. In E. Goh (Ed.), Betwixt and between: Southeast Asian
+strategic relations with United States and China (pp. 93–118). Singapore: Singapore Institute of
+Defence and Strategic Studies.
+Ba, A., & Kuik, C. (2018). Southeast Asia and China: Engagement and constrainment. In A. Ba &
+M. Beeson (Eds.), Contemporary Southeast Asia: The politics of change, contestation and adaption (pp. 229–247). Houndmills: Palgrave.
+
+114
+
+R. STRATING
+
+Bae, J., & Kim, J. (2014). China’s strategic environment and external relations in the transition
+period. Seoul: Korea Institute for National Uniﬁcation/Centre for International Strategic
+Studies.
+Baviera, A. S. P. (2012). Domestic interests and foreign policy in China and the Philippines:
+Implications for the South China Sea. Philippine Studies, 62(1), 133–143.
+BP. (2017). BP statistical review of world energy June 2017. Retrieved from https://www.bp.com/
+content/dam/bp/en/corporate/pdf/energy-economics/statistical-review-2017/bp-statisticalreview-of-world-energy-2017-full-report.pdf
+Brown, W., & Harman, S. (2013). African agency in international politics. In W. Brown &
+S. Harman (Eds.), African agency in international politics (pp. 1–16). Oxon: Routledge.
+Buszynski, L., & Roberts, C. B (Eds.). (2015). The South China Sea maritime disputes: Political, legal
+and regional perspectives. Abingdon: Routledge.
+Callahan, W. (2016). China’s “Asia Dream”: The Belt Road Initiative and the new regional order.
+Asian Journal of Comparative Politics, 1(3), 226–243.
+Cigaral, I. N. (2018, 2 June). Cayetano: Philippines, China in talks about joint development in
+South China Sea. Philippine Star. Retrieved from https://www.philstar.com/headlines/2018/06/
+02/1820974/cayetano-philippines-china-talks-about-joint-development-south-chinasea#7SaEvdwxkTs1okoP.99
+CNN. (2018, 1 June). Duterte gov’t ﬁled “dozens” of protests vs. China’s activities in South China
+Sea, oﬃcials say. CNN. Retrieved from http://cnnphilippines.com/news/2018/05/31/dutertesouth-china-sea-cayetano-roque.html
+Cochrane, L. (2017, 25 May). China wants to dynamite the Mekong River to increase trade. ABC
+News.
+Corr, A. (2018). China’s $60 trillion estimate of oil and gas in the South China Sea: Strategic
+implications. Journal of Political Risk, 6(1). Retrieved from http://www.jpolrisk.com/chinas-60trillion-estimate-of-oil-and-gas-in-the-south-china-sea-the-strategic-implications/
+De Castro, R. (2016). The challenges of conﬂict resolution in the South China Sea dispute:
+Examining the prospect of a stable peace in East Asia. International Journal of China Studies,
+7(1), 23–51.
+Elman, M. F. (1995). The foreign policy of small states: Challenging neorealism in its own
+backyard. British Journal of Political Science, 25(2), 171–217.
+Emmers, R. (2016). China’s inﬂuence in the South China Sea and the failure of joint development.
+In E. Goh (Ed.), Rising China’s inﬂuence in developing Asia (pp. 155–173). Oxford: Oxford
+University Press.
+Esmaquel II, P. (2018, 2 June). Philippines silently ﬁles note verbale against China. Rappler.
+Retrieved from https://www.rappler.com/nation/203738-philippines-ﬁle-diplomatic-noteagainst-china-may-2018
+Galang, M. (2019, 26 April). A decade of Philippines–Japan strategic partnership. The Diplomat.
+Gao, Z., & Jia, B. B. (2013). The nine-dash line in the South China Sea: History, status and
+implications. American Journal of International Law, 107(1), 98–123.
+Goh, E. (2007). Developing the Mekong: Regionalism and regional security in China–Southeast
+Asian relations. Adelphi Paper 387, International Institute for Strategic Studies.
+Goh, E. (2008). Great powers and hierarchical order in Southeast Asia: Analyzing regional security
+strategies. International Security, 32(3), 113–157.
+Goh, E. (2011). Institutions and the Great Power Bargain in East Asia: ASEAN’s limited “brokerage” role. International Relations of the Asia-Paciﬁc, 11(3), 373–401.
+Goh, E. (Ed.). (2016). Rising China’s inﬂuence in developing Asia. Oxford: Oxford University Press.
+Graham, E. (2014). Energy competition in the South China Sea: A front-burner issue? Australian
+Defence Force Journal, 195, 84–86.
+Hameiri, S., & Jones, L. (2018). China challenges global governance? Chinese international
+development ﬁnance and the AIIB. International Aﬀairs, 94(3), 573–593.
+Hayton, B. (2018). China’s intimidation exposes Vietnam’s lack of deterrence. Chatham House.
+Retrieved from https://www.chathamhouse.org/expert/comment/china-s-intimidation-exposes
+-vietnam-s-lack-deterrence
+
+ASIAN STUDIES REVIEW
+
+115
+
+Heydarian, R. (2017). Tragedy of small power politics: Duterte and the shifting sands of Philippine
+foreign policy. Asian Security, 13(3), 220–236.
+Hiep, L. H. (2013). Vietnam’s hedging strategy against China since normalization. Contemporary
+Southeast Asia, 35(3), 333–368.
+International Energy Agency. (2012). People’s Republic of China oil and gas security: Emergency
+responses of IEA countries. Retrieved from https://www.iea.org/publications/freepublications/
+publication/China_2012.pdf
+Jennings, R. (2017, 3 November). Japan deepens economic support for Philippines in rivalry with
+China. Voice of America. Retrieved from https://www.voanews.com/a/japan-economic-aidphilippines/4098258.html
+Kang, D. (2003). Getting Asia wrong: The need for new analytical frameworks. International
+Security, 27(4), 57–85.
+Kuik, C. (2008). The essence of hedging: Malaysia and Singapore’s responses to a rising China.
+Contemporary Southeast Asia, 30(2), 159–185.
+Kuik, C. (2016). How do weaker states hedge? Unpacking ASEAN states’ alignment behaviour
+towards China. Journal of Contemporary China, 25(100), 500–514.
+Labs, E. (1992). Do weak states bandwagon? Security Studies, 1(3), 383–416.
+Le Thu, H. (2018, 13 July). The dangerous quest for a Code of Conduct in the South China Sea.
+Asia Maritime Transparency Initiative.
+Lee, H. L. (2019). PM Lee Hsien Loong at the IISS Shangri-La Dialogue 2019. Retrieved from https://
+www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-at-the-IISS-Shangri-La-Dialogue-2019
+Leung, G. C. K. (2011). China’s energy security: Perception and reality. Energy Policy, 39,
+1330–1337.
+Lischin, L. (2018, 23 March). US foreign policy is failing in the Philippines. East Asian Forum. Retrieved
+from http://www.eastasiaforum.org/2018/03/23/us-foreign-policy-is-failing-in-the-philippines/
+Long, T. (2017). It’s not the size, it’s the relationship: From “small states” to asymmetry.
+International Politics, 54, 144–160.
+Maass, M. (2009). The elusive deﬁnition of the small state. International Politics, 46(4), 65–83.
+Mastanduno, M. (2003). Incomplete hegemony: The United States and security order in Asia. In
+M. Alagappa (Ed.), Asian security order: Instrumental and normative features (pp. 141–170).
+Stanford: Stanford University Press.
+Menon, R. (2018, 6 April). Thailand’s Kra Canal: China’s way around the Malacca Strait. The
+Diplomat.
+Mogato, M. (2017, 19 May). Duterte says China’s Xi threatened war if Philippines drills for oil.
+Reuters.
+Mollman, S. (2017, 25 July). The South China Sea’s untapped oil and natural gas are back in focus.
+Quartz.
+Mouritzen, H. (1991). Tension between the strong and the strategies of the weak. Journal of Peace
+Research, 28(2), 217–230.
+Mouritzen, H. (1994). Testing weak-power theory: Three Nordic reactions to the Soviet coup. In
+W. Carlsnaes & S. Smith (Eds.), European foreign policy: The EC and changing perspectives in
+Europe (pp. 156–176). London: Sage.
+Nguyen, M., & Pham, M. (2017, 17 January). South China Sea: Japan to supply new patrol boats to
+Vietnam. Sydney Morning Herald.
+Poushter, J., & Bishop, C. (2017). People in the Philippines still favor US over China, but gap is
+narrowing. Pew Research Centre. Retrieved from http://www.pewglobal.org/2017/09/21/peoplein-the-philippines-still-favor-u-s-over-china-but-gap-is-narrowing/
+Reuters. (2019, 1 April). US delivers more patrol boats to Vietnam amid deepening security ties.
+Reuters. Retrieved from https://www.reuters.com/article/us-usa-vietnam/us-delivers-six-patrolboats-to-vietnam-amid-deepening-security-ties-idUSKCN1RD1YA
+Roy, D. (2005). Southeast Asia and China: Balancing or bandwagoning? Contemporary Southeast
+Asia, 27(2), 305–322.
+Santamaria, C. (2018). Sino–Philippine joint development in the South China Sea: Is political will
+enough? Asian Politics and Policy, 10(2), 322–340.
+
+116
+
+R. STRATING
+
+Sharman, J. C. (2016). Sovereignty at the extremes: Micro-states in world politics. Political Studies,
+65(3), 559–575.
+Shekhar, V. (2012). ASEAN’s responses to the rise of China: Deploying a hedging strategy. China
+Report, 48(3), 253–268.
+South China Morning Post. (2017, 12 April). Myanmar pipeline gives China faster supply of oil
+from Middle East. South China Morning Post. Retrieved from https://www.scmp.com/news/
+china/economy/article/2086837/myanmar-pipeline-gives-china-faster-supply-oil-middle-east
+Storey, I. (2006, 12 April). China’s Malacca dilemma. China Brief, 6(8).
+Storey, I. (2011). Southeast Asia and the rise of China: The search for security. New York: Routledge.
+Sulong, R. S. (2012). The Kra Canal and Southeast Asian relations. Journal of Current Southeast
+Asian Aﬀairs, 31(4), 109–125.
+Tang, C. (2018). Small states and hegemonic competition in Southeast Asia: Pursuing autonomy,
+security and development amid great power politics. Oxon: Routledge.
+Thayer, C. (2018, 3 August). A closer look at the ASEAN–China Single Draft South China Sea
+Code of Conduct. The Diplomat.
+The Independent. (2016, 2 October). The real threat to S’pore – construction of Thai’s Kra Canal
+ﬁnanced by China. The Independent. Retrieved from http://www.theindependent.sg/the-realthreat-to-spore-construction-of-thais-kra-canal-ﬁnanced-by-china/
+Tran, T. B. (2019, 20 June). Pathways for the United States and Vietnam to establish a strategic
+partnership by 2020. Asia Paciﬁc Bulletin, 482.
+Tran, T. B., & Sato, Y. (2018). Vietnam’s post-Cold War hedging strategy: A changing mix of
+realist and liberal ingredients. Asian Politics and Policy, 10(1), 73–99.
+US Department of Defense. (2019). Indo-Paciﬁc strategy report: Preparedness, partnerships, and
+promoting a networked region. Retrieved from https://media.defense.gov/2019/Jul/01/
+2002152311/-1/-1/1/DEPARTMENT-OF-DEFENSE-INDO-PACIFIC-STRATEGY-REPORT
+-2019.PDF
+US Department of State. (2013). US–Vietnam Comprehensive Partnership. Retrieved from https://
+2009-2017.state.gov/r/pa/prs/ps/2013/218734.htm
+US Department of State. (2019). China escalates coercion against Vietnam’s longstanding oil and
+gas activity in the South China Sea. Retrieved from https://www.state.gov/china-escalatescoercion-against-vietnams-longstanding-oil-and-gas-activity-in-the-south-china-sea/
+US Energy Information Administration. (2018, 5 February). China surpassed the United States as
+the world’s largest crude oil importer in 2017. Retrieved from https://www.eia.gov/todayine
+nergy/detail.php?id=34812
+Veenendaal, W.P., & Corbett, J. (2015). Why small states oﬀer important answers to large
+questions. Comparative Political Science, 48(4), 527–549.
+Vital, D. (1971). The survival of small states: Studies in small/great power conﬂict. Oxford: Oxford
+University Press.
+Vivoda, V. (2009). Diversiﬁcation of oil import sources and energy security: A key strategy or an
+elusive subject? Energy Policy, 37, 4615–4623.
+Walt, S. (1987). The origins of alliances. Ithaca: Cornell University Press.
+Zhang, F. (2016, 28 July). The paradox at the heart of the South China Sea ruling. Foreign Policy.
+Zhang, Z. X. (2011). China’s energy security, the Malacca dilemma and responses. Energy Policy,
+39, 7612–7615.
+Zhao, S. (2008). China’s global search for energy security: Cooperation and competition in Asia–
+Paciﬁc. Journal of Contemporary China, 17(55), 207–227.
+
+

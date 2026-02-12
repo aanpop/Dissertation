@@ -1,0 +1,1312 @@
+Australian Journal of International Aﬀairs
+
+ISSN: 1035-7718 (Print) 1465-332X (Online) Journal homepage: www.tandfonline.com/journals/caji20
+
+Structural sources of Malaysia's South China
+Sea policy: power uncertainties and small-state
+hedging
+Yew Meng Lai & Cheng-Chwee Kuik
+To cite this article: Yew Meng Lai & Cheng-Chwee Kuik (2021) Structural sources of Malaysia's
+South China Sea policy: power uncertainties and small-state hedging, Australian Journal of
+International Aﬀairs, 75:3, 277-304, DOI: 10.1080/10357718.2020.1856329
+To link to this article: https://doi.org/10.1080/10357718.2020.1856329
+
+Published online: 15 Dec 2020.
+
+Submit your article to this journal
+
+Article views: 3494
+
+View related articles
+
+View Crossmark data
+
+Citing articles: 18 View citing articles
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=caji20
+
+AUSTRALIAN JOURNAL OF INTERNATIONAL AFFAIRS
+2021, VOL. 75, NO. 3, 277–304
+https://doi.org/10.1080/10357718.2020.1856329
+
+Structural sources of Malaysia’s South China Sea policy:
+power uncertainties and small-state hedging
+Yew Meng Laia and Cheng-Chwee Kuikb,c
+a
+
+Centre for the Promotion of Knowledge and Language Learning, Universiti Sabah Malaysia, Kota Kinabalu,
+Malaysia; bInstitute of Malaysian and International Studies, Universiti Kebangsaan Malaysia, Bangi, Malaysia;
+c
+Foreign Policy Institute, Johns Hopkins SAIS, Washington, DC, USA
+ABSTRACT
+
+KEYWORDS
+
+This essay traces the structural sources of Malaysia’s South China
+Sea policy. It argues that Malaysia’s ‘light-hedging’ approach is
+primarily a smaller-state’s response to growing systemic pressure
+arising from power asymmetry, rivalry, and uncertainties. The
+features of this approach are: an insistence on not taking sides,
+concurrent adoption of open deference and indirect deﬁance,
+and an active eﬀort to cultivate a fallback position, all aimed at
+reducing multiple risks associated with the uncertainties of US
+commitment , China’s long-term intentions, and their future
+relations. We have arrived at three main ﬁndings. First, structural
+impact matters: as geopolitical uncertainty increases, weaker
+states hedge more deeply. Second, smaller states do have
+agency, even if only in a low-proﬁle manner. Because smaller
+states have been disadvantaged under an asymmetric power
+structure, they often use a combination of diplomatic, legal,
+developmental, and defence means to shape favourable external
+conditions. Third, while hedging is chieﬂy a result of structural
+factors, the forms and degree of a state’s hedging activism are
+necessarily a function of its threat perceptions, elite interests and
+other unit-level variables. These factors explain Malaysia’s light
+form of hedging: quiet action and limited deﬁance alongside
+open accommodation in managing the South China Sea disputes.
+
+Malaysia; South China Sea;
+hedging; smaller states;
+China-Southeast Asia
+relations; Malaysian Defence
+White Paper
+
+Introduction
+This essay unpacks the structural factors shaping smaller states’ policies towards a multiple-claimant territorial dispute amid the changing regional and global balance of power.
+By focusing on Malaysia’s South China Sea (SCS) policy, the essay analyzes how the
+growing US–China animosity has led the small state to view the SCS imbroglio not
+just a territorial issue but more a matter of big-power rivalry with geopolitical roots.
+Like other smaller states in the Indo-Paciﬁc region, Malaysia has long considered
+power asymmetry and power rivalry as structural conditions over which it has little
+control. The interactions between the world’s two leading powers over the past few
+years have brought systemic uncertainties to an all-time high, thereby compelling Malaysia to deepen its ‘light-hedging’ policy (a term coined by Kuik and Rozman 2015). This
+CONTACT Cheng-Chwee Kuik
+
+cckuik@gmail.com
+
+© 2020 Australian Institute of International Aﬀairs
+
+278
+
+Y. M. LAI AND C.C. KUIK
+
+policy is characterised by an insistence on not taking sides, an active eﬀort to demonstrate both open deference and selective deﬁance toward the competing powers, and a
+continuous attempt to cultivate a fallback position to oﬀset multiple risks stemming
+from power uncertainties (Kuik 2016a, 2020a).
+Malaysia’s light-hedging approach is perhaps best illustrated by its recent response to a
+months-long high sea standoﬀ. In April 2020, a Chinese seismic survey ship Haiyang
+Dizhi 8 was spotted tagging the Malaysian Petronas-contracted West Capella drill ship
+engaging in exploration activities near the outer edge of Malaysia’s Exclusive Economic
+Zone (EEZ) in the SCS (Jaipragas 2020; Sebastian 2020). The Haiyang Dizhi came after
+Vietnamese militia vessels had appeared in the area (private communication, Malaysian
+defence personnel, 21 September 2020). Soon after, US and Australian warships were
+conducting military exercises near the site of the West Capella’s operation, purportedly
+in support of Malaysia (Ngeow 2020; Ziezulewicz 2020). The Malaysian government
+reacted in its typically low-key manner: denying any confrontation or standoﬀ
+between the Chinese and Malaysian ships, calling for peaceful means to resolve the situation, while expressing concern about potential miscalculation. Foreign Minister
+Hishammuddin Hussein stated:
+While international law guarantees the freedom of navigation, the presence of warships and
+vessels in the South China Sea has the potential to increase tensions that in turn may result
+in miscalculations which may aﬀect peace, security and stability in the region,
+
+before adding, Malaysia maintains ‘open and continuous communication’ with all relevant parties, including China and the United States (Latiﬀ and Ananthalakshmi
+2020). The minister’s remarks—by mentioning both China and the United States
+while highlighting the possibility of increased tensions and miscalculations—clearly indicated that the Malaysian authorities were more concerned about the dangers of being
+entrapped in big-power conﬂict than the encroachment of foreign vessels into its EEZ
+per se. This statement echoed the multiple apprehensions expressed explicitly in Malaysia’s newly released inaugural Defence White Paper (DWP): ‘Tensions have sparked in the
+South China Sea with the arrival of warships from outside the region. The growing rivalry
+and action-reaction between the powerful nations have raised the risk of regional polarisation’ (Malaysian Ministry of Defence 2020, 21).
+Malaysia’s response—avoiding direct confrontation with China (even a verbal one),
+while keeping its distance from the US and Australia (despite Malaysia’s longstanding,
+robust defence ties with both Western powers)—contrasts sharply with Vietnam’s
+open deﬁance and selective deference approach, which has been termed ‘heavyhedging’ (Kuik and Rozman 2015; Kuik 2020a). Vietnam, one of the four claimant
+countries from the Association of Southeast Asian Nations (ASEAN) (the others being
+the Philippines, Brunei and Malaysia), has chosen to confront China at sea and at diplomatic forums, while increasingly upgrading its military partnership with the US, short of
+forming an alliance. Light- and heavy-hedging diﬀer from the more extensively discussed
+strategies of ‘balancing’ (Walt 1985; Waltz 1979) and ‘bandwagoning’ (Schweller 1994) in
+one important aspect: hedgers avoid siding with one power against another. In the
+current context, balancers (like the Philippines under Benigno Aquino III) are those
+who choose to ally completely with the US with an eye to countercheck China militarily,
+while bandwagoning states are those who put all their eggs in China’s basket to maximise
+
+AUSTRALIAN JOURNAL OF INTERNATIONAL AFFAIRS
+
+279
+
+proﬁt and/or minimise security risks, even at the expense of their sovereignty and autonomy. Malaysia’s SCS policy cannot be categorised as balancing or bandwagoning. From
+Hussein Onn (1976–1981), Mahathir Mohammad (1981–2003), Abdullah Badawi (2003–
+2009), Najib Razak (2009–2018), Mahathir 2.0 (May 2018-February 2020) to the current
+Muhyiddin Yassin administration, Malaysia’s SCS policy, in the words of Ian Storey
+(2020), has been ‘largely consistent with only minor recalibrations’. Indeed, the policy
+has been persistently characterised by non-confrontational, open deference but indirect
+deﬁance approaches, through a combination of diplomatic, legal, developmental and
+defence means, as discussed below. This light-hedging approach is distinguishable
+from heavy-hedging as the latter involves confrontational, high-proﬁle deﬁance and
+limited deference.1
+Why has Malaysia pursued light-hedging instead of balancing, bandwagoning, or
+heavy-hedging to manage the SCS dispute? We contend that hedging is driven primarily
+by such structural conditions as the geopolitical dynamics of power asymmetry, rivalry,
+and uncertainties which have compelled Malaysia and other smaller states in Southeast
+Asia to not take sides, while actively cultivating fall-back options. Power dynamics shape
+threat perceptions. We further argue that these structural eﬀects have been ﬁltered
+through the domestic political needs of Malaysia’s ruling elites. Hence, Malaysia has
+chosen to hedge lightly: downplaying security threats from the maritime imbroglio,
+emphasising the use of peaceful means, prioritising productive partnerships for performance legitimacy, while keeping contingency measures in the background (including
+developing close defence partnerships with both competing powers).
+The essay proceeds in ﬁve parts: a conceptual framework, enduring interests, emerging trends, evolving policy, and conclusion. The ﬁrst section provides a conceptualisation of hedging and its variants after a brief review of the relevant literature. The
+second section illuminates the signiﬁcance of the SCS to Malaysia in terms of sovereignty,
+security, and economic stakes, analysing how these factors inform Malaysia’s policy preferences and actions. The third section highlights the geopolitical shifts in the SCS,
+unpacking how the growing power asymmetry, rivalry, and uncertainties around US–
+China relations have shaped the structural conditions underpinning Malaysia’s SCS
+policy options. The fourth section proceeds with explicating Malaysia’s evolving SCS
+policy, scrutinising how and why Malaysia has attempted to deepen its light-hedging
+approach through multifaceted policy instruments in the face of the unprecedented
+uncertainties. The concluding section discusses the key ﬁndings and their implications.
+
+A conceptual framework: hedging and its variants
+The burgeoning literature on ‘hedging’ in the ﬁeld of International Relations (IR) over
+the past two decades has enriched our understanding of the nuanced manifestations of
+alignment behaviour, security strategies, and, more broadly, foreign policy choices (Ciorciari and Haacke 2019; Goh 2005; Johnston and Ross 1999; Kuik 2008; Lim and Cooper
+2015). Speciﬁcally, this literation has contributed to several longstanding theoretical
+debates, most notably, the balancing-bandwagoning continuum (Goh 2016; Kuik
+2016a; Passeri 2019), risk mitigation (Ciorciari 2019; Koga 2018; Kuik 2016b), and
+small-state activism under uncertainty (Chan 2020; Korolev 2019; Kuik 2020a). Nevertheless, numerous gaps persist. Until today, there is still no consensus among IR theorists
+
+280
+
+Y. M. LAI AND C.C. KUIK
+
+on how best to deﬁne hedging, why states hedge, and who the hedgers are (Haacke 2019;
+Kuik 2020a; Liﬀ 2019; Mukherjee and Lim 2019).
+Another gap in the literature is the limited attempts to explore the variations within
+hedging behaviour. Some recent studies have suggested that states hedge in diﬀerent
+degrees, through diﬀerent forms, and for diﬀerent reasons (see the collection of essays
+by Kuik and Rozman 2015, Twining 2015, Cook 2015, and Park 2015 in the Joint USKorea Academic Studies 2015). Building upon Kuik and Rozman (2015) and Kuik
+(2020a)’s conceptualisation of ‘light versus heavy’ hedging, this essay seeks to explore
+how and why a weaker state chooses to hedge, and opts to do so in a lighter degree
+than other similarly situated states.
+Hedging is deﬁned here as insurance-seeking behaviour under high-stakes and highuncertainty conditions. In the context of international relations, hedging entails three
+attributes: (a) an insistence on not taking sides; (b) attempts to pursue opposing measures,
+i.e. concurrent adoptions of selective deﬁance and selective deference vis-à-vis competing
+powers; and (c) diversiﬁcation to cultivate a fall-back position (Emmerson 2020, forthcoming; Khong 2004; Kuik 2008, 2016a, 2020a).
+The concurrent adoption of both deﬁance and deference vis-à-vis the competing
+powers indicate that hedging is, in practice, not only a ‘middle’ position between full-balancing and full-bandwagoning but also a deliberately ‘opposite’ position (Kuik 2016a,
+2020a; Kuik, Idris, and Nor 2012). It involves contradictory measures aimed at oﬀsetting
+one risk against another (e.g. simultaneously forging defense partnerships with both the
+United States and China serves to oﬀset the twin risks of uncertain US commitment and
+uncertain Chinese intentions). This further suggests that, contrary to conventional
+understanding, hedging is not about targeting a single risk or a speciﬁc power; rather,
+hedging is about oﬀsetting multiple risks stemming from high-uncertainty (Kuik
+2016b). When the stakes are so high (with numerous perceived risks: not just territorial
+stakes but also power entrapment, economic security, and regime survival) and power
+relations so uncertain, no rational actor—especially smaller states which are vulnerable
+to a broad array of challenges in an anarchic world—would place all its bet on a single
+power. International politics is too ﬂuid for any ‘speculation’ about future power structures and inter-state relations. Hedging is about avoiding speculations, not about speculating as to which power will inﬂict more harm, which will prevail, which is more reliable,
+etc. When faced with uncertainties, betting on multiple powers and multiple scenarios is
+a pragmatic, not opportunistic, act (Kuik 2020a).
+By this conceptualisation, all smaller states in Southeast Asia are hedgers, albeit some
+hedge heavier than others. Heavy hedgers are states which seek to preserve a fallback position by displaying open deﬁance but selective deference, whereas light hedgers attempt to
+do the same by open deference but selective deﬁance. While heavy hedgers and light
+hedgers both want to show deﬁance and deference, they do so by demonstrating
+diﬀerent degrees of relative emphasis (more deﬁance vs. more deference) and through
+diﬀerent approaches. In the context of Southeast Asia-China interactions, heavy
+hedgers typically choose to show their open deﬁance by publicly projecting a confrontational stance to defy China’s will or preferences, either through military posturing (e.g.
+Vietnam’s defence deployment in the SCS and Indonesia’s military exercises near
+Natuna), legal challenges (the Philippines’ SCS arbitration case), or diplomatic maneuvers (Singapore’s open support for the arbitration ruling). Light hedgers, on the other
+
+AUSTRALIAN JOURNAL OF INTERNATIONAL AFFAIRS
+
+281
+
+hand, demonstrate their open deference by avoiding public confrontations described
+above, while showing greater sensitivity, selective accommodation, and even compliance
+vis-à-vis China’s ‘core interests’.
+While this essay focuses on structural sources, our analytical framework posits that
+smaller states’ hedging behaviour is rooted in both structural and domestic factors.
+That is, while structural power uncertainties motivate states to hedge, it is domestic
+dynamics—the elite’s legitimation pathways—that determine how and why states
+hedge diﬀerently.2 Ultimately, states hedge when power structures are uncertain and
+there are substantial, mixed, and multiple risks. If power dynamics are certain and
+clear-cut, hedging would not be necessary. Because big power commitments and intentions are becoming even more uncertain, weaker states have more reasons to avoid taking
+sides (to avoid abandonment and entrapment), while pursuing opposing measures to
+oﬀset diﬀerent risks in order to keep their fallback positions viable for as long as possible.
+
+Enduring interests: drivers of Malaysia’s South China Sea policy
+Located strategically between the Indian Ocean and the Paciﬁc Ocean, Malaysia is ‘a maritime nation with continental roots’ (Malaysian Ministry of Defence 2020, 29–31 & 34).
+Malaysia’s maritime identity stems from the adjacent SCS, Malacca Straits, as well as the
+Sulu and Sulawesi Seas, while its continental identity derives from its land connectivity to
+mainland Southeast Asia and Eurasia. The peninsular part of Malaysia sits on the southernmost land mass of the Eurasia supercontinent. Thus, these dual identities place
+Malaysia at the centre of Southeast Asia and the wider Indo-Paciﬁc region, connecting
+the continental north with the maritime south. This geographical centrality supports
+and sustains Malaysia’s aspiration to play a role as a ‘bridging linchpin’ between the
+two ocean regions (ibid, 17–18 & 28–31).3
+The South China Sea is of vital signiﬁcance to Malaysia as a maritime nation. It is
+central to Malaysia’s territorial integrity, sovereign rights, developmental stakes, as
+well as national and regional identities. Regionally, the SCS and the adjacent waters
+have brought Malaysia and other littoral Southeast Asian states together to play a
+crucial role connecting the Indian and the Paciﬁc Oceans (Evers, Embong, and Ramli
+2019, 25). The SCS is central to Malaysia’s national identity and integrity: it connects
+the nation’s two separated landmasses, i.e. Peninsular Malaysia and the states of Sabah
+and Sarawak on the island of Borneo. Development wise, the SCS and the Straits of
+Malacca have traditionally been an integral part of Malaysia’s trade, transport, and sociocultural links to Asia and the rest of the world. Historically, the location and the associated maritime endowments were among the main factors that allowed the Malacca
+Sultanate to serve as a key entrepôt and major point of maritime trade connectivity
+between the East and West in the ﬁfteenth century. The importance of these maritime
+assets is even greater in the present day, as the SCS and the Malacca Straits constitute
+one of the world’s busiest sea lines of communication (SLOC), with trillions of dollars
+of seaborne trade passing through the sea lines annually (Hayton 2014; Rahman and Tsamenyi 2010).
+These stakes and features make Malaysia quintessentially a maritime nation. The
+Malaysian government’s 2020 Defence White Paper (DWP) stated: ‘As a country surrounded by the sea and depending on it for its national well-being, Malaysia is a maritime
+
+282
+
+Y. M. LAI AND C.C. KUIK
+
+nation by all deﬁnitions’, adding that ‘the seas, seabed, subsoil, waterways, airspace and
+continental shelf are crucial to trade and commerce, marine ﬁsheries and ﬁshery
+resources, means of transportation, people-to-people connectivity and other modes of
+the nation’s wealth creation’ (Malaysian Ministry of Defence 2020, 29). Scholars such
+as Evers and Karim (2011), whose works identify the correlated geographical features
+and socio-economic conditions which make a littoral state a maritime nation, hold a
+similar view. According to them, Malaysia is endowed with natural geographical attributes (long coastlines, natural harbours, and deep rivers, etc.), which facilitate seabased socio-economic activities, agencies, and developments that make good use of
+the country’s maritime potential and ocean connectivity. The nation is also characterised
+by the non-contiguous nature of its two land masses separated by the SCS, with their narrowest and widest points of division approximately 600–1600 kilometres apart. These
+two territories have a lengthy coastline that stretches thousands of kilometres from the
+Andaman Sea at the north-westerly coast of Perlis to the north-eastern shores of Kelantan in Peninsular Malaysia bordering the SCS and another few thousand kilometres more
+in the Borneo region, from the SCS shores of Sarawak to the Eastern Sabah coastline contiguous to the Sulu and Sulawesi Seas. Additionally, Malaysia’s maritime borders comprise approximately 63 per cent of its total national terrestrial and maritime
+boundaries, including an extension of some 480,000 square kilometres of continental
+shelf, as deﬁned by the related 1958 Geneva Convention on the Continental Shelf and
+the 1982 United Nations Convention on the Law of the Sea (UNCLOS) provisions
+(Evers, Embong, and Ramli 2019, 26; Hamzah et al. 2014; Noor 2017). In short, as a
+sovereign entity, Malaysia is literally made up of more water than land.
+These bodies of water, therefore, constitute an area of ‘core interest’ to Malaysia,
+insofar as its national security is concerned (Malaysian Ministry of Defence 2020, Chapters 1–3). Accordingly, as Malaysia’s ruling elites become increasingly aware of the salience of these strategic waters to Malaysia’s security, sovereignty, and well-being, over
+the last few decades, Malaysia has enhanced its eﬀorts to defend its maritime interests.
+Territorial integrity, sovereignty, and geostrategic interests
+As a maritime nation, Malaysia regards the southern part of the SCS and waters contiguous to its terrestrial masses as vital to its national interest. Due to Malaysia’s geography,
+where a vast body of water separates its two land masses, defending its maritime-territorial interests over the Spratly features and related maritime areas is a matter of sovereignty
+and survival (Ahmad 2018, 107–116; Lai 2015; Malaysian Ministry of Defence 2020).
+Malaysia’s DWP identiﬁed three ‘concentric areas’ of interests: a ‘core area’ of the land
+masses of Peninsular Malaysia, Sabah and Sarawak, the territorial waters, and the air
+space above; an ‘extended area’ of the Malaysian Maritime Zone (MMZ), strategic waterways, airspace, and critical lines of communication, and a ‘forward area’ of the locations
+beyond the extended area (Malaysian Ministry of Defence 2020, 39).
+As a coastal state, Malaysia possesses geographical attributes that supports its legitimate claim to a 12 nm territorial sea, an EEZ, a continental shelf, and an extended continental shelf in the southern part of the SCS, based on the stipulated 1958 Geneva
+Convention on the Continental Shelf and the 1982 UNCLOS provisions (Roach 2014,
+2). Malaysia also lays claim to what it oﬃcially calls the Gugusan Semarang Peninjau,
+
+AUSTRALIAN JOURNAL OF INTERNATIONAL AFFAIRS
+
+283
+
+a dozen insular features comprising islands, rocks, low-tide elevations (LTEs), and submerged reefs in the Spratly archipelago, ﬁve of which it currently occupies. The ﬁve features under Malaysian occupation are Pulau Layang-Layang (Swallow Reef), Terumbu
+Mantanani (Mariveles Reef), Terumbu Ubi (Ardasier Reef), Terumbu Siput (Erica
+Reef) and Terumbu Peninjau (Investigator Shoal). The largest of the ﬁve is Pulau
+Layang-Layang, the 11th largest Spratly feature, and also the ﬁrst occupied by the Malaysian authorities in 1983. Categorised as an ‘island’ (oceanic atoll), the present land mass
+of Pulau Layang-Layang has been partially reclaimed. Indeed, the Malaysian government
+has consistently deﬁned Layang-Layang as an island by referring it as a ‘pulau’, the Malay
+word for ‘island’. The island houses a Royal Malaysian Navy (RMN) station, a marine
+research facility, an 86-room longhouse-like diving resort, and a 1.367 km airstrip
+capable of landing a large transport plane (Roach 2014, 10; see also Lai 2015; Nasir,
+Adibah, and Dahalan 2017; Rahman, Jalil, and Yayanto 2018).
+All the Spratly features claimed by Malaysia are also claimed in part, or in whole, by
+ﬁve other claimants, namely the People’s Republic of China (PRC), Taiwan, Vietnam, the
+Philippines and Brunei. The Chinese and Taiwanese claim the entire Spratly and Paracel
+groups of islands, including all the features claimed by Malaysia, encompassed within
+their so-called nine-dash-line maritime boundary, which covers over 90 per cent of
+the SCS. Vietnam also claims the Spratlys and Paracels in their entirety, while the Philippines lays competing claims to more than 50 geographical features in the SCS. Of the
+Malaysian claimed areas, Amboyna Kecil and Terumbu Perahu are occupied by
+Vietnam, whereas Terumbu Laksamana is occupied by the Philippines.
+As such, the SCS dispute is not only multilateral but also multi-dimensional in character, involving both overlapping territorial and maritime claims. Although related, the
+territorial sovereignty disputes over the Spratlys and Paracels, as well as such other
+insular features as the Scarborough Shoal, Pratas Islands, and Macclesﬁeld Bank, are
+diﬀerent from a legal perspective, and should not be conﬂated with the SCS maritime
+boundary dispute. The former, which fundamentally concerns overlapping claims of
+the mentioned oﬀshore features by claimant-states, is ‘governed by the rules and principles of customary international law on the acquisition and loss of territory’
+(Beckman and Bernard 2015, 27). The SCS maritime boundary dispute, however,
+refers to conﬂicting claims to jurisdiction over maritime boundaries/ zones in the SCS,
+which are governed by the UNCLOS. There is no prescription under the UNCLOS
+regime to address the question of sovereignty over land territory and maritime-terrestrial
+feature, for such sovereignty is assumed in its provisions on coastal state jurisdiction.
+Instead, UNCLOS establishes maritime zones which may be claimed from land territory,
+apart from the rights and jurisdiction of states in such maritime zones (Beckman 2013,
+142–143; Beckman and Bernard 2015, 27).
+Like all the other claimant countries, public opinion and state-society relations, among
+others, are the key domestic roots of Malaysia’s sovereignty claims. However, unlike
+Vietnam and the Philippines which pursuits of territorial sovereignty have long been
+tied to nationalist sentiments, the Malaysian public has not been known to be ﬁercely
+nationalistic in its response to maritime-territorial altercations. This is evidenced by
+public reaction towards such past incidents as the Sipadan-Ligitan and Ambalat/
+Celebes Sea disputes vis-à-vis Indonesia (Lai and Chrisnandi 2015) and the competing
+claims over Batu Puteh/Pedra Branca involving Singapore. This subdued popular
+
+284
+
+Y. M. LAI AND C.C. KUIK
+
+‘nationalistic’ response is attributable partly to the top-down, elitist nature of Malaysia’s
+key foreign and security policy processes (Kuik 2013a, 2016a) and in part to the deliberate
+eﬀorts of successive Malaysian authorities to curtail public awareness and visibility of
+such nationalistic issues via media control, or so-called ‘media blackout’ (Lai 2015;
+Noor 2017) in the multi-ethnic country. These self-restraining eﬀorts are among the
+characteristics of Malaysia’s light-hedging approach, as elaborated below.
+Despite these eﬀorts, preserving Malaysia’s territorial integrity and preventing foreign
+encroachments into Malaysia’s portion of the SCS are seen by Malaysian elites as a matter
+of national security and national integration. According to Elina Noor (2017, 20), the
+physical division between the two Malaysian land masses ‘has several important and
+practical implications for the defence and integration of the nation’. It means that the
+Malaysian armed forces, already operating on a shoestring budget, must adequately allocate their limited resources to defend the vast non-contiguous national maritime-terrestrial borders from both traditional and non-traditional security challenges (Lai 2015;
+Noor 2017). The Peninsular-Bornean Malaysia divide also brings signiﬁcant challenges
+to national security and national integration, insofar as inter-regional socio-economic
+disparities and federal-state relations are concerned. Ensuring the safety of this ‘strategic
+bridge that allows for a Malaysian Federation’ (Sebastian 2020), particularly the sea
+routes and air space connecting its two land masses, is therefore the major imperative
+that drives Malaysia’s pragmatic approach to the SCS dispute (Noor 2017, 21; Permal
+2016).
+The features in the Spratlys claimed by Malaysia are signiﬁcant also for their intrinsic
+geo-strategic value, chieﬂy because of their role as bases for the forward deployment of
+military assets. To pursue these strategic interests and to exercise sovereignty, Malaysia
+established RMN outposts at its ﬁve occupied features between 1983 and 1999. They are:
+RMN Station Lima at Pulau Layang-Layang, Station Mike at Terumbu Mantanani,
+Station Uniform at Terumbu Ubi, Station Sierra at Terumbu Siput and Station Papa at
+Terumbu Peninjau (Nizam Basiron 2012). From a defensive standpoint, these ﬁve
+outputs can serve as ‘strategic buﬀers’ to hedge against possible attacks by adversaries
+using similar maritime-terrestrial features as launching pads to deploy their oﬀensive
+strategies (Sebastian 2020).
+Economic interests and resource access
+The SCS has been important for such reasons as resource access and maritime connectivity. The SCS’s biodiverse maritime surroundings are abundantly rich in ﬁsh and
+hydrocarbon deposits, which make the SCS a major source of economic, food and
+energy security. Securing access to these resources is crucial.
+The SCS dispute has exempliﬁed how real or perceived economic resources in this
+body of water have led both littoral and archipelagic states contiguous to the maritime
+conﬁnes to ‘race’ to lay sovereignty claims as well as jurisdiction and economic rights
+over the related terrestrial features and maritime zones. The race started with a 1969
+United Nations Economic Commission for Asia and the Far East (UNECAFE) report
+which predicted the likelihood of huge oil and gas reserves being discovered in both
+the East and South China Seas. Speciﬁcally, it has been reported that the SCS possess
+an estimated 23.5 billion tons of oil and 10,000 billion cubic metres of natural gas,
+
+AUSTRALIAN JOURNAL OF INTERNATIONAL AFFAIRS
+
+285
+
+apart from gas hydrates (Hong 2012, 75). Meanwhile, US Energy Information Administration estimates suggest that the area contains at least 11 billion barrels of oil and 190
+trillion cubic feet of natural gas. Other estimates have cited the likely existence of as
+many as 22 billion barrels of oil and 290 trillion cubic feet of gas (SCMP, 16 February
+2020), which arguably makes this semi-enclosed sea a so-called ‘second Middle East’.
+Being Southeast Asia’s second largest oil and natural gas producer, and the world’s
+third largest liqueﬁed natural gas (LNG) exporter, Malaysia derives a substantial
+portion of its hydrocarbon resources from the SCS. With the oil and gas sector contributing almost a third of the country’s annual revenue (Parameswaran 2015, 3), it is reasonable to conclude that Malaysia’s prosperity and well-being is dependent on the SCS.
+The ﬁsh stock in the rich marine ecosystems of the SCS and its island chains are a
+major source of vital protein for millions of people living in the states that share its maritime space, making them crucial for food security (Southerland 2017). For ﬁshermen
+from both sides of the Malaysian land masses, the SCS has been their traditional
+ﬁshing ground and key source of protein and ﬁsh stock. The Malaysian-claimed features,
+such as Beting Patinggi Ali (South Luconia Shoals), Beting Raja Jarum (North Luconia
+Shoals), and Beting Serupai (James Shoal), which are all less than a hundred kilometres
+away from Sarawakian shores, as well as Pulau Layang-Layang and Terumbu Mantanani
+oﬀ the Kudat/Kota Belud coast of Sabah, are frequented by local ﬁshermen dependent on
+these marine ecosystems for their economic livelihood. In recent years, however, foreign
+ﬁshing trawlers, including ones from Vietnam, China, Indonesia and the Philippines,
+have been ﬁshing in the same maritime vicinity (personal communication with a Malaysian senior maritime oﬃcer, 16 November 2020). Foreign encroachments on Malaysian
+territories and maritime zones, including access to its marine resources, have become a
+disturbing reality. Such overt security challenges require the Malaysian government to
+safeguard its territorial sovereignty and economic interests in the SCS, while also maintaining stable bilateral relations with the respective countries.
+Apart from hydrocarbon and marine resources, the geo-economic potential of the SCS
+is also manifested in tourism, as its terrestrial features with natural geo-sites and idyllic
+surroundings can be developed as tourist attractions to generate revenue. Speciﬁcally,
+Layang-Layang is as much an exclusive scuba diving resort as an RMN outpost. Together
+with the 300-plus islands oﬀ the Sabah coasts, Pulau Layang-Layang has contributed
+immensely to enhancing the attractiveness of Sabah as a preferred regional tourist destination/hub.
+For the above reasons, it is of crucial importance for Malaysia to ensure the SCS
+remains primarily a ‘sea of cooperation’ rather than a ‘sea of conﬂict’ in the broader
+context of regional peace and stability (Lai 2017). As a key waterway catering to a
+third of global shipping and world trade annually, the SCS is an economic lifeline fuelling
+Malaysia’s vitality as a trading and maritime nation dependent on ‘open commons’ for its
+economic well-being. This is especially so, since seaborne trade constitutes a signiﬁcant
+portion of Malaysia’s annual trade volume, with the SCS and the Malacca Straits serving
+as the primary SLOC. Moreover, with China and the ASEAN states being Malaysia’s
+major trading partners, ensuring the SCS remains peaceful and calm is of critical importance to Malaysia’s economic sustainability.
+
+286
+
+Y. M. LAI AND C.C. KUIK
+
+Emerging trends: structural shifts in an age of uncertainties
+Like other smaller states, Malaysia’s pursuit of its interests has always been constrained
+by top-down geopolitical developments involving big-power interactions, the direction
+of which weaker actors can do little about. Geopolitical dynamics are fundamentally
+about power. In the context of the SCS, they can be unpacked into three elements:
+power asymmetry, rivalry and uncertainties.
+These geopolitical elements, in combination, constitute structural conditions facing
+Malaysia and other weaker states, claimants and non-claimants included. Asymmetry
+refers to the vast capability gap between a weaker state and the competing big powers,
+both of which can harm and help the weak state in more ways than one (Ba 2009;
+Womack 2016). Rivalry refers to the cyclical intense competition between the contending
+powers (and often also their respective allies and partners). Uncertainties refer to the
+unpredictable power relations and actions-reactions between the rival powers and
+blocks. In the context of the current SCS disputes, uncertainties take multiple forms,
+most notably the uncertain US security commitment to Asia, the uncertain Chinese
+long-term intentions, and the uncertain US–China relations.
+Together, these geopolitical elements present the structural risks to all weaker states,
+especially claimant countries like Malaysia. These risks are: the dangers of subservience,
+entrapment, and abandonment. Malaysian elites’ risk perceptions are deeply rooted in
+their memories of the geopolitical changes in the late 1960s and early 1970s. Throughout
+the ﬁrst 14 years of its statehood (1957–1971), Malaysia sided with the West via the
+Anglo-Malayan/Malaysian Defence Agreement (AMDA) against the backdrop of the
+Cold War power struggle. However, the British ‘East of Suez’ withdrawal and the US
+retreat from mainland Southeast Asia, in eﬀect, removed the decade-long defence
+shield, leaving Malaysia to face internal and external communist threats alone
+(Baginda 2015; Chin 1982). The structural shock was a watershed moment for Malaysia’s
+external outlook, pushing it to embrace non-alignment, regionalism, and other facets of
+small-state pragmatism (Kuik 2013a).
+While power asymmetry and cyclical rivalry have been constant geopolitical features
+in Southeast Asia, the big-power interactions over the past decade or so have increased
+uncertainties to an unprecedented degree and scope (Allison 2017; Fravel 2017). These
+developments have multiplied each of the structural risks to all weaker states in the
+region, Malaysia included.
+
+Asymmetry and rivalry
+In the eyes of the Malaysian ruling elites, regional developments over the past decade
+have changed the nature of the SCS issue from a multi-nation territorial dispute
+among the claimant states to an inter-big power struggle for inﬂuence in Asia, with
+China and the US as the key contending powers. The perception of this changing regional
+reality is well reﬂected in a statement made by the then Chief of the Malaysian Armed
+Forces, General Zulkiﬂi Zainal Abidin in February 2019: ‘Malaysia remains neutral in
+South China Sea issue without siding US or China’, adding that ‘we do not want the
+South China Sea and Straits of Malacca to be under anyone’s control’ (Asia News
+Network 2019). Prime Minister Mahathir’s earlier remarks in 2018 that a ‘warship
+
+AUSTRALIAN JOURNAL OF INTERNATIONAL AFFAIRS
+
+287
+
+attracts other warships’ (The Star 2018) reﬂected Malaysia’s long held outlook that power
+projection provokes power escalation. This outlook is elaborated in Malaysia’s ﬁrst
+Defence White Paper (2020, 21):
+China’s occupation and militarization, as well as related activities in the South China Sea,
+along with the US Freedom of Navigation Operations (FONOPs) and other powers’
+similar actions, have turned the overlapping sovereign claims issue into a big power
+game. [italic added]
+
+Both powers did what they did because they could. Because of the asymmetric power
+structure, smaller states cannot stop either of the competing powers from pursuing
+their respective might-makes-right actions.
+Evidence of power asymmetry and rivalry abounds. Since 2008, China has adopted
+increasingly assertive actions aimed at changing the existing pattern of maritime rights
+and territorial control in the South China Sea. These actions include: stepping up maritime patrols, disrupting other claimants’ seismic surveys and exploration operations,
+constructing man-made islands, and deploying military assets to the occupied land features in the disputed areas (Fravel 2011; Kuik 2017; Storey and Lin 2016). Since 2010, the
+United States has replaced its earlier ‘hands-oﬀ’ (Alagappa 1989), ‘neutral and muted’
+(Mauzy and Job 2007, 625) approach with direct and activist involvement in the South
+China Sea. This is a key component of the Barack Obama administration’s ‘pivot’ and
+‘rebalancing to Asia’ strategy (Campbell 2016; Green 2017, 518–540). In July 2010, Secretary of State Hillary Clinton declared at the ASEAN Regional Forum (ARF) that
+America, like every other nation, has ‘a national interest’ in freedom of navigation,
+open access to Asia’s maritime commons, and respect for international law in the SCS.
+This historic declaration has been followed by a series of FONOPs (Christensen 2015,
+315–316), revitalisation of U.S. allies and partnerships in Asia (Tellis 2014), the revival
+of the Quadrilateral Security Initiative in November 2017 (involving the US, Australia,
+Japan, and India), as well as the subsequent announcements of the Quad members’
+respective ‘Indo-Paciﬁc’ strategies (Medcalf 2014; Edel and Rapp-Hooper 2020; Koga
+2020; Rajagopalan 2018; Tow 2019). In July 2020, Secretary of State Mike Pompeo
+announced a shift in U.S. declaratory policy on the South China Sea, from a neutral position with regards to the sovereignty claims to publicly describing Chinese maritime
+claims as ‘completely unlawful’. These positions and actions are likely to continue
+under the Biden administration.
+The eﬀects of these developments are threefold: increasing the number of power
+players in the already crowded South China Sea disputes, raising the geopolitical
+stakes for all claimants and all powers (big and small, near and far), and escalating
+power uncertainties.
+
+Escalating uncertainties
+Uncertainty is not new in US–China relations. However, under Presidents Donald
+Trump and Xi Jinping, US–China interactions have heightened uncertainties in bilateral
+relations and international order in multiple ways.4 Under Trump, the United States has
+withdrawn from numerous multilateral arrangements and questioned the value of its
+decades-long alliances, casting doubts on Washington’s commitment to global
+
+288
+
+Y. M. LAI AND C.C. KUIK
+
+responsibilities and regional security. Under Xi, China has stepped up its maritime assertiveness, raising regional anxieties about Beijing’s long-term intentions in Asia and
+beyond. These uncertainties have been accompanied by an escalating unpredictability
+in US–China relations. The growing maritime tensions, the trade war, the momentum
+to decouple as well as the blame game over COVID-19 not only signify a widening divergence in interests but also growing tensions, confrontations and uncertainties between
+the U.S. and China. Some analysts have opined that the two powers are edging
+towards Cold War 2.0 in the post-pandemic world.
+These unprecedented structural changes—the concurrent shifts of increasing uncertainties in U.S. commitment, China’s intentions, and the future of their bilateral
+relations—have brought about several implications. The non-big powers in Asia and elsewhere have: (a) cultivated numerous complementary and alternative plans (‘Plan B’); (b)
+lived with and leveraged the twin chessboards of Asian geopolitics, i.e. high-politics and
+low-politics realms (discussed below); and (c) deepened their hedging options (Kuik
+2020a and 2021a, forthcoming).
+First, Trump’s unpredictability and Xi’s multifaceted assertiveness have increasingly
+pushed US allies and partners around Asia to reassess their external outlooks. They
+are compelled to adjust to the strategic new normal of a less committed, less reliable
+America—rather than a highly engaged, committed, and, indeed, indispensable patron
+—as a factor in their respective external strategies. These fundamental reassessments
+are pushing many countries to review their options, exploring multiple Plan B to
+protect their own interests under greater uncertainties. Hence the revival of Quad, the
+talks about ‘Quad Plus’, Japan’s Abe and India’s Modi’s eﬀorts to improve relations
+with China (even when they are simultaneously embracing the Quad and pursuing
+their own version of the Indo-Paciﬁc strategies), and South Korea’s New Southern
+Policy (Nagy 2020; Panda and Vasudeva 2020; Yeo 2020). The ASEAN countries are
+the converging points of these courtships.
+Second, chieﬂy as a result of China’s maritime assertiveness and its Belt and Road
+Initiative (BRI), alongside the pushback eﬀorts by the U.S. and its allies as well as the
+second-tier powers’ Plan B, the world is witnessing the emergence of the ‘twin chessboards’ of geopolitics, namely competition for power in high-politics (arms, defence,
+maritime security) and low-politics (trade and regional production chains, public
+health cooperation, infrastructure connectivity-building) (Kuik 2021a, forthcoming;
+Lampton, Ho, and Kuik 2020). The growing salience of the second chessboard of
+Asian geopolitics provides more maneuvering space for small-state activism in several
+respects. It serves to channel part of big power competition into functional and connectivity cooperation, providing room for all countries. In addition, it allows second-tier
+powers and secondary states to play direct and potentially substantive roles in regional
+cooperation, diﬀusing hegemonic competition and avoiding regional polarisation.
+Finally, this multi-player cooperation in the non-military domain is bound to have concrete spill-over eﬀects that help boost economic development and capacity building of
+host countries.
+Third, the above trends have implications for the smaller states’ SCS policy options.
+They mitigate—but not eliminate—the possibility of all-out military confrontation
+between the competing powers, while providing space, motivation, and a platform for
+the weaker states to deepen their longstanding hedging approach vis-à-vis the competing
+
+AUSTRALIAN JOURNAL OF INTERNATIONAL AFFAIRS
+
+289
+
+powers, both at sea and diplomatic forums (Chan 2020; Kuik 2020a; Mueller 2020; Pitakdumrongkit 2020; Tan 2020). Engaging in infrastructure connectivity cooperation
+through national, bilateral, trilateral, and quadrilateral eﬀorts among the Quad
+members and likeminded countries (e.g. European players) have provided alternatives
+and opened up the space for smaller regional countries to hedge and to deal with the
+uncertainties surrounding U.S.-China rivalry. The more powers and players involve
+themselves on the second chessboard, the greater the options for regional countries
+who are determined to maneuver, hedge and diversify their development and strategic
+linkages.
+
+Evolving policy: Malaysia’s deepening ‘light-hedging’
+Faced with the emerging geopolitical trends described above, Malaysia has deepened its
+pragmatic approach to managing the SCS imbroglio. This ‘light hedging’ approach is
+essentially a non-confrontational, low proﬁle, and seemingly contradictory approach
+through which a weaker state hopes to defend its maritime-territorial integrity and safeguard economic interests while oﬀsetting multiple risks in an increasingly uncertain
+external environment. Such an approach is termed ‘hedging’ because the state insists
+on not taking sides vis-à-vis the competing powers, while pursuing mutually-counteracting measures to keep its strategic options open (Kuik 2008, 2013a, 2020a; see also Suzuki
+and Lee 2017; Uras 2017). It is ‘light’ because, unlike heavy hedgers who opt to defy and
+even confront China openly (but without escalating into outright military confrontation), Malaysia’s approach is marked by quiet actions, indirect deﬁance and open deference. Various observers have used diﬀerent terms to describe Malaysia’s approach: ’great
+power balance’ (Finkbeiner 2013), ‘playing-it-safe’ (Parameswaran 2015), ‘low-key’
+(Noor 2017), ‘mousedeer diplomacy’ (Milner 2017, 245), ‘selective alignment and strategic ambiguity’ (Leong 2017, 2020), and ‘smart accommodation’ (Milner 2020),
+among others.
+The fact that Malaysia’s light-hedging approach is deepening is indicated by growing
+signs of seemingly contradictory behaviour: it is quietly taking contingency measures and
+displaying deﬁance in an indirect way, while simultaneously demonstrating selective deference vis-à-vis both competing powers.
+The weaker state’s quiet actions, indirect deﬁance and selective deference behaviour
+involve a combination of defence, legal, diplomatic and development tools. These
+include: concurrent defence and security partnerships with multiple powers (Ahmad
+2011; Hamzah 2020; Kuik 2016b; Mak 2004, 2009; Saravanamuttu 2011; Stubbs 1991);
+international law, e.g. the joint submission with Vietnam to United Nations Commission
+on the Limits of the Continental Shelf (CLCS) in 2009, attending the Permanent Court of
+Arbitration (PCA)’s Hearing on Jurisdiction and Admissibility as an observer, its own
+submission in 2019 (Permal 2016, 111–118; 2020); diplomatic rhetoric of playing
+down the presence of Chinese vessels in Malaysian waters, as well as developmental ventures in multiple forms, including supporting and continuing to partner with China on
+the Belt and Road Initiative (BRI)-related projects, even under successive government
+changes (Lampton, Ho, and Kuik 2020). These tools can be described as the smallstate ‘military hedge’, ‘legal hedge’, ‘political hedge’ and ‘economic hedge’, respectively
+(Kuik 2016a). Malaysia’s military-hedge is perhaps the most counter-intuitive of all,
+
+290
+
+Y. M. LAI AND C.C. KUIK
+
+even at the regional level. Over the past decade, it has moved to strengthen its longstanding defence partnerships with the United States and Australia (Ahmad 2017; Leong
+2016), as well as signing a defence MoU with Japan, while simultaneously adopting
+the opposite measure of developing multifaceted military and security cooperation
+with China, the very source of its security concerns over the SCS (Kuik 2016b; Ngeow
+2015). The logic of hedging—the just-in-case instinct—requires the smaller state to simultaneously enhance military partnership with both competing powers.
+The combined use of non-military and military means is not new. Since Malaysia
+staked its claims in December 1979 by publishing a two-sheet New Map (Peta Baru in
+Malay), it has deployed all these means, particularly in the 1982–1999 period, during
+Mahathir’s ﬁrst tenure as Prime Minister. Malaysia signed UNCLOS in 1982 and
+ratiﬁed it in 1996 (legal instrument). It then mobilised military resources to occupy
+and establish the RMN bases on the abovementioned ﬁve features (defence tools); promoted tourism and related civilian activities (development approaches) in LayangLayang; as well as engaging China bilaterally and multilaterally since the early 1990s (diplomatic channels). The diplomatic eﬀorts included the creation and expansion of the
+ASEAN-China dialogue processes, in particular, the Senior Oﬃcials’ Meeting (SOM)
+consultative mechanism, the key platform where both sides reached the 2002 Declaration
+of on the Conduct of Parties in the South China Sea (DOC) and where they continue
+negotiations over the Code of Conduct (COC). The best illustration of how military
+and non-military means were used concurrently to pursue Malaysia’s goal in the SCS
+was perhaps its moves in 1999: around the same time Malaysia erected structures on
+Terumbu Peninjau (Investigator Shoal) and Terumbu Siput (Erica Reef), Mahathir
+sent his Foreign Minister to Beijing. A well-informed Malaysian analyst Abdul Razak
+Baginda (2002, 244) wrote that ‘it is a matter of conjecture’ whether the minister was
+‘actually dispatched to Beijing in order to “explain” the latest development of Malaysia’s
+position’. China’s reaction was mild.
+In the past decade, Malaysia has deepened its light-hedging approach, with an eye to
+concurrently advance its plethora of interests in the SCS in the wake of rapidly changing
+geopolitical realities. Acutely aware of Malaysia’s relatively weaker power position vis-àvis China, the Malaysian government has employed a combination of statecraft. We shall
+ﬁrst focus on the diplomatic and legal measures used by Malaysia before explaining its
+seemingly contradictory defence postures.
+Diplomatic means
+As a smaller and militarily weaker state, Malaysia has pragmatically optimised diplomatic
+and legal instruments as the principal statecraft to advance its interests. These instruments, used together, have enabled Malaysia to deepen its light-hedging, while pursuing
+oil and gas exploration activities in its claimed areas (quiet developmental actions).
+Diplomacy and selective deference is central to preserving sovereignty and keeping bilateral ties, while legal means have served to protect Malaysia’s interests through quiet,
+indirect deﬁance.
+Diplomacy, via both bilateral and multilateral channels, has been used by the Malaysian government to manage maritime disputes. Bilaterally, Malaysia has conducted negotiations with Brunei, Indonesia, Thailand, Singapore and Vietnam, to delimit their
+
+AUSTRALIAN JOURNAL OF INTERNATIONAL AFFAIRS
+
+291
+
+continental shelf and maritime boundaries (Nizam Basiron 2012). Malaysia reached
+agreement with Brunei in 2009 to delimit their overlapping boundaries.
+Malaysia has also embraced multilateral diplomacy as a means to promote its interests.
+It has long advocated the realisation of the ASEAN-China CoC in the SCS. It has also
+promoted ASEAN’s commitment to a ‘common ASEAN position’ on engaging China
+on the SCS issue, in addition to assuming a more central role in brokering a peaceful
+settlement of the dispute. Malaysia has proactively engaged ASEAN member-states
+both privately and publicly ‘to narrow diﬀerences’, while seeking to ‘forge a united
+front against coercion in the wake of rising tension in the SCS’, with China implicitly
+the target of such initiatives (Parameswaran 2015, 6; see also Lai 2017).
+However, there have been shortfalls on multiple fronts. ASEAN member states lack
+the political will to confront China, as there is division between non-claimant and claimant-states, which has been accentuated by Beijing’s ‘divide-and-rule’ strategy, as well as
+‘carrot-and-stick’ approach (Lai 2017). Moreover, ASEAN claimant-states are ‘neither
+friends nor foes’ when it comes to defending their respective SCS interests. On one
+hand, they share a common concern in China, due to their perception of the Chinese
+as being the most assertive actor in the SCS and their own asymmetric power relations
+vis-a-vis Beijing, when dealing with China as individual states. On the other, competing
+maritime jurisdiction claims in the SCS remain a source of distrust and tension, with
+Malaysia, the Philippines, Vietnam and Indonesia still deadlocked on issues of sovereignty and territorial rights (Ding 2020; Mak 2009).
+Nonetheless, Malaysia remains committed to diplomacy as the means to secure its SCS
+interests. In addition to leveraging ASEAN-based multilateralism whenever possible, the
+Malaysian government has continued to pursue bilateral diplomatic channels, including
+its much touted ‘quiet diplomacy’ of privately communicating with claimant-states like
+China, whenever incidents aﬀecting Malaysian interests occur in the SCS (Parameswaran
+2015). This includes issuing numerous ‘unpublicized’ diplomatic notes of protest, which
+‘help keep Malaysia’s claim alive, and serve as a record of oﬃcial action undertaken to
+assert its claim’, while censoring public visibility for the sake of ‘preventing inﬂammation
+of incidents’ such as the Chinese intrusions and ceaseless presence near the Luconia
+Breakers (Lai 2019; Sukumaran 2019). Another more recent example was Malaysia’s
+decision to agree with China’s suggestion in September 2019 to set up a bilateral consultative mechanism to promote dialogue and cooperation regarding SCS issues (Lo
+2019). Indeed, Beijing has appreciated and made positive comments regarding Putrajaya’s relatively ‘milder’ approach, an acknowledgement of Malaysia’s selective deference
+to China. For instance, in late 2014, President Xi Jinping praised Malaysia’s ‘quiet diplomacy’ in tackling SCS problems, as compared to Hanoi’s confrontational and Manila’s
+international arbitration approaches (Bernama 2014).
+Despite changes in the contested SCS and domestic politics, quiet diplomacy has thus
+far remained Malaysia’s primary and preferred approach in managing the SCS dispute.
+Yet, observers have noted that Malaysia’s SCS policy has evolved, notably in ‘the articulation and tone of the Malaysian’s government’s position’ (Noor 2017, 22). Speciﬁcally,
+Malaysia’s past diplomatic prudence has been characterised by periodic media criticisms
+and reproach of the persistent Chinese challenges to Malaysia’s maritime-territorial
+sovereignty in the SCS. In addition to lodging regular diplomatic notes to protest,
+manage and resolve the repeated intrusions of Malaysian waters, Wisma Putra’s
+
+292
+
+Y. M. LAI AND C.C. KUIK
+
+uncharacteristic summoning of the Chinese ambassador in response to the 2016
+encroachment of more than a hundred Chinese ﬁshing vessels in the vicinity of South
+Luconia Breakers, as well as media exposure and even calls for a renaming of Malaysia’s
+portion of the SCS, were viewed as telling signs of a possible Malaysian ‘pushback’ against
+China in the SCS (Noor 2017, 25; Parameswaran 2016).
+These indications led to premature speculations of a possible major shift in Malaysia’s
+China policy following the advent of Mahathir’s Pakatan Harapan (PH) government
+(May 2018—February 2020). In contrast to the earlier views, the tone of Sino-Malaysian
+relations has returned to normal, albeit recalibrated to reﬂect the PH government’s goal
+of facilitating a more equidistant relationship with China. The recalibration of the Malaysian government’s China policy is manifested in Putrajaya’s ‘dual-track’ approach that
+decouples Beijing’s SCS challenges from the more positive dimensions of Sino-Malaysian
+relations. In an interview given after PH’s electoral victory in 2018, Mahathir recognised
+the economic potential of China’s BRI, while chiding Chinese naval intimidation and bellicosity in the SCS (Noor 2019, 10). Likewise, during the Belt and Road Forum on International Cooperation in April 2019, Mahathir’s reiteration of the need to ensure the SCS
+remains free, open and safe also exempliﬁes the ‘middle path’ that Malaysia treads in the
+context of growing Sino-US strategic competition (Noor 2019, 10).
+Malaysia’s quiet diplomacy is rooted not only in external power asymmetry but also
+internal political needs. China has become more economically signiﬁcant to Malaysia’s
+ruling elite in the past few years. China has been Malaysia’s largest trading partner for
+11th consecutive years, while Chinese tourists and investments have ﬂooded the Malaysian market during the last ﬁve years. Even without considering the multi-billion dollar,
+BRI-related, Sino-Malaysian mega projects, the magnitude of Malaysian and Chinese
+bilateral economic involvement and deepening interdependence have made China
+increasingly indispensable to Malaysia’s political elites (Kuik 2021b, forthcoming).
+Given these multifaceted partnerships and the underlying economic interests, both
+Malaysia and China have chosen to downplay the SCS issue, cautiously managing the
+dispute and seeing it as ‘only one–albeit signiﬁcant–element of its bilateral relationship
+with China’ (Lai 2017; Noor 2017, 19; Saravanamuttu 2020).
+Legal means
+Malaysia has also strategically used selective legal instruments or ‘lawfare’ (Hsiao 2016)
+to strengthen its sovereignty claims. In 2009, the Malaysian government and its Vietnamese counterpart jointly ﬁled a submission with the CLCS to extend their continental
+shelf limits beyond 200 nautical miles (nm). The submission prompted an infuriated
+China to formally introduce the contentious ‘nine-dash line’ map as the basis of
+Chinese SCS claims. The map published in the Malaysia-Vietnam joint submission illustrates what appears to be a mutually agreed median line between the two governments
+(Roach 2014, 5). However, in December 2019, Malaysia made an independent second
+submission to CLCS to extend its continental shelf, ostensibly overlapping a portion of
+Vietnamese-claimed seabed in the northern part.
+The Malaysian submission, the latest manifestation of its quiet deﬁance, came three
+years after the Philippines’ successful legal arbitration at the Arbitral Tribunal constituted
+under Annex VII to the 1982 UNCLOS to nullify Beijing’s expansive SCS claims.
+
+AUSTRALIAN JOURNAL OF INTERNATIONAL AFFAIRS
+
+293
+
+Malaysia’s 2019 submission followed an earlier decision in October 2019 to carry out oil
+and gas exploration activities in its own exclusive economic zone (EEZ) and continental
+shelf. This decision prompted China’s intimidating response reminiscent of the Vietnamese oﬀshore oil exploration episode in March 2019. The December 2019 Malaysian submission drew stern rebukes from rival SCS claimants, namely China, Vietnam and the
+Philippines. The formal diplomatic protest from Hanoi highlighted the still unresolved
+contestation between Malaysia and Vietnam (Permal 2020). Meanwhile, with Manila
+still claiming Sabah/North Borneo, the prospect of Malaysia-Philippines maritime
+cooperation in the related waters is slim (Lai 2015).
+Malaysia uses legal means to manage most maritime-territorial disputes, not just those
+in the South China Sea but also those involving neighbouring states, such as the SipadanLigitan islands dispute with Indonesia and the Malaysia-Singapore contest over Batu
+Putih/Pedra Branca. Both these disputes were arbitrated under the auspices of the International Court of Justice (ICJ) in 2002 and 2006 respectively (Askandar and Sukim 2016;
+Mohamad 2009). Similarly, Malaysia has not only adopted the relevant UNCLOS
+regimes, including the Continental Shelf Convention (CSC), to unilaterally delimit its
+maritime-territorial border as deﬁned in Malaysia’s 1979 New Map but also used these
+legal mechanisms to delimit subterranean features and overlapping EEZs with its
+ASEAN neighbours, including those in the SCS.
+Malaysia has also exercised a degree of pragmatism, with its selective use of legal
+instruments to resolve the SCS conundrum, especially when it involved other SCS claimants. For instance, despite calls from Manila and its ally in Washington, Putrajaya hesitated in extending overt support to the earlier mentioned Philippines’ 2013 eﬀort to seek
+arbitration by ﬁling a suit with the International Tribunal on the Laws of the Sea (ITLOS)
+to challenge the legitimacy of China’s claim on the basis of ‘historic rights’ (Parameswaran 2015, 7; The Malaysian Insider 2014). Malaysia’s position of strategic ambiguity
+was primarily the result of Putrajaya’s delicate balancing between sustaining cordial
+relations with China and leveraging on a collective position/united front with fellow
+ASEAN claimants to counter Beijing’s expansive claims in the legal-institutional realm.
+As militarily weaker smaller states, such as Malaysia, are constrained by limited practical options, using the legal hedge will remain the most feasible approach to seek redress
+for maritime-territorial disputes, especially those involving claimant-states with signiﬁcantly more powerful capabilities. In fact, the Filipino legal challenge of Chinese SCS
+claims, which ultimately received favourable arbitration from the Arbitral Tribunal in
+July 2016, was ‘a timely and overwhelming validation’ of the continued relevance of international legal institutions (Noor 2017, 28; Mok, Sheau, and Permal 2018). The Hague tribunal’s ruling has not only clariﬁed the ‘illegitimacy’ of China’s claim to the resources
+beyond its EEZ in the SCS, but also serves as a ‘referent point’ and legal precedence
+for future negotiations between claimants for potential joint development or even settlement of their existing disputes. Based on Putrajaya’s ‘carefully worded’ press release, it
+could be inferred that the Malaysian government welcomed the Arbitral Tribunal’s
+decision. The press release emphasised the need to respect the rules-based regimes and
+their due diplomatic and legal processes, while reiterating previous ASEAN statements
+on the need for the ‘full and eﬀective implementation of the DOC’, as well as the ‘expeditious conclusion’ of the long overdue CoC (Noor 2017, 28).
+
+294
+
+Y. M. LAI AND C.C. KUIK
+
+Malaysia’s December 2019 CLCS submission, ostensibly prepared by the Malaysian
+authorities as early as 2017, was a proactive post-arbitral response from Putrajaya to
+leverage the watershed decision in Malaysia’s favour. As observed by maritime specialist
+Sumathy Permal, the latest submission reﬂects Malaysia’s consistency in exercising its
+rights under UNCLOS, claiming an extended continental shelf beyond 200 nautical
+miles in the northern part of the SCS while indirectly invalidating China’s nine-dashline claim (Permal 2020; interview, 16 November 2020). The submission prompted
+other concerned claimants, notably Vietnam and the Philippines, to raise with Malaysia
+the possibility of delimiting overlapping areas or even the prospect of a tripartite submission on the extended continental shelf (ECS), since the submission acknowledges
+‘areas of possible overlapping entitlements in respect of the continental shelf beyond
+200 nm of the area of the subject of this Partial Submission’ (Nguyen 2019). Finally,
+the submission which was made prior to the conclusion of the ASEAN-China CoC negotiations, would allow Malaysia to avoid potential restrictions in the ﬁnalised version.
+According to Nguyen (2019),
+the submission by Malaysia represents a positive step forward for coastal states in the SCS to
+clarify their claims and seriously discuss maritime delimitation in accordance with
+UNCLOS and the interpretation of its article 121 (3) by the 2016 Tribunal Award.
+
+To be sure, Malaysian elites remain realistic about the limitations of international legal
+instruments and the eﬃcacy of rules and norm in constraining state behaviour in an
+anarchic world, where asymmetry, rivalry, and uncertainties continue to dictate interstate relations. It is based on such realism that Malaysia employs its legal hedge
+together with diplomatic and defence tools. Malaysia has repeatedly called for the
+non-militarisation of the SCS, which aligns with ASEAN’s Zone of Peace, Freedom
+and Neutrality (ZOPFAN) and Treaty of Amity and Cooperation (TAC). At the
+same time, Malaysia has also taken low key steps to diversify its strategic links,
+with an eye to augmenting its own limited defence capabilities, while oﬀsetting the
+structural risks associated with uncertain power structure. It is to this aspect that
+we now turn.
+
+Defence tools
+Defence arrangements as a tool of statecraft are often manifested in multiple forms. They
+do not just exist in the forms of armament and alliance; rather, they can also be deployed
+through concurrent, multilayered military and security partnerships with both contending powers. Indeed, over the past decade, the paradox of Malaysia’s defence partnerships
+has been: while the Malaysia has stepped up its long-standing military partnerships with
+America and Australia, it has also started to develop and strengthen Malaysia-China
+defense cooperation despite its growing anxiety about Beijing’s more assertive maritime
+actions, especially since 2013 (Kuik 2016b), after Chinese vessels began encroaching into
+Malaysian waters, including Beting Serupai (James Shoal) and Beting Patinggi Ali (South
+Luconia Shoals). These developments dispelled the Malaysian elites’ previous optimism
+that Malaysia’s ‘special relationship’ with China would exclude it from China’s assertiveness (Lai 2015). This growing perception of China as a threat has, counter-intuitively,
+pushed Malaysia in opposing directions: while upgrading military ties with its traditional
+
+AUSTRALIAN JOURNAL OF INTERNATIONAL AFFAIRS
+
+295
+
+Western defence partners (primarily the US and Australia), Malaysia has also elevated its
+bilateral ties with China into a Comprehensive Strategic Partnership in 2013, including
+enhancing the until-then less developed military and security cooperation (Kuik 2013b,
+2016b). Since 2015, Malaysia and China have held their ﬁrst live bilateral military exercise, forged their ﬁrst major defence procurement, expanded cooperation on non-traditional security issues, and elevated their defence cooperation to the strategic level
+(Malaysian Ministry of Defence 2020, 67).
+By developing a stronger partnership with China and playing down the China threat,
+while simultaneously cultivating robust military partnerships with the US and Australia
+but keeping them in the background, Malaysia has sought to hedge against simultaneous
+multiple risks: the danger of being entrapped in a potential U.S.-China conﬂict, the
+uncertain U.S. commitment, the uncertain Chinese intentions, alongside the associated
+risks of domestic authority erosion (Kuik 2016b). Thus, Adam Leong (2020) writes
+about the ‘strategic logic’ behind Malaysia’s ‘muted’ SCS response during the April
+2020 standoﬀ, arguing that the smaller state’s ‘selective alignment’ and ‘strategic ambiguity’ allows it to reap the beneﬁts of advancing national interests while minimising risk of
+direct military confrontation. In light of growing power rivalry and structural uncertainty, Malaysia’s inaugural Defence White Paper describes the nation as ‘a bridging
+linchpin’ between the Asia-Paciﬁc and the Indian Ocean regions, as noted. Such a role
+underscores not only the principles of non-alignment (Malaysia is not siding with any
+power), but also open, active, and inclusive cooperation (Malaysian Ministry of
+Defence 2020, 17–18; Kuik 2020b).
+Malaysia’s seemingly contradictory defence postures—a core element of its lighthedging approach—are a result of both structural and domestic factors.
+Structurally, a hedging approach is necessitated by small-state survival: a need on
+the part of weaker states to cope with external power asymmetries (both China and
+the US can harm and help Malaysia in more than one way), rivalries (the US–
+China competition), and uncertainties (their unpredictable relations and actions). So
+long as the external power structure remains unclear and uncertain, weaker states
+must hedge.
+Domestically, a light form of hedging—a non-confrontational posture to ensure a
+cordial, productive partnership with a proximate giant—is central to the successive
+ruling elites’ domestic legitimation. From Barisan Nasional (BN) through PH to the
+current Perikatan Nasional (PN)-Plus governments, Malaysian ruling elites view a
+stable and productive relationship with China as a central component of their performance legitimation. This has been so since the 1990s and increasingly so since 2009 when
+China became Malaysia’s largest trading partner (Kuik 2013a). The massive inﬂow of
+Chinese capital since the launch of the BRI in 2013 has further increased the economic
+importance of China to Malaysian elites. This, in large part, explains why, despite
+Mahathir 2.0’s earlier decision to review some big-ticket and controversial BRI projects
+in 2018, several of the projects were either restored or renegotiated, while all the other
+projects continued. Maximising commercial beneﬁts is not a purely economic or
+foreign policy matter, but a matter of crucial political signiﬁcance for the Malaysian government, whose domestic authority depends on ensuring and delivering economic
+growth, alongside other pathways of legitimation (Kuik 2021b, forthcoming). Recent political developments following the change of government in May 2018, and again in
+
+296
+
+Y. M. LAI AND C.C. KUIK
+
+March 2020, have not altered this posture (Kwek and Hoo 2020; Storey 2020). Hence, the
+continuity in Malaysia’s SCS policy.
+
+Conclusion
+Malaysia’s low-proﬁle and seemingly contradictory SCS policies, as discussed above,
+reﬂect three recurring patterns that have often been observed in many weaker states’
+external policies when there is profound uncertainty at the structural level. First, a
+state’s external policy towards such complex issues as territorial disputes is rarely a
+single, clear-cut approach (e.g. complete confrontation or complete subservience, as
+implied by the balancing and bandwagoning schools of thought). Rather, it is often a
+mixed policy: e.g. a concurrent adoption of quiet actions, indirect deference, and open
+deference, termed in this study as ‘light’ hedging.
+Second, a state’s hedging behaviour is not necessarily the result of well calculated, coherent strategic plans. More often, hedging is a product of the leaders’ instinctive, top-down
+decision-making, constrained by a changing external environment, but motivated and
+shaped by their domestic political needs (Kuik 2016a, 2020a; Lai 2015, 2017). Hence, in
+this study, the word ‘hedging’ is followed by ‘behavior’ or ‘policy’, rather than ‘strategy’.
+Third, weaker-state hedging behaviour is not about targeting a speciﬁc country (e.g.
+China), which is a common assumption in many studies. Rather, hedging is more
+about mitigating and oﬀsetting a broad range of risks associated with uncertain power
+relations and uncertain power structure (Kuik 2016b). Hence, the greater the structural
+uncertainties (e.g. the current round of growing U.S.-China rivalry), the broader the perceived risks (the dangers of entrapment, abandonment, and domestic resentment), and
+the stronger the tendency to hedge and adopt corresponding measures (deepening mix
+of conditional deﬁance and conditional deference).
+Our ﬁndings have both theoretical and policy implications. Policy wise, this study
+shows that weaker-state policy is more dynamic and adaptable than widely assumed.
+Changing geopolitical realities do compel weaker states to hedge even more deeply,
+with greater demands for wider pragmatic partnerships with powers near and far (Malaysian Defence White Paper, Chapter 6). Theoretically, our ﬁndings highlight the agency of
+weaker states: despite and precisely because of their disadvantaged status under an asymmetric power structure, smaller states often ﬁnd it necessary to actively cultivate favourable external environment by creating and maintaining layers of partnerships with
+multiple powers and players. Our ﬁndings also indicate that while structural factors—
+the geopolitical dynamics of power asymmetry, rivalry and uncertainties—push
+weaker states to hedge, it is domestic determinants that shape how and to what extent
+they hedge (e.g. Malaysia’s light hedging). Future research should focus on how such
+domestic political variables as elites’ legitimation have driven and limited the manner
+in which weaker states hedge, viz., defy and defer in what ways, through what combinations, and at what price.
+
+Notes
+1. For an elaboration on and examples of the distinctions between heavy-hedging and lighthedging, see Kuik (2020a).
+
+AUSTRALIAN JOURNAL OF INTERNATIONAL AFFAIRS
+
+297
+
+2. The domestic logic of elite legitimation is elaborated in Kuik Cheng-Chwee and Lai Yew
+Meng, ‘Domestic Determinants of Malaysia’s South China Sea Policy: The Politics of
+Light-Hedging’, unpublished manuscript.
+3. Before the ‘bridging linchpin’ role was enunciated in Malaysia’s inaugural Defence White
+Paper, it was ﬁrst mentioned by Muhyiddin Yassin, then Minister of Home Aﬀairs, at a
+close-door session hosted by the Center for Strategic and International Studies, Washington,
+DC during his working visit to the United States in September 2019. Muhyiddin, who later
+became Malaysia’s eighth Prime Minister in March 2020, said he would like to envisage
+Malaysia ‘as a linchpin nation with a primary role to bridge the Paciﬁc and Indian Ocean
+regions’, building partnerships with countries in the two regions to spur domestic, regional
+and global economic growth, and binding those nations through institutions that promote
+shared security, shared prosperity and shared identity. He added these ‘three inextricably
+related linchpin roles of bridging, building and binding the two oceanic regions require
+Malaysia to initiate and strengthen genuine cooperation with multiple countries, including
+the US’ [emphasis added]. See The Malay Mail, 17 September 2019.
+4. Some of the text in this sub-section draws from Kuik (2018).
+
+Acknowledgements
+The authors gratefully acknowledge support from the Malaysian Ministry of Higher Education’s
+grant number TR@M001-2019, ‘Sumber Semulajadi dan Potensi Pembangunan Strategik
+Ekonomi Luar Pantai Malaysia: Pulau Layang-Layang’. They would like to thank Elina Noor,
+Fong Chin Wei, BA Hamzah, Johan Saravanamuttu, Ivy Kwek, Marzuki Mohamad, Nazery
+Khalid, Ngeow Chow Bing, Nizam Basiron, Khairil Shah Mat Lazim, Khairul Nizam Jamalus,
+Abdul Razak Ahmad, Ruhanie Ahmad, Sumathy Permal, Yusri Yusoﬀ, Zakaria Haji Ahmad
+and the anonymous reviewers for their helpful feedback and suggestions. They also thank Izyan
+Hay, Wong Yit Xiang and Atiqah Mokhter for excellent research support. All shortcomings are
+the authors’ own.
+
+Disclosure statement
+No potential conﬂict of interest was reported by the author(s).
+
+Funding
+The authors gratefully acknowledge support from the Malaysian Ministry of Higher Education’s
+grant number TR@M001-2019, ‘Sumber Semulajadi dan Potensi Pembangunan Strategik
+Ekonomi Luar Pantai Malaysia: Pulau Layang-Layang’.
+
+Notes on contributors
+Yew Meng LAI is Associate Professor of Politics and International Relations and Dean of the
+Centre for the Promotion of Knowledge and Language Learning (CPKLL), Universiti Malaysia
+Sabah. He is also a research fellow at the varsity’s Small Island Research Centre. Lai obtained
+his Master’s in International Political Economy and Ph.D. in Politics from the University of
+Warwick. He was formerly attached to the Japan Institute of International Aﬀairs as a Visiting
+Research Fellow (2003–2004). Lai’s research interests include: Japanese/Chinese foreign policy,
+Sino-Japanese relations, East Asian security, Malaysian politics and foreign policy, and Indonesia-Malaysia relations. Among his notable publications are Security Studies: A Reader (Routledge,
+2011); Nationalism and Power Politics in Japan’s Relations with China: A Neoclassical Realist
+Interpretation (Routledge, 2014); ‘Malaysia’s Security Concerns: A Contemporary Assessment’
+in Meredith L. Weiss (ed.) The Routledge Handbook of Contemporary Malaysia (London, 2015);
+
+298
+
+Y. M. LAI AND C.C. KUIK
+
+‘“Sea of Cooperation” or “Sea of Conﬂict”?: The South China Sea in the Context of China-ASEAN
+Maritime Cooperation’, International Journal of China Studies (2017); and a review article of
+Japan’s Security Renaissance: New Policies and Politics for the Twenty-First Century by Andrew
+L. Oros, Columbia University Press, in Perspectives on Politics (2018).
+Cheng-Chwee KUIK is Associate Professor and Head of the Centre for Asian Studies at the
+National University of Malaysia (UKM)’s Institute of Malaysian and International Studies
+(IKMAS). Dr. Kuik’s research concentrates on weaker states’ foreign policy behaviour, regional
+multilateralism, East Asian security, China-ASEAN relations, and Malaysia’s external policy.
+His publications have appeared in peer-reviewed journals such as Journal of Contemporary
+China, Contemporary Southeast Asia, Chinese Journal of International Politics, Asian Security, as
+well as edited books. He is co-author (with David M. Lampton and Selina Ho) of Rivers of Iron:
+Railroads and Chinese Power in Southeast Asia (University of California Press, October 2020),
+and co-editor (with Alice Ba and Sueo Sudo) of Institutionalizing East Asia: Mapping and Reconﬁguring Regional Cooperation (Routledge 2016). Dr. Kuik’s essay, ‘The Essence of Hedging’ was
+awarded the Michael Leifer Memorial Prize by the Institute of Southeast Asian Studies. Kuik
+serves on the editorial boards of Contemporary Southeast Asia, Australian Journal of International
+Aﬀairs, and Routledge’s ‘IR Theory and Practice in Asia’ Book Series. He holds an M.Litt. from the
+University of St. Andrews, and a PhD from the Johns Hopkins University’s School of Advanced
+International Studies.
+
+References
+Ahmad, Zakaria Haji. 2011. “A Quasi-Pact of Enduring Value: A Malaysian Perspective of the
+FPDA.” In Five Power Defence Arrangements at Forty, edited by Ian Storey, Ralf Emmers,
+and Daljit Singh, 98–104. Singapore: ISEAS.
+Ahmad, Zakaria Haji. 2017. “Not Between Scylla and Charybdis: Malaysia’s Relations with China
+and the United States.” In China, the United States, and the Future of Southeast Asia, edited by
+David Denoon, 194–214. New York: New York University Press.
+Ahmad, Ruhanie. 2018. “Malaysia’s Security Management during the Mahathir Era: Securitization
+and Domestic Politics.” Unpublished PhD thesis, Bangi: Universiti Kebangsaan Malaysia.
+Alagappa, Muthiah. 1989. “US-ASEAN Security Relations: Challenges and Prospects.”
+Contemporary Southeast Asia 11 (1): 1–39.
+Allison, Graham. 2017. Destined for War: Can America and China Escape Thucydides’s Trap?
+New York: Houghton Miﬄin Harcourt.
+Asia News Network. 2019. “Malaysia remains neutral in South China Sea, says Malaysian Armed
+Forces Chief.” http://asianews.eu/content/malaysia-remains-neutral-south-china-sea-saysmalaysian-armed-forces-chief-91396.
+Askandar, Kamarulzaman, and Carlervin Sukim. 2016. “Making Peace over a Disputed Territory
+in Southeast Asia.” Journal of Territorial and Maritime Studies 3 (1): 65–85.
+Ba, Alice D. 2009. (Re) Negotiating East and Southeast Asia: Region, Regionalism, and the
+Association of Southeast Asian Nations. Stanford, CA: Stanford University Press.
+Baginda, Abdul Razak. 2002. “Malaysian Perceptions of China: From Hostility to Cordiality.” In
+The China Threat: Perceptions, Myths and Reality, edited by Herbert Yee and Ian Storey,
+231–252. London: Routledge Curzon.
+Baginda, Abdul Razak. 2015. China-Malaysia Relations and Foreign Policy. New York: Routledge.
+Beckman, Robert. 2013. “The UN Convention on the Law of the Sea and the Maritime Disputes in
+the South China Sea.” American Journal of International Law 107 (1): 142–163. doi:10.5305/
+amerjintelaw.107.1.0142.
+Beckman, Robert, and Leornardo Bernard. 2015. “Maritime Boundary Disputes in the East and
+South China Seas.” In The Future of the Seas in East Asia: Forging a Common Maritime
+Future for ASEAN and Japan, edited by Shaﬁah F. Muhibat, and Audrey Stienon, 27–33.
+Washington, DC: Center for Strategic and International Studies.
+
+AUSTRALIAN JOURNAL OF INTERNATIONAL AFFAIRS
+
+299
+
+Campbell, Kurt. 2016. The Pivot: The Future of American Statecraft in Asia. New York, NY: Grand
+Central Publishing.
+Chan, Lai-Ha. 2020. “Strategic Hedging: A ‘Third Way’ for Australian Foreign Policy in the IndoPaciﬁc.” Asia Policy 15 (3): 87–112. doi:10.1353/asp.2020.0045.
+Chin, Kin Wah. 1982. The Defence of Malaysia and Singapore: The Transformation of a Security
+System 1957–1971. Cambridge: Cambridge University Press.
+Christensen, Thomas J. 2015. The China Challenge: Shaping the Choices of a Rising Power.
+New York, NY: Norton.
+Ciorciari, John D. 2019. “The Variable Eﬀectiveness of Hedging Strategies.” International Relations
+of the Asia-Paciﬁc 19 (3): 523–555. doi:10.1093/irap/lcz007.
+Ciorciari, John D., and Jürgen Haacke. 2019. “Hedging in International Relations: An
+Introduction.” International Relations of the Asia-Paciﬁc 19 (3): 367–374. doi:10.1093/irap/
+lcz017.
+Cook, Malcom. 2015. “Australia and U.S.-China Relations: Bandwagoned and Unbalancing.” Joint
+U.S.-Korea Academic Studies 26: 43–56.
+Ding, Duo. 2020. “In Disputed South China Sea, Asean Claimant States are Neither Friends nor
+Foes.” South China Morning Post. https://www.scmp.com/week-asia/opinion/article/3075605/
+disputed-south-china-sea-asean-claimant-states-are-neither.
+Edel, Charles, and Mira Rapp-Hooper. 2020. “The 5 Ways U.S.-China Competition Is Hardening.”
+Foreign Policy. https://foreignpolicy.com/2020/05/18/united-states-competition-coronaviruspandemic-tensions/.
+Emmerson, Donald. 2020. The Deer and the Dragon: Southeast Asia and China in the 21st Century.
+Stanford: Stanford University Press, forthcoming.
+Evers, Hans-Dieter, Abdul Rahman Embong, and Rashila Ramli. 2019. Malaysia as a Maritime
+Nation. Bangi: Penerbit Universiti Kebangsaan Malaysia.
+Evers, Hans-Dieter, and Azhari Karim. 2011. “Comparing the Maritime Potential of Southeast
+Asian Nations.” SSRN (9 October): 1–8. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=
+1941207.
+Finkbeiner, John. 2013. Malaysia’s Great Power Balance and the South China Sea Disputes.
+USAWC Strategy Research Project. Carlisle, PA: U.S. Army War College.
+Fravel, M. Taylor. 2011. “China’s Strategy in the South China Sea.” Contemporary Southeast Asia
+33 (3): 292–319. doi:10.1355/cs33-3b.
+Fravel, Taylor. 2017. “Threading the Needle: The South China Sea Disputes and US-China
+Relations.” In Strategic Adjustment and the Rise of China: Power and Politics in East Asia,
+edited by Robert Ross, and Øystein Tsunjo, 233–260. Ithaca, NY: Cornell University Press.
+Goh, Evelyn. 2005. Meeting the China Challenge: The U.S. in Southeast Asian Regional Security
+Strategies. Washington, DC: East-West Center.
+Goh, Evelyn. 2016. “Southeast Asian Strategies toward the Great Powers: Still Hedging after All
+These Years?” The Asan Forum. http://www.theasanforum.org/southeast-asian-strategiestoward-the-great-powers-still-hedging-after-all-these-years/.
+Green, Michael J. 2017. By More Than Providence: Grand Strategy and American Power in the Asia
+Paciﬁc since 1783. New York: Columbia University Press.
+Haacke, Jürgen. 2019. “The Concept of Hedging and Its Application to Southeast Asia: A Critique
+and a Proposal for a Modiﬁed Conceptual and Methodological Framework.” International
+Relations of the Asia-Paciﬁc 19 (3): 375–417. doi:10.1093/irap/lcz010.
+Hamzah, B. A. 2020. “Malaysia Treads Carefully Amid Spratly Tensions.” Asia Sentinel. https://
+www.asiasentinel.com/p/malaysia-treads-carefully-amid-spratly.
+Hamzah, B. A., V. L. Forbes, Jalila A. Jalil, and M. N. Basiron. 2014. “The Maritime Boundaries of
+Malaysia and Indonesia in the Malacca Strait: An Appraisal.” Australian Journal of Maritime &
+Ocean Aﬀairs 6 (4): 207–226. doi:10.1080/18366503.2014.956856.
+Hayton, Bill. 2014. The South China Sea: The Struggle for Power in Asia. New Haven, CT: Yale
+University Press.
+Hong, Nong. 2012. UNCLOS and Ocean Dispute Settlement: Law and Politics in The South China
+Sea. London: Routledge.
+
+300
+
+Y. M. LAI AND C.C. KUIK
+
+Hsiao, Anne Hsiu-An. 2016. “China and the South China Sea ‘Lawfare’.” Issues & Studies 52 (2): 1–
+42. doi:10.1142/S1013251116500089.
+Jaipragas, Bhavan. 2020. “Malaysia, China and Vietnam in ‘Dangerous, Ongoing Game of
+Chicken’ in South China Sea.” South China Morning Post. https://www.scmp.com/week-asia/
+politics/article/3051889/malaysia-china-and-vietnam-dangerous-ongoing-game-chickensouth.
+Jin, Park. 2015. “Korea Between the United States and China: How Does Hedging Work?” Joint
+U.S.-Korea Academic Studies 26: 59–73.
+Johnston, Iain Alastair, and Robert S. Ross, eds. 1999. Engaging China: The Management of an
+Emerging Power. London: Routledge.
+Khong, Yuen Foong. 2004. Coping with Strategic Uncertainty. Stanford, CA: Stanford University
+Press.
+Koga, Kei. 2018. “The Concept of ‘Hedging’ Revisited: The Case of Japan’s Foreign Policy Strategy
+in East Asia’s Power Shift.” International Studies Review 20 (4): 633–660.
+Koga, Kei. 2020. “Japan’s ‘Indo-Paciﬁc’ Question: Countering China or Shaping a New Regional
+Order?” International Aﬀairs 96 (1): 49–73. doi:10.1093/ia/iiz241.
+Korolev, Alexander. 2019. “Shrinking Room for Hedging: System-Unit Dynamics and Behavior of
+Smaller Powers.” International Relations of the Asia-Paciﬁc 19 (3): 419–452. doi:10.1093/irap/
+lcz011.
+Kuik, Cheng-Chwee. 2008. “The Essence of Hedging: Malaysia and Singapore’s Response to a
+Rising China.” Contemporary Southeast Asia 30 (2): 159–185. https://www.jstor.org/stable/
+41220503.
+Kuik, Cheng-Chwee. 2013a. “Making Sense of Malaysia’s China Policy: Asymmetry, Proximity,
+and Elite’s Domestic Authority.” The Chinese Journal of International Politics 6 (4): 429–467.
+doi:10.1093/cjip/pot006.
+Kuik, Cheng-Chwee. 2013b. “Malaysia’s U.S. Policy under Najib: Structural and Domestic Sources
+of a Small State’s Strategy.” Asian Security 9 (3): 143–164. doi:10.1080/14799855.2013.832211.
+Kuik, Cheng-Chwee. 2016a. “How Do Weaker States Hedge? Unpacking ASEAN States’
+Alignment Behavior Towards China.” Journal of Contemporary China 25 (100): 500–514.
+doi:10.1080/10670564.2015.1132714.
+Kuik, Cheng-Chwee. 2016b. “Malaysia between the United States and China: What Do Weaker
+States Hedge Against?” Asian Politics and Policy 8 (1): 155–177. doi:10.1111/aspp.12240.
+Kuik, Cheng-Chwee. 2017. “Explaining the Contradiction in China’s South China Sea Policy:
+Structural Drivers and Domestic Imperatives.” China: An International Journal 15 (1): 163–
+186. https://muse.jhu.edu/article/650105.
+Kuik, Cheng-Chwee. 2018. “Opening a Strategic Pandora’s Jar? US-China Uncertainties and the
+Three Wandering Genies in Southeast Asia.” The Asan Forum. http://www.theasanforum.
+org/opening-a-strategic-pandoras-jar-us-china-uncertainties-and-the-three-wandering-geniesin-southeast-asia/.
+Kuik, Cheng-Chwee. 2020a. “Hedging in Post-Pandemic Asia: What, How, and Why?” The Asan
+Forum. http://www.theasanforum.org/hedging-in-post-pandemic-asia-what-how-and-why/.
+Kuik, Cheng-Chwee. 2020b. “Mapping Malaysia in the Evolving Indo-Paciﬁc Construct.” In
+CSCAP Regional Security Outlook 2020, edited by Ron Huisken, 45–48. Canberra: Council
+for Security Cooperation in the Asia Paciﬁc. http://www.cscap.org/uploads/cscap%202020%
+20v3.pdf.
+Kuik, Cheng-Chwee. 2021a, forthcoming. “The Twin Chessboards of US-China Rivalry: Impact on
+the Geostrategic Supply and Demand in Post-Pandemic Asia.” Asian Perspective 45 (1): 157–
+176.
+Kuik, Cheng-Chwee. 2021b, forthcoming. “Elite Legitimation and the Agency of the Host
+Country: Evidence from Laos, Malaysia, and Thailand’s BRI Engagement.” In Global
+Perspectives on the Belt and Road Initiative, edited by Florian Schneider, 217–244.
+Amsterdam: Amsterdam University Press.
+
+AUSTRALIAN JOURNAL OF INTERNATIONAL AFFAIRS
+
+301
+
+Kuik, Cheng-Chwee, Nor Azizan Idris, and Abd Rahim Md Nor. 2012. “The China Factor in the
+U.S. ‘Reengagement’ with Southeast Asia: Drivers and Limits of Converged Hedging.” Asian
+Politics and Policy 4 (3): 315–344. doi:10.1111/j.1943-0787.2012.01361.x.
+Kuik, Cheng-Chwee, and Gilbert Rozman. 2015. “Light or Heavy Hedging: Positioning between
+China and the United States.” Joint US-Korea Academic Studies 26: 1–9.
+Kwek, Ivy, and Chiew Ping Hoo. 2020. “Malaysia’s Rationale and Response to South China Sea
+Tensions.” Asia Maritime Transparency Initiative. https://amti.csis.org/malaysias-rationaleand-response-to-south-china-sea-tensions/.
+Lai, Yew Meng. 2015. “Malaysia’s Security Concerns: A Contemporary Assessment.” In The
+Routledge Handbook of Contemporary Malaysia, edited by Meredith L. Weiss, 391–402.
+London: Routledge.
+Lai, Yew Meng. 2017. “‘Sea of Cooperation’ or ‘Sea of Conﬂict’?: The South China Sea in the
+Context of China-ASEAN Maritime Cooperation.” International Journal of China Studies 8
+(3): 319–343. ISSN 2180-3250.
+Lai, Christina. 2019. “Rhetorical Traps and China’s Peaceful Rise: Malaysia and the Philippines in
+the South China Sea Territorial Disputes.” International Relations of the Asia-Paciﬁc 19 (1):
+117–146. doi:10.1093/irap/lcx008.
+Lai, Yew Meng, and Yuddy Chrisnandi. 2015. “Nationalism, Power Politics, and MaritimeTerritorial Sovereignty in Indonesia’s Relations with Malaysia: The Celebes Sea/Ambalat
+Dispute (2005).” Journal of Public Security and Safety 3 (1): 53–88. ISSN 2289-4624.
+Lampton, David M., Selina Ho, and Cheng-Chwee Kuik. 2020. Rivers of Iron: Railroads and
+Chinese Power in Southeast Asia. Oakland, CA: University of California Press.
+Latiﬀ, Rozanna, and A. Ananthalakshmi. 2020. “Malaysia Calls for Peaceful End to Months-Long
+South China Sea Standoﬀ.” Reuters. https://www.reuters.com/article/us-malaysia-chinasouthchinasea/malaysia-calls-for-peaceful-end-to-months-long-south-china-sea-standoﬀidUSKCN2250GW.
+Leong, Adam Kok Wey. 2016. “Mates All the Way! From Konfrontasi to Confronting China:
+Australia-Malaysia Geostrategic Cooperation.” Comparative Strategy 35 (2): 131–138.
+Leong, Adam Kok Wey. 2017. “A Small State’s Foreign Aﬀairs Strategy: Making Sense of
+Malaysia’s Strategic Response to the South China Sea Debacle.” Comparative Strategy 36 (5):
+392–399. doi:10.1080/01495933.2017.1379830.
+Leong, Adam Kok Wey. 2020. “The Strategic Logic of Malaysia’s Muted Response to the South
+China Sea Standoﬀ.” RUSI Newsbrief 40 (4). https://rusi.org/publication/rusi-newsbrief/
+strategic-logic-malaysia%E2%80%99s-muted-response-south-china-sea-standoﬀ.
+Liﬀ, Adam P. 2019. “Unambivalent Alignment: Japan’s China Strategy, the US Alliance, and the
+‘Hedging’ Fallacy.” International Relations of the Asia-Paciﬁc 19 (3): 453–491. doi:10.1093/
+irap/lcz015.
+Lim, Darren J., and Zack Cooper. 2015. “Reassessing Hedging: The Logic of Alignment in East
+Asia.” Security Studies 24 (4): 696–727. doi:10.1080/09636412.2015.1103130.
+Lo, Kinling. 2019. “China, Malaysia Seek to Resolve South China Sea Disputes with New Dialogue
+Mechanism.” South China Morning Post. https://www.scmp.com/news/china/diplomacy/
+article/3026957/china-malaysia-seek-resolve-south-china-sea-disputes-new.
+Mak, J. N. 2004. “Malaysian Defense and Security Cooperation: Coming Out of the Closet.” In
+Asia-Paciﬁc Security Cooperation: National Interests and Regional Order, edited by See Seng
+Tan, and Amitav Acharya, 127–153. New York: An East Gate Book.
+Mak, J. N. 2009. “Sovereignty in ASEAN and the Problem of Maritime Cooperation in the South
+China Sea.” In Security and International Politics in the South China Sea: Towards a Cooperative
+Management Regime, edited by Sam Bateman, and Ralf Emmers, 110–127. New York:
+Routledge.
+Malay Mail. 2019. “Muhyiddin: US, China Owe Global Responsibility to End Trade Dispute”.
+September 17. https://www.malaymail.com/news/malaysia/2019/09/17/muhyiddin-us-chinaowe-global-responsibility-to-end-trade-dispute/1791276.
+
+302
+
+Y. M. LAI AND C.C. KUIK
+
+The Malaysian Insider. 2014. “Philippines urges Malaysia to join case against China’s sea claims.”
+http://www.themalaysianinsider.com/malaysia/article/philippines-urges-malaysia-to-join-caseagainst-china-sea-claims.
+Malaysian Ministry of Defence. 2020. Defence White Paper: A Secure, Sovereign and Prosperous
+Malaysia. Kuala Lumpur: Percetakan Nasional Malaysia Berhad.
+Mauzy, Diane K., and Brian L. Job. 2007. “U.S. Policy in Southeast Asia: Limited Re-engagement
+after Years of Benign Neglect.” Asian Survey 47 (4): 622–641. doi:10.1525/as.2007.47.4.622.
+Medcalf, Rory. 2014. “In Defence of The Indo-Paciﬁc: Australia’s New Strategic Map.” Australian
+Journal of International Aﬀairs 68 (4): 470–483. doi:10.1080/10357718.2014.911814.
+Milner, Anthony. 2017. “‘Sovereignty’ and Normative Integration in the South China Sea: Some
+Malaysian and Malay Perspectives.” In Southeast Asia and China: A Contest in Mutual
+Socialization, edited by Lowell Dittmer, and Ngeow Chow Bing, 229–246. Singapore: World
+Scientiﬁc Publishing.
+Milner, Anthony. 2020. “Long-term Themes in Malaysian Foreign Policy: Hierarchy Diplomacy,
+Non-interference and Moral Balance.” Asian Studies Review 44 (1): 117–135. doi:10.1080/
+10357823.2019.1689229.
+Mohamad, Kadir. 2009. Malaysia’s Territorial Disputes: Two Cases at the ICJ. Kuala Lumpur:
+Institute of Diplomacy and Foreign Relations Malaysia.
+Mok, Lay Yong, Amy Sheau Ye Aai, and Sumathy Permal. 2018. “Post-SCS Arbitration
+Developments and Issues on Freedom of Navigation, Rights of Coastal States, and
+Environmental Protection in the ‘Area’.” Asian Politics & Policy 10 (2): 247–260. doi:10.1111/
+aspp.12390.
+Mueller, Lukas Maximilian. 2020. “Challenges to ASEAN Centrality and Hedging in Connectivity
+Governance—Regional and National Pressure Points.” The Paciﬁc Review 33 (6): 1–31. doi:10.
+1080/09512748.2020.1757741.
+Mukherjee, Rohan, and Darren J Lim. 2019. “Hedging in South Asia: Balancing Economic and
+Security Interests Amid Sino-Indian Competition.” International Relations of the Asia-Paciﬁc
+19 (3): 493–522. doi:10.1093/irap/lcz006.
+Nagy, Stephen. 2020. “Accommodation versus Alliance: Japan’s Perspective Grand Strategy in the
+Sino-US Competition.” The Asan Forum. http://www.theasanforum.org/accommodationversus-alliance-japans-prospective-grand-strategy-in-the-sino-us-competition/.
+Nasir, Muhammad, Wan Siti Adibah, and Wan Dahalan. 2017. “The Islands Claimed by Malaysia
+in the Spratly Islands: A Review Based on United Nations Convention on the Laws of the Sea
+(UNCLOS) 1982.” IOSR Journal of Humanities and Social Science 22 (9): 7–17. doi:10.9790/
+0837-2209040717.
+Ngeow, Chow Bing. 2015. “Comprehensive Strategic Partners but Prosaic Military Ties: The
+Development of Malaysia-China Defence Relations 1991–2015.” Contemporary Southeast
+Asia 37 (2): 269–304. doi:10.1355/cs37-2e.
+Ngeow, Chow Bing. 2020. “South China Sea Tensions: Malaysia’s Strategic Dilemma.” SCSPI, 1–3.
+http://www.scspi.org/en/dtfx/1591153812.
+Nguyen, Hong Tao. 2019. “Malaysia’s New Game in the South China Sea.” The Diplomat. https://
+thediplomat.com/2019/12/malaysias-new-game-in-the-south-china-sea/.
+Nizam Basiron, Mohd. 2012. “The Search for Sustainability and Security: Malaysia’s Maritime
+Challenges and Priorities.” In Maritime Challenges and Priorities in Asia: Implications for
+Regional Security, edited by Joshua Ho, and Sam Bateman, 72–82. New York: Routledge.
+Noor, Elina. 2017. “Understanding Malaysia’s Approach to the South China Sea Dispute.” In In the
+Wake of Arbitration: Papers from the Sixth Annual CSIS South China Sea Conference, edited by
+Murray Hiebert, Gregory B. Poling, and Connor Cronin, 18–29. Washington, DC: Center for
+Strategic and International Studies (CSIS).
+Noor, Elina. 2019. Foreign and Security Policy in the New Malaysia. Sydney: Lowy Institute.
+Panda, Jagannath, and Akriti Vasudeva. 2020. “US-China Competition and Washington’s Case for
+‘Quad Plus’.” The National Interest. https://nationalinterest.org/feature/us-china-competitionand-washington’s-case-’quad-plus’-169751.
+
+AUSTRALIAN JOURNAL OF INTERNATIONAL AFFAIRS
+
+303
+
+Parameswaran, Prashanth. 2015. "Playing It Safe: Malaysia’s Approach to the South China Sea and
+Its Implications for the United States". Maritime Strategy Series. Washington, DC: Center for a
+New American Security (CNAS).
+Parameswaran, Prashanth. 2016. “Should Malaysia Rename Its Part of the South China Sea?” The
+Diplomat.
+https://thediplomat.com/2018/03/should-malaysia-rename-its-part-of-the-southchina-sea/.
+Passeri, Andrea. 2019. “A Tender Gourd Among the Cactus: Making Sense of Myanmar’s
+Alignment Policies through the Lens of Strategic Culture.” Paciﬁc Review, doi:10.1080/
+09512748.2019.1615537.
+Permal, Sumathy. 2016. “Malaysia’s Diplomatic and Security Responses.” In South China Sea
+Lawfare: Legal Perspectives and International Responses to the Philippines v. China
+Arbitration Case, edited by Fu-Kuo Liu, and Jonathan Spangler, 111–118. Taipei: South
+China Sea Think Tank.
+Permal, Sumathy. 2020. “Advancing Malaysia’s Maritime Aspirations in a Complex
+Environment.” CSIS Asia Maritime Transparency Initiative. https://amti.csis.org/advancingmalaysias-maritime-aspirations-in-a-complex-environment/.
+Pitakdumrongkit, Kaewkamol. 2020. “What Causes Changes in International Governance
+Details?: An Economic Security Perspective.” Review of International Political Economy.
+doi:10.1080/09692290.2020.1819371.
+Rahman, Fadhil Abdul, Mohamed Noorjais Abdul Jalil, and Nor Melissa Yayanto. 2018. Guardian
+of the Frontier: Gugusan Semarang Peninjau. Kuala Lumpur: Royal Malaysian Navy Sea Power
+Centre.
+Rahman, Chris, and Martin Tsamenyi. 2010. “A Strategic Perspective on Security and Naval Issues
+in the South China Sea.” Ocean Development & International Law 41 (4): 315–333. doi:10.1080/
+00908320.2010.499277.
+Rajagopalan, Rajeswari Pillai. 2018. “India’s Vision of the East Asian Order.” Asia Policy 13 (2):
+39–44. doi:10.1353/asp.2018.0021.
+Roach, J. Ashley. 2014. Malaysia and Brunei: An Analysis of their Claims in the South China Sea.
+Virginia, VA: CNA Corporation. https://www.cna.org/cna_ﬁles/pdf/IOP-2014-U-008434.pdf.
+Saravanamuttu, Johan. 2011. “Malaysian Foreign Policy and the Five Power Defence
+Arrangements.” In Five Power Defence Arrangements at Forty, edited by Ian Storey, Ralf
+Emmers, and Daljit Singh, 36–50. Singapore: ISEAS.
+Saravanamuttu, Johan. 2020. “Malaysia–China Relations in the Time of COVID-19.” East Asia
+Forum. https://www.eastasiaforum.org/2020/04/01/malaysia-china-relations-in-the-time-ofcovid-19/.
+Schweller, Randall L. 1994. “Bandwagoning for Proﬁt: Bringing the Revisionist State Back In.”
+International Security 19 (1): 72–107. doi:10.2307/2539149.
+Sebastian, Martin A. 2020. “Balancing Priorities, Weighing Options at Land, Sea.” New Straits
+Times.
+https://www.nst.com.my/opinion/columnists/2020/05/592662/balancing-prioritiesweighing-options-land-sea.
+Southerland, D. 2017. “The Real South China Sea Crisis Everyone Is Missing.” The National
+Interest. https://nationalinterest.org/blog/the-buzz/the-real-south-china-sea-crisis-everyonemissing-19922.
+The Star. 2018. “Malaysia May Renegotiate Some Deals with China: Mahathir”. https://www.
+thestar.com.my/business/business-news/2018/05/10/malaysia-may-renegotiate-some-dealswith-china-mahathir/.
+Storey, Ian. 2020. “Malaysia and the South China Sea Dispute: Policy Continuity Amid Domestic
+Political Change.” ISEAS Perspective. 20 March.
+Storey, Ian, and Cheng Yi Lin. 2016. The South China Sea Dispute: Navigating Diplomatic and
+Strategic Tensions. Singapore: ISEAS-Yusof Ishak Institute.
+Stubbs, Richard. 1991. “Malaysian Defence Policy: Strategy versus Structure.” Contemporary
+Southeast Asia 13 (1): 44–56.
+
+304
+
+Y. M. LAI AND C.C. KUIK
+
+Sukumaran, Tashny. 2019. “Malaysia Must Prepare Navy for Possible Conﬂict in South China Sea,
+Foreign Minister Warns.” South China Morning Post. https://www.scmp.com/week-asia/
+politics/article/3033417/malaysia-must-prepare-navy-possible-conﬂict-south-china-sea.
+Suzuki, Ayame, and Poh Ping Lee. 2017. “Malaysia’s Hedging Strategy, A Rising China, and the
+Changing Strategic Situation in East Asia.” In Southeast Asia and China: A Contest in
+Mutual Socialization, edited by Lowell Dittmer and Chow Bing Ngeow, 113–130. Singapore:
+World Scientiﬁc Publishing.
+Tan, See Seng. 2020. “Consigned to Hedge: South-East Asia and America’s ‘Free and Open IndoPaciﬁc’ Strategy.” International Aﬀairs 96 (1): 131–148. doi:10.1093/ia/iiz227.
+Tellis, Ashley J. 2014. “U.S. Alliances and Partnerships in the Paciﬁc Century.” The National
+Bureau of Asian Research. https://www.nbr.org/publication/u-s-alliances-and-partnerships-inthe-paciﬁc-century/.
+Tow, William T. 2019. “Minilateral Security’s Relevance to US Strategy in the Indo-Paciﬁc:
+Challenges and Prospects.” The Paciﬁc Review 32 (2): 232–244. doi:10.1080/09512748.2018.
+1465457.
+Twining, Daniel. 2015. “India’s Heavy Hedge Against China, and Its New Look to the United
+States to Help.” Joint U.S.-Korea Academic Studies 26: 29–41.
+Uras, Alessandro. 2017. “Malaysian Politics and the South China Sea Dilemma.” In Illusions of
+Democracy: Malaysian Politics and People Volume II, edited by Sophie Lemiere, 103–116.
+Kuala Lumpur: SIRDC.
+Walt, Stephen M. 1985. “Alliance Formation and the Balance of World Power.” International
+Security 9 (4): 3–43. doi:10.2307/2538540.
+Waltz, Kenneth N. 1979. Theory of International Politics. Reading, MA: Addison-Wesley.
+Womack, Brantly. 2016. Asymmetry and International Relationships. Cambridge: Cambridge
+University Press.
+Yeo, Andrew. 2020. “South Korea’s New Southern Policy and ASEAN-ROK Relations.” The
+Diplomat.
+https://thediplomat.com/2020/07/south-koreas-new-southern-policy-and-aseanrok-relations/.
+Ziezulewicz, Geoﬀ. 2020. “Navy Ships Head into South China Sea to Counter Beijing ‘Bullying’.”
+Navy Times. https://www.navytimes.com/news/your-navy/2020/05/08/navy-ships-head-intosouth-china-sea-to-counter-beijing-bullying/.
+
+

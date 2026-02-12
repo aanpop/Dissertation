@@ -1,0 +1,2869 @@
+Indonesian Journal of International Law
+Volume 21
+
+Number 1
+
+Article 1
+
+October 2023
+
+Judicialization In and Around the South China Sea
+Yoshinori Kodama
+The Mission of Japan to ASEAN, Jakarta, yoshinori.kodama@mofa.go.jp
+
+Follow this and additional works at: https://scholarhub.ui.ac.id/ijil
+Part of the International Law Commons
+
+Recommended Citation
+Kodama, Yoshinori (2023) "Judicialization In and Around the South China Sea," Indonesian Journal of
+International Law: Vol. 21: No. 1, Article 1.
+DOI: 10.17304/ijil.vol21.1.6
+Available at: https://scholarhub.ui.ac.id/ijil/vol21/iss1/1
+
+This Article is brought to you for free and open access by the Faculty of Law at UI Scholars Hub. It has been
+accepted for inclusion in Indonesian Journal of International Law by an authorized editor of UI Scholars Hub.
+
+Judicialization In and Around the South China Sea
+Cover Page Footnote
+The views expressed in this article are personal to the author.
+
+This article is available in Indonesian Journal of International Law: https://scholarhub.ui.ac.id/ijil/vol21/iss1/1
+
+Indonesian Journal of International Law (2023), Vol. 21 No. 1, pp. 149-210
+https://doi.org/10.17304/ijil.vol21.1.6
+
+JUDICIALIZATION IN AND AROUND
+THE SOUTH CHINA SEA
+Yoshinori Kodama
+The Mission of Japan to ASEAN (Jakarta), Indonesia
+Correspondence: yoshinori.kodama@mofa.go.jp
+
+Abstract
+This article examines why international legal dispute settlement procedures are traditionally less
+frequently resorted to in Southeast Asia, compared to other regions. It also analyzes why and
+how, since the beginning of this century, international legal cases, both judicial and arbitral,
+have been consistently used for settling maritime disputes in and around the South China Sea.
+Then, it presents prescriptive suggestions for further use of judicial and arbitral procedures. The
+method of analysis is based upon the examination and scrutiny of factual materials, including
+relevant international cases regarding the region, as well as interviews engaged by the author
+with officials and experts in the region. Universal trends and experience of judicial procedures
+will be deductively analyzed. The article first summarizes conditions and characteristics in the
+Asian region, particularly Southeast Asia, where the South China Sea is located. It, secondly,
+examines the factual basis for international legal cases involving the region, especially from
+the viewpoint as to how relevant States decided to resort to legal processes, as well as how
+judgments and awards affect ex post relations between parties. Finally, the article will examine
+more universal dimensions for the use of judicial or arbitral procedures, particularly factors and
+elements which encourage the State to resort to such procedures.
+Keywords: dispute settlement, legal methods of resolution, maritime demarcation, South China
+Sea, territorial disputes
+
+Submitted: 23 May 2023 | Revised: 8 June 2023 | Accepted: 18 August 2023
+		
+
+I. INTRODUCTION
+This article examines why international legal dispute settlement
+procedures are traditionally less frequently resorted to in Southeast Asia, as
+compared to other regions. It also analyzes why and how, since the beginning
+of this century, international legal cases, both judicial and arbitral, have been
+consistently used for settling maritime disputes in and around the South China
+Sea. This article presents prescriptive suggestions for further use of judicial
+and arbitral procedures, on the assumption that legally-binding clear-cut
+settlements can bring about positive outcomes for international disputes and
+discrepancies.
+The method of analysis is based upon the examination and scrutiny of
+factual materials, including relevant international cases regarding the region,
+Copyright © 2023 – Yoshinori Kodama
+Published by Lembaga Pengkajian Hukum Internasional
+
+Yoshinori Kodama
+
+as well as interviews engaged by the author with officials and experts in
+the region. Universal trends and experience of judicial procedures will be
+deductively analyzed. Their application to the region will be examined, where
+traditional reticence remains on legal dispute settlement.
+Southeast Asia has recorded relatively fewer numbers in using international
+third-party judicial processes, compared to other regions, as a general trend.
+Rough estimates based upon the record of the International Court of Justice
+(ICJ) reveals that cases initiated by States in the Southeast Asia region in 1947
+to 2020 account for four, including the 1962 and 2013 Preah Vihear Temple
+cases (counted as one), as well as two territorial cases regarding islands
+(2002 Ligitan Sipadan and 2008 Pedra Branca cases), and the 2014 Seizure
+and Detention of Certain Documents and Data case (provisional measure)
+instituted by Timor-Leste against Australia.1 The scarcity of such cases in the
+region was notable in the last century. This is, however, followed by the steady
+increase of litigation cases in the region. On the same calculating formula,
+Europe has 37, Africa 18, Latin America 24, and Pacific Oceania six.2 North
+America has nine, and Middle East nine.3
+Along with ICJ cases, Southeast Asian countries instituted cases under
+the 1982 United Nations Convention on the Law of the Sea (UNCLOS) with
+a variety of usages.4 These are the Permanent Court of Arbitration (PCA) case
+for Malaysia/Singapore Land Reclamation in and around the Strait of Johor
+in 2005 (Land Reclamation Case), the PCA case for the South China Sea
+legal issues between Singapore and the People’s Republic of China in 2016
+(South China Sea arbitration), as well as then compulsory conciliation for
+Timor maritime demarcation in 2018 (Timor Sea Conciliation).5 Meanwhile,
+a PCA case was instituted by Singapore and Malaysia through a submission
+agreement in the matter of Railway Land arbitration, leading to the award in
+International Court of Justice, “List of All Cases,” accessed 15 May 2023, https://www.
+icj-cij.org/en/list-of-all-cases. International Court of Justice, The International Court of
+Justice: Handbook (United Nations, 2014), 63. Temple of Preah Vihear, ICJ Reports 1961,
+at 6. Sovereignty over Pulau Ligitan and Pulau Sipadan, ICJ Reports 2002, 625. Sovereignty
+over Pedra Branca/Pulau Batu Puteh, Middle Rocks and South Ledge, ICJ Reports 2008, 12.
+Questions relating to the Seizure and Detention of Certain Documents and Data, Provisional
+Measures, ICJ Reports 2014, 147.
+2
+Ibid.
+3
+Ibid.
+4
+United Nations Convention on the Law of the Sea (UNCLOS), opened for signature 10
+December 1982, 1833 UNTS 397 (entered into force 14 November 1994).
+5
+Land Reclamation by Singapore in and around the Straits of Johor (2005), Reports of
+International Arbitral Awards (RIAA), XXVII, 135. The South China Sea Arbitration, PCA
+2013-1. Timor Sea Conciliation, PCA 2016-10.
+1
+
+150
+
+Judicialization In and Around the South China Sea
+
+2014.6
+In the 2016 South China Sea arbitration, a politically and militarily less
+resourced State used the legally binding dispute settlement process in order to
+counter military land occupation and maritime intrusion engaged by a larger
+and more resourced State.7 This was proof of the effective use of arbitral
+process as a legally binding third-party settlement, as a fair and equitable
+method for States with different strengths and resources. It had analogous
+characteristics with the 1962 and 2013 Preah Vihear Temple cases, where
+military occupation was held back by the submission from the relatively less
+resourced State.8
+Against these factual backgrounds, the article first summarizes conditions
+and characteristics in the Asian region, particularly Southeast Asia, where the
+South China Sea is located. This will be a basis for examining perspectives for
+further use of international legal procedures. Secondly, it examines the factual
+basis for international legal cases involving the region, especially from the
+viewpoint as to how relevant States decided to resort to legal processes, as well
+as how judgments and awards affect ex-post relations between parties. Finally,
+the article will examine more universal dimensions for the use of judicial or
+arbitral procedures, particularly factors and elements which encourage the
+State to resort to such procedures. This is expected to promote more use of
+legal procedures as a constructive tool for dispute settlement in the region.
+
+II. GEOGRAPHICAL AND POLITICAL CONDITIONS IN AND
+AROUND THE SOUTH CHINA SEA
+This section examines the contexts and backgrounds regarding disputes
+and their resolutions in Southeast Asia, focusing upon maritime and land areas
+in and around the South China Sea.
+
+A. GEOGRAPHICAL CHARACTERISTICS IN AND AROUND THE
+SOUTH CHINA SEA
+Southeast Asia has distinguished geographical characteristics, composed
+of the South China Sea in its center as a semi-enclosed sea, encircled by the
+continent and peninsulas from the north and west, as well as by various sizes
+and forms of islands from the east and west.9 Islands to the east and west
+6
+7
+8
+9
+
+Railway Land Arbitration, PCA 2012-01.
+PCA, South China Sea.
+ICJ, Preah Vihear.
+UNCLOS, art.122.
+
+151
+
+Yoshinori Kodama
+
+are composed of relatively large islands, generally forming the main islands
+of each State, such as Luzon, Borneo, Java, and Sumatra, as well as groups
+of relatively small islands, creating archipelagic features. (Table 1 describes
+schematically the geographical formations of and around the South China
+Sea).
+The complexity of geographical allocations in the South China Sea can
+inherently cause territorial and maritime demarcation disputes. However, its
+size with the diameter more than 400 nautical miles could result in a relatively
+simple demarcation solution.10 If maritime zone demarcations, particularly
+for exclusive economic zones (EEZs), are measured from adjacent continental
+States, following the recent trend of international jurisprudence, the South
+China Sea will hold a high-sea spot in its center.11 This will ensure the freedom
+of navigation and overflight in the Sea.
+The South China Sea and surrounding waters have narrow “outlets”
+connected to the outer oceans.12 Such narrow outlets act as chokepoints in
+maritime lines of transport and communications, with commercial and strategic
+importance.13 Chokepoints grant distinctive status to States encompassing
+high-staked straits and transit ports within their territories. Such States include
+Indonesia, Malaysia, and Singapore, acting as vocal promoters of a stable
+maritime order in the region.
+There are six main chokepoints for the South China Sea, with commercially
+and strategically distinct relevance.14 They are located in a clockwise manner
+from the north, as follows: (Table 2 plots these chokepoints on the schematic
+description of areas in and around the South China Sea.)
+
+Ian Storey and Cheng-yi Lin, eds., The South China Sea Dispute: Navigating Diplomatic
+and Strategic Tensions (Singapore: Yusof Ishak Institute, 2016), 21. Clive Schofield, “What’s at
+Stake in the South China Sea?” in Beyond Territorial Disputes in the South China Sea, Robert
+Beckman, Ian Townsend-Gault, Clive Schofield, Tara Davenport, and Leonardo Bernard, eds.
+(Cheltenham: Edward Elgar, University of Wollongong, 2013), 12. UNCLOS, arts. 57 et 67.
+11
+Robert C. Beckman and Leonardo Bernard, “Disputed Area in the South China Sea,” in
+The South China Sea, A Crucible of Regional Cooperation or Conflict-Making Sovereignty
+Claims, C. J. Jenner and Truong Thuy, eds., (New York: Cambridge University Press, 2016),
+202. UNCLOS, art. 87.
+12
+UNCLOS, art.122.
+13
+United States Energy Information Administration, “The South China Sea is an important
+world energy trade route, Major Crude Oil Trade Flows in the South China Sea (2011),”
+Today in Energy, 4 April 2013, accessed 15 May 2023, https://www.eia.gov/todayinenergy/
+detail.php?id=10671#:~:text=Almost%20a%20third%20of%20global,Gulf%20suppliers%20
+and%20Asian%20consumers.
+14
+Ibid.
+10
+
+152
+
+Judicialization In and Around the South China Sea
+
+(I) Taiwan Strait: The north end of the South China Sea faces Taiwan, a
+potential flash point in the region. In the case of an emergency related to
+Taiwan, the northern part of the South China Sea will become a frontline
+as well as a logistic supporting zone, together with the sea facing the east
+side of Taiwan.
+(II) Luzon Strait: This strait, composed of the Bashi, Balintang, and
+Babuyan Channels, is an entry/way-out between Taiwan and the
+Philippines, forming another potential frontline facing Taiwan, as well as
+an access point to the North Pacific. For Chinese navy vessels stationed
+in Hainan, the Luzon Strait can become an essential outlet to the North
+Pacific and beyond.
+(III) Balabac Strait: This strait between the Philippines and Malaysia
+can act as another entry/way-out to the North Pacific, partially due
+to the secluding archipelagic waters established by the Philippines,
+with archipelagic baselines connecting islands.15 Thus, the Philippine
+archipelagic waters act as a shield on the eastern edge of the South China
+Sea. It is also a way-out to the Lombok Strait southwards, through the
+Sulu Sea, the Celebes Sea, and the Makassar Strait, providing transport
+lanes towards Australia.
+(IV) Lombok Strait: This strait acts as an outlet for Australia. It is also a
+port of transit for transport to and from the Indian Ocean, then the Middle
+East, as a secondary line after the Malacca/Singapore Straits. The Lombok
+Strait is preferred by large-scale tankers for its ample width and depth,
+compared to the Sunda Strait.16
+(V) Sunda Strait: This strait also provides a strategic and commercial point
+of transit to and from the Indian Ocean, but less preferred to Lombok, due
+to its relatively shallow depth.17 It is an alternative route for the Malacca/
+Singapore and the Lombok Straits.
+(VI) Malacca/Singapore Straits: This combination of straits accounts for
+80 per cent of the region’s crude oil transport, making it the second most
+important global strait after the Hormuz.18 Sea lanes and transit ports
+are concentrated throughout the straits. States in the vicinity, namely
+Indonesia, Malaysia, and Singapore, have particular interests and stakes
+in the stability and security of the straits.
+
+UNCLOS, art.47.
+Pratnashree Basu, “The Eastern Corridor and the Law of the Sea,” ORF Occasional Papers,
+November 2020.
+17
+Ibid.
+18
+Martin D. Mitchel, “The South China Sea, A Geographical Analysis,” Journal of Geography
+and Geology 8, no.3 (2016): 1.2.
+15
+16
+
+153
+
+Yoshinori Kodama
+
+On top of these straits, the Flores and Banda Seas to the east of Borneo and
+Sulawesi towards New Guinea may potentially become another outlet, with
+the future increase of natural resources transport from Papua New Guinea to
+the region, such as liquefied natural gas and fishery products.
+Within the South China Sea, islands and other geographical figures may
+offer strategic and commercial interests to surrounding States. Hainan Island
+in the north is China’s southern end-post. The Paracel Islands, occupied by
+China since 1974, are located on the route from Hainan to the center of the
+South China Sea. The Spratly Islands with overlapping territorial claims are
+located just on or close to sea lanes for transport and communications, bearing
+upon navigation and overflight in the South China Sea.
+Based upon these geographical characteristics, States in the region can
+be categorized into several groups, depending upon main interests staked in
+maritime affairs, with duplications:
+a. Continental coastal States, including those with peninsulas, hold
+preoccupations as coastal States, including inclination towards the
+seawards extension of continental shelves. Such States include China,
+Vietnam, Thailand, Myanmar, Cambodia, and Malaysia, with varying
+intensity;
+b. Archipelagic States, with interests and consciousness as island
+nations, including the Philippines and Indonesia, tend to act as proponents
+for island nations’ interests against the land-dominates-sea principle;
+c. Then, there are States with distinctive interests in straits and transit
+ports, including Malaysia and Singapore, as well as, to a lesser and
+overlapping extent, Indonesia. Such “strait/transit States” maintain
+special interests in the freedom of navigation/overflight, as the source
+of commercial benefits, as well as effective maritime regulations and
+management for promoting their geographical advantages;
+d. In Southeast Asia, there is also a land-locked State, Laos, and States
+with land-based preoccupations, like Thailand and Myanmar. Such States
+are, in some cases, linked to the main sea by trans-frontier rivers, like the
+Mekong River in Indochina, thus sharing coastal States’ interests in safe
+and stable maritime navigation.
+These types of States with varying maritime interests with duplications
+may promote aspirations for stable, predictable, and stable maritime regimes,
+as a tool to coordinate and settle varying interests. This may create room for a
+rules-based maritime order as well as peaceful dispute settlement procedures
+in the region.
+154
+
+Judicialization In and Around the South China Sea
+
+B. HISTORICAL AND CULTURAL BACKGROUND IN THE
+REGION
+Southeast Asia is a region of complex historical diversity, composed
+of Malay, Hindu/Buddhist, and Chinese cultural bases with multi-layered
+duplications.19 Malay cultural tradition covers mainly southern areas
+encompassing islands and peninsulas, like Indonesia, Singapore, and
+Malaysia. A larger Hindu/Buddhist basis lies in Indochina. Chinese influence
+has expanded through ethnic Chinese, mainly in Malaysia and Singapore.
+These different historical backgrounds, however, share common features,
+including the weak spatial territorial conception, and, accordingly, the
+importance attached to personal-based administrative control.20 Traditionally,
+Malay sub-regions were composed of scattered local kingdoms, later
+sultanates, with administration focusing upon persons as subordinates,
+rather than territorial domination.21 Hindu tradition focused upon kings and
+its direct linkage with divinity, rather than subjects.22 The king’s influence
+was like expanding circle with diminishing effects, thus territorial nexus was
+not consciously recognized.23 Chinese perspectives on inter-State relations
+were historically based upon the tributary system, with indirect control from
+metropolitan China upon local suzerains.24
+With the progress of Western colonization in the region from around
+the 16th century onwards, these traditional bases were gradually converted
+into territorial-based administrative management, with the incipient port-toport control towards the expansion of hinterlands, then growing into spatial
+territorial control by colonial administrative institutions.25 In the course of that
+process, local territorial control was sometimes acquired by military coercion,
+and by treaties or contracts with local sultanates in some other cases.26
+Katherine Hui-Yi Tseng, Rethinking South China Sea Dispute (New York: Oxford University
+Press, 2017), 52.
+20
+Ibid. This aspect was raised and examined in the ICJ 2008 Pedra Branca case between
+Malaysia and Singapore. The Court generally disqualified pre-colonial and colonial
+administrative authorities as evidence and basis for spatial territorial control.
+21
+Tseng, Rethinking South China Sea, i.
+22
+Harry J. Benda, “The Structure of Southeast Asian History,” Journal of Southeast Asian
+History 3, no.3 (1962):106.
+23
+Robert Heine-Geldern, “Conception of State and Kingship in Southeast Asia,” Data Paper,
+no.18 (Cornell University, 1956), 6.
+24
+Tseng, Rethinking South China Sea, 101.
+25
+Guy J. Pauker, F. H. Golay, and C. H. Enloe, Diversity and Development in Southeast Asia
+(New York: McGraw-Hill, 1977), 54.
+26
+J. M. Pluvier, Southeast Asia from Colonialism to Independence (New York: Oxford
+University Press, 1974), 14.
+19
+
+155
+
+Yoshinori Kodama
+
+Colonial boundary demarcations were not necessarily compatible with
+ethnic or cultural distributions, as in the cases of Borneo and New Guinea.
+Administrative districts within a colony were generally corresponding to
+cultural boundaries, though lacking precisions in some case, like in Indochina
+and Malaysia/Singapore with complex colonial administrative arrangements.27
+This is the background for the region’s vague and unclear demarcations and
+their legal bases, prone to territorial disputes amongst inheritor States, after
+their independence later in the 20th century.
+
+C. SECURITY AND POLITICAL ELEMENTS IN DISPUTES IN
+THE REGION
+Southeast Asia is historically full of potential conflicts and disputes,
+originating from its colonial divisions as well as political and ethnic
+diversities.28 Since their independence after the Second World War, most
+States have been making consistent efforts to avoid military conflicts, seeking
+for peace and stability in the region, with the experience of wars which took
+place in the region as an arena and one-off military conflicts as well as internal
+civil strife.
+In 1967, five countries in the region belonging to the capitalist camp, at
+that time, formed the Association of Southeast Asian Nations (ASEAN) as a
+loose inter-governmental group.29 ASEAN later expanded to cover the whole
+Southeast Asia region, growing into an institutional basis for regional policy
+coordination.30 At its foundation, ASEAN perceived two regional security
+issues as serious disruptive factors in the way of peace building in the region:
+namely the Philippines’ territorial claim to the Sarawak region in the north
+of Borneo, as well as low-intensity insurgencies within Indonesia allegedly
+engaged by Malaysia and Singapore.31
+Along with the Vietnam War (-1975) and its expansion to larger Indochina,
+ASEAN’s stance towards these potentially explosive security problems was
+manifested by the proclaimed principle of non-intervention, refraining from
+interfering with internal security issues and bilateral military conflicts.32
+The non-intervention principle originally derived from the Non-Alignment
+ICJ, Pedra Branca.
+Pauker, Diversity and Development, 10.
+29
+Chong Ja Ian, “ASEAN’s Non-Intervention and the Myanmar Conundrum,” ASEAN Focus
+(Jakarta, 2021): 6.
+30
+Marty Natalegawa, Does ASEAN Matters? A View From Within (Singapore: ISEAS
+Publishing, 2018), 239.
+31
+Chong, “Non-intervention,” 2.
+32
+Charter of the Association of Southeast Asian Nations, 2624 UNTS 223 (entered into force
+15 December 2008), art. 2.
+27
+28
+
+156
+
+Judicialization In and Around the South China Sea
+
+Movement, stemming intervention by external powers, then converted to an
+intra-regional principle.33 ASEAN chose to advance region-wide economic
+construction as its main task in an attempt to pursue stability in the region.
+ASEAN has had, from its onset, a limited mandate, not being involved with
+settlement of territorial and maritime demarcation disputes amongst States in
+the region.34
+This lack of regional institutional dispute settlement mechanism may
+allegedly have become one factor in favor of several States’ resort to thirdparty judicial or arbitral dispute settlement procedures.35 Prior to ASEAN’s
+foundation, there occurred an early judicial case involving States in the region,
+as the 1962 ICJ Preah Vihear case between Cambodia and Thailand.36 The
+resort to judicial settlement was presumably motivated by the lack of any form
+of regional institutional framework for amicable dispute settlement.37
+The increase of legal cases, especially maritime territorial disputes, in
+the current century may have been promoted by ASEAN’s hesitancy about
+bilateral disputes and discrepancies. However, if one sees ASEAN’s current
+progress of institutionalization and community-building endeavors in a steady
+and irreversible manner, confidence built amongst decision-makers and
+officials fostered by ASEAN integration have been contributing to peaceful
+dispute settlement including judicial and arbitral procedures.
+ASEAN has formed layered consultation frameworks at all levels of
+States, including leaders, ministers, senior officials, working-levels, as
+well as experts and technical levels.38 Officials and stakeholders routinely
+interact in various areas at all levels. The ASEAN Secretariat in Jakarta with
+approximately 400 personnel has become a gathering site for member States’
+seconded officials.39 In order to resort to litigation tolerated by the contestant,
+confidence amongst States is crucially required, with long-lasting relations
+and transactions. ASEAN has been successfully fostering such confidence
+amongst States in the region.
+
+Toru Yano, Japan Southeast Asia Policy (Tokyo: Simul International, 1978), 76.
+Chong, “Non-intervention,” 2.
+35
+Nicole Jenne, “Managing Territorial Disputes in Southeast Asia,” Journal of Current
+Southeast Asia Affair 3 (2017): 35.
+36
+ICJ, Preah Vihear.
+37
+Jenne, “Managing Territorial Disputes,” 38.
+38
+Natalegawa, ASEAN Matters, 241.
+39
+ASEAN Charter, art.11.
+33
+34
+
+157
+
+Yoshinori Kodama
+
+III. JUDICIAL AND ARBITRAL CASES IN AND AROUND THE
+SOUTH CHINA SEA
+This section examines judicial or arbitral cases, concerning the Southeast
+Asia region, thereby analyzing general trends and conditions for accepting
+compulsory third-party dispute settlement procedures in the region. It first
+looks into the ICJ Temple of Preah Vihear cases (1962 and 2013), as a unique
+pioneering example treating land boundaries. The other cases relate maritime
+disputes, including territorial sovereignty on islands as well as maritime
+demarcation. The section is to explore the backgrounds for the recent increase
+of judicial and arbitral cases regarding maritime disputes in the region.
+
+A. THE TEMPLE OF PREAH VIHEAR CASES (1962/2013)
+1. BACKGROUNDS FOR THE RESORT TO JUDICIAL PROCEDURES
+The Temple of Preah Vihear case in 1962 (“Preah Vihear I”) was unique, as
+it was an early judicial dispute settlement case initiated by a newly independent
+State in the region. It settled a military conflict deriving from territorial
+sovereignty contestations.40 The case dealt with the attribution of a Buddhist
+temple and its immediate surrounding area on borders between Cambodia and
+Thailand. The temple area had been originally owned by Thailand.41
+The Preah Vihear I was settled without engagement by international or
+regional organisations or frameworks.42 The United Nations (UN) was not
+involved, and ASEAN did not yet exist.43 Following Thai’s military occupation
+over the area in 1958, bilateral consultations took place without solutions.44
+Cambodia resorted to the ICJ in 1959.45 A governmental official in a relevant
+State reflected that the ICJ had been the sole possible tool for Cambodia,
+which was obliged to use a third-party procedure.46
+Thailand submitted preliminary objections against the court’s jurisdiction
+by denying the effect of its 1950 and 1957 compulsory jurisdiction declarations,
+which Thailand claimed void following the disbanding of the Permanent Court
+of Justice in 1946.47 The 1950 declaration had referred to the 1929 and 1940
+compulsory jurisdiction declarations.48 The court did not accept the Thailand’s
+40
+41
+42
+43
+44
+45
+46
+47
+48
+
+ICJ, Preah Vihear.
+Ibid., Separate Opinion of Sir Gerald Fitzmaurice.
+Chong, “Non-Intervention,”2
+Ibid.
+ICJ, Preah Vihear, at 8.
+Application, Pleadings (1959).
+Interview with a governmental official, 20 February 2021 (file with the author).
+Preliminary Objections of the Government of Thailand (1960).
+Ibid..
+
+158
+
+Judicialization In and Around the South China Sea
+
+argument by defining Thailand’s intention in the 1950 declaration to commit
+to the ICJ.49 This objection by Thailand seems not to have been seriously
+engaged, since clear commitment was made by Thailand to the international
+court in 1950 when the PCIJ had been disbanded.50
+Thailand was apparently confident about its substantive basis for territorial
+ownership as provided under the 1904 Treaty. This self-confidence was a main
+impetus for this early judicial case.51 The first application by Cambodia was
+scarce in justifications, compared to the Thailand’s counter-memoir, which
+resorted to treaty provisions and subsequent effective administrative functions
+by the Thai authorities.52 Cambodia’s first submission mainly was based upon
+the 1907 Treaty of boundary demarcation which addressed the remaining
+lands. This was denied by the court as a legitimate basis for replacing the
+1904 Treaty.53
+The Temple of Preah Vihear case in 2013 (“Preah Vihear II”) was also a
+unique case where Cambodia resorted to the request for the interpretation of
+the 1962 Preah Vihear I judgment. Its aim was, equally to Preah Viear I, to
+eliminate Thailand’s military occupation following Cambodia’s inscription of
+the Temple and its surrounding areas for a UNESCO World Heritage in 2008.54
+Its difference from Preah Vihear I was the engagement of the United
+Nations Security Council and ASEAN, following the military conflict.55 The
+Chair of the Security Council issued a statement on 14 February 2011 following
+the Council meeting calling for permanent ceasefire and expressing support
+for ASEAN’s mediation role.56 The ASEAN Foreign Ministers’ meeting on
+22 February 2011 decided the dispatch of the Indonesian Foreign Minister as
+special envoy to the two countries and the dispute areas for reconciliation.57 A
+government official in the region accounted that the Cambodian government
+ultimately chose the resort to the ICJ, because it considered the dispute to be
+not “ASEAN matters”, thus seeking for third party settlement.58
+Ibid., Preliminary Objections Judgment (1961).
+ICJ, Preah Vihear, at 6.
+51
+Ibid, at 4. Counter Memorial of the Royal Government of Thailand (1961).
+52
+Ibid., Merits, at 27.
+53
+Ibid., Merits, at 14.
+54
+Request for Interpretation of the Judgment of 15 June 1962 in the Case concerning the
+Temple of Preah Vihear (2013), ICJ Reports 2013, 281, at 293.
+55
+Ibid., at 294.
+56
+“Security Council urges permanent ceasefire after recent Thai-Cambodia clashes,” UN
+News, 14 February 2011, accessed 15 May 2023, https://news.un.org/en/story/2011/02/366652.
+57
+ASEAN Secretariat, ASEAN welcomes Cambodia-Thai firm commitment to avoid further
+clashes (Jakarta, 22 February 2011).
+58
+Interview with a governmental official, 20 February 2021 (file with the author).
+49
+50
+
+159
+
+Yoshinori Kodama
+
+The involvement by the UN Security Council and ASEAN elevated the
+transparency of the issue, contributing to the constructive handling as well
+as enforcement of the ICJ judgment. This was an example of combined
+endeavors towards dispute resolutions, including political and judicial
+frameworks. Whether this precedent offers encouragement for third-party
+dispute settlement in the region remains to be seen. However, the case has
+been studied and analyzed by decision-makers and practitioners in the region
+as a successfully-settled case.
+2. PREAH VIHEAR I: ACQUIESCENCE AS A “TREATY SETTLEMENT”
+AND SUBSEQUENT CONDUCTS
+The distinctive feature of the Preah Vihear I judgment was the denial of
+the 1904 Boundary Treaty provision, which had assigned the “watershed line”
+as border, by Thailand’s subsequent conducts, including failure to protest.59
+The court attached importance to the diplomatic communication in 1908
+from the French authorities to the Thai Minister, as head of mission in Paris,
+including maps completed by French members of the 1907 Mix Commission,
+as requested by Thailand due to its lack of topographic expertise.60
+The map, alias the “Annex I map”, drew dotted lines as boundary north to
+the geographical cliff line, separating mountain hill regions from Cambodian
+plains, thus positioning the temple in the French territory.61 The Thai act of
+receiving the map with appreciation as well as its request for further copies for
+their internal references, was evaluated by the court as acquiescence, meaning
+tacit recognition, thus a form of consent, as formulated subsequently in the
+ICJ Gulf of Maine judgment.62
+As was elaborated in the Thai memorial, the country had no intention
+to accept a border other than the “watershed lines” under the 1904 Treaty,
+claiming an error in perception at the timing of its reception.63 It is presumed
+that French officials did not mention nor pointed out the new borderline drawn
+in the map, anticipating reactions or lack of reaction by its Thai counterpart.
+This might have been regarded as “skillful inducement” in positive terms, or
+a “diplomatic sneaky plot” in maximally negative terms.
+The accumulation of jurisprudence on acquiescence indicates the need
+for designating it as consent, consisting of the knowledge of presented facts
+59
+60
+61
+62
+63
+
+ICJ, Preah Vihear, at 16.
+Ibid., at 17.
+Ibid., at 18.
+Gulf of Maine, ICJ Reports 1984, 246, at 305.
+ICJ, Preah Vihear, at 22.
+
+160
+
+Judicialization In and Around the South China Sea
+
+(in this case, the map with the new borderlines); a certain level of duty or
+expectation to react as “called for under the circumstances; and a certain
+duration of time as deadline for protest.64
+There has been an argument whether the court resorted to the AngloAmerican concept of “estoppel” in this case.65 Amongst diversity of
+conceptual categories of “estoppel” in the common law tradition, “estoppel
+in representation” as procedural rule and “promissory estoppel” require the
+reliance in good faith on the side of party exposed to the other’s representation
+or promise, causing damage inflicted on the former party or, otherwise,
+advantages for the latter party engaged in the first action or conduct.66
+The court used this reasoning in an incomplete manner, while using the
+term of “preclusion” as associated concept for estoppel67 It set out Thailand’s
+advantage as stability and durability by the fixed border as well as saving its
+administrative burden in remote periphery areas.68 This is a fictitious argument.
+The loss of territory was a significant disadvantage for Thailand. The logic by
+the court was thus acquiescence without requiring clear detrimental reliance
+by the French side.
+The court seemingly considered that its reasoning based upon acquiescence
+was insufficient. It thus presented at least six subsequent conducts as
+supplementary evidence for Thai recognition, following the 1908 diplomatic
+communication.69 These are the use of a map based upon Annex I map by the
+Thai Commission of Transcription in 1909; the Thai Prince’s visit to the area
+received by a French resident with hoisting a French flag in 1930; Thai survey
+of the region using the Annex I map in 1934-1935; the production of a map by
+the Siamese Royal Survey Department including a map putting the temple on
+the Cambodian side in 1937; the meeting of the French-Siamese Conciliation
+Commission in 1947 where the Thai side had no mentioning of Preah Vihear;
+and the sending of French note verbales for clarification in 1949 and 1954
+Etienne Henry, “Alleged Acquiescence of the International Community to Revisionist
+Claims of International Customary Law,” Melbourne Journal of International Law 18, no.2
+(2017). Sophia Loperla, “The Legal Value of Silence as State Conduct in the Jurisprudence of
+International Tribunal,” Australian Year Book of International Law 29 (2011): 87.
+65
+Anthony D’Amato, “Consent, Estoppel, and Reasonableness,” Virginia Journal of
+International Law 10 (1969):1. Alexander Ovchar, “Estoppel in the Jurisprudence of the ICJ,”
+Bond Law Review 21 (2009). Christopher Brown, “A Comparative and Critical Assessment of
+Estoppel in International Law,” University of Miami Law Review 50 (1996): 380.
+66
+Ibid.
+67
+ICJ, Preah Vihear, at 23.
+68
+Ibid., at 34.
+69
+Ibid., at 27.
+64
+
+161
+
+Yoshinori Kodama
+
+with no reply by Thailand.70
+Amongst these, the Thai Prince’s visit to the area in 1930 was considered
+to be a reliable example of implied recognition. However, as the Thai side
+suggested in its counter-memoir, the French flag may have been hoisted
+surrounding the French resident’s private domicile as a private action.71 The
+court did not accept Thai taxation engagement presented with affidavits as
+complete administrative functions.
+Lessons from these factual evaluations and reasonings, particularly for
+States in the region with similar border demarcation disputes, were as follows:
+first, the status of a treaty could be displaced by subsequent conducts or
+unconscious inaction by a party, as designated as a “treaty settlement”; and
+second, in the court process, there should be a need to collect and present facts
+and evidence of territorial administrative functions, or the lack of them by the
+other party.
+States in the region with colonial administrative histories as well as
+sporadic state functions in border areas at early periods may have considered
+these requirements as a burden, given their administrative capacities. States
+prefer predictability and certainty, minimizing its risk-taking, in the process of
+dispute settlement, particularly, for territorial demarcation cases. These were
+presumably elements for States in the region in scarcely choosing dispute
+settlement methods towards the end of last century following the Preah Vihear
+I case.
+3. PREAH VIHEAR II: REQUEST FOR INTERPRETATION AS A
+JURISDICITIONAL PATHWAY
+The Preah Vihear II case was initiated by Cambodia’s request for the
+interpretation of the Preah Vihear I judgement, under article 60 of the Statute
+of the International Court of Justice.72 Thailand’s compulsory jurisdiction
+declaration had lapsed, and the ICJ has a strictly limited appeal procedure.73
+Thus, Cambodia used the pathway of interpretation, seeking the withdrawal of
+Thai military and police forces from the surrounding area of the Preah Vihear
+Temple.
+
+Ibid., at 31.
+Ibid., at 30.
+72
+Statute of the International Court of Justice, 33 UNTS 993 (entered into force 24 October
+1945), art. 60.
+73
+Ibid., art. 61.
+70
+71
+
+162
+
+Judicialization In and Around the South China Sea
+
+The scope of interpretation shall be limited to terms and phrases in the
+operative parts of the previous judgment.74 The court shall not deliberate upon
+subsequent practice and facts. Nonetheless, the objective of the Cambodia’s
+application was to ensure the withdrawal of the Thai forces from the area,
+treating the imminent and present conflict on the ground. The interpretation
+request does not require a newly-updated jurisdiction declaration, and
+there is no time-limit for its application. It could become a convenient tool
+to circumvent jurisdictional and admissibility barriers in the ICJ judicial
+process.75
+The Cambodian side used the following two logics to achieve a solution
+within strict limits in the interpretation appeal: First, it presented the argument
+on the meaning of the term “vicinity of the Preah Vihear” as the scope of the
+Thai forces’ obligation for withdrawal.76 The court did not touch upon the
+legal status of the Annex I map itself, as not included in the operative part
+of the Preah Vihear I judgement. The reasoning of that judgment, however,
+designated the map as a “treaty settlement,” thus granted eventually legally
+binding status.77 Here, the court followed its self-imposed formal limits to the
+scope of interpretation judgments.
+The court presented relatively weak logic and reasons for geographical
+interpretation: it proclaimed that the inclusion of the promontory of Preah
+Vihear in the “vicinity of Preah Vihear” as part of “natural understanding.”78
+The international courts and tribunals should not presuppose the existence
+of “natural understanding,” given the diversity and complexity of commonly
+understood facts and values.
+Second, the court designated the scope of “vicinity of Preah Vihear”
+as geographical spots including the area where the Thai police detachment
+were stationed, following the Preah Vihear I judgment which required the
+withdrawal.79 This is a tautological reverse logic. The court ordered the
+withdrawal of the Thai forces from a certain geographical scope. This “certain
+geographical scope” is where the Thai forces stationed. That is a circular logic
+avoiding the designation of a “geographical scope.”
+ICJ Reports 2013, at 307.
+Michelle Barnett, “Cambodia v Thailand,” Brooklyn Journal of International Law 38 (2012):
+271. Alexandra C. Traviss, “Temple of Preah Vihear: Lessons on Provisional Measures,”
+Chicago Journal of International Law 13 (2012): 320.
+76
+ICJ Reports 2013, at 331.
+77
+Ibid., 309. The court stated that it “feels bound” by the Annex I map, in an un-legalistic
+manner; Merits, 77.
+78
+Merits, para. 89.
+79
+Ibid., para. 88.
+74
+75
+
+163
+
+Yoshinori Kodama
+
+The court also followed the Cambodian issue-setting by judging that the
+Thai obligation was “general and continuing.”80 Therefore, the Thai forces
+stationed in 2013 should be subject to the withdrawal obligation under the
+1962 judgment. Thailand stationed their forces in their self-imposed “Council
+of Ministers” line after the 1962 judgment. The court designated this stationing
+as “continuing action” rather than newly-taken separate enforcement measures.
+Cambodia effectively used the logic within the scope of the interpretation
+procedure.
+This successful handling by Cambodia presented a lesson for States in
+the region and beyond, as an effective use of tools and paths in the judicial
+procedures, in order to achieve a solution to issues at hand. The elimination
+or circumvention of jurisdictional barriers has become a core task for legal
+counsel even more significantly, in resorting to third party dispute settlement
+procedures. This was seen in the 2016 South China Sea arbitration case, as
+examined later in this article.81
+
+B. THE LIGITAN AND SIPADAN CASE (2002)
+1. BACKGROUND AND MOTIVATION FOR JUDICIAL APPLICATION
+After a long interval, two maritime States in the Southeast Asia region,
+Indonesia as an archipelagic State, on one hand, and Malaysia as a peninsula
+State straddling international straits and transit routes, on the other, applied
+for an ICJ litigation process by a mutually-agreed special agreement in 1997.82
+This was based upon a top-down decision by political leaders from the two
+States.83
+The case concerned the territorial attribution of two islands, Ligitan and
+Sipadan, located in maritime border areas between the two States. According
+to governmental officials in one of the parties, the both parties retrospectively
+had an intention to avoid the escalation of territorial disputes, with the
+importance attached to the stability and certainty of border delimitation.84
+Indonesia and Malaysia had engaged in military insurgency conflicts in early
+periods of their post-independence era.85 In the late 1990s, the both States had
+a clear priority upon economic nation-building as well as stable bilateral and
+Ibid., at 287.
+Infra, D.
+82
+ICJ, Ligitan and Sipadan; Marcel Hendrapati, “Implication of the ICJ Decision respecting
+Sipadan Ligitan case towards basepoints and maritime delimitation,” International Journal of
+Sciences: Basic and Applied Research 14, no.1 (2014): 374.
+83
+ICJ, Ligitan and Sipadan, para.1.
+84
+Interview with a governmental official, 15 January 2021 (file with the author).
+85
+Natalegawa, Does ASEAN Matter?, 241.
+80
+81
+
+164
+
+Judicialization In and Around the South China Sea
+
+regional relations enabling their economic growth.86
+Diplomatic negotiations through joint working groups established in 1991
+did not produce results, thus leading to the resort to a third-party dispute
+settlement procedure.87 Decision by a government to resort to judicial litigation
+naturally needs a certain level of self-confidence in obtaining a judgement in
+its favor. According to governmental experts in both parties, Indonesia had
+a special emphasis upon the application of the 1891 Convention between
+Britain and the Netherlands, the parties’ colonial predecessors, as a basis
+for boundary demarcation.88 Indonesia’s logic and arguments concentrated
+upon the interpretation of relevant articles in the 1891 Convention for their
+justification.89
+Malaysia denied the Convention as a basis for demarcation.90 It also denied
+a geographic coverage of the two islands by colonial contracts concluded by
+the Netherlands and local sultanates.91 Malaysia focused upon factual evidence
+for effective territorial occupation of the two islands in pre- and post-1891
+Convention periods.92 Relevant experts recalled their surprise by insufficient
+preparations by Indonesia in presenting evidence for effective occupation,
+using, for instance, private fishing activities and Boy Scout excursions.93 The
+court decided in favor of Malaysia’s ownership of the two islands.
+One government official explained the need which was felt by the two
+parties to clarify border demarcations, given the ambiguity and uncertainty
+about the attribution of the two islets.94 There was a shared interest by the
+parties to settle such ambiguity, in order to construct stable bilateral relations.
+This is one reason Indonesia managed domestic political backlash following
+the judgment which was not in their favor. This aspect will be examined later
+in this sub-section.95
+2. ISSUES AND REASONING: TREATY INTERPRETATION AND
+EFFECTIVITES COMPARATIVES
+The judgment of the Ligitan and Sipadan case denied both Dutch contracts
+with local political figures and Anglo-Dutch treaties as a basis for territorial
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+
+Ibid., 228.
+ICJ, Ligitan and Sipadan, para.1.
+Interview with a governmental expert, 23 November 2018 (file with the author).
+ICJ, Ligitan and Sipadan, Memorial, Indonesia 1 (1999), ch.IV.
+ICJ, Ligitan and Sipadan, Memorial of Malaysia 1 (1999), at 27.
+Ibid., ch.7.
+Ibid., ch.6.
+Memorial, Indonesia 1.
+Interview with a governamental official, 15 January 2021 (file with the author).
+Infra II.B.3.
+
+165
+
+Yoshinori Kodama
+
+ownership over the two islands.96 Both parties denied the terra nullius status
+for the two islands. The court followed this, given the existence of local
+sultanates since the pre-colonial period.
+Specifically, Indonesia’s claims for territorial succession from the 1817
+Dutch patronage contract with Sultan of Boelognan as well as subsequent
+contracts for territorial allocation in 1850 and 1879, were denied by the court
+as lacking geographical coverage for the two islands.97 The court also denied
+Malaysia’s claim for the chain of succession from Spain to the United States,
+then to the United Kingdom, finally succeeded by Malaysia as an independent
+State, for not clearly covering Ligitan and Sipadan.98
+The two islands were defined as located in uncertain border areas between
+the two parties. Here, the court did not categorize the two islands as belonging
+to the original title holders, like local sultanates, nor defined the two islands
+as terra nullius. The court did not take a position to require legal basis for
+all corners of disputed geographical areas in order to legitimate colonial
+successions.99 This is the issue of territorial expanse covered by a territorial
+title, rather than the issue as to whether a territorial title exists or not, as
+formulated in the 1986 ICJ Burkina Faso/Mali Frontier Dispute judgment.100
+The court then set out the interpretation of Article IV of the 1981 AngloDutch Convention as not defining territorial demarcation for the two islands.
+Article 4 is silent about the border allocation to the east of the island of Sebatik
+(Sebittick), close to North Borneo.101 It provides the line of allocation (the
+4°10’north latitude parallel) “shall be continued eastward... across the island
+of Sebittick.”102 The court interpreted this phrase as not covering the east to
+the island of Sebatik an “ordinary” and natural meaning of terms, following
+Article 31 of the Vienna Convention on the Law of Treaties.103
+Indonesia claimed that the silence here assumed the existing intention by
+the parties to extend eastwards, based upon the purpose and objective of the
+Convention to bring about certainty and finality of border demarcation.104 The
+Merits, para.99.
+Ibid., para.113.
+98
+Ibid.
+99
+Seokyoon Huh, “Title to Territory in the Post-colonial Era Original Title and Terra Nullius
+in the ICJ Judgments on Cases Concerning Ligitan/Sipadan (2002) and Pedra Branca (2008),”
+European Journal of International Law 26, no.3 (2016): 714.
+100
+ICJ Reports 1986, at 586.
+101
+Merits, para.41.
+102
+Ibid., at 78, 5.22.
+103
+Ibid., para.2; Vienna Convention on the Law of Treaties 1155 UNTS 331 (entered into force
+27 January 1980), art. 31.
+104
+Memorial, Indonesia, 1, ch. V.
+96
+97
+
+166
+
+Judicialization In and Around the South China Sea
+
+court adopted Malaysia’s argument that the silence implied the lack of intention
+for extending the 4°10’north parallel line eastwards for border allocation.105
+This is an issue of case-by-case textual interpretation, the judgment of which
+depends upon comparative evaluation about facts and logics presented by
+each party.
+Following the denial of basing treaties or contracts for geographical
+coverage, the court evaluated comparatively effective occupations by the two
+parties, as manifestation of State authorities, as had been set out in the 1923
+Island of Palmas arbitration and the 1953 ICJ East Greenland case.106 The
+Island of Palmas arbitration provided “continuous and peaceful administrative
+and regulatory activities” without a protest by a contesting party for a certain
+length of time, as a basis for territorial sovereignty.107
+The East Greenland case judgment relativized the intensity of effective
+control when contested by other parties, emphasizing upon relative superiority
+of control in such cases.108 It also confirmed the acceptance of “very little”
+evidence in the case of disputes on unhabitable areas.109 The Ligitan and
+Sipadan judgment further emphasized the importance of “specificity”,
+meaning that administrative control should not be general, but “specific” to
+disputed land areas.110
+The court attached distinctive importance to Britain’s administrative
+regulation on turtle and turtle egg management in 1930 as well as the
+designation of bird sanctuaries in 1933, both in Sipadan.111 The court endorsed
+Malaysia’s argument that these are administrative and regulative control as well
+as quasi-judicial activities.112 Malaysia claimed that North Borneo authorities
+had settled turtle and egg collection disputes between local inhabitants, which
+was adopted by the court as evidence of acts à titre sovereign.113 The court did
+not adopt Indonesia’s argument that the settlement was personal-based, rather
+Merits, 117, para.52.
+Ibid., para. 25; Island of Palmas (1928), RIAA, II, 829; Legal Status of Eastern Greenland
+(1933), PCIJ, Series A./B. no. 53; Giovanni Distefano, “La notion de titre juridique et les
+différends territoriaux dans l’ordre international [The Concept of Legal Title in Matters
+of Territorial and Maritime Disputes],” Editions A (Paris: Pedone, 1995). Constantinos
+Yiallourides, Disputed Waters and Seabed Resources in Asia and Europe (London and New
+York: Routledge, 2019). Zhenni Li, “International Intertemporal Law,” California Western
+International Journal 48, no 2 (2018): 342.
+107
+Ibid., Palmas, 839.
+108
+ICJ, Eastern Greenland, 141.
+109
+Ibid., 45 et 63.
+110
+Merits, para.136.
+111
+Ibid., paras.143 et 144.
+112
+Ibid., para.143.
+113
+Malaysia, Memorial, para.6.12.
+105
+106
+
+167
+
+Yoshinori Kodama
+
+than the manifestation of territorial sovereignty.114
+The court, on the other hand, denied a sovereignty-manifesting
+characteristic for Dutch naval surveillance operations, such as naval patrols
+in the 1870s and HNLMS Lynx’s patrol activities in 1921.115 Unless other
+compelling factors exist, military or enforcement operations are normally
+State activities of high intensity. The court adopted Malaysia’s allegation
+that the Dutch patrol activities had been sporadic and intermittent once-forall “uneventful” matters.116 Malaysia pointed out the sporadic nature of such
+patrol operations, as well as the lack of national flag-hoisting and detailed
+records in logbooks.117 Indonesia may have had more skillful ways to present
+factual evidence for naval and enforcement activities.
+Regrettably, the conclusion of the court on this point is not clear in its
+line of logic, merely stating that “it cannot be deduced from the report of
+the commanding officer of the Lynx or from any other document …that the
+naval authorities considered the waters…to be under the ownership of the
+Netherlands and Indonesia.”118
+The court also denied Indonesia’s claim of their nationals’ fishing and Boy
+Scout excursions in the islands, as private activities without the involvement
+of government authorities.119
+The court, on the other hand, endorsed Malaysia’s construction of
+lighthouses and navigational aids, as state authority manifestation.120
+International courts and tribunals generally attach less importance to the
+construction of lighthouses and navigational aids as sovereign actions,
+unless they are installed in “small islands”, as was the case in the 1953 ICJ
+Minquiers and Ecrehos case and the 2001 Qatar/Bahrain case.121 It is curious
+that international judicial judgements have adopted such a vague concept as
+a criterion.
+
+Merits, para.143.
+Ibid., para.130.
+116
+Ibid., para.139.
+117
+Malaysia, Counter-Memoire, para.4.9
+118
+Ibid., Merits,117,para.139.
+119
+Ibid., para.140.
+120
+Ibid., para.147.
+121
+Minquieres et des Ecrehos, France /Royaume-Uni (1953), ICJ Report, 1953, 70. Maritime
+Delimitation and Territorial Question between Qatar and Bahrain, ICJ Reports 2001, 40, at 99.
+Giovanni Distefano, Border Disputes and their Resolution according to International Law (Abu
+Dhabi: Emirates Centre for Strategic Studies and Research, 2005), 25.
+114
+115
+
+168
+
+Judicialization In and Around the South China Sea
+
+The court here defined Ligitan and Sipadan as “small islands” thus granting
+evidential value to lighthouses.122 The judgment described Sipadan as a small
+island with “approximately 0.13 sq.km”.123 This means, if it is converted to
+a square, 350 by 350 meters approximately. Some reports present Litigan as
+approximately 7.9 hectares (as a square, 250 by 250 meters approximately),
+and Sipadan as 16 hectares (400 by 400 meters).124 The main island of
+Minquiers is 200 yards by 50 yards (350 by 85 meters), and that of Ecrehos
+is 300 by 150 yards (500 by 250 meters).125 Minquiers and Ecrehos were,
+however, disqualified as “small islands.” An island in dispute in the 2001
+ICJ Qatar /Bahrain case is 12 by 4 meters, as qualified as “small island”.126
+The court’s application of the “small island” criterion may be criticized as
+discretionary and arbitrary.
+The court denied the evidential value of the map which the Dutch authority
+submitted to its parliament in the ratification process of the 1891 Convention,
+as not clearly covering Ligitan and Sipadan.127 On the other hand, the court
+accepted Malaysia’s argument that the 1960 Indonesian archipelagic baseline
+regulation had not used the two islands as “outermost islands” for drawing
+archipelagic baselines.128
+Indonesia defended itself with the argument that this lack of inclusion
+had derived from hastiness in legislation as well as political considerations
+to watch carefully the discussion in the Third United Nations Conference on
+the Law of the Sea where the concept and conditions for archipelagic waters
+were being debated.129 Indonesia’s defense proved its knowledge of the option
+for drawing archipelagic baselines. This drove the court further in favour of
+Malaysia’s claim.
+3. LESSONS FOR FURTHER JUDICIAL SETTLEMENT IN THE REGION
+The Ligitan and Sipadan case demonstrated the importance of evidential
+presentations and reasonings in the evaluation of comparative effective
+occupation, effectivités comparatives. Indonesia and Malaysia engaged in
+“mirror arguments” in items for respective claims and defense, in order to
+Merits, para.147.
+Ibid., 634.
+124
+Zainul Daulay, “Soverignty over Pulau Ligitan and Pulau Sipadan (Indonesia/Malaysia),”
+Law Reform 2, no.1 (2021): 119, 120.
+125
+ICJ, Minquiers et Ecrehos, at 22.
+126
+ICJ, Qatar and Bahrain, at 99.
+127
+ICJ, Ligitan and Sipandan, paras.44 et 45.
+128
+Ibid, para.130.
+129
+ICJ, Ligitan and Sipadan, Counter-Memorial, Indonesia 1 (2000), para.7.54; Public Sitting
+held on Tuesday 4 June 2002, verbatim record, at 50.
+122
+123
+
+169
+
+Yoshinori Kodama
+
+prove relatively superior evidence and logics for effectivités.
+The court was convinced by the British regulation for management of
+turtle and turtle eggs as well as the designation of a bird sanctuary.130 The court
+applied the “small island” criterion, accepting lighthouse construction and
+navigation aids installment, in favour of Malaysia’s claim.131 The court then
+defined Indonesia’s failure to include the disputed islands in its archipelagic
+baselines as evidence for not having been concerned about the territorial
+attribution of the islands.132
+It may be natural that sovereign States with sensitivity to territorial integrity
+and natural resources allocation will feel hesitant in relying upon allegedly
+discretionary evaluative comparison by a third-party dispute settlement body.
+From this viewpoint, Indonesia’s management of domestic backlashes,
+following the judgment unfavorable to it, gives us thoughts and lessons, in
+tackling reticence about judicial settlement.
+Relevant government officials explained to the author that the Indonesian
+government had been fortunate in responding to its domestic audience that
+the resort to litigation had been a policy choice by the previous presidential
+administration.133 They also pointed out that, in the early 2000s period when
+the judgement was made, natural resources allocations, including oil and gas,
+in the Indonesia/Malaysia maritime border areas were not keenly recognized
+by domestic stakeholders.134 This reduced the burden on the government to
+address criticism from domestic audience.
+Indonesia’s handling demonstrated that strong political leadership is
+needed for resorting to third-party dispute settlement procedures. In addition,
+the relatively less acute recognition of practical interests, including natural
+resources, can lead to tolerance for resorting to inter-State judicial processes.
+Whether these factors may arise in other disputes will not be certain. How
+countries like Indonesia may continuously recognize the advantage of
+third-party dispute settlement, despite the experience of being exposed to
+an unfavorable judgement, will be a test case for the prevalence of judicial
+settlement as an option in the region.
+
+130
+131
+132
+133
+134
+
+Ibid., Merits, para.144.
+Ibid., para.147.
+Ibid., para.130.
+ICJ, Ligitan and Sipadan.
+Ibid.
+
+170
+
+Judicialization In and Around the South China Sea
+
+C. THE PEDRA BRANCA CASE (2008)
+1. BACKGROUND AND MOTIVATION FOR JUDICIAL APPLICATION
+The Pedra Branca, Middle Rock, and South Lodge case was a contentious
+case between Malaysia and Singapore on territorial sovereignty over islands
+and a low-tide elevation located in the south entry point of the Singapore Strait
+from the South China Sea.135 These geographical figures are of importance
+in maritime traffic, thus crucial for navigational safety as well as maritime
+security. Clarity in their jurisdictional allocation is of wide-ranging interest for
+States and private parties in the region.
+On Pedra Branca, as a main subject-matter of contention, a navigational
+lighthouse was established in 1851 by the British Crown Colony authority,
+then maintained and administered by the Singaporean authority.136 Pedra
+Branca has approximately 8.56 square meters, with the size of 137 meters long
+and, on average, 60 meters wide.137 Therefore, it can be categorized as a “very
+small island”, by the preceding Ligitan and Sipadan case criteria.138 According
+to that criterion, a small intensity of effective control can be counted, including
+the establishment and administration of a lighthouse.139
+The Pedra Branca case was submitted based upon a special agreement
+by the parties in 2003.140 It is noteworthy that the parties limited the scope of
+litigation to the territorial sovereignty of the geographical figures, separating
+the issue of maritime zone demarcation, leaving it to inter-governmental
+consultations through establishing a bilateral technical committee.141 Maritime
+areas around Pedra Branca are not perceived as contentious zones in terms of
+natural resource excavation. The geographical figures in the areas are not a
+matter of keen nationalistic sentiment by the parties, either.
+In early years of the 21st century, Malaysia has had territorial or maritime
+demarcation disputes and discrepancies with other parties, such as territorial
+sovereignty over Sara and Sarawak against the Philippines, as well as Spratly
+islands territorial and maritime claims against China and several neighboring
+States.142 It should have been natural that Malaysia preferred a peaceful thirdICJ, Pedra Branca. Yoshifumi Tanaka, “Passing of Sovereignty, The Malaysia/Singapore
+Territorial Dispute before the ICJ,” Hague Justice Journal 3, no.2 (2008).
+136
+ICJ, Ibid., para.24.
+137
+Ibid., para.16.
+138
+ICJ, Ligitan and Sipadan, para.147.
+139
+Ibid, para. 145.
+140
+Award, Annex, para.1.
+141
+Singapore Government Agency, Joint Press Statement (2 December 2010). Joint Press
+Statement (22 January 2020).
+142
+Mohammad Zaki Ahman and Amusafir Kelana, “An Inter-State Maritime Territorial
+135
+
+171
+
+Yoshinori Kodama
+
+party settlement for a territorial sovereignty dispute mainly involving an
+interest of navigational safety and security.
+The submission to the ICJ was decided at a top political level. As recorded,
+the then Malaysia Prime Minister stated that, though he was not confident
+about the substance, non-submission to the court would have been seen as the
+lack of confidence in the case.143 It was the same Prime Minister who decided
+to discontinue in 2018 the submissions for revision and interpretation of the
+judgment, based upon “mutual respect.”144 This is an example of predilection
+for peaceful third-party settlement, rather than allowing for political escalation
+and confusion, damaging bilateral relations.
+Relevant government officials explained to the author that the agreement
+by the both parties for litigation derived from the relatively tiny and peripheral
+position of the islands, which had less interests in terms of natural resources.145
+The deference of maritime demarcation issues to a technical committee was
+also counted as a facilitative factor for submitting the remaining issue of
+territorial sovereignty to judicial process.146
+Legal experts in the both parties involved with the case shared with the
+author their self-confidence in winning the case for respective reasons.147
+Positive prospect for winning is necessary for motivating the parties to be
+subject to judicial process. Malaysia was wholeheartedly confident in its
+argument based upon existing treaties and contractual arrangements proving
+its sovereignty.148
+Singapore relied exclusively upon the 1953 correspondence between
+colonial administrative authorities as evidence of the lack of sovereignty
+recognized by the Sultanate of Johor, succeeded by Malaysia.149 Malaysian
+legal experts were continuously confident about Malaysian sovereignty,
+which led to the submission of revision of the case in 2017, resorting to new
+Conflict,” Jurnal Sosisohumaniora 7, no.2 (2005): 93.
+143
+Ibid.
+144
+Kamarulzaman Askandar and Cariervin Sukim, “Making Peace over a Disputed Territory in
+Southeast Asia,” Journal of Territorial and Maritime Studies 3, no.1 (2016): 65.
+145
+Angaindrankumar Gnanasagaran, “Pedra Branca Dispute Reveals Disconnect between
+Malaysia and Singapore,” The ASEAN Post, 12 January 2021, accessed 15 May 2023, https://
+theaseanpost.com/article/pedra-branca-dispute-reveals-disconnect-between-malaysia-andsingapore. “Malaysia accepts Ruling on Pedra Branca, says Mahathir,” The Straits Times, 25
+June 2019, accessed 15 May 2023, https://www.straitstimes.com/politics/malaysia-acceptsruling-on-pedra-branca-says-pm-mahathir.
+146
+Interview with a governmental official, 15 May 2017.
+147
+Ibid., Interview with a governmental official, 22 April 2022.
+148
+Memorial of Malaysia I (2004).
+149
+Memorial of Singapore 1 (2004).
+
+172
+
+Judicialization In and Around the South China Sea
+
+evidence, though finally discontinued in 2018.150
+2. REASONING: ORIGINAL TITLE AND SUBSEQUENT STATE
+PRACTICE
+In the exchange of submissions in the proceedings, Malaysia relied upon
+the existence of the Johor Sultanate as a territorial entity since the pre-modern
+period.151 It also based its argument upon treaty settlements by the 1824 AngloDutch Treaty for demarcation and the 1824 Crawfurd Treaty for territorial
+cession to the Singaporean Colonial Settlement, excluding islets located
+beyond 10 nautical miles from the coast on letters.152 These were reinforced by
+the 1951 permission by the Sultanate granted to the Singaporean Settlement
+for establishing a lighthouse on allegedly Pedra Branca, as manifestation of
+the Settlement’s territorial control.153
+Singapore denied the Sultanate of Johor as territorial entity in the premodern period, defining its control as merely personnel allegiance to the
+Sultan, thus non-inhabited islands as Pedra Branca was outside of control.154
+Singapore also denied the two treaties in 1894 as not a contractual basis for
+territorial cessation.155 It also denied the 1844 permission by the Sultanate as
+not covering Pedra Branca, based upon contextual interpretation.156 Singapore
+based its claim upon state acts manifested in the process of establishing and
+managing the lighthouse with the time span from 1847 to 1851.157
+Singapore then presented the correspondence in 1953 from the colonial
+authority of Singapore Settlement to an Administrative Officer in the Johor
+Protectorate as a basis for Johor’s recognition of Singapore sovereignty over
+the island, along with subsequent administrative acts as evidence for effective
+controls.158 The 1953 letter of response from the Johor authority provided that
+it did not claim the “ownership” of Pedra Branca.159
+Singapore added in its Reply and oral hearings that Pedra Branca had been
+terra nullius at the timing of the lighthouse construction in 1847-1851.160 This
+last-minute presentation contains difficulties in understanding its intention,
+150
+151
+152
+153
+154
+155
+156
+157
+158
+159
+160
+
+Interview with a legal expert, 15 November 2016.
+Memorial of Malaysia, para.36.
+Ibid., para. 50.
+Ibid., para.116.
+Counter-Memorial of Singapore (2005) para. 3.2.
+Ibid., para.3.17.
+Ibid., para.5.4.
+Memorial of Singapore, para.5.2-.
+Ibid., para.7.29.
+Ibid., 181.
+Reply of Singapore (2005), 7.
+
+173
+
+Yoshinori Kodama
+
+given the general trend of court cases in disfavor of the terra nullius concept.161
+It may have been used as tactical argument in order to weaken Malaysia’s
+treaty basis in 1824, playing up the meaning of alleged state actions after the
+lighthouse construction, including the 1953 correspondence.
+The court denied the evidential value of treaty in 1824, due to the lack of
+clarity in letters, as well as the Johor’s permission for lighthouse construction
+in 1844 for insufficient specificity.162 Then, the court defined the original title
+by the Johor Sultanate over Pedra Branca and South Lodge, relying upon
+the general geographical scope covering these islets, as well as the lack of
+competing claims.163 The terra nullius characterization was denied, due to the
+status of the islands as navigational hazards which should have been known or
+discovered.164 Nonetheless, these reasonings favored Singapore by lowering
+its burden of proof to counter Malaysia’s territorial claim without treaty or
+contractual basis.
+The court accepted subsequent State practice as evidence for Singapore’s
+sovereignty, including the 1953 correspondence.165 It also enumerated
+Singapore’s actions as acts à titre sovereign without Malaysia’s protest: that
+is shipwreck investigation in the area, permission for Malaysian authorities’
+visits to the island, installation of military communication equipment on the
+island, public tender advertisement for reclamation projects, and Singapore’s
+official report including the islands in an attached map, as well as Malaysia’s
+official map excluding the islands.166
+The court’s reasoning showed that the 1953 correspondence could be
+defined as evidence for the recognition by the Johor authority of Singapore’s
+sovereignty, as described as “ownership,” over the island. Given the relative
+evidential weakness of Johor’s original title, as opposed to treaty settlement,
+the 1953 recognition seems to be sufficient to rebut the Malaysian arguments.
+The court may have elaborated further evidential facts in order to complement
+its reasoning in favour of Singapore. However, this combined presentation
+blurred the core argument for authorizing Singapore’s sovereignty.
+Huh, “Title to Territory,” 717. Marcelo Hohen,” Original Title in the Light of the ICJ Judgment
+on Sovereignty over Pedera Branca/Pulau Batu Putech, Middle Rocks and South Ledge,”
+Journal of the History of International Law 15 (2013):151. Dieter Dörr, “The Background of the
+Theory of Discovery,” American Indian Law Review 38, no.2 (2014): 486. Randall Lesaffer,
+“Argument from Roman Law in Current International Law,” European Journal of International
+Law 16, no.1(2005): 27.
+162
+ICJ, Pedra Branca, para.145.
+163
+Ibid., para.117.
+164
+Ibid., para.61.
+165
+Ibid., paras.220, 222, et 223.
+166
+Ibid., para.231.
+161
+
+174
+
+Judicialization In and Around the South China Sea
+
+Potential parties for third-party judicial settlement on territorial disputes
+may have got an impression that the eternal presentation of facts and evidence
+for State control and administration would decide the case, thus tactical
+presentation and debate will count. The court should reasonably avoid
+arbitrary and discretionary countenance in its reasoning. It should rather
+clarify the crucial factor for deciding territorial disputes, as well as clearer
+rules for allocating and measuring the burden of proof.
+
+D. THE SOUTH CHINA SEA ARBITRATION (2016)
+1. BACKGROUND AND SIGNIFICANCE
+The South China Sea arbitration award on merits on 12 July 2016 was
+made in the compulsory arbitration procedures under the 1982 UNCLOS,
+instituted by the Philippines on 22 November 2013, against China’s maritime
+claims and activities in contested maritime zones.167 The litigation was
+engaged directly in response to China’s forceful control over Scarborough
+Shoal off the coast of the Philippines on 18 June 2012, following the ChinaPhilippine stand-offs triggered by China’s obstruction to Philippines’ fishery
+activities in the surrounding maritime area.168
+The litigation was also triggered widely by China’s law enforcement
+operations and large-scale reclamation activities in overlapping maritime
+areas.169 Thus, the background situation was similar to the ICJ Preah Vihear
+cases, where the plaintiff resorted to third-party dispute settlement procedures
+for eliminating military and enforcement control in disputed land areas.170
+The Philippines’ litigation was further based upon its concerns about
+China’s consistent but intermittent territorial and maritime advancement in the
+South China Sea.171 On 19 January 1974, China gained control over the Paracel
+Islands following military confrontations with South Vietnam, currently
+contested by the Socialist Republic of Vietnam: in 1988, China commenced
+occupation over seven geographical features in the Spratly Islands which had
+been controlled by Vietnam; and in 1995, China took the control of Second
+PCA, South China Sea, Award. Zhenguo Gao and Bing Bing Jia, “The Nine-Dash Line in
+the South China Sea,” American Journal of International Law 107, no.1 (2013): 106. Robert
+Beckman, “The UN Convention on the Law of the Sea and the Maritime Disputes in the South
+China Sea,” American Journal of International Law 107, no.1 (2013): 142.
+168
+Award, at 11. Zhou Fangyin, “Between Assertiveness and Self-restrain,” International
+Affairs 92, no.4 (2016): 869.
+169
+Award, at 67.
+170
+Fangyin, “Between Assertiveness and Self-restrain,” 869. Mark Raymond and David A.
+Welch, “What’s Really Going on in the South China Sea?” Journal of Current Southeast Asia
+Affairs 4, no.2 (2022): 214.
+171
+Bill Hayton, “How to Solve the South China Sea Disputes,” ISEAS, no. 25 (2022): 6.
+167
+
+175
+
+Yoshinori Kodama
+
+Thomas Shoal from the Philippines.172
+Then, China temporarily took more non-confrontational approach for
+some period, exemplified by the 2000 China-Vietnam maritime demarcation
+agreement on the Gulf of Tonkin, along with agreements on fishing and
+common exploration/development zones for natural resources.173
+In the 2010s, China reactivated its State actions for strengthening control
+over maritime zones, such as interference with Vietnam/Philippine seismic
+surveys in their respectively claimed EEZs in 2011, and the issuance of tenders
+by the China State energy company for offshore energy exploration in an EEZ
+claimed by Vietnam.174
+In the same period, China intensified its intrusion to maritime areas claimed
+by Malaysia, as the southern end-post of the self-claimed “nine dash line”
+zone, covering virtually the whole South China Sea, as the dispatch of massive
+fishing boats, escorted by coast guard and naval ships.175 China’s large-scale
+reclamation and artificial island building in its occupied geographical features
+intensified in the same period, resulting in concerns amongst claimants in the
+region, including the Philippines.176
+The litigation was also prompted and enabled by the increased clarification
+by China about its claims, triggered by its note verbales submitted in the
+proceedings of continental shelf extension in the UN Commission on the
+Limits of the Continental Shelf, under Article 76(8) UNCLOS.177 China’s
+note verbales on 7 May 2009, following the joint Philippines/Vietnam and
+Vietnamese submissions on extended continental shelf included China’s
+claims in the South China Sea consisting of, first, “sovereignty over the
+islands and the adjacent waters,” as well as, second, “sovereign rights and
+jurisdiction over the relevant waters, seabed, and subsoils, as widely known by
+the international community.”178 The note verbales were attached by the map
+Manoj Joshi, “The South China Sea Disputes,” ORF Occasional Papers, August 2016. Robin
+Gonzales, “The Spratly Islands Dispute,” Thesis, University of Nevada, 2014, 33. M. Tailor
+Fravel, “China’s Strategy in the South China Sea,” Contemporary Southeast Asia 33, no.3
+(2011): 292. Ben Dolven, Mark E. Manyin, Shirley A. Kan, “Maritime Territorial Disputes in
+East Asia,” Congressional Research Paper, 2014, 8. Kazuhiro Nakatani, “The South China Sea
+Arbitration Award and the Rule of Law in the Seas,” Japan Review 1, no. 2 (2017): 2.
+173
+Benoît de Tréglodé, “Maritime Boundary Delimitation and Sino-Vietnamese Cooperation in
+the Gulf of Tonkin (1994-2016),” China Perspectives 3 (2016): 35.
+174
+Fangyin, “Assertiveness and Self-restraint,” 871.
+175
+Ibid.
+176
+Dolven, Manyin, Kan, “Maritime Territorial Disputes in East Asia,” 10.
+177
+UN Document, CML/17/2009, 7 May 2009. UN Document, CML/18/2009, 7 May 2009.
+178
+Ibid.
+172
+
+176
+
+Judicialization In and Around the South China Sea
+
+with dashed lines which seemingly indicated the scope of China’s claims.179
+China’s subsequent note verbale on 14 April 2011, following the Philippines’
+response to China’s first note, added that China’s sovereignty and related
+rights and jurisdiction were “supported by historical and legal evidence.”180
+China had already proclaimed an EEZ and continental shelf, based upon the
+1982 UNCLOS in its 1998 Exclusive Economic Zone and Continental Shelf
+Act, which included a provision stating that China’s “historic rights” are not
+affected by its UNCLOS-compatible maritime claims.181 Therefore, these
+notes and instruments showed China’s maritime claims beyond territorial
+seas, consisting of UNCLOS-based claims for EEZs and continental shelves,
+as well as, in parallel, historical rights for sovereign rights and jurisdiction,
+which are seemingly analogous, in terms of contents to EEZ/continental shelf
+claims under UNCLOS.182
+The upgraded clarity of China’s claims led to the Philippines’ submission
+which narrowed down subject matters, enabling the lifting of jurisdictional
+barriers under the UNCLOS procedures.183 China made a further clarification on
+jurisdiction and admissibility by its Position Paper submitted on 11 December
+2014.184 The Position Paper was, together with the letter on 8 December 2015
+by the Chinese Ambassador to the Netherlands, designated by the Tribunal as
+equivalent with preliminary objections, which further facilitated procedural
+screening in the litigation.185
+China’s reservation on 6 February 2009 to Japan’s extended continental
+shelf, by referring to the eligibility of Okinotori-shima, an island with high-tide
+elevation, for continental shelf, also contributed to substantive arguments on
+the eligibility of artificial islands constructed by China on low-tide elevations
+and submerged marine areas in the South China Sea.186 Indonesia reacted
+Ibid.
+UN Document, CML/8/2011, 14 April 2011.
+181
+The Exclusive Economic Zone and Continental Shelf Act (1998), art.14.
+182
+Sophia Kopela, “Historic Titles and Historic Rights in the Law of the Sea in the light of the
+South China Sea Arbitration,” Ocean Development and International Law 48, no. 2 (2017):
+181.
+183
+Award, at 13.
+184
+Position Paper of the Government of the People’s Republic of China on the Matter of
+Jurisdiction in the South China Sea Arbitration initiated by the Republic of the Philippines
+(7 December 2014), accessed 1 May 2023, http://nl.china-embassy.gov.cn/eng/hldt/201412/
+t20141216_2655633.htm.
+185
+Award on Jurisdiction and Admissibility (2015), at 23.
+186
+UN Document CML/2/2009 (9 February 2009). Robert C. Beckman and Tara Davenport.
+“CLCS submissions and claims in the South China Sea,” Paper, The Second International
+Workshop The South China Sea: Cooperation for Regional Security and Development, Vietnam
+2010, 9.
+179
+180
+
+177
+
+Yoshinori Kodama
+
+to China’s reservation in its note verbale on 8 July 2010 as contradictions
+to China’s own claims.187 These arguments were reflected in the Tribunal’s
+deliberations in the merits phase.188
+The South China Sea arbitration award enhanced clarity and predictability
+on both procedural and substantive issues, providing basis for policy decisions
+for relevant parties in the region. The award set a precedent on the scope
+of matters to be seized by the court or tribunal, namely jurisdictional limits
+deriving from territorial sovereignty as well as the exceptions on sea boundary
+delimitation. The award clarified the legal evaluation of historic claims and
+the island status under Article 121(3) UNCLOS.
+In the screening on admissibility, the Tribunal prescribed the application
+of Article 282 UNCLOS on obligations under general, regional or bilateral
+agreements for dispute settlement, as well as Article 283 UNCLOS on
+obligations to exchange views.189 It also set out the scope of third parties’
+participation as a prerequisite for the proceedings.190 These clarifications
+provide useful guidelines for potential parties.
+There is an argument that, given China’s rejections against the legallybinding award, the arbitration is of practically negligible significance in
+resolution for South China Sea disputes, which have wider multi-faceted
+political and security characteristics.191 Legal dispute settlement is inherently
+limited in its scope. Judicial judgments or arbitral awards will contribute to
+and facilitate the whole settlement by showing legally-binding norms, leading
+to the change of course for State actions and policies, as well as influencing
+relevant States’ way of thinking.
+The South China Sea Arbitration award made immediate effects
+upon China’s actions, allowing for Philippine traditional fishing rights in
+Scarborough Shoal.192China refrained or reduced drilling and exploration
+activities in relevant maritime zones.193 During the hearing sessions in the
+arbitration proceedings, China continued large-scale reclamation and artificial
+island building, which was later judged by the Tribunal as obstruction and
+Indonesia, Note No.480/POL-703/VII/10 (8 July 2010).
+Award, at 175.
+189
+UNCLOS, art. 121 and art. 283.
+190
+Award on Jurisdiction and Admissibility, at 71.
+191
+Statement of the Ministry of Foreign Affairs of the People’s Republic of China (12 July
+2016) para.2.
+192
+Paul Reichler, “The South China Sea Arbitration and Beyond,” Japan Review 3, no. 2
+(2019): 4.
+193
+Raymond and Welch, “What’s Really Going,” 14.
+187
+188
+
+178
+
+Judicialization In and Around the South China Sea
+
+aggravation against tribunal settlement.194
+China declared the completion of such activities in June 2015 before
+the final award.195 On 29 March 2014, China demonstrated self-restraint in
+Second Thomas Shoal controlled by the Philippines, by leaving Philippine
+patrol and fishing activities and their rotating replacement.196 In May 2014,
+China started the installation of deep water drilling rigs in waters controlled
+by Vietnam, and after collisions between China and Vietnam, the rigs were
+removed in July.197
+On China’s actions and policies wider in the South China Sea after the
+awards, it maintains annual fishing moratorium, covering most of contested
+maritime areas, as manifestation of China’s attempt to reserve control over
+fishery resources in the South China Sea.198 However, China generally
+demonstrates modest reactions by modifying its behavior.199 China stopped
+asserting the “nine-dash lines” based upon historical rights, as denied by the
+awards.200 Chinese agencies then use modified justifications such as offshore
+or outlying archipelagic baselines, based upon, still, alleged historical
+evidence.201
+On the other hand, China still advocates the eligibility of artificial islands
+upon low tide elevations and submerged features for maritime claims.202
+Thus, China partially complies with the awards, while formally rebuffing the
+legitimacy and validity of the arbitration proceedings.
+China also currently refrains from controversial measures which may
+create further backlashes in the region; First, it is reported that in August 2017
+China abolished prepared regulations for setting straight baselines surrounding
+Award, 437.
+Bing Ling, “China’s Attitude to the International Legal Order in the Xi Era: The Case of
+South China Sea Arbitration,” Sydney Law School Research Paper No. 19/04 (2019): 5.
+196
+Fangyin, “Assertiveness and Self-restraint,” 875.
+197
+Feng Zhang, “Chinese Thinking on the South China Sea and the Future of Regional
+Security” in US-China Competition and the South China Sea Disputes, Huiyun Feng and Kai
+He eds. (London and New York: Routledge, 2018), 48.
+198
+Audrye Wong, “More than Peripheral,” The China Quarterly 235 (2017): 745, which reports
+that the fishery moratorium was meant by the Chinese central government to stem local fishery
+operations reaching sensitive marine areas.
+199
+Fangyin, “Assertiveness and Self-restraint,” 875.
+200
+Ibid.
+201
+National Institute for South China Sea Studies, “A Legal Critique of the Award of the Arbitral
+Tribunal in the Matter of the South China Sea Arbitration,” Asian Yearbook of International
+Law 24 (2018):155.
+202
+United States Department of State, “People’s Republic of China: Maritime Claim in the
+South China Sea,” Limits in the Sea, no.150 (2022).
+194
+195
+
+179
+
+Yoshinori Kodama
+
+seven geographical features in the Spratly Islands which it controls. Second,
+China has stopped short of instituting an air defense identification zone over
+the South China Sea, not following the precedent in the East China Sea which
+took place on 23 November 2013.203
+China’s actions and restraints are not totally consistent, especially in the
+passage of time, though. In 2021, China intensified its fishing boats’ intrusion
+to the sea zones surrounding the Natuna Islands, Indonesia’s territories, with
+the escort of coast guard and naval ships.204
+2. JURISDICTION AND ADMISSIBILITY ISSUES: SEPARATING
+MARITIME ENTITLEMENT FROM TERRITORIAL SOVEREIGNTY
+The Tribunal lifted jurisdictional barriers in its award on jurisdiction
+and admissibility on 29 October 2015, responding to China’s objections
+compiled in its Position Paper formally submitted on 7 December 2014.205
+The objections included, first, the characteristic of the dispute as a territorial
+sovereignty matter which is not covered by the Convention unless except
+for some limited provisions on historic titles and historic bays.206 Second, it
+consists of the exclusion of maritime boundary delimitation as exempted by
+China’s declaration, as a governmental official statement, in 2006.207
+The exclusion of territorial sovereignty disputes is not explicitly
+prescribed under the Convention. However, deriving from the textual lack
+of coverage under the Convention, such disputes are not included in the
+subject-matter of disputes “concerning the interpretation or application of the
+Chang Ching, “Why is there no South China Sea Air Defence Identification Zone?” SCSPI,
+accessed 15 May 2023, http://www.scspi.org/en/dtfx/why-there-no-south-china-sea-airdefense-identification-zone. Mike Yeo, “Analysis: Can China Enforce a South China Sea AirDefence Identification Zone?” USNI News, 18 July 2016, accessed 15 May 2023, https://news.
+usni.org/2016/07/18/analysis-can-china-enforce-south-china-sea-air-defense-identificationzone. Ankit Panda, “Is China Really About to Announce a South China Sea Air Defence
+Identification Zone?” The Diplomat, 1 June 2016, accessed 15 May 2023, https://thediplomat.
+com/2016/06/is-china-really-about-to-announce-a-south-china-sea-air-defense-identificationzone-maybe/. Chisako Masuo, Chugoku no Kodo-Genri [China’s Behavioral Principles]
+(Tokyo: Chuko-Shinsho, 2019), 253.
+204
+“Bakamla: Ribuan Kapal Asing Masuki Laut Natuna [Indonesian Maritime Security Agency,
+Thousands of foreign ships enter Natuna Sea],” CNN Indonesia, 13 September 2021, accessed
+1 May 2023, https://www.cnnindonesia.com/nasional/20210913151110-20-693598/bakamlaribuan-kapal-asing-masuki-laut-natuna.
+205
+Award on Jurisdiction and Admissibility, at 2.
+206
+Position Paper, China (7 December 2014), para.4, accessed 1 May 2023, http://nl.chinaembassy.gov.cn/eng/hldt/201412/t20141216_2655633.htm.
+207
+United Nations, Division for Ocean Affairs and the Law of the Sea, Ocean & Law of the Sea,
+Declarations and statements (New York, updated 2022).
+203
+
+180
+
+Judicialization In and Around the South China Sea
+
+Convention.”208 Article 298(1)(a)(i) excludes explicitly “any unsettled dispute
+concerning sovereignty over…land territory” from compulsory conciliation
+under the Convention.209 Arbitration procedures have higher intrusion to State
+sovereignty by legally-binding awards, thus naturally the exemption shall
+apply to the arbitration.
+On territorial sovereignty, the Tribunal judged China’s claims as historic
+rights over maritime resources, as distinct from historic titles for sovereignty.
+Historic rights as claimed by China concerns maritime claims with exclusivity
+short of sovereignty, limited to sovereign rights and jurisdiction on maritime
+resources, not including the freedom of navigation and overflight.210 This is
+proclaimed by China itself.211
+China claims its sovereignty over islands and their adjacent waters, so
+there might be a possibility that “adjacent waters” include the whole South
+China Sea. Here, China’s claims had not been clear. The Tribunal referred
+to China’s measures and actions, such as the oil excavation bidding in 2012
+as well as the objection to Philippine award for petroleum blocks in 2011,
+beyond 200 nautical miles from any geographical features, and within China’s
+“nine dash lines”.212 These measures proved that China’s claims were beyond
+rights provided under the Convention.
+The Tribunal also pointed out that China’s designation of straight baselines
+around the Paracel Islands and Hainan under the 1996 Law on Territorial
+Waters and Contiguous Zones Act, as evidence for limiting territorial waters
+to 12 nautical miles from these baselines, precluding the South China Seawide territorial and internal water claims.213
+China may have had different positions that, though they own territorial
+maritime claims in the whole sea, they refrained from the exercise of such
+rights, as a policy choice. The Tribunal saw no factual evidence that China
+exercised territorial sovereignty rights over the whole South China Sea in a
+continuous and peaceful manner without protest from other States, based upon
+the established international court and tribunal jurisprudence.214
+The Tribunal denied the legal legitimacy of China’s historical rights
+UNCLOS, art. 288.
+Ibid., art. 298.
+210
+Position Paper, China (7 December 2014), para. 28, accessed 1 May 2023,http://nl.chinaembassy.gov.cn/eng/hldt/201412/t20141216_2655633.htm .
+211
+Award, at 67.
+212
+Ibid., at 86.
+213
+Ibid., at 91.
+214
+Ibid., at 114.
+208
+209
+
+181
+
+Yoshinori Kodama
+
+over maritime resources in the merit award.215 The Tribunal also denied the
+eligibility of geographical features in the South China Sea for EEZs and
+continental shelves under Article 121(3).216 With these substantive judgments,
+it was concluded that the issue of maritime delimitation had disappeared, since
+there are no overlapping maritime zones with the Philippines.217
+The Tribunal followed the established procedural sequence that
+jurisdictional issues can be judged in the merit phase unless the objection
+does not possess an exclusively preliminary character, as prescribed in its
+Rules and Procedure.218 International courts and tribunals do not adopt the
+strict distinction between procedural and substantive matters, following the
+common law legal traditions. This may be unfamiliar for legal experts in the
+region who generally follow the code-based continental legal approach. Under
+this approach, jurisdictional requirements shall be prerequisite for proceeding
+to the merit phase, thus no substantive issue is addressed in the preliminary
+phase.
+China claimed that the subject-matter of the Philippine claims were, as a
+matter of truth, territorial sovereignty and maritime delimitation, thus excluded
+from the Tribunal’s jurisdiction.219 The issue of historic rights over maritime
+resources, as claimed by China, was logically and practically separated by
+territorial sovereignty, since such rights were not claimed on the basis of
+geographical features, but based upon historical evidence. The Tribunal had
+no bearings upon territorial ownerships over geographical features.
+From this viewpoint, the South China Sea arbitration awards can be
+distinguished from the 2015 Chagos Arbitration, in which the territorial
+ownership was exactly the subject-matter of the submission, though it took the
+form of defining “the coastal State” as designator of the maritime protection
+zone.220 The Chagos award proclaimed that, in deciding upon exclusions from
+subject-matters as sovereignty objections, relative weight should be examined
+as to which extent territorial sovereignty is concerned, thus the sovereign
+matter is predominant, not with incidental connection.221 This benchmark is to
+examine whether the territorial sovereignty element is incidental or ancillary
+Ibid., at 112.
+Ibid., at 175.
+217
+Ibid., at 261.
+218
+PCA, South China Sea, Rules and Procedure (2013).
+219
+Position Paper, China (7 December 202014), para.4, accessed 1 May 2023, http://nl.chinaembassy.gov.cn/eng/hldt/201412/t20141216_2655633.htm.
+220
+PCA, Chagos Marine Protected Area, PCA 2011-03, para. 229.
+221
+Ibid., para. 220.
+215
+216
+
+182
+
+Judicialization In and Around the South China Sea
+
+to the dispute or not.222 Such an approach is not exactly the reflection of the
+UNCLOS provisions, where any element which will relate decisions on
+territorial ownership shall be exempted, following the State’s will to reserve
+sovereignty matters from third-party compulsory dispute settlement.
+The denial of China’s claims on historical rights and the eligibility of
+geographical features under Article 121(3) UNCLOS will consequentially
+affect maritime delimitation between China and the Philippines. China has lost
+all legitimacy for maritime claims beyond 12 nautical miles from geographical
+features, thus, as consequence, the Philippines’ EEZ and continental shelf
+persist. Thus, there is no more need for maritime zone delimitation. The award
+affects the exercise of maritime delimitation. This is a consequence, not an
+element for which the jurisdiction by the Tribunal was denied a priori.
+There is an issue that the judgment on low-tide elevations or submerged
+areas may directly concern territorial sovereignty, since designation on lowtide elevations will deny sovereignty completely, thus the State will lose its
+sovereignty.223 The examination of low-tide elevations is a merit issue, and
+albeit a factual issue, a matter subject to the Tribunal’s formal adjudication.
+If the decision about low-tide elevations is excluded from jurisdiction, there
+will be a paradox. If geographic feature X is designated as low-tide elevation
+in the merit phase, the Tribunal will lose jurisdiction, thus the territoriality of
+geographical feature X is not denied and remains intact, though, as a matter
+of fact, it is not eligible. This should be an issue which needs legislative
+treatment, for instance, the court or tribunal may be authorized to refer to an
+enquiry committee, constituted by scientific and technical experts, to examine
+authoritatively the status of geographical feature X from scientific and factual
+basis.224
+On jurisdictional matters, the Tribunal clarified the scope of law
+enforcement exclusions under Article 298 as those related to marine science
+research and fisheries, as provided under Article 297(2) and (3), following
+the 2013 Arctic Sunrise Arbitration award.225 The Tribunal also made it clear
+Natalie Klein, “The Vicissitudes of Dispute Settlement under the Law of the Sea Convention,”
+International Journal of Marine and Coastal Law 32, no. 2 (2017): 332. Alan E. Boyle, “Dispute
+Settlement and the Law of the Sea Convention: Problems of Fragmentation and Jurisdiction,”
+International and Comparative Law Quarterly 46, no. 1 (1997): 37, 44.
+223
+Position Paper, China (7 December 2014), para.23, accessed 1 May 2023, http://nl.chinaembassy.gov.cn/eng/hldt/201412/t20141216_2655633.htm; Stefan Talmon, The South China
+Sea Arbitration: Jurisdiction, Admissibility, Procedure (Brill, 2022), 309.
+224
+UNCLOS, art. 289.
+225
+Award on Jurisdiction and Admissibility, at 131.PCA, Arctic Sunrise, Award on Jurisdiction,
+PCA 2014-02, para.76.
+222
+
+183
+
+Yoshinori Kodama
+
+that the law enforcement exclusions under Article 298 shall apply to the
+coastal State’s enforcement in its EEZ, not to non-coastal State’s enforcement
+activities in the coastal State’s EEZ, as the case of China’s activities within the
+Philippines’ EEZ.226
+On the issue of admissibility, the Tribunal followed the Chagos arbitration
+award that the requirement for prior exchange of views by the parties
+under Article 283 shall not need particular formality for such exchange.227
+The Tribunal denied China’s objection under Article 283 to prioritize other
+agreements as the 2002 China/ASEAN Declaration on the Conduct of Parties
+in the South China Sea, which includes a provision to “undertake to” resolve
+disputes through consultations and negotiations.228 The Tribunal denied the
+legally-binding character of this provision, thus justified the Philippines’
+submission to the arbitration proceedings.229
+3. SUBSTANTIVE ISSUES: HISTORIC RIGHTS AND THE ISLAND
+STATUS
+The Tribunal denied in its merit phase China’s claims based upon historical
+evidence for control and manage natural resources in the South China Sea,
+beyond territorial and internal waters if China’s territorial claims over
+geographical features are sustained.230 China’s historic claims were dismissed
+under the 1982 UNCLOS which has limited provisions on historic titles and
+rights as well as under the established customary international law.231
+Historic claims tend to be abused by the State, with the intention to be
+exonerated from the burden to present detailed facts and evidence. China
+frequently uses State practice, such as discovery, navigational records, map
+description, fishing practice during the Han and Ming Dynasties, before the
+consolidation of sovereignty concept under modern international law.232 The
+use of term “time immemorial” is meant to defy evidence for State actions in
+the modern times presented by contesters.
+
+Award on Jurisdiction and Admissibility, at 145.
+Ibid., at 112. PCA, Chagos, Award, paras. 71, 72, and 75.
+228
+Position Paper, China (7 December 2014), 30, accessed 1 May 2023,http://nl.china-embassy.
+gov.cn/eng/hldt/201412/t20141216_2655633.htm .
+229
+Award on Jurisdiction and Admissibility, at 106.
+230
+Award, at 67. Christopher R. Rossi, “Treaty of Tordesillas Syndrome: Sovereignty ad
+Absurdum and the South China Sea Arbitration,”Cornell International Law Journal 50, no. 2
+(2017): 231. Kopela, “Historic Titles and Historic Rights,” 183.
+231
+Award, at 98.
+232
+Position Paper, China (7 December 2014) para.4, accessed 1 May 2023,http://nl.chinaembassy.gov.cn/eng/hldt/201412/t20141216_2655633.htm.
+226
+227
+
+184
+
+Judicialization In and Around the South China Sea
+
+The Tribunal judged that the 1982 UNCLOS shall supersede the preceding
+norms and practices.233 It also provided that customary international law
+requires the burden of proof upon claimants, demanding continuous and
+peaceful State control without protest from contesting parties.234 This can be a
+deterrence to the abuse of historical claims. China’s early practices of natural
+resource control were considered to be lacking in clarity and specificity, then
+could be categorized as States’ rights and interests on the high seas.235
+There may be an argument that the reference to the established customary
+international law was redundant and not necessary, since the evaluation based
+upon the 1982 UNCLOS was sufficient do deny China’s historic claims.236 The
+Tribunal sustained this, based upon the relevance of customary international
+law evaluation, as well as the need for “completeness” of dispute settlement.237
+Article 288 UNCLOS provides the Tribunal’s jurisdictional coverage as
+disputes “concerning the interpretation or application of the Convention.”238
+The judgment on the compatibility of State actions with customary
+international law, along with UNCLOS provisions, can be categorized as
+disputes concerning the application of the Convention. In handling disputes
+and discrepancies, practitioners refer to and debate on specific UNCLOS
+provisions, as well as how rules on the same subject-matters of UNCLOS
+provisions are treated under customary international law.
+As an issue of substance, the Tribunal clarified the application of the island
+status requirements under Article 121 UNCLOS to geographical features in
+the South China Sea.239 It reiterated and judged the non-eligibility of low-tide
+elevations for territorial and maritime claims under the Convention.240 The
+Tribunal also applied the term, “rocks which cannot sustain human habitation
+or economic independence of their own,” as unqualified for owning EEZs
+and continental shelves under Article 121(3).241 In consequence, the Tribunal
+concluded that all geographical features in the South China Sea are either lowtide elevations or rocks which cannot sustain human habitation or economic
+independence of their own.242
+233
+234
+235
+236
+237
+238
+239
+240
+241
+242
+
+Award, at 97.
+Ibid., at 112.
+Ibid., paras. 270, 271.
+China’s Position Paper, para. 4-.
+Award, para.263.
+UNCLOS, art. 288.
+Award, para 481.
+Ibid., at 119.
+UNCLOS, art.121.
+Award, at 204.
+
+185
+
+Yoshinori Kodama
+
+Article 121 is not clear in its logical structures on text. The Article makes
+it clear to define an island as opposed to low-tide elevations and submerged
+marine areas. It also provides, as logical deduction from the text, that rocks
+are islands’ sub-category, thus some islands are designated as rocks.243 The
+definition and characteristics for rocks are not clear, but presumed that
+rocks are designated by referring to their size, geological characteristics, the
+surrounding environment, functions, as well as relevant human practices.
+The Tribunal did not present the definition of “rocks” in the award.244 It will
+presumably be clarified through the accumulation of cases and legislative
+consultations.
+It is also becoming necessary to clarify the scope of islands which cannot
+sustain human habitation or economic independence of their own, as subjects
+which are increasingly relevant in view of physical degradation due to the sea
+level elevations.245
+The Tribunal judged the status of geographical features which had not
+been included in the Philippines’s submissions, such as Itu Aba and some
+other features in the Spratly Islands, as not qualified for EEZs and continental
+shelves under Article 121(3) UNCLOS.246 The Tribunal used Itu Aba and
+other features as samples for all geographical features in the South China Sea,
+in light of their significance compared to the others.247
+As a matter of judicial procedures and practice, judgment on subject
+matters which were not submitted by the claimant are not an operative part
+of the award, but part of factual and legal reasoning, following Article 10 to
+Annex VII to UNCLOS.248 The Tribunal used the term “conclude” for defining
+the status of Itu Aba and other features, but the correct term should have been
+“consider,” given its non-operative character.249
+
+UNCLOS, art.121.
+Award, para. 481, 482.
+245
+Duncan French, “Case Note: In the Matter of the South China Sea Arbitration: Republic
+of Philippines v People’s Republic of China, Arbitral Tribunal Constituted under Annex VII
+to the 1982 United Nations Law of the Sea Convention, Case No. 2013-19, Award of 12 July
+2016,” Environmental Law Review 19 (2017): 48. Natalie Klein, “Land and Sea: Resolving
+Contested Land and Disappearing Land Disputes under the UN Convention on the Law of
+the Sea,” in Resolving Conflicts of Law: Essays in Honour of Lea Brilmayer, C. Giorgetti and
+Natalie Klein, eds. (Brill, 2019), 14.
+246
+Award, at 237.
+247
+Ibid., para.626.
+248
+Annex VII to UNCLOS, art.10, which provides that “[t]he award of the arbitral tribunal shall
+be confined to the subject-matter of the dispute.”
+249
+Award, para. 622 and 625.
+243
+244
+
+186
+
+Judicialization In and Around the South China Sea
+
+Following these conclusions by the Tribunal on China’s historic rights
+and the island status in the South China Sea, China’s obstruction of Philippine
+fishing activities was judged to have infringed upon the Philippines’ sovereign
+rights in its EEZ (Articles 56, 58(3), and 77 UNCLOS).250 China’s large-scale
+reclamations and artificial island constructions were found to have breached
+China’s obligations to protect and preserve the marine environment (Articles
+192 and 194(5) UNCLOS), as well as not to aggravate and extend the ongoing
+disputes before the Tribunal (Articles 279, 296, and 300, as well as general
+international law).251
+4. IMPLICATIONS FOR DISPUTE SETTLEMENT IN THE REGION
+The South China Sea arbitration made limited but meaningful contribution
+to the progress of dispute settlement relating the South China Sea, by clarifying
+legal rules on both procedures and substance. In particular, the clarification for
+the scope of exceptions regarding sea boundary demarcation enhanced the
+clarity and predictability for the State’s decision upon resort to third-party
+litigation. The Tribunal provided that maritime entitlement can be judged
+independently from territorial sovereignty and maritime demarcation.252
+Thus, for instance, when State A claims EEZs and continental shelves
+or their equivalent by allegedly illegal offshore archipelagic baselines,
+artificially-build geographical features on low-tide elevations or submerged
+marine areas, or any historical basis, these claims can be seized by the court or
+tribunal, regardless of territorial ownership and independently of opposite or
+adjacent States’ EEZ or continental shelf in existence.
+The award on merits of the South China Sea arbitration may facilitate
+policy consultations amongst relevant parties surrounding the South China
+Sea, given the denial of eligibility for EEZs and continental shelves from
+all geographical features in the South China Sea.253 The claimants may well
+engage in maritime delimitation endeavors, based upon EEZs and continental
+shelves measured from their coastal lines in accordance with the Convention.
+This is just occurring. In December 2022, Indonesia and Vietnam agreed
+on the delimitation of their EEZs in accordance with UNCLOS, with no
+considerations on China’s claims.254
+Ibid., at 319.
+Ibid., at 437.
+252
+Ibid., at 85.
+253
+Ibid., at 204.
+254
+Sebastian Strangio, “After 12 Years, Indonesia and Vietnam Agree on EEZ Boundaries,”
+The Diplomat, 23 December 2022, accessed 15 May 2023, https://thediplomat.com/2022/12/
+after-12-years-indonesia-and-vietnam-agree-on-eez-boundaries/.
+250
+251
+
+187
+
+Yoshinori Kodama
+
+There exist territorial ownership disputes, like the state of Sabah in North
+Borneo in Malaysia, claimed by the Philippines. Since the Philippines does
+not claim EEZ from Sabah as baselines, relevant parties may undertake
+consultations on EEZ delimitation, while shelving territorial sovereignty
+issues.
+The Tribunal’s denial of maritime eligibility from all geographical features
+leads to the reservation of a “high sea pocket” at the center of the South China
+Sea, beyond 200 nautical miles from any party’s coastal baselines.255 Relevant
+States and stakeholders shall be allowed to exercise the full-fledged freedom
+of navigation and overflight, as well as laying submarine cable and pipelines.
+Furthermore, natural resource exploitation can be assured, unless extended
+continental shelf claims by coastal States are recognized within the “high sea
+pocket”.
+Finally, on a de facto basis, the award may have some influence upon
+territorial sovereignty disputes over geographical features without prejudging
+final legal settlement. The Tribunal denied the sufficiency of effective control
+by China over maritime areas in the South China Sea in both pre-modern and
+current periods.256 This applies, as a matter of fact, to some land features.
+Territorial ownership disputes shall be settled by the comparison of State
+actions for controlling the given features, as well as any fact of inter-State
+agreements or one party’s recognition or acquiescence.257
+Records of occupation may be evaluated in light of continuous and
+peaceful control without protest from contestants.258 Taiwan’s occupation
+of the Pratas Islands and Itu Aba as well as China’s occupation of Woody
+Islands in the 1940s may be examined, based upon those benchmarks. Other
+recent occupations since the 1950s through the 1970s and 80s to 90s are
+either occupations by use of force without creating territorial titles, or actions
+protested by contestants.259
+Predictably, judicial or arbitral procedures on land territorial disputes
+would become a legal battle for presenting sporadic administrative actions as
+evidence of control, or other claimants’ actions or non-actions which may be
+Storey and Lin, “South China Sea,” 21.
+Award, at 112.
+257
+Supra, II.2 et 3.
+258
+PCA, Palmas.
+259
+The State Council, China, China Adheres to the Position of Settling Trough Negotiation the
+Relevant Disputes Between China and the Philippines in the South China sea (White Paper),
+para.68, which states that “the international community does not recognise effective control
+created through occupation by force,” accessed 1 May 2023, http://english.www.gov.cn/state_
+council/ministries/2016/07/13/content_281475392503075.htm
+255
+256
+
+188
+
+Judicialization In and Around the South China Sea
+
+regarded as recognition or acquiescence.
+Possible legal consequences may be the proclamation of being unjudgeable,
+like the evaluation of some sporadic State actions in the ICJ Pedra Branca
+case.260 This would well lead to political settlement or cooperation schemes
+without prejudice to territorial ownership.
+
+IV.
+
+PRESCRIPTIVE ANALYSIS
+SETTLEMENT IN ASIA
+
+ON
+
+LEGAL
+
+DISPUTE
+
+A. TRENDS FOR LEGAL SETTLEMENT IN AND AROUND THE
+SOUTH CHINA SEA
+As has been seen in the preceding sections, Southeast Asian countries,
+particularly those surrounding the South China Sea have been increasing their
+resort to third party dispute settlement procedures, including litigation and
+compulsory conciliation, since the beginning of this century.
+There are two patterns: one is what may be referred to as a genuine trend
+for the conscious use of legal procedures, either judicial proceedings or
+arbitration by like-minded and similarly-characterized States in the region,
+notably Indonesia, Malaysia, and Singapore261.
+Indonesia and Malaysia instituted by mutual agreement for the 2002 ICJ
+Ligitan and Sipadan Case, then Malaysia and Singapore commenced the
+2008 ICJ Pedra Branca Case. Both treated high-staked issues on territorial
+sovereignty. The 2005 Land Reclamation arbitration under Annex VII to
+UNCLOS between Malaysia and Singapore was also amicably commenced
+with relatively shallow preliminary objections by Singapore.262
+Three States share almost all attributes and backgrounds which are
+considered to be factors favorable for legally-binding third-party dispute
+settlement procedures: common interests as maritime and transit nations,
+based upon trade and investment, with a strong aversion to military solutions,
+with middle –level status situated in the neighborhood.263
+ICJ, Pedra Branca.
+Beth A. Simmons, “Capacity, Commitment, and Compliance, International Institutions and
+Territorial Disputes,” Journal of Conflict Resolution 46 (2002): 829.
+262
+RIAA XXVII, 135.
+263
+John Merrills and Eric De Brabandere, Merrills’ International Dispute Settlement, Seventh
+Edition (Cambridge: Cambridge University Press, 2022), 13. Andrew T. Guzman, “International
+Tribunals: A Rational Choice Analysis,” University of Pennsylvania Law Review 157, no. 1
+(2008): 171. Karen K. Alter, “Do International Courts Enhance Compliance with International
+Law?” Review of Asian and Pacific Studies 25 (2018): 70.
+260
+261
+
+189
+
+Yoshinori Kodama
+
+In the Ligitan and Sipadan case, the Malaysian leader was reportedly not
+totally confident about wining the litigation, preferring a peaceful settlement
+for a sticky issue for the sake of bilateral friendship. Malaysia and Singapore
+were inclined towards administrative management for maritime zones in
+the Land Reclamation case, rather than winning or losing.264 Malaysia lost
+the Pedra Branca case, but its control over domestic backlash proved the
+country’s mature understanding of litigation frameworks: You sometimes win,
+and sometimes lose, but in the long-term you are benefited by the settlement
+of disputes.
+The other category is the use of compulsory institutionalized dispute
+settlement frameworks raised by one party, mostly less-resourced States,
+through unblocking jurisdictional and admissibility barriers against a larger
+powerful contestant.265 These include the 2013 ICJ Preah Vihear interpretation
+case, the 2016 South China Sea arbitration under Annex VII UNCLOS.
+The plaintiff State utilized logics and reasons to allow for litigation
+procedures, sometimes by separating high-staked territorial sovereignty issues,
+and sometime by opening limited windows for jurisdiction under conditions
+and requirements in the procedures. Institutional frameworks, typically
+the 1982 UNCLOS, with a certain level of compulsory dispute settlement
+procedures, have been effectively used by less powerful States.
+Why the State accept compulsory legally-binding procedures in
+institutional setting? In most cases, contracting parties accept third-party
+settlement procedures as a package in its conclusion or participation for the
+framework. This is considered to be a meaningful benefit for the parties.
+In the case of UNCLOS, for instance, contracting parties are granted or
+endorsed to enjoy wider territorial waters, secured international strait passage,
+and standardized EEZs and continental shelves. At the time of ratification,
+States have slim ideas over contentious cases raised by other parties in the
+future. As human behavioral science shows, people tend to value instant
+gratification, rather than future risks.266 China did not imagine, at its ratification
+of UNCLOS in 1996, the litigation instituted by the Philippines over South
+China Sea claims in 2013. Southeast Asian countries are generally deft in
+RIAA XXVII, 135.
+Eric de Brabandere, International Dispute Settlement, From Practice to Legal Discipline
+(Cambridge University Press, 2018). Chisa Ishizuka, “Jurisdiction of the International Court
+of Justice under Compromissory Clauses of Multilateral Treaties,” (Japanese language),
+Hitotsubashi Journal of Law and International Studies 1 (2002): 355, accessed 1 May 2023,
+https://hermes-ir.lib.hit-u.ac.jp/hermes/ir/re/22924/hogaku0110103550.pdf.
+266
+Shane Frederick, George Loewenstein, and Ted O’Donoghue, “Time Discounting and Time
+Preference,” Journal of Economic Literature 40, no.2 (2002): 351.
+264
+265
+
+190
+
+Judicialization In and Around the South China Sea
+
+handling institutionalized dispute settlement frameworks.
+
+B.
+
+FACTORS FOR
+SETTLEMENT
+
+CHOOSING
+
+THIRD-PARTY
+
+DISPUTE
+
+In more general terms, one may consider factors and elements in favour of
+resort to third-party dispute settlement procedures, particularly in the context
+and background of Asia, notably amongst States surrounding the South China
+Sea. The selection for specific dispute settlement methods is an extension
+of the State’s pursuit for its interests, as in the case for any foreign policy
+actions. The State decides policy measures by comparing benefits and costs
+with calculating each element’s probability and risks.
+In academia, there has been a long debate on factors and elements for
+choosing legal dispute settlement, such as the preference for impartial, binding
+authoritative judgement, based upon accurate and well-founded reasonings
+as well as precise evaluation of relevant facts.267 On the other hand, there
+is a list of elements for refraining from adversarial, clear-cut, all-or-nothing,
+non-reviewable solutions, without considering overall historical and political
+contexts, made by uncontrollable discretionary deliberations, based upon
+legal counsel’s debates.268
+With all these relevant elements, the State considers and calculates
+perspectives for winning or losing the case, particularly in the case of zerosum single-cut disputes, like territorial and maritime demarcation disputes.
+The government will be willing to use legally-binding procedures in any way,
+if it considers the probability for winning the case is 100 per cent.
+Guzman, “International Tribunals,” 172. Yuval Shany, “No Longer a Weak Department of
+Power?” European Journal of International Law 20 (2009):1. Laurence R. Helfer and AnneMarie Slaughter, “Why States Create International Tribunals,” California Law Review 93
+(2005): 3. Simon A. Benson, “Fragmentation or Coherence?” International Journal of Law and
+Public Administration 3, no.1 (2020): 79. Carla S. Copeland, “The Use of Arbitration to Settle
+Territorial Disputes,” Fordham Law Review 67 (1999): 3074. Kal Raustiala, “Compliance
+& Effectiveness in International Regulatory Cooperation,” Case Western Reserve Journal of
+International Law 32 (2000): 420. Kenneth W. Abbott, Robert O. Keohane, Andrew Moravcsik,
+et. al., “The Concept of Legalization,” International Organization 54, no.3 (2000): 401.
+268
+Andreas Paulus, “International Adjudication,” in The Philosophy of International Law,
+Samantha Besson and John Tasioulas eds. (Oxford University Press, 2012), 207. Lara M.
+Pair, “Judicial Activism in the ICJ Charter Interpretation,” ILSA Journal of International &
+Comparative Law 8 (2001). Ernest A Young, “Judicial Activism and Conservative Politics,”
+University of Colorado Law Review 73, no.4 (2002): 1139. George W Downs, “Enforcement
+and the Evolution of Cooperation,” Michigan Journal of International Law 19, no.2 (1998): 319.
+Eric A. Posner and Miguel F. P. de Figueiredo “Is the International Court of Justice Biased?”
+Journal of Legal Studies 34, no. 2 (2005): 610. Eric A. Posner and John C. Yoo, “Judicial
+Independence in International Tribunals,” California Law Review 93, no.1 (2005): 3.
+267
+
+191
+
+Yoshinori Kodama
+
+The government seriously contemplates domestic political backlash in the
+case of losing. This is a phenomenon in both democratic and less democratic
+countries. If the government has long educated and promoted, amongst their
+nationals, the inviolability of their alleged territories. It will never take the risk
+of referring to a third-party procedure with any probability of losing.
+If a less democratic State has promoted domestically the sense of
+infallibility and invincibility of its leader, statecraft, or political party,
+uncontrollable independent judicial procedures will be too risky to resort to.
+In the case of democratic countries with semi-regular government changes,
+the defeat of an international judicial case may be overcome by attributing
+responsibilities to the previous administration, as was the case for Indonesia
+in the 2002 Ligitan and Sipadan case.
+The State may also consider, if it loses, backlashes from fellow States
+or the whole international community, as the fear of reputation costs and
+reciprocal non-compliance or retaliation from the contestants or other parties to
+a multilateral framework.269 However, the State will be more worried about its
+existential risks threatened from its domestic audience. Thus, damage control
+and domestic management in the case of defeat will be crucial in the State’s
+decision-making for resort to or accept third-party legal dispute settlement.
+The State may consider overall long-term interests in its decision-making.
+The prolongation of disputes may undermine friendly and stable bilateral
+or regional relations.270 This was the case in Malaysia’s choice of judicial
+settlement in the 2002 Ligitan and Sipadan case as well as the 2008 Pedra
+Branca case. Reputational costs or lost credibility caused by not resorting to
+a well-established dispute settlement procedure may be also relevant to the
+State’s decision.271 However, intangible interests are generally less crucial,
+compared to clear-cut interests at stake in disputes, as territorial ownership
+and resource-endowed maritime zones.
+In sum, the State’s calculation for resorting to third-party dispute settlement
+procedures can be formulated as follows:
+Q=αA-(1-α)B+C
+Q: Preference for third-party dispute settlement.
+Andrew T. Guzman, “The Cost of Credibility,” Journal of Legal Studies 31, no. 2 (2002): 305..
+Helfer and Slaughter, “Why States Create International Tribunals,” 5. Benson, “Fragmentation
+or Coherence,” 80.
+271
+Tom Ginsburg and Richard H McAdams, “Adjudicating in Anarchy,” William & Mary Law
+Review 45, no.4 (2003-2004): 1229.
+269
+270
+
+192
+
+Judicialization In and Around the South China Sea
+
+A: Perceived benefits for winning the case.
+α: perceived probability of winning. (0<α<1)
+B: Perceived costs for losing the case.
+C: Other overall elements for favoring litigation, such as friendly
+bilateral or regional relations.
+Based upon this, zero-sum territorial disputes, for instance, may have a
+large sum of A, quite a large sum of B, and some amount of C. The State’s
+perception on probability of winning will decide a final choice for resort to
+third-party settlement. Malaysia resorted to the ICJ proceedings in the 2008
+Pedra Branca case. Hypothetically, if Malaysia perceived A as 5, B as 10, and
+C as 3, in the scale of 10, Q=5α-10(1-α)+3=15α-7. If Q>0, α should be more
+than 7/15. Malaysia may have considered that it would win the case with the
+probability of 7 amongst 15, then instituted the ICJ proceedings.
+Maritime administrative management cases may have relatively small
+sums of A and B, as well as a large sum of C. Again, hypothetically, in the 2005
+Land Reclamation arbitration between Malaysia and Singapore, Malaysia
+perceived A as 5, B as 2, and C as 5, thus Q=5α-2(1-α)+5 = 7α+3.272 If Q>0, α
+should be more than minus 3/7. Malaysia may have considered that it would
+lose the case with the probability of three out of seven, but resorted to the
+UNCLOS arbitration procedure.
+
+C. FURTHER CLARITY AND CONSISTENCY FOR COURTS AND
+TRIBUNALS
+States tend to hesitate about litigation for a number of reasons. States
+choose legally-binding third-party dispute settlement by consent, so the
+subject-matter of settlement should be within the consent.273 Otherwise, the
+State will be surprised and frightened against future litigation. The State
+also expects that judgement should be well-reasoned and consistent with
+precedents, enabling their rational calculation for resorting to procedures, as
+seen in the preceding section.
+Recent judicial and arbitral cases have been accumulating basically clear
+and predictable decisions, which encourage the trend in the region surrounding
+the South China Sea towards more resort to third-party settlement procedures.
+RIAA XXVII, 135.
+Merrills and De Brabandere, Merrills’ International Dispute Settlement, 13. ICJ, Asylum,
+Judgment, ICJ Reports 1950, 266, at 402; Annex VII to UNCLOS, art.10.
+272
+273
+
+193
+
+Yoshinori Kodama
+
+The more instituted are cases, the more clarified are rules and reasoning. Then,
+the more the States rely upon third-party settlement. This is a virtual circle.
+The 2016 South China Sea arbitration, for instance, provided that maritime
+entitlement may be separately considered from territorial sovereignty, thus
+defined the outer limit of jurisdiction with clarity. The same arbitration clarified
+the status of historical rights under UNCLOS and customary international law,
+as well as the application of Article 121(3) on “rocks which cannot sustain
+human habitation or economic life of their own” to the South China Sea,
+providing clear basis for maritime delimitation amongst relevant parties.
+The Timor Sea Conciliation clarified the requirements for alternative
+proceedings to exclude UNCLOS procedures, providing that other proceedings
+should be supposed to seek proactively for legally-binding settlement.
+With these forward trends, the author considers that international courts
+and tribunals may need more consciousness for consistency and coherence
+in some categories of cases. In territorial and maritime demarcation disputes,
+factual situations should be more coherently categorized, with the order of
+evidential intensity being clearly formulated in each category.
+If there is a treaty between colonial States (or, in some limited cases,
+with independent local States) or contracts with local authorities, defining
+territorial or maritime demarcation, the challenging party should demonstrate
+clear contesting facts in the form of explicit recognition. If there is no treaty,
+but if the one party is judged to own original title, the contestant party should
+prove relevant facts, depending upon the intensity of the original title, in
+most cases, at least acquiescence or tacit recognition. If there is no treaty nor
+original title, it was originally terra nullius or uncertain territorial expanse, so
+the comparison of effectivités will decide the ownership. These categories are
+summarized in Table 3, with graphic illustrations (Table 4).
+In concrete terms, the first category is represented by the ICJ Preah Vihear
+case, where Thailand’s acquiescence of French note verbale attached by a
+map was judged to rebut the existing treaty settlement. The court justified
+this decision by adding other subsequent practice showing control and
+acquiescence, but more explicit recognition of treaty revision on the side of
+Thailand may have been basically required.
+The second category was the 2008 ICJ Pedra Branca case, where the
+original title by Malaysia was rebutted by the 1953 correspondence between
+Singapore and the Johor regional administration, recognizing Singapore’s
+territorial ownership. This was enough evidence, if the 1953 correspondence
+is legitimately interpreted as recognition. This was the ICJ’s judgment. Given
+194
+
+Judicialization In and Around the South China Sea
+
+the relatively lower evidentiary intensity of original titles, facts of acquiescence
+plus the accumulation of effective control without protest, if any, should have
+been sufficient for its rebuttal.
+The third category is typically exemplified by the 2002 Ligitan and Sipadan
+case, where the comparison of effectivités decided the territorial ownership,
+given the uncertainty in the status of the relevant islands.
+As another example which may need further clarification, some judicial
+cases regarding the evidential requirements of effectivité for “small islands”
+need more consistent clarification. The ICJ decided that state control required
+for territorial ownership for “uninhabited small islands” may be weaker than
+those required for non-small islands. The threshold for “small islands” may
+well be more clearly and consistently provided.
+
+V. CONCLUSION
+This article has examined why Southeast Asia has been traditionally
+reticent about the use of international third-party legal dispute settlement
+procedures. It also analyses, why and how, since the outset of this century,
+countries surrounding the South China Sea have shown a steady increase of
+cases resorting to third-party legal procedures.
+As a background, Southeast Asia, particularly sub-regions surrounding
+the South China Sea, is featured by the semi-closed sea at its center, encircled
+by the continental side and the archipelagic maritime areas. The South China
+Sea is connected to the outer seas by narrow outlets as chokepoints, which
+provide special positions and preoccupations to States holding straits and
+transit points, seeking for a stable maritime order.
+Historically, the region had been influenced by diverse culture bases,
+with less consciousness about territorial management. This was gradually
+converted to territorial entities and exclusive maritime zones through
+Western colonialization. This gives special features to territorial and maritime
+demarcation disputes in the region. Contestant parties first pursue the records
+of treaties or contracts as basis for territorial or maritime entitlement by them
+or colonial predecessors. Then, if such contractual bases are non-existent or
+feeble, parties seek factual evidence for original titles by their own, or the
+contestant party’s recognition or acquiescence. If there are no original titles
+nor state manifestation, the parties present factual evidence of state practice
+for effective control without protest, as effectivités comparatives, which are
+judged by the court or tribunal for identifying superior evidence for territorial
+195
+
+Yoshinori Kodama
+
+ownership.
+The Southeast Asia region has been steadily intensifying political platforms
+for cooperation, led by the Association of Southeast Asian Nations (ASEAN).
+This provides a sense of cooperation and personal contacts by Member States’
+officials and stakeholders. This leads to the pursuit for effective third-party
+legal dispute settlement procedures. Stakes in the region are natural resources,
+including oil and gas mining as well as fisheries. These are consistently the
+origin of the need for territorial and maritime dispute settlement.
+Recent cases regarding Southeast Asia can be categorized into two: First,
+judicial or arbitral cases by like-minded and similarly-characterized States in
+the region, namely Indonesia, Malaysia, and Singapore; as well as, second,
+the use of compulsory institutionalized dispute settlement frameworks,
+through unblocking jurisdictional and admissibility barriers by the plaintiff
+parties, in most cases, less resourced States. States choose third-party legal
+procedures by comparing the benefits of winning and the costs of losing with
+perceived probabilities, as well as possible overall benefits like the stability
+and friendship of bilateral relations.
+In order to mitigate States’ hesitancy against legal procedures, the courts and
+tribunals are encouraged to give further well-reasoned consistent judgements
+and awards. For instance, territorial and maritime demarcation disputes
+should be based upon precise correspondence between original entitlements
+and subsequent State actions. When there are treaties or contacts for original
+territorial or maritime entitlements, the contestant party should present explicit
+recognition by the other party for rebutting original entitlements; when there is
+original titles without treaty basis, the contesting party is required to present,
+at least acquiescence with evidence of subsequent State control, depending
+upon the intensity of the original title; When the disputed area was originally
+terra nullius or uncertain territorial expanse around borders, the parties need
+to present evidence for State controls, by which the court or tribunal decides
+territorial ownership with superior State control.
+
+196
+
+Judicialization In and Around the South China Sea
+
+APPENDIX
+
+Figure 1. The South China Sea and Surrounding Seas: Schematic Chart
+
+197
+
+Yoshinori Kodama
+
+Figure 2. The South China Sea and Surrounding Seas: Major Straits as Chokepoints
+
+198
+
+Judicialization In and Around the South China Sea
+
+Figure 3. Patterns of Territorial Disputes and Rebutting Evidence
+
+Figure 4. Graphic Illustrations for Territorial Dispute Patterns
+A: Treaties or contracts as a basis for territorial ownership.
+
+199
+
+Yoshinori Kodama
+
+B: Original titles owned by one party.
+
+C: Terra nullius or uncertain territorial expanse as an initial condition.
+
+200
+
+Judicialization In and Around the South China Sea
+
+BIBLIOGRAPHY
+Journals and Periodicals
+Abbott, Kenneth W., Robert O. Keohane, Andrew Moravcsik, et. al. “The Concept of
+Legalization.” International Organization 54, no.3. (2000): 401-419.
+Ahman, Mohammad Zaki and Amusafir Kelana. “An Inter-State Maritime Territorial
+Conflict, A study on Malaysia’s Conflict Resolution through Peaceful Means.”
+Jurnal Sosisohumaniora 7, no.2 (2005): 93-109.
+Alter, Karen K. “Do International Courts Enhance Compliance with International
+Law?” Review of Asian and Pacific Studies 25, (2018): 51-78.
+Askandar, Kamarulzaman and Cariervin Sukim. “Making Peace over a Disputed
+Territory in Southeast Asia: Lessons from the Batu Puteh/Pedra Branca Case.”
+Journal of Territorial and Maritime Studies 3, no.1 (2016): 65-85.
+Banks, Nigel. “Settling the Maritime Boundaries between Timor-Leste and Australia
+in the Timor Sea.” Journal of World Energy Law and Business 11 (2018): 387409.
+Barnett, Michelle. “Cambodia v Thailand, A Case Study on the Use of Provisional
+Measures to Protect Human Rights in International Border Disputes.” Brooklyn
+Journal of International Law 38 (2012): 269-303.
+Basu, Pratnashree. “The Eastern Corridor and the Law of the Sea.” ORF Occasional
+Papers, November 2020.
+Beckman, Robert. “The UN Convention on the Law of the Sea and the Maritime
+Disputes in the South China Sea.” American Journal of International Law 107,
+no.1 (2013): 142-163.
+Benda, Harry J. “The Structure of Southeast Asian History: Some Preliminary
+Observations.” Journal of Southeast Asian History 3, no. 3. (1962): 106-138.
+Benson, Simon A. “Fragmentation or Coherence? Does International Dispute
+Settlement Achieve Comprehensive Justice?” International Journal of Law and
+Public Administration 3, no.1 (2020): 77-88.
+Boyle, Alan E. “Dispute Settlement and the Law of the Sea Convention: Problems of
+Fragmentation and Jurisdiction.” International and Comparative Law Quarterly
+46, no.1 (1997): 37-54.
+Brown, Christopher. “A Comparative and Critical Assessment of Estoppel in
+International Law.” University of Miami Law Review 50 (1996): 370-412.
+Chesterman, Simon. “Asia’s Ambivalence about International Law and Institutions:
+Past, Present and Future.” European Journal of International Law 27, no.4 (2017):
+945-978.
+Copeland, Carla S. “The Use of Arbitration to Settle Territorial Disputes.” Fordham
+Law Review 67. (1999): 3073-3108.
+D’Amato, Anthony. “Consent, Estoppel, and Reasonableness: Three Challenges to
+Universal International Law.” Virginia Journal of International Law 10, (1969):131.
+Daulay, Zainul. “Sovereignty over Pulau Ligitan and Pulau Sipadan (Indonesia/
+Malaysia).” Law Reform 2, no.1 (2021):119-128.
+De Tréglodé, Benoît. “Maritime Boundary Delimitation and Sino-Vietnamese
+Cooperation in the Gulf of Tonkin (1994-2016).” China Perspectives 3 (2016):
+
+201
+
+Yoshinori Kodama
+
+33-41.
+Dörr, Dieter. “The Background of the Theory of Discovery.” American Indian Law
+Review 38, no.2 (2014): 477-499.
+Downs, George W. “Enforcement and the Evolution of Cooperation.” Michigan
+Journal of International Law 19, no.2 (1998): 319-344.
+Eric A. Posner and Miguel F. P. de Figueiredo “Is the International Court of Justice
+Biased?” Journal of Legal Studies 34, no. 2 (2005): 599-630.
+Fangyin, Zhou. “Between Assertiveness and Self-restraint: Understanding China’s
+South China Sea Policy.” International Affairs 92, no.4 (2016): 869-890.
+Fravel, M Tailor. “China’s Strategy in the South China Sea.” Contemporary Southeast
+Asia 33, no.3 (2011): 292-319.
+Frederick, Shane, George Loewenstein, and Ted O’Donoghue. “Time Discounting
+and Time Preference: A Critical Review.” Journal of Economic Literature 40,
+no.2 (2002): 351-401.
+French, Duncan. “Case Note: In the Matter of the South China Sea Arbitration: Republic
+of Philippines v People’s Republic of China, Arbitral Tribunal Constituted under
+Annex VII to the 1982 United Nations Law of the Sea Convention, Case No.
+2013-19, Award of 12 July 2016.” Environmental Law Review 19 (2017): 48-56.
+Gao, Zhinguo and Jia, Bing Bing. “The Nine-Dash Line in the South China Sea:
+History, Status, and implications.” American Journal of International Law 107,
+no.1 (2013): 98-124.
+Ginsburg, Tom and Richard H. McAdams. “Adjudicating in Anarchy: An Expressive
+Theory of International Dispute Resolution.” William & Mary Law Review 45,
+no.4. (2003-2004):1229-1339.
+Guzman, Andrew T. “The Cost of Credibility,” Journal of Legal Studies 31, no. 2
+(2002): 303-326.
+Guzman. Andrew T. “International Tribunals: A Rational Choice Analysis.” University
+of Pennsylvania Law Review 157, no. 1 (2008): 171-235.
+Helfer, Laurence R. and Anne-Marie Slaughter. “Why States Create International
+Tribunals: A Response to Professors Posner and Yoo.” California Law Review
+93, (2005):899-956.
+Hendrapati, Marcel. “Implication of the ICJ Decision respecting Sipadan Ligitan case
+towards basepoints and maritime delimitation.” International Journal of Sciences:
+Basic and Applied Research 14, no.1 (2014): 374-393.
+Henry, Etienne. “Alleged Acquiescence of the International Community to Revisionist
+Claims of International Customary Law, with Special Reference to the Just Contra
+Bellum Regime.” Melbourne Journal of International Law 18, no.2 (2017): 1-35.
+Hohen, Marcelo. “Original Title in the Light of the ICJ Judgment on Sovereignty over
+Pedera Branca/Pulau Batu Puteh, Middle Rocks and South Ledge.” Journal of the
+History of International Law 15, no.2 (2013): 151-171.
+Huh, Seokyoon. “Title to Territory in the Post-colonial Era Original Title and Terra
+Nullius in the ICJ Judgments on Cases Concerning Ligitan/Sipadan (2002) and
+Pedra Branca (2008).” European Journal of International Law 26, no.3 (2016):
+709-725.
+Ishizuka, Chisa. “Jurisdiction of the International Court of Justice under Compromissory
+Clauses of Multilateral Treaties: Some Relationships between Court Judicial
+
+202
+
+Judicialization In and Around the South China Sea
+
+Policy and Parties’ Judicial Strategies.” (Japanese language) Hitotsubashi Journal
+of Law and International Studies 1, (2002): 355-388. https://hermes-ir.lib.hit-u.
+ac.jp/hermes/ir/re/22924/hogaku0110103550.pdf
+Jenne, Nicole. “Managing Territorial Disputes in Southeast Asia: Is There More Than
+the South China Sea?” Journal of Current Southeast Asia Affair 3 (2017): 35-61.
+Joshi, Manoj. “The South China Sea Disputes.” ORF Occasional Papers, August 2016.
+Kaye, Stuart. “The Timor Gap Treaty: Creative Solutions and International Conflict.”
+Sydney Law Review 16 (1994): 72-96.
+Klein, Natalie. “The Vicissitudes of Dispute Settlement under the Law of the Sea
+Convention,” International Journal of Marine and Coastal Law 32, no. 2 (2017):
+332-363. https://doi.org/10.1163/15718085-12322045.
+Kopela, Sophia. “Historic Titles and Historic Rights in the Law of the Sea in the light
+of the South China Sea Arbitration.” Ocean Development and International Law
+48. (2017): 181-207.
+Koperla, Sophia. “The Legal Value of Silence as State Conduct in the Jurisprudence
+of International Tribunal.” Australian Yearbook of International Law 29. (2011):
+87-134.
+Lesaffer, Randall. “Argument from Roman Law in Current International Law:
+Occupation and Acquisitive Prescription.” European Journal of International Law
+16, no.1 (2005): 25-56.
+Li, Zhenni. “International Intertemporal Law.” California Western International
+Journal 48, no.2 (2018) :342-347.
+Ling, Bing. “China’s Attitude to the International Legal Order in the Xi Era: The Case
+of South China Sea Arbitration.” Sydney Law School Research Paper No. 19/04
+(2019): 1-21.
+Mitchel, Martin D, “The South China Sea, A Geographical Analysis,” Journal of
+Geography and Geology 8, no. 3, (2016):14-25.
+Nakatani, Kazuhiro. “The South China Sea Arbitration Award and the Rule of Law in
+the Seas,” Japan Review 1, no. 2 (2017): 1-5.
+National Institute for South China Sea Studies, “A Legal Critique of the Award of
+the Arbitral Tribunal in the Matter of the South China Sea Arbitration,” Asian
+Yearbook of International Law 24 (2018): 151-293.
+Ovchar, Alexander, “Estoppel in the Jurisprudence of the ICJ, A Principle Promoting
+Stability Threats to Undermine it,” Bond Law Review 21. (2009).
+Pair, Lara M, Judicial Activism in the ICJ Charter Interpretation, ILSA Journal of
+International & Comparative Law 8. (2001): 181-221.
+Posner, Eric A. and John C. Yoo. “Judicial Independence in International Tribunals.”
+California Law Review 93, no.1 (2005): 1-74.
+Ramon, Adrianus Adityo Vito. “Completing the Jigsaw: The Recent Development of
+the Maritime Boundaries in the Timor Sea.” Indonesian Journal of International
+Law 15, no.4 (2018): 481-522.
+Raustiala, Kal. “Compliance & Effectiveness in International Regulatory Cooperation.”
+Case Western Reserve Journal of International Law 32 (2000): 387-440.
+Raymond, Mark and David A. Welch. “What’s Really Going on in the South China
+Sea?” Journal of Current Southeast Asia Affairs 4, no.2 (2022): 214-239.
+Reichner, Paul. “The South China Sea Arbitration and Beyond: China’s Approach to
+
+203
+
+Yoshinori Kodama
+
+the Law of the Sea and the Rule of Law.” Japan Review 3, no. 2 (2019): 4-12.
+Rossi, Christopher R. “Treaty of Tordesillas Syndrome: Sovereignty Ad Absurdum
+and the South China Sea Arbitration.” Cornell International Law Journal 50, no.
+2 (2017): 231-283.
+Shany, Yuval. “No Longer a Weak Department of Power? Reflections on the
+Emergence of a New International Judiciary.” European Journal of International
+Law 20 (2009):73-91.
+Simmons, Beth A. “Capacity, Commitment, and Compliance, International Institutions
+and Territorial Disputes.” Journal of Conflict Resolution 46 (2002): 829-856.
+Sulmasy, Glenn and John Yoo. “Counterintuitive: Intelligence Operations and
+International Law.” Michigan Journal of International Law 28, no.3 (2007): 625638.
+Tamada, Dai. “The Timor Sea Conciliation: The Unique Mechanism of Dispute
+Settlement.” European Journal of International Law 33, no.1 (2020): 321-344.
+Tanaka, Yoshifumi. “Passing of Sovereignty, The Malaysia/Singapore Territorial
+Dispute before the ICJ.” Hague Justice Journal 3, no.2 (2008): 103-344.
+Thayer, Carlyle. “ASEAN, China and the Code of Conduct in the South China Sea.”
+SAIS Review of International Affairs 23, no.2 (2013): 75-84.
+Traviss, Alexandra C. “Temple of Preah Vihear: Lessons on Provisional Measures.”
+Chicago Journal of International Law 13 (2012): 317-344.
+Tseng, Peter. “The Peaceful Non-Settlement of Disputes: Article 4 of CMATS in
+Timor-Leste v Australia.” Melbourne Journal of International Law 18 (2017):
+349-372.
+Watts, Sir Arthur. “Enhancing the Effectiveness of Procedures of International Dispute
+Settlement.” Max Planck Yearbook of United Nations Law 5 (2012):1-39.
+Wong, Audrye. “More than Peripheral.” The China Quarterly 235 (2017): 735-757.
+Young, Ernest A. “Judicial Activism and Conservative Politics.” University of
+Colorado Law Review 73, no.4 (2002):1139-1216.
+Books and Book Chapters
+Beckman, Robert and Leonardo Bernard. “Disputed Area in the south China Sea,
+Prospects for Arbitration or Advisory Opinion.” In The South China Sea, A
+Crucible of Regional Cooperation or Conflict-Making Sovereignty Claims, edited
+by C. J. Jenner and Truong Thuy. New York: Cambridge University Press, 2016.
+De Brabandere, Eric. International Dispute Settlement, From Practice to Legal
+Discipline, Cambridge University Press, 2018.
+International Court of Justice. The International Court of Justice: Handbook. United
+Nations, 2014.
+Klein, Natalie. “Land and Sea: Resolving Contested Land and Disappearing Land
+Disputes under the UN Convention on the Law of the Sea.” In Resolving Conflicts
+of Law: Essays in Honour of Lea Brilmayer, edited by C. Giorgetti and Natalie
+Klein. Brill, 2019.
+Masuo, Chisako, Chugoku no Kodo-Genri [China’s Behavioral Principles]. Tokyo:
+Chuko-Shinsho, 2019.
+Merrills, John, and Eric De Brabandere. Merrills’ International Dispute Settlement,
+
+204
+
+Judicialization In and Around the South China Sea
+
+Seventh Edition. Cambridge: Cambridge University Press, 2022.
+Natalegawa, Marty. Does ASEAN Matter? A View from Within. Singapore: ISEAS,
+2018.
+Natalie Klein, “Land and Sea: Resolving Contested Land and Disappearing Land
+Disputes under the UN Convention on the Law of the Sea,” in Resolving Conflicts
+of Law: Essays in Honour of Lea Brilmayer, C. Giorgetti and Natalie Klein, eds.
+(Brill, 2019),
+Pauker, Guy J., F. H. Golay, and C. H. Enloe. C H, Diversity and Development in
+Southeast Asia. New York: McGraw-Hill, 1977.
+Paulus, Andreas. “International Adjudication.” In The Philosophy of International
+Law, edited by Samantha Besson and John Tasioulas. 207-224. New York: Oxford
+University Press, 2012.
+Pluvier, J. M. Southeast Asia from Colonialism to Independence. New York: Oxford
+University Press, 1974.
+Schofield, Clive. “What’s at Stake in the South China Sea?” In Beyond Territorial
+Disputes in the South China Sea, edited by Robert Beckman, Ian TownsendGault, Clive Schofield, Tara Davenport, and Leonardo Bernard. Cheltenham:
+Edward Elgar, University of Wollongong, 2013.
+Storey, Ian and Lin Cheng-yi, eds. The South China Sea Dispute, Navigating
+Diplomatic and Strategic Tensions, Singapore: Yusof Ishak Institute, 2016.
+Talmon, Stefan. The South China Sea Arbitration: Jurisdiction, Admissibility,
+Procedure. Brill, 2022.
+Tseng, Katherine Hui-Yi. Rethinking South China Sea Disputes, The Untold
+Dimensions and Great Expectations, Oxford: Routledge, 2017.
+Yano, Toru. Japan’s Southeast Asia Policy, In Search of Mutual Trust. Tokyo: Simul
+International, 1978.
+Yiallourides, Constantinos. Disputed Waters and Seabed Resources in Asia and
+Europe, Maritime Disputes and International Law. New York: Routledge, 2019.
+Zhang, Feng. “Chinese Thinking on the South China Sea and the Future of Regional
+Security.” In US-China Competition and the South China Sea Disputes, edited by
+Huiyun Feng and Kai He. London and New York: Routledge, 2018.
+Legal Documents
+Charter of the United Nations. 1 UNTS 15 (entered into force 24 October 1945).
+Statute of the International Court of Justice. 33 UNTS 993 (entered into force 24
+October 1945).
+Agreement Establishing Certain Seabed Boundaries in the Area of Timor and Arafura
+Seas. 974 UNTS 319 (signed 9 October 1972).
+Vienna Convention on the Law of Treaties. 1155 UNTS 331 (entered into force 27
+January 1980).
+Treaty between Australia and the Republic of Indonesia on the Zone of Cooperation in
+an Area between the Indonesian Province of East Timor and Northern Australia.
+29 ILM 475 (signed 11 December 1989, entered into force 9 February 1991).
+United Nations Convention on the Law of the Sea (UNCLOS). 1833 UNTS 397
+(entered into force 14 November 1994).
+
+205
+
+Yoshinori Kodama
+
+Japan-Singapore Economic Partnership Agreement (entered into force 30 November
+2002). Available at <https://www.mofa.go.jp/region/asia-paci/singapore/jsepa.
+html>.
+Timor Sea Treaty between the Government of East Timor and the Government of
+Australia. 2258 UNTS 3 (signed 20 May 2002, entered into force 2 April 2003).
+Treaty between Australia and the Democratic Republic of Timor-Leste on Certain
+Maritime Arrangements in the Timor Sea. 2483 UNTS 359 (signed 12 January
+2006, entered into force 27 June 2006).
+Japan-Cambodia Investment Agreement. (signed 14 June 2007). Available at <http://
+www.cambodianembassy.jp/web2/?page_id=555&lang=en>.
+Charter of the Association of Southeast Asian Nations. 2624 UNTS 223 (entered into
+force 15 December 2008).
+China. The Exclusive Economic Zone and Continental Shelf Act (1998).
+China. Note Verbales submitted in the proceedings of continental shelf extension
+in the UN Commission on the Limits of the Continental Shelf, UN Document
+CML/2/2009(9 February 2009), CML/17/2009 (New York, 7 May 2009),
+CML/18/2009 (New York, 7 May 2009), CML/8/2011 (New York, 14 April 2011).
+Indonesia. Note Verbale No.480/POL-703/VII/10 (8 July 2010).
+Regional Comprehensive Economic Partnership. (signed 15 November 2021).
+Available at https://rcepsec.org/legal-text.
+Agreement between the Government of the Republic of Indonesia and the Government
+of the Commonwealth of Australia establishing Certain Seabed Boundaries.
+(signed 18 May 1971), Available at <https://www.ecolex.org/details/treaty/
+agreement-between-the-government-of-the-commonwealth-of-australia-andthe-government-of-the-republic-of-indonesia-establishing-certain-seabed-boundaries-tre-152886/.>
+Island of Palmas (1928), 2 RIAA 829.
+Legal Status of Eastern Greenland (1933), PCIJ Ser.A/B no. 53.
+Colombian-Peruvian asylum (1950), ICJ Reports 1950.
+Minquieres et des Ecrehos (1953), ICJ Report 1953.
+Temple of Preah Vihear, Merits, between Cambodia and Thailand (1962), ICJ Report
+1961.
+West Sahara, Advisory Opinion (1975), ICJ Report 1975.
+Gulf of Maine Case, ICJ Reports 1984.
+Burkina Faso/Mali Frontier Dispute Judgment (1986), ICJ Report 1986.
+Southern Bluefin Tuna cases (1999), ITLOS (1999)280, 23 RIAA 1.
+Maritime Delimitation and Territorial Question between Qatar and Bahrain (2001),
+ICJ Report 2001.
+Sovereignty over Pulay Ligitan and Pulay Sipadan (2002), ICJ Reports 2002.
+Land Reclamation by Singapore in and around the Straits of Johor (2005), RIAA
+XXVII.
+Sovereignty over Pedra Branca/Pulau Batu Pujtech, Middle Rocks and South Ledge
+(2008), ICJ Reports 2008.
+Delimitation of the Maritime Boundary between Bangladesh and Myanmar in the Bay
+of Bengal (2012), ITLOS, Case no. 16.
+
+206
+
+Judicialization In and Around the South China Sea
+
+Request for Interpretation of the Judgment of 15 June 1962 in the Case concerning the
+Temple of Preah Vihear (2013), ICJ Reports 2013.
+Whaling in the Antarctic case (2014), ICJ Reports, 2014.
+Seizure and Detention of Certain Documents and Data, Provisional Measures, Order
+(2014), ICJ Reports 2014.
+Railway Land (2014), PCA 2012-01.
+Arctic Sunrise Arbitration (2014), PCA 2014-02.
+Chagos Marine Protected Area Arbitration (2015), PCA 2011-03.
+South China Sea Arbitration (2016), PCA 2016-1.
+Application for Revision of the Judgment of 23 May 2008 in the Case concerning
+Sovereignty over Pedra Branca/Pulau Batu Puteh, Middle Rocks and South
+Ledge, ICJ, filed in the Registry of the Court (2 February 2017).
+Timor Sea Conciliation (2018), PCA 2016-10.
+Web Sources
+Ching, Chang. “Why is there no South China Sea Air Defence Identification Zone?”
+SCSPI, accessed 15 May 2023, http://www.scspi.org/en/dtfx/why-there-nosouth-china-sea-air-defense-identification-zone.
+CNN Indonesia. “Bakamla: Ribuan Kapal Asing Masuki Laut Natuna [Indonesian
+Maritime Security Agency, Thousands of foreign ships enter Natuna Sea].”
+13 September 2021. Accessed 1 May 2023, https://www.cnnindonesia.com/
+nasional/20210913151110-20-693598/bakamla-ribuan-kapal-asing-masuki-lautnatuna.
+Davenport, Tara. “Compulsory Conciliation under UNCLOS: Prospects for Future
+Use, Centre for International Law.” University of Singapore. Accessed 6
+October 2022, https://cil.nus.edu.sg/wp-content/uploads/2020/03/CompulsoryConciliation-under-UNCLOS-Prospects-for-Future-Use-Dr-Tara-Davenport.pdf.
+Gnanasagaran, Angaindrankumar. “Pedra Branca Dispute Reveals Disconnect between
+Malaysia and Singapore.” The ASEAN Post, 12 January 2021. Aaccessed 15 May
+2023, https://theaseanpost.com/article/pedra-branca-dispute-reveals-disconnectbetween-malaysia-and-singapore.
+International Court of Justice. “List of All Cases.” Accessed 31 March 2021, https://
+www.icj-cij.org/en/list-of-all-cases.
+Ministry of Commerce, People’s Republic of China, Spokesman’s Remarks (16
+November 2020). Accessed 31 March 2021, http://english.mofcom.gov.cn/
+article/newsrelease/policyreleasing/202011/20201103017259.shtml.
+Panda, Ankit. “Is China Really About to Announce a South China Sea Air Defence
+Identification Zone?” The Diplomat, 1 June 2016. Accessed 15 May 2023, https://
+thediplomat.com/2016/06/is-china-really-about-to-announce-a-south-china-seaair-defense-identification-zone-maybe/.
+Strangio, Sebastian. “After 12 Years, Indonesia and Vietnam Agree on EEZBoundaries,”
+The Diplomat, 23 December 2022, accessed 15 May 2023, https://thediplomat.
+com/2022/12/after-12-years-indonesia-and-vietnam-agree-on-eez-boundaries/.
+The Straits Times. “Malaysia accepts Ruling on Pedra Branca, says Mahathir.” 25 June
+2019. Accessed 15 May 2023, https://www.straitstimes.com/politics/malaysia-
+
+207
+
+Yoshinori Kodama
+
+accepts-ruling-on-pedra-branca-says-pm-mahathir.
+UN News. “Security Council urges permanent ceasefire after recent Thai-Cambodia
+clashes.” 14 February 2011. Accessed 15 May 2023, https://news.un.org/en/
+story/2011/02/366652.
+United States Energy Information Administration. “The South China Sea is an
+important world energy trade route, Major Crude Oil Trade Flows in the South
+China Sea (2011).” Today in Energy, 4 April 2013. Accessed 15 May 2023, https://
+www.eia.gov/todayinenergy/detail.php?id=10671#:~:text=Almost%20a%20
+third%20of%20global,Gulf%20suppliers%20and%20Asian%20consumers.
+Yeo, Mike. “Analysis: Can China Enforce a South China Sea Air-Defence
+Identification Zone?” USNI News, 18 July 2016. Accessed 15 May 2023, https://
+news.usni.org/2016/07/18/analysis-can-china-enforce-south-china-sea-airdefense-identification-zone.
+Other Sources
+ASEAN Secretariat, ASEAN welcomes Cambodia-Thai firm commitment to avoid
+further clashes, Jakarta (22 February 2011).
+Beckman, Robert C. and Tara Davenport. “CLCS submissions and claims in the South
+China Sea.” Paper, The Second International Workshop The South China Sea:
+Cooperation for Regional Security and Development, Vietnam 2010.
+Chong Ja Ian, “ASEAN’s Non-Intervention and the Myanmar Conundrum,” ASEAN
+Focus, Jakarta, (2021).
+Dolven, Ben, Mark E. Manyin, Shirley A. Kan. “Maritime Territorial Disputes in East
+Asia.” Congressional Research Paper, 2014.
+Gonzales, Robin. “The Spratly Islands Dispute.” Thesis, University of Nevada, 2014.
+Hayton, Bill. “How to Solve the South China Sea Disputes.” ISEAS 25. Singapore:
+Yusof Ishak Institute (2022).
+Heine-Geldern, R, “Conception of State and Kingship in Southeast Asia,” Data Paper
+18, Cornell University (1956).
+Joint Press Statement; Eight Meeting of the Malaysia-Singapore Joint Technical
+Committee on the Implementation of the International Court of Justice Judgment
+on Pedra Branca, Middle Rocks and South Ledge (22 January 2020).
+Koh, Tommy, Lecture on International Law, Southeast Asia Lecture Hall, Foreign
+Policy Community of Indonesia, Jakarta, 8 August 2022 (online lecture).
+Ministry of Foreign Affairs, Singapore, Transcript of Press Conference by Foreign
+Minister Prof S Jayakumar and Mah Bow Tan (9 October 2003).
+Morales, Neil Jerome, “Philippines turns up heat on China over boats massing in
+South China Sea,” The Jakarta Post (6 April 2021).
+Position Paper of the Government of the People’s Republic of China on the Matter of
+Jurisdiction in the South China Sea Arbitration initiated by the Republic of the
+Philippines (7 December 2014).
+Position Paper of the Government of the People’s Republic of China on the Matter of
+Jurisdiction in the South China Sea Arbitration initiated by the Republic of the
+Philippines (7 December 2014).
+Singapore Government Agency, Joint Press Statement on the 5th Malaysia-Singapore
+Joint Technical Committee Meeting on the Implementation of the ICJ Judgment
+
+208
+
+Judicialization In and Around the South China Sea
+
+on Pedra Branca, Middle Rocks and South Ledge, 29-30 November 2010 (2
+December 2010).
+Statement of the Ministry of Foreign Affairs of the People’s Republic of China on the
+Award of 12 July 2016 of the Arbitral Tribunal in the South China Sea Arbitration
+established at the Request of the Republic of the Philippines (12 July 2016).
+
+209
+
+Yoshinori Kodama
+
+210
+
+

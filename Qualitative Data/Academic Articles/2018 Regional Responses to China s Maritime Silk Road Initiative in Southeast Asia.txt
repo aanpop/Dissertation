@@ -1,0 +1,2252 @@
+Journal of Contemporary China
+
+ISSN: 1067-0564 (Print) 1469-9400 (Online) Journal homepage: www.tandfonline.com/journals/cjcc20
+
+Regional Responses to China’s Maritime Silk Road
+Initiative in Southeast Asia
+Shaofeng Chen
+To cite this article: Shaofeng Chen (2018) Regional Responses to China’s Maritime Silk
+Road Initiative in Southeast Asia, Journal of Contemporary China, 27:111, 344-361, DOI:
+10.1080/10670564.2018.1410960
+To link to this article: https://doi.org/10.1080/10670564.2018.1410960
+
+Published online: 19 Dec 2017.
+
+Submit your article to this journal
+
+Article views: 4699
+
+View related articles
+
+View Crossmark data
+
+Citing articles: 5 View citing articles
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=cjcc20
+
+Journal of Contemporary China, 2018
+VOL. 27, NO. 111, 344–361
+https://doi.org/10.1080/10670564.2018.1410960
+
+Regional Responses to China’s Maritime Silk Road Initiative in
+Southeast Asia
+Shaofeng Chen
+Peking University, China
+
+ABSTRACT
+
+Southeast Asia has sat atop China’s Maritime Silk Road Initiative (MSRI). By
+and large, most Southeast Asian countries hailed China’s MSRI, but their
+responses to it have some variances. The article aims to analyze why they
+have differing responses. It contends that the primary determinant is
+changing domestic politics, specifically, ruling elites’ policy priority, degree
+of trust of China, leaders’ ideology and preference, and social response.
+While rejecting the impact of trade imbalance and outward foreign direct
+investment (FDI) from China, the influence of the South China Sea dispute
+and America’s Asia policy have been partially verified.
+
+Introduction
+The Belt and Road Initiative (BRI), which is composed of the land-based ‘New Silk Road Economic Belt’
+and the oceangoing ‘21st Century Maritime Silk Road Initiative’ (MSRI), has become China’s overarching
+development plan and foreign strategy. Since its debut it has riveted world-wide attention. A host of
+works focus on China’s motivations,1 challenges,2 impact on some country or region,3 and so forth.
+Whether the BRI can succeed or not, however, is contingent not only on China’s own capacity, but also
+on other countries’ responses. As President Xi Jinping underscores, ‘The programs of development (BRI)
+will be open and inclusive, not exclusive. They will not be a solo for China but a real chorus comprising
+all countries along the routes’.4
+As China’s contiguous neighbors with close economic ties, Southeast Asian (SEA) countries not
+only pertain to China’s national and economic security, but also act as an important testing ground
+for the MSRI and a bridge to other regions, thus crucial to China’s MSRI. Although some studies have
+
+CONTACT Shaofeng Chen
+shaofeng@pku.edu.cn
+1
+See, for example, Jean-Marc F. Blanchard and Colin Flint, ‘The geopolitics of China’s Maritime Silk Road Initiative’, Geopolitics
+22(2), (2017), pp. 223–245; Hong Yu, ‘Motivation behind China’s “One Belt, One Road” initiatives and establishment of the Asian
+Infrastructure Investment Bank’, Journal of Contemporary China 26(105), (2017), pp. 353–368; Simeon Djankov and Sean Miner,
+eds, China’s Belt and Road Initiative Motives, Scope, and Challenges, PIIE (Peterson Institute for International Economics) Briefing
+16(2), (2016).
+2
+See, for example, Jean-Marc F. Blanchard, ‘Probing China’s twenty-first-century Maritime Silk Road Initiative (MSRI): an examination
+of MSRI narratives’, Geopolitics 22(2), (2017), pp. 246–268.
+3
+See, for example, Shuaihua Wallace Cheng, ‘China’s New Silk Road: implications for the US’, Yale Global, (28 May 2015), available at:
+http://yaleglobal.yale.edu/content/chinas-new-silk-road-implications-us (accessed 31 October 2017); Enright, Scott & Associates
+Limited, Prepared for Tekes, One Belt One Road: Insights for Finland, Team Finland Future Watch Report (January 2016), available
+at: https://www.tekes.fi/globalassets/julkaisut/future_watch_report_one_belt_one_road__insights_for_finland.pdf (accessed 31
+October 2017).
+4
+‘China unveils action plan on Belt and Road Initiative’, Xinhua (28 March 2015), available at: http://news.xinhuanet.com/english/2015-03/28/c_134105372.htm (accessed 31 October 2017).
+© 2017 Informa UK Limited, trading as Taylor & Francis Group
+
+JOURNAL OF CONTEMPORARY CHINA
+
+345
+
+delved into its implications on SEA,5 insufficient analysis has been done on SEA countries’ responses
+to the MSRI. This article thus aims to address how SEA countries respond to China’s MSRI and why they
+support it with varying degrees.
+In the next section, the author elaborates on the research framework, followed by measurement
+of SEA countries’ support for China’s MSRI. The fourth and fifth sections analyze the influence of some
+variables, particularly domestic politics, on SEA countries’ support for the MSRI. Finally, the conclusion
+discusses the implications of the findings.
+
+Explaining Different Responses From SEA Countries: a Research Framework
+Why have SEA countries responded differently? Understandably, their response falls within the purview
+of overall bilateral relations with China. This article poses the following hypotheses:
+Hypothesis 1: Countries enjoying trade surplus with China are more willing to embrace China’s MSRI; conversely,
+countries having trade deficits are less willing.
+
+‘Mercantilism never really went away.’6 Central to mercantilism is the view that the best avenue for
+countries to become prosperous is to maximize exports while reducing imports. In effect, many countries prefer trade surplus while being averse to trade deficits, which more often than not sows a seed
+of frictions between countries. This article thus puts forth the above hypothesis.
+Hypothesis 2: Countries having more FDI inflows from China are more supportive of the MSRI; conversely, countries
+having less are less supportive.
+
+FDI inflows have brought capital, technology and know-how, which are crucial to economic development. Studies have found that FDI has a considerable positive effect on host country economic growth
+thanks to technology spillovers and/or capital buildup.7 As the MSRI involves massive FDI flows, most
+SEA countries should have a strong interest to join. This article thus hypothesizes that countries receiving
+more FDI inflows from China are more supportive considering that they have already hit a sweet spot.
+Hypothesis 3: Countries having no territorial disputes with China are more supportive for China’s MSRI; conversely,
+countries having territorial disputes are less supportive.
+
+The territorial dispute over the South China Sea (SCS) has soured China’s relations with SEA claimant
+states. It has not only heightened the risk of conflict, but has also eroded trust among them. Hence,
+claimant states including Vietnam, the Philippines, Brunei, Malaysia and Indonesia, are liable to suspecting China’s strategic intent behind the MSRI.
+Hypothesis 4: The US policy towards the SEA is another variable that has a strong impact on SEA countries’ responses.
+When Washington actively engages in Asia, SEA countries are in a better position in dealing with China; but when the
+US remains aloof from Asia, they may face more difficulties turning down Chinese offers.
+Hypothesis 5: Changing domestic politics lead to changing a country’s attitude towards the MSRI.
+
+There are many different categories of domestic politics used to analyze how a country behaves in the
+international sphere, such as two-level games, state strength, bureaucratic politics, domestic coalition,
+
+See, for example, David Arase, ‘China’s two Silk Roads Initiative: what it means for Southeast Asia’, Southeast Asian Affairs 2015, (2015),
+pp. 25–45; Hong Yu, ‘China’s Belt and Road Initiative and its implications for Southeast Asia’, Asia Policy no. 24, (2017), pp. 117–122.
+Dani Rodrik, ‘In truth, mercantilism never really went away’, The National, (11 January 2013), available at: https://www.thenational.
+ae/business/in-truth-mercantilism-never-really-went-away-1.281703 (accessed 31 October 2017).
+7
+V. N. Balasubramanyam, M. Salisu and David Sapsford, ‘Foreign direct investment and growth in EP and IS countries’, The Economic
+Journal 106(434), (1996), pp. 92–105; E. Borenszteina, J. De Gregoriob and J-W. Lee, ‘How does foreign direct investment affect
+economic growth?’, Journal of International Economics 45(1), (1998), pp. 115–135.
+5
+
+6
+
+346
+
+S. CHEN
+
+etc. This article will explain why SEA countries have differing responses, primarily from three domestic
+politics factors: regime type, elite legitimation and influence of public opinion.
+Hypothesis 5a: More undemocratic countries tend to be more supportive than democratic ones.
+
+As an authoritarian regime, China’s MSRI should be more easily accepted by undemocratic countries,
+where the leaders have the final say. In contrast, more democratic countries will be less supportive as
+the governments face greater opposition.
+Hypothesis 5b: Ruling elites in countries prioritizing wealth creation are more supportive relative to those in countries
+prioritizing security enhancement.
+
+According to Kuik Cheng-Chwee, a small state’s response to a rising power is largely motivated by
+‘an internal process of regime legitimation in which the ruling elite evaluate—and then utilize—the
+opportunities and challenges of the rising power for their ultimate goal of consolidating their authority
+to govern at home’.8 Akin to the theory of omnibalancing,9 elite legitimation is built on the premise
+that the top priority for leaders of developing countries is to try to stay in power. To that end, both
+theories believe leaders of developing countries need to take account of both external threat and
+internal challenge.
+The impact of a rising power on a small state often encompasses two aspects: one is the prospect
+of wealth creation. Often associated with a rising power is its burgeoning economy, from which the
+small state is very likely to reap benefits through expanding exports and outward FDI. The other aspect
+is security ramifications. Growing economic prowess often will prompt the rising power to build up
+the military. Consequently, the small state is concerned about whether the rising power may break
+regional order and pose a security threat to it, particularly those recalcitrant neighbors having interest
+conflicts. In the face of a rising power, leaders of small states have to calculate its implications for their
+regime legitimation.
+The diversified political systems in SEA countries imply that their legitimacy may derive from different sources, but whatever system they are, it is the government’s basic obligations to improve people’s
+lives and safeguard national sovereignty. The two goals, however, are sometimes incompatible, or pursuing one may be detrimental to the other in the long run. Hence, in instances when the ruling elites
+prioritize wealth growth, they are more willing to support China’s MSRI, but if they prioritize security
+enhancement, they will be more reluctant.
+Hypothesis 5c: Countries with a higher degree of trust in China are more supportive of China’s MSRI; conversely,
+countries with a low degree of trust are more indifferent.
+
+Trust is considered an immediate antecedent of cooperation,10 whereas lack of trust constitutes a roadblock to both domestic and international cooperation.11 The diversified political systems imply that the
+space for public participation on policy responses to the MSRI varies in different countries. Democratic
+institutions, in general, allow for more public participation in the policy process relative to autocratic
+institutions, but even in the latter, strong opposition from the public may still hold back the government’s involvement in the MSRI.
+
+Kuik Cheng-Chwee, ‘The essence of hedging: Malaysia and Singapore’s response to a rising China’, Contemporary Southeast Asia
+30(2), (2008), pp. 159–185.
+9
+Omnibalancing is a theory aiming to account for why leaders of developing countries have particular alignment behaviors. See,
+Steven David, ‘Explaining Third World alignment’, World Politics 43(2), (1991), pp. 233–256.
+10
+K. G. Smith, S. J. Carroll and S. J. Ashford, ‘Intra- and interorganizational cooperation: toward a research agenda’, The Academy of
+Management Journal 38(1), (1995), pp. 7–23; C. Obodia, ‘Cross-border interfirm cooperation: the influence of the performance
+context’, International Marketing Review 25(6), (2008), pp. 634–650.
+11
+L. Danik and M. Lewandowska, ‘Motives and barriers in the field of cooperation between companies’, Journal of Economics &
+Management 14, (2013), pp. 21–34.
+8
+
+JOURNAL OF CONTEMPORARY CHINA
+
+347
+
+Different behavior patterns may arise hinging upon their different calculations on the pros and
+cons of the MSRI for consolidating their ruling status. International relations theorists posit that small
+states tend to balance against big powers or bandwagon when handling relations with big powers.12
+There are different balancing strategies. One includes hard balancing, denoting that a small state tries
+to enhance military capabilities or build alliances in order to countervail a big power. The other is
+soft balancing, meaning that small states seek to ‘develop diplomatic coalitions or ententes with one
+another’ to balance a big power.13 Bandwagoning is a strategy wherein a small state chooses to expand
+its economic gains by aligning itself with the big power, or makes concession to it so as to stay safe
+from being attacked.14 In reality, some small states try taking a middle line by walking between the lines
+of great powers’ rivalries so as to gain benefits from both sides, which is called hedging. Van Jackson
+defines hedging as a strategy of ‘pursuing opposing or contradictory actions as a means of minimizing
+or mitigating downside risks associated with one or the other action’.15 It is utilized to cope with uncertainties stemming from big powers’ unpredictable behaviors. Unlike bandwagoning, which contains
+no defiant component, hedging normally carries deferential and defiant elements.
+
+Measurement of SEA Countries’ Responses to China’s MSRI
+Most SEA countries long for greater financial support from China to help them develop infrastructure,
+while Singapore is keen on schemes which contribute to trade and investment liberalization. Meanwhile,
+as they hold different concerns about the MSRI, their support varies to different extents.
+The author draws on two types of indicators to gauge the degree of SEA countries’ support for the
+MSRI and assign them different values. These indicators are applied to measure their support since 2013
+when the MSRI was unveiled. The first indicators are on gesture. As they are nominal and less important,
+the value being assigned will be smaller than indicators on actions. First, if the top power-holder of a
+country voiced support for the MSRI, the country is assigned a 1; if not, it is given a 0. Second, if the top
+power-holder attended the 2017 BRI Summit in Beijing, the country is assigned a 1; if not, it is given a
+0. Third, if a country joined to issue the Joint Declaration on Lancang–Mekong cooperation (LMC) in
+production capacity, it is assigned a 1; if not, it is given a 0.
+The other types of indicators are on action. These indicators are much more important in that they
+are the concrete results of the BRI. First, if a country has signed an intergovernmental cooperation
+document linking China’s MSRI to its development program, it is assigned a 3; if a country expressed
+such an intent either in any leadership meeting or joint statement, it gets a 1; if none of the above are
+true, it gets a 0. Thus far, Cambodia and Laos have signed bilateral cooperation plans to jointly build
+the Belt and Road, while Malaysia, Myanmar and Singapore have inked memoranda of understanding
+(MoU) on Belt and Road cooperation with China.16 Except for the Philippines, other Southeast Asian
+countries have expressed their willingness to integrate their development plans with China’s MSRI.
+Second, if a country allows China to help set up any industrial park or special economic zone in
+its territory or it helps China in this regard, the country receives a 3; if not, it gets a 0. So far China has
+built the Saysettha Development Zone in Laos, and industrial parks in Cambodia, Indonesia, Malaysia,
+Vietnam and Thailand. Both sides have agreed to build an industrial park in the Philippines while the
+Brunei–Guangxi Economic Corridor is under construction. Singapore has helped China to build the
+Suzhou Industrial Park, Tianjin Eco-city and Chongqing Connectivity Initiative.17
+Kenneth Waltz, Theory of International Politics (Reading, MA: Addison-Wesley, 1979).
+T. V. Paul, ‘Soft balancing in the age of US primacy’, International Security 30(1), (2005), pp. 46–71.
+14
+Randall L. Schweller, ‘Bandwagoning for profit: bringing the revisionist state back in’, International Security 19(1), (1994), pp.
+72–107; Stephen M. Walt, The Origins of Alliance (New York: Cornell University Press, 1990).
+15
+Van Jackson, ‘Power, trust, and network complexity: three logics of hedging in Asian security’, International Relations of the
+Asia–Pacific 14(3), (2014), p. 333.
+16
+China’s Ministry of Foreign Affairs, ‘Full text: list of deliverables of the Belt and Road Forum for International Cooperation’, (16 May
+2017), available at: http://www.fmprc.gov.cn/web/zyxw/t1461873.shtml (accessed 31 October 2017).
+17
+Chong Koh Ping, ‘Singapore, China ink pacts on Suzhou Industrial Park, Tianjin Eco-city and other bilateral projects’, The Straits
+Times, (27 February 2017), available at: www.straitstimes.com/asia/east-asia/singapore-china-ink-pacts-on-suzhou-industrial-parktianjin-eco-city-and-other (accessed 20 July 2017).
+12
+13
+
+348
+
+S. CHEN
+
+Third, another important indicator showing a country’s support for the MSRI is the number of significant projects under construction or being completed as scheduled in a SEA country. Beijing has
+considered these projects as evidence of considerable progress of the BRI. Each project will be given
+a 3. The list of such projects is in light of official recognition by the Chinese government, including the
+China–Laos Railway, China–Myanmar Railway, China–Myanmar Oil & Gas Pipelines, China–Malaysia
+Kuantan Industrial Park, Jakarta–Bandung High-speed Rail, China–Thailand Railway, Railway in Southern
+Malaysia, Malaysia’s East Coast Rail Line and the Cambodian Sihanoukville Special Economic Zone.18
+Fourth, correspondingly, if any of the above-mentioned significant projects have been postponed,
+the country receives –3 in view of the fact that it remains skeptical about Chinese projects; if not, it
+gets a 0. The China–Thailand Railway, China–Myanmar Railway and Jakarta–Bandung High-speed Rail
+have all been postponed.
+Fifth, a country that has signed the BRI Financing Guidance Principle receives a 1;19 if not, it is given a 0.
+Sixth, a country being a founding member of the Asian Infrastructure Investment Bank (AIIB) is
+assigned a 3; if not, it is given a 0.
+Seventh, a foreign direct investment (FDI) score will be calculated to gauge SEA countries’ support.
+Developing countries in general embrace FDI as it is a major catalyst to development.20 However,
+as FDI may cause potential drawbacks for host economies, restrictive measures remain in many SEA
+countries.21 Hence, the FDI flows to some extent can reflect SEA countries’ support for the MSRI. The
+FDI score is a composite indicator, composed of the ranking of Chinese total FDI during 2013–2015
+and the percentage of Chinese FDI in the recipient country’s total FDI during 2013–2015. If China sits
+atop in the host country’s FDI, it receives a 3; if China is the second largest investor, it gets a 2; if China
+is the third largest, it gets a 1; but if China is not in the top three, it is given a 0. If the percentage of
+China’s FDI is more than 30% of the total FDI of the host country, it is assigned a 3; if the percentage
+ranges between 15% and 30%, it receives a 2; if it is between 5% and 15%, it gets a 1; if the percentage
+is lower than 5%, it is given a 0. The FDI score is the total of the above two parts (see Table 1). Since the
+data since 2016 are missing, the author only can conjecture the FDI scores in the Philippines after Duert
+and in Vietnam after the 12th Party Congress. Both have been assigned 1 and 4, respectively, based
+on 0 under Aquino and 2 before the Congress in Vietnam, in view of the fact that China’s FDI into the
+Philippines and Vietnam increased 47% and 113% in 2016, respectively.
+Therefore, the higher the score a country receives, the more supportive it is of the MSRI.22 Based on
+their scores (see Table 2), the SEA countries can be categorized into three tiers. As shown in Table 3, with
+a total value larger than 20, Tier 1 countries including Cambodia, Laos and Malaysia are most supportive
+of China’s MSRI, whereas Tier 3 countries, including Vietnam before the 12th Party Congress and the
+Philippines under Aquino III, were the least supportive. Other than Vietnam after the 12th Party Congress
+and the Philippines under Duterte, Thailand, Brunei, Indonesia, Myanmar and Singapore are grouped
+as Tier 2 countries conditionally supporting the MSRI with strong reservations.
+
+18
+
+The list of these significant projects can be found at: Zhongguo Yi Dai Yi Lu Wang [Belt and Road Portal), ‘“Yi Dai Yi Lu” guoji hezuo
+zhongda gongcheng xiangmu pandian’ [‘An inventory of the significant international projects of the “Belt and Road Initiative”’],
+(4 February 2017), available at: https://www.yidaiyilu.gov.cn/qyfc/xmal/2475.htm (accessed 31 October 2017); ‘Tujie: “Yi Dai Yi Lu”
+guoji hezuo zhongda gongcheng xiangmu pandian’ [‘Graph illustration: an inventory of the significant international projects of
+the “Belt and Road Initiative”’], Renmin Wang [People’s Daily Online], (14 May 2017), available at: http://politics.people.com.cn/
+n1/2017/0504/c1001-29253733.html (accessed 31 October 2017).
+19
+Recognizing that financial integration is an important underpinning for implementing the BRI, the Guiding Principles aim to build
+a long-term, stable, sustainable financing system that is well-placed to manage risks, support channeling of financial resources
+to serve the real economy of countries and regions involved, and so on. See Ministry of Finance of China, ‘Guiding Principles on
+Financing the Development of the Belt and Road’, (16 May 2017), available at: https://eng.yidaiyilu.gov.cn/zchj/qwfb/13757.htm
+(accessed 31 October 2017).
+20
+OECD, Foreign direct investment for development: maximizing benefits, minimizing costs, OECD Report (2002).
+21
+Darryl Jarvis, Shaofeng Chen and Tan Tek Boon, ‘ASEAN investment liberalization: progress, regress or stumbling bloc?’, in Julien
+Chaisse and Philippe Gugler, eds, Expansion of Trade and FDI in Asia: Strategic and Policy Challenges (London: Routledge 2008),
+pp. 138–185.
+22
+It is worth noting that Singapore’s support may be underestimated given Singapore has less demand for Chinese investments.
+
+JOURNAL OF CONTEMPORARY CHINA
+
+349
+
+Table 1. Flows of inward foreign direct investment (FDI) by host country and source country.
+(in US$ million)
+
+Host country
+Brunei
+
+Cambodia
+
+Indonesia
+
+Lao PDR
+
+Malaysia
+
+Myanmar
+
+Source
+country
+World
+China
+France
+Germany
+India
+Japan
+Singapore
+UK
+US
+World
+China
+France
+Germany
+India
+Japan
+Singapore
+UK
+US
+World
+China
+France
+Germany
+India
+Japan
+Singapore
+UK
+US
+World
+China
+France
+Germany
+India
+Japan
+Singapore
+UK
+US
+World
+China
+France
+Germany
+India
+Japan
+Singapore
+UK
+US
+World
+China
+France
+Germany
+India
+Japan
+Singapore
+UK
+US
+
+2013
+725.47
+8.52
+3.01
+15.20
+0.00
+15.81
+−11.85
+430.43
+−5.34
+1,274.90
+286.75
+30.92
+−24.81
+6.14
+38.52
+83.68
+115.99
+33.87
+18,443.84
+590.78
+452.54
+−1,333.80
+8.21
+5,556.95
+9,257.89
+925.84
+1,063.93
+426.67
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+12,297.38
+133.13
+104.47
+−145.17
+−24.78
+2,635.93
+1,788.08
+155.55
+227.00
+2,620.90
+792.60
+202.30
+0.00
+7.30
+36.00
+654.80
+68.90
+0.00
+
+2014
+568.18
+−3.28
+3.31
+8.12
+0.00
+26.58
+48.94
+300.55
+−38.82
+1,726.53
+553.89
+18.41
+8.49
+3.28
+84.91
+60.83
+46.68
+50.33
+21,810.42
+1,068.21
+−158.32
+−354.20
+3.10
+5,792.61
+12,090.08
+764.44
+−1,098.14
+913.24
+614.26
+0.00
+0.00
+0.90
+2.10
+1.49
+3.02
+0.21
+10,875.31
+302.21
+453.10
+326.66
+6.70
+669.96
+2,162.01
+20.25
+−520.13
+946.22
+70.54
+0.00
+0.00
+0.74
+37.72
+578.52
+28.28
+0.00
+
+2015
+171.32
+3.92
+8.88
+5.17
+0.00
+−37.26
+49.13
+43.26
+−7.06
+1,700.97
+537.68
+18.27
+7.45
+0.48
+52.50
+51.54
+110.76
+40.65
+16,916.79
+321.89
+61.07
+−720.64
+37.81
+4,459.59
+9,242.27
+−125.18
+606.33
+1,079.15
+665.09
+7.67
+0.02
+2.46
+75.81
+0.14
+12.04
+8.93
+11,289.60
+275.25
+298.08
+−264.29
+−8.03
+2,519.45
+1,862.88
+567.42
+1,436.21
+2,824.48
+52.44
+117.18
+4.07
+8.07
+95.05
+1,562.60
+70.49
+0.00
+
+2013–2015
+1,464.97
+9.16
+15.2
+28.49
+0
+5.13
+86.22
+774.24
+−51.22
+4,702.4
+1,378.32
+67.6
+−8.87
+9.9
+175.93
+196.05
+273.43
+124.85
+57,171.05
+1,980.88
+355.29
+−2,408.64
+49.12
+15,809.15
+30,590.24
+1,565.1
+572.12
+2,419.06
+1,279.35
+7.67
+0.02
+3.36
+77.91
+1.63
+15.06
+9.14
+34,462.29
+710.59
+855.65
+−82.8
+−26.11
+5,825.34
+5,812.97
+743.22
+1,143.08
+6,391.6
+915.58
+319.48
+4.07
+16.11
+168.77
+2,795.92
+167.67
+0
+
+% in host
+country’s
+total IFDI
+
+FDI score
+
+0.63%
+
+0
+
+29.31%
+
+5
+
+3.46%
+
+1
+
+52.89%
+
+6
+
+6
+4
+
+2.06%
+
+0
+
+1
+2
+5
+3
+
+16.90%
+
+2
+3
+
+14.32%
+
+Ranking
+5
+4
+3
+2
+1
+1
+
+2
+3
+3
+
+2
+1
+4
+5
+1
+
+2
+3
+
+4
+1
+5
+
+4
+
+43.74%
+
+(Continued)
+
+350
+
+S. CHEN
+
+Table 1. (Continued).
+(in US$ million)
+
+Host country
+Philippines
+
+Singapore
+
+Thailand
+
+Viet Nam
+
+Source
+country
+World
+China
+France
+Germany
+India
+Japan
+Singapore
+UK
+US
+World
+China
+France
+Germany
+India
+Japan
+Singapore
+UK
+US
+World
+China
+France
+Germany
+India
+Japan
+Singapore
+UK
+US
+World
+China
+France
+Germany
+India
+Japan
+Singapore
+UK
+US
+
+2013
+3,859.79
+6.00
+1.12
+21.51
+−0.05
+437.51
+−138.04
+−8.89
+−653.23
+60,379.60
+2,729.90
+178.60
+597.70
+2,043.10
+2,737.00
+0.00
+3,336.50
+5,582.20
+15,935.96
+938.86
+104.66
+182.27
+59.89
+10,927.21
+−132.11
+634.40
+857.17
+8,900.00
+948.16
+28.87
+48.00
+1.14
+2,365.24
+1,801.09
+77.25
+51.64
+
+2014
+5,814.57
+46.61
+62.01
+60.91
+−2.78
+408.15
+151.02
+−220.23
+2,307.05
+74,420.30
+4,206.60
+2,466.50
+−140.10
+653.40
+4,433.60
+0.00
+6,544.30
+13,446.40
+3,720.21
+−81.77
+−104.24
+84.49
+−78.29
+3,280.61
+−1,071.21
+−49.85
+471.09
+9,200.08
+209.56
+20.06
+73.27
+18.89
+969.18
+1,219.52
+146.00
+130.54
+
+2015
+5,724.22
+59.02
+−414.92
+67.67
+330.59
+473.31
+40.14
+166.48
+2,023.22
+61,284.80
+5,658.60
+876.60
+1,186.80
+1,139.50
+4,727.40
+0.00
+5,009.80
+8,390.20
+8,027.49
+305.47
+−200.68
+84.04
+1.11
+4,238.60
+1,459.86
+8.27
+1,029.49
+11,800.00
+381.01
+50.83
+38.51
+72.08
+954.96
+638.48
+658.92
+118.08
+
+2013–2015
+15,398.58
+111.63
+−351.79
+150.09
+327.76
+1,318.97
+53.12
+−62.64
+3,677.04
+196,084.7
+12,595.1
+3,521.7
+1,644.4
+3,836
+11,898
+0
+14,890.6
+27,418.8
+27,683.66
+1,162.56
+−200.26
+350.8
+−17.29
+18,446.42
+256.54
+592.82
+2,357.75
+29,900.08
+1,538.73
+99.76
+159.78
+92.11
+4,289.38
+3,659.09
+882.17
+300.26
+
+Ranking
+
+% in host
+country’s
+total IFDI
+
+FDI score
+
+5
+
+0.72%
+
+0
+
+4
+3
+2
+1
+
+23.88%
+
+3
+
+6.42%
+
+2
+
+4
+2
+1
+
+13.98%
+
+3
+
+4.20%
+
+1
+
+66.63%
+
+1
+
+2
+3
+
+5.15%
+
+1
+2
+
+14.35%
+
+2
+
+Source: ASEAN Secretariat, ‘Flows of inward foreign direct investment (FDI) by host country and source country’, available at: https://
+data.aseanstats.org/fdi_by_country.php (accessed 15 July 2017).
+
+Economic Variables, SCS and American Policy and SEA Support for the MSRI
+Trade Imbalance
+China’s trade with ASEAN has continued to surge. Since 2009, China has been ASEAN’s largest trading
+partner, while ASEAN has been the third-largest partner of China since 2011. The start of the China–
+ASEAN FTA has further enhanced their economic ties. Bilaterally, China has become the largest trading
+partner of Malaysia, Singapore, Indonesia, Thailand, Vietnam, Myanmar and Cambodia. However, China’s
+trade with ASEAN members tends to be more imbalanced. In 2015, they all had trade deficits except
+Singapore. Vietnam’s trade deficit with China even hit US$32.9 billion (see Table 4). Using degree of
+support23 and total trade imbalance data during 2008–2015 respectively, the author calculates their
+correlation coefficients and the outcomes are 0.296 (p = 0.407) and 0.098 (p = 0.787), respectively,
+showing that they have no correlation. Then the author calculates the correlation coefficient between
+degree of support and total bilateral trade during 2006–2015; the result is –0.258 (p = 0.472) and –0.342
+23
+
+There are two sets of data, one including the Philippines and Vietnam before 2016, and the other including the two countries in
+2016, similarly hereinafter.
+
+Singapore
+Thailand
+Vietnam
+
+Brunei
+Cambodia
+Indonesia
+Laos
+Myanmar
+Malaysia
+Philippine
+
+Country
+
+Before the
+12th Party
+Congress
+After the
+12th Party
+Congress
+
+Aquino III
+Duterte
+
+Attended
+summit
+0
+1
+1
+1
+1
+1
+0
+1
+0
+0
+0
+
+1
+
+Voiced
+support
+1
+1
+1
+1
+1
+1
+0
+1
+1
+1
+0
+
+1
+
+1
+
+Joint
+declaration
+on LMC in
+production
+capacity
+0
+1
+0
+1
+1
+0
+0
+0
+0
+1
+0
+
+Indicators on gesture
+
+Table 2. Degree of support of China’s MSRI by SEA countries.
+
+1
+
+Sign any intergovernmental
+cooperation
+document linking
+China’s MSRI to
+their development program
+or express such a
+willingness
+1
+3
+1
+3
+3
+3
+0
+0
+3
+1
+0
+3
+
+3
+3
+3
+3
+
+3
+
+Set up any
+industrial
+park or
+special
+economic
+zone
+3
+3
+3
+3
+
+3
+
+3
+3
+3
+6
+9
+
+Significant
+project under
+construction
+
+−3
+
+−3
+
+−3
+
+Significant
+project
+postponed
+
+Indicators on action
+
+1
+
+1
+1
+1
+1
+1
+
+Sign BRI
+Financing
+Guidance
+Principle
+
+4
+
+FDI score
+0
+5
+1
+6
+4
+0
+0
+1
+2
+1
+2
+
+3
+
+Founding
+member
+of AIIB
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+
+14
+
+Total
+values
+8
+21
+11
+22
+17
+21
+3
+9
+12
+11
+8
+
+JOURNAL OF CONTEMPORARY CHINA
+351
+
+352
+
+S. CHEN
+
+Table 3. Response of SEA countries to China’s MSRI.
+Degree of support
+Strongly support
+Conditionally support with strong
+reservation
+Swing state
+
+Countries
+Tier 1: Cambodia, Laos, Malaysia
+Tier 2: Brunei, Indonesia, Myanmar, Singapore, Thailand
+Tier 2: Conditionally support with strong
+reservation
+Tier 3: Least support
+
+Vietnam after the 12th Party Congress,
+the Philippines under Duterte
+Vietnam before the 12th Party Congress,
+the Philippines under Aquino III
+
+w(p = 0.333), indicating the two variables have no significant correlation in statistics. Hence, Hypothesis
+1 cannot be verified. The results show that trade imbalance does not seem to be a determinant affecting
+the responses of the SEA countries to the MSRI, in spite of the fact that it is a grave concern for them.
+
+FDI Inflows
+This article uses data of total FDI inflows to each SEA country from China during 2010–2016 (see Table
+5), and SEA support for the MSRI data to calculate their correlation, but the FDI score value needs to
+be scrapped from the support data in order to avoid the homogeneity problem. The outcome is 0.002
+(p = 0.995), indicating they have no correlation in statistics. This implies that a larger magnitude of
+FDI from China does not necessarily solicit stronger support from SEA countries. It is noteworthy that
+many Chinese FDIs into SEA countries are routed through Singapore, which distorts their correlations.
+
+Territorial Dispute
+The SCS dispute is an irritant adversely affecting some ASEAN states’ responses to China’s MSRI, but it
+is not a decisive dividing line. At one end are countries such as Vietnam before the 12 Party Congress
+and the Philippines under Aquino III. Both were very skeptical about China’s MSRI, worrying that bandwagoning with the MSRI might cause them to be entrapped by Beijing and undermine their territorial
+claims over the SCS. Thanks to the Scarborough Shoal standoff in the mid-2012, Aquino III adopted
+a more assertive posture towards China to the extent that it relinquished the way of resolving disputes through dialogue and brought the case to the Permanent Court of Arbitration in the Hague.
+Consequently, its relations with China went into a tailspin and were locked for years in a bitter territorial
+dispute. To counterbalance China, the Philippines greatly reinforced strategic alignments with the US
+and Japan. Through the Enhanced Defense Cooperation Agreement signed in 2014, US military forces
+came back after being booted out of the country in the early 1990s. Aquino III also solicited support
+from Japan and South Korea, both of which promised to deliver ten coastguard ships, and two FA-50
+fighter jets respectively. In contrast, he was skeptical about China’s MSRI, correlating the latter with
+China’s claim over the SCS. ‘To date, there’s been little or no explanation of how China’s “One Belt, One
+Road” pan-regional infrastructure concept fits into China’s territorial claims to the entire South China
+Sea under its “Nine-Dotted Line”.’ He even openly argued that ‘China may use its financial prowess to
+extract territorial concessions from its neighbors’.24
+Some Vietnamese are concerned that China’s MSRI might change the status quo of the SCS where
+Hanoi occupies the largest number of islands and reefs. Vietnam is hesitant to build the Trans-Asia railway because it worries that more Chinese goods would flood into its market. Pham Sy Thanh, director
+at the Vietnam Institute for Economic Research and Policy, described China’s MSRI as ‘infrastructure
+traps’, arguing that once those plans related to China’s MSRI were executed, they would hinder Vietnam’s
+infrastructure development, in that ‘Beijing’s plan to set up a massive regional transport network to and
+Richard Javad Heydarian, ‘The Philippines’ dilemma on China’s new infrastructure bank’, The Diplomat, (9 July 2015), available
+at: https://thediplomat.com/2015/07/the-philippines-dilemma-on-chinas-new-infrastructure-bank/ (accessed 31 October 2017).
+
+24
+
+Export
+Import
+Trade balance
+Export
+Import
+Trade balance
+Export
+Import
+Trade balance
+Export
+Import
+Trade balance
+Export
+Import
+Trade balance
+Export
+Import
+Trade balance
+Export
+Import
+Trade balance
+Export
+Import
+Trade balance
+Export
+Import
+Trade balance
+Export
+Import
+Trade balance
+
+2006
+174.4
+119.9
+54.4
+13.1
+515.5
+−502.4
+8,343.6
+6,636.9
+1,706.7
+0.5
+23.2
+−22.6
+1,1390.6
+15,543.1
+−4,152.6
+133.2
+396.8
+−263.6
+4,627.7
+3,647.4
+980.3
+26,471.7
+27,185.0
+−713.4
+10,840.3
+13,577.6
+−2,737.3
+3,015.1
+7,305.5
+−4,290.4
+
+2007
+201.0
+157.5
+43.5
+10.8
+653.3
+−642.5
+8,896.7
+8,616.5
+280.2
+35.1
+42.8
+−7.7
+1,5443.0
+18,897.2
+−3,454.2
+475.0
+564.2
+−89.2
+5,749.9
+4,001.2
+1,748.6
+28,924.6
+31,908.1
+−2,983.5
+14,872.5
+16,183.6
+−1,311.0
+3,336.4
+12,148.3
+−8,811.9
+
+2008
+38.8
+173.3
+−134.5
+12.9
+933.4
+−920.5
+11,636.5
+15,247.2
+−3,610.7
+15.3
+131.4
+−116.2
+18,422.0
+18,646.0
+−224.0
+499.1
+671.5
+−172.4
+5,466.9
+4,249.7
+1,217.2
+31,080.8
+33,754.8
+−2,674.0
+15,930.9
+19,936.2
+−4,005.3
+4,491.5
+15,545.4
+−11,053.9
+
+2009
+291.3
+143.4
+147.9
+16.4
+881.4
+−865.0
+11,499.3
+14,002.2
+−2,502.8
+2.9
+96.4
+−93.5
+19,066.7
+17,200.6
+1,866.1
+474.7
+781.5
+−306.8
+2,929.7
+4,035.6
+−1,105.9
+26,302.5
+25,927.4
+375.2
+16,123.8
+17,028.9
+−905.1
+4,885.3
+16,500.1
+−11,614.8
+
+Source: ASEAN stats, available at: https://data.aseanstats.org/trade.php (accessed 20 July 2017).
+
+Viet Nam
+
+Thailand
+
+Singapore
+
+Philippines
+
+Myanmar
+
+Malaysia
+
+Laos
+
+Indonesia
+
+Cambodia
+
+Brunei
+
+Table 4. China’s trade with ASEAN countries.
+
+2010
+584.6
+171.0
+413.6
+64.4
+1,153.6
+−1,089.2
+15,692.6
+16,949.4
+−1,256.7
+94.9
+164.1
+−69.2
+24,894.9
+20,668.1
+4,226.8
+507.5
+1,130.3
+−622.8
+5,701.5
+4,933.9
+767.6
+45,914.2
+33,654.2
+12,260.0
+17,706.8
+18,905.2
+−1,198.4
+7,308.8
+20,018.8
+−12,710.0
+
+2011
+515.4
+219.5
+295.9
+152.8
+1,733.6
+−1,580.8
+22,941.0
+26,212.2
+−3,271.2
+70.8
+353.2
+−282.4
+30,245.5
+24,676.9
+5,568.6
+15,15.3
+2,303.7
+−788.4
+6,102.3
+6,382.1
+−279.9
+42,656.4
+37,977.6
+4,678.8
+27,402.4
+22,893.5
+4,508.9
+11,126.6
+24,593.7
+−13,467.1
+
+(Million US$)
+2012
+289.4
+294.5
+−5.1
+178.0
+3,354.6
+−3,176.6
+21,659.5
+29,385.8
+−7,726.3
+97.7
+463.5
+−365.7
+28,753.9
+29,732.9
+−979.0
+1,382.9
+2,496.6
+−1,113.7
+6,159.1
+7,136.4
+−977.3
+43,949.7
+39,189.1
+4,760.6
+26,899.7
+28,832.1
+−1,932.4
+12,344.3
+28,618.3
+−16,274.0
+
+2013
+156.4
+406.4
+−249.9
+274.4
+2,992.1
+−2,717.7
+22,601.5
+29,849.5
+−7,248.0
+363.4
+511.2
+−147.8
+30,719.3
+33,723.9
+−3,004.6
+3,053.1
+3,662.5
+−609.5
+6,582.6
+8,554.1
+−1,971.5
+48,350.8
+43,680.2
+4,670.6
+27,238.2
+37,718.5
+−10,480.2
+13,205.8
+36,864.5
+−23,658.7
+
+2014
+97.1
+357.7
+−260.6
+356.6
+7,457.3
+−7,100.7
+17,605.9
+30,624.3
+−1,3018.4
+709.9
+465.9
+244.0
+28,171.8
+35,314.1
+−7,142.3
+4,035.4
+5,026.8
+−991.4
+8,467.4
+10,472.2
+−2,004.8
+51,469.0
+44,374.0
+7,095.0
+25,084.4
+38,498.3
+−13,413.9
+14,851.6
+43,721.2
+−28,869.7
+
+2015
+94.9
+377.0
+−282.1
+427.6
+4,035.2
+−3,607.6
+15,046.4
+23,551.5
+−8,505.0
+751.9
+1,000.8
+−248.9
+25,976.0
+33,121.5
+−7,145.5
+4,830.8
+6,432.3
+−1,601.5
+6,393.1
+11,493.9
+−5,100.8
+47,702.1
+42,104.6
+5,597.4
+16,380.9
+39,839.7
+−23,458.9
+16,645.7
+49,558.2
+−32,912.6
+
+JOURNAL OF CONTEMPORARY CHINA
+353
+
+354
+
+S. CHEN
+
+Table 5. Flows of inward foreign direct investment.
+(in US$ million)
+Brunei
+Cambodia
+Indonesia
+Laos
+Malaysia
+Myanmar
+Philippines
+Singapore
+Thailand
+Viet Nam
+
+2010
+0.01
+126.94
+353.57
+45.57
+−6.45
+1,520.90
+0.19
+699.30
+633.43
+115.14
+
+2011
+0.00
+179.68
+214.88
+278.32
+−15.28
+670.60
+−4.11
+5,462.50
+20.92
+382.60
+
+2012
+0.00
+367.76
+335.09
+0.00
+33.70
+482.20
+−1.61
+6,162.60
+598.46
+190.03
+
+2013
+0.00
+286.75
+590.78
+0.00
+94.16
+792.60
+6.00
+2,696.20
+938.86
+948.16
+
+2014
+0.00
+553.89
+1,068.21
+614.26
+302.21
+70.54
+46.61
+3,401.30
+−81.77
+209.56
+
+2015
+0.00
+537.68
+323.54
+665.09
+275.25
+52.44
+59.02
+3,812.70
+305.47
+381.01
+
+2016
+0.00
+501.54
+298.19
+709.98
+883.16
+205.48
+19.55
+5,367.60
+255.61
+969.44
+
+2010–2016
+0.01
+2,554.24
+3,184.26
+2,313.22
+1,566.75
+3,794.76
+125.65
+27,602.2
+2,670.98
+3,195.94
+
+Source: ASEAN stats, available at: https://data.aseanstats.org/fdi_by_country.php (accessed 20 July 2017).
+
+from China will make what Vietnam is building, including many deep-sea ports, across the country be
+obsolete’.25 Moreover, Vietnam has constantly made every attempt to seek external powers like the US
+and Japan to counterbalance China. As a Vietnamese scholar argues,
+So, for this initiative, I think Vietnam’s policy makes it quite pragmatic as long as this initiative does not bear any
+negative implications for Vietnamese sovereignty in the South China Sea and its national interests in the South
+China Sea.26
+
+At the other end of the line are countries such as Malaysia, which has not flinched despite the SCS
+dispute. Malaysian Transport Minister Liow Tiong Lai said, ‘The Malaysian government believes that
+the new maritime silk road and the Trans-Asian railway will be instrumental in expanding the economy
+and would present new opportunities to many countries especially ASEAN’.27 In fact, Malaysia is not
+only very supportive of China’s MSRI but also active in promoting it through a series of meetings and
+conferences.28
+Equally worth noting is that no claimant state will rescind their claims in the SCS even if they benefit
+from the MSRI. The SCS dispute, however, is hanging like a sword of Damocles over China. If not well
+handled, it might jeopardize China’s security environment and even its rise.
+
+America’s Policy
+America has strong influence globally, including on SEA. With the rise of China, Beijing’s influence in
+Asia is growing. When both meet in this region, geopolitical tussles between them have often been
+thrown into the spotlight. SEA has been pinpointed as ‘the decisive territory, on the future of which
+hangs the outcome of a great contest for influence in Asia’.29 When the two elephants fight, the grass
+suffers; but if they make love, it is still the grass that suffers. As Graham points out,
+
+Thoai Tran, ‘China’s transport infrastructure initiative to have bad impact on Vietnam’s plan: expert’, Tuoi Tre News, (29 September
+2015), available at: http://tuoitrenews.vn/business/30678/chinas-transport-infrastructure-initiative-to-have-bad-impact-on-vietnams-plan-expert (accessed 31 October 2017).
+26
+Le Hong Hiep, ‘China’s Maritime Silk Road and ASEAN connectivity: a Vietnamese perspective’, presented at a symposium on ‘The
+Belt and Road Initiative and Its Implications for Cambodia’, co-hosted by the Royal University of Phnom Penh and the Embassy of
+China in Cambodia on 21–22 December 2015, Symposium Proceedings, (28 April 2016), p. 101.
+27
+‘China’s “Belt and Road” initiative presents new opportunities to ASEAN: Malaysian official’, Xinhua, (15 December 2015), available
+at: http://news.xinhuanet.com/english/2015-12/15/c_134919693.htm (accessed 31 October 2017).
+28
+Prashanth Parameswaran, ‘China, Malaysia mull dispute resolution for “Belt and Road” countries’, The Diplomat, (20 September 2016),
+available at: https://thediplomat.com/2016/09/china-malaysia-mull-dispute-resolution-for-belt-and-road-countries/ (accessed 31
+October 2017).
+29
+In Nicholas Kitchen, ed., The New Geopolitics of Southeast Asia (London: LSE IDEAS, 2012), p. 21.
+25
+
+JOURNAL OF CONTEMPORARY CHINA
+
+355
+
+Even among Southeast Asian states that evince support for a revitalized US presence as a hedge against China’s
+strategic intentions and rapidly growing capabilities, anxiety is felt about a downward spiral ensuing in US–China
+relations augmenting their own security dilemma.30
+
+An optimal scenario is to have sporadic tensions with limits. With that, they have more opportunities
+to capitalize on the rise of China and the pivot of America.
+American policy towards SEA, however, has its own cycle. Alice Ba portrays ASEAN’s perceptions of
+the US policy towards it as swinging between the extremes of over-militarization and ‘systemic neglect’.31
+During the George Bush administration, initially they were concerned whether the US would open a
+‘second front’ against terrorism in SEA, but eventually they found SEA was far from the center of its chessboard, hallmarked by the absence of American leaders at successive meetings of the ASEAN Regional
+Forum. SEA countries hailed Obama’s rebalancing to Asia, but they had worries of over-militarization
+of that policy given that 60% of fleets would be stationed in the Pacific. Such a military realignment
+was likely to heighten tensions in Asia. After Trump took office, he started to put his ‘Make America
+Great Again’ into force. His approach to attaining that goal is to put ‘America First’ on all issues, leaving
+many SEA countries to cast doubt on whether the US will maintain its strategic commitments abroad.
+The American policy cycle has a great impact on SEA countries’ responses to the MSRI. First, they
+will size up Washington’s attitude towards China’s BRI and incorporate it into their responses. Second,
+considering the asymmetric relationship with China, SEA countries might be absorbed into Beijing’s orbit
+without America’s strong presence in Asia. Conversely, they will have more guts and leverage in dealing
+with China with the US pivoting to Asia. Third, the American rebalancing means more military presence
+and more financial assistance from Washington. More importantly, it will spark fiercer competition
+among big powers, which would furnish them with more leverage to deal with China. In practice, after
+rebalancing to Asia had begun, Asia witnessed a wave of heightened tensions over the SCS, such as the
+Scarborough Shoal standoff in 2012, the China–Vietnamese skirmish over the oil rig and the anti-China
+riots in Vietnam in 2014, culminating in the Court’s Arbitration in 2016.32 It is difficult to conclude that
+it was the US policy that hastened regional instability, but its impact should not be ignored.
+Trump’s Asia policy remains unclear despite the reassurance of continuing commitment by several of
+his Cabinet.33 As Rapp-Hooper presciently put it, ‘Given Trump’s devotion to unpredictability, he might
+not craft such a strategy at all: he could instead pick and choose from a neo-Jacksonian, unilateralist
+buffet, deciding what “America first” means as circumstances change’.34 Although Trump’s emphasis
+of building a ‘free and open Indo-Pacific’ contributes to allaying concerns about US retrenchment, the
+transactional approach and hard-line economic nationalism that he showcased during his Asia tour
+may estrange SEA countries from Washington. According to Pew’s survey, the global median percentage of people holding a favorable view of the US sharply dropped to 49% from 64% recorded across
+the same countries in the final years of the Obama administration.35 The survey on confidence in the
+American president in Indonesia, Vietnam and the Philippines declined from 64, 71 and 94% in 2015
+to 23, 58 and 69% in 2017, respectively.36 This partially exhibited SEA countries’ declining confidence in
+the US. Recognizing the limits of US power, some SEA countries ‘are beginning to revise their strategic
+Euan Graham, ‘Southeast Asia in the US rebalance: perceptions from a divided region’, Contemporary Southeast Asia 35(3), (2013)
+pp. 305–332.
+31
+Alice Ba, ‘Systemic neglect? A reconsideration of US–Southeast Asia policy’, Contemporary Southeast Asia 31(3), (2009), pp. 368–398.
+32
+Peter van Ham, Francesco Saverio Montesano and Frans Paul van der Putten, ‘A South China Sea conflict: implications for European
+security’, Clingendael Report (March 2016), p. 7, available at: https://www.clingendael.org/sites/default/files/pdfs/Clingendael%20
+Report%20South%20China%20Sea.pdf (accessed 20 November 2017).
+33
+Zakir Hussain, ‘America cannot disengage itself from Asia: PM Lee’, Straits Times, (26 October 2017), available at: http://www.
+straitstimes.com/world/united-states/america-cannot-disengage-itself-from-asia-pm-lee (accessed 20 October 2017).
+34
+Mira Rapp-Hooper, ‘Deciphering Trump’s Asia policy’, Foreign Affairs, (22 November 2016), available at: https://www.foreignaffairs.
+com/articles/asia/2016-11-22/deciphering-trumps-asia-policy (accessed 20 November 2017).
+35
+Richard Wike et al., ‘Globally, more name US than China as world’s leading economic power’, Pew Research Center (13 July 2017),
+available at: http://www.pewglobal.org/2017/07/13/more-name-u-s-than-china-as-worlds-leading-economic-power/ (accessed
+31 October 2017).
+36
+Pew Research Center, ‘Build your own chart: tracking US favorability and confidence in the US president, 2002 to 2017’, (26 June
+2017), available at: http://www.pewglobal.org/interactives/us-image/ (accessed 31 October 2017).
+37
+James Guild, ‘How the US is losing to China in Southeast Asia’, The Diplomat, (25 October 2017), available at: https://thediplomat.
+com/2017/10/how-the-us-is-losing-to-china-in-southeast-asia/ (accessed 31 October 2017).
+30
+
+356
+
+S. CHEN
+
+Table 6. Democracy index and degree of support.
+2014
+Cambodia
+Indonesia
+Laos
+Myanmar
+Malaysia
+Philippine
+Singapore
+Thailand
+Vietnam
+Correlation coefficient
+
+Overall score
+21
+11
+22
+17
+21
+3
+12
+11
+11
+
+Degree of support
+4.78
+6.95
+2.21
+3.05
+6.49
+6.77
+6.03
+5.39
+3.41
+
+2016
+Overall score
+4.27
+6.97
+2.37
+4.2
+6.54
+6.94
+6.38
+4.92
+3.38
+
+−0.413 (p = 0.269)
+
+Degree of support
+21
+11
+22
+17
+21
+9
+12
+11
+14
+
+−0.551 (p = 0.124)
+
+Source: The Economist Intelligence Unit, ‘Democracy index 2016’ and ‘Democracy index 2014’.
+
+calculus accordingly’.37 They are more proactive in endorsing China’s MSRI compared with their attitudes before 2016.
+
+Domestic Politics and SEA Support for the MSRI
+Regime Type
+The author uses the democracy index compiled by the Economist to measure regime type, and analyzes
+its correlation with SEA countries’ support for the MSRI. The data on Brunei are unavailable. As shown
+in Table 6, their correlation coefficient was –0.413 (p = 0.269) and –0.551 (p = 0.124) in 2014 and 2016,
+respectively, showing the two variables have no significant correlation.
+
+Policy Priority for Elite Legitimation
+In some SEA countries, there is often a debate regarding whether they should prioritize economic
+interests or geopolitical/security concerns when responding to China’s MSRI. Typical are those SEA
+countries having a territorial dispute with China. Countries prioritizing economic interests are more
+supportive than those prioritizing security concerns.
+As the most underdeveloped countries, Cambodia and Laos are most concerned about getting out
+of poverty. Laos, for example, is striving hard to divorce from the least developed countries by 2020. To
+that end, faster development of infrastructure is indispensible. The Lao government has formulated a
+plan for turning Laos from a ‘landlocked country’ to a ‘land-lined country’.38 Hence, the accruement of
+wealth has become an overarching source for elite legitimation. Although Laos is a de facto protectorate
+of Vietnam, it is fully aware that only China can help build the infrastructure it needs. Likewise, embracing an objective of turning Malaysia into a high-income country by 2020, Malaysia views China’s MSRI
+very positively despite some concerns. Najib told President Xi, ‘Your vision of a comprehensive strategic
+partnership, One Belt One Road, and Maritime Silk Road has not only been accepted, but implemented’.39
+In contrast, as mentioned previously, Tier 3 countries including Vietnam before the 12th Party
+Congress and the Philippines under Aquino III were skeptical about the MSRI as they worried that
+joining it might undermine their territorial claims over the SCS.
+
+Somsack Pongkhao, ‘Laos supports China’s “One Belt, One Road” initiative’, Vientiane Times, (22 September 2015), available at:
+http://www.asianews.network/content/laos-supports-chinas-one-belt-one-road-initiative-992 (accessed 6 July 2017).
+39
+Lokman Mansor, ‘PM Najib meets President Xi, says China visit has been “extremely successful”’, New Straits Times, (3 November
+2016), available at: https://www.nst.com.my/news/2016/11/185724/pm-najib-meets-president-xi-says-china-visit-has-been-extremely-successful (accessed 31 October 2017).
+38
+
+JOURNAL OF CONTEMPORARY CHINA
+
+357
+
+Tier 2 countries face a dilemma when deciding whether they should bolster the MSRI. For example,
+Indonesia tends to perceive the MSRI as an opportunity for realizing its economic potential. President
+Joko Widodo said, ‘Indonesia supports discussing the connection of China’s MSRI with Indonesia’s Global
+Maritime Axis vision, and is willing to deepen cooperation with China in trade, investment, finance,
+infrastructure and other areas’.40 Indonesia particularly greets Chinese investment in infrastructure,
+hoping it would help strengthen its maritime connectivity infrastructure. On the other hand, Indonesia
+is suspicious of ‘Xi’s vision of Asia’s future with China as its hub, and with Chinese-led institutions playing an ever bigger role in Asian economies’.41 Some have contended that the MSRI was part of China’s
+strategy to expand its influence in the region. Bantarto Bandoro at the Indonesian Defense University
+claimed, ‘This is part of China’s race with the US for influence in the region. Indonesia should remain very
+alert about this’, and ‘Indonesia should not allow itself to be used by China to persuade other ASEAN
+members to cooperate’. A recent dispute surrounding Chinese boats fishing at the Natuna Islands
+has eroded Indonesian trust in China. Widodo made it clear that Indonesia would not accept China’s
+territorial claims. He even visited the disputed area to claim sovereignty. Consequently, it seems that
+Indonesia has further shied away from the prospective implementation of the MSRI.42
+Likewise, Thailand has to balance between big powers. On one side is the US, its ally, and Japan, its
+largest FDI contributor; on the other side is China, the largest trading partner with which Thailand has
+traditionally maintained friendly relations. To revitalize the domestic economy, the ruling junta has
+mapped out a plan to develop domestic infrastructure and turn Thailand into a hub of manufacturing,
+logistics and training in the SEA region. China’s MSRI has been considered conducive to this goal. In his
+Beijing visit in 2014, Prime Minister Prayuth Chan-o-cha vowed that Thailand was willing to facilitate
+collaboration with China in agriculture and railways and promote regional connectivity by building the
+BRI. However, to avoid annoying the US and Japan, Thailand has played a balancing game, as typified by
+the high-speed railway case. While signing a MoU with China to build a railway from Bangkok to Nong
+Khai in 2014, it made an offer to Japan to build the 635-kilometre high-speed railway from Bangkok
+to Chiang Mai, a 319-kilometre railway from Bangkok to Laem Chabang and a 225-kilometre railway
+from Bangkok to Sa Kaeo.
+
+Trust/Public Opinion
+Societal trust of another country is a lubricant that can facilitate inter-state cooperation; conversely, lack
+of trust may dampen bilateral cooperation even if the government agrees to join the MSRI. In reality,
+SEA countries have different degrees of trust in China. Compared with Vietnam and the Philippines,
+Malaysia has a higher level of trust in China, so it tends to perceive the MSRI as a good opportunity to
+accrue wealth (see Table 7).
+Countries in Tier 2 tend to have contradictory views of the MSRI. While expecting to gain more
+benefit from it, they have moderate trust in China. Hence, they are more reluctant to over-rely on
+China, worrying that such an over-reliance might undermine their sovereignty or strategic interests.
+In response, they resort to a hedging strategy, trying to harvest the low-hanging fruits while jealously
+guarding against their sovereignty and bringing other big powers in. Indonesia is a typical example.
+While granting China the contract to develop its first high-speed railway linking Jakarta to Bandung,
+Indonesia has awarded two contracts to Japan to construct a mass rapid transit (MRT) system in Jakarta
+
+‘China, Indonesia to deepen cooperation in trade, finance’, Xinhua, (2 September 2016), available at: http://news.xinhuanet.com/
+english/2016-09/02/c_135655127.htm (accessed 6 July 2017).
+‘Where all Silk Roads lead’, The Economist, (11 April 2015), available at: https://www.economist.com/news/china/21648039-throughfog-hazy-slogans-contours-chinas-vision-asia-emerge-where-all-silk-roads (accessed 31 October 2017).
+42
+Patrick Mendis and Daniel Balazs, ‘President Xi’s Silk Road conundrum’, China–US Focus, (24 October 2016), available at: http://
+www.chinausfocus.com/finance-economy/president-xis-silk-road-conundrum (accessed 31 October 2017).
+43
+See Le Hong Hiep, ‘China’s Maritime Silk Road and ASEAN connectivity’, see note 26, p. 98.
+40
+41
+
+358
+
+S. CHEN
+
+Table 7. How Asians rate China, Japan and the US.
+Favorable views of
+China
+Survey year
+Views in:
+Indonesia
+Malaysia
+Philippines
+Thailand
+Vietnam
+
+2014
+%
+66
+74
+38
+72
+16
+
+Japan
+2017
+%
+55
+55
+10
+
+2014
+%
+77
+75
+80
+81
+77
+
+US
+2014
+%
+59
+51
+92
+73
+76
+
+2017
+48
+78
+84
+
+Source: Compiled by the author according to data from the Pew Research Center.
+
+and its largest coal-fired power plant in North Java. Indonesia granted the project to China largely
+because ‘the Chinese offer to Indonesia was too good to decline and the Indonesian government could
+not resist because what impressed me is that they promised to build 150 km express railway within
+only three years that is really impressive’.43
+Swing states in Tier 3 have low trust in China and hold inconsistent or even conflicting views of the
+MSRI resulting from regime change. At one extreme, when their elites prioritized security enhancement
+for legitimation, they took a hard balancing strategy, resisting the MSRI, endeavoring to have military
+buildup and even aligning with other powers to contain China. Hence they were less keen to join the
+MSRI; at the other extreme, they acted like countries in Tier 2. To counterbalance China, Vietnam is revving up efforts to heighten military cooperation with other powers. President Rodrigo Duterte prefers
+to change the confrontational policy adopted by Aquino III, but the policy adjustment by no means
+implies that the Philippines will repeal its alliance with Washington. Through this policy change, the
+Philippines would be in a better position to maximize its national interests. At present, both Vietnam
+and the Philippines tend to show some support for China’s MSRI, but should their relations with China
+change tack due to a skirmish over the SCS dispute, or if they have not received what they expect from
+China, they may turn their back on China’s MSRI. As data on trust in some SEA countries on China are
+unavailable, this article uses their concerns about the MSRI as a proxy.
+With varying attitudes towards the MSRI, SEA countries have different concerns. These concerns,
+if unresolved, may affect their trust in China’s MSRI. It is worth noting that the nature of concerns of
+countries in different tiers is distinct. What Cambodia and Laos are concerned about is largely of a
+low-politics nature, such as quality of Chinese products, project management, etc. SEA countries in other
+tiers have similar concerns, but the major ones are of a high-politics nature. For instance, Singapore
+and the Philippines are more concerned about whether overreliance on China could undermine their
+security relations with other big powers; Indonesia and Myanmar have misgivings over whether their
+sovereignty independence would be under threat, while Vietnam and the Philippines worry about
+whether their participation in the MSRI would provide China with leverage which could be zeroed in
+on the territorial dispute. ‘OBOR might be China’s grand strategy to create a core-to-periphery structure
+of connectivity—Beijing as the hub and other countries the spokes of the system—of which smaller
+countries have to compromise on their interests’.44 Such a typical argument is prevalent in some countries. Apparently, the concerns of Tier 1 countries are less grave than those of Tier 3 states, which are
+almost synonymous with low trust.
+
+44
+
+Cheunboran Chanborey, ‘China’s Maritime Silk Road and ASEAN connectivity: regional politico-economic perspectives’, presented
+at a symposium on ‘The Belt and Road Initiative and Its Implications for Cambodia’, p. 89.
+
+JOURNAL OF CONTEMPORARY CHINA
+
+359
+
+Other Domestic Politics Factors and SEA Support for the MSRI
+Other domestic political factors in SEA countries also hold sway in their responses to China’s MSRI: first,
+the leaders’ ideology and preferences often have a strong impact on the country’s foreign strategy, as
+evidenced by Cambodia, Malaysia, and the present Vietnamese and Philippine governments. Cambodia’s
+strong support for the MSRI is largely a decision by Cambodian Prime Minister Hun Sen as he sees this
+as a means of bringing economic development and a guarantor for Cambodian security amid tension
+with Thailand and influence from Vietnam.45 In receiving Chinese Minister of Commerce Gao Hucheng’s
+visit, Hun Sen said that Cambodia would coordinate and cooperate with China’s MSRI and incorporate
+it with Cambodia’s platforms.46
+Duterte is another case that has showcased the style of a strongman. Starkly different from his predecessor, Duterte tends to develop more balanced diplomatic relations with other countries rather than
+being too reliant on the US. While choosing China for his first state visit, Duterte tried to extend an olive
+branch to China. He has not insisted that the Hague ruling be implemented. Since his visit, the bilateral
+relationship has started a new chapter. Duterte expressed his wish that the Philippines wanted to join
+in China’s MSRI. In particular, he expected that China would provide the Philippines with necessary
+capital to help it build infrastructure.47 By contrast, Duterte was very unhappy towards Washington’s
+criticism of his campaign against illegal drugs. Meanwhile, it is worth noting that the Duterte cabinet
+is not monolithic. Many bureaucrats are pro-America. As a result, policy discrepancies are inevitable.
+For instance, Philippine Defense Secretary Delfin Lorenzana made an accusation that Chinese vessels
+were likely to enter its waters illegally to conduct survey missions in the Benham Rise in March 2017,
+but Duterte responded that he had authorized the entry of these Chinese vessels.48 Then he made a
+sudden reversal. On 6 April 2017, Duterte told reporters he would visit the island of Pagasa (Thitu) to
+raise the flag there, and build a barracks for servicemen operating in the area.49
+Second, within SEA countries, there is often such a line of contention regarding whether they should
+be more pro-China or pro-US/Japan. Vietnam stands out in this case. Anti-China sentiment was much
+stronger when Nguyen Tan Dung (NTD) was the Prime Minister. In the context of the American ‘rebalancing to Asia’, how to deal with China and the US had eventually become a fault line splitting the
+Vietnamese leadership, which had been divided into pro-China northerners, led by General Secretary
+Nguyen Phu Trong (NPT), and pro-America southerners, led by NTD. The faction winning the internal
+struggle had the decisive influence on Vietnamese foreign policies. Before the 12th Party Congress in
+Vietnam in January 2016, NTD had widely been considered the most influential figure. Under his tenure,
+NTD was more inclined to weave closer ties with Washington and take a strong position towards China.
+For instance, he pushed hard to let Vietnam join the TPP, and proposed closer military cooperation
+with Washington. In May 2014, Vietnam dispatched its armed vessels to interrupt rigging activities by
+a Chinese oil platform in the Paracel Islands, and an anti-China riot swept Vietnam. To provoke protest
+against China, NTD sent a message to the civilians, saying that ‘the Prime Minister calls and asks every
+Vietnamese to carry forward the patriotic spirit and defend the sacred sovereignty of the state in legal
+45
+
+Pou Sothirak, ‘Sino–Cambodia relations in the context of the “One Belt and One Road” initiative’, presented at a symposium on ‘The
+Belt and Road Initiative and Its Implications for Cambodia’, p. 38.
+46
+Ven Rathavong, ‘Cambodia, China talk business’, Khmer Times, (2 August 2016), available at: http://www.khmertimeskh.com/
+news/27926/cambodia--china-talk-business/ (accessed 6 July 2017).
+47
+Yibing Qi and Zhi Li, ‘Feilvbing Zongtong Fanghua, Zhongguo changkai damen zhu “poubing”’ [‘Filipino President visiting China
+and China opened its door to help “break ice”’], Zhongguowang (official website of the Chinese Central government), (19 October
+2016), available at: http://www.china.com.cn/news/world/2016-10/19/content_39518972.htm (accessed 6 July 2017).
+48
+‘Philippine officials: Chinese ships spotted near coast “very concerning”’, Reuters, (11 March 2017) available at: https://uk.news.
+yahoo.com/philippine-officials-chinese-ships-spotted-012700254.html (accessed 31 October 2017).
+49
+Manuel Mogato, ‘Duterte considering visiting South China Sea island’, Reuters, (6 April 2017), available at: https://www.usnews.com/
+news/world/articles/2017-04-06/philippines-duterte-plans-to-visit-disputed-south-china-sea-island (accessed 31 October 2017).
+50
+Bian Yizu, ‘Yuenan Zhengtan Jubian: Qinmeipai Ruan Jinyong weihe chuju’ [‘Radical change in Vietnamese politics: why
+pro-America Ruan Jinyong was out?’], Fenghuang Jujiao [Phoenix Focus] 267, (26 January 2016), available at: http://news.ifeng.
+com/a/20160126/47243184_0.shtml (accessed 6 July 2017).
+51
+‘Party chief Nguyen Phu Trong meets with his Chinese counterpart in Beijing’, Vietnam Net, (13 January 2017), available at: http://
+english.vietnamnet.vn/fms/government/171149/party-chief-nguyen-phu-trong-meets-with-his-chinese-counterpart-in-beijing.
+html (accessed 31 October 2017).
+
+360
+
+S. CHEN
+
+actions’.50 Hence, Vietnam seemed to resist the MSRI before 2016. NTD’s resignation in January 2016
+opened a new window. After being re-elected as the General Secretary, NPT chose China for his first
+state visit. During his visit, both leaders emphasized, ‘Vietnam and China will enhance partnership in
+improving production capacity and strengthening the connection between the “Two Corridors, One
+Economic Belt” and “One Belt, One Road” initiatives to match the demand, benefit and development
+strategy of each country’.51 In addition, Vietnam has been involved in the Lancang–Mekong Cooperation
+mechanism. However, Vietnam has not yet committed to any ‘Belt and Road’ transportation infrastructure megaproject, neither has it mapped out any plan to construct the trans-Asian Railway. Moreover,
+the policy division resulting from leadership change should not be exaggerated. It takes time to watch
+considering that NTD had many supporters in the VCP’s Politburo, and this small adjustment may also
+be caused by their concentration on power transition and uncertainties from the Trump Administration.
+Thanks to the evolving regional order in Asia, Singapore has to grapple with the relations with big
+powers. For decades, Singapore has been hedging, adopting an economically pro-China and militarily
+pro-US strategy. However, fearing being isolated, Singapore eventually found itself in a more intricate position since the Trump Administration tends to be more inward-looking while its relations with
+China soured. Beijing was displeased with Singapore’s military ties with Taiwan, and vocal support for
+the ruling over the SCS by an international tribunal.52 Within Singapore, debates arose concerning its
+foreign policy, culminating in a spat between two veteran diplomats, Kishore Mahbubani and Bilahari
+Kausikan.53 To some extent, this has reflected two opposing views on how to engage with China and
+whether Singapore should change tack in its constant pro-Washington policy. In realizing its economic
+future is hitched to China’s wagon, Singapore has decided to mend its ties with Beijing, eagerly jumping on the bandwagon of China’s BRI. At the same time, Singapore strives hard to keep America more
+engaged in Asia.
+Third, strong social resistance may constitute a stumbling block for a government to embrace the
+MSRI. The MSRI has provided a golden opportunity for Myanmar to promote its development, but
+when it comes to implementation, Myanmar has strong concerns that it may do harm to its security
+interests; and its society remains highly vigilant against the Chinese’s likely growing influence in this
+country. After all, many Burmese still have bad memories about China’s unconditional support for the
+previous military junta, which has generated negative political and public sentiments toward Beijing.
+Therefore, domestic politics have played a significant role in determining the SEA countries’ responses
+to the MSRI. Specifically, their attitudes may change because of power struggles, a change of ruling
+parties and leaders, and state–societal antagonism. It is widely believed that Malaysia’s strong support
+for the MSRI under Prime Minister Datuk Seri Najib Razak might be reversed if he lost the up-coming general election.54 Currently, the opposition party led by Ex-Prime Minister Mahathir Mohamad has harshly
+criticized Najib for his policies ‘destabilizing the country and threatening the party’s nearly six-decade
+stretch of uninterrupted governance’, including his rapprochement with Chinese investments.55
+
+Tan Zhi Xin, ‘Singapore’s big balancing act: the US vs China’, ASEAN Today, (24 December 2016), available at: https://www.aseantoday.com/2016/12/singapores-big-balancing-act-the-us-vs-china/ (accessed 26 October 2017).
+53
+Regarding their debates, see Kishore Mahbubani, ‘Qatar: big lessons from a small country’, The Straits Times, (1 July 2017), available
+at: http://www.straitstimes.com/opinion/qatar-big-lessons-from-a-small-country (accessed 31 October 2017); Bilahari Kausikan,
+‘Singapore cannot be cowed by size’, The Straits Times, (3 July 2017), available at: http://www.straitstimes.com/opinion/singaporecannot-be-cowed-by-size (accessed 31 October 2017).
+54
+Author’s interview with Hee Kong Yong, Shanghai (19 November 2016), and with Lai Menn Tatt, Beijing (2 July 2017).
+55
+Thomas Fuller and Louise Story, ‘Power struggle in Malaysia pits former premier against yet another protégé’, New York Times,
+(17 June 2015), available at: https://www.nytimes.com/2015/06/18/world/asia/malaysia-prime-minister-najib-razak-mahathir-mohamad.html (accessed 20 October 2017).
+52
+
+JOURNAL OF CONTEMPORARY CHINA
+
+361
+
+Conclusion
+This article aims to account for why SEA countries show different degrees of support for China’s MSRI.
+In the spectrum of SEA countries’ responses to China’s MSRI, Cambodia, Laos and Malaysia are strongly
+supportive of China’s MSRI. Thailand, Brunei, Singapore, Indonesia and Myanmar have rendered conditional support. They are more suspicious, worrying that joining with China is likely to jeopardize their
+independent sovereignty or geostrategic interests. Vietnam and the Philippines are two swing states.
+Sometimes they have some interest in joining, but sometimes they are resistant, much hinging upon
+the leadership.
+The authors’ analyses show that the hypotheses of trade imbalance and FDI inflows cannot be verified; the SCS dispute adversely affects some SEA countries’ support for the MSRI, but it is not a decisive
+dividing line, neither will they back down from their territorial claim notwithstanding any gains that
+may arise by joining the MSRI; America’s policy towards SEA is an important exogenous variable in the
+sense that stronger US involvement in Asia will provide more leverage, with which SEA countries are
+in a more advantageous position in dealing with China.
+It is found that the different responses from SEA countries are largely determined by their domestic
+politics. Specifically, ruling elites in countries prioritizing wealth creation are more supportive relative
+to those in countries prioritizing security enhancement; SEA countries with a higher degree of trust in
+China are more supportive of China’s MSRI; their leaders’ ideology and preference, power struggle and
+social reactions also have a pronounced impact.
+The policy implications are clear. China confronts considerable challenges in its effort to win SEA
+countries’ hearts through the MSRI considering some SEA countries remain vigilant and suspicious. The
+SCS dispute may not be a decisive dividing line, but it has deeply intertwined with domestic politics
+in SEA countries and America’s Asia policy. If China wants to make this initiative a success, it should
+change its way of paying little attention to engage with opposition parties, NGOs and civil society
+organizations.56 In particular, China should redouble efforts to clear away concerns and improve trust
+in SEA, and strive for more support from the US.
+Thus far, there are only two swing states—Vietnam and the Philippines—both of which seem to
+have adjusted their policies towards the MSRI. With more regime changes in other SEA countries in the
+future, it is very likely that more swing states will emerge.
+When making the above judgment, it is worth noting that SEA countries’ responses to China’s MSRI
+are undergoing changes. These changes may result either from a change in domestic politics, rising
+nationalism within each country, and/or from ups and downs of strategic rivalry among big powers.
+
+Acknowledgements
+The author is grateful to Jean-Marc F. Blanchard, Zhao Suisheng, Donald Emmerson, Tan Mullins and Thomas Fingar for
+their very constructive comments and suggestions. Thanks also go to Erin McKay for her excellent editing work.
+
+Disclosure statement
+No potential conflict of interest was reported by the author.
+
+Notes on contributor
+Shaofeng Chen is Associate Professor with the School of International Studies, Peking University (PKU), and also responsible
+for the PKU-Sciences Po Dual Master’s Degree in International Relations. His research interests cover multilateral development banks, China–ASEAN relations and global economic governance. He holds a Ph.D. from the National University
+of Singapore.
+
+56
+
+See Pou Sothirak, ‘Sino–Cambodia relations in the context of the “One Belt and One Road” initiative’, see note 45.
+
+

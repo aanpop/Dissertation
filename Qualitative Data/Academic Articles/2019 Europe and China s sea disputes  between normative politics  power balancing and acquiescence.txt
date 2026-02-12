@@ -1,0 +1,975 @@
+European Security
+
+ISSN: 0966-2839 (Print) 1746-1545 (Online) Journal homepage: www.tandfonline.com/journals/feus20
+
+Europe and China’s sea disputes: between
+normative politics, power balancing and
+acquiescence
+Andrew Cottey
+To cite this article: Andrew Cottey (2019) Europe and China’s sea disputes: between
+normative politics, power balancing and acquiescence, European Security, 28:4, 473-492, DOI:
+10.1080/09662839.2019.1636784
+To link to this article: https://doi.org/10.1080/09662839.2019.1636784
+
+Published online: 22 Jul 2019.
+
+Submit your article to this journal
+
+Article views: 1582
+
+View related articles
+
+View Crossmark data
+
+Citing articles: 2 View citing articles
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=feus20
+
+EUROPEAN SECURITY
+2019, VOL. 28, NO. 4, 473–492
+https://doi.org/10.1080/09662839.2019.1636784
+
+Europe and China’s sea disputes: between normative politics,
+power balancing and acquiescence
+Andrew Cottey
+Department of Government and Politics, University College Cork, Cork, Ireland
+ABSTRACT
+
+ARTICLE HISTORY
+
+China’s disputes with its South East Asian neighbours and Japan in
+the South and East China Seas have emerged as important tests of
+the implications of China’s rise, posing dilemmas not just for
+regional states but also for other global actors, including
+European states and the European Union (EU). European
+responses to these disputes have pulled in three directions: a
+normative approach emphasising the resolution of disputes within
+the framework of international law; a power balancing approach,
+led by France and the United Kingdom, involving support for
+freedom of navigation operations and strengthened bilateral and
+EU ties with other Asian states; and de facto acquiescence to
+Chinese advances in the region. In terms of understanding EU
+foreign policy, this case suggests a sequence: a normative
+approach as the initial default EU policy; a turn to power
+balancing when the eﬀectiveness of that policy is called into
+question, but also the possibility of acquiescence and consequent
+divisions amongst EU member states. Europe faces dilemmas in
+balancing support for the United States, Japan and the South-East
+Asian states with its strategic partnership with China, but in
+practice European policy is much closer to that of the former
+group than that of Beijing.
+
+Received 4 March 2019
+Accepted 23 June 2019
+KEYWORDS
+
+European foreign policy; EU
+foreign policy; China; South
+China Sea; East China Sea;
+normative power
+
+Introduction
+It is widely held that the European Union (EU) is a distinctive type of power in international
+politics. As far back as the 1970s, Duchêne (1972) described the EU as “civilian power”,
+emphasising its signiﬁcant economic power but its comparative lack of military power.
+More recently, Manners (2002) has described the EU as a “normative power”, highlighting
+support for the development of international norms as a deﬁning feature of EU foreign
+policy. The EU has also been described as a “liberal power”, again reﬂecting its support
+for liberal values and a liberal international order (Wagner 2017). This logic is reﬂected
+in the EU’s two foreign policy white papers, the 2003 European Security Strategy and
+the 2016 EU Global Strategy, both of which were underpinned by a strong commitment
+to international norms and multilateral institutions (European Union 2003, 2016a).
+This article analyses European – EU but also individual European states – responses to
+the escalating tensions between China and its East Asian neighbours overs disputes in
+CONTACT Andrew Cottey
+
+a.cottey@ucc.ie
+
+© 2019 Informa UK Limited, trading as Taylor & Francis Group
+
+474
+
+A. COTTEY
+
+the South and East China Seas, which have emerged as important tests of the implications of China’s rise since the late 2000s. The article explores to what extent EU (and
+wider European) policy on China’s sea disputes ﬁts with the model of the EU as a normative, liberal or multilateralist power. The article makes three contributions. First, it provides an assessment of the normative/liberal/multilateralist hypothesis on EU foreign
+policy in relation to the particular case of the China’s sea disputes with its East Asia neighbours. Second, it provides a detailed empirical analysis of the development of EU and
+wider European policy towards China’s sea disputes, placing this in the context of
+wider debates on EU foreign policy and in international relations theory (- while there
+have been some studies of EU policy on these disputes, these are limited in number
+and have not been particularly informed by theory, see Duchâtel and Huijskens 2015,
+Duchatel 2016a, 2016b). Third, the article contributes to the literature on EU–China
+relations, highlighting diﬀerences over China’s sea disputes as an additional factor (alongside longer-standing diﬀerences over human rights and economic issues) likely to limit
+the publicly proclaimed “comprehensive strategic partnership” between the EU and
+China. Methodologically, the article is based on a comprehensive analysis of oﬃcial EU
+documents since the early 2000s (- the EU did not have any policy on the South and
+East China Sea disputes prior to this), including oﬃcial EU policy statements on Asia,
+speciﬁc EU policy statements on the South and East China sea disputes, EU policy documents vis-à-vis individual Asia states and bilateral policy documents and statements
+between the EU and Asian states, as well as a review of member state policies and secondary literature over this period.
+I argue that, as it emerged in the early 2010s, EU policy on China’s sea disputes ﬁtted
+with the normative model of EU foreign policy, emphasising international norms, multilateral institutions and non-coercive measures. As China’s policy has become more assertive,
+the credibility of the EU’s normative policy, however, has been called into question.
+Against this background, some European states, in particular Western Europe’s two
+leading military powers, France and the UK, have, alongside the United States and Japan,
+begun to pursue a policy of military balancing against China, including by engaging in
+naval freedom of navigation operations (FONOPs). In parallel, the EU has quietly begun to
+pursue a policy of soft balancing against China by strengthening ties with other Asian
+states and the Association of South East Asian Nations (ASEAN). Many EU states, however,
+remain wary of antagonising or confronting China and consequently have been willing,
+de facto, to accept Chinese advances in the South and East China Seas – a policy I describe
+as acquiescence. These three elements of EU and wider European policy on China’s sea disputes – normative, power balancing and acquiescence – now sit uneasily alongside one
+another. In terms of our understanding of EU foreign policy, this case study suggests a
+pattern: a normative approach, emphasising international norms, multilateral institutions
+and non-coercive measures, as the default mode of EU policy; in situations where this
+approach is unsuccessful, a search for alternative policies, with power balancing or coercive
+measures and acquiescence as the two most likely options, and consequent increased divisions between member states because of the political risks and sensitivity of either option.
+Before examining in detail European policies on the South and East China Seas, it is
+worth brieﬂy placing the analysis in the context of existing debates and literature on
+the EU’s role in and relations with Asia, as well as its relationship with China. Since the
+1980s the EU’s relations with and role in Asia have expanded from a more limited
+
+EUROPEAN SECURITY
+
+475
+
+relationship involving trade and EU development assistance to Asia to a much broader
+relationship, encompassing a wide range of sectoral issues and a variety of institutionalised politico-diplomatic ties including bilateral relations with Asian states, EU engagement
+with and participation in Asian regional institutions and the Asia-Europe Meeting (ASEM)
+process (Kirchner et al. 2013). To varying degrees, the EU’s multilateral engagement with
+Asia – via its relations with ASEAN, its membership of the ASEAN Regional Forum (ARF) and
+the ASEM – involves dialogue on security issues. The EU also participated for the ﬁrst time
+in operational crisis management in Asia via its Aceh Monitoring Mission (AMM), a small
+civilian mission supporting the peace process in the Aceh region of Indonesia from
+2005 to 2012. Nonetheless, the EU’s security engagement with Asia has remained
+limited, with observers arguing that the EU’s main contributions to Asian security are its
+comprehensive approach to security (Reiterer 2014) and/or in relation to non-traditional
+security issues (Hwee 2010, Brown and Wong 2016). It is notable that the AMM remains
+the only EU crisis management operation in Asia to date. While the EU has not to date
+played a military role in Asia, France and the UK – Western Europe’s leading military
+powers – have long-standing security commitments in Asia, military bases or facilities in
+the region and the capacity to project military power into Asia (albeit on a small scale compared to the US) (Stares and Regaud 1997). Since the 1990s China has become the EU’s
+most important partner in Asia. The two have developed what they now refer to as a “comprehensive strategic partnership”, involving dialogue and cooperation across a very wide
+range of sectoral areas and an extensive bilateral institutional infrastructure. The EU–China
+partnership, however, is not unproblematic, in particular because of systemic diﬀerences,
+resulting in disputes over trade and investment, as well as human rights (Fox and Godement 2009, Christiansen et al. 2019). The EU and China have also established quite extensive dialogue and to some extent cooperation across a range of security issues, but EU–
+China security cooperation remains constrained by diﬀerences over fundamental issues
+such as the US role in Asia and state sovereignty (Kirchner et al. 2016, Christiansen et al.
+2019, pp. 122–139). Considered against this background, the disputes in the South and
+East China Seas provide a test of whether the EU can play a growing security role in
+Asia, what type of role that may be and how this may impact on the Union’s putative strategic partnership with China.
+
+The South and East China sea disputes
+Until the mid-2000s the South and East China Sea disputes were relatively localised disputes between the East Asian states. Since then, however, China has pursued an increasingly assertive approach to these disputes, in particular through the advancement of its
+“nine-dash line” territorial claim over most of the South China Sea, its land reclamation
+and military deployments in the South China Sea and the declaration of an Air Defence
+Identiﬁcation Zone (ADIZ) over the East China Sea. Against the background of China’s
+growing economic, political and military power, the South and East China Sea disputes
+have become important tests of the implications of China’s rise, as well as focal points
+of an emerging geostrategic competition between the United States (US) and China
+which some observers describe as a “new Cold War”. This section brieﬂy reviews the background, substance and evolution of the disputes over the South and East China Seas.
+
+476
+
+A. COTTEY
+
+The South China Sea conﬂict involves a complex series of overlapping territorial disputes between China, Taiwan, Vietnam, the Philippines, Malaysia and Brunei (Raine and
+Le Miere 2013, Hayton 2015). After the end of the Second World War, Japan’s defeat
+and the withdrawal of the European imperial powers left the various islands disputed
+between the Sea’s littoral states. In 1974, following a brief battle with South Vietnam,
+China took control of the Paracel Islands (the main set of islands in the west of the Sea).
+The most contested part of the South China Sea has been the Spratly Islands, in the
+centre/west of the Sea, with China and Vietnam ﬁghting a short armed conﬂict there in
+1988.
+From the mid-2000s, China began to pursue a more forward policy, seeking to assert
+control over the South China Sea and harassing ﬁshing and military vessels of both the
+other littoral states and extra-regional powers (Yahuda 2013). In 2009 China submitted
+documents to the United Nations outlining a historic and legal claim of sovereignty
+over most of the South China Sea under the so-called “nine-dash line” map (Rajagobal
+2016). From 2013 China engaged in a large-scale programme of land reclamation and militarisation in reefs across the Spratly Islands and by the late 2010s had built or deployed
+runways, docks, radars and missiles, making China by far the dominant military power
+in the Islands. The various disputes in the South China Sea now involve regular lowlevel incidents between ﬁshing vessels, coast guards and military vessels. In response to
+China’s attempt to assert sovereignty over the Sea, the US (and a variety of other countries)
+now also engage in explicit freedom of navigation operations (FONOPs), sailing military
+vessels through the Sea to assert their international legal right to do so. These operations
+have resulted in increasing tensions, with Chinese vessels and aircraft warning US and
+other countries vessels to stay away from what they argue is Chinese sea/airspace.
+Additionally, in 2013 the Philippines took a case under the 1982 UN Convention on the
+Law of the Sea (UNCLOS) against the Chinese claim for sovereignty over the South
+China Sea. China’s view is that the disputes should be resolved bilaterally between the
+states concerned (where China, as the largest power, has the greatest leverage) and it
+refused to participate in the UNCLOS process. In July 2016 the arbitral tribunal constituted
+under UNCLOS found that there was no legal basis for China’s “nine-dash line” claim.
+Under its populist President Rodrigo Duterte (elected in June 2016) the Philippines subsequently backed-away from the arbitral tribunal decision, but the decision was nonetheless a diplomatic setback for China.
+The East China Sea dispute centres on small uninhabited islands known as Senkaku in
+Japanese and Diaoyu in Chinese and located between the southern tip of the Japanese
+archipelago, China and Taiwan (Manicom 2014, Chansoria 2018). Japan has controlled
+the islands since 1895, although they were administered by the US from 1945 to 1972.
+China asserts it has claims to the islands dating back centuries. The dispute remained relatively quiescent until the 2000s, when incidents began to occur in the waters oﬀ the
+Islands between Chinese ﬁshing vessels and the Japanese Coastguard.
+The situation escalated in the 2010s. In 2012 the Japanese government bought from
+their private owner three of the islands it did not already own: the action was taken to
+prevent them falling into the hands of an ultranationalist, but was viewed in China as
+a provocation. Chinese coastguard and navy vessels and aircraft began to regularly
+enter Japanese-controlled waters and airspace, triggering low-level incidents with Japanese military vessels and aircraft. In November 2013 China went further, taking the
+
+EUROPEAN SECURITY
+
+477
+
+politically provocative step of declaring an East China Sea ADIZ including the Senkaku/
+Diaoyu Islands. ADIZ’s involve regions where a country aims to monitor and control all
+ﬂights in the airspace covered. Japan, South Korea and Taiwan have all had ADIZs in
+the region for some decades, but these largely do not overlap and have existed sideby-side without signiﬁcant problem. The new Chinese ADIZ overlapped substantially
+with the existing Japanese one, creating the potential for clashes. Japan, the US and
+other countries responded by undertaking military ﬂy-throughs to assert their right to
+ﬂy in the area. Japanese and Chinese military aircraft have subsequently been regularly
+involved in low-level incidents ﬂying close to one another. The US is also drawn into
+the dispute by its mutual security treaty with Japan, which commits America to
+defend Japan if it is attacked: although the US takes no position on the Senkaku/
+Diaoyu dispute per se, it has long maintained that its security commitment to Japan
+includes the Senkaku/Diaoyu Islands.
+The South and East China Sea disputes have become intertwined with the escalating
+strategic competition between the US and China in East Asia (Heginbotham et al 2015).
+As China’s policy has developed since the 2000s, Beijing has sought not only to
+advance its speciﬁc territorial claims but also to assert de facto control over the waters
+and airspace of the South and East China Seas. The US argues that South and East
+China Seas are international waters in which its military has the right to operate freely.
+The Obama administration’s pivot to Asia policy and the Trump administration’s Free
+and Open Indo-Paciﬁc strategy have been designed to defend the principles of free
+access to the South and East China Seas as international waters, reinforce the US military
+presence in the region and strengthen ties with US allies. The result has been increasing
+tensions, regular low-level incidents between China and the US (as well as between China
+and the South-East states, Japan and other states including Australia, India, France and the
+United Kingdom) and the risk that a low-level incident could trigger a crisis, or even in
+extremis a major war. The risks in the South China Sea were illustrated in September
+2018 when a Chinese warship came within 40 metres of a US warship undertaking a
+freedom of navigation operation (FONOP), forcing the US warship to alter course, with
+the US Department of Defense describing the Chinese actions as “aggressive” and
+“unsafe and unprofessional” (Nouwens 2018).
+
+The EU: towards a European policy?
+EU policy on China’s sea disputes emerged only relatively late, in the 2010s. The EU’s 2003
+European Security Strategy noted the importance of building relationships with Asia, and in
+particular of developing strategic partnerships with Japan, China and India, but did not
+refer to the South or East China Sea disputes (European Union 2003, p. 14). In December
+2007 EU member states adopted Guidelines on the EU’s Foreign and Security Policy in East
+Asia, but these focused on North-East Asia (in particular North Korea’s nuclear programme
+and Taiwan) and made no reference to the South China Seas dispute (European Union
+2007, p. 1, p. 2, p. 4 and pp. 7–9). The document did not make speciﬁc reference to the
+East China Sea dispute but it did note the dangers of “competitive nationalism in the
+region” and argued that the EU should “promote conﬁdence-building measures and
+encourage peaceful and cooperative solutions to China’s, Republic of Korea’s and
+Japan’s disputes over territory and resources” (European Union 2007, p. 2 and p. 5).
+
+478
+
+A. COTTEY
+
+By the early 2010s, both the South and East China Sea disputes were gaining attention
+internationally. In June 2012 the Union adopted a revised version of the Guidelines on the
+EU’s Foreign and Security Policy in East Asia: much of the text was the same as the 2007
+version, but the 2012 version explicitly included South-East Asia and incorporated substantive new paragraphs on the South China Sea. The guidelines stated that “the recent
+increase in tensions in the South China Sea … could if unchecked have implications for
+navigation across the broader region, including for EU trade and investment interests”
+(European Union 2012a, p. 5). According to the 2012 guidelines, the EU should “encourage
+the parties concerned to resolve disputes through peaceful and cooperative solutions and
+in accordance with international law (in particular UNCLOS), while encouraging all parties
+to clarify the basis for their claims”, “recall previous work to build a collaborative diplomatic
+process on these issues at the regional level; and encourage ASEAN and China to build on
+this foundation and agree a Code of Conduct” (European Union 2012a, pp. 19–20). The
+2012 guidelines included the same language as the 2007 version on “competitive nationalism” and conﬁdence-building between China and Japan.
+In response to escalating tensions in mid-2010s, the EU issued a number of further diplomatic statements on the two sets of sea disputes. In response to Chinese land reclamation and militarisation in the South China Sea, in March 2016 the EU issued a
+strongly worded statement criticising Beijing’s actions. The statement stressed the EU’s
+support for “maintaining a legal order for the seas and oceans based upon the principles
+of international law” especially UNCLOS, urged “all claimants to resolve disputes through
+peaceful means, to clarify the basis of their claims, and to pursue them in accordance with
+international law” and encouraged “further engagement in conﬁdence building measures
+which seek to build trust and security in the region”. While not explicitly referring to China,
+the statement noted that the EU was “concerned about the deployment of missiles on
+islands in the South China Sea”, described “the temporary or permanent deployment of
+military forces or equipment on disputed maritime features which aﬀects regional security
+and may threaten freedom of navigation and overﬂight” as “a major concern” and called
+on “all claimants to refrain from militarisation in the region, from the use or threat of force,
+and to abstain from unilateral actions” (European Union 2016b). When the UNCLOS tribunal issued its ruling in favour of the Philippines in July 2016, the EU issued a further statement acknowledging the tribunal’s decision and again calling on all parties to address the
+issue “through negotiations and other peaceful means and refrain from activities likely to
+raise tensions” (European Union 2016c). The July 2016 statement was widely viewed as
+weak, since it only “acknowledged” the tribunal’s decision, rather than calling for China
+to respect that decision (- the internal EU politics behind the statement are discussed
+further below).
+On the East China Sea, the EU at diﬀerent points has issued statements critical of
+Chinese and Japanese actions – reﬂecting a view that both parties have at times taken provocative or escalatory steps. When the Japanese government purchased the Senkaku/
+Diaoyu Islands by in September 2012, the EU issued a statement noting that it was “following with concern developments in East Asia’s maritime areas”, reiterating the language
+from its June 2012 East Asia policy guidelines on the need for “all parties concerned to
+seek peaceful and cooperative solutions in accordance with international law, in particular
+the UN Convention on the Law of the Sea and to clarify the basis for their claims”, and
+calling on “all parties to take steps to calm the situation” (European Union 2012b).
+
+EUROPEAN SECURITY
+
+479
+
+When China declared its ADIZ over the East China Sea in November 2013, the EU
+responded with a strongly worded statement expressing concern over the establishment
+of the ADIZ, arguing that the “development heightens the risk of escalation and contributes to raising tensions in the region” and calling on all sides “to exercise caution and
+restraint” and “to take steps to calm the situation, to promote trust building measures
+and reach out diplomatically to seek peaceful, cooperative solutions according to international law” (European Union 2013).
+An additional framework which the EU has used to amplify its diplomatic voice on the
+South and East China Sea disputes is the Group of 7 (G7). The EU is not oﬃcially a member
+of the G7 but in practice participates as a member, represented at annual heads of government/state summits by the Presidents of the European Commission and the European
+Council and at foreign ministers meetings by the EU foreign policy High Representative.
+At their June 2014 summit in Brussels G7 leaders’ expressed themselves “deeply concerned by tensions in the East and South China Sea”, stated their opposition to “any unilateral attempt by any party to assert its territorial or maritime claims through the use of
+intimidation, coercion or force” and underscored “the importance of the freedom of navigation and overﬂight” (Group of 7 2014, para. 39). Following this, in April 2015 G7 Foreign
+Ministers issued a Declaration on Maritime Security which included similar strong language
+(Group of 7 2015). Since then, the annual G7 summits and foreign ministers’ meetings have
+included similar language on maritime security and the South and East China Seas.
+In May 2018 EU foreign ministers also agreed guidelines for enhanced EU security
+cooperation in and with Asia. The guidelines listed maritime security ﬁrst amongst the
+“key areas for deeper security engagement” and called for action to “help strengthen
+the ability of ASEAN and its member states to better address traditional and non-traditional maritime security issues such as upholding freedom of navigation”, enhanced
+cooperation on maritime security with other Asian partners, including the Indian Ocean
+Rim Association (IORA), and the deepening of “existing cooperation on upholding key
+international normative frameworks, including the UN Convention on the Law of the
+Sea (UNCLOS) … and implementing conﬁdence building measures on that basis”
+(Council of the European Union 2018, paras. 6–7). On the basis of these guidelines, the
+EU intends to develop pilot projects with India, Japan, South Korea, Vietnam and Indonesia
+(and notably not China). This will be followed by further tailor-made cooperation with “a
+wider group of the group of the EU’s priority partners in the Asian region” (although the EU
+has not so far deﬁned which Asian countries are its “priority partners”) (European External
+Action Service 2018).
+
+Normative Politics
+Manners (2002) argument that the EU is a distinctive “normative power” has triggered
+debate on what exactly it means to be a normative power and how far the EU actually
+matches the concept in practice (Forsberg 2011, Whitman 2011, Diez 2013). Forsberg
+(2011) concludes that normative power is an ideal type, to which the EU at least approximates and which captures the distinctive character of the EU as an international actor. The
+concept of normative power implies that the EU seeks to promote speciﬁc substantive
+norms (such as human rights, democracy and environmental protection), but also that
+the EU seeks to promote process-oriented norms such as the peaceful resolution of
+
+480
+
+A. COTTEY
+
+disputes, the conduct of international relations within the framework international law and
+the strengthening of multilateral institutions. The idea of normative power Europe thus
+overlaps signiﬁcantly with the idea of Europe as a “liberal power” (Wagner 2017):
+Europe seeks to promote liberal domestic norms such as democracy and human rights
+and Europe seeks to promote liberal international process norms such as the strengthening of international law and multilateral institutions. The EU’s strong oﬃcial support for
+multilateralism (European Union 2003, 2016a) clearly also ﬁts with the idea of the EU as
+a normative or liberal power. A normative/liberal/multilateralist approach to foreign
+policy can also be contrasted with realist approaches focused on the pursuit of narrowly
+deﬁned national interests (such as increasing material power) or the balance of power.
+Much of European and EU policy towards the South and East China Sea disputes,
+especially those statements that have been collectively agreed by the member states as
+EU positions, ﬁts ﬁrmly within the type of normative framework discussed above. Duchâtel
+and Huijskens describe the EU’s position as being one of “principled neutrality” (Duchâtel
+and Huijskens 2015, Duchatel 2016a, 2016b). This normative approach has three particular
+elements. First, the EU takes no position – indeed, explicitly avoids taking any position – on
+the substance of the territorial the disputes (European Union 2012a, p. 19). Second – and
+the central normative element of the policy – the EU argues that the disputes should be
+resolved within the framework of international law, in particular UNCLOS, and only by
+peaceful means. Third, the EU encourages the pursuit of practical measures of dialogue,
+conﬁdence-building and cooperation between the parties to the disputes, encompassing
+both politico-diplomatic and military activities and functional cooperation (such as joint
+environmental protection).
+The EU seeks to give substance to this normative policy in a number of ways. First, the
+various EU policy documents and statements discussed above are diplomatic acts in themselves, staking out the EU’s position and aiming to encourage other parties to work within
+and engage constructively with the international norms that the EU supports. Second, the
+EU has bilateral relationships with all the East Asian countries concerned, as well as membership of a number of Asian multilateral frameworks (such as the ASEAN Regional Forum
+(ARF) and the Asia-Europe Meeting (ASEM)), and uses these relationships to advance its
+normative position and pursue dialogue with Asian partners on the disputes. Third,
+where possible, the EU seeks to provide expertise and advice to support dialogue, conﬁdence-building and functional cooperation. In its nature, most EU activity in this area
+involves quiet diplomacy, seeking to engage with Asian partners largely away from the
+public limelight (European Union 2014a, para. 14, 2014b, 2015, European Commission
+and High Representative of the Union for Foreign Aﬀairs and Security Policy 2015,
+p. 12). Although quiet diplomacy is inevitably diﬃcult to assess, there is little evidence
+to suggest that the EU’s engagement in this way has had a signiﬁcant impact.
+In particular, if one accepts the assessment that the central issue in the South and East
+China Seas is China’s increasing assertiveness, the EU appears to have had little – if any –
+impact on Chinese policy. Diﬀerences over the South China Sea were an important factor
+in the failure to agree joint statements at the 2016 and 2017 EU–China summits (EURACTIV
+2016, VN Express 2017). In general, China has sought to exclude the South and East China
+Sea issues from the agendas of EU–China summits and other bilateral dialogues. At their
+July 2018 summit, the EU and China were able to agree a joint statement including a paragraph on the South China Sea calling “upon all relevant parties to engage in dialogue, to
+
+EUROPEAN SECURITY
+
+481
+
+settle disputes peacefully, and to refrain from actions likely to increase tensions” (European
+Union 2018) (- agreement on an EU–China joint statement in 2018 was underpinned by
+the desire to counter the Trump administration’s unilateralism, in particular on trade).
+Nonetheless, China’s positions on the South and East China Seas do not seemed to
+have been altered by the EU’s engagement with Beijing.
+
+Power balancing
+If the central normative element of EU policy has demonstrated little success, this begs
+the question of what an actor can or should do if others do not respect the norms one
+seeks to advance? Two obvious approaches are available. First, one may use more coercive measures – diplomatic sanctions, economic sanctions or military force – to deter,
+pressure or coerce an actor failing to accept international norms. Second, one may
+build-up political, economic and military relations with other states to alter the balance
+of power vis-à-vis the state which is violating international norms. Such power balancing
+to some extent runs counter to the strong normative emphasis in EU foreign policy.
+Nonetheless, important elements of power balancing can be identiﬁed in the South
+and East China Sea policies of some European states and, at least in part, of the EU as
+a collectivity.
+As Europe’s leading military powers, France and the United Kingdom (UK) have become
+more directly involved militarily in the South and East China Seas – and East Asia more
+broadly – since the early 2010s. A number of recent French oﬃcial documents, including
+the 2013 white paper Defence and National Security, have expressed concerns about
+China’s growing naval power, its increasing assertiveness in the South and East China
+seas and the need for France to defend its interests, including freedom of navigation, in
+the Asia-Paciﬁc (Scott 2017). Likewise, the UK’s 2015 Strategic Defence and Security
+Review commits the UK to support freedom of navigation globally and Britain is pursuing
+an active Asia policy including a signiﬁcant security dimension (UK Government 2015, para
+5.87, Lillie 2016).
+The most explicit way in which France and the UK have engaged in power balancing
+vis-à-vis China in the South China and East China Seas is through FONOPs. France and
+Britain have long track records of naval activity in the Asia-Paciﬁc and in this context
+French and British naval vessels have sailed in (what they view as) the international
+waters of the South China and East China Seas. Until recently, however, such operations
+were not explicitly branded as FONOPs, nor particularly a response to China’s activities.
+Since the mid-2010s, however, following the US lead, France and the UK have become
+more active in sailing naval vessels through the South and East China Seas and publicly
+announcing these missions as FONOPs. At the June 2016 Shangri-La Dialogue Asian security summit, then French defence minister Jean-Yves Le Drian spoke explicitly about the
+threat posed to freedom of navigation in the China seas, the need to defend freedom
+of navigation and overﬂight and stated that France would do so “by operating her
+ships and ﬂying her aircraft wherever international law permits”. Le Drian also noted
+the importance of the situation in the China Seas for the EU and called for European
+navies to “coordinate to ensure a presence that is as regular and visible as possible in
+the maritime areas in Asia” (Le Drian 2016). In 2017 and 2018 France used its annual
+Jeanne d’Arc naval exercises – a months-long global deployment of French vessels – to
+
+482
+
+A. COTTEY
+
+sail through the South China Sea in defence of freedom of navigation (French Navy Information and Public Relations Department 2017, Ganesan 2018).
+The UK has also begun to engage in FONOPs in the South and East China Seas. In July
+2017 then foreign secretary Boris Johnson indicated that one of the ﬁrst deployments for
+the UK’s two new aircraft carriers when they become fully operational in the early 2020s
+would be on FONOPs in the South China Sea (Parameswaran 2017). In February 2018 the
+frigate HMS Sutherland sailed through the South China Sea and in May and September
+2018 HMS Albion also sailed through the Sea (Corﬁeld 2018, Reuters 2018).
+France and the UK have also sought to cooperate on FONOPS in the region, bilaterally
+with one another, with the United States, with other European states and with Asian states
+such as Australia and Japan. In 2017 and 2018 UK forces (40 personnel and two Wildcat
+helicopters, in each case) were deployed on French vessels for the duration of the ﬁvemonth Jeanne d’Arc exercises (Allison 2018). Personnel from other European countries
+(such as Denmark and Germany), as well as the US, have also been deployed on the
+Jeanne d’Arc exercises since 2017.
+Since the mid-2010s France and the UK have also sought to strengthen bilateral security
+and defence cooperation with Asian states, in particular Australia, Japan and India, but also
+ASEAN members (Brattberg et al. 2018). Although not the only driver or issue in these
+defence relationships, the escalating tensions in the South and East China Seas have
+been a signiﬁcant factor. In the French case these ties include: with Australia, a Joint Statement of Enhanced Strategic Partnership in 2017 and a Vision Statement on the AustraliaFrance Relationship in 2018; with Japan, annual two-plus-two foreign and defence ministers meeting since 2014 and a 2018 Acquisition and Cross-Servicing Agreement (ACSA) to
+support interoperability and mutual support services between their militaries; and with
+India, the initiation of a bilateral maritime dialogue in 2015 and the signing in 2018 of a
+Joint Strategic Vision of India-France Cooperation in the Indian Ocean Region document
+and a bilateral logistical cooperation agreement. In the British case ties include: a longstanding history of bilateral military cooperation with Australia, since the late 2000s
+annual Australia-UK two-plus-two foreign and defence ministers meetings, a revised
+defence and security cooperation treaty signed in 2013 and a 2018 joint statement
+entitled The UK and Australia: a dynamic partnership for the twenty-ﬁrst Century; with
+Japan, a 2014 joint statement on A Dynamic Strategic Partnership For The 21St Century,
+annual two-plus-two ministerial meetings since 2015, in 2016 the two countries ﬁrst
+joint aircraft exercises in Japan and a 2017 Joint Declaration on Security Cooperation;
+and with India, a 2015 Defence and International Security Partnership document, including
+commitments a wide range of bilateral security dialogues. Maritime security, freedom of
+navigation and overﬂight and the South and East China Sea have been substantial
+elements in these various bilateral dialogues.
+France and the UK have also sought to multilateralise their new defence engagement in
+Asia. The French Jeanne d’Arc deployment provides a context in which French forces exercise with a variety of Asian partners, as well as the UK and the US. In October 2016 the
+chiefs of the US, UK and Japanese navies held their ﬁrst ever trilateral talks, agreeing to
+deepen cooperation and stating that this would serve “the interests of all nations who
+depend upon the free ﬂow of commerce and trade through the global maritime
+commons” (United States Navy 2016). In May 2017 the US, Japan, France and the UK
+also held their ﬁrst ever quadrilateral military exercises, involving amphibious landings
+
+EUROPEAN SECURITY
+
+483
+
+and delivering forces by helicopter on the Paciﬁc island of Guam – exercises that could be
+viewed as modelled on deploying forces to support Japan on the Senkaku/Diaoyu Islands
+(Daley and McAvoy 2017).
+An additional element of European engagement with Asia which could be viewed as
+balancing against China are arms exports. The EU has maintained an embargo on arms
+exports to China since the 1989 Tiananmen Square massacre, whereas EU members continue to export arms to other Asian states, including Japan, ASEAN members, India and
+Australia. Such arms exports are quite substantial and have grown in scale over the last
+decade (Pejsova 2018). Whether they should be understood as part of a strategy of balancing against China, however, is debatable: arms exports are arguably driven primarily by
+economic interests and balancing against China does not appear to be a signiﬁcant motivation from the European side to date.
+A third element of European power balancing is a re-balancing of EU political and economic relations in Asia towards states other than China. In the 1990s and 2000s the EU’s
+policy towards Asia was characterised by a signiﬁcant element of “China ﬁrst”: de facto
+the EU invested signiﬁcantly more in developing relations with China than with other
+Asian states. As is detailed below, since the late 2000s there has been a quiet re-balancing
+of EU policy, with the EU working to strengthen its relations with larger Asian powers
+(Japan, Australia, India, South Korea, Indonesia and Vietnam), as well as with ASEAN. In
+contrast to France and the UK’s military hard balancing, the re-balancing of the EU’s
+Asia policy may be understood as an example of soft balancing. Soft balancing involves
+using international institutions, informal alignments, economic statecraft and diplomatic
+arrangements, as opposed to hard military power, to balance against another state, constrain that state or complicate its pursuit of particular objectives (Pape 2005, Paul 2005,
+2018).
+In 2015 EU member states agreed a new policy for enhanced cooperation with ASEAN,
+emphasising the “strategic” dimension of the relationship, describing maritime security as
+“a key challenge of common concern”, and reaﬃrming the EU’s “strong interest in maintaining stability and security in the South China Sea” (European Commission and High
+Representative of the Union for Foreign Aﬀairs And Security Policy 2015, p. 12). The EU
+has concluded Partnership and Cooperation Agreements (PCAs – general frameworks
+for political and sectoral cooperation) with Indonesia (in 2009), Vietnam (2012), the Philippines (2012), Singapore (2013), Thailand (2013, although suspended by the EU until
+democracy is restored in Thailand following a military takeover in 2014) and Malaysia
+(2015) and is negotiating a PCA with Brunei. The EU concluded Free Trade Agreements
+(FTAs) with Singapore (in 2013) and Vietnam (2015) and is negotiating FTAs with Indonesia, Malaysia, the Philippines and Thailand. Since 2013 there have also been a series of EUASEAN high level dialogues on maritime security cooperation. The EU has also used its
+bilateral ties with Vietnam and the Philippines to discuss the South China Sea and to
+provide diplomatic backing to the two countries (European Union 2014a, para. 14,
+2014b, 2015).
+In the 2010s the EU has also sought to signiﬁcantly upgrade its relations with Japan,
+culminating in the signing of an Economic Partnership Agreement (EPA, a free trade agreement) and Strategic Partnership Agreement (SPA) in July 2018. The SPA commits the EU
+and Japan to dialogue and cooperation on a wide range of foreign and security policy
+areas, including maritime aﬀairs, where the two will “work together to promote the rule
+
+484
+
+A. COTTEY
+
+of law in this area, including freedoms of navigation and overﬂight” (European Union/Government of Japan 2018a, Art. 29). Since the mid-2010s the EU and Japan have also used
+their annual summits to express their shared interest in maritime security and the South
+and East China Seas (European Union/Government of Japan 2018b).
+With Australia, the EU concluded a 2015 agreement on the terms of possible Australian
+participation in EU crisis management operations, a 2017 Framework Agreement as a longterm basis for enhanced dialogue and cooperation (including a regular dialogue on
+foreign and security policy issues) and is negotiating an FTA (Selivanov and Casarini
+2018). Since the mid-2010s, the EU-India relationship has also gained new momentum.
+Annual EU-India summits restarted in 2016, after a four year gap, with an EU-India
+Agenda for Action 2020 adopted (Mohan 2018). In November 2018 the European Commission and the High Representative proposed a new EU strategy on India, to be approved by
+member states. The strategy proposed strengthening ties with India, including in security
+and defence, as part of “a balanced EU policy towards Asia as a whole” and speciﬁcally
+noted the two partners’ shared interest in sea lines of communications and maritime
+security (European Commission and High Representative of the Union for Foreign
+Aﬀairs and Security Policy 2018, p1 and p12). In July 2018, further, India conducted
+naval exercises in the South China Sea with Singapore, reversing its hitherto stance of
+avoiding antagonising China over the issue – suggesting that there might be greater
+scope for cooperation with European countries and the EU on the South China Sea in
+future (Economic Times 2018).
+While the EU continues to seek cooperation with China, the re-balancing of the Union’s
+Asia policy can only really be understood in the context of growing concerns about China’s
+power and its new foreign policy assertiveness, including in the South and East China Seas.
+The EU has not publicly indicated that the re-balancing of its Asia policy is a response to
+China’s rising power or increasing assertiveness; nor does the EU use the language of soft
+balancing. Nonetheless, (soft) balancing against China is the only convincing explanation
+of the shift in EU policy: China’s rising power and increasing assertiveness is the one factor
+that has changed since the 1990s and 2000s and there is no other observable driver of
+change. Further, as noted, many of the various agreements and statements concluded
+with the EU’s Asian partners make speciﬁc reference to shared interests in maritime security and freedom of navigation.
+
+Acquiescence
+The third strand one can identify in European policy on the South and East China Seas is
+the opposite of power balancing and can be termed acquiescence. Such an approach
+might also be described as accommodation, in the sense of accommodating to China’s
+rising power (Paul 2016). Accommodation might be viewed as a sensible strategy, in particular if one believes that China’s argument or interests in the South and East China Seas
+are to some extent legitimate or if one takes the view that accommodation with China is
+necessary in order to avoid conﬂict and the risk of a major war. Accommodation in this
+sense would imply a deliberate strategy of seeking to address China’s concerns or to
+reach a compromise with Beijing. My argument here, however, is that some EU
+member states and to some extent the EU as a whole are reluctant to confront China
+over the South and East China Seas and have consequently been willing to acquiesce
+
+EUROPEAN SECURITY
+
+485
+
+to China’s actions (more pejoratively, this approach could even be described as appeasement), as opposed to the pursuit of a deliberate strategy of accommodation (Dimuccio
+1998).
+Such acquiescence can be seen in the politics behind the EU’s two 2016 statements on
+the South China Sea. The initial March 2016 statement took months to negotiate amongst
+EU members because some member states were concerned that a strong statement would
+antagonise China. Following the relatively strong March EU statement, China worked to
+inﬂuence EU member states on the issue, including during visits by President Xi Jinping
+to Poland and Croatia in June 2016 and a visit by Greek President Alexis Tsipras to
+Beijing later that month. The negotiation of the July 2016 EU statement on the UNCLOS
+tribunal decision proved very diﬃcult, with Greece, Hungary and Croatia opposing
+language that would have “supported” or “welcomed” the tribunal’s decision (Fallon
+2016, Norman 2016). Greece and Hungary, in particular, have received signiﬁcant
+Chinese investment in recent years. Croatia and Slovenia also have a bilateral maritime
+dispute and were concerned about setting a precedent regarding UNCLOS jurisdiction
+over such disputes. Consequently, in contrast to the positions of the US and Australia,
+the EU’s statement only “acknowledged” the decision rather than calling on China and
+the Philippines to respect or implement it. One EU diplomat in Beijing reportedly described
+the statement as “shameful” (Economist 2018, p.18). The day after the EU statement
+Hungary also issued its own national statement on the South China Sea, expressing its
+“conviction that disputes should be addressed in a peaceful manner by the countries concerned through direct negotiations” (i.e. China’s position, in contrast to the view that multilateral frameworks such as UNCLOS also have a role to play) and arguing that “external
+pressure and interference may have an adverse eﬀect on the current situation” (Hungarian
+Ministry of Foreign Aﬀairs and Trade 2016) (- the authoritarian character of the Orban government and Hungary’s pariah status in the EU were presumably also factors here).
+Acquiescence is also arguably a larger feature of EU policy towards China’s sea disputes,
+reﬂecting some broader dynamics in the EU–China relationship. China is a major trading
+partner for the EU, comparable in scale to the US. More recently, China has begun to invest
+quite signiﬁcantly in Europe. Consequently, member states are wary of actions that might
+potentially disrupt economic relations with China. Politically, the EU has invested quite signiﬁcantly since the 1990s in building its “comprehensive strategic partnership” with China.
+Beijing, further, is quite skilled at playing “divide and rule” with EU member states, often
+succeeding in weakening the Union’s positions vis-à-vis China. Additionally, the South and
+East China Sea disputes are only one part of a much wider relationship, meaning that the
+EU has to balance multiple dimensions and competing considerations in its relations with
+China. In the context of the Trump administration’s turn against multilateralism, China is an
+important partner for the EU in maintaining support for a liberal, rules-based trading
+system centred on the World Trade Organization (WTO) and for multilateral action on
+climate change in the framework of the Paris agreement. The strong statement from
+the July 2018 EU–China summit in support of multilateralism, especially on trade and
+climate change, reﬂected this logic and some observers argue that if the US retains its unilateralist approach this is likely to push the EU and China closer to one another (Patrick and
+Feng 2018).
+Finally, notwithstanding recent eﬀorts to strengthen the EU’s Common Security and
+Defence Policy (CSDP), the number of CSDP operations has actually declined compared
+
+486
+
+A. COTTEY
+
+to the 2000s, beyond France and the UK capabilities for military power projection outside
+Europe are limited and member states are generally wary of EU operations involving the
+use of force or risk of armed conﬂict (as, sotto voce, is the case with FONOPs in East Asia).
+Despite France’s calls for wider European engagement in FONOPs in East Asia, it is diﬃcult
+to envisage member states agreeing to a collective EU role in FONOPs or an EU operational
+role in any potential conﬂict with China.
+
+Conclusion
+Against the background of the debate on the EU’s distinctive character as a normative,
+liberal or multilateralist power, this article has analysed EU and EU member state responses
+to the growing tensions between China and its East Asian neighbours over the South and
+East China Seas, seeking to explore how far EU and member state policy ﬁts with the normative/liberal/multilateralist hypothesis. These disputes provide an interesting case study
+of a situation where the EU had no prior policy, agreed collective EU positions in the early
+2010s but EU and member states’ policies have evolved signiﬁcantly since then. The initial
+EU positions established in the early 2010s reﬂected a normative approach emphasising
+the resolution of the disputes in the context of international law and by peaceful
+means and calling for restraint by all parties and the establishment of conﬁdence-building
+measures. This suggests that a normative/liberal/multilateralist approach is the default collective policy preference of the EU. This is not surprising, as the normative/liberal/multilateralist approach can be viewed as an external projection of the EU’s internal character, as
+well as often being the easiest consensus around which member states can agree. As this
+article has shown, however, China’s increasingly assertive policies on the South and East
+China Seas and the limited impact (if any) of the EU’s normative approach have called
+the credibility of EU policy into question. Against this background, elements of a power
+balancing approach have emerged, with France and the UK participating in FONOPs
+and strengthening military ties with other Asian states and the EU strengthening its political and economic ties other Asian states and ASEAN. Many EU member states, however,
+remain wary of antagonising China and some (most notably Greece and Hungary, to date)
+have supported China’s policy in Asia’s seas in return for Chinese investment and trade.
+Elements of acquiescence to Chinese advances can thus also be seen in EU and wider
+European policy on the South and East China Sea disputes. In terms of understanding
+EU foreign policy, the South and East China Sea disputes suggest a certain sequence: a normative/liberal/multilateralist approach as the initial default EU policy; in circumstances,
+where the eﬀectiveness or credibility of that policy is called into question, the search
+for alternatives involving elements of power balancing and/or coercive measures, but
+also the possibility of acquiescence to other states objectives; and, given the political sensitivity and possible costs or risks of power balancing and coercive measures, increased
+divergence amongst member states as such measures are proposed or implemented.
+Such a sequential dynamic in EU foreign policy can arguably also been seen in the
+Union’s relations with Russia since the 2014 Ukraine conﬂict, and it may be interesting
+to explore how far this dynamic is a wider pattern in EU foreign policy.
+The analysis in this article also sheds important light on the EU’s strategic partnership
+with China and on the triangular EU-US–China relationship. Since the EU began developing its strategic partnership with China in the 1990s, there has been discussion of a
+
+EUROPEAN SECURITY
+
+487
+
+possible European-Chinese axis, although in practice the long-standing European political,
+security and economic ties with the US have still greatly outweighed those with China
+(Shambaugh 2005). As noted above, the Trump administration’s “America ﬁrst” policies
+have resulted in the EU and China to some extent ﬁnding common ground in opposition
+to US positions on trade, climate change and the Iran nuclear deal. Some observers have
+argued that the European position of neutrality on the substance of the territorial disputes
+in the South and East China Seas equates to a broader position of neutrality on the issue
+between China on the one hand and the US, Japan and South East Asian states on the
+other (Duchâtel and Huijskens 2015, p. 7). In reality, Europe has been much closer to
+the US, Japan and the South East Asian states than to China on the issue: de facto
+Europe rejects the idea that South and East China Seas are or should be “Chinese
+lakes”; Europe has opposed and criticised China’s military expansion in the South China
+Seas and its East China Sea ADIZ; Europe supports the principle of freedom of navigation
+and France and the UK are now involved in FONOPs in support of this principle; and
+Chinese actions in the South and East China Seas are a factor behind a quiet re-balancing
+of EU policy in Asia towards states other than China. The European position on the South
+and East China Seas suggests that the emergence of Sino-European axis in opposition to
+the US is unlikely. The EU’s position on the South and East China Seas is now one additional
+point of friction in the EU–China relationship, alongside longer-standing diﬀerences over
+trade, investment and human rights. The US, furthermore, remains central to Europe’s
+security through NATO and as democracies Europe and the US arguably still have much
+more in common in terms of world view than either shares with China’s communist
+regime. Even President Trump’s “America ﬁrst” policies may not result in a decisive reorientation of Europe towards China and European policies on the South and East
+China Seas seem to reﬂect this logic.
+Given the three competing strands identiﬁed in this article, what are the future prospects for EU and European policy on the South and East China Sea disputes? At
+present, the three strands of policy co-exist (rather uneasily) alongside one another: the
+normative view that these disputes should be addressed within the framework of international law and multilateral institutions and that all sides should act with restraint
+remains the core bedrock of European policy; the balancing element of European policy
+partly runs counter to the normative emphasis on rules and institutions (as opposed to
+power), but may also be viewed as seeking to support and reinforce the normative
+approach; the acquiescent element of policy runs counter to both the normative and
+power balancing elements. In terms of the direction of European policy, the French and
+British elements of military balancing (quietly supported by a number of other EU
+states) and the EU soft balancing approach are now quite well established. Weighed
+against this are factors underpinning the acquiescent element of policy, in particular
+the wariness of most EU member states of overtly antagonising China, the preference
+of some member states for simply beneﬁtting from economic ties with China and
+China’s ability to incentivise or coerce at least some EU states to support its position.
+Overall, however, European policy on the South and East China Seas has shifted, albeit
+sotto voce, towards counter-balancing China, although also sitting rather uneasily alongside the acquiescence strand. Brexit will presumably further complicate European policymaking, with the possibility that China may try to use the leverage of a possible trade
+agreement with the UK to inﬂuence British policy: in February 2019, in response to a
+
+488
+
+A. COTTEY
+
+speech by the Defence Secretary Gavin Williamson which included strong language on the
+South China Sea, China apparently cancelled a visit by Chancellor of the Exchequer Philip
+Hammond to discuss a trade agreement (Busby 2019). China’s own policy is also likely to
+signiﬁcantly shape European policy: a more restrained Chinese policy may result in less
+European emphasis on balancing against China; a more assertive Chinese policy (for
+example, involving further military installation building in the South China Sea, military
+action over disputed islands or the declaration of a South China Sea ADIZ) is likely to
+result in greater European balancing. Armed clashes or even outright war between
+China and the US in the South or East China Seas would pose severe – and unavoidable
+– dilemmas for over how far to support their long-standing ally and risk disrupting
+relations with their more recent strategic partner. For Europe – especially France and
+the UK, but also the EU and other European states – the South and East China Seas are
+likely to pose continuing challenges and dilemmas.
+
+Acknowledgements
+The author wishes to thank participants in the workshop ‘US-China-Europe Triangular Relations:
+Challenges and Opportunities for Europe’, Goethe University Frankfurt, 1–3 November 2018 and
+European Security’s anonymous reviewers for helpful comments on earlier drafts of this article.
+
+Disclosure statement
+No potential conﬂict of interest was reported by the author.
+
+Notes on contributor
+Andrew Cottey is Senior Lecturer and Jean Monnet Chair in European Political Integration, Department of Government and Politics, University College Cork. He has been a NATO Research Fellow,
+a Research Associate at the International Institute for Strategic Studies (IISS) and a Visiting Researcher
+at the Stockholm International Peace Research Institute (SIPRI) and is a member of the governing
+board of the British American Security Information Council (BASIC). His publications include Security
+in twenty-ﬁrst Century Europe (Palgrave Macmillan, 2nd edition 2013), Understanding Chinese Politics:
+An Introduction to Government in the People’s Republic of China (with Neil Collins, Manchester University Press, 2012) and Reshaping Defence Diplomacy: New Roles for Military Cooperation and Assistance
+(with Anthony Forster, Oxford University Press/IISS, 2004).
+
+ORCID
+Andrew Cottey
+
+http://orcid.org/0000-0002-2199-1240
+
+References
+Allison, G. 2018. British forces join major French deployment to Far East. UK defence journal, 27
+February. Available from: https://ukdefencejournal.org.uk/british-forces-join-major-french-deploy
+ment-far-east/ [Accessed 3 March 2019].
+Brattberg, E., Le Corre, P., and Soula, E., 2018. Can France and the UK pivot to the paciﬁc? Washington,
+DC: Carnegie Endowment for International Peace. 5 July. Available from: https://carnegieen
+dowment.org/2018/07/05/can-france-and-uk-pivot-to-paciﬁc-pub-76732 [Accessed 3 March
+2019].
+
+EUROPEAN SECURITY
+
+489
+
+Brown, S. and Wong, R. 2016. Stepping up EU-ASEAN cooperation in non-traditional security. In:
+Changing waters: towards a new EU Asia strategy, LSE Ideas Special Report SR021. London:
+London School of Economics and Political Science, 79–85. Available from: http://www.lse.ac.uk/
+ideas/Assets/Documents/reports/LSE-IDEAS-Changing-Waters-Towards-a-New-EU-Asia-Strategy.
+pdf [Accessed 21 June 2019].
+Busby, M. 2019. Hammond’s trip to China scuppered by Williamson’s ‘gunboat diplomacy’. The
+Guardian, 16 Feb. Available from: https://www.theguardian.com/politics/2019/feb/16/gavinwilliamson-china-warship-threat-philip-hammond [Accessed 3 March 2019].
+Chansoria, M., 2018. China, Japan, and Senkaku Islands: conﬂict in the East China Sea amid an American
+shadow. Abingdon, Oxon: Routledge.
+Christiansen, T., Kirchner, E., and Wissenbach, U., 2019. The European Union and China. London: Red
+Globe Press.
+Corﬁeld, G. 2018. South China waters are red, Brit warships are blue, HMS Sutherland’s sailing there.
+The Register, 14 February. Available from: https://www.theregister.co.uk/2018/02/14/britain_
+south_china_sea_warships/ [Accessed 3 March 2019].
+Council of the European Union. 2018. Enhanced EU security cooperation in and with Asia - council conclusions, 9265/1/18 REV 1, 28 May. Brussels: European Union. Available from: https://www.
+consilium.europa.eu/media/35456/st09265-re01-en18.pdf [Accessed 3 March 2019].
+Daley, H. and McAvoy, A. 2017. US, Japan, France, UK practice amphibious landings on Guam. Real
+Clear Defense, 11 May. Available from: https://www.realcleardefense.com/articles/2017/05/11/
+us_japan_france_uk_practice_amphibious_landings_on_guam_111361.html [Accessed 3 March
+2019].
+Diez, T., 2013. Normative power as hegemony. Cooperation and conﬂict, 48 (2), 194–210.
+Dimuccio, R.B.A., 1998. The study of appeasement in international relations: polemics, paradigms,
+and problems. Journal of peace research, 35 (2), 245–259.
+Duchatel, M., 2016a. Europe and maritime security in the South China Sea: beyond principled statements? Asia policy, 54–58, 21 January.
+Duchatel, M., 2016b. The European Union’s ‘principled neutrality’ – can it achieve anything?’ In: E.
+Pejsova, ed. Sense and sensibility: addressing the South China Sea disputes, ISSUE Report No. 28.
+Paris: EU Institute for Security Studies, 53–56. Available from: https://www.iss.europa.eu/sites/
+default/ﬁles/EUISSFiles/Report_28_South_China_Sea.pdf [Accessed 3 March 2019].
+Duchâtel, M. and Huijskens, F., 2015. The European Union’s principled neutrality on the East China Sea,
+SIPRI policy brief. Stockholm: Stockholm International Peace Research Institute. Available from:
+https://www.sipri.org/sites/default/ﬁles/ﬁles/misc/SIPRIPB1502d.pdf [Accessed 3 March 2019].
+Duchene, F., 1972. Europe’s role in world peace. In: R. Mayne, ed. Europe Tomorrow: Sixteen Europeans
+Look Ahead. London: Fontana, 32–47.
+Economist, 2018. Brieﬁng: China and the EU – Gaining wisdom, marching forward. The Economist, 6th
+October.
+Economic Times, 2018. India reneging on promise by conducting naval drills in South China Sea:
+China. The Economic Times, 13 July. Available from: https://economictimes.indiatimes.com/
+news/defence/india-reneging-on-promise-by-conducting-naval-drills-in-south-china-sea-china/
+articleshow/58786836.cms [Accessed 3 March 2019].
+EURACTIV, 2016. South China Sea ruling looms large over EU-China summit, EURACTIV, 13 July.
+Available from: https://www.euractiv.com/section/trade-society/news/china-sea-ruling-loomslarge-over-eu-china-summit/ [Accessed 3 March 2019].
+European Commission and High Representative of the Union for Foreign Aﬀairs and Security
+Policy, 2015. Joint communication to the European parliament and the council: The EU and
+ASEAN: a partnership with a strategic purpose, JOIN(2015) 22 ﬁnal, 18 May. Brussels: European
+Union. Available from: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=JOIN:2015:22:
+FIN&from=EN [Accessed 3 March 2019].
+European Commission and High Representative of the Union for Foreign Aﬀairs and Security Policy,
+2018. Joint communication to the European parliament and the council: elements for an EU strategy
+on India, Brussels, JOIN(2018) 2. Brussels: European Union. Available from: https://cdn5-eeas.fpﬁs.
+tech.ec.europa.eu/cdn/farfuture/MJxuGXIelnF8rvfq4cRLxzC1mUacEWgvfout13dMi4o/mtime:15427
+
+490
+
+A. COTTEY
+
+08985/sites/eeas/ﬁles/jc_elements_for_an_eu_strategy_on_india_-_ﬁnal_adopted.pdf [Accessed 3
+March 2019].
+European External Action Service, 2018. Asia security cooperation: EU increases engagement on security
+in and with Asia. Brussels: European Union. 28 May 2018. Available from: https://eeas.europa.eu/
+topics/maritime-security/45299/asia-security-cooperation-eu-increases-engagement-security-and
+-asia_en [Accessed 3 March 2019].
+European Union, 2003. A secure Europe in a better world: European security strategy. Brussels:
+European Union. Available from: https://europa.eu/globalstrategy/en/european-security-stra
+tegy-secure-europe-better-world [Accessed 3 March 2019].
+European Union, 2007. Guidelines on the EU’s foreign and security policy in East Asia. Brussels:
+European Union. Available from: http://www.consilium.europa.eu/ueDocs/cms_Data/docs/press
+data/en/misc/97842.pdf [Accessed 3 March 2019].
+European Union, 2012a. Guidelines on the EU’s foreign and security policy in East Asia. Brussels:
+European Union. Available from: http://eeas.europa.eu/archives/docs/asia/docs/guidelines_eu_
+foreign_sec_pol_east_asia_en.pdf [Accessed 3 March 2019].
+European Union. 2012b. Declaration by the high representative Catherine Ashton, on behalf of the
+European Union on recent developments in East Asia’s maritime areas, 14198/12, PRESSE 399.
+Brussels: European Union, 25 September. Available from: http://www.consilium.europa.eu/uedo
+cs/cms_Data/docs/pressdata/EN/foraﬀ/132566.pdf [Accessed 3 March 2019].
+European Union, 2013. Declaration by the high representative Catherine Ashton on behalf of the
+European Union on the establishment by China of an ‘East China Sea air defence identiﬁcation
+zone’. Brussels: European Union, 28 November 2013. Available from: http://www.consilium.
+europa.eu/uedocs/cms_Data/docs/pressdata/EN/foraﬀ/139752.pdf [Accessed 3 March 2019].
+European Union. 2014a. Joint press statement between the Socialist Republic of Vietnam and the
+European Union, Hanoi, 25 August. Brussels: European Union. Available from: http://europa.eu/
+rapid/press-release_STATEMENT-14-257_en.htm [Accessed 3 March 2019].
+European Union. 2014b. Remarks by President Barroso following his meeting with president Benigno
+Aquino III of the Philippines, Brussels, 15 September. Brussels: European Union. Available from:
+http://europa.eu/rapid/press-release_SPEECH-14-600_en.htm [Accessed 3 March 2019].
+European Union. 2015. Press statement by the president of the European Commission Jean-Claude
+Juncker, the president of the European Council Donald Tusk and the prime minister of Viet Nam
+Nguyen Tan Dung, Brussels, 2 December. Brussels: European Union. Available from: http://
+europa.eu/rapid/press-release_STATEMENT-15-6217_en.htm [Accessed 3 March 2019].
+European Union, 2016a. European Union, shared vision, common action: a stronger Europe. A global
+strategy for the European Union’s foreign and security policy. Brussels: European Union. Available
+from: https://europa.eu/globalstrategy/sites/globalstrategy/ﬁles/regions/ﬁles/eugs_review_web_
+0.pdf [Accessed 3 March 2019].
+European Union, 2016b. Declaration by the high representative on behalf of the EU on recent developments in the South China Sea, 11 March. Brussels: European Union. Available from: https://www.
+consilium.europa.eu/en/press/press-releases/2016/03/11/hr-declaration-on-bealf-of-eu-recent-de
+velopments-south-china-sea/ [Accessed 3 March 2019].
+European Union, 2016c. Declaration on the award rendered in the arbitration between the Philippines
+and China, 15 July. Brussels: European Union. Available from: https://eeas.europa.eu/delegations/
+cuba/6873/declaration-on-the-award-rendered-in-the-arbitration-between-the-philippines-and-c
+hina_fr [Accessed 3 March 2019].
+European Union, 2018. Joint statement of the 20th EU-China Summit, 17 July. Brussels: European
+Union. Available from: https://eeas.europa.eu/delegations/china_en/48424/Joint%20statement%
+20of%20the%2020th%20EU-China%20Summit [Accessed 22 June 2019].
+European Union/Government of Japan, 2018a. Strategic partnership agreement between the European
+Union and its member states, of the one part, and Japan, of the other part, 17 July. Available from:
+https://www.mofa.go.jp/ﬁles/000381942.pdf [Accessed 3 March 2019].
+European Union/Government of Japan, 2018b. EU-Japan summit joint statement, Tokyo, 17 July.
+Available from: https://www.consilium.europa.eu/media/36196/180717-ﬁnal-joint-summit-state
+ment.pdf [Accessed 3 March 2019].
+
+EUROPEAN SECURITY
+
+491
+
+Fallon, T., 2016. The EU, the South China Sea and China’s successful wedge strategy. Asia maritime
+transparency initiative, 13 October. Available from: https://amti.csis.org/eu-south-china-seachinas-successful-wedge-strategy/ [Accessed 3 March 2019].
+Forsberg, T., 2011. Normative power Europe, once again: a conceptual analysis of an ideal type.
+Journal of common market studies, 49 (6), 1183–1204.
+Fox, J. and Godement, F., 2009. A power Audit of EU-China relations. London: European Council on
+Foreign Relations. Available from: https://www.ecfr.eu/page/-/ECFR12_-_A_POWER_AUDIT_OF_
+EU-CHINA_RELATIONS.pdf [Accessed 21 June 2019].
+French Navy Information and Public Relations Department, 2017. Amphibious Task Force ‘Jeanne
+d’Arc’ 2017. French Navy Information and Public Relations Department.
+Ganesan, D., 2018. French amphibious battle group arrive in Singapore. The Straits Times, 8 June.
+Available from: https://www.straitstimes.com/singapore/french-amphibious-battle-group-arrivein-singapore [Accessed 3 March 2019].
+Group of 7, 2014. The Brussels G7 summit declaration, 4–5 June. Available from: https://www.
+consilium.europa.eu/media/23853/143078.pdf [Accessed 3 March 2019].
+Group of 7, 2015. G7 Foreign Ministers’ declaration on maritime security in Lübeck, 15 April. Available
+from: https://www.auswaertiges-amt.de/de/newsroom/-/270810 [Accessed 3 March 2019].
+Hayton, B., 2015. South China Sea: the struggle for power in Asia. New Haven, CT: Yale University Press.
+Heginbotham, E., et al., 2015. The U.S.-China military scorecard: forces, geography, and the evolving
+balance of power, 1996–2017. Santa Monica, CA: RAND.
+Hungarian Ministry of Foreign Aﬀairs and Trade, 2016. Statement on the situation in the South China
+Sea, 16 July. Budapest: Hungarian Ministry of Foreign Aﬀairs and Trade. Available from: http://
+www.kormany.hu/en/ministry-of-foreign-aﬀairs-and-trade/news/statement-on-the-situation-in-th
+e-south-china-sea [Accessed 3 March 2019].
+Hwee, Y.L., 2010. The EU as a security actor in Southeast Asia. In: Panorama: Insights into Asian and
+European Aﬀairs. Singapore: Konrad-Adenauer-Stiftung, 9–23. Available from: https://www.kas.de/
+documents/252038/253252/7_dokument_dok_pdf_19799_2.pdf/c5c9140c-20dc-95c5-57d7-146
+587b20558?version=1.0&t=1539661017156 [Accessed 21 June 2019].
+Kirchner, E.J., Christiansen, T., and Dorussen, H., eds., 2016. Security relations between China and the
+European Union: from convergence to cooperation? Cambridge: Cambridge University Press.
+Kirchner, E., et al., eds., 2013. The Palgrave Handbook of EU-Asia relations. Basingstoke: Palgrave
+Macmillan.
+Le Drian, J.-Y., 2016. Minister of defence, France, speech at 15th Asia security summit: the IISS Shangri-La
+Dialogue, 5 June. Available from: https://www.iiss.org/events/shangri-la-dialogue/shangri-la-dia
+logue-2016 [Accessed 3 March 2019].
+Lillie, S., 2016. The United Kingdom and the Asia-Paciﬁc region, speech at the carnegie endowment in
+Washington D.C., 10 March. Available from: https://www.gov.uk/government/speeches/theunited-kingdom-and-the-asia-paciﬁc-region [Accessed 3 March 2019].
+Manicom, J., 2014. Bridging Troubled waters: China, Japan, and maritime order in the East China Sea.
+Washington, DC: Georgetown University Pres.
+Manners, I., 2002. Normative power Europe: a contradiction in terms?. Journal of common market
+studies, 40 (2), 235–258.
+Mohan, G., 2018. Politics over trade: a revival of the EU-India partnership. Berlin: Global Public Policy
+Institute (GPPi). Available from: https://www.gppi.net/2018/08/27/politics-over-trade-a-revivalof-the-eu-india-partnership [Accessed 3 March 2019].
+Norman, L., 2016. EU issues South China Sea statement ending discord within bloc. The wall street
+journal, 17 July. Available from: https://www.wsj.com/articles/eu-issues-south-china-sea-stateme
+nt-after-failing-to-agree-common-stance-1468583961 [Accessed 3 March 2019].
+Nouwens, V., 2018. Collision course in the South China Sea? Commentary, Royal United Services
+Institute, 3 October. Available from: https://rusi.org/commentary/collision-course-south-chinasea [Accessed 3 March 2019].
+Pape, R.A., 2005. Soft balancing against the United States. International security, 30 (1), 7–45.
+
+492
+
+A. COTTEY
+
+Parameswaran, P., 2017. A more muscular Britain in the South China Sea? The Diplomat, 1 August.
+Available from: https://thediplomat.com/2017/08/a-more-muscular-britain-in-the-south-chinasea/ [Accessed 3 March 2019].
+Patrick, S.M. and Feng, A., 2018. Trading places: how the EU-China summit underlined U.S. isolationism
+in trade under Trump. Council on Foreign Relations blog, 20 July 2018. Available from: https://www.
+cfr.org/blog/trading-places-how-eu-china-summit-underlined-us-isolationism-trade-under-trump
+[Accessed 3 March 2019].
+Paul, T.V., 2005. Soft balancing in the age of U.S. Primacy. International security, 30 (1), 46–71.
+Paul, T.V., ed., 2016. Accommodating rising powers: past, present, and future. Cambridge: Cambridge
+University Press.
+Paul, T.V., 2018. Restraining great powers: soft balancing from empires to the global era. New Haven, CT:
+Yale University Press.
+Pejsova, E., ed., 2018. Guns, engines and turbines – the EU’s hard power in Asia, Chaillot paper No. 149.
+Paris: EU Institute for Security Studies. Available from: https://www.iss.europa.eu/content/gunsengines-and-turbines-%E2%80%93-eu%E2%80%99s-hard-power-asia [Accessed 3 March 2019].
+Raine, S. and Le Miere, C., 2013. Regional disorder: the South China Sea disputes. Abingdon: Routledge
+for The International Institute for Strategic Studies.
+Rajagobal, N., 2016. The 2009 claims that changed the dynamics in the South China Sea. The Straits
+Times, 12 July. Available from: https://www.straitstimes.com/opinion/the-2009-claims-that-chan
+ged-dynamics-in-the-s-china-sea [Accessed 3 March 2019].
+Reiterer, M., 2014. The EU’s comprehensive approach to security in Asia. European foreign aﬀairs
+review, 19 (1), 1–21.
+Reuters, 2018. China complains over British warship sailing through disputed South China Sea. The
+Guardian, 6 September. Available from: https://www.theguardian.com/world/2018/sep/06/chin
+a-complains-over-british-warship-sailing-through-disputed-south-china-sea [Accessed 3 March
+2019].
+Scott, D., 2017. French maritime strategic thought on the Indo-Paciﬁc. Center for International Maritime
+Security. 31 March. Available from: http://cimsec.org/french-maritime-strategic-thought-on-theindo-paciﬁc/31742 [Accessed 3 March 2019].
+Selivanov, M. and Casarini, N., 2018. Australia and the EU in the Indo-Paciﬁc: is cooperation towards a
+rules-based order possible? Rome: Istituto Aﬀari Internazionali. Available from: http://www.iai.it/
+sites/default/ﬁles/iaicom1819.pdf [Accessed 3 March 2019].
+Shambaugh, D., 2005. The new strategic triangle: US and European reactions to China’s rise. The
+washington quarterly, 28 (3), 5–25.
+Stares, P. and Regaud, N., 1997. Europe’s role in Asia-paciﬁc security. Survival, 39 (4), 117–139.
+UK Government, 2015. National security strategy and strategic defence and security review 2015: a
+secure and prosperous United Kingdom. London: UK Government. Available from: https://assets.
+publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/ﬁle/555607/20
+15_Strategic_Defence_and_Security_Review.pdf [Accessed 3 March 2019].
+United States Navy, 2016. 2016 Trilateral maritime talks, Japan Maritime Self-dense Force, Royal Navay
+and United States Navy, 20 October. Available from: https://www.navy.mil/navydata/people/cno/
+Richardson/Message/CNO_US_Japan_UK_2016_Trilateral_Agreement.pdf [Accessed 3 March
+2019].
+VN Express, 2017. EU to raise South China Sea issues again after last yea’s tense discussion’, VN
+Express International, 2 June. Available from: https://e.vnexpress.net/news/news/eu-to-raisesouth-china-sea-issues-again-after-last-year-s-tense-discussion-3593784.html [Accessed 3 March
+2019].
+Wagner, W., 2017. Liberal power Europe. Journal of common market studies, 55 (6), 1398–1414.
+Whitman, R.G., 2011. Normative power Europe: empirical and theoretical perspectives. Basingstoke:
+Palgrave Macmillan.
+Yahuda, M., 2013. China’s new assertiveness in the South China Sea. Journal of contemporary China,
+22 (81), 446–459.
+
+

@@ -1,0 +1,839 @@
+http://www.diva-portal.org
+
+This is the published version of a paper published in Asian Survey.
+
+Citation for the original published paper (version of record):
+Weissmann, M. (2015)
+The South China Sea: Still No War on the Horizon.
+Asian Survey, 55(3): 596-617
+http://dx.doi.org/10.1525/as.2015.55.3.596
+
+Access to the published version may require subscription.
+N.B. When citing this work, cite the original published paper.
+
+Published as Weissmann, M. (2015), The South China Sea: Still No War on the Horizon. Asian
+Survey, 55(3): 596-617. © 2015 by the Regents of the University of California. Copying and
+permissions notice: Authorization to copy this content beyond fair use (as specified in Sections 107
+and 108 of the U. S. Copyright Law) for internal or personal use, or the internal or personal use of
+specific clients, is granted by the Regents of the University of California for libraries and other users,
+provided that they are registered with and pay the specified fee via Rightslink® or directly with the
+Copyright Clearance Center.
+
+Permanent link to this version:
+http://urn.kb.se/resolve?urn=urn:nbn:se:fhs:diva-5557
+
+MIKAEL WEISSMANN
+
+The South China Sea
+Still No War on the Horizon
+ABSTRACT
+
+Using a conflict transformation framework, this article demonstrates that positive
+transformations have taken place in the South China Sea between 1991 and 2007.
+Even though these transformations have been weakened in recent years, particularly
+regarding the actor aspect, it is concluded that a major armed conflict is still highly
+unlikely.
+K E Y W O R D S : South China Sea, China, conflict, ASEAN, rise of China
+
+INTRODUCTION
+
+After a decade of silence, the South China Sea (SCS) conﬂict has once again
+become the epicenter of the East Asian security debate.1 Today the SCS is
+not only the most critical ﬂashpoint in the East Asian region, it is also a litmus
+test of China’s relations with the Association of Southeast Asian Nations
+(ASEAN) and its member states, being a conﬂict embedded in, and a manifestation of, the overarching relations. Not only is it the situation most likely
+to escalate into major armed conﬂict between China and its Southeast Asian
+neighbors, but also there is a risk that it will be the cause of a military
+confrontation between China and the United States. This is because during
+recent years a more aggressive Chinese posturing has coincided with a US
+
+M IKAEL W EISSMANN is a Research Fellow at the Swedish Institute of International Affairs and
+a Senior Lecturer at Swedish Defence University, Stockholm. He would like to thank the Stiftelsen
+Riksbankens Jubileumsfond for a project initiation grant, without which this article would not have
+been written, and the Special Research Program (Särskilda forskningsprogrammet) at the Swedish
+Institute of International Affairs for supporting this research.
+1. There are a number of disputes in the South China Sea area between the seven claiming states
+over a range of issues. The term ‘‘the South China Sea conﬂict’’ does not imply a single conﬂict but
+refers to the cluster of disputes in the area.
+Asian Survey, Vol. 55, Number 3, pp. 596–617. ISSN 0004-4687, electronic ISSN 1533-838X. © 2015 by
+the Regents of the University of California. All rights reserved. Please direct all requests for permission
+to photocopy or reproduce article content through the University of California Press’s Rights and
+Permissions website, http://www.ucpressjournals.com/reprintInfo.asp. DOI: 10.1525/AS.2015.55.3.596.
+
+596
+
+WEISSMANN / STILL NO WAR ON THE HORIZON  597
+
+strategic ‘‘pivot to Asia.’’2 In China, the US pivot is widely seen as the
+linchpin of the disputes in the SCS, and as an attempt to collude with the
+other states making claims there against China; this forces China to react
+accordingly. Outside China the opposite view dominates, the perception
+being that China’s more assertive policy is the main source of the increased
+tensions in the SCS.3
+Despite the recent increased attention, the current situation in the SCS
+is by no means a new one. After the end of the Cold War the SCS was
+characterized as Asia’s next ﬂashpoint; a future of perpetual conﬂict dominated the predictions.4 At ﬁrst glance, it might appear as if things had
+returned to the post–Cold War situation. However, as I will argue in this
+article, this is not the case. Major changes have taken place in the relations
+between the conﬂicting parties and in the regional system since the early
+1990s. Over a decade of constructive engagement and economic cooperation
+between China and Southeast Asia has transformed countless aspects of the
+region’s political, economic, social, and security dynamics. All these changes
+have not vanished in an instant; rather, they continue to affect how the actors
+behave toward each other, including in the SCS.
+Taking its starting point in conﬂict management theory, this article will
+use a conﬂict transformation framework to analyze the SCS conﬂict in the
+1991–2014 period. It will ask whether conﬂict transformation has happened
+since the early 1990s, and if so, to what extent it is still relevant, considering
+the negative developments in the SCS in recent years. First, I will present the
+theoretical framework used and brieﬂy outline the SCS conﬂict; thereafter,
+the framework will be applied to the SCS conﬂict.
+
+2. The description of China as more assertive has become increasingly common in recent years,
+particularly in the United States; see Michael D. Swaine, ‘‘Perceptions of an Assertive China,’’ China
+Leadership Monitor 32, no. 2 (2010). However, there has been considerable debate about whether
+Chinese foreign policy has in fact become more assertive; see Björn Jerdén, ‘‘The Assertive China
+Narrative: Why It Is Wrong and How So Many Still Bought into It,’’ Chinese Journal of International
+Politics 7, no. 1 (2014): 47–88; Alastair Iain Johnston, ‘‘How New and Assertive Is China’s New
+Assertiveness?’’ International Security 37, no. 4 (2013): 7–48.
+3. Mingjiang Li, ‘‘Reconciling Assertiveness and Cooperation? China’s Changing Approach to
+the South China Sea Dispute,’’ Security Challenges 6, no. 2 (2010): 49–68.
+4. Aaron L. Friedberg, ‘‘Ripe for Rivalry: Prospects for Peace in a Multipolar Asia,’’ International
+Security 18 (1994): 5–33; Andrew Tanzer, ‘‘Asia’s Next Flash Point?’’ Forbes 150, no. 10 (1992): 96–100.
+
+598  ASIAN SURVEY 55:3
+
+UNDERSTANDING CONFLICT MANAGEMENT
+
+This paper is grounded in existing research in the ﬁeld of conﬂict studies
+and thereby goes beyond most of the mainstream research in international
+relations and security studies, which lacks an explicit theoretical framework for
+understanding the management and resolution of conﬂicts or the building of
+peace. This includes works on East Asian security, where at least until recently
+there have been few studies using an explicit conﬂict management framework.
+A large number of approaches, coming from a variety of interdisciplinary
+perspectives, exist on how to manage, resolve, and prevent conﬂicts and how
+to build peace.5 There is a deﬁciency of clear deﬁnitions, as there is no
+consensus on how terms and concepts are to be interpreted and deﬁned. The
+same concept can have different meanings depending on usage, and more
+often than not, deﬁnitions overlap. For example, both conﬂict management
+and conﬂict resolution may be used as umbrella terms for the whole ﬁeld.
+At the same time, conﬂict management may be viewed as a theoretical concept
+focusing on the limitation, mitigation, and/or containment of a conﬂict,
+without necessarily solving it, but creating a certain level of conﬁdence and
+lessening potential or actual suffering.6 Conﬂict resolution, in turn, may refer
+to measures aimed at resolving the central incompatibilities of a conﬂict,
+including attempts to get the parties to mutually accept each other’s existence
+and cease all violence against each other.7
+Of the range of conﬂict management approaches available, conﬂict transformation is suitable for capturing the dynamics and developments behind
+the relative peace in the SCS. It is a positive, proactive, and forward-looking
+way that has not been a focus in conﬂict management research, where the
+focus is on more instrumental, direct, often short-term measures, when a conﬂict has escalated into more unstable peace. Conﬂict transformation is more
+inclusive of the whole conﬂict cycle than more traditionally used approaches
+such as conﬂict prevention, conﬂict management, conﬂict resolution, or
+5. See e.g. Jacob Bercovitch, Viktor Kremenyuk, and I. William Zartman, The Sage Handbook of
+Conﬂict Resolution (Los Angeles: SAGE, 2009); Oliver P. Richmond, Palgrave Advances in Peacebuilding: Critical Developments and Approaches (Basingstoke: Palgrave Macmillan, 2010); Routledge
+Handbook of Peacebuilding, ed. Roger Mac Ginty (London: Routledge, 2013); Niklas Swanström and
+Mikael Weissmann, Conﬂict, Conﬂict Prevention and Conﬂict Management and Beyond: A Conceptual
+Exploration (Uppsala: Central Asia-Caucasus Institute & Silk Road Studies Program, 2005).
+6. Fred Tanner, ‘‘Conﬂict Prevention and Conﬂict Resolution: Limits of Multilateralism,’’
+International Review of the Red Cross, no. 839 (2000).
+7. Peter Wallensteen, Understanding Conﬂict Resolution (London: Sage, 2012).
+
+WEISSMANN / STILL NO WAR ON THE HORIZON  599
+
+peacebuilding. It is well suited to capturing the complex conﬂict dynamics in
+the SCS, where a number of tensions exist, and conﬂicts of different phases
+and intensities are occurring at the same time, and concepts focusing on
+speciﬁc phases of the conﬂict cycle fail to capture the dynamics well. Conﬂict
+prevention normally occurs before a conﬂict has escalated into militarized
+(sometimes called open or active) conﬂict; conﬂict management focuses on
+the mitigation of an already open conﬂict without necessarily resolving it; and
+conﬂict resolution focuses on the later phases, aiming to resolve the underlying incompatibilities. Peacebuilding is in most deﬁnitions focused on the
+post-conﬂict phase. The SCS conﬂict is more than a case of conﬂict prevention or management; at the same time, conﬂict resolution is not happening in
+East Asia. Nor is it a post-conﬂict situation. At the same time, there have
+been qualitative underlying changes in relationships, which can be understood in terms of conﬂict transformation.
+Conﬂict transformation as a ﬁeld of study emerged in the early 1990s.
+During the following decade, much effort was put into developing comprehensive frameworks for conﬂict transformation.8 Nevertheless, no comprehensive theory or uniﬁed framework has emerged. This is a result of a number of
+new developments, including 9/11’s shifting focus toward terrorism, and a new
+focus on internal wars. The latter has led to much research on reconciliation,
+post-conﬂict reconstruction, and post-conﬂict peacebuilding. From this
+research interesting lessons can be drawn, although the scope is different as
+the emphasis is on the post-conﬂict phase, and furthermore there is a tendency
+to have a strong focus on direct action and grassroots peace work—neither of
+which are applicable in the case of the SCS and Sino–ASEAN relations.
+Conﬂict transformation is a comprehensive concept referring to
+actions and processes which seek to alter the various characteristics and manifestations of conﬂict by addressing the root causes of a particular conﬂict over the
+long term. It aims to transform negative destructive conﬂict into positive constructive conﬂict and deals with structural, behavioural and attitudinal aspects of
+conﬂict. The term refers to both the process and the completion of the process.9
+8. For an excellent overview of conﬂict transformation theories see Oliver P. Richmond, Palgrave
+Advances in Peacebuilding (Basingstoke: Palgrave Macmillan, 2010); Christopher R. Mitchell,
+‘‘Beyond Resolution: What Does Conﬂict Transformation Actually Transform?’’ Peace and Conﬂict
+Studies 9, no. 1 (2002).
+9. Alex Austin, Martina Fischer, and Norbert Ropers, Transforming Ethnopolitical Conﬂict: The
+Berghof Handbook (Wiesbaden: Verlag für Sozialwissenschaften, 2004), 464–66.
+
+600  ASIAN SURVEY 55:3
+
+The framework in this article draws on the work of Hugh Miall, who has
+developed the most comprehensive conﬂict transformation framework to
+date.10 His framework identiﬁes ﬁve types of transformation, or transformers:
+context, structural, actor, issue, and personal/elite transformations. The ﬁrst
+four are the ones in focus in this article. To include possible personal/elite
+transformations is beyond our scope. Furthermore, such transformations are
+most relevant in studies of conﬂicts where the same actors are involved over
+time.
+The four types of conﬂict transformation are context, structural, actor,
+and issue.11 Context transformations are ‘‘changes in the context of conﬂict
+that may radically alter each party’s perception of the conﬂict situation, as
+well as their motives.’’ Structural transformations are ‘‘changes in the basic
+structure of the conﬂict that is to the set of actors, their issues, incompatible
+goals and relationships, or to the society, economy or state within which the
+conﬂict is embedded.’’ This includes changes from asymmetric to symmetric
+relations, changes in power structures, and changes of markets of violence.
+Of particular importance in the context of this article is the role of norms
+and practices, which constrain and guide the actors’ behavior. Actor transformations, in turn, include ‘‘decisions on the part of actors to change their
+goals or alter their general approach to conﬂict.’’ Transformations of actors
+also include changes of leadership, which are often crucial for successful
+transformation in conﬂicts. In addition, they include ‘‘changes in the situation of the public constituencies and supporters of the respective political
+leaders.’’ Issue transformations concern ‘‘the reformulations of positions that
+parties take on key issues at the heart of the conﬂict as well as the way in
+which parties redeﬁne or reframe those positions in order to reach compromises or resolutions.’’ More speciﬁcally, these concern transcendence of
+contested issues, constructive compromise, changing of issues, and the delinking or relinking of issues.
+Conﬂict transformation is suitable for capturing the changes that can be
+observed in the SCS and the overall Chinese relations with ASEAN and its
+member states. The characteristics and manifestations of conﬂict concern the
+SCS disputes in particular, while to address the root causes there is a need to
+10. Hugh Miall, ‘‘Conﬂict Transformation: A Multi-Dimensional Task,’’ in Austin et al., Transforming Ethnopolitical Conﬂict.
+11. Ibid., 9–10.
+
+WEISSMANN / STILL NO WAR ON THE HORIZON  601
+
+include the broader Sino–ASEAN relations of which the SCS disputes are
+a part. It is important not to concentrate solely on the completion of the
+process, as there are not many concrete outcomes to discuss, but, as will be
+argued, the process in itself has been beneﬁcial for sustaining and building
+peace. It is also important to include all three aspects of structure, behavior,
+and attitudes, as the SCS disputes have emerged as dependent on not only
+regional security structures but also the role of the US–East Asian alliance
+system. Both behavior and attitudes play important parts in the SCS, as there
+are strong nationalist tendencies among the claiming states and generally
+strong feelings about the SCS. Thus, there is a need to account for both
+actions (behavior) and feeling and perceptions (attitudes).
+THE SOUTH CHINA SEA CONFLICT
+
+The SCS is an area with 200 small islets, rocks, and reefs stretching over 1,700
+miles, roughly from Singapore and the Strait of Malacca in the southwest to
+the Taiwan Strait in the northeast. The major islet grouping, and core area of
+conﬂict, is the Spratly and Paracel Islands. The SCS’s geographical and
+geostrategic position creates a security dilemma for virtually all powers in
+East Asia and the wider Asia-Paciﬁc region. The ownership of the territory is
+contested, with overlapping claims by China, Taiwan, Vietnam, Malaysia,
+the Philippines, Indonesia, and Brunei.
+Linked to territorial sovereignty, the SCS conﬂict has important internal
+dimensions in the form of the national prestige and national identity invested
+in the area. Rising nationalism, in China and Vietnam particularly, makes the
+disputes explosive, forcing respective leaderships to take a ﬁrm stance in the
+SCS. Any action perceived by the public as a concession risks undermining
+the legitimacy of the leaders. Lastly, ensuring freedom of navigation is crucial,
+as the sea lines of communication (SLOCs) through the SCS are of both
+regional and geostrategic importance.
+Conﬂict in the SCS can best be understood as the conﬂict manifestation of
+China’s relations with the ASEAN members. The disputes in the SCS do
+have their own underlying causes, but nevertheless they cannot be understood apart from the overarching relations, as the SCS issues are interlinked
+and embedded in the broader Sino–ASEAN context. The two cannot be
+separated. As observed by Rodolfo C. Severino, ‘‘good Sino-ASEAN relations
+decrease the risk of conﬂict in the South China Sea. At the same time, bad
+
+602  ASIAN SURVEY 55:3
+
+relations in the SCS are a problem for overall relations.’’12 Negative developments in the SCS undermine the otherwise good relations in the area and the
+image of a peacefully developing China. The high level of economic integration and interdependence, together with a Chinese need to be perceived as
+a ‘‘responsible great power’’ (a ‘‘responsible stakeholder’’ using the Western
+term), creates an incentive to avoid conﬂict escalation in the SCS.
+In the early 1990s there was a common assumption among analysts that
+China would behave aggressively. The characterization of the Spratly area as
+‘‘Asia’s next ﬂash point’’ became a standard reference,13 with the dominant
+predictions painting a dark future for the SCS and the East Asian region.
+However, it turned out that these worst-case scenarios were both premature
+and exaggerated, as they did not materialize.14 Instead of war, a process of deescalation began in the mid-1990s. This process started after the 1995 Mischief
+Reef incident, where a crisis occurred between the Philippines and China,
+after the former found out that China had occupied Mischief Reef, which was
+located in an area claimed by the Philippines. The incident stopped short of
+a major armed conﬂict mainly because of the unequal power of the two states.
+This incident made the ASEAN parties unite and, for the ﬁrst time, take a
+common stance against China. This was to become the start of a de-escalation
+process that eventually led to the Declaration on the Conduct of Parties in
+the South China Sea (DOC) of November 4, 2002. This agreement,
+although not legally binding, created the conditions necessary for peaceful
+coexistence, where the focus was on developing interstate relations and economic cooperation in the region. After the 2002 DOC was agreed upon,
+conﬂict avoidance and the shelving of disagreements in the SCS was the
+preferred approach among all parties. They all chose to focus on other areas,
+not least the shared goal of economic growth and prosperity.
+The SCS remained stable until late 2007, when Beijing passed new
+legislation to consolidate its jurisdictional claims by creating Sansha,
+a county-level city in Hainan, to govern the Paracel and Spratly Islands.
+Since then the SCS situation has deteriorated, in particular between China and
+Vietnam and between China and the Philippines, as China has been reverting
+to more assertive posturing, increasing its military reach, and pursuing a more
+12. Interview, Singapore, December 7, 2010.
+13. Tanzer, ‘‘Asia’s Next Flash Point?’’
+14. Mikael Weissmann, The East Asian Peace: Conﬂict Prevention and Informal Peacebuilding
+(Basingstoke: Palgrave Macmillan, 2012).
+
+WEISSMANN / STILL NO WAR ON THE HORIZON  603
+
+hard-line policy to undermine the claims made by other states.15 The more
+assertive stance can also be seen in China’s increased naval patrols, pressure
+on foreign oil companies, and imposition of unilateral ﬁshing bans.
+The Chinese policy change can at least partially be attributed to an increasing dependence on energy imports, technological advances that have made
+deep drilling more feasible, and the need to ensure safe sea lanes for its energy
+imports through the SCS.16 Another major driver of the new assertiveness is
+China’s increased capabilities and enhanced conﬁdence, together with
+unabated nationalism and a growing frustration with what is perceived as
+outside (i.e. US) interference.
+In 2009–2010 the SCS conﬂict escalated further. China began to more
+actively assert its claim; this included imposing unilateral ﬁshing bans, harassing US ships intruding beyond the 12-mile territorial limit, and seizing
+Vietnamese ﬁshing boats and equipment. The situation was made worse as
+the United States at the same time was changing its foreign policy by making
+its strategic pivot to the Asia-Paciﬁc. This included a redeployment, positioning 60 percent of the US ﬂeet in the Paciﬁc Ocean, and increased
+cooperation with Singapore, Vietnam, and the Philippines.17 Needless to say,
+China was outraged and felt a need to react to what it perceived as a new
+containment strategy.
+In the last four years there have been mixed signals coming from China.
+On the one hand, steps have been taken to moderate China’s approach. In
+July 2011 China accepted guidelines suggested by ASEAN on how to implement the 2002 DOC. China has also initiated a diplomatic program to
+convince the world of its peaceful intentions, including publishing a white
+paper on September 6, 2011, that reafﬁrms that China will follow Deng
+Xiaoping’s guidance and shelve the disputes in the SCS to work for joint
+development.
+On the other hand, the successful attempts to persuade Cambodia, Laos,
+Myanmar, and Thailand—with whom China has close economic ties and
+political relations—to stop ASEAN from tackling the SCS disputes with
+
+15. Clive Schoﬁeld and Ian Storey, The South China Sea Dispute: Increasing Stakes and Rising
+Tensions (Washington, DC: Jamestown Foundation, 2009).
+16. Ibid., 20.
+17. Richard Bitzinger, ‘‘Will the US Pivot Trigger a New Regional Arms Race?’’ Global Asia 7, no.
+4 (2012): 34–37.
+
+604  ASIAN SURVEY 55:3
+
+a united front are not good examples of moderation.18 Nor was China’s
+behavior during the 2012 standoff at the Scarborough Shoal. Not only was
+this a tense confrontation between the Philippines and China but it also
+ended with China’s ignoring the verbal agreement on a mutual pullout,
+instead roping off the mouth of the lagoon to prevent a Filipino re-entry
+and stepping up patrols around the shoal.19 Nevertheless, both President Xi
+Jinping and Premier Li Keqiang visited Southeast Asia in October 2013 in an
+attempt to regain some of the lost trust and to enhance cooperation.
+
+FOUR DIMENSIONS OF CONFLICT TRANSFORMATION
+
+Context Transformation
+
+The regional context which the SCS conﬂict is embedded in, and a manifestation of, has been transformed as a result of the constructive engagement
+between China and ASEAN. Over time the norms actors are expected to
+adhere to when dealing with each other and pursuing their claims have been
+redeﬁned. By the mid-2000s there had been two transformations that created
+new norms for behavior in Sino–ASEAN relations, including in the SCS:
+a shift to the nonuse of military means in pursuing claims, and acceptance of
+the 2002 DOC as the guiding principle.
+The SCS conﬂict itself has moved from a situation where the claimants
+actively pursued their respective claims by military means to one where
+serious military confrontation is highly unlikely. This transformation began
+in 1992 with the so-called Manila Declaration, in which the foreign ministers
+of the ASEAN emphasized ‘‘the necessity to resolve all sovereignty and
+jurisdictional issues pertaining to the SCS by peaceful means, without resort
+to force’’ and urged all parties to exercise restraint to create a positive climate
+for a resolution to the conﬂict.20 Moving away from the practice of using
+military means to pursue claims was a major change, as the pursuit of claims
+through occupation had been standard practice since the French withdrawal
+in 1956. Initially, China was opposed to the ASEAN move, and within days
+18. Xinbo Wu, ‘‘Not Backing Down: China Responds to the US Rebalance to Asia,’’ Global Asia
+7, no. 4 (2012): 18–21. For a case study of Chinese pressure, see Mark J. Valencia, ‘‘High-Stakes
+Drama: The South China Sea Disputes,’’ Global Asia 7 (2012): 56–73.
+19. Bonnie Glaser, ‘‘Trouble in the South China Sea,’’ Foreign Policy (2011).
+20. ASEAN Declaration on the South China Sea, adopted by the Foreign Ministers at the 25th
+ASEAN Ministerial Meeting in Manila, Philippines, July 22, 1992.
+
+WEISSMANN / STILL NO WAR ON THE HORIZON  605
+
+seized the Da Lac Reef in the Spratlys. However, since then, with the 1995
+Mischief Reef incident standing out as the exception, the conﬂict was visible
+primarily in the building of different structures by claimants on several of
+‘‘their’’ islands; the granting of oil concessions and exploration in ‘‘their’’
+territories; and the harassment of each other’s ﬁshermen, including the occasional seizure of equipment and ﬁshermen. By the late 2000s, not only had
+the nonuse of military means become the norm, but with the high level of
+economic interdependence, and the amount of effort that had been put into
+developing good relations between China and ASEAN, a situation had developed where the negative effects of such actions would be hurtful for all
+parties. There was also a risk of triggering US military intervention, which
+did constrain Beijing’s policy options.
+Recent developments, in particular the Scarborough Shoal standoff and
+China’s buildup of its naval capabilities, have created a fear that China might
+again be considering the use of military means in the SCS. However, China
+still shows its commitment to peaceful resolution through measures such as
+statements, the continued support of the DOC, and the issuing of the 2011
+white paper. Also, in practice China has avoided the use of naval ships,
+instead deploying ﬁshery patrol boats, to avoid military conﬂict and to show
+its desire to rely on peaceful means to resolve the disputes in the SCS.21 This
+can be seen for example in the Scarborough Shoal standoff, when despite
+reportedly at one point deploying as many as 80 surveillance ships and other
+craft,22 China refrained from using its navy.
+Since its signing in 2002, the DOC has set the benchmark for behavior in
+the SCS for China and the ASEAN member states. In the declaration the
+parties ‘‘undertake to resolve their territorial and jurisdictional disputes by
+peaceful means, without resorting to the threat or use of force, through
+friendly consultations and negotiations.’’23 They also commit ‘‘to exercise
+self-restraint in the conduct of activities that would complicate or escalate
+disputes and affect peace and stability . . . and to handle their differences in
+a constructive manner.’’24 Despite its not being legally binding, and not being
+21. Xinbo Wu, ‘‘The Spillover Effect of the ASEAN-Plus-Three Process on East Asian Security,’’
+in The Nexus of Economics, Security, and International Relations in East Asia, ed. Avery Goldstein and
+Edward D. Mansﬁeld (Stanford, CA: Stanford University Press, 2012).
+22. Glaser, ‘‘Trouble in the South China Sea.’’
+23. Full text at <http://asean.org>.
+24. Ibid.
+
+606  ASIAN SURVEY 55:3
+
+rules in a strict judicial sense, it sets the norms that are expected to be
+followed in the SCS. Deviation from the declaration would be problematic
+and undermine trust among the other claimants. The negative effects of
+perceived deviation from or overstretching of the DOC can be seen in the
+case of China’s assertive behavior, which undermined almost two decades of
+tediously built trust.25 This behavior has also been one of the reasons making
+the Southeast Asian states, and the international community, reconsider and
+possibly re-evaluate their view on China’s peaceful development and its
+international expansion. Without suggesting that deviation from the DOC
+is the only cause, it is part of the reason why the Southeast Asian states have
+become more positive toward an increased US military presence in East Asia
+as hedging against China.
+Despite the increased tensions since late 2007, the DOC has not lost its
+value. This has also been signaled at times when China has moderated its
+behavior, realizing it had pushed too far. At the July 2011 ASEAN Regional
+Forum (ARF), China also agreed to sign the guidelines for the implementation of the DOC in the SCS.26 In terms of rules transformation, this was an
+acknowledgement of the previous rules on how to behave and to peacefully
+resolve disputes. These guidelines are mainly symbolic, with little on how to
+actually resolve the disputes; however, they are still a sign of good faith in
+a peaceful resolution and recognition that the norms of behavior in the DOC
+are still relevant.
+To conclude, with some reservation, the context transformation is still
+relevant despite the developments since 2007. The norms have unquestionably been shaken up, with fear of the re-emergence of military means as a tool
+in China’s policy toolbox and for the relevance of the DOC. However,
+military means have not become acceptable, and if the 2011 guidelines on
+the implementation of the DOC have not strengthened the existing norms,
+25. Mikael Weissmann, ‘‘The South China Sea Conﬂict and Sino-ASEAN Relations: A Study in
+Conﬂict Prevention and Peace Building,’’ Asian Perspective 34, no. 3 (2010): 35–69; Mikael Weissmann, ‘‘Why Is There a Relative Peace in the South China Sea?’’ in Entering Uncharterd Waters?
+ASEAN and the South China Sea Dispute, ed. Pavin Chachavalpongpun (Singapore: Institute of
+Southeast Asian Studies, 2014).
+26. Support for the rules of behavior set out in the DOC is not limited to the guidelines. They are
+also supported by the September 2011 white paper. According to interviews, this paper was aimed at
+allaying fears in South East Asia and demonstrating that China wants to ‘‘promote cooperation in
+order to remain ‘a good neighbour, friend and partner of other Asian countries’’’—International
+Crisis Group, Stirring up the South China Sea (I) (2012), 35–36.
+
+WEISSMANN / STILL NO WAR ON THE HORIZON  607
+
+they have at least re-afﬁrmed them. The norms are still there but are weaker.
+Much of the almost two decades of trust-building underlying the norms has
+been destroyed by China, but with its new moderate policy it might be
+possible to save the situation. However, it will take time to get back to the
+mid-2000 situation, particularly while Chinese rhetoric is not matched by its
+actions. Actions such as the capture of ﬁshermen and the approval of a dock
+project in the disputed Paracel Islands do not rebuild trust,27 nor does the
+practice of planting national ﬂags on disputed islands, nor establishing a military garrison on Woody Island in the Paracels with the intention to ‘‘exercise
+sovereignty over all land features inside the South China Sea,’’ including
+more than 40 islands ‘‘now occupied illegally’’ by Vietnam, the Philippines,
+and Malaysia.28 Still, much of the harsh rhetoric and provocative behavior is
+best understood as directed toward the United States, which has made it clear
+that it is in the region to stay and that it does not accept a hegemonic China.29
+Structural Transformation
+
+Structural transformation is the type of conﬂict transformation where the
+most fundamental transformations can be seen. This is because these changes
+are concerned with the overarching Sino–ASEAN relations in which the SCS
+conﬂict is embedded. These relations have been fundamentally transformed
+since the early 1990s, when relations between China and ASEAN were characterized by distrust and sometimes outright hostility.30 Three key structures
+have been transformed as a result of the engagement. Firstly, there has been
+an institutionalization of peaceful norms with the Southeast Asian countries.
+Secondly, China has accepted multilateralism as a basis for diplomatic relations. Thirdly, over time economic cooperation has created a high level of
+economic integration and interdependence between China and the ASEAN
+members.
+Until the early 1990s, China did not even have diplomatic relations with
+a number of regional states. ASEAN was perceived as an ally of the United
+27. BBC News Online, ‘‘China Approves Dock Project in Disputed Paracel Islands,’’ April 27,
+2012, <http://www.bbc.co.uk/news/world-asia-china-17865585>.
+28. Mr. Wu, president of China’s National Institute for South China Sea Studies, cited in Jane
+Perlez, ‘‘China Asserts Sea Claim with Politics and Ships,’’ New York Times, August 12, 2012.
+29. Hilary Clinton, ‘‘American’s Paciﬁc Century,’’ Foreign Policy, November 2011.
+30. Allen S. Whiting, ‘‘ASEAN Eyes China: The Security Dimension,’’ Asian Survey 37, no. 4
+(1997): 299–322; Wu, ‘‘Spillover Effect.’’
+
+608  ASIAN SURVEY 55:3
+
+States and hence a potential threat to China’s interests. Conversely, China
+was seen as a threat to ASEAN, driving a military buildup and efforts to retain
+US regional engagement. Since then relations have drastically changed, with
+ASEAN pursuing a diplomatic campaign to engage rather than isolate China.
+This ‘‘constructive engagement’’ strategy was to become a reciprocal process,
+with China moving from a Great Power–oriented foreign policy to ‘‘soft
+power’’ diplomacy to counteract the perception of China as a threat.31 In
+the late 1990s, in particular after the 1997 Asian ﬁnancial crisis, which was
+a critical juncture for ASEAN’s perception of China and for the level of
+communication and diplomatic respect between the two, the peaceful norms
+became institutionalized.32 Of particular importance for this process was the
+initiation of the ASEAN Plus Three Cooperation, initiated in December 1997
+when the then nine ASEAN members plus China, South Korea, and Japan
+met to discuss opportunities for cooperation. ASEAN Plus Three was to
+become the platform for cooperation, reconciliation, and communitybuilding in East Asia. Through it, interstate relations have reached a level
+where there has been less need for deliberate efforts to avoid confrontations
+over conﬂictual issues—it has become possible to avoid conﬂict.33
+The second major transformation, multilateralism, developed in close
+connection with the above process. Starting in the early 1990s, with the
+inclusion of China, Taiwan, Cambodia, Laos, and Vietnam in the SCS
+workshops and the 1992 Manila Declaration, over time a wide range of
+multilateral dialogues have developed in East Asia. Initially, China was both
+inexperienced and reluctant to engage in multilateral frameworks; it only
+reluctantly joined the security-focused ARF in 1994. This, to quote Ren Xiao,
+was ‘‘a remarkable development,’’ as China at the time had ‘‘little experience in
+multilateral processes.’’34 Through participation, over time the ‘‘mindsets’’
+towards multilateral approaches’’ changed.35 Despite China’s remaining
+31. David C. Kang, China Rising: Peace, Power, and Order in East Asia (New York: Columbia
+University Press, 2007); Whiting, ‘‘ASEAN Eyes China’’; Daojiong Zha and Weixing Hu, Building
+a Neighborly Community: Post-Cold War China, Japan, and Southeast Asia (Manchester: Manchester
+University Press, 2006).
+32. See e.g. Alice D. Ba, ‘‘China and ASEAN: Renavigating Relations for a 21st-Century Asia,’’ Asian
+Survey 43, no. 4 (2003): 622–47, esp. 634–38; Ren Xiao, ‘‘Between Adapting and Shaping: China’s Role in
+Asian Regional Cooperation,’’ Journal of Contemporary China 18, no. 59 (2009): 303–20.
+33. Weissmann, ‘‘South China Sea Conﬂict.’’
+34. Ren, ‘‘Between Adapting and Shaping,’’ 304.
+35. Interview with a member of a government think tank, Shanghai, China, December 15, 2006.
+
+WEISSMANN / STILL NO WAR ON THE HORIZON  609
+
+opposed to internationalization of the SCS and having a preference for bilateral
+diplomacy, multilateralism did become complementary rather than supplementary in Chinese policy toward ASEAN.36 In 1995, prior to the ARF meeting
+in Brunei Darussalam, China even declared its willingness to discuss the
+Spratlys in a multilateral setting. Two years later, at the ARF meeting in
+Subang Jaya in July 1997, China accepted the SCS conﬂict’s being put on the
+agenda. Multilateralism was also what made the 2002 DOC possible. The
+process leading to the drafting, ﬁnalization, and eventual signing of the declaration would not have been possible through bilateral dialogues, or without
+China’s becoming conﬁdent in engaging in multilateral forums, and in its
+ability to handle multilateral agreements to its own beneﬁt.
+In recent years, there have also been moves from China to push for more
+bilateral diplomacy, both in policy stands and in behavior. This move can be
+most clearly seen in the successful push to divide the ASEAN members,
+thereby blocking ASEAN from presenting a united front toward China, and
+the Chinese courtship of Vietnam and the Philippines, handing out economic incentives to demonstrate the beneﬁt of developing bilateral relations
+with China.37 However, multilateralism has become institutionalized in the
+different multilateral forums and dialogues, and in the accepted diplomatic
+norms and practices. China has not succeeded in making the SCS a solely
+bilateral issue, as it continues to be discussed in multilateral settings. For
+example, despite intense lobbying, China did not in the end succeed in
+keeping the issue off the agenda at the ASEAN Summit in April 2012.38
+However, as argued by Donald K. Emmerson, as long as the other ASEAN
+states that claim land features in the SCS ‘‘cannot settle their own differences,’’
+China will ‘‘remain free to pursue its bilateralist hub-and-spokes approach,’’
+and furthermore the US cannot ‘‘be expected to support a more equitable
+ASEAN solution if one does not exist.’’39
+
+36. Cheng-Chwee Kuik, ‘‘Multilateralism in China’s ASEAN Policy: Its Evolution, Characteristics, and Aspiration,’’ Contemporary Southeast Asia 27, no. 1 (2005): 102–22.
+37. Ministry of Foreign Affairs of the People’s Republic of China, Hu Jintao Holds Talks with
+Nguyen Phu Trong, October 12, 2011, <http://www.fmprc.gov.cn/eng/wjb/zzjg/yzs/gjlb/2792/2794/
+t866965.htm>; Philip C. Tubeza, ‘‘Aquino Back Home with $13-B Deals: President Makes Sentimental Side Trip,’’ Philippine Daily Inquirer, September 3, 2011.
+38. Valencia, ‘‘High-Stakes Drama.’’
+39. Donald K. Emmerson, ‘‘Challenging ASEAN: The US Pivot through Southeast Asia’s Eyes,’’
+Global Asia 7, no. 4 (2012): 22–27.
+
+610  ASIAN SURVEY 55:3
+
+In the economic sphere, where a signiﬁcant process of economic cooperation has taken place since the early 1990s, the bilateral trade between China
+and the members of ASEAN increased as much as 15 times between 1991 and
+2005, when it reached US$130.3 billion.40 And the economic integration and
+interdependence goes beyond the volume of trade. Arguably most importantly for conﬂict transformation, the focus on economic growth and prosperity across the region has created a common policy goal across East Asia.
+The ever-increasing economic cooperation also goes hand in hand with the
+creation of a multitude of institutions and frameworks to help facilitate
+economic cooperation, including the agreement on a China-ASEAN Free
+Trade Area that came into force January 1, 2010.41
+The high level of economic interdependence has raised the cost of military
+conﬂict, and thus increased the incentive for China as well as its Southeast
+Asian neighbors to pursue nonconfrontational paths. This works well in
+a region where the preference is to avoid rather than address conﬂicts and
+tensions, with the practice of conﬂict avoidance being deeply embedded in
+the diplomatic culture, as it is in the regional culture itself. It should be
+emphasized here that the assumption, found in many pessimistic accounts
+of ASEAN, that conﬂict resolution is needed for conﬂict prevention, does not
+hold up under scrutiny, as ‘‘in reality, conﬂicts can also be avoided, or conﬂict
+structures can be transformed so that violent disputes will not arise.’’42 With
+the foremost importance being placed on ensuring economic growth and
+national prosperity, the disputes in the SCS have been less central on the
+agenda than would otherwise have been the case.43
+Today, economic interdependence seems to have lost some of its signiﬁcance in suppressing tension in the SCS. However, it should be emphasized
+that Sino–ASEAN economic ties have never been stronger. Despite the high
+40. Liao Shaolian, ‘‘China-ASEAN Economic Relations: Progress and Prospects,’’ in Harmony
+and Development: ASEAN-China Relations, ed. Hongyi Lai and Tin Seng Lim (Singapore: World
+Scientiﬁc, 2007), 139; John Wong and Sarah Chan, ‘‘China-ASEAN Free Trade Agreement: Shaping
+Future Economic Relations,’’ Asian Survey 43, no. 3 (2003): 507–26.
+41. Gregory Chin and Richard Stubbs, ‘‘China, Regional Institution-Building and the China–
+ASEAN Free Trade Area,’’ Review of International Political Economy 18, no. 3 (2011): 277–98.
+42. Timo Kivimäki, ‘‘Southeast Asia and Conﬂict Prevention: Is ASEAN Running Out of Steam?’’
+Paciﬁc Review 25, no. 4 (2012): 403–27.
+43. Interview, member of a government think tank, Shanghai, China, December 15, 2006. Also
+see section 3.2 (Chinese Foreign Policy) in Märta Carlsson, Susanne Oxenstierna, and Mikael
+Weissmann, China and Russia: A Study on Cooperation, Competition and Distrust (Stockholm:
+Swedish Defence Research Agency, 2015).
+
+WEISSMANN / STILL NO WAR ON THE HORIZON  611
+
+tensions, economic cooperation has continued to increase. Annual trade was
+expected to exceed US$350 billion in 2011, and potentially reach or surpass
+US$500 billion by 2015.44 To take bilateral trade between China and the
+Philippines as an example, despite high tensions over disputes in the SCS,
+such trade reached an all-time high in 2011 (exceeding US$30 billion) and in
+the same year plans to double the trade to US$60 billion by 2016 were
+announced.45 This is not to say that economic cooperation will resolve the
+territorial conﬂicts, but it does continue to provide a mutually beneﬁcial path
+for cooperation. Moreover, it contributes to economic growth and prosperity
+in all claiming states. This is important not least in China as regime survival is
+(at least partially) dependent on continuing economic growth.
+In conclusion, the structural transformations that have occurred are still
+relevant, at least until now. The transformations taking place during almost
+two decades have not been undone, even though China has destroyed much
+of the tediously built trust and conﬁdence it once had accumulated. Furthermore, no positive transformations have taken place in recent years. However,
+the developments have not in any fundamental way altered the structures that
+have already been built. The push in the SCS conﬂict has not altered the
+overall structures. Generally speaking, relations between China and the
+ASEAN members are good, as all East Asian states understand the need to
+facilitate mutual coexistence. Multilateralism is still crucial in the regional
+security setting; and even if this were not the case, the increased US involvement would ensure the importance of multilateral processes in the region.
+The economic cooperation is ongoing and increasing, and there are no signs
+of future negative change, as economic growth and prosperity continue to be
+central policy objectives across the region.
+Actor Transformation
+
+Internal changes can be identiﬁed among the major conﬂict parties, mainly in
+China but also among the Southeast Asian parties. There has also been the
+emergence of a new actor, with ASEAN as an organization becoming de facto
+44. Ministry of Foreign Affairs of the People’s Republic of China, Wen Jiabao Attends Meetings of
+East Asian Leaders, November 20, 2011, <http://www.fmprc.gov.cn/eng/topics/wjbdyldrhy/t879898.
+shtml>.
+45. Samantha Hoffman, ‘‘Sino-Philippine Tension and Trade Rising amid Scarborough Standoff,’’ China Brief 12 (2012): 13.
+
+612  ASIAN SURVEY 55:3
+
+recognized as an actor in the mid-1990s. In addition, the relative importance
+of the United States as a principal actor has increased since Washington took
+a more hands-on approach to the SCS in 2010, after having its foreign policy
+focused elsewhere since the end of the Cold War.
+During the 1990s, China moved away from the Great Power–oriented
+foreign policy focus it had pursued during the Cold War. With its new
+pursuit of becoming a peaceful nation, China tried for the ﬁrst time to
+cultivate a deep and comprehensive relationship with its Southeast Asian
+neighbors. This ‘‘good neighborliness’’ policy affected how China pursued,
+or rather did not pursue, its claims in the SCS. A transformation also
+occurred among the Southeast Asian states as they jointly, under the ASEAN
+umbrella, moved to normalize their relations with China under the banner of
+‘‘constructive engagement.’’
+In recent years there has been a backlash, with negative internal developments in China, and a new assertiveness developing. The new assertiveness is
+a result of China’s increased capabilities and enhanced conﬁdence, together
+with unabated nationalism and a growing frustration with outside interference. There have also been discussions of the possibility of the increased
+inﬂuence of more hard-line elements in the military and the Chinese Communist Party making China more eager to pursue their claims.
+ASEAN as an organization emerged as an actor after the 1995 Mischief Reef
+incident, following the realization among the ASEAN members that they
+were stronger as a collective. Underlying ASEAN’s emergence was China’s
+increased conﬁdence and willingness to participate in multilateral settings.
+Despite its initial resistance and a preference for bilateral diplomacy, multilateralism over time became complementary rather than supplementary in
+Chinese policy toward its Southeast Asian neighbors.46
+It was not until 2010 that the United States got directly involved in the
+SCS, despite long having played an important role in regional stability. Until
+then, the United States had taken a back-seat position, as its interest had been
+limited to safeguarding its freedom of navigation, which has never been
+threatened. However, with its new strategic focus on Asia, the United States
+emerged as an actor in the SCS. That Washington wanted a seat at the table
+was made obvious when, at the July 2010 ARF, US Secretary of State Hillary
+Clinton made it clear that ‘‘the United States has a national interest in freedom
+46. Kuik, ‘‘Multilateralism in China’s ASEAN Policy,’’ 67.
+
+WEISSMANN / STILL NO WAR ON THE HORIZON  613
+
+of navigation, open access to Asia’s maritime commons and respect for international law in the South China Sea’’47 and urged a multilateral approach to
+resolving the SCS disputes, including offering to mediate. This was a major
+strategic shift away from economic and diplomatic engagement to a new focus
+on security issues. The shift was made even clearer over the following year,
+when in November 2011 President Obama formally announced the US ‘‘pivot’’
+to Asia, with his defense chiefs detailing the new strategy two months later.
+Whether the United States’s increased role as an actor will be positive or
+negative for regional security it is too early to say. The reason for this is
+a paradox in the East Asian security setting; as argued by Bonnie Glaser,
+Southeast Asia ‘‘seek[s] greater US economic, diplomatic and military
+involvement in the region as a counterbalance to China’s growing power—
+but at the same time, every country in the region also desires a close relationship with Beijing.’’48 The paradox is evident in the SCS, where Southeast
+Asian states ‘‘periodically urge Washington to help them stand up to Chinese
+pressure to accept Beijing’s expansive claims,’’ but when Washington acts
+against China, ‘‘concerns about US-China tensions spike and they implore
+the United States to step back.’’49
+Consequently, positive actor transformations did occur during the 1990s
+and early 2000s, but their relevance today can be questioned. Since 2007
+there has been a negative change of direction in the case of China. This
+change has facilitated the re-emergence of the United States as an actor, as
+it has created a perceived need in Washington to increase its regional presence, and increased the willingness among Southeast Asian states to facilitate
+an increased US presence as a safeguard against further negative moves from
+Beijing. The jury is still out when it comes to how prominent the United
+States will become and how much China has in fact changed internally.
+Concerning the latter, the signs that a more moderate policy was under
+way in 2011 have to a large extent evaporated. So far the results are mixed at
+best, with Xi Jinping since 2013 pursuing a more active foreign policy which,
+as far as evidence indicates, leans toward a ‘‘striving for achievement’’ strategy.
+However, even if Xi is leaning toward ‘‘striving for achievement,’’ it is still
+47. Mark Landler, ‘‘Offering to Aid Talks, U.S. Challenges China on Disputed Islands,’’ New
+York Times, July 24, 2010.
+48. Glaser, ‘‘Trouble in the South China Sea’’; see also Michael Yahuda, ‘‘China’s New Assertiveness in the South China Sea,’’ Journal of Contemporary China 22, no. 81 (2013).
+49. Ibid.
+
+614  ASIAN SURVEY 55:3
+
+most unlikely that there will be a complete departure from the old Chinese
+foreign policy strategy of ‘‘keeping a low proﬁle.’’50 It is likely that China will
+sustain its assertive posturing and policy toward the SCS, which is not to say
+that one should leap to doomsday conclusions based solely on the actor
+dynamics. With the main aims of Xi’s foreign policy being ‘‘to achieve
+modernization, create a benevolent and peaceful external environment, and
+take steps that allow it to develop its domestic economy,’’51 the leaders of
+China understand the necessity of, and seek to, maintain its peaceful relations
+with other states, including managing conﬂicts with neighbors over territorial
+and maritime issues.
+Issue Transformation
+
+While we have seen transformation among the actors in the SCS disputes, the
+same cannot be said about the issues. There has been neither a reformulation
+in the positions that the parties take on as key issues, nor any substantial
+redeﬁnition or reframing of the issues to reach compromise or resolution.
+The nature of the conﬂict (territorial sovereignty) and the actual claims have
+been and continue to be the same. Freedom of navigation remains on the
+agenda, and has moved, if at all, in a negative direction. There has been minor
+issue transformation with regard to a certain emphasis on shared concerns for
+new issues, but nothing that has had any major impact on the underlying
+conﬂict issues.
+The lack of issue transformation is caused not only by the inherent sensitivity in territorial sovereignty but also by the fact that the territorial claims are
+closely linked to securing ownership of natural resources in the area. Considering the high and rising demand for and price of energy, together with the
+increasing ability to conduct deep-sea drilling, the existence of (potential) oil
+and gas resources increases the incentive to be ﬁrm in one’s claims. The
+potential for issue transformation is also hindered by the strong nationalist
+elements among the claiming states, in particular in China, Vietnam, and the
+Philippines. Such nationalism makes compromises difﬁcult and highly risky, as
+a lot of national prestige and identity has been invested in the SCS.
+50. Yaqing Qin, ‘‘Continuity through Change: Background Knowledge and China’s International Strategy,’’ Chinese Journal of International Politics 7, no. 3 (2014): 285–314.
+51. Kejin Zhao, Guiding Principles of China’s New Foreign Policy, Carnegie-Tsinghua Center for
+Global Policy, 2013, <http://carnegietsinghua.org/publications/?fa¼52902>.
+
+WEISSMANN / STILL NO WAR ON THE HORIZON  615
+
+Despite its not having been a serious cause of conﬂict so far, freedom of
+navigation in the SCS continues to be of importance in and beyond the
+region. Besides their economic importance as trade routes, the SLOCs are
+also important for the self-image of the United States, as it has invested a lot
+of prestige and de facto committed itself to the protection of the principle of
+free navigation in the region. This commitment is what ensures that nobody
+has threatened or will threaten the SLOCs. Since summer 2010 there have
+been signs of a negative development toward conﬂict regarding freedom of
+navigation, as the United States has tried to cite concerns over freedom of
+navigation to legitimize its new hands-on involvement in the SCS. Still, there
+has been no actual conﬂict over, or threat to, freedom of navigation. In fact,
+Beijing—which has done its best to reassure the United States that it has no
+intention of endangering freedom of navigation—is arguably correct when
+implying that the US concern disguises other intentions. In other words, so
+far US concern has not had a major impact on the underlying issue of
+freedom of navigation.
+Moving on to shared concern for new issues, here a positive trend can be
+identiﬁed. Cooperation has occurred within a range of functional areas,
+including areas such as ecosystem, biodiversity, sea level, and tide monitoring.52 Functional frameworks have been established, not least as a result of the
+SCS workshops. Nevertheless, little if any spillover into other areas has
+occurred. If these projects have had positive effects on cooperation on more
+sensitive issues, they have been limited to the establishment of functional
+frameworks. For example, a special study group on joint development in the
+SCS was set up in 1998 which addressed the sensitive and conﬂict-ridden issue
+of access to natural resources. Nevertheless, looking at the track record of
+joint development over oil and gas, not much has happened.
+
+CONCLUSION
+
+Conﬂict transformation has happened, but is far from complete. The transformations that have occurred are still relevant, but they have been weakened,
+in particular in the cases of actor transformation.
+52. Shih-Ming Kao, Nathaniel Sifford Pearre, and Jeremy Firestone, ‘‘Regional Cooperation in
+the South China Sea: Analysis of Existing Practices and Prospects,’’ Ocean Development & International Law 43, no. 3 (2012): 283–95.
+
+616  ASIAN SURVEY 55:3
+
+For actor transformation, the key question is what has happened with the
+2011 moderation in the context of Xi Jinping’s foreign policy direction. As set
+out above, it should be emphasized that even if, as evidence indicates so far,
+Chinese foreign policy under Xi will both be more active than before and lean
+toward a strategy of ‘‘striving for achievement,’’ it is most unlikely that there
+will be a complete departure from the old Chinese foreign policy strategy of
+‘‘keeping a low proﬁle.’’ It is likely that China will sustain its assertive posturing and policy toward the SCS; however, this is not to say that one should
+leap to doomsday predictions.
+The importance of the United States as a principal actor has increased. The
+future will tell how prominent it will become, and whether its presence will
+be beneﬁcial for peaceful developments. It is clear that it helps give ASEAN
+and its relatively weak members leverage in their relations to and negotiations
+with China.
+No issue transformations of importance have happened except for a certain
+trend toward emphasizing nonsensitive issues of shared concern. As has often
+been the case in East Asia, the cooperation in nonsensitive areas has had no
+spillover into more issue-sensitive areas. Nevertheless, the cooperation has
+been positive for peace, working as a process of conﬁdence and trust-building
+between the claimants.
+The context and structural transformations, which are closely linked to
+overall Sino–ASEAN relations, were and continue to be relatively strong. The
+norms that became institutionalized during the 1991–2007 period have been
+shaken up lately; however, considerable effort is still being put into reasserting the commitment to the nonuse of military means and the DOC. This is
+so even though there have been maneuvers from China that are not in line
+with the principles set out in the code. The structural changes have not been
+undone, although they have been challenged. Multilateralism continues to be
+the norm, despite certain Chinese resistance, and the overall economic relations between China and ASEAN continue to be positive, though the political relations between China and some of the ASEAN members have
+worsened due to the tensions in the SCS. Thus, in essence, the positive
+overarching rules and structures which the SCS is embedded in continue
+to be favorable. Were this not the case, it is likely that there would already
+have been major military confrontations in the SCS.
+Drawing the four forms of transformation together, it can be concluded
+that major armed conﬂict in the SCS is highly unlikely. Not only are large
+
+WEISSMANN / STILL NO WAR ON THE HORIZON  617
+
+aspects of the positive transformations that took place between 1991 and 2007
+still in existence, but all parties, including the United States and not least
+China, would have a lot to lose from armed conﬂict. The concern is the
+negative developments with regard to actor transformation, the big question
+being where Xi Jinping is going. It is clear that foreign policy under his
+leadership will be more active and ambitious, and as far as evidence indicates,
+so far it leans toward a ‘‘striving for achievement’’ strategy. But that China can
+be expected to pursue its assertive posturing and policy toward the SCS does
+not entail that there will be war. Such a development, whether they would
+wish it or not, would be against China’s interests; it would risk undermining
+domestic economic growth and prosperity, and in the longer term would
+cause domestic political instability. Thus, it would put at risk not only the
+rejuvenation of the Chinese nation but also the ultimate goal of regime
+survival, which in turn is dependent on domestic stability.53
+At the same time, it is clear that a ﬁnal resolution of the SCS conﬂict in the
+foreseeable future is not to be expected. But if China really does follow Deng
+Xiaoping’s guidance, shelving disputes and instead engaging in joint development, there is no cause for any great concern. However, if Beijing should
+instead follow another of Deng Xiaoping’s maxims, that you should hide
+your capabilities and bide your time, then of course the situation might turn
+out differently. We know that China will not be a status quo power, accepting the world as it is. But this is not the same as saying that China has become
+a revisionist power, aiming to remodel the global order. China has moved
+beyond being what Shaun Breslin has called a ‘‘dissatisﬁed responsible great
+power’’54 and become what is best described as a responsible reformer ‘‘striving for achievement.’’ Such an actor can be expected to do what is in its power
+to seek change for its own beneﬁt, but being overly aggressive in the SCS
+would not be in its interest, nor would triggering an armed conﬂict with any
+of its South East Asian neighbors, not to speak of the United States. Thus,
+there is still no war on the horizon in the South China Sea.
+53. Mikael Weissmann, ‘‘Chinese Foreign Policy in a Global Perspective: A Responsible Reformer
+‘Striving for Achievement’,’’ Journal of China and International Relations 3, no. 1 (2015); Märta
+Carlsson, Susanne Oxenstierna, and Mikael Weissmann, China and Russia: A Study on Cooperation,
+Competition and Distrust, Report no FOI-R–4087-SE (Stockholm: Swedish Defence Research
+Agency, 2015), p. 36.
+54. Shaun Breslin, ‘‘China’s Emerging Global Role: Dissatisﬁed Responsible Great Power,’’
+Politics 30 (2010): 52–62.
+
+

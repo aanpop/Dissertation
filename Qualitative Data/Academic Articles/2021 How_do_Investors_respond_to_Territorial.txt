@@ -1,0 +1,1797 @@
+Energy Economics 100 (2021) 105361
+
+Contents lists available at ScienceDirect
+
+Energy Economics
+journal homepage: www.elsevier.com/locate/eneeco
+
+How does geopolitical uncertainty affect Chinese overseas investment in
+the energy sector? Evidence from the South China Sea Dispute
+Zhen Yu a, b, *, Yao Xiao a, Jinpo Li b
+a
+b
+
+Economics and Management School, Wuhan University, China
+Institute for the U.S. and Canadian Economies, Wuhan University, China
+
+A R T I C L E I N F O
+
+A B S T R A C T
+
+Jel classification:
+F21
+F50
+
+Based on Chinese outward foreign direct investment data, this study examines the impact of the South China Sea
+Dispute on China’s overseas investments in oil & gas-related sectors. The South China Sea Dispute alarms a
+potential threat to China’s energy supply. By applying a difference-in-difference estimation, we find that the
+South China Sea Dispute brings about an increase in the frequency of China’s oil & gas-related investments to
+low-risk countries. The findings are robust under several specification tests. It indicates that under geopolitical
+uncertainty environment, energy-importers will reallocate energy investment in order to avoid the potential
+disruption of energy supply.
+
+Keywords:
+Geopolitical event
+China’s outward FDI
+Difference-in-difference
+
+1. Introduction
+Uncertainty is one of the major factors that influence the investment
+decision of business operators. Under turbulent environment of uncer­
+tainty, firms may alter their investment and financing decisions to avoid
+potential losses. The outbreak of extreme events such as epidemics and
+geopolitical events increases uncertainty of the business environment,
+which triggers change in investment patterns in affected areas. In the
+past century, disputes of the South China Sea have risen mistrust and
+aggravating tension in the region. In order to avoid the unforeseen
+negative effect for better decision making, it is important to identify the
+effect of geopolitical uncertainty on the overseas investment of China’s
+energy firms.
+The South China Sea is a semi-enclosed sea located in the Indian
+Pacific region, stretching south to the Strait of Malacca in Singapore and
+Malaysia, and north to the Taiwan Strait. The Strait of Malacca, which
+connects the Indian Ocean with the Pacific Ocean through the South
+China Sea, serves as the shortest route between the Persian Gulf and
+Asian markets. As a major route for international trade, the South China
+Sea carries vital importance to China. It is perceived as the throat of
+global sea routes (Holmes, 2014; Kaplan, 2011). Moreover, the Strait of
+Malacca is described as the Achilles’ heel for China’s energy security
+(Kelanic, 2016; Wu, 2008; Yang et al., 2015). According to the U.S.
+Energy Information Administration, more than 30% of the global crude
+
+oil trade transit through the South China Sea in 2016, and more than
+90% of China’s crude oil volumes flow through the South China Sea in
+2016 (EIA, 2018).
+Major geopolitical events in the South China Sea will possibly lead to
+permanent change in the patterns of China’s maritime trade and affect
+China’s oil & gas-related OFDI. With the increase in energy demand,
+China faces domestic supply constraint that could only be addressed via
+oil imports. The peaceful environment in the South China Sea is neces­
+sary for China’s oil shipping. Contrarily, any potential risks in the South
+China Sea would influence China’s oil imports and threaten national
+energy security. Aggravating tension in this area would impede or even
+halt regional commerce, leading to a disruption of economic develop­
+ment in East Asia countries, especially for China (Creehan, 2012;
+Gueldry and Liang, 2016; Lee, 2019; Li et al., 2014; Zhong and White,
+2017). This study analyses the South China Sea Dispute and investigates
+whether China considers political risk in its overseas energy investment.
+The motivation of this study has two aspects. Firstly, the South China
+Sea Dispute provides an exogenous setting for empirical analysis. Since
+economic policies relatively change with the macro environment as
+uncertainty increases, the effect of uncertainty is mixed. Conversely, the
+South China Sea Dispute did not trigger war nor has real effect on the
+economy of the claimant states. Thus, this study uses the escalation
+between claimant states in 2010 as an exogenous shock to examine the
+impact of geopolitical uncertainty. The identification strategy will help
+
+* Corresponding author at: Economics and Management School, Wuhan University, No. 299 Bayi Road, Luojiashan street, Wuchang District, Wuhan City, Hubei
+Province 430072, China.
+E-mail address: yuzhenwhu@126.com (Z. Yu).
+https://doi.org/10.1016/j.eneco.2021.105361
+Received 25 August 2020; Received in revised form 8 March 2021; Accepted 25 May 2021
+Available online 6 June 2021
+0140-9883/© 2021 Elsevier B.V. All rights reserved.
+
+Z. Yu et al.
+
+Energy Economics 100 (2021) 105361
+
+to solve the problem of unmeasured confounders. Secondly, for energyimporters such as China, they should be aware of the impact of extreme
+events on energy security. Access to reliable and sufficient energy re­
+sources plays a crucial role in the functioning of a modern economy.
+Therefore, energy-importing economies need to combat the negative
+impact of extreme events regarding energy security.
+This study is associated with two strands of literature. One studies
+how firms make investment decisions under uncertain environment
+(Bernanke, 1983; Caballero and Pindyck, 1992; Dixit et al., 1994). When
+there is an increase in political uncertainty, firms will adopt the waitand-see strategy and delay making sunk investments owing to the irre­
+versible nature of the investment. The negative correlations between
+uncertainty and investment have been found during periods of external
+shocks and political turnovers (An et al., 2016; Chen et al., 2020b; Gu
+et al., 2021; Haroon and Rizvi, 2020; He et al., 2020b, 2020a; Jens,
+2017; Julio and Yook, 2012; Mishra et al., 2020; Njindan Iyke, 2020; Sha
+and Sharma, 2020; Vidya and Prabheesh, 2020). Other research has also
+found reduced economic activities and depressed stock prices caused by
+political uncertainty (Al Mamun et al., 2020; Balcilar et al., 2018; Cal­
+dara and Iacoviello, 2017; Chen et al., 2016; Dissanayake et al., 2018;
+Fania et al., 2020; Gu et al., 2020; Samuel et al., 2020; Shen et al., 2020;
+Wang et al., 2019). Extant studies mainly use domestic political turnover
+or deterioration in bilateral relations to describe geopolitical uncer­
+tainty, while the impact of regional geopolitical events and how un­
+certainty affects investment behaviour remain under discussion. This
+study is to analyse whether firms reallocate their investment when
+facing geopolitical threats.
+On the other hand, this study is associated with the issue of energy
+security and national policy (Apergis and Apergis, 2020; Cao and Bluth,
+2013; Devpura and Narayan, 2020; Fu and Shen, 2020; Ge and Fan,
+2013; Gil-Alana and Monge, 2020; Liu et al., 2020b; Narayan, 2020; Qin
+et al., 2020; Vivoda, 2009; Vivoda and Manicom, 2011; Wu, 2014).
+Countries that rely heavily on foreign energy supply would face rela­
+tively high risk of supply disruption once extreme events happen at the
+international energy market. Taking China for instance, the excess
+dependence on particular oil-producing countries and specific trans­
+portation routes have put China at a vulnerable stage (Li et al., 2020;
+Odgaard and Delman, 2014; Zhang, 2011). To maintain a stable supply,
+importers tend to keep a good diplomatic relation with oil-producing
+countries. Lee (2019) points out the “oil for ally” paradigm, in which
+importers often take the energy endowment of the partner country into
+consideration and possibly give preferential foreign policies to its
+resource-exporting partners. Researchers have also emphasized the
+close relationship of China’s foreign policy to its energy cooperation
+partner (Gueldry and Liang, 2016; Lee, 2019; Li et al., 2014). As per
+above facts, the outbreak of potential geopolitical event will alarm great
+threat to China’s energy security. However, the relationship between
+geopolitical events and energy investment has been rarely studied
+empirically. We fill this gap by linking geopolitical uncertainty to energy
+investment with China’s outward FDI data. We explore whether China
+adopts the diversification strategy and overseas energy investment to
+address the concern of energy resources.
+This study uses the South China Sea Dispute in 2010 as a quasiexperiment to examine the impact of geopolitical uncertainty on
+China’s OFDI in the energy sector. For stable energy importing, China
+will diverge investment into less risky countries. The finding shows that
+the South China Sea Dispute leads to 0.72 increase in the frequency of
+China’s oil & gas-related investments to low-risk countries. Robustness
+checks including DDD and subsample analysis are conducted to verify
+the baseline results. Firstly, a DDD estimation is applied to eliminate
+unobservable factors regarding investment regulations. We add a
+dimension on the sector level and find that the deregulation of foreign
+investment will not affect the robustness of the results. Secondly, we
+conduct a subsample analysis for countries that have both trade and
+investment connections with China. Since some countries have no in­
+vestment connection with China throughout the period, we exclude
+
+these countries to ensure that the establishment of the investment
+project is related to energy trade. Thirdly, we conduct a subsample
+analysis for countries within close geographical distance. Since coun­
+tries in Africa and America are geographically far away from China, we
+exclude those countries to rule out the impact of concurrent events in
+remote areas. Moreover, we conduct a subsample analysis for invest­
+ment projects from central State-Owned-Enterprises. Since investments
+proposed by the central government are aimed at implementing national
+policies, we only keep these investments to capture the purpose of
+China’s OFDI. Finally, we re-estimate the results using alternative
+models such as the negative binomial model and the Poisson model.
+Results from the above robustness checks all support the main findings
+of this study.
+This paper complements extant literature in two aspects. Firstly, we
+propose an ideal exogenous shock to study the impact of geopolitical
+events on investment. Existing studies have discussed the positive cor­
+relation between the geopolitical events and investment (Caldara and
+Iacoviello, 2017; Chen et al., 2016; Dissanayake et al., 2018). Never­
+theless, they fail to isolate the pure geopolitical event effect to establish
+a credible causal result. We complement the extant literature on
+geopolitical events with the South China Sea Dispute. As an exogenous
+shock, it did not trigger war nor have real effect on the economy of the
+claimant states. Thus, we are able to analyse pure risk while excluding
+changes in the business environment in the host country. Secondly, we
+extend the understanding of geopolitical threats and national energy
+security. As a major energy-importer in the world, China faces severe
+challenges of supply disruption once the maritime routes are interrupted
+(Li et al., 2020; Odgaard and Delman, 2014; Zhang, 2011). This study
+explores the impact of geopolitical event on the hedging behaviour of
+Chinese overseas investments. The finding shows that the South China
+Sea Dispute diversifies China’s oil & gas-related investment towards
+low-risk countries.
+The remainder of the paper is organized as follows: Section 2 in­
+troduces the empirical strategy, Section 3 and Section 4 report estima­
+tion results and Section 5 concludes.
+2. Empirical strategy
+2.1. Sample design
+This study intends to examine the impact of geopolitical uncertainty
+on the location choice of China’s OFDI in the energy sector. Data on
+China’s OFDI are collected from China’s Ministry of Commerce. The
+micro database from the Ministry of Commerce, which is widely
+acknowledged in previous research regarding China, provides records
+on the approval of each outbound investment up to 2015 (Luo et al.,
+2017; Sun et al., 2020). The database includes the approval date, the
+name of the investor, the host country and the business description of
+each investment. However, it does not record the amount of each in­
+vestment. This study focuses on the projects that have mentioned ac­
+tivities such as oil & gas exploration and production in their business
+descriptions. Besides, we exclude countries involved with the South
+China Sea Dispute from the sample. The full sample consists of 78
+countries that have crude oil trade relation with China from 2007 to
+2015. Data on economic indicators of each country are gathered from
+the World Bank and International Monetary Fund. Geographical infor­
+mation of each country is collected from CEPII. All the continuous
+variables are winsorized at the 1st and 99th percentiles.
+2.2. Model setting
+This study takes the South China Sea Dispute as an exogenous shock
+in a difference-in-difference (DID) framework. The identification strat­
+egy is similar to Chen et al. (2016) which uses the China-Japan Island
+Dispute as an exogenous shock. Generally, the RCT method is also
+suitable for evaluating the impact of an intervention or policy shocks.
+2
+
+Z. Yu et al.
+
+Energy Economics 100 (2021) 105361
+
+However, in this study, the DID method is superior to the RCT method in
+several aspects. Firstly, the DID method is more relevant to the real
+world. It provides a more feasible and practical way in our setting.
+Secondly, the DID method could explain external validity through sta­
+tistical designs. The parallel trend test is conducted before the DID test in
+order to eliminate selection bias.
+This study uses the policy shift of the U.S. in the South China Sea in
+2010 to explore the impact of geopolitical uncertainty. At the ASEAN
+Regional Forum in 2010, the United States expressed concern about
+China’s claims and policies. The U.S. Secretary Hillary Clinton claimed
+“legitimate claims to maritime space in the South China Sea is derived
+solely from legitimate claims to land features” (DOS, 2010). The
+declaration in 2010 marks the turning point of U.S. policy towards the
+South China Sea, after which the South China Sea Dispute has emerged
+into a major issue worldwide (Beckman, 2010; Yang et al., 2021). The
+involvement of the U.S. is regarded as the “pivot to Asia” policy of the
+Obama administration and has upped the stakes for China (Ba, 2011;
+Buszynski, 2012; Fravel, 2016; Ling, 2013). The revision in the position
+of the United States has possibly fuelled potential conflicts for claimant
+states in the region. For instance, more frequent ship collisions took
+place in 2010, and the South China Sea Arbitration was applied after­
+wards. The trend is depicted in Fig. 1 in the Appendix. From 2004 to
+2009, the online keyword searching of “South China Sea” worldwide in
+the Google Trend Index had remained flat, indicating that the conflicts
+have maintained at a low and manageable level. Since 2010, the line has
+displayed a sharp rise with substantial variation and extreme volatility.
+Frequent conflicts between the claimant states have led to regional un­
+certainty and geopolitical unsafety in the South China Sea. In the sam­
+ple, the host countries are divided into the treatment group and the
+control group based on whether the South China Sea Dispute threatens
+the bilateral crude oil shipping route. Since crude oil trade between
+neighbouring land countries is generally transported via railway or
+pipeline, these countries are regarded as low-risk oil-exporting econo­
+mies (Lai, 2007; Wang et al., 2020; Zhu et al., 2015). A country is
+assigned to the control group if the shipping route flow through the
+South China Sea. An alternative control group is also applied as a
+robustness check. The basic control group includes countries other than
+neighbours in the Central Asia, while the alternative control group in­
+cludes countries other than neighbours in the Central and South Asia.
+The model is set as follows:
+lnoilvolit = β0 + β1 Treati *Postt + β2 Treati + β3 Postt + β4 Xit + δi + δt + εit
+
+Table 1
+Definitions and summary statistics of major variables.
+Variables
+
+Definition
+
+N
+
+Mean
+
+Std.
+Dev
+
+Min
+
+Max
+
+lnoilvol
+
+Logarithm of
+China’s total oil &
+gas-related
+investment
+projects
+Logarithm of GDP
+per capita
+(constant PPP)
+Foreign trade to
+GDP of the host
+country
+Net inflow of FDI
+to GDP
+Logarithm of total
+population
+Value added in the
+second industry to
+GDP
+Economic
+Freedom Index
+Political stability
+Logarithm of
+distance scaled by
+crude oil price
+Bilateral trade to
+GDP
+Year of
+participation in
+the BRI
+
+672
+
+0.289
+
+0.540
+
+0
+
+3.045
+
+672
+
+8.711
+
+1.711
+
+4.405
+
+11.59
+
+672
+
+0.666
+
+0.405
+
+0.193
+
+2.671
+
+672
+
+0.0470
+
+0.0670
+
+− 0.043
+
+0.419
+
+672
+
+9.702
+
+1.518
+
+5.872
+
+14.01
+
+672
+
+0.325
+
+0.147
+
+0.107
+
+0.773
+
+672
+
+6.701
+
+0.996
+
+4.120
+
+8.570
+
+672
+672
+
+0.418
+12.024
+
+0.298
+0.586
+
+0.009
+9.959
+
+0.990
+13.048
+
+672
+
+0.118
+
+0.124
+
+0.017
+
+0.754
+
+672
+
+0.121
+
+0.326
+
+0
+
+1
+
+lncapita
+Trade to
+GDP
+FDI to
+GDP
+lnpop
+Sec
+EFI
+Pvr
+lndisoil
+Btrade to
+GDP
+BRI
+
+Note: This table presents detailed definition and descriptive statistics of major
+variables. Trade to GDP, FDI to GDP, Sec, Pvr, and Btrade to GDP are presented in
+ratio forms.
+
+(2020), the economic freedom index is taken as the proxy for the mar­
+ketization level. We also add the political stability index from the World
+Governance Indicator to represent the political risk of the host country.
+Besides, the choice of China’s OFDI is affected by bilateral factors be­
+tween China and the host country. Previous studies demonstrate that
+close economic relation will be conducive to China’s OFDI (Ren and
+Yang, 2020). Thus, the ratio of bilateral trade volume to GDP of the host
+country is taken as the indicator for economic closeness. We set the
+product of geographical distance and crude oil price as an indicator for
+transportation cost (Hummels and Skiba, 2004). In order to eliminate
+the impact of the Belt-and-Road Initiative (BRI) which has been estab­
+lished since 2013, a dummy variable on the participation of the Beltand-Road Initiative is included in the regression. In addition, cultural
+closeness is correlated with the location choice of China’s OFDI.
+Generally, a nation’s culture is time-invariant. By adding year fixed ef­
+fect in the model, the unobserved time-invariant factors will be absorbed
+by year fixed effect.
+In the model, δi and δt represents country fixed effect and year fixed
+effect respectively. The panel data set may suffer from serial correlation
+problem. To solve this issue, standard errors clustered at the country
+level are used.
+The prerequisite for the difference-in-difference estimation lies in
+that the treatment group and the control group are comparable before
+the occurrence of the event (Beck et al., 2010). To test whether the
+parallel trend hypothesis is satisfied, the following model is used:
+∑t=+5
+lnoilvolit = β0 +
+β Treati + γ1 Treati + γ 2 Postt + γ 3 Xit + δi + δt + εit
+t=− 3 t
+
+(1)
+
+Where oilvolit represents the frequency count of oil & gas-related
+projects from China to country i in year t. Treati is a dummy variable
+that is equal to 1 if country i borders China, otherwise is equal to 0. Postt
+is a dummy variable and assigned the value 1 during and after 2010 and
+the value 0 before 2010.
+Xit indicates a set of control variables, including economic indicators
+for country i and bilateral indicators for the interconnectedness between
+country i and China in year t. The location choice of China’s OFDI is
+affected by the characteristics of the host country. The motivation
+behind OFDI could be attributed to market-seeking, efficiency-seeking
+and strategic asset-seeking (Dunning and Lundan, 2008). Extant studies
+have proposed that the economic development level and economy vol­
+ume of the host country plays an important role in China’s OFDI (Duan
+et al., 2018; Ji et al., 2019; Liu et al., 2020a; Luo et al., 2017; Ramasamy
+et al., 2012; Ren and Yang, 2020; Shao et al., 2017; Yu et al., 2020;
+Zhang et al., 2020). A country with a higher level of economic devel­
+opment, economy volume, industrial development and marketization is
+supposed to attract more OFDI. Thus, we set GDP per capita, the ratio of
+trade volume to GDP, the ratio of FDI inflow to GDP of the host country
+as the indicators of economic development. The population size is taken
+as the indicator for the volume of the national economy (Yu et al., 2021).
+Following Liu et al. (2020a), the proportion of the second industry is
+taken as the proxy for industrial structure. Referring to Ren and Yang
+
+(2)
+
+Where the interaction term Shockt * Treati is substituted by the
+interaction terms of each year and the treatment group.
+Based on the DID estimation, a further difference-in-difference-indifference (DDD) analysis is conducted on the sector level (Chen et al.,
+3
+
+Z. Yu et al.
+
+Energy Economics 100 (2021) 105361
+
+Table 2
+Parallel trend test of the South China Sea Dispute.
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+Basic Control group
+
+(5)
+
+(6)
+
+− 0.217
+(0.346)
+− 0.554
+(0.414)
+0.473
+(0.420)
+− 0.338
+(0.351)
+0.061
+(0.203)
+− 0.108
+(0.144)
+0.587***
+(0.213)
+1.058***
+(0.189)
+
+− 0.289
+(0.326)
+− 0.592
+(0.396)
+0.486
+(0.415)
+− 0.265
+(0.331)
+0.068
+(0.135)
+− 0.045
+(0.171)
+0.661***
+(0.182)
+1.124***
+(0.253)
+0.160
+(0.152)
+− 0.010
+(0.287)
+0.278
+(0.368)
+0.051
+(0.499)
+0.490
+(0.566)
+− 0.172**
+(0.081)
+0.513
+(0.409)
+
+Y
+Y
+663
+0.571
+
+Y
+Y
+663
+0.577
+
+− 0.281
+(0.334)
+− 0.597
+(0.400)
+0.500
+(0.428)
+− 0.262
+(0.340)
+0.074
+(0.141)
+− 0.040
+(0.185)
+0.670***
+(0.198)
+1.094***
+(0.259)
+0.159
+(0.152)
+0.054
+(0.291)
+0.305
+(0.372)
+0.085
+(0.491)
+0.483
+(0.579)
+− 0.172**
+(0.079)
+0.501
+(0.405)
+0.434
+(0.425)
+− 0.346
+(0.488)
+− 0.003
+(0.089)
+Y
+Y
+663
+0.578
+
+Alternative Control group
+
+Logarithm of Oil & Gas-related projects
+d2007
+d2008
+d2010
+d2011
+d2012
+d2013
+d2014
+d2015
+GDP per capita
+
+− 0.221
+(0.346)
+− 0.557
+(0.414)
+0.473
+(0.420)
+− 0.337
+(0.351)
+0.061
+(0.203)
+− 0.118
+(0.144)
+0.579***
+(0.213)
+1.045***
+(0.189)
+
+− 0.294
+(0.324)
+− 0.596
+(0.394)
+0.483
+(0.413)
+− 0.266
+(0.330)
+0.063
+(0.130)
+− 0.057
+(0.173)
+0.652***
+(0.181)
+1.106***
+(0.257)
+0.146
+(0.151)
+− 0.008
+(0.286)
+0.286
+(0.368)
+0.064
+(0.499)
+0.532
+(0.573)
+− 0.181**
+(0.081)
+0.523
+(0.409)
+
+Y
+Y
+672
+0.569
+
+Y
+Y
+672
+0.576
+
+Trade to GDP
+FDI to GDP
+lnpop
+Sec
+EFI
+Pvr
+lndisoil
+
+− 0.286
+(0.331)
+− 0.601
+(0.398)
+0.496
+(0.427)
+− 0.263
+(0.339)
+0.068
+(0.136)
+− 0.072
+(0.187)
+0.640***
+(0.197)
+1.055***
+(0.266)
+0.142
+(0.150)
+0.053
+(0.288)
+0.316
+(0.369)
+0.083
+(0.492)
+0.537
+(0.582)
+− 0.184**
+(0.080)
+0.518
+(0.407)
+0.435
+(0.418)
+− 0.340
+(0.493)
+0.028
+(0.090)
+Y
+Y
+672
+0.577
+
+B_trade to GDP
+BRI
+Country FE
+Year FE
+N
+R2
+
+Note: This table reports the results for the parallel trend test of the South China Sea Dispute. In Column (1) to (3), countries other than Central Asian economies are
+assigned as the control group, while in Column (4) to (6), countries other than neighbours in the Central & South Asia are assigned as the control group. All regressions
+control for country fixed effect and year fixed effect. Robust standard errors are clustered at the country level.
+
+2019; Dong et al., 2020; Gao et al., 2020). Specifically, each investment
+project is divided into two sectors, i.e., the oil & gas sector and the other
+sector, by its business description. The DDD analysis helps to examine
+whether the impact on the energy investment holds under a stricter
+identification strategy. The model is set as follows:
+lnvolijt = β0 + β1 Treati *Postt *Sectorj + δit + δij + δjt + εijt
+
+be observed from Columns (1) to (6) that before 2010, the coefficients
+are insignificant across different model settings, which indicate that
+there is hardly any difference between the treatment group and the
+control group. Thus, the two groups are suitable for conducting the DID
+regression. Since 2014, the coefficients are positive and become signif­
+icantly different from 0 at the 1% level. It is drawn from the results that
+China’s investment in the host countries in the treatment group has
+soared. Besides, the dynamic effect keeps growing until the end of the
+sample period as the coefficients display an increasing trend. In sum, the
+results from the parallel trend test in Table 2 confirm that the findings
+are not driven by potential regional events other than the South China
+Sea Dispute.
+Table 3 presents the results of the DID estimation. In Column (1) to
+(3), countries other than the Central Asian economies are taken as the
+control group. Results in Column (1) indicate that the South China Sea
+Dispute brings about 0.72 increase in the frequency count of oil & gasrelated investment projects from China to low-risk countries. Column
+(2) reports regression results with more control variables of the host
+countries, and the positive effect remains. Column (3) further controls
+bilateral indicators and the participation of the Belt-and-Road Initiative.
+The coefficient of interest decreases from 0.617% to 0.591%; however, it
+is still significant at the 1% level. Therefore, this study infers that the
+
+(3)
+
+Where volijt represents the frequency count of investment projects
+from China to country i in sector j in year t. In line with the DDD design,
+the model also includes country-year fixed effect δit, country-sector fixed
+effect δij and sector-year fixed effect δjt.
+The detailed definition of major variables and the descriptive sta­
+tistics are presented in Table 1.
+3. Estimation results
+Before the difference-in-difference estimation, a parallel trend test is
+conducted for the treatment group and the control group. Following
+previous studies, the interaction terms of each year and the treatment
+group are added into the model as outlined in Eq. (2) (Gao et al., 2020;
+Ming et al., 2020; Nie et al., 2020; Zhou et al., 2020). Table 2 displays
+results on the parallel trend test of the South China Sea Dispute. It could
+4
+
+Z. Yu et al.
+
+Energy Economics 100 (2021) 105361
+
+Table 3
+Effect on Chinese overseas oil & gas investment.
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+Basic Control group
+
+(5)
+
+(6)
+
+0.546***
+(0.116)
+
+0.621***
+(0.139)
+0.125
+(0.154)
+− 0.057
+(0.297)
+− 0.034
+(0.465)
+− 0.001
+(0.521)
+0.734
+(0.589)
+− 0.135
+(0.086)
+0.643*
+(0.379)
+
+Y
+Y
+663
+0.543
+
+Y
+Y
+663
+0.549
+
+0.603***
+(0.135)
+0.120
+(0.152)
+0.030
+(0.291)
+0.040
+(0.430)
+0.024
+(0.515)
+0.734
+(0.593)
+− 0.145*
+(0.085)
+0.641*
+(0.374)
+0.926**
+(0.393)
+− 0.428
+(0.545)
+0.055
+(0.092)
+Y
+Y
+663
+0.552
+
+Alternative Control group
+
+Logarithm of Oil & Gas-related projects
+Treat * Post
+GDP per capita
+
+0.543***
+(0.116)
+
+0.617***
+(0.140)
+0.112
+(0.153)
+− 0.055
+(0.297)
+− 0.023
+(0.464)
+0.012
+(0.522)
+0.771
+(0.596)
+− 0.144*
+(0.086)
+0.652*
+(0.379)
+
+Y
+Y
+672
+0.541
+
+Y
+Y
+672
+0.548
+
+Trade to GDP
+FDI to GDP
+lnpop
+Sec
+EFI
+Pvr
+lndisoil
+
+0.591***
+(0.136)
+0.107
+(0.151)
+0.029
+(0.288)
+0.059
+(0.424)
+0.026
+(0.517)
+0.780
+(0.597)
+− 0.156*
+(0.086)
+0.655*
+(0.376)
+0.919**
+(0.390)
+− 0.413
+(0.547)
+0.079
+(0.092)
+Y
+Y
+672
+0.551
+
+B_trade to GDP
+BRI
+Country FE
+Year FE
+N
+R2
+
+Note: This table reports the baseline results for Chinese overseas oil & gas investment. In Column (1) to (3), countries other than Central Asian economies are assigned
+as the control group, while in Column (4) to (6), countries other than neighbours in the Central & South Asia are assigned as the control group. All regressions control
+for country fixed effect and year fixed effect. Robust standard errors are clustered at the country level.
+
+4. Robustness checks
+
+Table 4
+Results on the DDD estimation.
+(1)
+
+(2)
+
+Basic Control group
+
+(3)
+
+In order to verify the above results, the DDD analysis and subsample
+analysis are conducted as robustness checks.
+
+(4)
+
+Alternative Control
+group
+
+4.1. DDD estimation
+
+Logarithm of investment projects
+Treat * Post * Sector
+Constant
+Country & Year FE
+Country & Sector FE
+Sector & Year FE
+Exclusion of coal-related
+investments
+N
+R2
+
+0.624***
+(0.139)
+1.220***
+(0.002)
+Y
+Y
+Y
+N
+
+0.628***
+(0.139)
+1.219***
+(0.002)
+Y
+Y
+Y
+Y
+
+0.627***
+(0.139)
+1.216***
+(0.003)
+Y
+Y
+Y
+N
+
+0.630***
+(0.140)
+1.216***
+(0.003)
+Y
+Y
+Y
+Y
+
+1344
+0.966
+
+1344
+0.966
+
+1326
+0.966
+
+1326
+0.966
+
+One concern is that Chinese government policies may influence its
+overseas investments; if so, the results would be driven by deregulation
+of foreign investment from the government rather than the South China
+Sea Dispute. The DDD design helps to eliminate policy-related factors
+that may influence Chinese overseas investment while only focuses on
+the impact of the South China Sea Dispute on energy investment (Dong
+et al., 2020; Lin, 2020). Thus, apart from the variation on the countryyear dimension, a third dimension, sector, is added on the outward
+FDI. Table 4 presents results based on the DDD estimation. Column (1)
+reports results on the full sample with the basic control group using Eq.
+(3). The estimation results imply that compared with the other sector of
+the host countries in the treatment group, the South China Sea Dispute
+brings about 0.87 greater growth in Chinese overseas investment pro­
+jects in the energy sector. After excluding coal-related investments in the
+other sector in Column (2), the positive effect strengthens as the coef­
+ficient increases to 0.628%. Column (3) presents results on the alter­
+native control group, and Column (4) presents results on the exclusion of
+coal-related investments with the alternative control group. Across
+Column (1) to (4), the coefficients of the interaction term are all sig­
+nificant. Overall, the results from the DDD estimation provide confi­
+dence that unobservable factors on Chinese overseas investments will
+not affect the robustness of the findings.
+
+Note: This table reports the results on the DDD estimation. In Column (1) to (2),
+countries other than Central Asian economies are assigned as the control group,
+while in Column (3) to (4), countries other than neighbours in the Central &
+South Asia are assigned as the control group. Column (1,3) report results on the
+inclusion of coal-related investments in the other sector, while Column (2) and
+(4) reports result on the exclusion of coal-related investments in the other sector.
+All regressions control for country-year, country-sector and sector-year fixed
+effect. Robust standard errors are clustered at the country level.
+
+results are not driven by the bilateral relationship between the host
+country and China.
+Column (4) to (6) represent the regression result with the alternative
+control group for robustness. It shows that the positive effect does not
+wash out at the 1% significance level, accompanied with an increase in
+the coefficients compared with those of Column (1) to (3). From the
+baseline results, it is estimated that geopolitical uncertainty encourages
+China to develop energy investment in low-risk countries.
+
+4.2. Keeping countries with investment connection
+In the sample, some countries do not have investment connection
+with China throughout the period. Thus, we exclude those countries and
+5
+
+Z. Yu et al.
+
+Energy Economics 100 (2021) 105361
+
+Table 5
+Results on the inclusion of countries having investment connection.
+(1)
+
+(2)
+
+(3)
+
+Basic Control group
+
+(4)
+
+(5)
+
+(6)
+
+0.513***
+(0.154)
+Y
+N
+Y
+Y
+444
+0.527
+
+0.479***
+(0.155)
+Y
+Y
+Y
+Y
+444
+0.530
+
+Alternative Control group
+
+Logarithm of Oil & Gas-related projects
+Treat * Post
+Host Country Control
+Bilateral Control
+Country FE
+Year FE
+N
+R2
+
+0.423***
+(0.122)
+N
+N
+Y
+Y
+453
+0.511
+
+0.512***
+(0.154)
+Y
+N
+Y
+Y
+453
+0.528
+
+0.469***
+(0.155)
+Y
+Y
+Y
+Y
+453
+0.531
+
+0.425***
+(0.123)
+N
+N
+Y
+Y
+444
+0.510
+
+Note: This table reports the results on the inclusion of countries having investment connection with China. In Column (1) to (3), countries other than Central Asian
+economies are assigned as the control group, while in Column (4) to (6), countries other than neighbours in the Central & South Asia are assigned as the control group.
+All regressions control for country fixed effect and year fixed effect. Robust standard errors are clustered at the country level.
+Table 6
+Results on the inclusion of Eurasian & Pacific countries.
+(1)
+
+(2)
+
+(3)
+
+Basic Control group
+
+(4)
+
+(5)
+
+(6)
+
+0.553***
+(0.140)
+Y
+N
+Y
+Y
+492
+0.590
+
+0.535***
+(0.136)
+Y
+Y
+Y
+Y
+492
+0.592
+
+Alternative Control group
+
+Logarithm of Oil & Gas-related projects
+Treat * Post
+Host Country Control
+Bilateral Control
+Country FE
+Year FE
+N
+R2
+
+0.527***
+(0.119)
+N
+N
+Y
+Y
+501
+0.578
+
+0.551***
+(0.141)
+Y
+N
+Y
+Y
+501
+0.590
+
+0.527***
+(0.137)
+Y
+Y
+Y
+Y
+501
+0.592
+
+0.531***
+(0.119)
+N
+N
+Y
+Y
+492
+0.580
+
+Note: This table reports the results on the inclusion of Eurasian & Pacific countries. In Column (1) to (3), countries other than Central Asian economies are assigned as
+the control group, while in Column (4) to (6), countries other than neighbours in the Central & South Asia are assigned as the control group. All regressions control for
+country fixed effect and year fixed effect. Robust standard errors are clustered at the country level.
+
+only keep countries that have both trade and investment connections
+with China from the sample. The estimation results are displayed in
+Table 5. As evidenced by Column (1), the South China Sea Dispute
+brings about 0.53 increase in the frequency of Chinese overseas oil &
+gas-related investment projects to low-risk countries. In Column (4), the
+coefficient of interest decreases to 0.425% and is still significant at the
+1% level. All the coefficients of the interaction term in Table 5 are sig­
+nificant, which demonstrate that the findings still hold when only
+considering host countries that have investment linkage with China
+throughout the sample periods.
+
+be the greatest in the Asia Pacific region. To rule out the changes in other
+regions, we exclude African and American economies from the sample to
+test whether our findings still hold. The results are displayed in Table 6.
+It is found that the coefficients of the interaction term are all significant,
+which confirm that oil & gas-related investments from China to the
+treatment group are influenced by the growing tension in the South
+China Sea. Column (1) shows that the South China Sea Dispute is asso­
+ciated with 0.69 increase in the frequency of China’s oil & gas-related
+investments to low-risk countries. Compared with the coefficients of
+the full sample regression in Table 3, all the coefficients in Table 6
+display a modest rise. The results are consistent with the assumption that
+the investment patterns in the Eurasia and the Pacific region has
+changed significantly after the South China Sea Dispute.
+
+4.3. Keeping Eurasian & Pacific Countries
+As China is located in Asia geographically, the impact is supposed to
+Table 7
+Results on the investments from central SOEs.
+(1)
+
+(2)
+
+(3)
+
+Basic Control group
+
+(4)
+
+(5)
+
+(6)
+
+0.477***
+(0.113)
+Y
+N
+Y
+Y
+663
+0.513
+
+0.427***
+(0.112)
+Y
+Y
+Y
+Y
+663
+0.522
+
+Alternative Control group
+
+Logarithm of Oil & Gas-related projects
+Treat * Post
+Host Country Control
+Bilateral Control
+Country FE
+Year FE
+N
+R2
+
+0.492***
+(0.111)
+N
+N
+Y
+Y
+672
+0.507
+
+0.473***
+(0.112)
+Y
+N
+Y
+Y
+672
+0.511
+
+0.422***
+(0.112)
+Y
+Y
+Y
+Y
+672
+0.521
+
+0.493***
+(0.112)
+N
+N
+Y
+Y
+663
+0.509
+
+Note: This table reports the results on the investments from central SOEs. In Column (1) to (3), countries other than Central Asian economies are assigned as the control
+group, while in Column (4) to (6), countries other than neighbours in the Central & South Asia are assigned as the control group. All regressions control for country
+fixed effect and year fixed effect. Robust standard errors are clustered at the country level.
+6
+
+Z. Yu et al.
+
+Energy Economics 100 (2021) 105361
+
+to previous literature on count models, we report results based on the
+negative binomial model and the Poisson model (Chen et al., 2020a; Sun
+et al., 2017). The estimation results are displayed in Table 8. Columns
+(1, 3) report results based on the negative binomial model, while Col­
+umns (2, 4) report results based on the Poisson model. The coefficients of
+interest in Column (1) to (4) are positive and significant at the 5%
+confidence level. Results from Table 8 demonstrate that the findings are
+stable across different model specifications.
+
+Table 8
+Results on the alternative models.
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+Basic Control group
+
+Alternative Control group
+
+Negative
+Binomial
+model
+
+Negative
+Binomial
+model
+
+Poisson
+model
+
+Poisson
+model
+
+Frequency of Oil & Gas-related projects
+Treat * Post
+Host Country
+Control
+Bilateral
+Control
+Country FE
+Year FE
+N
+
+1.235**
+(0.514)
+Y
+
+1.080***
+(0.418)
+Y
+
+1.266**
+(0.520)
+Y
+
+1.095***
+(0.419)
+Y
+
+Y
+
+Y
+
+Y
+
+Y
+
+Y
+N
+672
+
+Y
+N
+672
+
+Y
+N
+663
+
+Y
+N
+663
+
+5. Conclusion
+Stable energy supply is one of the most indispensable drivers of
+China’s economic growth. However, the frequent occurrence of extreme
+events has emerged as a new source of instability and posed funda­
+mental challenges to China’s energy security. In some severe cases,
+extreme events could threaten not only China’s energy trade but may
+trigger a global energy crisis.
+Taking the South China Sea Dispute as an exogenous shock, this
+study examines the impact of the geopolitical event on China’s overseas
+energy investment patterns in a DID framework. The finding shows that
+the South China Sea Dispute brings about an increase in China’s oil &
+gas-related investment intent to low-risk countries. The results are
+robust to specification checks. Increasing tension caused by the South
+China Sea Dispute significantly alters the decision to whom China want
+to work with in energy cooperation. Consequently, China will diverge its
+investment intent to countries with lower risk route exposure.
+This study underscores that in the face of geopolitical uncertainty,
+energy-importing countries tend to reallocate investment to mitigate the
+potential risk of energy supply disruption. The findings have illumi­
+nating policy implications: Firstly, to cope with novel global and
+geopolitical challenges in the energy sector, diversification strategy will
+help the government to promote societal stability and security benefits.
+Through diversification of supply sources, energy portfolio and trans­
+port route, governments can manage energy insecurity. Secondly, in
+regional contexts, cooperation and integration are vital to enhancing
+energy security. Governments should promote further cooperation,
+including energy infrastructure development and energy market
+convergence among neighbouring economies to achieve regional con­
+nectivity. Possible synergies of energy efficiency and energy potential
+would rise, followed by the thicker interlinkage among countries in the
+region, which could reduce potential conflicts. Thirdly, governments
+should commit to maintaining stable diplomatic and commercial re­
+lations with primary energy exporting countries in order to ensure the
+reliability of energy supply. Bilateral collaborations such as advanced
+research projects and business opportunity forums could be conducive to
+the reliable flow of energy as well as the long-term economic well-being
+of both countries.
+
+Note: This table reports the results on alternative models. In Column (1) to (2),
+countries other than Central Asian economies are assigned as the control group,
+while in Column (3) to (4), countries other than neighbours in the Central &
+South Asia are assigned as the control group. Columns (1, 3) report results based
+on the negative binomial model, while Columns (2, 4) report results based on the
+Poisson model. All regressions control for host country factors, bilateral factors,
+and country fixed effect. Robust standard errors are clustered at the country
+level.
+
+4.4. Keeping investments from central SOEs
+In the sample, the motivation behind China’s oil & gas-related OFDI
+may not be promoting bilateral energy trade. In other words, China’s
+OFDI may be aimed at business motives, such as profit from construction
+and building infrastructure. Distinguishing firm ownership and invest­
+ment motivation will help eliminate irrelevant OFDI. Generally, local
+SOEs are supported by the local government. Therefore, the “Going
+Abroad” strategy by local SOEs is aimed at meeting the financial needs of
+the local government (Hubbard, 2016; Li et al., 2014). Compared to
+central SOEs, local SOEs are more market-oriented and possess higher
+management autonomy. The OFDI of private firms is also based on costbenefit considerations. However, central SOEs play a different role in
+China’s overseas investment. As the name suggests, central SOEs are
+supervised by the central government. Central SOEs undertake the
+crucial task of national industrial policies and development priorities.
+Thus, the OFDI of central SOEs is aimed at achieving national policy
+objectives. As China becomes the world’s largest oil importer world­
+wide, the issue of energy security has risen as a primary concern for
+China. In order to ensure national energy security, central SOEs are
+required to undertake more investment in low-risk countries. In order to
+eliminate irrelevant OFDI, only projects from central State-OwnedEnterprises are included in the sample. The estimation results are dis­
+played in Table 7. It could be concluded from Table 7 that the findings
+still hold when only considering investment projects from central SOEs.
+
+Acknowledgement
+Financial support from Department of Social Sciences of the Ministry
+of Education [Grant Number 18JZD034] is gratefully acknowledged.
+
+4.5. Alternative models
+We re-estimate the baseline regression using count models. Referring
+
+Appendix
+
+7
+
+Energy Economics 100 (2021) 105361
+
+Z. Yu et al.
+
+Fig. 1. Timeline of major events in the South China Sea, 2004–2015.
+Note: This figure presents the timeline of major events in the South China Sea from 2004 to 2015. The solid line on the left depicts the result for online keyword
+searching of “South China Sea” worldwide in the Google Trend Index. The news report on the right includes major events in the South China Sea during the period.
+Source: Google, 2020. Google Trend. https://trends.google.com/trends/explore?date=all&q=South%20China%20Sea (accessed 7 August 2020). News report is
+collected from major news channels such as Bloomberg, CNN, BBC, Washington Post etc.
+
+Appendix A. Supplementary data
+Supplementary data to this article can be found online at https://doi.org/10.1016/j.eneco.2021.105361.
+
+References
+
+Ba, A.D., 2011. Staking claims and making waves in the South China Sea: how troubled
+are the waters? Contemp. SE Asia 33, 269–291.
+Balcilar, M., Bonato, M., Demirer, R., Gupta, R., 2018. Geopolitical risks and stock
+market dynamics of the BRICS. Econ. Syst. 42, 295–306.
+Beck, T., Levine, R., Levkov, A., 2010. Big bad banks? The winners and losers from bank
+deregulation in the United States. J. Financ. 65, 1637–1667. https://doi.org/
+10.1111/j.1540-6261.2010.01589.x.
+Beckman, Robert, 2010. South China Sea: how China could clarify its claims. RSIS
+Commentaries 16.
+Bernanke, B.S., 1983. Irreversibility, uncertainty, and cyclical investment. Q. J. Econ. 98,
+85–106.
+
+Al Mamun, M., Uddin, G.S., Suleman, M.T., Kang, S.H., 2020. Geopolitical risk,
+uncertainty and bitcoin investment. Phys. A Stat. Mech. its Appl. 540, 123107.
+https://doi.org/10.1016/j.physa.2019.123107.
+An, H., Chen, Y., Luo, D., Zhang, T., 2016. Political uncertainty and corporate
+investment: evidence from China. J. Corp. Finan. 36, 174–189.
+Apergis, E., Apergis, N., 2020. Can the COVID-19 pandemic and oil prices drive the US
+Partisan Conflict Index? Energy Res. Lett. 1 https://doi.org/10.46557/001c.13144.
+
+8
+
+Z. Yu et al.
+
+Energy Economics 100 (2021) 105361
+
+Buszynski, L., 2012. The South China Sea: oil, maritime claims, and U.S.–China strategic
+rivalry. Wash. Q. 35, 139–156. https://doi.org/10.1080/0163660X.2012.666495.
+Caballero, R.J., Pindyck, R.S., 1992. Uncertainty, Investment, and Industry Evolution.
+National Bureau of Economic Research.
+Caldara, D., Iacoviello, M., 2017. Measuring Geopolitical Risk. Unpubl. Work. Pap.
+https//www2.bc.edu/matteo-iacoviello/gpr_files/GPR_PAPER.pdf.
+Cao, W., Bluth, C., 2013. Challenges and countermeasures of China’s energy security.
+Energy Policy 53, 381–388. https://doi.org/10.1016/j.enpol.2012.10.070.
+Chen, C., Senga, T., Sun, C., Zhang, H., 2016. Policy Uncertainty and Foreign Direct
+Investment: Evidence from the China-Japan Island Dispute. Queen Mary University
+of London. School of Economics and Finance, London.
+Chen, Y., Xu, C., Yi, M., 2019. Does the belt and road initiative reduce the R&D
+investment of OFDI enterprises? Evidence from China’s A-share listed companies.
+Sustainability. https://doi.org/10.3390/su11051321.
+Chen, Y., Chao, Y., Liu, W., Tao, K., Lian, P., 2020a. Make friends, not money: how
+Chinese enterprises select transport infrastructure investment locations along the
+belt and road initiative. Transp. Policy. https://doi.org/10.1016/j.
+tranpol.2020.12.005.
+Chen, C., Liu, L., Zhao, N., 2020b. Fear sentiment, uncertainty, and bitcoin price
+dynamics: the case of COVID-19. Emerg. Mark. Financ. Trade 56, 2298–2309.
+https://doi.org/10.1080/1540496X.2020.1787150.
+Creehan, S., 2012. Assessing the risks of conflict in the South China Sea. SAIS Rev. Int.
+Aff. 32, 125–128.
+Devpura, N., Narayan, P.K., 2020. Hourly oil Price volatility: the role of COVID-19.
+Energy Res. Lett. 1 https://doi.org/10.46557/001c.13683.
+Dissanayake, R., Mehrotra, V., Wu, Y., 2018. Geopolitical Risk and Corporate Investment.
+Available SSRN 3222198.
+Dixit, A.K., Dixit, R.K., Pindyck, R.S., 1994. Investment Under Uncertainty. Princeton
+University Press.
+Dong, Y., Tian, J., Ye, J., 2020. Environmental regulation and foreign direct investment:
+evidence from China’s outward FDI. Financ. Res. Lett. 101611 https://doi.org/
+10.1016/j.frl.2020.101611.
+Duan, F., Ji, Q., Liu, B.-Y., Fan, Y., 2018. Energy investment risk assessment for nations
+along China’s belt & road initiative. J. Clean. Prod. 170, 535–547. https://doi.org/
+10.1016/j.jclepro.2017.09.152.
+Dunning, J.H., Lundan, S.M., 2008. Multinational Enterprises and the Global Economy.
+Edward Elgar Publishing.
+Fania, N., Yan, C., Kuyon, J.B., Djeri, S., 2020. Geopolitical risks (GPRs) and foreign
+direct investments: a business risk approach. Glob. J. Manag. Bus. Res. 20 (1-B).
+Fravel, T., 2016. US policy towards the disputes in the South China Sea Since 1995. In:
+Power Politics in Asia’s Contested Waters. Springer, pp. 389–402.
+Fu, M., Shen, H., 2020. COVID-19 and corporate performance in the energy industry.
+Energy Res. Lett. 1 https://doi.org/10.46557/001c.12967.
+Gao, Y., Li, M., Xue, J., Liu, Y., 2020. Evaluation of effectiveness of China’s carbon
+emissions trading scheme in carbon mitigation. Energy Econ. 104872 https://doi.
+org/10.1016/j.eneco.2020.104872.
+Ge, F., Fan, Y., 2013. Quantifying the risk to crude oil imports in China: an improved
+portfolio approach. Energy Econ. 40, 72–80.
+Gil-Alana, L.A., Monge, M., 2020. Crude oil prices and COVID-19: persistence of the
+shock. Energy Res. Lett. 1 https://doi.org/10.46557/001c.13200.
+Gu, X., Ying, S., Zhang, W., Tao, Y., 2020. How do firms respond to COVID-19? First
+evidence from Suzhou, China. Emerg. Mark. Financ. Trade 56, 2181–2197. https://
+doi.org/10.1080/1540496X.2020.1789455.
+Gu, X., Cheng, X., Zhu, Z., Deng, X., 2021. Economic policy uncertainty and China’s
+growth-at-risk. Econ. Anal. Policy 70, 452–467. https://doi.org/10.1016/j.
+eap.2021.03.006.
+Gueldry, M., Liang, W., 2016. China’s global energy diplomacy: behavior normalization
+through economic interdependence or resource neo-mercantilism and power
+politics? J. Chinese Polit. Sci. 21, 217–240.
+Haroon, O., Rizvi, S.A.R., 2020. Flatten the curve and stock market liquidity – an inquiry
+into emerging economies. Emerg. Mark. Financ. Trade 56, 2151–2161. https://doi.
+org/10.1080/1540496X.2020.1784716.
+He, P., Niu, H., Sun, Z., Li, T., 2020a. Accounting index of COVID-19 impact on Chinese
+industries: a case study using big data portrait analysis. Emerg. Mark. Financ. Trade
+56, 2332–2349. https://doi.org/10.1080/1540496X.2020.1785866.
+He, P., Sun, Y., Zhang, Y., Li, T., 2020b. COVID–19’s impact on stock prices across
+different sectors – an event study based on the Chinese stock market. Emerg. Mark.
+Financ. Trade 56, 2198–2212. https://doi.org/10.1080/1540496X.2020.1785865.
+Holmes, J.R., 2014. Strategic features of the South China Sea: a tough neighborhood for
+hegemons. Nav. War Coll. Rev. 67, 30–51.
+Hubbard, Paul, 2016. Where have China’s state monopolies gone? China Econ. J. 9 (1),
+75–99.
+Hummels, D., Skiba, A., 2004. Shipping the good apples out? An empirical confirmation
+of the Alchian-Allen conjecture. J. Polit. Econ. 112, 1384–1402. https://doi.org/
+10.1086/422562.
+Jens, C.E., 2017. Political uncertainty and investment: causal evidence from US
+gubernatorial elections. J. Financ. Econ. 124, 563–579.
+Ji, Q., Zhang, H.-Y., Zhang, D., 2019. The impact of OPEC on east Asian oil import
+security: a multidimensional analysis. Energy Policy 126, 99–107. https://doi.org/
+10.1016/j.enpol.2018.11.019.
+Julio, B., Yook, Y., 2012. Political uncertainty and corporate investment cycles.
+J. Financ. 67, 45–83.
+Kaplan, R.D., 2011. The South China Sea is the future of conflict. Foreign Policy 76.
+Kelanic, R.A., 2016. The petroleum paradox: oil, coercive vulnerability, and great power
+behavior. Secur. Stud. 25, 181–213.
+
+Lai, H.H., 2007. China’s oil diplomacy: is it a global security threat? Third World Q. 28,
+519–537. https://doi.org/10.1080/01436590701192645.
+Lee, C., 2019. China’s energy diplomacy: does Chinese foreign policy favor oil-producing
+countries? Foreign Policy Anal. 15, 570–588.
+Li, J., Tang, L., Sun, X., Wu, D., 2014. Oil-importing optimal decision considering country
+risk with extreme events: a multi-objective programming approach. Comput. Oper.
+Res. 42, 108–115. https://doi.org/10.1016/j.cor.2011.10.010.
+Li, J., Wang, L., Lin, X., Qu, S., 2020. Analysis of China’s energy security evaluation
+system: based on the energy security data from 30 provinces from 2010 to 2016.
+Energy 117346.
+Lin, Y., 2020. ‘Made in China 2025’ and China’s cross-border strategic M&As in OECD
+countries. J. Chin. Econ. Bus. Stud. 1–24. https://doi.org/10.1080/
+14765284.2020.1759360.
+Ling, W., 2013. Rebalancing or de-balancing: U.S. pivot and east Asian order. Am.
+Foreign Policy Interes. 35, 148–154. https://doi.org/10.1080/
+10803920.2013.799416.
+Liu, H., Wang, Y., Jiang, J., Wu, P., 2020a. How green is the “Belt and Road Initiative”?
+Evidence from Chinese OFDI in the energy sector. Energy Policy 145, 111709.
+https://doi.org/10.1016/j.enpol.2020.111709.
+Liu, L., Wang, E.-Z., Lee, C.-C., 2020b. Impact of the COVID-19 pandemic on the crude oil
+and stock markets in the US: a time-varying analysis. Energy Res. Lett. 1 https://doi.
+org/10.46557/001c.13154.
+Luo, L., Qi, Z., Hubbard, P., 2017. Not looking for trouble: understanding large-scale
+Chinese overseas investment by sector and ownership. China Econ. Rev. 46,
+142–164. https://doi.org/10.1016/j.chieco.2017.08.006.
+Ming, W., Zhou, Z., Ai, H., Bi, H., Zhong, Y., 2020. COVID-19 and air quality: evidence
+from China. Emerg. Mark. Financ. Trade 56, 2422–2442. https://doi.org/10.1080/
+1540496X.2020.1790353.
+Mishra, A.K., Rath, B.N., Dash, A.K., 2020. Does the Indian financial market nosedive
+because of the COVID-19 outbreak, in comparison to after demonetisation and the
+GST? Emerg. Mark. Financ. Trade 56, 2162–2180. https://doi.org/10.1080/
+1540496X.2020.1785425.
+Narayan, P.K., 2020. Oil price news and COVID-19—is there any connection? Energy
+Res. Lett. 1 https://doi.org/10.46557/001c.13176.
+Nie, Y., Cheng, D., Liu, K., 2020. The effectiveness of environmental authoritarianism:
+evidence from China’s administrative inquiry for environmental protection. Energy
+Econ. 88, 104777. https://doi.org/10.1016/j.eneco.2020.104777.
+Njindan Iyke, B., 2020. The disease outbreak channel of exchange rate return
+predictability: evidence from COVID-19. Emerg. Mark. Financ. Trade 56,
+2277–2297. https://doi.org/10.1080/1540496X.2020.1784718.
+Odgaard, O., Delman, J., 2014. China’ s energy security and its challenges towards 2035.
+Energy Policy 71, 107–117.
+Qin, M., Zhang, Y.-C., Su, C.-W., 2020. The essential role of pandemics: a fresh insight
+into the oil market. Energy Res. Lett. 1 https://doi.org/10.46557/001c.13166.
+Ramasamy, B., Yeung, M., Laforet, S., 2012. China’s outward foreign direct investment:
+location choice and firm ownership. J. World Bus. 47, 17–25. https://doi.org/
+10.1016/j.jwb.2010.10.016.
+Ren, X., Yang, S., 2020. Empirical study on location choice of Chinese OFDI. China Econ.
+Rev. 61, 101428. https://doi.org/10.1016/j.chieco.2020.101428.
+Samuel, R., Heather, S., Emel, A., Farooq, H., 2020. Managing supply chain uncertainty
+arising from geopolitical disruptions: evidence from the pharmaceutical industry and
+brexit. Int. J. Oper. Prod. Manag. https://doi.org/10.1108/IJOPM-10-2019-0668.
+Sha, Y., Sharma, S.S., 2020. Research on pandemics special issue of the journal emerging
+markets finance and trade. Emerg. Mark. Financ. Trade 56, 2133–2137. https://doi.
+org/10.1080/1540496X.2020.1795467.
+Shao, Y., Qiao, H., Wang, S., 2017. What determines China’s crude oil importing trade
+patterns? Empirical evidences from 55 countries between 1992 and 2015. Energy
+Policy 109, 854–862. https://doi.org/10.1016/j.enpol.2017.05.063.
+Shen, H., Fu, M., Pan, H., Yu, Z., Chen, Y., 2020. The impact of the COVID-19 pandemic
+on firm performance. Emerg. Mark. Financ. Trade 56, 2213–2230. https://doi.org/
+10.1080/1540496X.2020.1785863.
+Sun, C., Kahn, M.E., Zheng, S., 2017. Self-protection investment exacerbates air pollution
+exposure inequality in urban China. Ecol. Econ. 131, 468–474. https://doi.org/
+10.1016/j.ecolecon.2016.06.030.
+Sun, L., Zhou, K., Yu, L., 2020. Does the reduction of regional trade policy uncertainty
+increase Chinese enterprises’ outward foreign direct investment? Evidence from the
+China− ASEAN free trade area. Pac. Econ. Rev. 25, 127–144. https://doi.org/
+10.1111/1468-0106.12331.
+Vidya, C.T., Prabheesh, K.P., 2020. Implications of COVID-19 pandemic on the global
+trade networks. Emerg. Mark. Financ. Trade 56, 2408–2421. https://doi.org/
+10.1080/1540496X.2020.1785426.
+Vivoda, V., 2009. Diversification of oil import sources and energy security: a key strategy
+or an elusive objective? Energy Policy 37, 4615–4623. https://doi.org/10.1016/j.
+enpol.2009.06.007.
+Vivoda, V., Manicom, J., 2011. Oil import diversification in Northeast Asia: a comparison
+between China and Japan. J. East Asian Stud. 11, 223–254. https://doi.org/
+10.1017/S1598240800007177.
+Wang, X., Wu, Y., Xu, W., 2019. Geopolitical Risk and Investment. Available SSRN
+3305739.
+Wang, D., Ding, R., Gong, Y., Wang, R., Wang, J., Huang, X., 2020. Feasibility of the
+Northern Sea route for oil shipping from the economic and environmental
+perspective and its influence on China’s oil imports. Mar. Policy 118, 104006.
+Wu, K., 2008. Oil in Asia and the Pacific: Production, Consumption, Imports and Policy
+Options.
+Wu, K., 2014. China’s energy security: oil and gas. Energy Policy 73, 4–11. https://doi.
+org/10.1016/j.enpol.2014.05.040.
+
+9
+
+Z. Yu et al.
+
+Energy Economics 100 (2021) 105361
+
+Yang, M., Patino-Echeverri, D., Yang, F., Williams, E., 2015. Industrial energy efficiency
+in China: achievements, challenges and opportunities. Energy Strateg. Rev. 6, 20–29.
+Yang, M., Yuan, Y., Sun, C., 2021. The economic impacts of China’s differential
+electricity pricing policy: Evidence from energy-intensive firms in Hunan Province.
+Energy Econ. 94, 105088. https://doi.org/10.1016/j.eneco.2020.105088.
+Yu, Z., Xiao, Y., Li, Y., 2020. The response of the labor force participation rate to an
+epidemic: evidence from a cross-country analysis. Emerg. Mark. Financ. Trade 56,
+2390–2407. https://doi.org/10.1080/1540496X.2020.1787149.
+Yu, Z., Li, Y., Xie, X., 2021. Long-term trade impact of epidemic outbreaks: Is it Vshaped? Econ Anal Policy 71, 16–40. https://doi.org/10.1016/j.eap.2021.04.003.
+Zhang, Z., 2011. China’s energy aecurity, the Malacca dilemma and responses. Energy
+Policy 39, 7612–7615.
+Zhang, Y., Zhang, A., Wang, J., 2020. Exploring the roles of high-speed train, air and
+coach services in the spread of COVID-19 in China. Transp. Policy 94, 34–42.
+https://doi.org/10.1016/j.tranpol.2020.05.012.
+
+Zhong, H., White, M., 2017. South China Sea: its importance for shipping, trade, energy
+and fisheries. Asia-Pacific J. Ocean Law Policy 2, 9–24.
+Zhou, M., Wang, B., Chen, Z., 2020. Has the anti-corruption campaign decreased air
+pollution in China? Energy Econ. 104878. https://doi.org/10.1016/j.
+eneco.2020.104878.
+Zhu, L., Zhang, Z., Fan, Y., 2015. Overseas oil investment projects under uncertainty:
+how to make informed decisions? J. Policy Model 37, 742–762.
+
+Web references
+
+EIA, 2018. Today in Energy. https://www.eia.gov/todayinenergy/detail.php?id=36952
+(accessed 7 August 2020).
+DOS, 2010. Press Availability. https://2009-2017.state.gov/secretary/20092013clinto
+n/rm/2010/07/145095.htm (accessed 7 August 2020).
+
+10
+
+

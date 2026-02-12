@@ -1,0 +1,1154 @@
+The Paciﬁc Review
+
+ISSN: 0951-2748 (Print) 1470-1332 (Online) Journal homepage: www.tandfonline.com/journals/rpre20
+
+Keeping the peace in Southeast Asia: ASEAN and
+the quest for positive peace
+Mely Caballero-Anthony & Ralf Emmers
+To cite this article: Mely Caballero-Anthony & Ralf Emmers (2022) Keeping the peace in
+Southeast Asia: ASEAN and the quest for positive peace, The Paciﬁc Review, 35:6, 1079-1104,
+DOI: 10.1080/09512748.2022.2075440
+To link to this article: https://doi.org/10.1080/09512748.2022.2075440
+
+Published online: 16 May 2022.
+
+Submit your article to this journal
+
+Article views: 2333
+
+View related articles
+
+View Crossmark data
+
+Citing articles: 11 View citing articles
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=rpre20
+
+THE PACIFIC REVIEW
+2022, VOL. 35, NO. 6, 1079–1104
+https://doi.org/10.1080/09512748.2022.2075440
+
+Keeping the peace in Southeast Asia: ASEAN and
+the quest for positive peace
+Mely Caballero-Anthony and Ralf Emmers
+S. Rajaratnam School of International Studies (RSIS), Nanyang Technological
+University, Singapore
+ABSTRACT
+
+Southeast Asia has gone through a remarkable transformation in recent decades and seen peaceful change since the end of the Cold War era despite
+great power interference and rivalry and ongoing territorial disputes including
+the South China Sea conflict. The region has transformed its image from the
+so-called Balkans of the East in the 1960s and 1970s to an economically competitive and peaceful region today. Despite these accomplishments, the
+record of the Association of Southeast Asian Nations (ASEAN) in maintaining
+regional peace and security has also been seriously challenged, particularly at
+the domestic and transnational level. The paper argues that the Southeast
+Asian experience of peaceful change calls for a different framework of analysis that goes beyond the traditional International Relations theories which
+do not provide a compelling answer to whether regional peace has prevailed.
+It reviews ASEAN’s approaches to managing peace and security in Southeast
+Asia and brings close attention to domestic and international dynamics. The
+paper claims that the Southeast Asian states’ approach to positive peace,
+reflected in the notion of comprehensive security and the building of national
+and regional resilience, is instructive in understanding peaceful transformations in the region.
+
+KEYWORDS ASEAN; Southeast Asia; positive peace; comprehensive security; resilience
+
+1. Introduction
+Southeast Asia has been one of the peaceful and stable regions in the
+world – a record it has held in a post-Cold War security environment. A
+major factor behind this long period of peace is the key role played by the
+Association of Southeast Asian Nations (ASEAN) established in 1967. ASEAN
+has been viewed as a positive force for peaceful change because of its ability to manage intra-mural relations. The premium placed on regional security has, for all intents and purposes, served as ASEAN’s raison d’etre and has
+CONTACT Ralf Emmers
+
+isremmers@ntu.edu.sg
+
+ß 2022 Informa UK Limited, trading as Taylor & Francis Group
+
+1080
+
+M. CABALLERO-ANTHONY AND R. EMMERS
+
+defined the nature of ASEAN institutions and mechanisms that have been
+established over the last five decades. Of particular significance was
+ASEAN’s decision in 2003 to deepen regional integration and work toward
+the establishment of the ASEAN Community by 2015 nested on three pillars,
+namely, ASEAN-Political and Security Community (APSC), ASEAN Economic
+Community (AEC) and the ASEAN Socio-Cultural Community (ASCC).
+ASEAN has also been praised for its leadership in building several multilateral institutions that bring together most states in the wider Indo-Pacific
+region to address a range of political, security and economic challenges.
+These institutions include the ASEAN Regional Forum (ARF), ASEAN Plus
+Three (APT), East Asia Summit (EAS) as well as security frameworks/arrangements like the ASEAN Defence Ministerial Meetings (ADMM) and ADMM
+Plus.1 Recently, an achievement of ASEAN has been the successful negotiation of the Regional Comprehensive Economic Partnership (RCEP), which
+started in 2012 and was finally signed in November 2020.2 RCEP is the
+world’s largest free trade agreement (FTA) accounting for 30 per cent of
+global GDP and covering 2.2 billion people (Petri & Michael, 2020). The success of ASEAN as a force for peace and an institution builder has earned it
+its ‘centrality’ in Asia’s vast regional security architecture.
+Despite these accomplishments, ASEAN’s record in maintaining regional
+peace and security has been seriously challenged, particularly in the last
+decade. As ASEAN goes through a period of consequential power transitions in the Indo-Pacific, its ability to manage regional security has drawn
+mixed responses. With the rising tides of change in the regional and international order, characterized by the heightened tensions and rivalry
+between major power, questions have been raised on the ability of ASEAN
+to navigate its position against contending forces and maintain its so-called
+‘centrality’. This follows on the one hand, from the growing dominance of
+China within and outside Asia, and the emergence of China-led institutions
+like the Asian International Infrastructure Bank (AIIB) and its Belt and Road
+Initiative (BRI) whose geographic footprint extends beyond Asia. On the
+other hand, is the concerted effort by the United States (US) to contest the
+expansion of Chinese power and advance its Quadrilateral Security
+Dialogue (QSD, also known as the QUAD) initiative, bringing in Japan, India,
+and Australia, which ostensibly aims to contain China’s influence. These
+developments have had a destabilizing impact on Asia’s regional order and
+on ASEAN—with the latter having had to confront the question of being
+made to choose which major power to bandwagon or hedge against. Aside
+from major power dynamics, the region is also facing an increasing number
+of transnational security threats such as climate change and infectious diseases like the COVID-19 pandemic that endanger people’s well-being and
+security and severely challenge the capacity of ASEAN states to respond.
+
+THE PACIFIC REVIEW
+
+1081
+
+Against this background, the objectives of this paper are two-fold. First,
+it reviews ASEAN’s experience in managing peace and security in Southeast
+Asia and examines how this has been explained from the lens of three theoretical schools of international relations: realism, liberalism, and constructivism. The discussion then moves to extend the conceptual analysis beyond
+the mainstream IR approaches to apply the framework of positive peace as
+an alternative approach to explain how Southeast Asian states manage
+domestic conflicts by promoting security practices that are aligned with the
+elements found in the positive peace framework, particularly the emphasis
+on addressing structural violence caused by poverty and underdevelopment, exclusion, and injustice. It brings into focus the notions of comprehensive security and national resilience as defining ideas that shape
+regional security practices and meets the objectives of positive peace. In
+doing so, the analysis also highlights the salience of domestic forces in
+shaping ASEAN’s policy choices, underscoring the relationship between the
+domestic and the international that is often overlooked in explaining
+ASEAN’s approaches to regional peace and security.
+Second, given the strong influence of domestic forces in the positive
+peace approach, the paper scrutinises how these factors affects the ability
+of ASEAN to work collectively as it ‘struggles’ to remain fit-for-purpose in a
+remarkably different security environment. It discusses the tensions in dealing with internal/domestic problems against ‘new’ regional challenges and
+the need for ASEAN member states to work together and mount effective
+responses to regional threats. These domestic considerations further help in
+understanding the enduring feature of the ASEAN way, characterised by
+informality, consensus, and consultation versus the more legalistic and formal modes of security governance.
+We set forth two arguments in this paper. First, we argue that the nature
+of regional security practices/processes adopted by ASEAN and the kinds of
+mechanisms that have been established to manage security challenges are
+largely informed by internal/domestic politics rather than aspirations of
+regional community and identity building. In this regard, we offer an alternative approach of positive peace to mainstream IR explanations of regionalism and regional order and bring more attention to the dynamics of
+‘intermestic’ (international- domestic) politics. We posit that addressing the
+persistent domestic challenges of achieving sustainable economic development, maintaining social cohesion, and dealing with the different threats to
+human security remain the main preoccupation of states and are considered critical not only in avoiding interstate conflict but in achieving positive
+peace. Thus, ASEAN’s Political-Security community very much remains a
+work in progress as member states continue to manage the difficult balance of having to deal with internal problems and putting up a collective
+
+1082
+
+M. CABALLERO-ANTHONY AND R. EMMERS
+
+response to regional issues. It is these intermestic dynamics that led ASEAN
+to pursue an eclectic approach to keeping regional peace, taking what
+works from the three approaches of realism, liberalism and constructivism
+and combining these with the positive peace approach that integrates the
+ideas of comprehensive security and national resilience.
+Second, we argue that while much of the ASEAN security practices have
+worked over the years, the kinds of crises currently facing the region may
+render them ineffective. Transnational security threats like climate change
+and global pandemics are compelling reasons why ASEAN needs to re-think
+its approaches and recalibrate its mechanisms to be better equipped to
+handle 21st century challenges. Moreover, as ASEAN deals with the repercussions of the Myanmar crisis, responds to an increasingly aggressive
+China and navigates the heightened rivalry between the US and China, a
+negotiated ASEAN way, imbued with the elements of positive peace and
+national/regional resilience, could be a way for ASEAN to stay relevant and
+maintain its ‘centrality’ in a rapidly changing international environment.
+
+2. Peaceful change: locating ASEAN’s approaches to peace and
+security from building a ‘zone of peace’ to a nascent
+‘security community’
+We start this section with a brief review of the concept of peaceful change
+and how the intersubjective understanding of this concept informs ASEAN’s
+approach to peace and security. In understanding peaceful change, one
+cannot often assume that change—which indicates the transition from one
+state of affairs to another—can be peaceful. Peaceful change occurs when
+over the course of transitions in the global and/or regional political and
+security environment, there is no violence or outbreak of war.
+Classical IR theorist like E. H. Carr and Robert Gilpin define peaceful
+change to mean non-violent shifts in power or ‘change in status quo without war’ (Carr, 1964; Gilpin, 1981). The means toward peaceful change cover
+a range of strategies and mechanisms. These include through statecraft,
+application of international law, institution building, negotiation and conflict resolution, peacekeeping and peacebuilding, and collective security
+including alliance building (Paul, 2020).
+T.V. Paul, in this special issue, defines peaceful change as a ‘continuum
+along a minimalist and maximalist spectrum from cold peace to regular
+peace and warm peace’ (Paul, forthcoming). Paul draws on Benjamin
+Miller’s classification of different types of peace applied to a regional context, wherein cold peace is a condition where conflicts are reduced but not
+resolved (Miller, 2007:12) while warm peace occurs ‘when parties share
+expectations that no resort to armed violence is possible in the foreseeable
+
+THE PACIFIC REVIEW
+
+1083
+
+future under any circumstances, including government change in any of
+the states or a change in the international setting” (Miller, 2007: 46-47).
+The transition from cold to warm peace has been a key feature in the
+notion of security communities (Deutsch et al., 1957). As relations among
+regional states deepen through high levels of transactions and interaction,
+the development of norms and the building of the ’we feeling’, the expectation of peaceful change is sustained by the idea that no state will resort to
+war or use force to resolve differences (Deutsch et al., 1957).
+Akin to the notion of the absence of violence and war is the notion of
+negative peace as advanced in the peace studies literature. Johan Galtung’s
+analytical framework of 2-sided peace - negative and positive peace, with
+the former denoting the ‘absence of violence’ and the latter indicating the
+absence of structural violence based on the attainment of social justice
+(Galtung, 1969), finds convergence with ideas of peaceful change in IR and
+its subfield of security studies. And while peace studies is often viewed as a
+normative discipline given its focus on values such as non-violence and
+justice to steer change in a positive direction, the mechanisms and
+approaches promoted in this field are similar with the same objective of
+achieving peaceful change.
+
+2.1. From building a ‘zone of peace’ to a nascent
+‘security community’
+Many of the notions discussed above on peaceful change are reflected in
+ASEAN’s approaches to peace and security in Southeast Asia during several
+periods of its history. In its earlier years, the priority was to build peace in
+the region–i.e., avoidance of violence and to manage interstate conflicts,
+notably between Malaysia and Indonesia and Malaysia and the Philippines.
+This was to be achieved with the establishment of ASEAN in 1967. Its member states spent the first decade of peaceful transformation agreeing to
+end bilateral disputes and working toward regional reconciliation. As noted
+by scholars like Michael Leifer, the creation of ASEAN provided its member
+states with a regional mechanism to prevent and manage intramural conflicts (Leifer, 1989).
+Through ASEAN, member states generated a set of regional norms and
+practices that defined the nature of interstate relations initially within the
+grouping but later extended to neighbouring states that were then not
+members of ASEAN (Alagappa, 1995; Acharya, 2001; Caballero-Anthony,
+2010). ASEAN adopted the Treaty of Amity and Cooperation (TAC), which
+encapsulated a set of regional norms to manage interstate relations and
+regional conflicts. To enable ASEAN to cope with the ideological divide of
+the Cold War strategic environment, member states also adopted the Zone
+
+1084
+
+M. CABALLERO-ANTHONY AND R. EMMERS
+
+of Peace, Freedom and Neutrality (ZOPFAN) Declaration in 1971. ZOPFAN
+was essentially an iteration of the fundamental ideals and aspirations of
+ASEAN, centred around the non-interference of external powers in the
+domestic and regional affairs of Southeast Asian states (Hanggi, 1991;
+Emmers, 2018). Since then, the ASEAN experience of managing regional
+peace and security has become a thoughtful calibration of approaches that
+are aimed at achieving a dynamic equilibrium of endogenous and external
+factors that continue to shape the security environment in Southeast Asia.
+In the post-Cold War era, the ASEAN narrative of peaceful change has
+been explained by the different schools of thought in IR – realism, liberalism, and constructivism. Realists perceive the San Francisco system that
+links the United States to its regional allies in the Asia-Pacific as the main
+source of stability in the wider region. The significance of regional institutions from a realist perspective is thus limited and ultimately restricted to
+basic instruments available to states to take part in the play of power politics. The realist interpretation of regional multilateralism therefore focuses
+on power politics and tends to minimise the importance of norms and principles and the possible long-term convergence of interests. Cooperative
+arrangements between states are expected to survive only for as long as
+the great powers consider them to be in their interest (Mearsheimer, 1995).
+Hence, realists who have studied Southeast Asian affairs view the role of
+ASEAN as a reflection of its members’ calculations of their respective
+national interests and therefore remain skeptical about ASEAN’s role in formulating and sustaining peace in the region (Leifer, 1996; Beeson, 2009).
+While recognising the realist emphasis on competition for material
+power and state interests, liberalism offers a more positive view of how
+material factors that define interstate relations can be managed. Following
+the Kantian theory of peace, liberalism is founded on three pillars that allow
+for a more optimistic view of international relations. First is the importance
+of international trade, which generates economic interdependence among
+states and makes conflicts or wars costly. Second is the presence of liberal
+democratic political systems, which minimize the incidence of conflicts
+given that democracies are much less likely to go to war against each other.
+And third is the development of international institutions and rules, which
+constitute regulatory regimes that manage interstate disputes and allow for
+the peaceful settlement of conflicts (Rosecrance, 1986; Keohane and Martin,
+1995 ; Russett and Oneal, 2001).
+In applying liberalism to the region, the argument that liberal democracies never go to war or seldom fight has been given little credence, since
+even in the post–Cold War era, most of the governments in ASEAN are not
+liberal democracies. Yet despite this fact, the incidence of interstate conflicts has been minimal. One could also argue that ASEAN’s successful
+
+THE PACIFIC REVIEW
+
+1085
+
+record in preventing conflicts since its inception in 1967 and the development of regional norms and structures to prevent conflict evolved despite
+the paucity of liberal democratic regimes in the region (CaballeroAnthony, 2010).
+However, compared with the realist perspective, the liberal emphasis on
+the importance of international institutions may offer a better approach to
+understanding peaceful change in Southeast Asia as it helps explain the
+politics of cooperation, especially in international trade. Analysts who study
+Southeast Asian regionalism note, for example, the benefits of increased
+economic cooperation through the development of the ASEAN Free Trade
+Arrangement (AFTA) in 1992 and a push toward the creation of an ASEAN
+Economic Community in 2015 (Nesadurai, 2003; Chia & Plummer, 2015). Yet
+the central liberal argument that economic incentives bring about deeper
+economic integration, which eventually spills over to closer political cooperation, seems rather unconvincing in the context of Southeast Asia. Indeed,
+liberalism provides limited insights in explaining the slow implementation
+of the ASEAN Economic Community and its low level of institutionalisation
+overall (Basu Das et al., 2013). Despite their official commitment to lowering
+trade and investment barriers, the ASEAN countries continue to impose
+high levels of nontariff barriers, and the regional body is still far from
+achieving its goals of establishing a single market and a common production base. Moreover, the spill over argument of economic interdependence
+leading to regulatory regimes, norms and institutions for peaceful change
+has not yet materialized in the ASEAN context.
+In contrast to realism and liberalism and their primary focus on material
+factors, constructivists argue that the distribution of power and other
+material factors like trade and investment have had only a minimal impact
+on Southeast Asian states and their ability to maintain peace and stability
+in the region (Wendt, 1992; Hopf, 1998). For constructivists, ASEAN and its
+exercise of conflict avoidance is generally credited with the absence of sustained interstate conflict. ASEAN is viewed as a successful instrument to
+avoid the recurrence of conflict and improve the climate of interstate relations in Southeast Asia. Constructivists highlight ASEAN’s reliance on dialogue and consultation, the practice of consensus and self-restraint, the
+peaceful resolution of disputes, and the principles of national sovereignty
+and non-interference in the domestic affairs of other states to prevent interstate disputes from escalating into open conflict. An ongoing debate
+among constructivist scholars is whether ASEAN constitutes an example of
+a security community. Acharya (2014: 254-255) argues that ‘regional
+cooperation was undertaken in the absence of high levels of functional
+interdependence or interaction’ and that the regional institution had
+evolved as ‘a sort of an “imagined community”, despite low initial levels of
+
+1086
+
+M. CABALLERO-ANTHONY AND R. EMMERS
+
+interactions and transactions, and the existence of substantial political and
+situational differences among its members.’
+Overall, constructivists have provided insights into understanding the
+evolving peaceful order in Southeast Asia since the end of the Cold War
+period by focusing on how states have construed the issue of anarchy
+through regionalism and cooperation. Constructivism has helped explain
+the evolution of ASEAN since its establishment in 1967 by identifying and
+paying close attention to the role of norms such as non-interference in the
+affairs of other states and collective identities of modern statehood
+(Acharya, 2001). Constructivists have emphasised the positive aspects of the
+ASEAN way and placed emphasis on its normative constraints on Southeast
+Asian states (Caballero-Anthony, 2005; Glas, 2017). Regional relations are
+regulated by the routine of cooperation and a policy of accommodation,
+engagement, and consensus decision- making ( Haacke, 2003). In short, Tan
+notes that despite the disparity in geographical size, economic power, and
+influence that has existed between ASEAN members, the ASEAN model of
+cooperation has worked until now to promote peace and stability in
+Southeast Asia (Tan, 2011).
+Nevertheless, constructivists are often criticised for underestimating the
+problem of anarchy and the importance of relative gains and the distribution of power when discussing ASEAN and the shared sense of belonging
+to a community. Constructivists are said to pay insufficient attention to
+ongoing sources of mistrust and conflict that continue to linger between
+the ASEAN members and that may still lead to conflict, as well as the
+changing nature of politics in the region brought on by political transitions
+in the Southeast Asian states. Related to this point, constructivists are often
+criticised for over-estimating the notion of regional identity in Southeast
+Asia while exploring ASEAN at the expense of enduring national identities
+and the notion of nationalism. The latter framed in opposition to other
+states can severely undermine the creation of a security community despite
+repeated attempts at interstate cooperation.
+Despite their shortcomings, the existing literature on ASEAN and its contribution to peace and security in Southeast Asia continues to privilege the
+IR approaches of realism, liberalism, and constructivism. While these
+approaches help explain how ASEAN has kept the peace, we argue for the
+need to go beyond stove-piped explanations limited to debates across the
+conventional IR schools and instead encourage a more eclectic approach.
+Such an approach is informed by the security practices that have been
+adopted by the ASEAN member states which are often understudied in the
+current literature. Moreover, in analysing ASEAN’s eclectic approach, we
+draw out several elements found in the positive peace framework which, as
+we argue below, not only elucidates further the need to go beyond the
+
+THE PACIFIC REVIEW
+
+1087
+
+3-isms of IR but also helps explain ASEAN’s nimble approach to use
+whatever means available to further its objectives of maintaining
+regional peace and security. These include calibrating the ASEAN way,
+inculcating a shared understanding of comprehensive security, and sustaining regional resilience.
+
+3. Going beyond the 3-isms and the quest for positive peace
+A major observation when analysing the history of managing peace and
+security in Southeast Asia is how Southeast Asian states have deftly
+adopted a combination of strategies that have the elements of the realist,
+liberalist, and constructivist approaches in the conduct of interstate relations to maintain regional order. Arguably, ASEAN’s overall approach is
+eclectic and, as pointed out by Muthiah Alagappa (2011), it is often hard to
+pin down which of the strategies is preferred given that both power balancing and engagement behaviour can and have co-existed. Thus,
+approaches to regional peace can be shown as somewhere between balance of power and regional community building, with the relevant institutional and normative attributes including the ASEAN way.
+When studying ASEAN’s modalities, one observes that the member
+states still give much emphasis to the ASEAN way when seeking to maintain
+regional security despite having an ASEAN Charter and the adoption of the
+ASEAN political-security community that are meant to ensure a rules-based
+form of engagement. In times of crises, this normative framework of informality, non-interference and consensus-based decision making has been an
+enduring feature in ASEAN’s approaches to peace and security. Rather than
+viewed as an impediment to collective and decisive action, much time is
+given to individual states to address and resolve issues of national concern
+before any regional action might be taken. These internal crises include
+societal conflicts, separatism, and extremism whose root causes include
+social injustice, discrimination, and marginalization.
+Still, the ASEAN way as a form of diplomatic interaction has often been
+criticised to be overly reliant on consensus building leading to inaction and
+an inability to solve sources of conflict and address controversial issues
+where clashing interests cannot be avoided (Henderson, 1999; Nischalke
+€land, 2000). It is unable to solve sources of conflict and is ill
+Ingo, 2000; Ru
+equipped to deal with pressing matters. The ASEAN way is highly dependent on the narrowly defined interests of the member states, and it is based
+on a decentralized and loosely coordinated framework of cooperation.
+Hence, the ASEAN way is dominated by national interests that take precedence in case of disagreements. The constant search for consensus and solidarity can be observed as a sign of weakness as it prevents discussions on
+
+1088
+
+M. CABALLERO-ANTHONY AND R. EMMERS
+
+more tangible or sensitive issues. ASEAN has also attempted to extend geographically the ASEAN way and its approach to conflict management
+through the establishment of the ARF. This has involved transmitting to the
+Asia-Pacific norms and principles, an informal process of dialogue and consultation but also a mode of conflict avoidance and management developed since 1967. ASEAN has promoted within the ARF its own practices of
+self-restraint and consensus building and favoured an informal security dialogue over legally binding confidence measures. Yet the applicability of the
+ASEAN approach to the management of complex security flashpoints like
+the Korean Peninsula and the Taiwan question remains highly questionable.
+Likewise, rising competition between the great powers driven by ideological differences and divergent security interests and strategic perspectives cannot be ignored in an ASEAN way (Garofano, 2002; Emmers, 2003).
+
+3.1. The ASEAN way and the imperatives of dealing with
+domestic conflicts
+While building an ASEAN 3-pillared community is a positive trajectory for
+Southeast Asian regionalism, the need to deal with domestic challenges of
+long-drawn internal conflicts remains critical. Throughout ASEAN’s history,
+one observes that despite the peaceful interstate environment in Southeast
+Asia, countries like Thailand, the Philippines, Indonesia, and Myanmar have
+been plagued with decades-long internal conflicts. These conflicts find their
+roots on issues of social injustice, discrimination, and marginalisation
+(Callahan, 2003; Hsueh, 2016; Oishi, 2016). Such domestic conflicts cannot
+be addressed effectively through the ASEAN way and its narrow reading of
+national interests and its reliance on consensus building. Some of these
+conflicts are highlighted below:
+
+3.1.1. Thailand
+The restiveness in the country’s southern provinces of Narathiwat, Pattani
+and Yala are borne out of the desire for these provinces to secede from
+Thailand. Three quarters of the population in the Thailand’s deep south are
+Malay Muslims in this predominantly Buddhist country. This conflict has
+simmered since the late 1940s and was caused by the strict assimilation
+policy of the Thai government which attempted to replace the Malay heritage with Thai language and culture. This policy was met with violent resistance and while the policy has been adjusted in response to local concerns,
+the reluctance by the Thai government to recognise the importance of
+Malay language and culture has fuelled this conflict up to present times
+(Vatikiotis, 2003).
+
+THE PACIFIC REVIEW
+
+1089
+
+Since 2004, this insurgency has killed thousands of civilians and injured
+approximately 13,500 people. The largest rebel group is the Barisan
+Revolusi Nasional (BRN), which is a Malay separatist group. Recent peacebuilding efforts started by the Thai government since 2015 have suffered
+from fits and starts. Negotiations have also been hampered by issues of
+legitimacy. The Thai government has been engaging the MARA Patani, an
+umbrella body that represent multiple rebel factions. The BRN, however,
+has refused to join and insisted that it is not part of the negotiation process
+(International Crisis Group, 2020).
+
+3.1.2. Indonesia
+Like Thailand, Indonesia has had a long separatist conflict in West Papua.
+The conflict started in 1969 when Indonesia annexed West Papua through
+the Act of Free Choice, which was considered illegitimate by most Papuans
+(Rabasa & John, 2002). Most of the inhabitant in the province are
+Melanesians and speak some 1,000 distinct languages. They have long
+shared the vision of a ‘Papua Merdeka’ – which means an ‘independent,
+peaceful and justly governed Papua’ (Webb-Gannon, 2014). Papua, also
+known as Irian Jaya, is rich in natural resources, with gold, copper, and
+other minerals, as well as large gas and oil deposits (Rabasa & John, 2002).
+West Papuan leaders have long complained about how Indonesia has
+deprived them of civil, political, economic, and social rights for the past
+50 years. The Free Papua Organisation, which is a tribal group, has contributed to the low-intensity insurgency over the years.
+West Papua’s current conflict and humanitarian crisis erupted in
+December 2018 in Nduga regency in the central highlands displacing over
+40,000 civilians who sought refuge in the mountains and vast forests. Many
+have since resided in temporary refugee camps, not yet recognised as
+internally displaced people by the Indonesian state, which does not
+acknowledge the conflict as a ‘conflict’ at all (Lundstrom, 2020). Recently,
+the United Liberation Movement for West Papua, a pro-independence coalition, announced the formation of a ‘provisional government’ on 1
+December 2020. This move has seen an increase in military presence in the
+province and crack down on independence activists. On 29 April 2021, the
+Indonesian government officially designated the West Papua National
+Liberation Army, an armed separatist group, as a terrorist organisation following the killing of an Indonesian military general in an ambush.
+3.1.3. Extremist/terror movements in Sulawesi
+Besides the problem of secession, Indonesia has had to deal with extremist
+and terrorist threats. The district of Poso (Central Sulawesi) was at the center of brutal conflicts between radical Christians and Muslims between 1999
+and 2001. The ‘Poso riots’, as they are defined, became even more violent
+
+1090
+
+M. CABALLERO-ANTHONY AND R. EMMERS
+
+after Indonesian jihadist groups, who were fighting in the Philippines,
+joined Muslim groups in Sulawesi. These formed the group that chose the
+name of East Indonesia Mujahidin (MIT). The ethnic-religious clashes officially ended with the signing of the Malino Accords in 2001 and 2002, but
+the region has remained plagued by terrorist activity to this day. MIT is currently aligned with the Islamic State (Hariyadi, 2020). Poso has been symbolic to the violent extremist movement, and it has moved from communal
+violence to locally inspired terrorism. It is the only place in Indonesia where
+extremists could ever plausibly claim to control territory (IPAC, 2020).
+
+3.1.4. Philippines
+The Philippines has for decades been dealing with the problems of communist warfare and secession waged by Muslim separatist groups in its
+southern provinces. The Communist Party of the Philippines-New People’s
+Army (CPP-NPA) has been waging a guerrilla war since 1969 to overthrow
+the Philippine government and establish a communist state. As such, the
+Philippines now has the world’s longest-running communist insurgency.
+Socio-economic causes, such as failed agrarian reform, poor labor practices,
+and economic inequalities were the catalysts for the conflict. The movement remains within the capabilities of the Armed Forces of the
+Philippines (AFP) and law enforcement to manage the conflict. Forging a
+peace agreement with the CPP-NPA was one of Philippine President
+Duterte’s campaign promises. Yet he abandoned the talks and claimed
+that he had grown tired of the insincerity of the communist rebels. The
+Duterte administration and the military vowed to end the rebellion by
+2022. However, there is still no end in sight for the communist rebellion
+with root causes of the rebellion in poor provinces and towns remaining
+intractable (Hondrada Gabriel, 2020).
+Meanwhile, the secessionist movements are a decades-old problem.
+Since 1969, there has been an active conflict in Mindanao between the
+Philippine government, Moro Muslim groups, and other armed groups. The
+prospects of a peace deal seemed possible after the establishment of the
+Bangsamoro Autonomous Region in Muslim Mindanao in March 2019, but
+sporadic violence – related to the exclusion of armed groups from the
+peace process – has continued across Mindanao to this day. The Moro
+Islamic Liberation Front (MILF) and the Philippine government signed the
+Framework Agreement on the Bangsamoro (FAB) in 2012 and the
+Comprehensive Agreement on the Bangsamoro (CAB) in 2014—both leading to the creation of the newly-established Bangsamoro Autonomous
+Region in Muslim Mindanao (BARMM) where MILF officials and combatants
+were appointed as governing officials through the Bangsamoro Transition
+Authority. MILF Chair Al Haj Murad serves as the region’s chief minister. The
+
+THE PACIFIC REVIEW
+
+1091
+
+first challenge the MILF must address now is its lack of governing experience (Mindanao People’s Caucus, 2020).
+Despite the peace agreement with the MILF, sporadic armed conflicts
+and violence are common in Mindanao provinces, where clashes between
+the Philippine military and IS-inspired extremist armed groups occur frequently. These armed groups still wage rebellion or terror attacks, as they
+do not subscribe to the peace agreement while embracing extremist ideologies from the Islamic State. For instance, the siege of Marawi city in 2017,
+a five-month battle between pro-Islamic State fighters and the Philippine
+military, destroyed much of the city and displaced 400,000 people from
+Marawi and nearby towns. In the first half of 2020, there were 66,000 new
+displacements due to the conflicts in Mindanao. Other sources of conflict
+include clan wars and land disputes as well as the presence of private
+armed groups affiliated with local political dynasties (Inquirer, 2021).
+
+3.1.5. Myanmar
+Myanmar is home to some of the longest-running armed conflicts in the
+world, some dating back more than 70 years and others more recent in origin. Today, there are some twenty ‘ethnic armed groups’ that have political
+and military wings. Their stated objective is some form of greater autonomy
+for their community.
+The country’s military, known as the Tatmadaw, has faced long-term
+insurgencies across a significant proportion of the country, in areas inhabited by minority communities that view it as an occupying enemy force.
+The armed groups are well positioned to profit from the illicit economy
+that has developed over decades in these areas, which produces the revenues necessary for arming and operating a powerful militia. With so many
+different ethnic armed groups, and with the state and Tatmadaw unable to
+provide security in much of the periphery, many ethnic communities have
+raised armed militias out of necessity to protect themselves from rival ethnic communities.
+Fierce fighting between the Tatmadaw and Arakan Army in Rakhine and
+southern Chin States since late 2018 has had a significant impact on civilians, with non-government sources estimating up to 200,000 displaced and
+hundreds killed. Events in Rakhine State underline not only how rising
+ethno-nationalism is a conflict driver, but also how the Tatmadaw’s inability
+to protect minority groups in conflict-affected areas can lead to the creation
+of new armed forces, such as militias or ethnic armed groups (International
+Crisis Group, 2020).
+The 2021 Myanmar military coup was partly driven by an emerging alliance of Myanmar ethnic groups against the Tatmadaw. The Peace Process
+Steering Team (PPST) which initially brought together the ten ethnic armed
+
+1092
+
+M. CABALLERO-ANTHONY AND R. EMMERS
+
+organisations (EAOs) that have signed the 2015 nationwide ceasefire agreement (NCA), reportedly reached out to signatory and non-signatory groups
+with the intention of forming a coalition against the military junta
+(Myanmar Now, 2021). The narrative of not being able to protect ethnic
+minority groups was further reinforced when Catholic nun sister Ann Rose
+Nu Twang became a symbol for Myanmar’s resistance movement. The picture of her kneeling down in front of Myanmar’s security forces pleading
+them to aim at her rather than unarmed Kachin minority demonstrators
+went viral (Cabot, 2021). Open calls for recruitment by ethnic rebel groups
+like the Kachin Independence Army (KIA) were met with enthusiasm.
+Frontier Myanmar reported that an influx of people, mostly youths, joined
+the KIA following the military coup (Fishbein et al., 2021). Pro-democracy
+activists have expressed support for the Karen National Union (KNU) and
+the KIA since the fights began in Kachin, Karen, and Shan States (The
+Irrawaddy, 2021). Approximately 12,000 people were displaced by the military junta’s continuous air strikes following KNU seizure of the military base
+(The Straits Times, 2021). The collaboration between EAOs and anti-coup
+protesters against the military junta spells the prospect of transforming the
+country into a state of civil war.
+In sum, the consequences of these internal conflicts in Southeast Asia
+are a constant reminder of the need to adopt a comprehensive approach
+to security if regional peace and security is to be maintained. It has been a
+source of concern among ASEAN leaders and officials that the different
+internal conflicts in Southeast Asia could rapidly escalate and spill over to
+neighbouring states, and consequently threaten regional security (Kramer,
+2010). The presence of unresolved and simmering internal conflicts underscores the point that peaceful societies are integral to peaceful change (Fry
+& Kemp, 2004).
+
+3.2. Reclaiming ASEAN’s ideas on comprehensive security and
+national/regional resilience
+Since its establishment in 1967, the idea of ‘keeping the peace from within’
+has been fundamental to ASEAN’s thinking on how member states can maintain peace and security in Southeast Asia. To have a peaceful and stable
+environment at the national level, the notions of comprehensive security and
+national/regional resilience must be internalised by all the ASEAN states. The
+discussion above describing a series of ongoing domestic conflicts in
+Southeast Asia indicate that this objective has not yet been achieved.
+According to Muthiah Alagappa, the concept of comprehensive security
+had been the organising concept of security in Southeast Asia, particularly
+during the formative years of ASEAN from the late 1970s to the early 1990s.
+
+THE PACIFIC REVIEW
+
+1093
+
+Unlike the conventional notion of security, which focuses mainly on defending state borders from military attack, comprehensive security is a much
+broader conceptualisation of security that ‘[goes] beyond (but does not
+exclude) the military threats to embrace the political, economic and sociocultural dimensions’ (Alagappa, 1988, p. 624). To illustrate this thinking,
+Alagappa quotes former Malaysian Prime Minister Mahathir Mohamed who
+declared that ‘national security was inseparable from political stability, economic success and social harmony. Without these, all the guns in the world
+cannot prevent a country from being overcome by its enemies, whose
+ambitions can be fulfilled, sometimes without firing a shot’ (Alagappa,
+1988, p. 624).
+A similar formulation of comprehensive security is found in the concept
+of ‘total defence’ in other ASEAN countries like Singapore and Thailand.
+Jawhar Hassan, another well-known Asia security analyst, further argued
+that the ASEAN region has always regarded security as multi-dimensional
+and comprehensive in nature (Hassan, 1995). Yet while comprehensive
+security indeed offers a broader conceptualisation of security, it is state-centric in nature where the referent of security is the state with less or no
+attention given to the security concerns of individuals and communities. In
+fact, several studies on security in Asia have shown that comprehensive
+security had for a long time been associated with the notion of regime
+security (Alagappa, 1998).
+Regional resilience, on the other hand, can be seen as a foundation for
+and a means to achieve comprehensive security. The seamless relationship
+between comprehensive security and regional resilience is encapsulated in
+the Indonesian notion of ‘ketahanan national’ (national resilience), which is
+defined as ‘the ability of a nation to cope with, endure and survive any kind
+of challenges or threats in the course of a struggle to achieve national
+goals’. According to Indonesian scholar Dewi Fortuna Anwar, national resilience is built on the foundations of: (1) economic development, and (2) a
+need to avoid involvement in international ideological confrontation
+(Anwar, 2006, pp. 82–83). Although national resilience is characteristically
+inward-looking and nationalistic in orientation, its application at the
+regional level retains much of the focus on economic development and a
+‘non-aligned’ stance towards major power competition while promoting
+and fostering closer regional cooperation. National and regional resilience
+also underscores the need for Southeast Asian states to rely on its own
+capacities and strengths to be secure without having to rely on outside
+powers to provide their security.
+In brief, the twin concepts of comprehensive security and regional resilience defined the conduct of intra-regional political and security relations
+and cooperation in ASEAN in its early years. They continue to be relevant
+
+1094
+
+M. CABALLERO-ANTHONY AND R. EMMERS
+
+when seeking to understand the current ASEAN security framework. Put
+simply, the latter can be understood as follows: for regional security to be
+maintained, the region must be resilient. This resilience starts with each
+ASEAN member state and to achieve resilience at the national level requires
+having a strong economic foundation and a foreign policy that it not aligned
+with any major external power. Indeed, this security framework is clearly
+reflected in many of ASEAN’s official documents and declarations since its
+establishment until its most recent ASEAN Vision 2025 documents. These
+include the Bangkok Declaration (1967), ASEAN’s Zone of Peace, Freedom
+and Neutrality (ZOPFAN. , 1971), ASEAN’s Treaty of Amity and Cooperation
+(TAC., 1976), The Bali Concord I (1976), Bali Concord II (2003), and Bali
+Concord III (2011). In all these declarations, the need for member states to
+focus on domestic affairs is viewed as critical in maintaining a stable regional
+environment. Further, this internal stability is regarded as important to prevent external interference from other states within and outside the region.
+
+3.3. Finding convergence between positive peace, comprehensive
+security and regional resilience
+As an approach to managing regional peace and security, ASEAN’s
+emphases on comprehensive security and national/regional resilience resonate well with Johan Galtung’s framework of negative and positive peace.
+Arguably, the latter presents a more comprehensive approach to peace and
+security that recognises the importance of engendering social justice to
+prevent violence (Galtung, p. 185). When applied to the ASEAN context, this
+means that achieving social justice through economic development helps
+promote political stability and social harmony, and these in turn prevent
+conflict and violence. For developing countries that have multi-ethnic societies, economic development and societal harmony have been critical elements in building national and regional resilience.
+Unlike the concept of security community that denotes the absence of
+war or interstate conflict (Deutsch et al., 1957) and is often associated with
+ASEAN, the means towards achieving positive peace via economic development has always been an integral part of ASEAN’s peacebuilding strategies.
+The thinking has been that economic growth helps address structural issues
+like poverty, inequality, and exclusion. In other words, while security community is founded on a collective identity and shared norms at an interstate level among member states (Adler & Barnett, 1998; Acharya, 2001),
+the efforts of building positive peace are largely done at the domestic level.
+And, while one can contend that there are multiple and multi-level pathways to peace, the focus on a national dimension recognises the important
+
+THE PACIFIC REVIEW
+
+1095
+
+influence that domestic factors have on foreign policy decisions taken by
+states at the regional and international level.
+This explains why in ASEAN’s approach to building a 3-pillared ASEAN
+Community, the economic and socio-cultural pillars are inseparable from
+the political-security community, underscoring the conscious effort taken
+by member states to present a comprehensive pathway to maintaining
+peaceful change in Southeast Asia. Within the context of ASEAN’s ambitious
+goal to establish a political and security community (APSC), one notes that
+the regional body has often used phrases like ‘inclusive, people-centered
+and resilient community’, ‘freedoms and social justice’, and ‘a safe and
+secure environment’ (APSC., 2019). From this framing, one can argue that
+the current thinking on achieving peaceful change in Southeast Asia goes
+beyond the constructivists’ notions of security community and regional
+identity and the realists’ stance on alliance building and power balancing.
+While there may be realist, liberalist and constructivist elements found in
+ASEAN’s approach to peace, what is missing and must be included in the
+analysis is the criticality of domestic challenges, making the journey to positive peace start from the inside out in a sustainable way.
+
+3.4. From negative peace to positive peace
+Notwithstanding the imperatives of managing internal conflicts from
+becoming regional threats, there has also been the imperative of achieving
+positive peace through economic development and social justice. In this
+regard, one can argue that the normative preference for observing the
+ASEAN way is serving that purpose. A noted scholar once quipped that after
+the five Southeast Asian nations (Indonesia, Malaysia, Philippines,
+Singapore, and Thailand) signed the Bangkok Declaration in 1967 to establish ASEAN and agreed not to fight, they ‘forgot’ about the regional body
+and focused on nation building and economic development (Anwar, 1995).
+Thus, the ASEAN way of strict adherence to the principles of non-intervention and sovereignty was more than instrumental in giving Southeast Asian
+states the space to deal with their domestic problems. Especially during the
+formative years of ASEAN (1967-late 1980s), the paramount national security concerns were to react to the threats of communism and secessionism,
+as well as addressing issues of poverty, marginalisation, and ethnic tensions,
+exacerbated by low economic growth. It was not until the early 1990s
+when economic progress became more visible that economic regionalism
+appeared as an objective, and which led ASEAN to initiate the idea of an
+ASEAN Free Trade Area (AFTA) in 1992. As we fast-forward to the present,
+one can note the significant rise in GDP per capita in most Southeast Asian
+states. See Table 1 below. Arguably, the impressive GDP growth was largely
+
+1096
+
+M. CABALLERO-ANTHONY AND R. EMMERS
+
+Table 1. GDP per capita, PPP (constant 2017 international $).
+Country name
+Brunei Darussalam
+Cambodia
+Indonesia
+Lao PDR
+Malaysia
+Myanmar
+Philippines
+Singapore
+Thailand
+Vietnam
+
+1990
+
+2000
+
+2019
+
+71,231
+..
+4,533
+1,965
+10,306
+620
+4,232
+37,348
+7,109
+1,673
+
+69,023
+1,491
+5,689
+2,861
+15,917
+1,094
+4,454
+56,011
+9,819
+2,955
+
+62,100
+4,389
+11,812
+7,826
+28,364
+5,142
+8,908
+97,341
+18,460
+8,041
+
+Source: World Bank (2021). World Development Indicators Databank. Accessed 30 April, 2021.
+
+due to the focus given by ASEAN states to domestic challenges and improving economic prospect, consequently leading ASEAN to embark in 2003 on
+a more ambitious goal of establishing an AEC by 2015 (ASEAN, 2012).
+Given this approach, it is not surprising that security challenges and
+internal conflicts receive less attention, not to mention the fact that consensus needs to be achieved first before a regional statement can be adopted
+and implemented. Hence, when the East Timor crisis happened in 1999,
+ASEAN’s response was missing, and regional actions were either late or
+weak. Similar examples of inaction could be observed during other crises
+like the Saffron Revolution in Myanmar in 2007, and subsequent crises in
+the Rakhine state in 2015 and 2017. There is also the ongoing inability of
+ASEAN to come up with a strong collective reaction to China with regards
+to its aggressive behaviour in the South China Sea (SCS). ASEAN members
+have been split over the dispute partly due to China’s deepening economic
+and diplomatic ties with individual member states. China’s increasing influence over some members especially in economic terms and their willingness to endorse Beijing’s preferences as a result was illustrated by ASEAN’s
+failure to issue a joint communique at the end of the ASEAN Foreign
+Ministers’ Meeting in July 2012. The Philippines had insisted on a reference
+to the incident between Manila and Beijing at Scarborough Shoal earlier in
+2012 but Cambodia, the ASEAN chair at the time, refused on the grounds
+that the territorial disputes with China are bilateral. Likewise, ASEAN’s 2016
+official statement made no mention of The Hague ruling on the rejection of
+Chinese territorial claims in the SCS due to the lack of consensus among all
+the ten ASEAN member states (The Straits Times, 2016).
+
+4. Re-negotiating the ASEAN way for sustainable peace
+As member states in ASEAN negotiate domestic pressures with the need for
+regional action, the demands for more effective and robust regional
+responses have increased given the current challenges facing the region.
+The issues requiring collective action range from having to deal with
+
+THE PACIFIC REVIEW
+
+1097
+
+territorial disputes in the South China Sea, managing the increasing tensions between the US and China, and responding to the current crises in
+Myanmar triggered by the military coup in February 2021 that had led to
+country-wide demonstrations, violence against civilians meted out by the
+military and the death of over at least 700 people including women
+and children.
+Compounding these challenges are the growing risks of climate change
+that have already caused several devastating natural disasters in many
+ASEAN states.3 This agenda is particularly critical to ASEAN since it has
+studied that between 2004-2014, more than half of the total global disaster
+mortality was in Southeast Asia, that is, 354,000 of the 700,000 total death
+in disasters worldwide (Caballero-Anthony, 2017; AHA Armor, 2020). It is
+also estimated that about 191 million people have been displaced and rendered homeless (either temporarily or permanently) due to disasters, affecting a total of 193 million people. This meant that one in three to four
+people in the region had experienced different types of losses to property
+and life (ADB., 2013).
+Climate change is already threatening to reverse economic growth and
+development gains achieved over the past few decades. The resulting problems threaten to undermine social cohesion and governmental legitimacy
+and destabilise already fragile regions in Southeast Asia. Climate change
+creates additional demand for state services, for example in terms of disaster assistance in the aftermath of storms, food aid, and safe management of
+displacement. When unmet, these needs can compound pre-existing grievances over inequality, political marginalization, and unresponsive governments. The consequences can aggravate and prolong conflicts and make it
+harder to achieve and sustain peace.
+Dealing with the cross-cutting impact of climate change such as catastrophic disasters entail stronger regional cooperation in providing different
+types of assistance to displaced communities in affected ASEAN countries,
+like providing shelter to internally displaced populations and climate
+induced-refugees (Caballero-Anthony, 2018; Cook & Yogendran, 2020).
+More is therefore expected of ASEAN to work together and put more efforts
+in deepening cooperation in humanitarian assistance and disaster
+response (HADR).
+Similarly, more is expected of ASEAN as Southeast Asia grapples with the
+public health crisis and economic impact of the COVID-19 pandemic that
+has been raging for over a year since its first outbreak in early 2020. As
+member states battle to contain the spread of the disease and revive their
+devastated economies, the push for stronger regional cooperation in health
+by providing medical equipment, vaccines, and therapeutics to neighbouring countries in need, as well as expediting regional agreements on travel
+
+1098
+
+M. CABALLERO-ANTHONY AND R. EMMERS
+
+and health protocols to facilitate movements of people and goods have
+become more urgent.
+In advancing regional cooperation in HADR and public health emergencies, ASEAN and its member states have had to confront the inevitability of
+negotiating their policy preferences for non-interference in internal affairs
+and respecting sovereignty. In both policy spheres, the Myanmar story has
+been instructive. It took a determined ASEAN Chair and an ASEAN SecretaryGeneral to persuade Myanmar to allow international assistance to come in in
+the aftermath of the Nargis cyclone in 2007 to help victims of the natural disaster within the framework of a negotiated ASEAN-UN-Myanmar arrangement (Pitsuwan, 2014). Similarly, it took a trusted regional mechanism, the
+ASEAN Humanitarian Coordinating Centre (AHA), to send humanitarian assistance to the displaced people in the Philippines’ besieged city of Marawi city
+during the 5-month long battle in 2017 and to the refugees in Myanmar’s
+Rakhine state in 2019 (AHA Armor, 2020). By the same token, it took a proactive Indonesian President and its Foreign Minister to rally their counterparts
+in the ASEAN capitals to call for a Special ASEAN Summit in April 2021. The
+Summit saw ASEAN leaders persuade the head of the Myanmar’s military to
+cease violence and hostilities against civilians and agree to a ASEAN-led
+humanitarian corridor and the appointment of an ASEAN Envoy to facilitate
+dialogue among contending parties, with the view to working toward a political settlement to the crisis (Mahmud Haziq, 2021).
+In the same way, it was the shared threat to public health and the economy after the SARS outbreak in 2003 for ASEAN leaders to agree, together
+with its counterparts in China, Japan, and South Korea, to have an ASEAN
+plus Three (APT) disease surveillance and epidemiological training network
+to deepen cooperation in pandemic preparedness. These mechanisms have
+facilitated the exchange of information and expertise on emerging infectious diseases like H1n1 in 2009 and the ongoing COVID-19 virus. These
+mechanisms are helping improve the nature of health governance in
+Southeast Asia and beyond (Caballero-Anthony, 2020).
+While the examples above show that the ASEAN way can be negotiated
+to allow for the grouping to act, there are also difficult issues where a
+regional response is absent. So far, the military coup in Thailand in 2014
+and the on-going protests that led to the arrests of civilians have not generated any visible response from ASEAN, nor have the opposition crackdown in Cambodia and the reported human rights violations and atrocities
+committed by the Duterte administration in the Philippines against drug
+offenders. In these cases, the ASEAN human rights body (AICHR) has no
+power to hold governments accountable. Correspondingly, ASEAN has no
+provisions in its Charter to impose sanctions or suspend its members for
+violating the principles of democracy, human rights and good
+
+THE PACIFIC REVIEW
+
+1099
+
+governance as outlined in the ASEAN Charter (Kausikan, 2021; ASEAN
+Charter, 2008). This has become a conundrum as ASEAN confronts the
+current crisis in Myanmar. (Kausikan, 2021; Alexandra & Laksmana, 2021;
+ASEAN Charter, 2008).
+
+5. Conclusion
+For developing states in Southeast Asia, the task of achieving regional peace
+and security is an ongoing work in progress. To achieve these goals, ASEAN
+is not only aiming to have negative peace, meaning the absence of interstate
+conflict. More importantly perhaps is its goal of engendering positive peace
+where the structural impediments like poverty, inequality, discrimination, and
+social divisions, among others, are eradicated or managed. To ASEAN, peaceful change must be sustainable peace (Fry & Kemp, 2004; Carden, 2019).
+This thinking is illustrated in ASEAN’s notion of national resilience and
+comprehensive security. It is also reflected in ASEAN’s 3-pillared community-building approach, which draws close linkages between peace, security, and development to be achieved in tandem and not sequentially.
+Arguably, such an approach presents a theory of peaceful change, reflecting a transformative framework that recognises the foundations of sustainable peace: inclusive communities, economic progress, people-centered
+security, and social justice (Emmers & Caballero-Anthony, 2021). This also
+challenges the limits of the 3-isms which have dominated the IR literature.
+This paper has examined how Southeast Asia has managed peaceful
+change by asking whether peace has indeed prevailed in the region since
+the end of the Cold War era. The paper argues that the Southeast Asian
+experience is instructive as it reflects how the narrow confines of the traditional International Relations theories and their respective approaches to
+security studies do not provide a compelling answer to that question.
+Rather than focusing solely on interstate peace, the paper has argued that
+the subject of study should be domestic and international sources of
+change and peaceful transformations.
+While such an approach is more comprehensive and responsive to contemporary security threats, the goal of achieving sustainable peaceful
+change in Southeast Asia is fraught with challenges. The current crisis in
+Myanmar has all the potential of escalating into a civil war, not only
+because of the sustained demonstrations against the military junta, but the
+growing restiveness of ethnic armed groups like the Karens, Shans, Kachin
+and the Arakan armies that reject the rule of the Tatmadaws (NIKKEI Asia,
+2021). Compounding this crisis is the intractable Rohingya crisis which
+remain unresolved at the national level. The lack of progress to this longdrawn internal conflict will remain a major hindrance to sustainable peace
+
+1100
+
+M. CABALLERO-ANTHONY AND R. EMMERS
+
+in Southeast Asia. So too are the long-running internal conflicts in Thailand
+and Indonesia that need resolution, as well as the challenges of maintaining
+the fragile peace in the Philippines after the establishment of the autonomous Muslim region in the South. Taken together, these internal conflicts
+continue to be formidable agendas for sustainable peace in the region.
+Southeast Asia’s history of peaceful change has highlighted an ability by
+the regional states to manage their differences and navigate major power
+competition. As regional states move toward fully realizing their goal of an
+ASEAN political and security community, peaceful transformations are no
+longer enough. Peace attained must be sustainable if Southeast Asia is to
+continue to be a zone of peace, security, and stability.
+
+Notes
+1.
+
+2.
+3.
+
+The ASEAN Regional Forum (ARF) established in 1994 has 27 members comprising the
+ten ASEAN states, plus its 10 dialogue partners (China, Japan, South Korea, US, Canada,
+Australia, New Zealand, Russia And The European Union), North Korea, Mongolia,
+Bangladesh, Pakistan, Sri Lanka, Timor Lester, and one observer (Papua New Guinea).
+The EAS, established in 2005, comprise the 10 ASEAN states and 8 dialogue partners –
+China, Japan, South Korea, India, US, Australia, New Zealand And Russia; while the
+ASEAN Plus Three, established in 1999, brings together the 10 ASEAN states with China,
+Japan And South Korea.
+RCEP brings together the ten ASEAN member states, China, Japan, Korea, Australia and
+New Zealand into one trade agreement.
+In ASEAN, Indonesia, Myanmar, Philippines, Thailand and Vietnam are among the most
+vulnerable countries in the region to the impacts of climate change.
+
+Disclosure statement
+No potential conflict of interest was reported by the authors.
+
+Notes on contributors
+Mely Caballero-Anthony is Professor of International Relations and holds the
+President’s Chair for International Relations and Security Studies. She is also Head
+of the Centre for Non-Traditional Security (NTS) Studies at the S. Rajaratnam
+School of International Studies (RSIS), Nanyang Technological University, Singapore.
+Email Address: ismcanthony@ntu.edu.sg
+Professor Ralf Emmers is Dean of S. Rajaratnam School of International Studies
+(RSIS) and President’s Chair in International Relations, Nanyang Technological
+University (NTU), Singapore.
+Email Address: isremmers@ntu.edu.sg
+
+References
+Acharya, A. (2001). Constructing a security community in Southeast Asia: ASEAN and
+the Problem of regional order. Abingdon, Oxon, UK: Routledge.
+
+THE PACIFIC REVIEW
+
+1101
+
+Acharya, A. (2014). Constructing a security community in Southeast Asia: ASEAN and
+the problem of regional order. 3rd ed. Abingdon, Oxon: Routledge.
+ADB. (2013). Investing in Resilience: Ensuring a Disaster-Resistant Future. Mandaluyong
+City, Philippines: Asian Development Bank. http://www.recoveryplatform.org/
+assets/publication/.investing-in-resilience.pdf.
+Adler, E., & Barnett, M. (1998). A framework for the study of security communities. In
+Adler, Emanuel, and Michael Barnett (Eds.), Security Communities (pp. 43–44). UK:
+Cambridge University Press.
+Alagappa, M. (1988). In search of peace: Confidence building and conflict reduction in
+the Pacific: Proceedings of the First Asia-Pacific Roundtable, Kuala Lumpur, January
+10–11, 1987. Malaysia: Institute of Strategic and International Studies.
+Alagappa, M. (1995). Political legitimacy in Southeast Asia. Stanford, CA: Stanford
+University Press.
+Alagappa, M. (1998). Asian security practice material and ideational influences.
+California: Stanford University Press.
+Alagappa, M. (2011). International relations studies in Asia: Distinctive trajectories.
+International Relations of the Asia-Pacific, 11(2), 193–230. doi:10.1093/irap/lcr007
+Alexandra, L., & Laksmana, E. A. (2021). Can the ASEAN Leaders Meeting Address the
+Crisis in Myanmar? The Diplomat, April 23. https://thediplomat.com/2021/04/canthe-asean-leaders-meeting-address-the-crisis-in-myanmar/.
+Anwar, D. F. (1995). Twenty-five years of ASEAN Political Co-operation. In Soesastro,
+Hadi(ed.) ASEAN in a challenged regional and international political economy.
+Jakarta: Centre for Strategic and International Studies.
+Anwar, D. F. (2006). Indonesia: National vs regional resilience. In D.D. Cunha (Ed.),
+Southeast Asian Perspectives on Security(pp. 82–83). Singapore: Institute of
+Southeast Asian Studies.
+APSC. (2019). ASEAN Political-Security Community, ASEAN Thailand 2019. https://
+asean2019.go.th/en/abouts/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%
+8A%E0%B8%B2%E0%B8%84%E0%B8%A1%E0%B8%81%E0%B8%B2%E0%B8%
+A3%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B9%
+81%E0%B8%A5%E0%B8%B0%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1/.
+Armor, A. H. A. (2020). ASEAN Risk Monitor and Disaster Management Review, AHA
+Centre (2nd ed), August 12. https://ahacentre.org/publication/armor-2nd-2020/.
+ASEAN Charter. (2008). Charter of the association of southeast asian nations. https://
+asean.org/asean/asean-charter/charter-of-the-association-of-southeast-asian-nations/.
+ASEAN. (2012). Declaration of ASEAN Concord (Bali Concord II), May 11. https://
+asean.org/?static_post=declaration-of-asean-concord-ii-bali-concord-ii.
+Basu Das, S., Menon, J., Shrestha, O., & Severino, R. (2013). The ASEAN Economic
+Community: A Work in Progress. Singapore: Institute of Southeast Asian Studies .
+Caballero-Anthony, M. (2005). Regional security in Southeast Asia: Beyond the ASEAN
+Way. Singapore: Institute of Southeast Asian Studies.
+Caballero-Anthony, M. (2010). Political change, democratic transitions and security in
+Southeast Asia. London: Routledge.
+Caballero-Anthony, M. (2017). From comprehensive security to regional resilience:
+coping with non-traditional security challenges. In Aileen Baviera and Larry
+Maramis (Eds.), Building ASEAN community: Political- security and socio-cultural
+reflections (pp. 123–125). Jakarta: Economic Research Institute for ASEAN and East
+Asia.
+Caballero-Anthony, M. (2018). Negotiating governance on non-traditional security in
+Southeast Asia and Beyond. New York: Columbia University Press.
+
+1102
+
+M. CABALLERO-ANTHONY AND R. EMMERS
+
+Caballero-Anthony, M. (2020). ASEAN’s multilateral path through the pandemic.
+Current History, 119(818), 222–227. doi:10.1525/curh.2020.119.818.222
+Cabot, C. (2021). Myanmar ethnic groups unite in fight against army, sights set on
+federal rights. France 24, April 14. https://www.france24.com/en/asia-pacific/
+20210414-myanmar-ethnic-groups-unite-in-fight-against-army-sights-set-on-federal-rights.
+Callahan, M. (2003). War and state building in Burma. Ithaca, NY: Cornell University
+Press.
+Carden, D. (2019). Mapping ASEAN: Achieving peace, prosperity and sustainability in
+Southeast Asia. US: Indiana University Press.
+Carr, E. H. (1964). Twenty years’ crisis, 1919-1939. New York: Harpertorch Books.
+Chia, S. Y., & Plummer, M. (2015). ASEAN economic cooperation and integration:
+Progress, challenges and future directions. UK: Cambridge University Press.
+Cook, A., & Yogendran, S. (2020). Conceptualising humanitarian civil- military partnerships in the asia-pacific: (re-)ordering cooperation. Australian Journal of
+International Affairs, 74(1), 35–53. doi:10.1080/10357718.2019.1693498
+Emmers, R, (2018). Unpacking ASEAN Neutrality: The Quest for Autonomy and
+Impartiality in Southeast Asia. Contemporary Southeast Asia, 40(3), 349–370. doi:
+10.1355/cs40-3a
+Emmers, R. (2003). Cooperative security and the balance of power in ASEAN and the
+ARF. London: RoutledgeCurzon.
+Emmers, R., & Caballero-Anthony, M. (2021). Peaceful change in Southeast Asia: the
+historical and institutional bases. In Paul TV, Larson Welch, Trinkunas, Harold,
+Wivel Anders and Emmers Ralf, (Eds.), The Oxford handbook of peaceful change in
+international relations. London: Oxford University Press.
+Fishbein, E., Lusan, N. N., & Hkawng, J. T. (2021). The last fight’: With growing support
+for federal army, Kachin prepares for war.Frontier Myanmar, 03 April. https://
+www.frontiermyanmar.net/en/the-last-fight-with-growing-support-for-federal-armykachin-prepares-for-war/.
+Fry, D., & Kemp, G. (2004). Keeping the peace: Conflict resolution and peaceful societies
+around the world. London: Routledge.
+Galtung, J. (1969). Violence, peace, and peace research. Journal of Peace Research,
+6(3), 167–191. doi:10.1177/002234336900600301
+Garofano, J. (2002). Power, institutions, and the ASEAN regional forum: A security
+community for Asia? Asian Survey, 42(3), 502–521. doi:10.1525/as.2002.42.3.502
+Gilpin, R. (1981). War and Change in International Politics. New York: Cambridge
+University Press.
+Haacke, J. (2003). ASEAN’s diplomatic and security culture: a constructivist assessment. International Relations of the Asia-Pacific, 3(1), 57–87. https://doi.org/10.
+1093/irap/3.1.57.
+Hanggi, H. (1991). ASEAN and the ZOPFAN Concept. Singapore: Institute of Southeast
+Asian Studies.
+Hariyadi, M. (2020). Central Sulawesi: The killers of four Christians are East Indonesia
+Mujahidin terrorists, AsiaNews, November 30. http://www.asianews.it/news-en/
+Central-Sulawesi:-The-killers-of-four-Christians-are-East-Indonesia-Mujahidin-terrorists-51726.html.
+Hassan, J. (1995). Comprehensive Security. In Mohamed Jawhar Hassan and
+Thangam Ramnath, (Eds.), Conceptualising Asia-Pacific security: Papers presented at
+the 2nd meeting of the CSCAP working group on comprehensive security and cooperative security, Aug. 27–29, 1995. Kuala Lumpur, Malaysia.
+
+THE PACIFIC REVIEW
+
+1103
+
+Henderson, J. (1999). Reassessing ASEAN. The Adelphi Papers, 39(328), 9–13. doi:10.
+1080/05679329908449587
+Hondrada. Gabriel, J. (2020). The communist insurgency: From anomaly to essential
+ingredient in PH power politics. Rappler, August 21. https://www.rappler.com/voices/imho/opinion-communist-insurgency-essential-ingredient-power-politics.
+Hopf, T. (1998). The promise of constructivism in international relations theory.
+International Security, 23(1), 171 https://doi.org/10.2307/2539267.
+Hsueh, C. (2016). ASEAN and Southeast Asian peace: nation building, economic performance, and ASEAN’s security management. International Relations of the AsiaPacific, 16(1), 27–66. doi:10.1093/irap/lcv012
+Inquirer. (2021). Moro folk still fleeing from conflict in Maguindanao, Inquirer, March
+25. https://newsinfo.inquirer.net/1411035/in-maguindanao-moro-folk-still-fleeingfrom-conflict#ixzz6qkbC0fXS.
+International Crisis Group. (2020). Identity Crisis: Ethnicity and Conflict in Myanmar,
+August. https://www.crisisgroup.org/asia/south-east-asia/myanmar/312-identitycrisis-ethnicity-and-conflict-myanmar.
+IPAC. (2020). Covid 19 and Mujahidin of Eastern Indonesia. Institute for Policy
+Analysis and Conflict (IPAC), Short Briefing 3.
+Deutsch, K, D., Burrell, S. A., Kann, R. A., Lee, M., Jr., Lichterman, M., Lindgren, R. E.,
+Loewenheim, F. L., … Van Wagenen, R. W. (1957). Political community and the
+North Atlantic Area. US: Princeton University Press.
+Kausikan, B. (2021). Hard truths about Myanmar and the military coup, The Straits
+Times, March 02. https://www.straitstimes.com/opinion/hard-truths-about-myanmar-and-the-military-coup.
+Keohane, R. O., & Martin, L. L. (1995). The promise of institutionalist theory.
+International Security, 20(1), 39. https://doi.org/10.2307/2539214.
+Leifer, M. (1996). The ASEAN Regional Forum: Extending ASEAN’s Model of Regional
+Security, Adelphi Paper Series 302. New York: Oxford University Press.
+Leifer, M. (1989). ASEAN and the Security of South-East Asia. Abingdon, Oxon, UK:
+Routledge.
+Lundstrom, K. (2020). A cancer at the heart of the UN’: Indonesia’s escalating West
+Papua conflict, Southeast Asia Globe. https://southeastasiaglobe.com/west-papuaindependence/.
+Mahmud Haziq, A. (2021). ASEAN leaders reach consensus on ’immediate cessation’
+of violence in Myanmar. Channel News Asia, April 24. https://www.channelnewsasia.com/news/asia/asean-myanmar-meeting-consensus-reached-stop-violence-14687048.
+Mearsheimer, J. (1995). The false promise of international institutions. International
+Security, 19(3), 5–49. https://doi.org/10.2307/2539078.
+Miller, B. (2007). States, nations, and the great powers. The sources of regional war and
+peace. UK: Cambridge University Press.
+Mindanao People’s Caucus. (2020). Rapid mid-term review of the bangsamoro transition period, October. https://iag.org.ph/images/pdf/Part_I__Final_Report_10-262020.pdf.
+Myanmar Now. (2021). NCA-Signatory EAOs take “initial step” toward forming coalition with non-signatories, Myanmar Now, April 28. https://www.myanmar-now.
+org/en/news/nca-signatory-eaos-take-initial-step-toward-forming-coalition-withnon-signatories.
+Nesadurai, H. E. S. (2003). Attempting developmental regionalism through afta : The
+domestic sources of regional governance. Third World Quarterly, 24(2), 235–253.
+https://doi.org/10.1080/0143659032000074574.
+
+1104
+
+M. CABALLERO-ANTHONY AND R. EMMERS
+
+NIKKEI Asia. (2021). Myanmar coup sparks unprecedented unity of ethnic groups.
+NIKKEI Asia, March 02. https://asia.nikkei.com/Spotlight/Myanmar-Coup/Myanmarcoup-sparks-unprecedented-unity-of-ethnic-groups.
+Nischalke Ingo, T. (2000). Insights from ASEAN’s foreign policy co-operation: The
+‘ASEAN way’, a real spirit or a phantom? Contemporary Southeast Asia, 22(1),
+89–112. doi:10.1355/CS22-1D
+Oishi, M. (2016). Contemporary Conflicts in Southeast Asia: Towards a New ASEAN Way
+of Conflict Management. Singapore: Springer.
+Paul, T. V. (2017). Recasting statecraft: international relations and strategies of peaceful change. International Studies Quarterly, 61(1), 1–13. doi:10.1093/isq/sqw059
+Paul, T. V. (2020). The study of peaceful change in world politics. In T.V. Paul, D. W.
+Larson, H. A. Trinkunas, A. Wivel, and R. Emmers, (Eds.), The Oxford Handbook of
+Peaceful Change in International Relations. Oxford University Press, Oxford
+Handbooks Online. doi:10.1093/oxfordhb/9780190097356.013.1
+Petri, P., & Michael, P. (2020). Order from chaos, RCEP: A new trade agreement that
+will shape global economics and politics. Brookings, November 16. https://www.
+brookings.edu/blog/order-from-chaos/2020/11/16/rcep-a-new-trade-agreementthat-will-shape-global-economics-and-politics/#::text=On%20November%2015%
+2C%202020%2C%2015,free%20trade%20agreement%20in%20history.
+Pitsuwan, S. (2014). A review of policy and practice “creative destruction” and the political
+transition in Thailand. Asian Politics & Policy, 6(3), 471–473. doi:10.1111/aspp.12119
+Rabasa, A., & John, H. (2002). The military and democracy in indonesia, challenges, politics, and power. California: RAND.
+Rosecrance, R. (1986). The Rise of the Trading State: Commerce and Conquest in the
+Modern World. New York: Basic Books. .
+€land, J. (2000). ASEAN and the Asian crisis: Theoretical implications and practical
+Ru
+consequences for Southeast Asian regionalism. The Pacific Review, 13(3), 421–451.
+doi:10.1080/09512740050147942
+Russett, B., & Oneal, J. (2001). Triangulating Peace: Democracy, Interdependence, and
+International Organizations. New York: W. W. Norton .
+TAC. (1976). Treaty of Amity and Cooperation in Southeast Asia Indonesia, 24
+February 1976, ASEAN. https://asean.org/treaty-amity-cooperation-southeast-asiaindonesia-24-february-1976/.
+The Irrawaddy. (2021). Ethnic Armed Groups Unite with Anti-Coup Protestors against
+Myanmar Junta, The Irrawaddy, April 30. https://www.irrawaddy.com/news/
+burma/ethnic-armed-groups-unite-anti-coup-protesters-myanmar-junta.html.
+The Straits Times. (2016). ASEAN will not make statement on South China Sea ruling:
+Diplomats, The Straits Times July 14. https://www.straitstimes.com/asia/se-asia/
+asean-to-keep-mum-on-south-china-sea-ruling-diplomats.
+The Straits Times. (2021). Rebel group says more than 12,000 displaced by Myanmar
+junta air strikes, The Straits Times, April 03. https://www.straitstimes.com/asia/seasia/rebel-group-says-more-than-12000-displaced-by-myanmar-junta-air-strikes.
+Vatikiotis, M. (2003). Catching the Dragon’s tail and Southeast Asia in the 21st
+Century. Contemporary Southeast Asia, 25(1), 65–78. doi:10.1355/CS25-1D
+Webb-Gannon, C. (2014). Merdeka in West Papua: Peace, Justice and Political
+Independence. Anthropologica, 56(2), 353–367. http://www.jstor.org/stable/24467310.
+ZOPFAN. (1971). 1971 Zone of Peace, Freedom and Neutrality Declaration. National
+University of Singapore Centre for International Law. https://cil.nus.edu.sg/wpcontent/uploads/2020/08/1971-Zone-of-Peace-Freedom-Neutrality-Declaration-1.pdf.
+
+

@@ -1,0 +1,1457 @@
+The Paciﬁc Review
+
+ISSN: 0951-2748 (Print) 1470-1332 (Online) Journal homepage: www.tandfonline.com/journals/rpre20
+
+Shades of grey: riskiﬁcation and hedging in the
+Indo-Paciﬁc
+Cheng-Chwee Kuik
+To cite this article: Cheng-Chwee Kuik (2023) Shades of grey: riskiﬁcation and hedging in the
+Indo-Paciﬁc, The Paciﬁc Review, 36:6, 1181-1214, DOI: 10.1080/09512748.2022.2110608
+To link to this article: https://doi.org/10.1080/09512748.2022.2110608
+
+Published online: 09 Sep 2022.
+
+Submit your article to this journal
+
+Article views: 4512
+
+View related articles
+
+View Crossmark data
+
+Citing articles: 26 View citing articles
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=rpre20
+
+THE PACIFIC REVIEW
+2023, VOL. 36, NO. 6, 1181–1214
+https://doi.org/10.1080/09512748.2022.2110608
+
+Shades of grey: riskification and hedging
+in the Indo-Pacific
+Cheng-Chwee Kuik
+Institute of Malaysian and International Studies (IKMAS), National University of
+Malaysia (UKM), Bangi, Malaysia and Foreign Policy Institute, Johns Hopkins SAIS
+ABSTRACT
+
+This essay unpacks the hedging behavior of small and secondary states by
+focusing on Southeast Asian responses to the intense US-China rivalry and
+the emergence of the Quadrilateral Security Dialogue (Quad) in the IndoPacific region. It contends that the weaker states’ perceptions of external realities are not black and white, but shades of grey, as uncertainty breeds ambiguity and ambivalence. The states often do not view a major power (and its
+initiatives) as either a clear-cut threat or a straightforward solution. Instead,
+they perceive a spectrum of risks and challenges, each with constantly changing manifestations and magnitude, all of which require complex combinations
+of mutually-reinforcing and counteracting measures. All ASEAN states have
+mixed attitudes towards the competing powers, viewing both the Quad’s
+Free and Open Indo-Pacific (FOIP) strategies and China’s Belt and Road
+Initiative (BRI) as bringing not only opportunities but also risks and dangers.
+These ambivalent perceptions entail a process of ‘riskification’, where states
+identify and prioritize certain risks while downplaying others, in ways that
+serve elite interests at home. Hence, while nearly all the ASEAN states have
+stressed in varying degrees the risks of entrapment, abandonment, polarization and marginalization, many have downplayed the dangers of big-power
+aggressiveness and interference, some more so than others. The varying riskification patterns thus lead to varying hedging acts, prompting subtly different
+responses to the emerging realities.
+
+KEYWORDS Riskification; weaker-state hedging; Southeast Asia; US–China rivalry; Indo-Pacific
+
+Introduction
+The notion of ‘Indo-Pacific’, which entered the international politics lexicon
+about a decade ago, has evolved from a strategic construct to geopolitical
+reality. Coined and promoted by the member states of the Quadrilateral
+CONTACT Cheng-Chwee Kuik
+cckuik@gmail.com
+Centre for Asian Studies, Institute of
+Malaysian and International Studies, National University of Malaysia (UKM), Bangi 43600, Malaysia
+This article has been republished with minor changes. These changes do not impact the academic
+content of the article.
+ß 2022 Informa UK Limited, trading as Taylor & Francis Group
+
+1182
+
+C. C. KUIK
+
+Security Dialogue (Quad), a minilateral alignment consisting of Australia,
+India, Japan and the United States, the Indo-Pacific narrative and its institutional expression have gained momentum in the recent years, especially
+after the Quad’s revival in 2017. By 2018, each of the Quad member states,
+one after another, had announced their own Free and Open Indo-Pacific
+(FOIP) strategies (Envall & Wilkins, 2022; Medcalf, 2020; Rajagopalan, 2020).
+Since 2019, non-Quad countries, France first, followed by Germany, the
+Netherlands, and then the European Union (EU) as a group, have released
+their respective Indo-Pacific documents, emphasizing the importance of
+preserving the ‘rules-based’ international order. Subsequently, more powers
+within and beyond Asia have tilted toward the Indo-Pacific. In September
+2021, London joined Canberra and Washington to form the AustraliaUnited Kingdom-United States (AUKUS) pact. Since late February 2022, the
+Russia–Ukraine war has sapped the US attention and resources but there
+are signs the Indo-Pacific tilt will remain a long-term strategic direction for
+the United States, other Quad members, and their key partners in Europe,
+Asia, and elsewhere. Canada, New Zealand and South Korea look set to
+map out their own strategies for the Indo-Pacific. During the US President
+Joe Biden’s May 2022 trips to Seoul and Tokyo to boost his administration’s
+Indo-Pacific strategy, Biden stressed, apparently with China in mind,
+that stronger ties and solidarity among ‘likeminded countries’ are required,
+amid ‘competition between democracies and autocracies’ (The White
+House, 2022).
+As the Quad members and their ‘likeminded’ partners endeavor to
+strengthen cooperation between and among themselves, they have also
+sought to court the member states of the Association of Southeast Asian
+Nations (ASEAN) both bilaterally and regionally, leveraging the expanding
+ties to increase their presence in the Indo-Pacific. These courtships are
+driven by strategic, diplomatic and economic reasons. Strategically, many
+Southeast Asian states share concerns about China’s security actions, especially those over the South China Sea. Diplomatically, ASEAN and ASEANled institutions are viewed as the drivers of Asian multilateralism and
+regionalism. Economically, Southeast Asia, a region with large populations,
+rich resources, and fast-growing middle classes, provides an increasingly
+important market and investment opportunities. The ASEAN Outlook on
+the Indo-Pacific (AOIP), announced in June 2019, showed some convergence between ASEAN’s principles and FOIP strategies, despite differing
+emphases on norms and approaches (Acharya, 2019; Anwar, 2020). This
+convergence has added impetus for potentially wider partnerships across
+the region.
+Central to the Indo-Pacific powers’ courtships of Southeast Asia is a discourse that depicts, either explicitly or implicitly, China as the ‘principal
+
+THE PACIFIC REVIEW
+
+1183
+
+threat’ to ASEAN states and other regional countries. This discourse, voiced
+and amplified by mainstream media and expert analysis, regards the South
+China Sea disputes and other sovereignty issues (i.e., the Taiwan Strait and
+the Korean Peninsula) as the ‘principal security problems’ in Asia. The discourse also describes the US-centered alliances and partnerships as the
+‘principal solution’ for tackling these problems. In September 2020, then
+the US Secretary of State Mike Pompeo urged Southeast Asian countries to
+‘stand up’ to China, which ‘bully ASEAN coastal states in the South China
+Sea’, reminding all states not to ‘let the Chinese Communist Party walk over
+[them] and [their] people’, while stressing that the region ‘should be confident in the United States and know it can bank on [US] support’ (Nguyen,
+2020). In December 2021, Biden’s Secretary of State Antony Blinken blasted
+China’s ‘aggressive actions’ in Asia while declaring plans to ‘more closely
+integrate’ the US allies and partners in Asia in order to defend the rulesbased order (Martin, 2021).
+These perspectives appear logical, especially considering the ASEAN
+states’ inability to handle these massive challenges on their own. They also
+seem inevitable, particularly when US leaders, allies, and opinion shapers
+began framing the great power competitions as a global struggle between
+the ‘liberal’ versus ‘autocratic’ order (Bump, 2022). In March 2021, Biden
+described Chinese leader Xi Jinping as someone who shares with Russian
+President Vladimir Putin a belief that ‘autocracy is the wave of the future’.
+Biden added that ‘[t]his is a battle between the utility of democracies in the
+21st century and autocracies’, and ‘[w]e’ve got to prove democracy works’
+(Sanger, 2021). The ‘democracy versus autocracy’ discourse is deepening,
+following Russia’s invasion of Ukraine on 24 February 2022. Many US allies
+share similar views. On 9 March 2022, Australia’s intelligence chief said that
+Beijing’s ‘convergence’ with Moscow will pose new threats to liberal
+democracies, potentially leading to ‘[a] situation where other countries in
+the region, across South-East Asia, across the Pacific, including Australia,
+have to defer to Beijing’s choices’ (Dziedzic, 2022). On 12 March 2022, during a visit to Malaysia, former Japanese Prime Minister Shinzo Abe said
+Russian aggression posed a ‘serious threat’ to the international order. In a
+veiled reference to China’s aggressive behavior, Abe also commented that
+‘[u]nilateral attempts to change the status quo by force or economic coercion pose a serious threat in Asia’ and urged countries in the region to
+‘raise a voice of opposition in unison’ (The Japan Times, 2022).
+Such viewpoints, however, are only partially and unevenly shared by
+Southeast Asian states. For the ASEAN states, while China is indeed a source
+of growing security concerns, it is also an increasingly indispensable partner
+which supports economic growth, supplies pandemic assistance, and bolsters post-COVID regional resilience. In the eyes of Southeast Asian states,
+
+1184
+
+C. C. KUIK
+
+China is both a problem and a solution. The ASEAN states have ambivalent
+perceptions of the United States as well. That is, while Washington is
+viewed as critical and indispensable by some states, it is neither a clear-cut
+nor certain solution. The ASEAN states are as anxious about the uncertainties in the US’s long-term Asia commitment and Washington’s black-andwhite values-based policies as they are about Beijing’s long-term intentions
+and increasing maritime assertiveness.
+This paper argues that the ASEAN states’ perceptions of risks and solutions in the Indo-Pacific era are shades of grey, not a stark black and white.
+Southeast Asian states neither view China-related issues as their only and
+most pressing challenge nor the US-led alignment as a straightforward,
+let alone a primary solution. As weaker states with diverse political systems
+which have experienced centuries-long Western domination and decadeslong Cold War politics, Southeast Asian states view the ongoing IndoPacific competitions more through a power lens than an ideological prism.
+The heightening rivalries between China and the United States (and its
+allies) are not considered ideological contestation, but the latest round in a
+perennial cycle of big power rivalry. The paper further argues that while the
+structural uncertainties surrounding the US–China rivalry have brought
+about a range of risks (e.g., entrapment, polarization and marginalization), it
+is the domestic factors that underpin the riskification process (prioritizing
+some risks but downplaying others), leading to varying forms of hedging behavior.
+This paper proceeds as follows. Part 2 develops a ‘riskification’ framework, reviewing the relevant literature in International Relations (IR) and
+developing analytical parameters to establish the links between riskification
+and the weaker states’ alignment choices. Part 3 unpacks the structural and
+domestic roots of Southeast Asian riskification from Asia-Pacific to IndoPacific. Part 4 illuminates how the Southeast Asian states’ perceptions of
+risks have led them to hedge by responding to Quad and related IndoPacific realities cautiously. Part 5 concludes by summing up the theoretical
+and policy implications of the weaker states’ shades-of-grey outlook, before
+offering suggestions for future research.
+
+Riskification and hedging behavior: a framework
+Risk—exposure to dangers, potential harms, or probable losses—is central
+to the human experience (Beck, 1992; Bernstein, 1996; Greenspan, 2013;
+Heng, 2006; Knight, 1921; Taleb, 2018). There are three major kinds of risks
+in international relations: security, economic and political. While some of
+these risks (e.g., military aggression, political interference, and certain types
+of nontraditional security challenges) originate from the intentional acts of
+
+THE PACIFIC REVIEW
+
+1185
+
+state or non-state actors, others are products of such impersonal forces as
+global economic downturns, domestic political decay and systemic changes
+in the distribution of power. Regardless of their origins, these risks are especially harmful to smaller and weaker states because their internal limitations
+invite external exploitation and they lack the resources to absorb structural
+shocks and mitigate risks by themselves.
+Identifying risks and actions to mitigate them are central to ‘hedging’
+behavior across such spheres of human activities as agriculture, finance, linguistics and politics (Bertrand et al., 2015; Fraser, 2010; Hyland, 1998;
+Working, 1953). Since the 2000s, IR scholars have identified risks and riskmitigation as drivers of state alignment choices, especially hedging behavior. David Lake, for instance, describes hedging as ‘a form of insurance’
+against the risks and costs of opportunism (Lake, 1996, p. 15). Kuik (2008)
+conceives of hedging as behavior under high-stakes, high-uncertainties
+conditions, where sovereign actors pursue multiple contingency options to
+offset the numerous risks exposed by their return-maximizing acts, cultivate
+fallback positions and reduce loss if things go awry. This conception is
+among the first in IR literature to highlight that ‘risk’, with its manifestations
+in the security, economic and political domains, is key to understanding
+hedging as human behavior. It also highlights that while big powers often
+play a crucial role—solicited or otherwise—in a small state’s risk management (Kuik, 2008, p. 163), such role is ‘far from unidirectional’—it is ambivalent as the big powers can be both harmful and helpful to smaller states
+(see also Kuik, 2016b, 2020, 2021b).
+Building on Snyder (1984) and other major works on alliance politics,
+Ciorciari (2010) identifies several major types of ‘risks of alignment’, namely,
+diminished autonomy, dependency, abandonment, entrapment, and alienating domestic groups. Ciorciari and Haacke (2019, p. 369) note that
+‘hedging strategies seek to address risk in the form of potential securityrelated threats’. Kuik (2016a, 2020, 2021b) observes that states hedge
+against not a single actor but a range of risks. To mitigate multiple risks
+across domains and across time, hedgers typically pursue a bundle of
+‘opposite’, ‘contradictory’ measures to counteract and ‘offset the effects of
+one another, with the goal of avoiding the danger of betting on the wrong
+horse’ and other hazards at the systemic level (Kuik et al., 2012, p. 318;
+Kuik, 2016b). Lim and Cooper (2015) point out that states hedge by
+‘sending ambiguous signals’. Ciorciari concurs, adding that hedging not
+only involves ‘preserving strategic ambiguity’, but also ‘forging limited
+security alignments’ and ‘cultivating modest self-protection in case potential threats materialize’ (Ciorciari, 2019, p. 523). Other authors have covered
+the various forms of risks and risk-mitigation strategies in state alignment
+behavior (Chan, 2020; Goh, 2008; Jackson, 2014; Khong, 2004; Koga, 2018;
+
+1186
+
+C. C. KUIK
+
+Keating & Ruzicka, 2014; Korolev, 2016; Tan, 2020; Tunsjø, 2010; Wilkins,
+2021). Jones and Jenne (2022) usefully describe hedging as a counsel of
+prudence in the conduct of statecraft that fits strategic ends to limited
+means [emphasis added].
+This study adopts a broad sense of the term ‘alignment’. That is,
+‘alignment’ means coming together, working with each other, linking oneself to larger collective efforts of coordinating and pursuing shared aims. It
+involves coordinated actions for continuous harmonization of wider ends
+across domains. Alignments are broader than alliances which entail a
+mutual defense commitment, a bond with a single great-power patron, and
+often a targeted threat. Alignments, however, allow room for simultaneous
+and selective cooperation with multiple partners and even with both competing powers (Kuik & Evans, 2022, p. 27). A state may choose to remain in
+a pre-existing alliance with Power A while diversifying its partnerships by
+pursuing multi-directional alignments with multiple powers.
+Hedging, accordingly, is defined in this study as insurance-maximizing
+alignment behavior with three attributes, i.e., active impartiality, inclusive
+diversification and prudent contradictions, all aimed at offsetting risks
+and ensuring a fallback position under conditions of uncertainty.
+Typically, a hedger signals that it is not taking sides with any competing
+power, while it diversifies partnerships with all powers and pursues deliberately contradictory measures to cultivate maneuvering space and keep
+all options open.
+Recent scholarly works have sought to explain how and why risk-mitigation drives and limits hedging behavior at the inter-state level. Haacke
+(2019) systematically argues that hedging is ‘a risk management strategy’,
+particularly for security risks. This assertion is further elaborated by Haacke
+and Ciorciari (2022). Building on Clapton’s (2011) work on ‘riskification’ (i.e.,
+‘risk identification, assessment and management’) and Corry’s (2012)
+‘riskification versus securitization’ model, Haacke and Ciorciari (2022, p. 24)
+highlight ‘the importance of politics in riskification and state capacity to
+address risks’, a process that underscores the ‘constructed nature of risks’
+[italics added], where governments and [the] relevant bureaucracies play
+key roles in ‘constructing actual or potential risks’. Kuik (2008, pp. 161–162)
+elaborated that
+the representation of risks—which risks will be identified and prioritized as
+foreign policy ‘problems’—is neither given nor fixed, but is constantly
+shaped by the way in which elites seek to justify their domination by acting
+in accordance with the very foundations of their authority at a given time
+[italics in the original].
+
+Thus, Haacke and Ciorciari (2022, p. 24) argue that ‘analysts cannot take
+for granted that risks simply exist “out there” or that states will be similarly
+
+THE PACIFIC REVIEW
+
+1187
+
+proficient in addressing them’; rather, ‘hedging necessarily results from a
+process of identifying and weighing risks and choosing what means and
+pathways are available for managing them’.
+In the recent years, more scholarly works have focused on ‘riskification
+and securitization’, which explore the relations between risk and such related
+issues as ‘threat’ and ‘security’. Some are framed within the basic tenets of
+the Copenhagen School in IR. Karen Lund Petersen (2012), for instance,
+examines the intersections between risk and security studies from what she
+terms the three ‘disciplines of risks’, namely economics, anthropology, and
+sociology. To differentiate risks from security, Jessica Kirk notes that while
+security is understood as ‘imminent’ and ‘on the immediate horizon in need
+of (present) response’, risks are ‘future-oriented’, stretching the timeline of
+danger by drawing the possible future into the present, ‘orienting the latter
+around preparing for the danger lurking into the former’ (2020, p. 3).
+Accordingly, risks are about ‘perpetual vulnerability’ and the elimination of
+dangers is viewed as largely ‘impossible’. Kirk’s conception of risks along the
+time horizon converges with Kuik’s (2008, 2016a, 2016b) wider-than-security
+characterization of risks along the domain horizon. Together, these conceptualizations highlight the cross-temporal, cross-sectoral, multifaceted dimensions of risks as state vulnerabilities under uncertainty. As succinctly summed
+up by Kirk (2020, p. 3), risks are ‘unpredictable, uncontrollable, and yet
+internal to (modern) society’ in the Ulrich Beck (1992) sense of ‘a bottomless
+barrel of demands, unsatisfied, infinite, self-producible’.
+There have been similar attempts to distinguish ‘risk’ from ‘threat’. While
+the two concepts overlap in terms of exposure to possible harm, they
+diverge in the certainty and immediacy of the possibilities. That is, while risk
+refers to potential harm, threat refers to clear and present danger.
+According to Olaf Corry (2012, pp. 238–249), while threat is conceptually
+linked to the ‘direct causality of harm’, risk is linked to plausible
+‘constitutive’ or ‘conditional causes’ of the future danger, depersonalized
+potentiality, and the absence of a specific threatening actor. This enriches
+Wallander and Keohane (1999)’s conception:
+Where a state’s leaders regard it as facing a positive probability that another
+state will either launch an attack or seek to threaten military force for
+political reasons, it faces a threat. Threats pertain when there are actors that
+have the capabilities to harm the security of others and that are perceived
+by their potential targets as having intentions to do so. When no such
+threat exists, either because states do not have the intention or the
+capability to harm the security of others, states may nevertheless face a
+security risk [emphasis in the original].
+
+Of course, it is not just security that is at stake. Risk may and often does
+affect a state’s capacity to pursue prosperity (economic wealth and material
+gains) and autonomy (sovereignty and policy maneuverability) as well.
+
+1188
+
+C. C. KUIK
+
+‘Riskification’, accordingly, is used in this study to mean a process in which
+a sovereign state identifies, prioritizes, or de-prioritize possible harmful processes or events that may endanger its security, prosperity and autonomy. This
+necessarily involves efforts to avoid, mitigate and offset a state’s exposure
+to dangers, especially those regarded as highly undesired by state elites.
+Some dangers are perceived to be more urgent and/or severe than others,
+depending on external and internal circumstances.
+Based on the above insights, particularly Haacke and Ciorciari’s observations about the politically driven construction of risks, we develop a riskification framework to unpack the underlying dynamics of hedging as recurrent
+alignment behavior in international relations, as distinguished from the more
+widely discussed strategies of ‘balancing’ and ‘bandwagoning’ (Waltz, 1979;
+Walt, 1985; Schweller, 1994). Our framework is different from the existing literature in three aspects. Firstly, we adopt a wider conceptualization of ‘risk’
+and ‘riskification’ as states seek to address not only security-related dangers,
+but also non-military and non-security risks. This broadened conception is
+necessary because in reality, states are mindful of the political and economic
+risks as much as—and sometimes more than—security risks, especially when
+they are not directly threatened.
+Secondly, analytically, our framework posits that risks and interests
+are two sides of the same policy coin. Risk is potential harm to prioritized
+interests. Riskification, accordingly, is mainly about managing and mitigating risks, but also optimizing interests or returns, the contents and
+approaches of which are defined by ruling elites. A state’s alignment
+choice, hence, is a function of its ruling elite’s calculations of politicallydefined returns-maximization and risk-mitigation. Balancing strategy prevails when a state completely aligns with a powerful actor to push back
+another power viewed as a clear-cut threat to its national security and/
+or elite’s interests. Bandwagoning prevails when a state identifies a big
+power as a reliable patron which promises its elite with interests without
+unacceptable risks and drawbacks. Hedging prevails when a state sees
+neither a clear-cut threat nor a clear-cut patron, but multiple risks and
+challenges capable of undermining its elite’s prioritized interests, each
+with stakes high enough to necessitate the cultivation of insurance-maximizing measures under uncertainty.
+Thirdly, theoretically, we adopt a two-level framework to unpack the
+relations between risks, riskification and state alignment choices. The framework postulates that the riskification process is rooted in both structuraland domestic-level factors. While risks are chiefly a product of structural
+conditions (particularly systemic uncertainties), riskification is more a result
+of domestic calculations (mainly the elite’s politically defined interests).
+
+THE PACIFIC REVIEW
+
+1189
+
+Structurally, different forms of uncertainty present different forms of
+risks. As uneven growth in the major actors’ relative capabilities changes
+power structure and power relations, the unpredictable intentions of each
+actor change commitments among present and future patrons, partners
+and adversaries. Together, these system-wide uncertainties generate a wide
+array of top-down risks for smaller states, including entrapment and abandonment, becoming subservient, alienating a strong power prematurely, or
+facing a direct threat without credible allied support (Christensen & Snyder,
+1990; Fearon, 1997; Morrow, 1993, 2000; Snyder, 1984). Each risk complicates the tasks of coping with challenges on the economic, nontraditional
+security, and internal fronts.
+Two structural factors are key: the magnitude of threat and the reliability
+of allied support. When threat is profound and patron support reliable, the
+riskification process and policy choice will be more straightforward (direct
+threat necessitates direct balancing; the availability of a clear-cut patron
+leads to clear-cut bandwagoning) and less susceptible to domestic influence. When threat is profound but support is not dependable (or conversely, credible support is met with diffused, indirect dangers), riskification
+will be more subjected to domestic factors (e.g., in the absence of a credible
+patron, a weaker state may choose to downplay certain external risks to
+serve its elite’s internal interests). Finally, when an ambiguous threat coincides with uncertain support, riskfication will be most susceptible to such
+domestic factors as elite politics and legitimation, leading the state to prioritize or deprioritize some stakes over the others.
+To summarize, our framework posits that riskification is not just about
+the identification and management of risks; it is also about the ranking (prioritization and deprioritization) of elite-defined interests and risks based on
+changing circumstances at the structural and domestic levels. Riskification
+is a process in which a rational actor—in this case, a sovereign state, and
+more specifically, its ruling elite—constantly evaluates risks arising from the
+structural changes, before exploring options to mitigate the risks, while
+maximizing the interests required to consolidate its elite’s authority and
+standing at home.
+
+Roots of riskification: from Asia-Pacific to Indo-Pacific
+The Southeast Asian states’ perceptions of dangers and patrons have been
+evolving in response to changes in the external environment. During the
+early decades of the Cold War period, the noncommunist states of
+Indonesia, Malaysia, the Philippines, Singapore and Thailand—which
+founded ASEAN in August 1967 and later joined by Brunei in 1984—perceived the communist powers (the Soviet Union and China and, to some
+
+1190
+
+C. C. KUIK
+
+extent, Vietnam after its invasion of Cambodia in December 1978) as the
+principal threats and viewed the US-led Western powers as their principal
+patrons. Their perceptions were, by and large, black and white: the sources
+of threat were direct and unambiguous along ideological lines, while the
+patrons’ commitments were perceived to be relatively concrete and credible. Such straightforward perceptions, however, were gradually replaced
+by an increasingly ambiguous and ambivalent outlook, following Britain’s
+withdrawal from Southeast Asia, the US military setbacks in the Vietnam
+War, and the US–China rapprochement in the 1970s.
+Southeast Asian perceptual shifts have continued after the end of the
+Cold War circa 1990. The collapse of the Soviet Union ended the decadeslong ideologically-based global struggles between the communist bloc and
+the US-led free world (which, in turn, contributed to the resolution of the
+Indochinese conflict), but the eclipse of bipolarity also meant the end of an
+era of strategic clarity. Consequently, throughout the post-Cold War decades, the ASEAN states have become more uncertain not only about the
+principal sources of threats, but also the principal sources of patron support. On one hand, the numerous traditional and nontraditional security
+challenges are not clearly hierarchical in their severity. On the other, the
+weaker states have become more unsure of patron reliability and the prospect of big-power relations, in particular US commitment, China’s intentions, US–China competition, and the ASEAN’s relevancy in the new era
+(Acharya, 2014; Ba, 2009a; Goh, 2008; Khong, 2004; Leifer, 1996).
+In other words, Southeast Asia’s post-Cold War outlook of threat and
+support has become more diffused, uncertain, and complex. The roots are
+structural: the emerging uncertainties are the products of system-wide, topdown dynamics stemming from uneven growth of relative capabilities,
+unpredictable big-power action-reaction, as well as unforeseeable circumstances. While the occurrence of these dynamics is above and beyond any
+single state’s control, their ramifications and risks affect all states, especially
+the weaker ones.
+These structural conditions—diffused threat perceptions and uncertain
+principal support—which underpin Southeast Asia’s post-Cold War riskification, motivate and constrain the ASEAN states’ external policy choices, both
+individually and collectively. To cope with these uncertainties, diplomacy
+and regionalism were developed as key tools. Individually, each Southeast
+Asian state has developed active bilateral diplomatic and developmental
+ties with countries far and near. As a group, the old ASEAN member states
+have taken several inclusive, regionalist actions by: (a) enlarging its membership to include Vietnam, Laos, Myanmar and Cambodia; (b) expanding
+ASEAN dialogue processes by inviting South Korea, India, China and Russia
+as dialogue partners (besides the original Western partners); and (c)
+
+THE PACIFIC REVIEW
+
+1191
+
+establishing such ASEAN-led mechanisms as the ASEAN Regional Forum
+(ARF, in 1994), the ASEAN Plus Three (APT, in 1997), the East Asia Summit
+(EAS, in 2005), and the ASEAN Defence Ministers’ Meeting-Plus (ADMM-Plus,
+in 2010). These multilateral arrangements, together with bilateral diplomatic
+and economic tools, have enabled ASEAN states to work with partners in
+and out of Asia to respond to region-wide challenges and crises, which, in
+due course, have institutionalized ASEAN’s centrality in Asian affairs (Ba,
+2009b; Goh, 2008; Kuik, 2022). Beyond diplomacy, the original ASEAN members have also enhanced their respective military partnerships with their
+longstanding partners and allies, primarily the United States but also other
+Western powers (Capie, 2020; Parameswaran, 2022; Tan, 2020). Since the
+2010s, as China’s regional clout grows, more and more ASEAN states have
+moved to establish strategic partnerships and defense ties with China as
+well (Storey, 2011, 2020).
+These inclusive and increasingly multi-sector, multilayered partnerships—
+as opposed to exclusive, military-dominant, collective-defense alliances as
+the key tool of statecraft—reflect the ASEAN states’ post-Cold War riskification and policy responses. While alliances and de facto alignments have
+enabled the weaker Southeast Asian states to fend off direct military threats
+(e.g., communist insurgencies across the ASEAN region and Vietnam’s expansionist actions in Indochina) during the Cold War, military tools are only partial solutions for ASEAN states to cope with the wide range of post-Cold War
+challenges. While military tools are essential for addressing sovereignty and
+territorial disputes, they are inadequate when tackling such non-military dangers as cyclical economic downturn, external interference, as well as problems associated with diversities within and across national boundaries. These
+challenges aside, Southeast Asian states also have to contend with the risks
+associated with the myriad and fluid forms of nontraditional security issues,
+intra-ASEAN disputes, and above all, the more pressing political and governance problems at home (Alagappa, 1995; Emmerson, 2008; Mely CaballeroAnthony & Gong, 2020; Kuik, 2021b, 2021c).
+The perceptions of such myriad, mixed, and diffused dangers and challenges are described as ‘grey’ because the manifestations and magnitude
+of these risks (and the corresponding risk-mitigation measures) are far from
+black and white, without a clear hierarchy of severity, and often without direct, clear-cut sources of problems, let alone straightforward solutions. They
+are ‘shades’ in that a state’s discernment of these myriad realities is a spectrum (as opposed to dichotomy), of problems and corresponding policy
+responses, each with constantly changing forms but inconstant effects,
+without clearly drawn lines of severity and solutions.
+Thus, shades-of-grey riskification requires Southeast Asian states to
+develop multi-domain, multi-level tools throughout the post-Cold War
+
+1192
+
+C. C. KUIK
+
+decades. To cope with different types of challenges, different tools have
+been developed with multiple partners and through multiple platforms
+(e.g., bilateral alignments, minilateral cooperation, and regional institutions).
+Because a one-size-fits-all approach is unavailable and because all problems, partners, and platforms exhibit constantly changing saliency and reliability, a combination of multilayered partnerships and arrangements
+(albeit fragmented and overlapped) is deemed necessary to cope with challenges in a mutually complementary manner.
+The emergence of the Indo-Pacific narratives and networks has deepened such diffused outlook. While the US–China rivalry remains the central
+theme of Asian geopolitics, more actors are entering the fray to push back
+China’s growing power and assertiveness. This is evidenced by the revival
+of Quad and the growing activism of an increasing number of second-tier
+powers in and out of Asia across the military and non-military chessboards
+(Kuik, 2021d). By the 2020s, it was clear that the balance-of-power efforts
+around Asia were being pursued not only via military means, but also
+through economic, connectivity-building, technology, pandemic assistance,
+and other cooperative activities. As more powers are involved and as more
+tools are used across the twin chessboards, the increasingly intensified
+power competition is rapidly making Southeast Asia the center of multidomain courtships. These, in turn, have presented greater opportunities but
+also greater risks to Southeast Asia.
+The ASEAN states see a long and growing list of external and internal
+risks in the Indo-Pacific. Some risks are region-wide; others are specific to
+certain countries. While not all the perceived risks originated from extraregional powers, several are associated with the actions of and interactions
+among the big powers across the region. Thus far, the ASEAN states’
+responses to the emerging Indo-Pacific realities highlight that the weaker
+states are particularly concerned about four types of structural risks: entrapment, abandonment, regional polarization and marginalization of ASEAN as
+a regional grouping. These concerns are not new, but each has been
+heightened by the increasingly intense action-reaction maneuvers among
+the competing powers.
+
+Structural imperative
+Relative position matters. How a state sees the world depends on its relative place in the system. As non-big powers, Southeast Asian states identify
+and evaluate ‘risks’ (probable harms, potential losses, distant dangers) and
+‘threats’ (direct, clear-and-present dangers) primarily via the prism of their
+own survival (existential stakes). This is distinct from systemic primacy
+(power stakes) as viewed by the United States and the rules-based order
+
+THE PACIFIC REVIEW
+
+1193
+
+(normative stakes) emphasized by the Quad members and their Indo-Pacific
+partners. While these stakes converge in a preference for the status quo,
+different relative positions mean different perceptions of risks.
+Southeast Asian states, having been subjected to colonial and Cold War
+power domination, view themselves as more the ‘rule-takers’ than ‘rulemakers’. Rules are almost always made and enforced by the powers of the
+day. The weaker states are always concerned about who enforce which rules
+and supply what other public goods, but they care even more about how
+and to what extent the supply–demand dynamics affect their own state survival and elite interests.
+These dynamics, the results of uneven growth of relative capabilities
+and aspirations across the big powers in the international system, are
+structural issues. The dynamics are determined by the relative capacity of
+respective powers in supplying regional public goods across the developmental, diplomatic, and defense domains. The changing relative abilities,
+alongside an individual power’s intentions, ultimately, determine who are
+the principal providers of needed goods and the principal sources of
+threats in the system.
+There are many indicators of these changing realities, as well as the
+resulting responses in Asia and the wider Indo-Pacific. China is rising economically, while becoming more assertive and aggressive strategically. The
+United States is still leading militarily and technologically, but is showing
+symptoms of relative decline in terms of economic output and diplomatic
+engagement. It has also become a more unpredictable global player and
+regional partner, especially during the Trump years. Many second-tier
+powers have reacted to these structural trends by keeping the US-centered
+order as Plan A for as long as possible, while developing multiple Plans B
+(e.g., the Quad, other minilateral arrangements, additional layers of bilateralism) to mitigate the growing risks of uncertainties. Smaller and secondary
+states, in Southeast Asia and elsewhere, have responded by cultivating
+more layers of cooperation while developing contingency measures to mitigate and offset risks (elaborated below).
+An important sign of the evolving power structure in Southeast Asia is
+the changing of the guard for the principal provider of regional prosperity
+and principal partner for regional architecture-building. In terms of economic relations, Southeast Asia-China trade has grown faster than
+Southeast Asia–US trade. By the early 2010s, Southeast Asia’s trade with
+China was double its trade with the United States (see Table 1).
+Beyond trade, the big powers have shown uneven capacity and clout
+in other key sectors: investment, infrastructure–building partnerships, and
+region-wide institution-building in Southeast and East Asia. While the
+United States is still among the top investors in most East Asian countries,
+
+1194
+
+C. C. KUIK
+
+Table 1. Southeast Asia’s total trade with the united States and China, 1992–2019.
+Year
+
+Southeast Asia-U.S. (USD)
+
+Southeast Asia-China (USD)
+
+1992
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+
+61,706,804a
+123,665,243a
+130,764,663
+139,954,511
+152,856,281
+173,260,338
+176,233,813b
+182,859,407b
+149,296,200
+182,399,338c
+198,756,735b
+198,281,035
+205,876,144
+220,280,503
+232,032,474
+237,906,263
+252,866,393
+276,565,082
+299,761,221
+
+9,081,241a
+54,781,227a
+78,255,658
+105,868,495
+130,371,622
+160,854,479
+203,235,919
+231,329,220
+213,034,220
+292,880,786
+363,168,412
+400,205,676
+443,646,372
+480,346,580
+471,870,946
+452,572,866
+515,577,334
+589,883,904
+642,123,403
+
+Source: https://wits.worldbank.org/
+Data exclude Timor Leste.
+b
+Data exclude Myanmar.
+c
+Data exclude Myanmar and Timor Laste.
+a
+
+China is catching up fast, in part because of its BRI ventures. Meanwhile,
+parts of Asian economic integration and regional architecture have
+progressed without U.S. participation (e.g., the APT cooperation and the
+15-member Regional Comprehensive Economic Partnership, RCEP). All
+these developments are ongoing as a growing number of BRI-related connectivity projects are extending China’s infrastructure and developmental
+footprints across Southeast Asia (Harding & Tran, 2019; Kuik, 2021a;
+McCarthy, 2022).
+These structural trends present both promises and risks to Southeast
+Asian states (Choong, 2019; Kuik, 2021b, 2021c; Seah et al., 2022). While
+China’s growing developmental and diplomatic profiles have generally
+benefited most ASEAN states, its militarization activities in the South China
+Sea and other aggressive actions have raised serious concerns among the
+coastal states with territorial and maritime interests. Security stakes aside,
+some ASEAN states are also mindful of the dangers of becoming dependent
+on or even subservient to China, in the face of Beijing’s influence operations and in some cases, the use of economic coercion across the region.
+These concerns are, by and large, shared by Quad and other extra-regional
+powers courting Southeast Asian states to form a strong Indo-Pacific coalition to counter-check China (Le Thu, 2020; Medcalf, 2020).
+Nevertheless, the ASEAN states view Indo-Pacific power-balancing not as
+a straightforward solution but a spectrum of potential gains and risks.
+While welcoming the increasing availability of external forces to constrain
+
+THE PACIFIC REVIEW
+
+1195
+
+China and additional alternatives to diversify their developmental ties, the
+Southeast Asian states also perceive—in varying degrees—a range of risks,
+challenges and dangers, as elaborated below:
+ Entrapment
+In the recent years, the US–China rivalry has become more open, more direct, and more confrontational. As rivalries intensify and power relations
+become more uncertain, the risk of entrapment increases for all Southeast
+Asian states. As much as the ASEAN states would like to benefit strategically
+and economically from big-power competition, they also recognize the danger
+of being entrapped into big-power conflicts. After all, big-power intentions and
+action-reactions are top-down processes beyond any state’s control. While the
+balance-of-power logic compels small and secondary states to leverage credible countervailing forces to constrain an increasingly powerful China, they also
+realize that partnering exclusively or even too closely with the United States
+and other Quad members—especially in the defense and security domains—
+may give the impression that the ASEAN states are siding with those powers
+against China, which risks antagonizing Beijing and polarizing regional affairs.
+Excessive push-back activities also risk escalating tensions between the United
+States and China, as well as China and other powers. These developments may
+eventually turn ‘constraining’ China into ‘containing’ China. Growing US–China
+rivalry may then escalate into a hot conflict, entrapping Southeast Asia into
+Cold War-style cycles of instability, tensions, and even armed confrontation
+(Anwar, 2020; Hoang, 2021; Noor, 2021; Tan, 2020).
+ Abandonment
+Although the United States is still viewed as an indispensable power in the
+ASEAN region, some regional states feel increasingly anxious and unsure of
+the reliability of the US’s security commitment. This anxiety is attributable in
+part to the US’s fluctuating attention to the ASEAN region, and in part to several ASEAN states’ experiences with their patrons (e.g., Malaysia’s experiences
+of the British withdrawal of forces from its bases east of Suez in the late 1960s
+and Thailand’s experiences of the US’s retreat from mainland Southeast Asia
+after its defeat in the Vietnam War in 1975). Most importantly, anxiety spiked
+because of unpredictable US policies during the Trump Administration
+(2016–2020). While many regional states are pleased with the Biden administration’s pledge that ‘America is back’, most are also concerned about the
+possible revival of some form of Trumpism following the next presidential
+election. Concerns about the US’s long-term commitments are further complicated by a pattern in the US’s Asia policy: Washington would pay more
+
+1196
+
+C. C. KUIK
+
+attention to its Northeast Asian allies and Quad partners than to Southeast
+Asia (Liow, 2017; Murphy, 2021; Stromseth, 2021).
+ Regional polarization
+As the US-China rivalry broadens, there is growing fear of Cold War 2.0
+and strategic bifurcation among regional countries. Since Trump launched
+the trade war against China and pushed for ‘decoupling’ between the
+world’s two largest economies, the US’s China policy has become increasingly zero-sum in its orientation. Southeast Asian states are also increasingly
+uneasy about the growing rhetoric of ideological ‘divide’. These concerns
+and fears have aggravated after the Russia–Ukraine war began in February
+2022. As noted, unlike mainstream Western discourse which portrays the
+war and ensuing developments as a ‘democracy versus autocracy’ conflict,
+Southeast Asian states view the war more as an extension of big-power politics. In addition, while many in the West have advocated alliances as the
+principal and straightforward solution for smaller states in both Europe and
+Asia, most in Southeast Asia have continued to be allergic to a military solution. They view alliance and alignment targeted at a specific power as a
+self-fulfilling prophecy, potentially resulting in polarization and turning a
+security risk into an immediate threat.
+ Group marginalization
+As the Quad gains more momentum and more Asian and European
+second-tier powers rally behind the Indo-Pacific narratives, Southeast Asian
+states perceive the growing danger that these non-ASEAN initiatives risk
+undermining ASEAN centrality in regional affairs (Choong, 2019; Stromseth,
+2021; Hoang & Cook, 2021; Laksmana, 2020). Many in Southeast Asia,
+including those who value the regional role of the United States and other
+Quad members, have expressed such fears. Singaporean foreign minister
+Vivian Balakrishnan, for example, stated in 2018 that the Quad’s FOIP ‘does
+not adequately address if ASEAN could continue to be central to the
+region’s architecture, and whether multilateralism and the rule of law would
+remain the order of the day’ (Yong, 2018). A year later, after the AOIP was
+launched by ASEAN, the foreign minister commented that ‘[t]he Outlook
+will not stop strategic forces from pulling individual ASEAN Member States
+in different directions. ASEAN unity—the pre-requisite for ASEAN
+Centrality—will be tested’ (Ministry of Foreign Affairs Singapore, 2019).
+
+THE PACIFIC REVIEW
+
+1197
+
+Domestic roots: Drivers playing up, or down, external risks
+While ASEAN states are all mindful of the abovementioned risks and other
+dangers (e.g., big-power aggressiveness) because of their systemic positions,
+they have opted to play up or play down the risks differently because of
+different domestic reasons. Riskification, as noted, is a process of prioritization, reprioritization, and de-prioritization of certain risks over others. The
+extent and ways a state plays up some risks while playing down others are
+primarily functions of its elite’s domestic priorities, as necessitated by their
+sources of legitimacy at home.
+These riskification processes are demonstrated most clearly in the varied
+regional responses to the South China Sea. To begin, there have been persistent differences across the claimant states’ responses: Vietnam and the
+Philippines have, by and large, adopted a more direct, antagonistic
+approach to push back China’s growing maritime assertiveness. By contrast,
+the other two ASEAN claimants, Brunei and Malaysia, have opted for a
+softer stance, avoiding directly confronting Beijing and avoiding openly
+drawing in the United States and other powers into their respective South
+China Sea policy (even though they have long maintained robust defense
+linkages with those extra-regional powers). In addition, while Vietnamese
+and Philippine leaders have openly and repeatedly described China as a
+‘threat’, their counterparts in Bandar Seri Begawan, Putrajaya, and other
+ASEAN capitals have avoided using such terms and instead use such less
+confrontational terms as ‘challenge’ and ‘concern’.
+The ASEAN states’ different responses, of course, are attributable to the
+different degrees of China’s assertiveness (i.e., Beijing’s actions pose more
+direct and greater security challenges to Vietnam and the Philippines than
+to Brunei and Malaysia). However, the China factor alone cannot adequately
+explain other counter-intuitive patterns, which include: (a) why, despite
+China’s continuing maritime assertiveness (and the US’s continuing security
+commitment), the Philippines under Rodrigo Duterte (2016–2022) chose to
+downplay the maritime risks from Beijing by setting aside the Permanent
+Court of Arbitration (PCA)’s 2016 ruling on the South China Sea (but upplay the political challenges from Washington when the Barack Obama
+administration criticized Duterte’s ‘war on drugs’ policy by threatening to
+end the Philippine–US alliance); (b) why, in recent years, non-claimants
+Indonesia and Singapore have exhibited stronger stances over the South
+China Sea than claimants Brunei and Malaysia (e.g., Jakarta’s high-profile
+military exercises around Natuna and Singapore’s high-profile support for
+the 2016 PCA ruling); and (c) why, despite their strong positions on the
+South China Sea, Vietnam, the Philippines, Indonesia and Singapore—-like
+all the other ASEAN states—have been pragmatic in forging robust
+
+1198
+
+C. C. KUIK
+
+partnerships with China on a widening scope of diplomatic, economic and
+security cooperation.
+These puzzling patterns indicate that riskification is broader than securitization. Non-security risks are prioritized over security concerns when a
+grave military threat is absent. Most important, the fact that similar security
+risks posed by big-power aggressiveness (e.g., China’s maritime assertiveness) have been responded to differently by different leaders and different
+countries—despite their insistence on a similar pragmatic posture toward
+the competing major powers—highlight the domestic roots of the riskification processes.
+Specifically, the varying patterns of riskification are the results of varying
+pathways of the elite’s domestic legitimation. All ruling elites seek to justify
+and enhance their political authority to govern at home (on legitimation,
+see Alagappa, 1995; Beetham, 1991; Weber, 1947, 1978) by pursuing multiple pathways of legitimation vis-a-vis targeted domestic constituencies. In
+Southeast Asia, development- and stability-based performance legitimation
+has long been the primary pathways for the elite’s inner justification. Most
+governing elites derive their political power—and their right to rule—primarily from their performance in maximizing economic growth, internal
+order, and external stability. High performance, high authority and legitimacy; low performance, low authority and legitimacy. These sources of legitimacy necessitate that the state pursues productive external partnerships to
+draw in as much concrete benefits as possible, in ways which enable the
+elites to better perform their political and governance tasks at home.
+Indeed, it is development-based performance legitimation that explains
+why many Southeast Asian states have embraced China’s BRI-related economic statecraft, albeit in varying degrees and forms (see the articles in the
+Special Issues of Asian Perspective, Vol. 45, No. 2 and No. 4). It also explains
+why many states perceive the US’s Indo-Pacific strategy as an imbalanced
+strategy: over-investing in military and maritime security (the first chessboard of Asian geopolitics), while under-investing in the economic and
+development agenda (the second chessboard).
+Thus, the imperative of performance legitimation explains why all ASEAN
+states have pragmatically diversified their development and strategic ties
+with as many partners and in as many domains as possible. Equally important, performance legitimation also explains why some ASEAN states have
+downplayed the danger of big-power aggressiveness, casting China’s maritime assertiveness as a longer-term security concern rather than a pressing
+threat. This group of ASEAN states tends to prioritize immediate, concrete
+gains that are politically significant here and now, over potential external
+dangers in the unknown future. They acknowledge the needs to develop
+contingency measures (by pursuing multiple partnerships on an inclusive
+
+THE PACIFIC REVIEW
+
+1199
+
+and impartial manner) and to cultivate fallback positions, but these acts are
+aimed primarily at hedging against a broad range of risks rather than pushing back against a direct and immediate danger. Indeed, some of the
+ASEAN states choose to hedge lightly because they view over-reacting to
+China’s growing assertiveness as politically undesirable and strategically
+counter-productive (turning a potential concern into an instant threat).
+Thus, they avoid openly over-playing the power-balancing card, instead
+emphasize deference and reassurance over defiance and deterrence.
+Such a light-hedging approach is in contrast to the more defiant (albeit
+still selective and not across-the-board) posture by Vietnam, the Philippines
+(save for Duterte years), and to some extent, Indonesia and Singapore,
+which have opted to hedge more heavily than the other ASEAN states (on
+‘light’ versus ‘heavy’ hedging, see Kuik & Rozman, 2015; Kuik, 2020). Heavyhedgers emphasize defiance over deference; they also invest more heavily
+in risk-contingency measures than light-hedgers. The ruling elites in Hanoi,
+Manila and Jakarta cannot afford to downplay the security risks from
+China’s aggressiveness because the salience of nationalist identity-based
+legitimation compels them to project a stronger and firmer posture visa-vis Beijing, especially over the South China Sea. Given the populace’s
+anti-China sentiment, engaging in soft and compromising acts will only
+erode the elite’s legitimacy. For heavy-hedgers, while acquiring economic
+benefits and ensuring external stability are vital, these material gains must
+not be perceived as sacrificing the countries’ sovereignty and territorial stakes.
+While anti-China nationalism is a key driver motivating the elite’s higher
+riskification in Vietnam, the Philippines and Indonesia, this factor is largely
+non-existent in Singapore, a city-state with ethnic Chinese making up the
+vast majority of its 5.6 million multicultural populations. Singapore’s riskification of China-related issues is rooted more in its elite’s concerns about
+the island-state’s internal and external vulnerabilities. Internally, the elite is
+fearful that China’s influence operation will erode the socio-political foundations of Singapore’s multi-ethnic social fabric and identity. Externally, the
+elite is apprehensive of the growing tensions surrounding China in Asian
+waters will disrupt regional stability, shattering the existential conditions of
+Singapore’s open and heavily trade-dependent economy. Higher and wider
+stakes call for heavier hedging efforts.
+Thus, for Singapore and other heavy-hedgers, the elite’s domestic priority of striking a balance between performance legitimation and identity
+legitimation leads to a highly prudent riskification process. The elite’s
+greater attention to security risks—even the longer-term ones—lead these
+states to emphasize contingencies, especially military ones, more. To guard
+against power adventurism externally and to boost political authority
+
+1200
+
+C. C. KUIK
+
+internally, they invest more heavily (than light hedgers) in deterrence and
+defiance vis-a-vis China, albeit in indirect and selective ways. However, to
+reduce and offset the possibility of strategic backfiring and economic costs,
+they have also pursued the seemingly contradictory act of forging close and
+comprehensive partnerships with China, the very source of their perceived
+security risks. Hence, the heavy-hedgers, like the light-hedgers, insist on
+being inclusive and impartial when dealing with competing powers at a
+time of growing uncertainty.
+
+Southeast asian hedging: reducing and offsetting risks
+The above differences in the riskification patterns (chiefly a result of domestic factors) notwithstanding, there are commonalities across the alignment
+postures (a function of structural conditions) of individual states. All three
+attributes of hedging are discernible in Southeast Asian alignment practices: (a) an insistence on active impartiality toward the competing powers;
+(b) an inclusive diversification approach in partnering with all powers; and
+(c) an adoption of prudent contradictions to cultivate fallback positions.
+Such hedging acts—an insurance-maximizing behavior—are aimed primarily at mitigating and offsetting risks under conditions of uncertainty. This is
+different from realist-style security-maximizing ‘balancing’, where a state
+completely aligns and sides with one power against another (as opposed to
+being impartial), forming military alliances and other exclusive mechanisms
+to counter-check a specific threat. It is also different from profit-maximizing
+‘bandwagoning’, where a state sides with a predominant power
+for benefits.
+Completely aligning with one single power against another exposes
+smaller states to the risks of entrapment, abandonment, polarization and
+marginalization. To reduce and mitigate such systemic risks, the ASEAN
+states—as a group and individually—have hedged by actively pursuing
+impartial and inclusive partnerships with both competing powers. They have
+also practiced prudent contradictions, i.e., using the opposing effects of measures to counteract and offset each other, thereby reducing exposure to
+undesired eventualities. Hedging, fundamentally, is less about passively
+avoiding risks, but more about actively reducing and offsetting risks, not least
+to preserve strategic autonomy and maintain political maneuverability.
+ASEAN states have sought to offset risks by pursuing a number of mutually-counteracting practices: (a) displaying both ‘selective deference’ and
+‘selective defiance’ toward all powers (Kuik, 2020); (b) keeping their distance
+from the Quad at the group level but forging close partnership with individual Quad members at the bilateral level; and (c) ensuring roughly parallel
+progress or corresponding accommodation with both competing powers
+
+THE PACIFIC REVIEW
+
+1201
+
+(e.g., an advancement in the Southeast Asia-China cooperation tends to
+take place alongside progress in the Southeast Asia–US ties).
+Examples abound. In the face of emerging Indo-Pacific realities, virtually
+all ASEAN states—even Thailand and the Philippines, the two U.S. treaty
+allies in Southeast Asia—have repeatedly stressed that they are ‘neutral’ or
+‘non-aligned’ (not taking sides vis-a-vis the competing powers, and not
+necessarily non-alliance). Almost all ASEAN states—including Cambodia and
+Laos, two of China’s closest partners in Southeast Asia—have endeavored
+to diversify their strategic and/or developmental links with all available
+powers, some with more layers of partnerships than others. Vietnam and
+each of the founding member states of ASEAN have also pursued seemingly contradictory measures: upgrading strategic ties with their Western
+and regional partners, while simultaneously developing comprehensive
+cooperation with China, the very source of their security concerns.
+The Southeast Asian states’ prudent contradiction is also evidenced in
+their layered approach to the Quad. As noted, while the ASEAN states have
+kept distance from the Quad at the group level (including staying away
+from the idea of Quad-Plus), they have engaged individual Quad members
+bilaterally and selectively to hedge against risks at different levels. That is,
+on the one hand, all the states have, alongside their engagement with
+China, collaborated with individual Quad members primarily on concrete,
+readily achievable goals crucial to their respective elite’s governance functions, most notably pandemic assistance, developmental opportunities (in
+connectivity-building, supply chains, digital economy, etc.), and less-sensitive areas of defense cooperation (capacity-building, asset transfer, and in
+some cases, policy exchanges and joint exercises). On the other hand, however, almost all ASEAN states have avoided areas that might lead to strategic bifurcation and other dangers with domestic repercussions. Similar
+ambivalent and selective approaches can also be observed in the Southeast
+Asia’s engagement with China’s BRI and other initiatives.
+By pursuing such seemingly contradictory actions, ASEAN states underscore their impartiality and inclusivity while creating space for buffering,
+middling maneuverability and continuous cooperation for all regional states
+and their partners. The bottom line is to avoid burning bridges and to avoid
+putting all eggs in any single power’s basket. The net effects are continuously expanding multilayered partnerships. The greater the layers of
+cooperation created on an inclusive basis, the greater the space for crossissue bargaining, mutual accommodation and institutionalized coexistence
+among the partnering countries.
+Indonesia offers an illuminating example of how a non-big power seeks
+to hedge systemic risks by pursuing ‘selective defiance’ and ‘selective
+
+1202
+
+C. C. KUIK
+
+deference’, side-by-side with active impartiality and inclusive diversification
+vis-a-vis the competing powers.
+Indonesia’s China policy has demonstrated a propensity to openly—and
+selectively—defy Beijing’s will especially at sea, whist simultaneously demonstrating a quiet deference on politically-sensitive issues (e.g., allegations
+of human right abuses against Uighur Muslims in Xinjiang). Under Joko
+Widodo (Jokowi), Indonesia has shown a strong defiance over the South
+China Sea issue. Although not a claimant country, Indonesia views China’s
+extensive ‘nine-dash line’ as an encroachment into the Exclusive Economic
+Zone (EEZ) of its resource-rich Natuna Islands. Jakarta’s open defiance was
+vividly displayed when it renamed the area that falls under Indonesia’s
+claimed EEZ the ‘North Natuna Sea’. This move followed the footsteps of
+Vietnam and the Philippines, which renamed the disputed waters as ‘East
+Sea’ and ‘West Philippine Sea’, respectively. Indonesia’s defiance has also
+been exhibited by its ‘sink-the-boat’ policy as well as a series of massive
+military exercises off the Natuna Islands from 2016 to 2020, which Jokowi
+attended to draw attention to his administration’s resolve to defend
+Indonesia’s sovereignty and maritime interests.
+Such public defiance (displeasing China) has been displayed side-by-side
+with signs of quiet accommodation (pleasing China). While ‘displeasing
+China’ signals to domestic constituencies the elite’s determination to
+defend Indonesia’s national interests, ‘pleasing China’ indicates to external
+audiences Indonesia’s pragmatic approach to pursuing stable, cordial and
+mutually productive foreign relations. These contradictory measures serve
+as mutually-counteracting ‘antidotes’, sending intended signals to targeted
+audiences at different levels, while offsetting each other’s effects. By avoiding total confrontation and total compromise, Indonesia maximizes its policy independence and prioritized interests, while minimizing the risks of
+being viewed as siding with one power against another.
+Despite—and exactly because of—its defiant stance over the Natuna,
+Jakarta has shown some degree of deference to Beijing on several issues, but
+without appearing submissive. This selective and limited deference is discernible in Jakarta’s low-key stance on the Uighur Muslims in China’s Xinjiang
+Province. This stance is puzzling to some, as Indonesia is the largest Muslim
+country in the world and it is experiencing a resurgence of political Islam
+domestically. Jakarta’s selective deference to Beijing is also observable in its
+low-profile response to the July 2016 Arbitral Tribunal’s ruling in favor of the
+Philippines, a fellow ASEAN member. Indonesia, the de facto leader of
+ASEAN, not only refrained from pressuring China, it also steered clear of supporting Hanoi’s insistence on including stronger language critical of Beijing
+in the joint communique at the 2017 ASEAN meetings (Laksmana, 2016).
+
+THE PACIFIC REVIEW
+
+1203
+
+There is also evidence of Jakarta’s active impartiality and inclusive diversification vis-a-vis the competing powers. Under Jokowi, Indonesia has
+strengthened its long-standing ties with the United States, expanding
+cooperation on democratic development and good governance, while
+exploring partnerships on such emerging areas as connectivity-building,
+digital technology, climate change, and green energy (Bland, 2021;
+Laksmana, 2021). Indonesia has also further broadened bilateral defense
+engagement, for example, the special operations joint combined trainings
+in June 2021, groundbreaking for the partially US-funded Batam Naval Base
+in the Riao Islands the same month, participating in the largest-ever combined military exercises, Garuda Shield, in August 2021, and participating in
+the bilateral naval exercise, CARAT, in November 2021 (Chatmas, 2021; Pen
+Mako Korpaskhas, 2021; Reuters, 2021; Suoneto & Harsono, 2022). Beyond
+the United States, Indonesia has also diversified its strategic ties with
+numerous second-tier powers, for instance, holding 2þ2 security talks with
+Australia, Japan, Germany, Vietnam; signing a defense cooperation agreement with France in June 2021, which covers defense technology transfer,
+joint production of armaments, military education and training, peacekeeping cooperation, counter-terrorism, etc. (Nirmala, 2021; Suhenda, 2021; The
+Jakarta Post, 2022).
+Indonesia’s increasingly active alignment postures, however, are not realist-style ‘balancing’ because Jakarta has also actively enhanced its multidomain partnership with China. If Indonesia was ‘balancing’—a military
+countervailing act to contain a shared threat—it would have completely
+bandwagoned with the United States and ‘likeminded’ Indo-Pacific partners,
+forming an exclusive coalition to push back against China. It would not
+have taken the contradictory measure of simultaneously enhancing its
+cooperative ties with China. Indeed, even as the Jokowi government was
+conducting high-profile military exercises near Indonesia’s Natuna Islands,
+as well as developing strategic alignments with more defense partners as
+noted, Jakarta also made it a point to pursue these ties alongside seemingly
+opposite acts: developing an institutionalized and comprehensive cooperative mechanism with China (which were elevated to a High-level Dialogue
+Cooperation Mechanism in 2021); conducting joint naval exercises; partnering in vaccine cooperation, and accepting China’s offer to assist in salvaging
+the sunken Indonesian submarine KRI Nanggala in the strategic Lombok
+Strait (Grossman, 2021). Indonesia has also selectively embraced Beijing’s
+BRI bilaterally and supported China’s other initiatives (e.g., Asian
+Infrastructure Investment Bank).
+As observed by Dino Patti Djalal, former Indonesian ambassador to the
+United States, among Jakarta’s many partnerships, ‘Indonesia’s partnership
+with China is perhaps the most substantial’, adding that although there is
+
+1204
+
+C. C. KUIK
+
+wariness of ‘the risk of becoming too politically and strategically close to
+China’, Indonesia’s political establishment believes that ‘China represents
+“the future” in that Indonesia’s economic fortunes will be inevitably and
+increasingly tied to China’. This ambivalence has led to ‘a paradoxical tendency to be close but to also maintain some distance’ (Djalal, 2020). To
+underscore its non-alignment and bebas aktif (free and active) foreign policy, Indonesia has simultaneously enhanced its partnerships with China, the
+United States and other powers. Some of these partnerships are gradually
+evolving into de facto alignments, as evidenced by such attributes as: converging strategic outlook, high-level dialogue or consultative mechanism,
+and policy coordination. Non-alignment is pursued via multi-alignments
+(Kuik & Evans, 2022).
+Indonesia is not the only Southeast Asian state seeking to hedge the systemic risks by pursuing multilayered alignments, using them as mutuallyreinforcing and mutually-counteracting measures. Several other ASEAN
+members have also had long-standing close defense and security partnerships with multiple extra-regional powers. Some have recently developed
+similar arrangements with neighboring countries and regional powers.
+These partnerships and arrangements serve as mutually-complementary
+layers in each country’s alignment postures. Malaysia and Singapore, for
+instance, have aligned, in varying degrees, with the United States on
+defense and security, while continuing to take part in the Five Powers
+Defence Arrangements (FPDA), the consultative mechanism involving the
+United Kingdom, Australia and New Zealand. Thailand, the U.S. treaty ally,
+forged a de facto alignment with China during the Indochina conflict in the
+1970s and 1980s, and has revitalized this alignment since the 2000s. Other
+relatively new alignments which have emerged and expanded recently in
+the region include the Vietnam–US strategic partnership, Vietnam’s 2þ2
+mechanisms with Indonesia and the Philippines, the Philippine–Japanese
+defense partnership (De Castro, 2021; Kuik, 2020; Pongsudhirak, 2020;
+Tan, 2020).
+Southeast Asian states have also pursued varying mutually counteracting
+measures to offset the effects of the existing alignments. Such mechanisms
+may involve military and/or non-military means, depending on bilateral
+dynamics, available options and prevailing needs. For instance, Hanoi has
+relied on the ruling Communist Party of Vietnam (CPV)’s party-to-party ties
+with the Communist Party of China (CPC) to counteract the effects of its
+increasingly close defense and security partnership with Washington.
+Singapore has used its continuously expanding economic and functional partnerships with China to offset the sensitivity of its robust strategic alignment
+with the United States. Other original ASEAN members, including Indonesia
+and Malaysia, have leveraged their bourgeoning military cooperation,
+
+THE PACIFIC REVIEW
+
+1205
+
+alongside bilateral diplomacy and BRI-related connectivity partnership with
+China to balance their respective defense ties with the West. The reverse
+(using the Western alignments to offset China’s influence) is also true.
+In an age of ultra-uncertainty, the paradox of small-state alignment
+choices is that regional states increasingly find it necessary to pursue nonalignment (impartiality) via multilayered-alignments. This paradoxical pragmatism is needed to hedge both systemic and country-specific risks amid a
+fluid and unpredictable power structure. While an impartial, inclusive positioning serves to mitigate such systemic dangers as entrapment and abandonment, different layers of partnerships with different powers are
+developed to minimize country-level risks when they must and maximize
+elite-prioritized returns when they could.
+As noted, which risks to minimize and which opportunities to maximize
+are matters determined by the elite’s domestic priorities, as defined by their
+sources of legitimacy. The elite’s varying legitimation needs lead to varying
+riskification patterns, which in turn lead to varying hedging approaches.
+The elites in countries such as Vietnam, Singapore, Indonesia and occasionally the Philippines need to strike a balance between identity-based legitimation (i.e., conforming to nationalist sentiments, or in Singapore’s case,
+preserving its multicultural social fabric) and performance-based legitimation (ensuring growth and stability). This requires them to emphasize, or
+even magnify, security risks and other country-specific contingencies as
+much as, and even more than, developmental benefits. Such prudent riskification leads them to pay greater attention to military-based approaches,
+chiefly through investing in greater layers of armaments and alignment
+efforts (but without joining any anti-Beijing alliance). It also leads these
+elites to display greater public defiance than selective deference vis-a-vis
+China. These countries, in short, hedge more heavily than other
+regional countries.
+By comparison, other ASEAN states, like Brunei, Malaysia and Thailand,
+have hedged more lightly. Riskification-wise, they have persistently downplayed the security risks associated with the rise of China, while emphasizing concrete developmental and functional gains. Responses-wise,
+they have preferred the use of diplomatic means over confrontational
+approaches in managing inter-state disputes, while displaying greater open
+deference than selective defiance. Such sanguine riskification and its corresponding light-hedging tendencies, as noted, are in large part attributable
+to their elite’s different legitimation logic.
+
+1206
+
+C. C. KUIK
+
+Conclusion
+This essay developed a two-level riskification framework to unpack the
+dynamics of hedging behavior in an era of ultra-uncertainty. Based on the
+ASEAN states’ responses to the intensifying US–China rivalry and other
+emerging realities in the Indo-Pacific era, I argue that the smaller states’
+perceptions of risks and the possible solutions are not black-and-white, but
+shades of grey. Instead of viewing China as ‘the principal threat’ and viewing the US-led alignment as ‘the principal solution’, Southeast Asian states
+perceive a much messier world: a wide array of risks and dangers, each
+with constantly changing manifestations and magnitude, and all of which
+require intricate, mixed measures. These result in various forms of hedging
+acts, all characterized by three defining attributes: (a) active impartiality (not
+taking sides vis-a-vis the competing powers); (b) inclusive diversification
+(developing strategic and developmental ties with all powers); and (c) prudent contradictions (cautiously adopting seemingly opposite, mutually-counteracting options) aimed at offsetting multiple risks, thereby preserving a
+fallback position amid enduring uncertainty.
+The essay’s three findings are as follows. First, the shades-of-grey perceptions reflect a riskification process, where states identify, prioritize and
+deprioritize elite-defined stakes and risks based on the changing external
+and internal circumstances. Second, riskification is rooted in both structural
+and domestic factors. Under the current structural conditions, when lessthan-clear threats coincide with less-than-certain support, riskification is
+most susceptible to domestic factors, most notably elite legitimation.
+Because of an elite’s domestic need to balance different pathways of justification (e.g., the various forms of identity-based and performance-based
+legitimation), each state tends to identify and magnify some risks while
+understating others, in ways that best preserve elite authority and interests
+at home. Hence, while virtually all ASEAN states take seriously the risks of
+entrapment, abandonment, polarization and marginalization, some states
+have played up (or down) the dangers of big-power aggressiveness, interference and dependency. The two-level riskification dynamics thus explain
+why some states hedge more heavily than other countries, emphasizing
+public defiance over quiet deference, stressing strategic autonomy over
+material gain, and paying more attention to military contingency. Third,
+because risk perceptions and the attendant riskification processes are constantly subject to whims of reality, hedging is never static, but dynamic and
+adaptive, constantly evolving to meet the changing needs at different levels.
+These findings have theoretical implications for state alignment research.
+The risk-based analysis—and the riskification framework more specifically—
+challenge the security-based and threat-based paradigms, two dominant
+
+THE PACIFIC REVIEW
+
+1207
+
+schools of thought in the alignment literature. Thinking in terms of ‘risk’ is
+analytically more revealing than ‘security’ and ‘threat’ because risk is a
+more basic and fundamental factor of state external perceptions—and policy choices—than ‘security’ and ‘threat’, which are narrower and more specific in spatial and temporal terms. ‘Security’ refers to dangers that may
+affect a state’s existential conditions (e.g., military aggression or non-military threats that result in loss of territory and lives), but it does not encompass such harms, typically viewed as non-security, e.g., political interference,
+erosion of socio-political fabric, erosion of national pride, developmental
+stagnation, financial crisis, and economic dependency. In the similar vein,
+while ‘threat’ refers to potential harms that are more profound in magnitude and more immediate in the time horizon, it does not encompass possible dangers that are neither imminent nor pressing in nature. The notion of
+‘risks’, by comparison, is more broad-based, allowing for more accurate
+identification and systematic comparison across cases and time. Making
+these differentiations is analytically significant because it avoids gross generalization and conceptual over-stretching. Lumping every conceivable danger as ‘security’ or ‘threat’ would not be helpful in unpacking the variations
+in state perceptions, let alone explain the states’ policy choices. The types
+and ranges of risks a state perceives and prioritizes (or deprioritize) shape
+the state’s external outlook and alignment choices.
+There are policy implications as well. Shades-of-grey perceptions require
+a spectrum of policy options (involving multiple partners), rather than an
+either-or dichotomous choice, i.e., aligning with one side against another.
+The ongoing dominant policy discourse of depicting inter-state relations
+and alignment choices as ‘democracies versus autocracies’, ‘likeminded versus non-likeminded nations’, and ‘clear-cut threat versus clear-cut support’
+is superficial and unrealistic at best and counter-productive at worst. As
+New Zealand Prime Minister Jacinda Ardern argued at her July 2022 foreign
+policy speech in Sydney,’it is overly simplistic to see geopolitics as a contest
+between democracies and authoritarian regimes such as China, given that
+‘the world is bloody messy’ (Knott, 2022). Cautioning against viewing issues
+in ‘a black and white way‘, Ardern stressed that with tensions rising in the
+Indo-Pacific, diplomacy ‘won’t succeed’ if ‘those parties we seek to engage
+with are increasingly isolated and the region we inhabit becomes increasingly divided and polarised’, adding that governments ‘must not allow the
+risk of a self-fulfilling prophecy to become an inevitable outcome for our
+region’. Ardern’s prudent outlook is clearly shared by her counterparts in
+Southeast Asia, as discussed above. Indeed, if the notion of ‘likeminded’ in
+the Indo-Pacific discourse means ideologically adhering to liberal democratic principles, strategically getting on the US’s and Quad’s Indo-Pacific
+bandwagon to counter-balance China, and decoupling economically from
+
+1208
+
+C. C. KUIK
+
+China, there will be no takers from Southeast Asia. These attributes converge only partially with the ASEAN states’ external outlooks. Morever, they
+expose the ASEAN states to greater external risks and complicate their
+elites’ domestic tasks.
+Future research should focus on several interrelated issues. Conceptually,
+more rigorous parameters are required to better operationalize hedging as
+alignment behavior distinguishable not only from balancing and bandwagoning, but also other alignment choices (e.g., passive neutrality, one-sided
+diversification). Theoretically, more research should be done to further
+examine the causal links between the pathways of legitimation, patterns of
+riskification and forms of hedging behavior. This is a vital step to better
+explain when states hedge, why states hedge differently, and how elite’s different domestic needs to balance the policy tradeoffs lead the state to pursue different types of hedging. In terms of policy-related research, more
+systematic comparative analysis are required to better elucidate how the
+increasing global uncertainty is pushing smaller states in different regions
+to pursue non-alignment via varying forms of multi-alignment the ways
+they do.
+
+Acknowledgements
+I thank Alice D. Ba, Paul Evans, Fong Chin Wei, Lai-Ha Chan, Pak K. Lee, John
+Ciorciari, Jurgen Haacke, David Han, Yee Kuang Heng, Ann Marie Murphy,
+Belaetham Kalimuthu, Bunn Negara, Mahmud Ali, Ilango Karuppannan, Mohamed
+Jawhar Hassan, Zakaria Haji Ahmad, and the two anonymous reviewers for their
+insightful comments and input during the various stages of writing this paper. I
+also thank Zikri Rosli and Fikry A. Rahman for their superb research assistance. The
+usual caveats apply.
+
+Disclosure statement
+No potential conflict of interest was reported by the author.
+
+Funding
+This project is supported by UKM Research Grant No. GP-2020-K007581.
+
+Notes on contributor
+Cheng-Chwee Kuik is Professor in International Relations and Head of the Centre
+for Asian Studies, Institute of Malaysian and International Studies (IKMAS), National
+University of Malaysia (UKM). He is concurrently a Non-resident Fellow at the
+Foreign Policy Institute, Johns Hopkins University. Dr. Kuik’s research focuses on
+smaller states’ alignment behavior, ASEAN-based multilateralism, and Asian security. He served as Head of the Writing Team for the Government of Malaysia’s
+
+THE PACIFIC REVIEW
+
+1209
+
+inaugural Defence White Paper (2020). Cheng-Chwee is guest editor of the Special
+Issue on “Southeast Asian Responses to China’s Belt and Road Initiative” (Asian
+Perspective, Spring and Fall 2021), co-author (with David M. Lampton and Selina
+Ho) of Rivers of Iron: Railroads and Chinese Power in Southeast Asia (2020), and coeditor (with Alice Ba and Sueo Sudo) of Institutionalizing East Asia (2016). His current projects include: hedging in international relations, elite legitimation and foreign policy choices, and the geopolitics of infrastructure connectivity cooperation.
+
+ORCID
+Cheng-Chwee Kuik
+
+http://orcid.org/0000-0002-6318-085X
+
+References
+Acharya, A. (2014). Constructing a security community in Southeast Asia. Routledge.
+doi:10.4324/9781315796673
+Acharya, A. (2019). Why ASEAN’s Indo-Pacific outlook matters. East Asia Forum. https://
+www.eastasiaforum.org/2019/08/11/why-aseans-indo-pacific-outlook-matters.
+Alagappa, M. (1995). (Ed.), Political legitimacy in Southeast Asia: The quest for moral
+authority. Stanford University Press.
+Anwar, D. F. (2020). Indonesia and the ASEAN outlook on the Indo-Pacific.
+International Affairs, 96(1), 111–129. doi:10.1093/ia/iiz223
+Ba, A. (2009a). Systemic neglect? A reconsideration of US-Southeast Asia policy.
+Contemporary Southeast Asia, 31(3), 369–398. doi:10.1355/cs31-3a
+Ba, A. D. (2009b). [Re]negotiating East and Southeast Asia: Region, regionalism, and
+the Association of Southeast Asian Nations. Stanford University Press.
+Beck, U. (1992). Risk society: Towards a new modernity. SAGE Publications.
+Beetham, D. (1991). The legitimation of power. Red Globe Press London.
+Bernstein, P. L. (1996). Against the gods: The remarkable story of risk. John Wiley & Sons.
+Bertrand, J. L., Brusset, X., & Fortin, M. (2015). Assessing and hedging the cost of
+unseasonal weather: Case of the apparel sector. European Journal of Operational
+Research, 244(1), 261–276. doi:10.1016/j.ejor.2015.01.012
+Bland, B. (2021, December 12). If the U.S. is serious about China competition, it
+needs Indonesia. The New York Times. https://www.nytimes.com/2021/12/12/opinion/indonesia-us-jokowi-biden.html.
+Bump, P. (2022, March 18). The newly important American political axis: Democracy
+vs. autocracy. The Washington Post. https://www.washingtonpost.com/politics/
+2022/03/18/newly-important-american-political-axis-democracy-vs-autocracy/.
+Caballero-Anthony, M., & Gong, L. (2020). Non-traditional security issues in ASEAN:
+Agendas for action. ISEAS.
+Capie, D. (2020). The power of partnerships: US defence ties with Indonesia,
+Singapore and Vietnam. International Politics, 57(2), 242–258. doi:10.1057/s41311019-00205-8
+Chan, L. H. (2020). Strategic hedging: A “third way” for Australian foreign policy in
+the Indo-Pacific. Asia Policy, 27(3), 87–112. doi:10.1353/asp.2020.0045
+Chatmas, L. (2021, November 1). US, Indonesia commence bilateral exercise CARAT
+Indonesia. US Navy Office of Information. https://www.navy.mil/Press-Office/NewsStories/Article/2828209/us-indonesia-commence-bilateral-exercise-carat-indonesia/.
+
+1210
+
+C. C. KUIK
+
+Choong, W. (2019). The return of the Indo-Pacific strategy: An assessment. Australian
+Journal of International Affairs, 73(5), 415–430. doi:10.1080/10357718.2019.1639134
+Christensen, T. J., & Snyder, J. (1990). Chain gangs and passed bucks: Predicting alliance patterns in multipolarity. International Organization, 44(2), 137–168. doi:10.
+1017/S0020818300035232
+Ciorciari, J. D. (2019). The variable effectiveness of hedging strategies. International
+Relations of the Asia-Pacific, 19(3), 523–555. doi:10.1093/irap/lcz007
+Ciorciari, J. D. (2010). The limits of alignment: Southeast Asia and the great powers
+since 1975. Georgetown University Press.
+Ciorciari, J. D., & Haacke, J. (2019). Hedging in international relations: An introduction. International Relations of the Asia-Pacific, 19(3), 367–374. doi:10.1093/irap/
+lcz017
+Clapton, W. (2011). Risk in international relations. International Relations, 25(3),
+280–295. doi:10.1177/0047117811415480
+Corry, O. (2012). Securitisation and “riskification”: Second-order security and the politics of climate change. Millennium: Journal of International Studies, 40(2), 235–258.
+doi:10.1177/0305829811419444
+De Castro, R. C. (2021). The Philippines’ hedging between the United States and
+China: Can the Biden Administration tip the balance? Asia Policy, 28(4), 115–123.
+Djalal, D. P. (2020, January 28). New dynamics emerge in Indonesia-China relations.
+The Jakarta Post. https://www.thejakartapost.com/news/2020/01/28/new-dynamics-emerge-indonesia-china-relations.html.
+Dziedzic, S. (2022). March 9). Top intelligence chief warns China’s “troubling” strategic convergence with Russia poses threat to democracies. ABC News. https://
+www.abc.net.au/news/2022-03-09/australian-top-intelligence-chief-warns-chinaautocracy-russia/100896170.
+Emmerson, D. K. (Ed.). (2008). Hard choices: Security, democracy, and regionalism in
+Southeast Asia. Institute of Southeast Asian Studies.
+Envall, H. D. P., & Wilkins, T. S. (2022). Japan and the new Indo-Pacific order: The rise
+of an entrepreneurial power. The Pacific Review, 1–32. doi:10.1080/09512748.2022.
+2033820
+Fearon, J. D. (1997). Signaling foreign policy interests. Journal of Conflict Resolution,
+41(1), 68–90. doi:10.1177/0022002797041001004
+Fraser, B. (2010). Hedging in political discourse: The Bush 2007 press conferences. In
+U. Okulska & P. Cap (Eds.), Perspectives in Politics and Discourse (pp. 201–214).
+John Benjamins Publishing Company.
+Goh, E. (2008). Great powers and hierarchical order in Southeast Asis: Analyzing
+regional security strategies. International Security, 32(3), 113–157. https://doi.org/
+10.1162/isec.2008.32.3.113
+Greenspan, A. (2013). The map and the territory: Risk, human nature, and the future of
+forecasting. Penguin Press.
+Grossman, D. (2021). Indonesia is quietly warming up to China. Foreign Policy.
+https://foreignpolicy.com/2021/06/07/indonesia-china-jokowi-natuna-sea-militarybri-cooperation-biden-united-states/.
+Haacke, J. (2019). The concept of hedging and its application to Southeast Asia: A
+critique and a proposal for a modified conceptual and methodological framework.
+International Relations of the Asia-Pacific, 19(3), 375–417. doi:10.1093/irap/lcz010
+Haacke, J., & Ciorciari, J. D. (2022). Hedging as risk management: Insights from works
+on alignment, riskification, and strategy No. 124, IPC Working Paper Series.
+
+THE PACIFIC REVIEW
+
+1211
+
+Harding, B., & Tran, K. M. (2019). US–Southeast Asia trade relations in an age of disruption. In CSIS Briefs. https://www.csis.org/analysis/us-southeast-asia-trade-relations-age-disruption.
+Heng, Y. K. (2006). War as risk management. Routledge.
+Hoang, T. H. (2021). ASEAN navigates between Indo-Pacific polemics and potentials.
+Perspective, 49, 1–10. https://www.iseas.edu.sg/wp-content/uploads/2021/03/
+ISEAS_Perspective_2021_49.pdf.
+Hoang, T. H. & Cook, M. (2021). Is the East Asia Summit suffering erosion?
+Perspective, 61, 1–8.
+Hyland, K. (1998). Hedging in scientific research articles. John Benjamins Publishing
+Company.
+Jackson, V. (2014). Power, trust, and network complexity: Three logics of hedging in
+Asian security. International Relations of the Asia-Pacific, 14(3), 331–356. doi:10.
+1093/irap/lcu005
+Jones, D. M., & Jenne, N. (2022). Hedging and grand strategy in Southeast Asian foreign policy. International Relations of the Asia-Pacific, 22(2), 205–231. doi:10.1093/
+irap/lcab003
+Keating, V. C., & Ruzicka, J. (2014). Trusting relationships in international politics: No
+need to hedge. Review of International Studies, 40(4), 753–770. doi:10.1017/
+S0260210514000059
+Khong, Y. F. (2004). Coping with strategic uncertainty: The role of institutions and
+soft balancing in Southeast Asia’s post-cold war strategy. In J. J. Suh, P. J.
+Katzenstein, & A. Carlson (Eds.), Rethinking Security in East Asia: Identity, Power,
+and Efficiency (pp. 172–208). Stanford University Press.
+Kirk, J. (2020). From threat to risk? Exceptionalism and logics of health security.
+International Studies Quarterly, 64(2), 266–276. doi:10.1093/isq/sqaa021
+Knight, F. H. (1921). Risk, uncertainty, and profit. Houghton Mifflin.
+Knott, M. (2022, July 7). ‘The world is bloody messy’: Ardern softens stance on China.
+The Sydney Morning Herald. https://www.smh.com.au/national/the-world-isbloody-messy-ardern-softens-stance-on-china-20220707-p5azv1.html?campaign_
+id=7&emc=edit_mbae_20220708&instance_id=66025&nl=morning-briefing%3Aasia-pacific-edition&regi_id=63067313&segment_id=97870&te=1&user_id=f9388
+fed83044165b17310274cea3789.
+Koga, K. (2018). The concept of “hedging” revisited: The case of Japan’s foreign policy strategy in East Asia’s power shift. International Studies Review, 20(4), 633–660.
+doi:10.1093/isr/vix059
+Korolev, A. (2016). Systemic balancing and regional hedging: China–Russia relations.
+The Chinese Journal of International Politics, 9(4), 375–397. doi:10.1093/cjip/
+pow013
+Kuik, C. C. (2008). The essence of hedging: Malaysia and Singapore’s response to a
+rising China. Contemporary Southeast Asia, 30(2), 159–185. doi:10.1355/cs30-2a
+Kuik, C. C. (2016a). Malaysia between the United States and China: What do weaker
+states hedge against? Asian Politics & Policy, 8(1), 155–177. doi:10.1111/aspp.
+12240
+Kuik, C. C. (2016b). How do weaker states hedge? Unpacking ASEAN states’ alignment behavior towards China. Journal of Contemporary China, 25(100), 500–514.
+doi:10.1080/10670564.2015.1132714
+Kuik, C. C. (2020). Hedging in post-pandemic Asia: What, how, and why? The Asan
+Forum. https://theasanforum.org/hedging-in-post-pandemic-asia-what-how-andwhy/
+
+1212
+
+C. C. KUIK
+
+Kuik, C. C. (2021a). Irresistible inducement? Assessing China’s Belt and Road Initiative
+in Southeast Asia. Council on Foreign Relations. https://www.cfr.org/sites/default/
+files/pdf/kuik_irresistible-inducement-assessing-bri-in-southeast-asia_june-2021.pdf
+Kuik, C. C. (2021b). Getting hedging right: A small-state perspective. China
+International Strategy Review, 3(2), 300–315. doi:10.1007/s42533-021-00089-5
+Kuik, C. C. (2021c). Asymmetry and authority: Theorizing Southeast Asian responses
+to China’s Belt and Road Initiative. Asian Perspective, 45(2), 255–276. doi:10.1353/
+apr.2021.0000
+Kuik, C. C. (2021d). The twin chessboards of US-China rivalry: Impact on the geostrategic supply and demand in post-pandemic Asia. Asian Perspective, 45(1),
+157–176. doi:10.1353/apr.0.0010
+Kuik, C. C. (2022). Southeast Asian states and ASEAN: A center of courtships and
+cooperation. In D. Shambaugh (Ed.), International Relations of Asia (3rd ed.) (pp.
+189–227). Rowman & Littlefield Publishers.
+Kuik, C. C., Idris, N. A., & Md Nor, A. R. (2012). The China factor in the U.S.
+“reengagement” with Southeast Asia: Drivers and limits of converged hedging.
+Asian Politics & Policy, 4(3), 315–344. doi:10.1111/j.1943-0787.2012.01361.x
+Kuik, C. C., & Rozman, G. (2015). Light or heavy hedging: Positioning between China
+and the United States. Joint U.S.-Korea Academic Studies, 25, 2–9.
+Kuik, C. C., & Evans, P. (2022). ASEAN and Ukraine: Non-alignment via multi-alignment? TI Observer, 21, 23–29.
+Lake, D. A. (1996). Anarchy, hierarchy, and the variety of international relations.
+International Organization, 50(1), 1–33. doi:10.1017/S002081830000165X
+Laksmana, E. A. (2016). The domestic politics of Indonesia’s approach to the Tribunal
+ruling and the South China sea. Contemporary Southeast Asia, 38(3), 382–388.
+Laksmana, E. A. (2020). Whose centrality? ASEAN and the Quad in the Indo-Pacific.
+Journal of Indo-Pacific Affairs, 3(5), 106–177. https://media.defense.gov/2021/Mar/
+12/2002599864/-1/-1/0/6-LAKSMANA.PDF/TOC.pdf.
+Laksmana, E. A. (2021). A fragile fulcrum: Indonesia-US military relations in the age
+of great-power competition. Asia Policy, 28(4), 106–114. doi:10.1353/asp.2021.
+0057
+Le Thu, H. (2020). Southeast Asia and Indo-Pacific concepts: From resistance to reticence to reaction. Security Challenges, 16(3), 53–57.
+Leifer, M. (1996). The ASEAN Regional Forum. The Adelphi Paper, 36(302).
+Lim, D. J., & Cooper, Z. (2015). Reassessing hedging: The logic of alignment in east
+Asia. Security Studies, 24(4), 696–727. doi:10.1080/09636412.2015.1103130
+Liow, J. C. (2017). Ambivalent engagement: The United States and regional security in
+Southeast Asia after the Cold War. Brookings Institution Press.
+Mako Korpaskhas, P. (2021, June 4). Latma Teak Spear Iron 2021, Korpaskhas TNI AU
+dan US SOCPAC latihan menembak. TNI Angkatan Udara. https://tni-au.mil.id/
+latma-teak-spear-iron-2021-korpaskhas-tni-au/.
+Martin, P. (2021, December 14). Blinken blasts China, seeks to rally US allies in Asia.
+Bloomberg. https://www.bloomberg.com/news/articles/2021-12-13/blinken-seeksto-bolster-southeast-asia-ties-to-counter-china.
+McCarthy, J. (2022, January 20). With US focused on defense, China’s trade and infrastructure sweep Southeast Asia. The NPR Daily. https://www.npr.org/2022/01/20/
+1073764647/us-china-southeast-asia-trade-defense.
+Medcalf, R. (2020). Indo-Pacific empire: China, America and the contest for the world’s
+pivotal region. Manchester University Press.
+
+THE PACIFIC REVIEW
+
+1213
+
+Ministry of Foreign Affairs Singapore (2019, August 5). Minister for foreign affairs Dr
+Vivian Balakrishnan’s written reply to parliamentary question. https://www.mfa.gov.
+sg/Newsroom/Press-Statements-Transcripts-and-Photos/2019/08/05-Aug_MinWritten-PQ-Reply.
+Morrow, J. D. (1993). Arms versus allies: Trade-offs in the search for security.
+International Organization, 47(2), 207–233. doi:10.1017/S0020818300027922
+Morrow, J. D. (2000). Alliances: Why write them down? Annual Review of Political
+Science, 3(1), 63–83. doi:10.1146/annurev.polisci.3.1.63
+Murphy, A. M. (2021). America is back? Opportunities and obstacles to restoring U.S.
+credibility in Southeast Asia. Asia Policy, 28(4), 66–76. doi:10.1353/asp.2021.0060
+Nguyen, P. (2020, September 10). Pompeo tells Southeast Asia to stand up to China, shun
+its firms. Reuters. https://www.reuters.com/article/us-asean-summit-idUSKBN2611XI.
+Nirmala, R. (2021, November 2). US to boost strategic partnership with Indonesia
+amid China rivalry. BenarNews. https://www.benarnews.org/english/news/indonesian/us-indonesia-boost-relations-france-11022021152228.html.
+Noor, E. (2021, November 26). Malaysia on the horns of an AUKUS dilemma. Asia
+Times. https://asiatimes.com/2021/11/malaysia-on-the-horns-of-an-aukus-dilemma/.
+Parameswaran, P. (2022). Elusive balances: Shaping US-Southeast Asia strategy.
+Springer. doi:10.1007/978-981-16-6612-4
+Petersen, K. L. (2012). Risk analysis:A field within security studies? European Journal
+of International Relations, 18(4), 693–717. doi:10.1177/1354066111409770
+Pongsudhirak, T. (2020). Thailand’s strategic drift: Domestic determinants amidst
+superpower competition. Australian Strategic Policy Institute. http://www.jstor.org/
+stable/resrep25080.
+Rajagopalan, R. (2020). Evasive balancing: India’s unviable Indo-Pacific strategy.
+International Affairs, 96(1), 75–93. doi:10.1093/ia/iiz224
+Reuters (2021, August 5). Indonesia hails “new era” for US ties, hosts biggest joint military drills. https://www.reuters.com/world/asia-pacific/indonesia-hails-new-era-usties-hosts-biggest-joint-military-drills-2021-08-05/.
+Sanger, D. E. (2021, March 26). Biden defines his underlying challenge with China:
+‘Prove democracy works.’ The New York Times. https://www.nytimes.com/2021/03/
+26/us/politics/biden-china-democracy.html.
+Schweller, R. L. (1994). Bandwagoning for profit: Bringing the revisionist state back
+in. International Security, 19(1), 72–107. doi:10.2307/2539149
+Seah, S., Lin, J., Suvannaphakdy, S., Martinus, M., Thao, P. T. P., Seth, F. N., & Ha, H. T.
+(2022). The state of Southeast Asia: 2022 survey report. https://www.iseas.edu.sg/
+wp-content/uploads/2022/02/The-State-of-SEA-2022_FA_Digital_FINAL.pdf.
+Snyder, G. H. (1984). The security dilemma in alliance politics. World Politics, 36(4),
+461–495. doi:10.2307/2010183
+Storey, I. (2011). Southeast Asia and the rise of China. Routledge.
+Storey, I. (2020). China–Southeast Asia relations in the era of Xi Jinping. In A. S. Ding
+& J. P. Panda (Eds.), Chinese Politics and Foreign Policy under Xi Jinping (pp.
+235–254). Routledge. doi:10.4324/9781003041481
+Stromseth, J. (2021). ASEAN and the Quad: Strategic impasse or avenue for cooperation? Brookings. https://www.brookings.edu/blog/order-from-chaos/2021/09/23/
+asean-and-the-quad-strategic-impasse-or-avenue-for-cooperation/.
+Suhenda, D. (2021, November 25). Indonesia, France extend strategic partnership,
+discuss Indo-Pacific. The Jakarta Post. https://www.thejakartapost.com/world/
+2021/11/24/indonesia-france-extend-strategic-partnership-discuss-indo-pacific.html.
+
+1214
+
+C. C. KUIK
+
+Suoneto, N., & Harsono, H. (2022, February 16). A new era of US-Indonesia relations? The
+Diplomat. https://thediplomat.com/2022/02/a-new-era-of-u-s-indonesia-relations/.
+Taleb, N. N. (2018). Skin in the game: Hidden asymmetries in daily life. Random House.
+Tan, S. S. (2020). Consigned to hedge: South-east Asia and America’s “free and open
+Indo-Pacific” strategy. International Affairs, 96(1), 131–148. doi:10.1093/ia/iiz227
+The Jakarta Post (2022, February 10). Indonesia signs deal with France to buy 6 Rafale
+warplanes. https://www.thejakartapost.com/indonesia/2022/02/10/indonesia-signsdeal-with-france-to-buy-6-rafale-warplanes-.html.
+The Japan Times (2022, March 12). In veiled criticism of China, Abe urges unity against
+attempts to alter status quo. https://www.japantimes.co.jp/news/2022/03/12/
+national/politics-diplomacy/abe-malaysia-ukraine-china/.
+The White House (2022, May 21). Remarks by President Biden and President Yoon Suk
+Yeol of the Republic of Korea in Joint Press Conference. https://www.whitehouse.
+gov/briefing-room/speeches-remarks/2022/05/21/remarks-by-president-biden-andpresident-yoon-suk-yeol-of-the-republic-of-korea-in-joint-press-conference/.
+Tunsjø, Ø. (2010). Hedging against oil dependency: New perspectives on China’s
+energy security policy. International Relations, 24(1), 25–45. doi:10.1177/
+0047117809340543
+Wallander, C. A., & Keohane, R. O. (1999). Risk, threat and security institutions. In
+R. O. Keohane (Ed.), Power and Governance in a Partially Globalized World (pp.
+88–115). Routledge.
+Walt, S. M. (1985). Alliance formation and the balance of world power. International
+Security, 9(4), 3–43. doi:10.2307/2538540
+Waltz, K. (1979). Theory of the international politics. Waveland Press, Inc.
+Weber, M. (1947). The theory of social and economic organization. Oxford University
+Press.
+Weber, M. (1978). Economy and society: An outline of interpretive sociology. University
+of California Press.
+Wilkins, T. (2021). Middle power hedging in the era of security/economic disconnect:
+Australia, Japan, and the ‘Special Strategic Partnership’. International Relations of
+the Asia-Pacific, 1–35. doi:10.1093/irap/lcab023
+Working, H. (1953). Futures trading and hedging. The American Economic Review,
+43(3), 313–343.
+Yong, C. (2018, May 14). Singapore not joining US, Japan-led free and open IndoPacific for now: Vivian Balakrishnan. The Straits Times. https://www.straitstimes.
+com/singapore/singapore-not-joining-us-japan-led-free-and-open-indo-pacific-fornow-vivian-balakrishnan.
+
+

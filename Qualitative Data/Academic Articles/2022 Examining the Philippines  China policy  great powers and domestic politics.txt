@@ -1,0 +1,1062 @@
+Australian Journal of International Aﬀairs
+
+ISSN: 1035-7718 (Print) 1465-332X (Online) Journal homepage: www.tandfonline.com/journals/caji20
+
+Examining the Philippines’ China policy: great
+powers and domestic politics
+Xiangning Wu & Joseph Ching Velasco
+To cite this article: Xiangning Wu & Joseph Ching Velasco (2022) Examining the Philippines’
+China policy: great powers and domestic politics, Australian Journal of International Aﬀairs,
+76:6, 672-693, DOI: 10.1080/10357718.2022.2085242
+To link to this article: https://doi.org/10.1080/10357718.2022.2085242
+
+Published online: 10 Jun 2022.
+
+Submit your article to this journal
+
+Article views: 2441
+
+View related articles
+
+View Crossmark data
+
+Citing articles: 5 View citing articles
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=caji20
+
+AUSTRALIAN JOURNAL OF INTERNATIONAL AFFAIRS
+2022, VOL. 76, NO. 6, 672–693
+https://doi.org/10.1080/10357718.2022.2085242
+
+Examining the Philippines’ China policy: great powers and
+domestic politics
+Xiangning Wua and Joseph Ching Velascob
+a
+
+Department of Government and Public Administration, University of Macau, Taipa, Macau; bDepartment of
+Political Science and Development Studies, De La Salle University, Manila, Philippines
+ABSTRACT
+
+KEYWORDS
+
+When great powers such as the United States and China grow
+especially hawkish with more uncertainties, how does a smaller
+state react to such a complex and dangerous territorial conﬂict?
+Given the competing frames of inﬂuence between China and the
+United States, what are the underlying reasons for the shift in the
+Philippines’ foreign policy? This paper focuses on the Philippines’
+changing foreign policy on the South China Sea dispute and
+examines the main rationale for its shift in strategy towards
+China. We use the perspective of neoclassical realism to unpack
+the constraining factors that underlie the Philippines’ domestic
+politics and ongoing global exigencies. With changes in its
+domestic politics and the security challenges posed by the
+evolving geopolitics of the Indo-Paciﬁc region, the Philippines is
+in a diﬃcult situation, having to choose between a territorially
+hostile trading partner and its historical security guarantor.
+
+Sino-Philippine relations;
+Philippine foreign policy;
+South China Sea dispute; US
+Indo-Paciﬁc strategy
+
+Introduction
+Sino-Philippine relations have been ‘one of the most volatile interstate relationships in
+recent memory’ (Heydarian 2017a, 573). China and the Philippines have overlapping
+claims in the South China Sea (SCS), particularly over the Spratly Islands, Scarborough
+Shoal, and more recently, the Whitsun Reef. Over the past decade, Sino-Philippine
+relations have been characterised by complex adversarial dynamics, particularly during
+President Benigno ‘Noynoy’ Aquino III’s administration. The Scarborough Shoal
+standoﬀ in 2012 led to the immense souring of Beijing and Manila’s bilateral relationship.
+In 2013, the Philippines initiated proceedings against China at the Permanent Court of
+Arbitration (PCA), an act which subsequently heightened tensions between the two
+countries.
+The Philippines contended that ‘the recourse to arbitration [was] an open and friendly
+attempt to ﬁnd a durable solution to the increasing tension in the SCS (Department of
+Foreign Aﬀairs 2013). However, China refused to participate or acknowledge the proceedings. The PRC Ministry of Foreign Aﬀairs (2016) asserted that the ‘unilateral
+initiation of arbitration by the Philippines [was] out of bad faith’ and the ‘award [was]
+null and void and [had] no binding force.’ China could not acknowledge the ruling
+CONTACT Xiangning Wu
+
+xiangningwu@um.edu.mo
+
+© 2022 Australian Institute of International Aﬀairs
+
+AUSTRALIAN JOURNAL OF INTERNATIONAL AFFAIRS
+
+673
+
+‘because to do so would surrender its claim to be a rising power’ (Zhao 2018, 8). Conversely, other Southeast Asian countries welcomed the arbitration award. Storey (2016)
+opined that
+the award not only [represented] a legal victory for the Philippines but also one for Vietnam,
+Malaysia, Brunei and Indonesia in that the judges ruled that China cannot legally exploit
+maritime resources in areas where the nine-dash line overlaps with those countries’ EEZs.
+
+Nevertheless, without a long-term resolution to the conﬂicting claims of multiple parties,
+the SCS continues to be a regional security problem (Swe 2014) and an enduring
+dilemma for China, the Philippines, and other claimants. This is further inﬂected by
+the ongoing US–China rivalry and increasing Indian and Japanese involvement in the
+Indo-Paciﬁc region (Hong 2013, 38).
+The tensions subsided partially after President Rodrigo Duterte came into power in
+2016, which brought the Philippines economically closer to China. Noticeable, there
+has been a deepening of trade and investment links between Beijing and Manila, and
+China has become the Philippines’ largest trading partner (Rabena 2018). In 2019,
+China was ranked the largest source of foreign direct investments in the Philippines (Santander Trade 2021). However, the Philippines must constantly balance these economic
+beneﬁts with security concerns pertaining to its asymmetrical relationship with China.
+Moreover, there has been a global shift in power relations and the ‘changes in the Philippines’ foreign policy [have been] responses to China’s growing power and uncertainty
+about US commitments in the region’ (Tran 2018, 1).
+As the pillar of Asia’s security architecture, US bilateral security alliances in the region
+have been further reinforced by the US’s Indo-Paciﬁc strategy, which on an abstract level
+has been framed as a ‘geopolitical rivalry between free and repressive world visions’
+(Summers 2021, 8). More tangibly, the Indo-Paciﬁc strategy has been Washington’s
+response to the rise of China and the subsequent changes in the regional landscape
+(Liu 2020). The brewing competition for inﬂuence between China and the United
+States has led the Philippines to vacillate between the two powers. Despite increases in
+Sino-Philippine trade and economic linkages, the Philippines continued to be relevant
+to US national interests in the region (USAID 2021). In exploring this facet of Sino-Philippine relations, we ask the following questions: First, what are the possible rationales for
+the Philippines’ strategic shift towards China? Second, what are the underlying factors
+that account for substantial diﬀerences between the previous and current approaches?
+Interactions between the US and China in recent years have raised systemic uncertainties and unpredictability to an all-time high. Why has the Philippines’s response changed
+from Aquino III’s policy of balancing to Duterte’s policy of hedging? Previous studies
+examined the various related factors. Ross (1999) argues that the geographic characteristics of the Philippines are one of the primary factors to consider when examining the
+country’s China policy. Ross asserts that continental countries in Southeast Asia tend
+to adopt bandwagon strategies in relation to China, while maritime countries like the
+Philippines tend to adopt balancing strategies. Chang (2019) believes that the Philippines
+needs to turn to the SCS as a possible alternative energy source, as the Philippines is
+threatened by shocks in the global oil supply chain and limited by a lack of onshore
+energy reserves. Kurlantzick (2021) addressed the signiﬁcance of Duterte’s populist leadership. Zhu and Liu (2016) aﬃrm that the US’s policy in Southeast Asia and Philippine
+domestic politics have been the most crucial factors. This paper contends that a
+
+674
+
+X. WU AND J. C. VELASCO
+
+combination of factors relating to the Philippines’ domestic political milieu and the
+dynamics of the international system have signiﬁcant consequences on the country’s
+policy towards China. The international structural factors substantially shape the Philippines’ response while the unit-level variables such as political leaders’ perceptions and
+domestic politics explain Philippine policy changes: from balancing to hedging in
+dealing with the relations with China. First, the Philippines’ policies and strategies
+have been considerably constrained by Chinese and US interests. Exclusively siding
+with China or the US has led to heightened risks for the Philippines and also limited
+the possible range of strategies that the Philippines can deploy. Second, the economic linkages between the Philippines and China have undergone changes, which can explain
+why the Philippines has altered its policies towards China. Moreover, security ties with
+Washington take the dominant position in Manila’s foreign policy consideration.
+Third, the Philippines’ foreign policy agenda is open to a high degree of personalisation
+because domestic politics in general is highly personalised (Zha 2015), and foreign policy
+is primarily an executive function usually dominated by the president (Balboa 2020). This
+has inﬂuenced the variability of the Philippines’ foreign policy and aﬀected the dynamics
+of its relationship with China. The perceptions of the Philippine political leaders, as well
+as the geopolitical dynamics of great powers, shape the Philippines’ policies toward
+China.
+The arguments are elaborated further in four parts. Through neoclassical realism, we
+explain the complex web of international structural constraints and domestic political
+realities, within which the Philippines has developed its foreign policy towards China.
+Then, we review and reﬂect on changes in the Philippines’ foreign policy between
+Benigno Aquino III’s and Rodrigo Duterte’s administrations, focusing speciﬁcally on
+Aquino III’s policy of balancing and Duterte’s policy of hedging. The case of the Scarborough Shoal Standoﬀ in 2012 substantially demonstrates the complexity of Sino-Philippine relations. Philippine foreign policy under the Duterte administration highlighted
+his personal approach to Philippine politics and his subsequent responses to external
+constraints. Ultimately, we seek to elucidate the diﬀerent possible motivators underlying
+the dynamics of the Philippines’ policies towards China.
+
+The complex web of factors underpinning Philippine foreign policy
+towards China: issues and challenges
+The Philippines has developed its foreign policy towards China within a complex web of
+strategic opportunities and dilemmas, which has been shaped by international structural
+constraints and domestic political realities. The scope and ambition of a country’s foreign
+policy are determined by the material capabilities of the state and the relative power distributions in the international system (Rose 1998). Meanwhile, the senior oﬃcials of the
+state are constrained by state power, deﬁned as the relative ability of the state to extract
+and mobilise resources from domestic society; it also shapes the types of internal balancing strategies that countries are likely to pursue (Zakaria 1998).
+Ripsman (2011) believes structure must be interpreted by agents and responded to
+within domestic political institutions that may delegate decision-making authority to
+agents. International imperatives, through the medium of the state structure, aﬀect
+how top oﬃcials assess likely threats and identify viable strategies in response to such
+
+AUSTRALIAN JOURNAL OF INTERNATIONAL AFFAIRS
+
+675
+
+threats (Lobell, Ripsman, and Taliaferro 2009). When the international system sends
+clear signals to states, Schweller (2004) argues that four domestic political variables
+lead to under-balancing—a failure to balance appropriately: elite consensus and cohesion, which aﬀect the state’s willingness to balance; and government/regime vulnerability
+and social cohesion, which explain the state’s ability to extract resources from society to
+implement a balancing strategy. However, when international circumstances do not prescribe ideal policies, Ripsman (2009) argues that the actual choices states make have far
+more to do with the worldviews of leaders, the strategic cultures of the states they lead,
+the nature of the domestic coalitions they represent, and domestic political constraints on
+their ability to enact and implement various policy alternatives. Therefore, how senior
+oﬃcials perceive relative power matters even more than the relative quantities of physical
+resources (Rose 1998). Hence, domestic factors and individual factors are signiﬁcant in
+the observation of changes in countries’ foreign policies (Gvalia et al. 2013). The impact
+of the international system on national behaviour diﬀers because of the perceptions of the
+decision-makers and state structures (Wohlforth 1993).
+Neoclassical realists do not provide a precise theoretical account of how psychological,
+ideational, and cultural factors may aﬀect the way political actors perceive their own and
+others’ capabilities or how such perceptions are translated into foreign policy. However,
+as an ‘outside-in’ approach to the analysis of state behaviour and international politics
+(Götz 2021), neoclassical realism explains variations in the foreign policies of the same
+state over time and the possible diplomatic, economic, and military responses of particular states to systemic imperatives. Our analytical framework posits that the Philippines’
+foreign policy is rooted in structural and domestic factors, with a particular emphasis on
+domestic factors. The uncertainties brought by great powers motivate the Philippines to
+make policy changes. The Philippines’ domestic dynamics which include the political
+elites’ interests, the president’s ideas, unique political culture, nationalist pressures,
+and domestic political constraints from various interest groups have an inﬂuence on
+the response to the structural uncertainties.
+The continuous cyclical competition and possible confrontation between China
+and the US created more unpredictability and uncertainties in the region, which
+determines the structural conditions where the Philippines can make relevant
+responses. The Philippines, as the US’s ally, has tended to have a China policy that
+has been restrained or at least inﬂuenced by the US’s China strategy (Ortuoste
+2013). From the ‘pivot to Asia’ strategy of Obama’s administration to the IndoPaciﬁc Strategy of Trump’s administration, the U.S. vision for Asia-Paciﬁc has
+become more apparent, that is, to become a geopolitical counterweight against
+China. With an economically and militarily stronger China, China’s intention to
+assert more inﬂuence in the region substantially brings up more uncertain geopolitical
+dynamics. Chinese construction of the artiﬁcial islands in the SCS is recognised as a
+provocative manoeuvre and a challenge to international norms. These compel ASEAN
+members including the Philippines to walk on a tightrope and vacillate between
+powers through a host of strategies, such as balancing–just as the Philippines opted
+to entirely align with the US in order to counterbalance China militarily under
+Benigno Aquino III (Lai and Kuik 2021), bandwagoning, hedging—not picking
+sides and actively developing back-up alternatives, light-hedging or heavy hedging
+(a term coined by Kuik and Rozman 2015).
+
+676
+
+X. WU AND J. C. VELASCO
+
+The power disparity between China and the Philippines has aﬀected both countries’
+foreign policy agendas (Thayer 2010; Tolentino and Ham 2015). Southeast Asia has
+been distrustful of China for reasons that can be traced back to the Cold War and
+Chinese policies in the 1960s. Speciﬁcally, China provided support to local communist
+insurgent groups in Southeast Asia which led to a host of domestic issues (Ba 2003).
+China’s rapid rise has recently been a signiﬁcant source of concern for Southeast
+Asian countries, and the Philippines has perceived this growth to be aggressive and
+expansionist (Le Thu 2019). China’s expansive maritime territorial claims have further
+enhanced the Philippines’ distrust towards China. A counterbalance, however, to the perceived threat that China poses has been the expected economic and social beneﬁts.
+Graham (2013) and Chen and Yang (2013) argue that in cases wherein the threat level
+is low and the beneﬁt level is high, Southeast Asian states tend to choose a ‘bandwagon’
+approach to China, whereas if the threat and risk level are both high, they tend to hedge
+between China and the US. In the case of the Philippines, both of these factors have been
+instrumental in shaping the Philippines’ foreign policy towards China (Graham 2013;
+Roy 2005).
+Shoji and Tomikawa (2017, 137) opine that the ‘United States has had an overwhelming inﬂuence on the Philippines in virtually every aspect of the bilateral relationship,
+including security, politics, economy and culture.’ The Philippines initially allowed
+American presence on its shores through the 1947 Military Bases Agreement. Speciﬁcally, the US was allowed to establish military bases in the Philippines for 99 years but
+later shortened to 25 years (Candelaria and Mendoza 2016). The Mutual Defence
+Treaty (MDT) signed in 1951, is the most overt indicator of the Philippines’ security
+reliance on the US. This has encouraged Manila to support Washington’s strategic objectives in the region as manifested by its subsequent accession to the Philippine–United
+States Visiting Forces Agreement (VFA). Article 5 of the MDT states that an attack on
+either the US or the Philippines ‘is deemed to include an armed attack on the metropolitan territory of either of the Parties, or on the island territories under its jurisdiction in
+the Paciﬁc or on its armed forces, public vessels or aircraft in the Paciﬁc’ (Yale Law
+School 2008). Philippine Defence Secretary Renato De Villa expressed in conﬁdence in
+1992, ‘if we are attacked from the outside—which is not likely to happen in the ﬁrst
+place—if the Philippine government invoked this treaty, then the US will have to
+come to our aide in defending us’ (Fox 2021, 70).
+The US initially failed to clarify the extent to which the MDT would be initiated,
+should a conﬂict between China and the Philippines transpire (Heydarian 2017a).
+There has been a lingering concern about the extent to which the treaty compels the
+US to intervene (Taylor 2011), in the absence of convincing strategic assurances from
+the US. However, the Enhanced Defence Cooperation Agreement (EDCA) was signed
+to allow rotational American presence in the Philippines (Oﬃcial Gazette 2014) and Secretary of State Mike Pompeo clariﬁed that the SCS is indeed part of the Paciﬁc, and that
+any armed attack on the Philippine forces, aircraft, or public vessels in the SCS would
+trigger mutual defence obligations. However, the aforementioned intricacies of the
+MDT leave the Philippines ﬂexibility in its approach to China, especially with issues pertaining to the SCS (De Castro 2014c). The US expectation with regard to democratic
+practice and human rights, and the condemnation of Duterte’s bloody war on drugs
+drove Duterte to re-orient the Philippines away from the US (Murphy 2017). Duterte’s
+
+AUSTRALIAN JOURNAL OF INTERNATIONAL AFFAIRS
+
+677
+
+approach signals a deviation from Aquino III’s foreign policy dominated by ‘the promotion of the Philippines’ maritime interests and sovereign rights in the SCS’ (Baviera
+2016, 202). Duterte emphasises ‘peaceful coexistence’ and possible consideration of
+joint ventures for the supposed mutual interests of both the Philippines and China
+(Baviera 2016, 206).
+With regard to the Philippines’ domestic political structure, the country has a presidential cabinet system that gives the president the power to formulate and implement
+foreign policy. Medeiros et al. (2008, 99) argue that ‘the Philippine political system is
+and has always been personality driven.’ Baviera (2012, 10) further notes that within
+the Philippines’ personality-driven politics, there are no institutionalised or programfocused parties and, by extension, Philippine ‘diplomacy is far from being immune to
+patronage politics.’ Philippine foreign policy is therefore not immune from the personal
+will and preferences of the country’s president. With the president playing the role of the
+chief architect of foreign policy, the country’s foreign aﬀairs bureaucracy is in constant
+danger of being sidelined. Once a transition of power takes place, the new president
+may delegitimise their predecessor by attacking their domestic and foreign policies.
+The winning administration appeals to the dominant socio-political zeitgeist while simultaneously discrediting the preceding administration’s domestic and foreign policies.
+The president may deploy foreign policy to bolster domestic legitimacy. Meanwhile,
+the opposing faction may also leverage such decisions to discredit the incumbent
+leader. Unsurprisingly, transitions of power in the Philippines are always followed by
+changes in Philippine foreign policy towards China, e.g. Gloria Macapagal-Arroyo’s
+equibalancing approach (Heydarian 2017b), Aquino’s balancing approach (De Castro
+2014a), and Duterte’s hedging approach (Quintos 2018). Philippine foreign policy
+towards China has been shaped by domestic political realities and markedly inﬂuenced
+by individual leaders, particularly the president (Murphy 2017).
+After the collapse of the Marcos dictatorship, the Philippines embarked on a path of
+democratisation. However, factions in the Philippine military have frequently launched
+coup d’états against civilian governments or attempted to seize power in other ways (De
+Castro 2017). Lee (2020) reveals that the Philippine military was involved in the resignation of former President Joseph Estrada and the subsequent bolstering of the Arroyo
+administration. Notably, members of the armed forces have ‘engaged in more subtle
+and complex forms of political participation which are in conﬂict with the norms, principles, and practices with democratic civil-relations’ (Arugay 2011, 85). The politicised
+nature of the Philippine armed forces has thus led to a complex relationship between
+them and the presidency. The relationship between the president and the military has
+possibly aﬀected the latter’s legitimacy to fulﬁl the mandate of the position and subsequently the path of Philippine foreign policy. Duterte has mitigated a military backlash
+by providing them with ‘side payments’ in exchange for support of his ‘unpopular foreign
+and defence policies’ (De Castro 2017, 557). Aquino III, on the other hand, pursued the
+strategy of continued military modernisation (Domingo 2015; Simon 2013).
+Overall, the foreign policy of the Philippines towards China has been inﬂuenced by a
+constellation of mediating factors, such as interstate power dynamics and domestic politics. Zhu and Liu (2016) aﬃrm that two of these factors have been most crucial: the US’s
+policy in Southeast Asia and Philippine domestic politics. To better explain how speciﬁc
+domestic and international factors have inﬂuenced actions taken and policies adopted by
+
+678
+
+X. WU AND J. C. VELASCO
+
+the Philippines, we ﬁrst examine the case of the Scarborough Shoal Standoﬀ in 2012,
+which has had far-reaching implications. It continues to be an enduring issue in SinoPhilippine relations and is a compelling signiﬁer of the rapidly changing power conﬁguration in the region. It is also considered the barometer of the United States’ willingness to
+assist the Philippines concerning Chinese territorial expansion (Morris 2019).
+
+The Scarborough Shoal Standoﬀ: a geopolitical confrontation between
+China and the Philippines
+In April 2012, the hostilities between China and the Philippines reached an all-time high,
+with both countries dispatching military units to confront vessels in the disputed areas.
+The Scarborough Shoal standoﬀ lasted for two months and increased the tension between
+China and the Philippines. This tension was exacerbated by the Philippines’ unilateral
+termination of the Joint Marine Seismic Undertaking (JMSU) project and its subsequent
+strengthening of military relations with the US, Japan, and Vietnam in a move against
+China. The Department of Foreign Aﬀairs of the Philippines issued an eight-point statement that all political and diplomatic means for a peaceful dispute settlement ought to be
+exhausted. Communications between Beijing and Manila were poor, and traditional diplomatic channels were ineﬀective (De Castro 2014b). There was no structured dialogue
+between Philippine and Chinese leadership. After months of painstaking negotiations
+facilitated by Washington, both sides eventually agreed on a mutual disengagement
+deal to initiate de-escalation. In the end, the Philippines withdrew while China did
+not. China cordoned oﬀ the area and took control of Scarborough Shoal. In response,
+the Philippines took up the dispute internationally, accusing China at the UN General
+Assembly and initiating an arbitration case against China at the Permanent Court of
+Arbitration. On one occasion, Aquino sought to engage China shortly after President
+Xi came to oﬃce, but China insisted that the Philippines drop its arbitration case as a
+precondition for high-level talks. Bilateral ties plunged to a level not seen since the
+end of the Cold War.
+
+The signals from international constraints
+During the Scarborough Shoal standoﬀ, two external factors—the Chinese and American
+factors—constrained the Aquino administration’s possible range of responses. With the
+Philippines’ relative military disadvantage and a lack of commitment from ASEAN
+countries, the Aquino administration embraced the US’s strategic pivot to Asia and
+thereby opened the Philippines to the rotational presence of American forces. The US
+also showed its willingness to assist the Philippines in restraining an assertive China.
+The US pledged to provide the Philippines $40 million from the Global Security Contingency Security Fund (Department of Foreign Aﬀairs n.d.). Moreover, in early 2012, Secretaries Hillary Clinton and Leon Panetta reaﬃrmed the US’ treaty obligations during
+their 2 + 2 meeting with Secretaries Alberto del Rosario and Voltaire Gazmin. Although
+the US did not take a public position during the Scarborough Shoal standoﬀ, the Philippines’ position was strengthened through US intervention, in particular its call for a resolution to the disputes under international law and its questioning of the validity of
+China’s ‘nine-dash line’ doctrine. US support served as an indirect deterrent against
+
+AUSTRALIAN JOURNAL OF INTERNATIONAL AFFAIRS
+
+679
+
+further Chinese assertion, which gave the Aquino administration the conﬁdence to take a
+ﬁrmer stance in relation to China.
+Aside from confronting the Philippine naval presence during the Scarborough Shoal
+incident, Beijing also retaliated economically. China ultimately imposed restrictions on
+banana imports from the Philippines, alleging pest infestation problems (ABC News
+2012). This economic retaliation by China had the potential to aﬀect the livelihood of
+around half a million Filipinos (De Castro 2015). The retaliation, however, did not
+lead to economic consequences that were severe enough for the Aquino III administration to change its stance on the SCS. In 2012, bananas only accounted for 1.24% of
+the Philippines’ total merchandise exports, and the value of Philippine banana exports
+increased to US$ 646.7 million from US$ 472.4 million in 2011 (Philippine Statistics
+Authority 2012). Moreover, the Philippines’ trade with China only accounted for
+11.2% of its total trade in 2012 (Philippine Statistics Authority 2013). The majority of
+exports from the Philippines to China were electronic products. They originated from
+plants owned by Japanese, Taiwanese, and South Korean companies, which were
+shipped to plants in China owned by the same companies for assembly (Medeiros
+et al. 2008). As a result, China’s economic sanctions did not successfully halt Aquino’s
+assertive foreign policy, as few challenges and restraints from domestic economic
+losses were confronted.
+
+The concerns from the domestic political environment
+Aquino III considered it important to distance himself from his predecessor. Through his
+platform called daang matuwid (the straight path), Aquino III cultivated an image distinctly opposed to that of Arroyo, whose China policies had been severely marred with
+allegations of graft and corruption. Aquino III’s strategy, which paved the way for his
+political rise to power, capitalised on the crisis of Arroyo’s political legitimacy (Liang
+2018). Baviera (2012) explains that Aquino III campaigned and won on a platform of
+good governance and promised to purge the corruption that had been allegedly perpetuated by the Arroyo government.
+The Arroyo administration was accused of trading the Philippines’ territorial sovereignty for Chinese oﬃcial development assistance and personal economic beneﬁts. The
+JMSU was a highly contentious issue in the Philippines, with critics questioning
+whether it was ‘a quid pro quo for China’s generous economic packages’ during
+Arroyo’s administration (Palanca and Ong 2018, 100). The National Broadband
+Network–Zhongxing Telecommunications Equipment (NBN-ZTE) project was also
+ridden with allegations of corruption (Baviera 2012; Storey 2008). Against the backdrop
+of widespread opposition to the Arroyo administration—due to the scandals of the JMSU
+agreement and NBN-ZTE project—Aquino III was able to further dismantle Arroyo’s
+China policy. Aquino III criticised Arroyo for signing the JMSU, claiming that it
+‘shouldn’t have happened’ (Calica 2011) and that the JMSU had made a ‘small bump
+of controversy [become] a dense mountain of a problem’ (Salaverria 2012). In his
+speech during the 113th anniversary of the Department of Foreign Aﬀairs, Aquino III
+highlighted that he would not allow the country’s territorial claims in the SCS to be violated by other claimants, stating that ‘if we allow other countries to just push us around,
+our 7,100 islands might become a mere two digits in the near future’ (Bugaoisan and del
+
+680
+
+X. WU AND J. C. VELASCO
+
+Callar 2011). The Aquino III administration also instrumentalised domestic nationalism
+as leverage to adopt a hard-line policy towards China during the crisis, initiating the arbitration case as his most assertive strategy. These actions appear to conﬁrm the suggestion
+made by Van Ham, Montesano, and van der Putten (2016) that when domestic nationalism surges, smaller claimants in the SCS tend to further internationalise the dispute by
+including extra-regional actors. Driven by his resolute stance towards China, his restoration of macroeconomic stability, and good governance reforms, Aquino’s satisfaction
+rating reached over 50% in 2012, and in 2013, 65% of Filipino adults approved of the government’s actions regarding tensions over Scarborough Shoal (Social Weather Station
+2015). Aquino’s distinctly aggressive stance on the SCS issue set him apart from his predecessor, distinguishing him as a leader who asserted the territorial sovereignty of the
+Philippines.
+The military appeared to generally support Aquino’s policies, and there were no
+visible attempted military takeovers during his administration (Lee 2020). During his
+presidential campaign, Aquino III promised to raise military spending to 2% of the
+GDP. He ‘pledged to modernise the Armed Force of the Philippines for both territorial
+defence and disaster relief mission’ (Fisher 2012). After taking oﬃce, Aquino III also
+vowed to increase military spending to two percent of the country’s GDP (Reuters
+2010). The Scarborough Shoal standoﬀ presented a perfect opportunity for Aquino III
+to improve the military’s defence posture and for the Philippine Navy to build capabilities for ‘substantial maritime awareness, limited territorial sea interdiction operations,
+and defensive deterrence to protect the country’s interests in the SCS’ (De Castro
+2016, 120).
+In sum, the Philippines has relied on the protection and support of the US as clearly
+exempliﬁed by the diﬀerent mechanisms of security cooperation like the MDT. Domestically, a semblance of political instability also motivated Philippine leaders to use foreign
+policy to achieve political survival (Zha 2015). Both of these factors led the Aquino
+administration to take a signiﬁcantly more combative approach against China than previous administrations had taken. Liang (2018) argues that Aquino’s ‘concern over his
+political legitimacy motivated the construction of a set of nationalism-driven, antiChinese narratives’ (290), leading the Aquino administration to choose a hard-line
+stance throughout the Scarborough Shoal standoﬀ to satisfy domestic clamour. China
+approached the Philippines to pursue bilateral talks after the standoﬀ, but Aquino III
+“was much more anti-Chinese in his rhetoric domestically and internationally” and
+Baviera reiterated that it does not leave “much room for alternative means to deal
+with the dispute” (Wiegand & Beuck, 2018, 8).
+Baviera’s opinion is from the interview with Wiegand, which Wigand directly quoted.
+
+China eventually upped the ante by expressing its non-recognition of the arbitral
+award, PRC Vice Foreign Minister Liu Zhenmin ﬁrmly reiterated that it ‘is null
+and void and has no binding force and China does not accept or recognize the
+award’ (PRC Ministry of Foreign Aﬀairs 2016). While the arbitration case served
+an expedient domestic function in presenting the Aquino III administration as a
+strong defender of the country’s territorial integrity to a domestic audience, the
+administration ran into an impasse abroad, as its moves created too much volatility
+in the Sino-Philippine bilateral relationship.
+
+AUSTRALIAN JOURNAL OF INTERNATIONAL AFFAIRS
+
+681
+
+The Philippines’ evolving China policies under Duterte
+Political conditions in smaller countries provide strong incentives for leaders to take
+drastic measures, including changing a country’s foreign policy, to survive politically.
+Unlike Aquino III’s anti-China stance, Duterte’s approach has been one of hedging
+and, to some extent, appeasement, particularly during the initial administration
+periods. Duterte’s administration has adopted a strategy of hedging to reduce tension
+between China and the Philippines (Banlaoi 2017; Quintos 2018; Wu 2019), essentially
+compartmentalising territorial issues from other aspects of Sino-Philippine relations
+(Chao 2021). This hedging strategy has been motivated by the unreliability of the US
+as an ally, Duterte’s promise of infrastructure development to the Filipino people; in
+addition, the ﬁnancing opportunities presented by China, which could compensate for
+the limited national budget of the Philippines (Chao 2021).
+The domestic stimulus and pressure
+Duterte has placed a strong emphasis on economic growth with a focus on, as he says,
+‘build, build, build,’ through his infrastructure development plan. Such programmes
+have required massive amounts of funding, which he has expected to be ﬁnanced by
+China. China was not necessarily viewed as an enemy but as a potential investment
+and trade partner because of its proximity and rapid economic development. After
+taking oﬃce in 2016, Duterte downplayed the outcome of the PCA ruling and subsequently visited China ﬁve times. He speciﬁcally stated, ‘in the play of politics now, I
+will set aside the arbitral ruling’ (SCMP 2016). He also refused to use the 2017
+ASEAN chairmanship to tout the victory of the Philippines (Serapio and Petty 2017).
+The antagonism between the two countries over the SCS was eﬀectively cooled down
+(Men 2018). Beijing praised Duterte’s ﬁrst visit to China as ‘an ice-breaking trip
+marking a milestone in the history of China-Philippines relations’ (PRC Ministry of
+Foreign Aﬀairs 2022). China stepped up its ﬁnancial assistance to the Philippines’ infrastructure construction. According to the Philippine Board of Investment, China ranked
+ﬁrst in 2018 among countries that had foreign investments in the Philippines; its investments amounted to US$ 975 million, up by 2,072% from just US$ 47 million in 2017. In
+2019, China ranked second on the list, with its US$ 1.7 billion translating to 32% of total
+foreign investments (a 174% increase) in 2018. The growth was mainly driven by
+increased investment in sectors such as IT & communications, manufacturing, real
+estate, and electricity (BOI 2020). In addition, China has become the Philippines’
+second-largest and fastest-growing international tourist market. The Philippines also
+received a total of 1.255 million Chinese tourists in 2018, up by 30% from 2017.
+Tourism data showed that a total of 1.74 million Chinese tourists visited the Philippines
+in 2019, up 38.58% from 2018 (Xinhua 2020). All of these contributed to bridging the
+infrastructure investment gap and prospering the Philippines’ economy, which indicates
+a growing motivation for the Philippine economic dependence on China. However, continuing negative sentiments toward China were generated as the criticism increased when
+the large-scale projects promised by China failed to actualise.
+The compartmentalisation of Sino-Philippine economic relations from territorial disputes has led to ﬁnancial gains for Manila. Duterte continued to placate public clamour
+for a ﬁrmer stance against China’s territorial encroachments. He used Chinese
+
+682
+
+X. WU AND J. C. VELASCO
+
+investments to ‘bolster his administration’s reputation and reward his supporters among
+the elite, no matter the social, environmental, ﬁnancial, or geopolitical cost’ (Lischin
+2022, 150). However, the public does not welcome the economic beneﬁts rooted in
+Duterte’s friendlier gambits toward China. This is exempliﬁed by opposition to some
+China-funded projects (Ordaniel and Camba 2018). There is a disjuncture between the
+president’s foreign policy and the public’s sentiment (Amador and Baladjay 2020).
+Pockets of resistance to his approach still exist among the public, as exempliﬁed by a
+Social Weather Station (2021) survey, in which 47% of the respondents indicated that
+the Philippine government was not doing enough with respect to asserting Philippine
+rights over the SCS. The perception that Philippine foreign policy towards China has
+become ‘more defeatist and submissive’ has increased (Bautista 2020, 287). While
+Duterte’s presidential term has brought relative calm to Sino-Philippine territorial
+issues, his approach is a contravention or misalignment with the will of the Filipino
+people (Amador and Baladjay 2020).
+At the backdrop of the Whitsun Reef incident, the Philippines has also been experiencing the exigencies of the COVID-19 pandemic. This public health crisis has tremendous
+implications for how the Philippines positions itself between China and the US. In the
+context of vaccine diplomacy, Duterte was in a quandary of needing to plead with Xi
+Jinping ‘to prioritise the Philippines in its distribution of the vaccines while also confessing about feeling helpless in ﬁghting Manila’s interests in the SCS’ (Magcamit 2021).
+Notably, China-produced vaccines were the ﬁrst to arrive in the Philippines. However,
+this did not dissuade public distrust. Scepticism of China’s intentions has prevailed
+with the territorial dispute being one of the reasons for refusing the vaccines from
+China’s Sinovac (Amit et al. 2022). Filipinos still consider the US the most trusted
+country and China to be among the least trusted. There are 38 percentage more likely
+to have a positive view of the U.S. than China (Pew 2020).
+With immense domestic popularity and populist policies, Duterte’s continued with
+high approval ratings throughout his presidency. In the 2019 elections, Duterte had
+obtained a supermajority in both the Philippine Senate and House of Representatives,
+indicating ‘a lack of restraint (other than law) on his exercise of executive power’
+(Baviera and Arugay 2021, 288). Duterte’s China-friendly policies are not necessarily
+popular with opposition political ﬁgures. For example, Senator Leila de Lima is dismayed by Duterte’s lackadaisical stance in defending Philippine sovereignty. She
+argues ‘it is disappointing to have a leader that does not stand for sovereignty and
+national dignity. The Philippine public is being deceived by Duterte’s cowardice. Standing up for our territorial rights is not tantamount to proclaiming war’ (Philippine
+Senate 2021a). Senator Risa Hontiveros expressed the need for Duterte to put his
+words into action in defending Philippine sovereignty (Philippine Senate 2021b).
+Senator Francis ‘Kiko’ Pangilinan mentions that ‘China’s emboldened behaviour is a
+result of the Duterte administration’s kow-towing to China despite the Philippines’
+victory’ in the arbitration (Philippine Senate 2022). The opposition within the
+Cabinet can also be observed from the termination of the VFA. For example, in February 2020, Presidential Spokesperson Salvador Panelo said there was no ‘internal
+clash’ and they were ‘always in unison with respect to the policies enunciated by the
+President.’ However, Duterte was asked to reconsider the decision by Senate President
+Vicente Tito Sotto III, Senate Minority Leader Franklin Drilon and Senator Panﬁlo
+
+AUSTRALIAN JOURNAL OF INTERNATIONAL AFFAIRS
+
+683
+
+‘Ping’ Lacson. Secretary Locsin and Senate Majority Leader Miguel Zubiri also had disagreements based on economic concerns (CNN Philippines 2020).
+
+The evolving international dynamics
+In March 2021, approximately 200 Chinese vessels converged in the disputed area in the
+Whitsun Reef tension. Philippine Foreign Aﬀairs Secretary Locsin ﬁled diplomatic protests against this move by China. Philippine Defence Secretary Lorenzana asserted that
+the Chinese vessels in Whitsun Reef were manned by militias and that their presence
+indicated an increased intent to occupy the said areas (Reuters 2021a). The Chinese
+Embassy in Manila responded that Whitsun Reef (Niu’e Jiao) was a part of China’s
+Nansha Islands. The Chinese embassy further denied that the vessels in Whitsun Reef
+were maritime militia vessels and expressed exasperation over speculations that
+‘[cause] unnecessary irritation’ (Chinese Embassy in Manila 2021). Consequently, the
+United States articulated support for the Philippines and expressed aﬃrmation for the
+MDT. Speciﬁcally, Secretary of State Blinken (2021) remarked that ‘the United States
+stands with our ally, the Philippines, in the face of the PRC’s maritime militia amassing
+at Whitsun Reef. We will always stand by our allies and stand up for the rules-based
+international order.’
+Duterte opted to undermine the statement. He publicly proclaimed that China is a
+‘good friend’ and reminded the public of the United States’ irresolute stance during
+the Scarborough Shoal incident in 2012 (Inquirer 2021). However, Duterte’s inclination
+for Chinese appeasement has reached a critical point. It emboldened China to pursue
+further territorial expansion in the South China Sea at the expense of Philippine maritime
+security (De Dios 2022). Duterte had a ‘good but misplaced faith on China’ and this may
+have resulted in economic beneﬁts, but it certainly situated the Philippines at a geopolitical and territorial disadvantage (De Castro 2022, 2). Aside from the Whitsun Reef incident, in response to China’s legislation of the coast guard law, the Philippine foreign
+aﬀairs secretary Locsin (2021) warned that ‘while enacting a law is a sovereign prerogative, this one—given the area involved, or for that matter the open SCS—is a verbal threat
+of war to any country that deﬁes the law.’ The coast guard law has exacerbated tensions
+between China and the Philippines and became a cause of signiﬁcant concern for other
+countries in the region (Trung 2021). The Philippines needed to devise a way to rebuﬀ
+Chinese expansionism without necessarily being antagonistic.
+Since 2016, the US is consistently attempting to sustain its relations with the Philippines despite an unstable and unfavourable status quo (Lischin 2022). Duterte has publicly made his displeasure with the US throughout his term in oﬃce, warning the US not
+to point ﬁngers at anti-drug operations. He undermined the pillars of the US-Philippine
+security alliance such as the MDT, EDCA, and VFA. However, the Philippines has maintained close relations with the US with regard to the SCS. The Philippines has conducted
+joint military exercises with the US, and during one such event, the US dispatched F-35
+ﬁghters for the ﬁrst time. The US has also stated that defence support would be provided
+should an enemy military force launch an attack against the Philippines. Toward the end
+of Duterte’s term, he has silently recalibrated its relationship with the US. In July 2021,
+during the Communist Party of China and World Political Parties Summit, Duterte proclaimed ‘we count on China as a friend and partner for peace and development’
+
+684
+
+X. WU AND J. C. VELASCO
+
+(Presidential Communications Operations Oﬃce 2021). Yet in the same month, Duterte
+ended the uncertainty of the VFA by proceeding to restore the agreement. This is in stark
+contrast with his 2016 pronouncement that American troops should leave the Philippines
+within two years and raise the possibility of abrogating US-Philippine agreements (Aljazeera 2016). Duterte’s decision to initially suspend the VFA was for him to vent his antiAmericanism and such was not necessarily rooted in a strategic rationale (Storey 2021). If
+the abrogation of the VFA materialised, it would lead to complications in the other pillars
+of the US-Philippine security alliance (Lischin 2022, 151). China’s legislation of the coast
+guard law is the critical reason for Duterte’s approval of the VFA (De Castro 2021). On
+the eve of the 70th anniversary of the US-Philippine MDT, both countries decided to
+proceed with the operationalisation of EDCA and agreed to negotiate a bilateral maritime
+security framework (Nepomuceno 2021b).
+The Philippines also signalled its support for Western-led initiatives. In 2017, Duterte
+said ‘Japan is a friend closer than a brother. That means Japan is a friend unlike any
+other,’ and ‘ours is a special friendship whose value is beyond any measure’ (ABSCBN News 2017). For the ﬁrst time since World War II, Japan sent an armoured
+vehicle unit to the biennial Philippine-US Balikatan exercises under Duterte’s presidency
+(ABS-CBN News 2018). In 2018, the Japan International Cooperation Agency (JICA)
+completed its assistance to the Philippines with the delivery of ten Multi-Role Response
+Vessels (MRRV) for maritime security. In 2022, both sides stepped up their cooperation
+in maritime security with the inspection of the 97-meter MRRV from Japan (JICA 2022).
+With doubts about the robustness of the Quadrilateral Security Dialogue (QUAD)
+among India, Australia, and the US; Japan is seeking to encourage fellow US allies,
+such as the Philippines as a possible participant (Heydarian 2022). The QUAD is considered the ﬁrst multilateral resistance to China in the light of its rejection of the arbitration award (De Castro 2018). The Philippines and Japan had the ﬁrst-ever ‘2 + 2’ meeting
+and explored the ﬁnalisation of the Reciprocal Access Agreement. Both sides welcomed
+‘the contribution of a strong US presence to regional stability’ and emphasised the
+‘importance of each country’s respective treaty alliance with the United States and that
+of enhancing cooperation with regional partner countries’ (Department of Foreign
+Aﬀairs 2022). To enhance maritime security cooperation, the Philippines and Japan
+signed a contract for advanced radar systems to be built by the Mitsubishi Electric Corporation. Aside from the security engagements with Japan, Philippine Foreign Aﬀairs
+Secretary Locsin expressed support for the Australia-United Kingdom-United States
+technology sharing accord (AUKUS). Secretary Locsin asserted, ‘the enhancement of a
+near abroad ally’s ability to project power should restore and keep the balance rather
+than destabilize it’ (Department of Foreign Aﬀairs 2021). Defence Secretary Lorenzana
+also stated that Australia, like the Philippines, has the right to improve its submarine
+defence capability (Nepomuceno 2021a).
+The most overt indicators of the Philippines’ foreign policy recalibration are the
+declaration of the US-Philippines Joint Vision for a twenty-ﬁrst Century United
+States-Philippines Partnership in 2021 and the resumption of the Balikatan (shoulderto-shoulder) exercises in 2022. The 2021 US-Philippine joint vision underscores the
+bilateral security alliance mechanisms ‘which facilitates an open, interconnected, resilient, and secure Indo-Paciﬁc region’ (State Department 2021). The Balikatan exercises
+in April 2022 is a show of force with approximately 9,000 participants from the US
+
+AUSTRALIAN JOURNAL OF INTERNATIONAL AFFAIRS
+
+685
+
+and the Philippines focusing on the areas of maritime security and disaster relief (U.S.
+Embassy in the Philippines 2022). With the resurgence of the US-Philippine security
+partnership, US Marine Corps Forces Paciﬁc Deputy Commander Clearﬁeld articulated
+that Philippine and US ‘militaries have grown together in friendship, and we are better
+prepared to respond as one cohesive team to any crisis or challenge’ (US Embassy in
+the Philippines 2022). Philippine Defence Secretary Lorenzana also remarked, ‘we are
+sending a message to the world that the alliance between our countries is stronger
+than ever’ (Reuters 2022).
+In sum, Duterte’s strategy is centred on the Philippines’ continuous economic and
+political engagement with China while simultaneously retaining security ties with the
+United States (Wu 2019). Duterte’s entente with China allowed the Philippines to be
+on the receiving end of a host of economic beneﬁts. However, China hardly separates
+economic relations from the territorial dispute, as Beijing has previously used its economic inﬂuence for political ends (Baviera 2017). China attempted to intervene with
+the review of the US-Philippine MDT. Former Chinese ambassador to the Philippines,
+Zhao Jianhua, urged Defence Secretary Lorenzana to drop the review of the MDT and
+intimated that any attempt to revise the agreement would be construed as ‘containing
+the rise of China’ (Reuters 2021b). The Philippines’ attempt to separate territorial
+issues from other aspects of Sino-Philippine relations emboldened China to increase
+its territorial aggressiveness, which further stimulated dissatisfaction in the Philippines.
+The increasing domestic disagreements and lack of strong domestic support hardly laid a
+solid foundation for the long-term pro-China policy in the Philippines. Batongbacal
+(2021, 214) explains that Duterte’s foreign policy is unsustainable in the long run
+because it establishes a ‘patron-client relationship with China and the Philippines, but
+without broader support and coordinated action from the public at large.’ Consequently,
+a policy reconﬁguration has transpired through restoring the VFA, enhancing ties with
+Japan, supporting AUKUS, declaring the US-Philippine Joint Vision 2021, and the Balikatan exercises in 2022. Moreover, at the 37th ASEAN Summit, Duterte asserted that no
+country can ignore nor diminish the Philippines’ arbitral victory in the SCS. All of these
+have tremendous repercussions on Sino-Philippine relations, with the Philippines being
+generally acquiescent to China during Duterte’s term in oﬃce. The dramatic change in
+the Philippines’ China policy under President Duterte taking an anti-American stance,
+can only be understood as an exceptional case, not a pattern.
+
+Conclusion
+With the ongoing tensions between China and the Philippines, the threat level in the SCS
+has not waned to the levels of the 1990s (Feng and He 2019). This paper suggests that to
+comprehensively understand the motivations underlying the Philippines’ China policy, it
+is important to put into perspective the intersection of national constraints with global
+exigencies. The Philippines has a unique domestic political environment that allows
+foreign policies to be personalised and even politicised. At the same time, it has
+needed to balance its traditional alliances and interests vis-à-vis a rising and threatening
+great power.
+Aquino III’s combative approach to and Duterte’s appeasement of China during the
+initial administration stage both represent extremes that have failed to deter China
+
+686
+
+X. WU AND J. C. VELASCO
+
+from its continuously aggressive expansionist agenda in the SCS. The Philippines
+through its current foreign policy has become ‘complicit in China’s long-term strategy
+of maritime expansion to ease the US out of East Asia’ (De Castro 2019, 1035).
+China’s forceful claim in the Whitsun Reef vividly emphasises the inadequacy of
+Duterte’s defeatist and submissive foreign policy. China has fully realised that maritime
+strength is a substantially important strategic leverage if it seeks to become a regional
+hegemon and superpower (Pant 2012). The US has become more attentive to the
+Indo-Paciﬁc region and has made overtures to its allies, indicating a desire to reengage
+with diplomacy in the region. The US’s Indo-Paciﬁc strategy is the security architecture
+to contain China’s expansionist agenda. With China’s and the US’s competing frames of
+inﬂuence, the Philippines is in a highly complicated position, having to choose between a
+territorially aggressive trading partner or its historical security guarantor. Any major or
+dramatic change in Sino–US relations could quickly exert pressure on the Philippines’
+generally pro-China foreign policy. Based on these considerations, combined with the
+Philippines’ domestic political environment and the continuing SCS conﬂict, the Philippines’ current pro-China policy is limited, constrained, and unsustainable. Duterte’s
+most recent policy reconﬁguration can be seen as a pushback against Chinese domination. However, the continuation of this policy trajectory will be highly dependent on
+the succeeding president, who needs to recalibrate its relationship with China while
+taking into consideration the US’s reinvigorated interest in the Indo-Paciﬁc region as
+he delicately navigates domestic concerns.
+The landslide victory of Fernidand Marcos, Jr. in the 2022 elections puts into question
+how the Philippines would proceed toward China. Before the elections, Beijing had already
+expressed its goodwill to Marcos Jr.; during his visit to the Chinese embassy in 2021,
+Ambassador Huang Xilian remarked, ‘when you drink water, think of those who dug
+the well’ and ‘China hopes to pass on our traditional friendship from generation to generation’ (Philstar 2021). Marcos Jr. has also shown support for Duterte’s China-friendly
+approach, he clariﬁed that ‘although it is criticized, it is the right way to go’ (Corrales
+2021). But to avoid being perceived to be extremely close to China, he signalled to his domestic base that he would still send warships to the SCS to protect the Philippines’ territorial
+claim (SCMP 2022). Notably, the US-Philippine relationship under a Marcos Jr. presidency
+might be complicated considering his family’s record of abuse, corruption, and human
+rights violations in the country. Washington might lose strategically if it distances itself
+from Marcos Jr. when the result seems favourable to China. A gradual reformulation of
+the Philippines’ hedging strategy has been on the way with the indication of enhancing
+ties with the US and its allies albeit in an extremely calculated way. How Marcos Jr. calculates the possible beneﬁts from the rivalry between China and the US will signiﬁcantly
+determine the trajectory of Philippine foreign policy in the succeeding years.
+
+Disclosure statement
+No potential conﬂict of interest was reported by the author(s).
+
+Notes on contributors
+Xiangning Wu, PhD (University of Birmingham, UK) is an Assistant Professor in the Department
+of Government and Public Policy, University of Macau. Her research focuses on Asia-Paciﬁc
+
+AUSTRALIAN JOURNAL OF INTERNATIONAL AFFAIRS
+
+687
+
+regionalization, China-US relations, and International Political Economy. Her works have
+appeared in journals such as Asian Survey, The China Review, and China International Strategy
+Review. Email: xiangningwu@um.edu.mo
+Joseph Ching Velasco, Ph.D. is a faculty member of the Department of Political Science and Development Studies of De La Salle University, Manila. He is currently the Managing Editor and former
+Editor-in-Chief of the Asia-Paciﬁc Social Science Review. He is pursuing further studies in international relations and public policy at the University of Macau. His works have appeared in journals such as Asian Ethnicity, Kritika Kultura, and Pertanika Journal of Social Sciences and
+Humanities. Email: josephchingvelasco@gmail.com
+
+References
+ABC News. 2012. “Banana Crisis Blamed on Philippines-China Dispute.” https://www.abc.net.au/
+news/2012-06-29/an-banana-exporters-caught-in-philippines-china-dispute/4100422.
+ABS-CBN News. 2017. “Duterte: ‘Japan is a Friend Closer Than a Brother’.” https://news.abs-cbn.
+com/news/01/12/17/uterte-japan-is-a-friend-closer-than-a-brother.
+ABS-CBN News. 2018. “Japan Military Joins Historic PH-US War Games.” https://news.abs-cbn.
+com/news/10/06/18/uter-military-joins-historic-ph-us-war-games.
+Aljazeera. 2016. “Philippines’ Duterte Wants US Troops Out in Two Years.” https://www.aljazeera.
+com/news/2016/10/26/utertene-duterte-wants-us-troops-out-in-two-years.
+Amador, Julio, and Deryk Baladjay. 2020. The New Normal of President Duterte’s ‘Independent
+Foreign Policy’. East-West Center. https://www.eastwestcenter.org/publications/the-newnormal-president-duterte’s-“independent”-foreign-policy.
+Amit, Arianna Maever L, Veincent Christian F. Pepito, Lourdes Sumpaico-Tanchanco, Manuel M
+Dayrit, and Dione Benjumea-Bedoya. 2022. “COVID-19 Vaccine Brand Hesitancy and Other
+Challenges to Vaccination in the Philippines.” PLOS Global Public Health 2 (1): e0000165.
+doi:10.1371/journal.pgph.0000165.
+Arugay, Aries A. 2011. “The Military in Philippine Politics: Still Politicized and Increasingly
+Autonomous.” In The Political Resurgence of the Military in Southeast Asia: Conﬂict and
+Leadership, edited by Marcus Mietzner, 85–106. London: Routledge.
+Ba, Alice D. 2003. “China and ASEAN: Renavigating Relations for a 21st-Century Asia.” Asian
+Survey 43 (4): 622–647.
+Balboa, Jenny D. 2020. “Duterte’s Foreign Policy Pivot and Its Impact on Philippine Trade and
+Investments: An International Political Economy Perspective.” Philippine Political Science
+Journal 41 (1-2): 127–160.
+Banlaoi, Rommel C. 2017. “Duterte Presidency: Shifts in Philippine-China Relations.” In The
+South China Sea Disputes: Flashpoints, Turning Points and Trajectories, edited by Yang Razali
+Kassim, 357–362. Singapore: World Scientiﬁc Publishing.
+Batongbacal, Jay L. 2021. “Deciphering Duterte’s Foreign Policy on the South China Sea.” In
+Routledge Handbook of the South China Sea, edited by Keyuan Zou, 199–224. London: Routledge.
+Bautista, Lowell. 2020. “The Ones Who Don’t Walk Away from the Philippines.” Southeast Asian
+Aﬀairs 2020: 275–294.
+Baviera, Aileen. 2012. The Inﬂuence of Domestic Politics on Philippine Foreign Policy: The Case of
+Philippine-China Relations Since 2004. RSIS Commentary. https://dr.ntu.edu.sg/bitstream/
+10356/95218/1/WP241.pdf.
+Baviera, Aileen. 2016. “President Duterte’s Foreign Policy Challenges.” Contemporary Southeast
+Asia 38 (2): 202–208.
+Baviera, Aileen. 2017. Duterte’s China Policy Shift: Strategy or Serendipity? East Asia Forum.
+https://www.eastasiaforum.org/2017/08/13/dutertes-china-policy-shift-strategy-or-serendipity/.
+Baviera, Aileen S. P., and Aries A. Arugay. 2021. “The Philippines’ Shifting Engagement with
+China’s Belt and Road Initiative: The Politics of Duterte’s Legitimation.” Asian Perspective 45
+(2): 277–300.
+Blinken, Anthony. 2021. Twitter Post. March 29, 2021, 7:53 am. https://twitter.com/secblinken/
+status/1376321521120116737?lang=en.
+
+688
+
+X. WU AND J. C. VELASCO
+
+BOI Philippines. 2020. “Philippines-China Business Relations.” https://boi.gov.ph/ciﬁt-2020philippines-china-business-relations/.
+Bugaoisan, Virgilio, and Michaela del Callar. 2011. “Noy: RP-China Conﬂict Gloria’s Fault.” Daily
+Tribune, July 5. http://globalbalita.com/2011/07/05/noy-rp-china-conﬂict-glorias-fault/.
+Calica, Aurea. 2011. “Aquino Says JMSU with China Worsened Spratly Dispute.” Philippine Star,
+July 6. https://www.philstar.com/headlines/2011/07/06/702803/aquino-says-jmsu-china-worsenedspratly-dispute.
+Candelaria, Sedfrey M., and Elaine S. Mendoza. 2016. “Testing Constitutional Waters VI:
+Developments in Treaty-Making and the Enhanced Defense Cooperation Agreement.”
+Ateneo Law Journal 61 (1): 1–31.
+Chang, Felix. 2019. “Running Out of Gas: Philippine Energy Security and the South China Sea.”
+Foreign Policy Research Institute, September 6. https://www.fpri.org/article/2019/09/runningout-of-gas-philippine-energy-security-and-the-south-china-sea/.
+Chao, Wen-Chih. 2021. “The Philippines’ Perception and Strategy for China’s Belt and Road
+Initiative Expansion: Hedging with Balancing.” The Chinese Economy 54 (1): 48–55.
+Chen, Ian Tsung-Yen, and Alan Hao Yang. 2013. “A Harmonized Southeast Asia? Explanatory
+Typologies of ASEAN Countries’ Strategies to the Rise of China.” The Paciﬁc Review 26 (3):
+265–288. doi:10.1080/09512748.2012.759260.
+Chinese Embassy in Manila. 2021. “Statement by Spokesperson of the Chinese Embassy in the
+Philippines on the Presence of Alleged Chinese Maritime Militia Vessels at Niu’e Jiao.”
+http://ph.china-embassy.org/eng/sgfyrbt/t1863034.htm.
+CNN Philippines. 2020. “Panelo: ‘No Contradiction, Inconsistency’ in Statements About VFA
+Termination.” February 9. https://www.cnnphilippines.com/news/2020/2/9/salvador-panelostatements-vfa-termination.html.
+Corrales, Nestor. 2021. “When Bongbong Met Xilian: Strengthening and Deepening Ties With
+China.” Inquirer, October 22. https://globalnation.inquirer.net/199716/when-bongbong-metxilian-strengthening-and-deepening-ties-with-china.
+De Castro, Renato. 2014a. “The Aquino Administration’s Balancing Policy Against an Emergent
+China: Its Domestic and External Dimensions.” Paciﬁc Aﬀairs 87 (1): 5–27. doi:10.5509/
+2014871005.
+De Castro, Renato. 2014b. “Linking Spokes Together: The Philippines’ Gambit of Harnessing the
+United States’ Alliances in Its External Balancing Policy Against an Emergent China.” Paciﬁc
+Focus 29 (1): 140–166. doi:10.1111/pafo.12022.
+De Castro, Renato. 2014c. “The 21st Century Philippine-US Enhanced Defense Cooperation
+Agreement (EDCA): The Philippines’ Policy in Facilitating the Obama Administration’s
+Strategic Pivot to Asia.” The Korean Journal of Defense Analysis 26 (4): 427–446.
+De Castro, Renato. 2015. “The Philippines Confronts China in the South China Sea: Power Politics
+vs. Liberalism-Legalism.” Asian Perspective 39 (1): 71–100. doi:10.1353/apr.2015.0010.
+De Castro, Renato. 2016. “The Philippines Discovers Its Maritime Domain: The Aquino
+Administration’s Shift in Strategic Focus from Internal to Maritime Security.” Asian Security
+12 (2): 111–131. doi:10.1080/14799855.2016.1195813.
+De Castro, Renato. 2017. “Developing a Credible Defense Posture for the Philippines: From the
+Aquino to the Duterte Administrations.” Asian Politics & Policy 9 (4): 541–563. doi:10.1111/
+ut.12353.
+De Castro, Renato. 2018. Duterte Rejects US Assistance During Whitsun Reef Standoﬀ. Asia
+Maritime Transparency Institute. https://amti.csis.org/uterte-rejects-u-s-assistance-duringwhitsun-reef-stand-oﬀ/.
+De Castro, Renato. 2019. “The Philippines and the Maritime Security Order in Southeast Asia: The
+Risk of an Appeasement Policy on an Expansionist China.” Contemporary Chinese Political
+Economy and Strategic Relations: An International Journal 5 (3): 1035–1078.
+De Castro, Renato. 2021. “Duterte Finally Admits the Importance of the U.S. Alliance”. CSIS Post.
+https://amti.csis.org/duterte-ﬁnally-admits-the-importance-of-the-u-s-alliance/.
+De Castro, Renato. 2022. “Caught Between Appeasement and Limited Hard Balancing: The
+Philippines’ Changing Relations With the Eagle and the Dragon.” Journal of Current
+Southeast Asian Aﬀairs, 1–21. doi:10.1177/18681034221081143.
+
+AUSTRALIAN JOURNAL OF INTERNATIONAL AFFAIRS
+
+689
+
+De Dios, Aurora Javate. 2022. “Democracy Under Strain in the Philippines: The Populist Politics
+and Diplomacy of President Rodrigo Duterte.” In From Asia-Paciﬁc to Indo-Paciﬁc, edited by
+Robert G. Patman, Patrick Köllner, and Balazs Kiglics, 303–325. Singapore: Palgrave Macmillan.
+Department of Foreign Aﬀairs. 2013. “Secretary Del Rosario Says PHL Recourse to Arbitration a
+Friendly Attempt for Durable Solution to South China Sea Tension.” https://dfa.gov.ph/
+authentication-functions/78-newsroom/dfa-releases/217-secretary-del-rosario-says-phl-recourseto-arbitration-a-friendly-attempt-for-durable-solution-to-south-china-sea-tension.
+Department of Foreign Aﬀairs. 2021. “Statement of Foreign Aﬀairs Teodoro L. Locsin, Jr. on the
+Australia-United Kingdom-United States (AUKUS) Enhanced Trilateral Security Partnership.”
+https://dfa.gov.ph/dfa-news/statements-and-advisoriesupdate/29484-statement-of-foreign-aﬀairsteodoro-l-locsin-jr-on-the-australia-united-kingdom-united-states-aukus-enhanced-trilateralsecurity-partnership.
+Department of Foreign Aﬀairs. 2022. “Joint Statement of the Inaugural Japan-Philippines Foreign
+and Defense Ministerial Meeting (“2+2”).” https://dfa.gov.ph/dfa-news/statements-andadvisoriesupdate/30364-joint-statement-of-the-inaugural-japan-philippines-foreign-and-defenseministerial-meeting-2-2.
+Department of Foreign Aﬀairs. n.d. “Philippine-United States Bilateral Relations Fact Sheet.”
+Accessed May 12, 2022. https://dfa.gov.ph/dfa-news/dfa-releasesupdate/2695-philippineunited-states-bilateral-relations-fact-sheet.
+Domingo, Francis. 2015. “The Contexts of Strategy as a Guide for Defense Planning in the
+Philippines.” Defense & Security Analysis 31 (2): 159–167. doi:10.1080/14751798.2015.1069109.
+Feng, Huiyun, and Kai He. 2019. “A Dynamic Strategic Culture Model and China’s Behaviour in
+the South China Sea.” Cambridge Review of International Aﬀairs, 1–20. doi:10.1080/09557571.
+2019.1642301.
+Fisher, Richard. 2012. Defending the Philippines: Military Modernization and the Challenges
+Ahead.” Center for a New American Security, May 3. https://www.ﬁles.ethz.ch/isn/146734/
+CNAS_ESCS_bulletin3.pdf.
+Fox, Senan. 2021. Mischief Reef: China, the Philippines, and a Disputed Atoll in the South China
+Sea. Singapore: Palgrave Macmillan.
+Götz, Elias. 2021. “Neoclassical Realist Theories, Intervening Variables, and Paradigmatic
+Boundaries.” Foreign Policy Analysis 17 (2): oraa026. doi:10.1093/fpa/oraa026.
+Graham, Euan. 2013. “Southeast Asia in the US Rebalance: Perceptions from a Divided Region.”
+Contemporary Southeast Asia 35 (3): 305–332.
+Gvalia, Girogi, David Siroky, Bidzina Lebanidze, and Zurab Iashvili. 2013. “Thinking Outside the
+Bloc: Explaining the Foreign Policies of Small States.” Security Studies 22 (1): 98–131. doi:10.
+1080/09636412.2013.757463.
+Heydarian, Richard Javad. 2017a. “Evolving Philippines-US-China Strategic Triangle:
+International and Domestic Drivers.” Asian Politics & Policy 9 (4): 564–582. doi:10.1111/ut.
+12355.
+Heydarian, Richard Javad. 2017b. “Tragedy of Small Power Politics: Duterte and the Shifting Sands
+of Philippine Foreign Policy.” Asian Security 13 (3): 220–236. doi:10.1080/14799855.2017.
+1354569.
+Heydarian, Richard Javad. 2022. “Japan Looks to Philippines for a New Era Quad.” Asia Times.
+https://asiatimes.com/2022/04/uter-looks-to-philippines-for-a-new-era-quad/.
+Hong, Zhao. 2013. “The South China Sea Dispute and China-ASEAN Relations.” Asian Aﬀairs 44
+(1): 27–43. doi:10.1080/03068374.2012.760785.
+Inquirer. 2021. https://twitter.com/inquirerdotnet/status/1374541759301177344?lang=zh-Hant.
+JICA. 2022. “JICA, Philippines Step up Cooperation in Maritime Security, Inspect New Largest
+Coast Guard Vessel from Japan.” https://www.jica.go.jp/utertene/uterte/oﬃce/topics/news/
+220304_02.html.
+Kuik, Cheng-Chwee, and Gilbert Rozman. 2015. “Light or Heavy Hedging: Positioning Between
+China and the United States.” Joint US-Korea Academic Studies 26: 1–9.
+Kurlantzick, Joshua. 2021. Duterte’s Ingratiating Approach to China Has Been a Bust. World
+Politics Review. https://www.worldpoliticsreview.com/articles/29697/uterte-s-approach-tochina-philippines-relations-has-been-a-bust.
+
+690
+
+X. WU AND J. C. VELASCO
+
+Lai, Yew Meng, and Cheng-Chwee Kuik. 2021. “Structural Sources of Malaysia’s South China Sea
+Policy: Power Uncertainties and Small-State Hedging.” Australian Journal of International
+Aﬀairs 75 (3): 277–304. doi:10.1080/10357718.2020.1856329.
+Lee, Terence. 2020. “The Philippines: Civil-Military Relations, from Marcos to Duterte.” Oxford
+Research Encyclopedia of Politics. doi:10.1093/acrefore/9780190228637.013.1845.
+Le Thu, Huong. 2019. “China’s Dual Strategy of Coercion and Inducement Towards ASEAN.” The
+Paciﬁc Review 32 (1): 20–36. doi:10.1080/09512748.2017.1417325.
+Liang, Ce. 2018. “The Rise of China as a Constructed Narrative: Southeast Asia’s Response to
+Asia’s Power Shift.” The Paciﬁc Review 31 (1): 279–297.
+Lischin, L. 2022. “The Future of the US-Philippines Alliance: Declining Democracy and Prospects
+for US-Philippines Relations After Duterte.” Asia Policy 29 (1): 133–160. doi:10.1353/asp.2022.
+0009.
+Liu, Feng. 2020. “The Recalibration of Chinese Assertiveness: China’s Responses to the IndoPaciﬁc Challenge.” International Aﬀairs 96 (1): 9–27.
+Lobell, Steven E., Norrin M. Ripsman, and Jeﬀrey W. Taliaferro, eds. 2009. Neoclassical Realism,
+the State, and Foreign Policy. Cambridge: Cambridge University Press.
+Locsin, Teodoro. 2021. Twitter Post. January 27, 2021, 4:57 PM. https://twitter.com/
+teddyboylocsin/status/1354352774591389697?lang=en.
+Magcamit, M. 2021. “To Feel Is To Believe: China, United States, and the Emotional Beliefs of
+Philippines’ Rodrigo Duterte.” Political Science, 1–25. doi:10.1080/00323187.2021.1967764.
+Medeiros, Evan, Keith Crane, Eric Heginbotham, Norman Levin, Julia Lowell, Angel Rabasa, and
+Somi Seong. 2008. Paciﬁc Currents: The Responses of US Allies and Security Partners in East Asia
+to China’s Rise. Santa Monica: Rand Corporation.
+Men, Honghua. 2018. “Spread of China’s International Strategic Layout Plan.” In Report of
+Strategic Studies in China, edited by Honghua Men, 133–158. Singapore: Springer.
+Morris, Lyle J. 2019. “A U.S. Option Playbook for Contingency Planning to Reclaim Scarborough
+Shoal.” Rand Corporations, October 9. https://www.rand.org/content/dam/rand/pubs/
+perspectives/PE300/PE335/RAND_PE335.pdf.
+Murphy, Anne Marie. 2017. “Great Power Rivalries, Domestic Politics and Southeast Asian
+Foreign Policy: Exploring the Linkages.” Asian Security 13 (3): 165–182. doi:10.1080/
+14799855.2017.1354566.
+Nepomuceno, Priam. 2021a. “Australia Has Right to Improve Sub Defense Capability: Lorenzana.”
+Philippine News Agency, September 17. https://www.pna.gov.ph/articles/1153864.
+Nepomuceno, Priam. 2021b. PH, US Reaﬃrm Commitment to Enhance Defense Ties, September
+11. https://www.pna.gov.ph/articles/1153229.
+Oﬃcial Gazette. 2014. “Enhanced Defense Cooperation Agreement Between the Philippines and the
+United States.” https://www.oﬃcialgazette.gov.ph/2014/04/29/document-enhanced-defensecooperation-agreement/.
+Ordaniel, Jeﬀrey, and Alvin Camba. 2018. “The Limits of Duterte’s China Policy.” Paciﬁc Forum,
+November 30. https://pacforum.org/wp-content/uploads/2019/02/181130_PacNet_80_0.pdf.
+Ortuoste, Maria. 2013. “The Philippines in the South China Sea: Out of Time, Out of Options?”
+Southeast Asian Aﬀairs 2013: 240–256.
+Palanca, Ellen, and Austin Ong. 2018. “Philippines–China Relations: Interplay Between Domestic
+Politics and Globalization.” In The Sociology of Chinese Capitalism in Southeast Asia, edited by
+Yos Santasombat, 93–122. Singapore: Palgrave Macmillan.
+Pant, Harsh. 2012. “China Shakes Up the Maritime Balance in the Indian Ocean.” Strategic
+Analysis 36 (3): 364–368. doi:10.1080/09700161.2012.670447.
+Pew Research Centre. 2020. “Around the World, More See the U.S. Positively Than China, But
+Little Conﬁdence in Trump or Xi.” https://www.pewresearch.org/fact-tank/2020/01/10/
+around-the-world-more-see-the-u-s-positively-than-china-but-little-conﬁdence-in-trump-or-xi/.
+Philippine Senate. 2021a. “Surrendering PH Sovereignty Over WPS to China is Duterte’s legacy –
+De Lima.” http://legacy.senate.gov.ph/press_release/2021/1229_delima1.asp.
+Philippine Senate. 2021b. “Statement of Senator Risa Hontiveros on President Rodrigo Duterte’s
+Recognition of 2016 Legal Victory vs China.” http://legacy.senate.gov.ph/press_release/2020/
+0923_hontiveros2.asp.
+
+AUSTRALIAN JOURNAL OF INTERNATIONAL AFFAIRS
+
+691
+
+Philippine Senate. 2022. “Leni-Kiko to Fight for PH Territory: Pangilinan.” http://legacy.senate.
+gov.ph/press_release/2022/0330_pangilinan1.asp.
+Philippine Statistics Authority. 2012. “Merchandise Export Performance: December 2012.” https://
+psa.gov.ph/content/merchandise-export-performance-december-2012.
+Philippine Statistics Authority. 2013. “Foreign Trade Statistics of the Philippines: 2012.” https://
+psa.gov.ph/content/foreign-trade-statistics-philippines-2012.
+Philstar. 2021. “China Hopes to ‘Pass on Our Traditional Friendship from Generation to
+Generation’.” https://www.philstar.com/headlines/2021/10/21/2135701/china-hopes-pass-ourtraditional-friendship-generation-generation.
+PRC Ministry of Foreign Aﬀairs. 2016. “Statement of the Ministry of Foreign Aﬀairs of the
+People’s Republic of China on the Award of 12 July 2016 of the Arbitral Tribunal in the
+South China Sea Arbitration Established at the Request of the Republic of the Philippines.”
+https://www.fmprc.gov.cn/nanhai/eng/snhwtlcwj_1/t1379492.htm.
+PRC Ministry of Foreign Aﬀairs. 2016. “Vice Foreign Minister Liu Zhenmin at the Press
+Conference on the White Paper Titled China Adheres to the Position of Settling Through
+Negotiation the Relevant Disputes Between China and the Philippines in the South China
+Sea.” https://www.fmprc.gov.cn/mfa_eng/wjdt_665385/zyjh_665391/201607/t20160715_678560.
+html.
+PRC Ministry of Foreign Aﬀairs. 2022. “Xi Jinping Speaks with Philippine President Rodrigo
+Duterte on the Phone.” https://www.fmprc.gov.cn/mfa_eng/zxxx_662805/202204/t20220409_
+10666115.html.
+Presidential Communications Operations Oﬃce. 2021. “President Duterte Calls for Sustained
+Dialogue, Peaceful Engagement with China.” https://pcoo.gov.ph/news_releases/presidentduterte-calls-for-sustained-dialogue-peaceful-engagement-with-china/?TSPD_101_R0=8171e
+0be4361cac471085bc5b1948d35jpU0000000000000000f543afcaﬀf000000000000000000000000
+0000627b4cb70023b1b53e082a1376ﬀab20005c97e01b8c7b83243466671fede2e49b2c42d10965
+f3d7c0cd0c4b21fadf99de080e780da70a28002fd143c5b17a798ad7e25ed9a42752ebadfd530fa9da
+04af42f757201cc7de0c785e34084cd6e87b.
+Quintos, Mary Fides A. 2018. “The Philippines: Hedging in a Post-Arbitration South China Sea?”
+Asian Politics & Policy 10 (2): 261–282. doi:10.1111/aspp.12394.
+Rabena, Aaron Jed. 2018. “The Complex Interdependence of China’s Belt and Road Initiative in
+the Philippines.” Asia & the Paciﬁc Policy Studies 5 (3): 683–697. doi:10.1002/app5.257.
+Reuters. 2010. “Aquino Vows More Spending for Philippines Defence.” https://www.reuters.com/
+article/idUSSGE63L0BR.
+Reuters. 2021a. “Philippines’ Defence Chief Says China Intends to Occupy More South China Sea
+Areas.” https://www.reuters.com/article/us-philippines-china-southchinasea-idUSKBN2BR07O.
+Reuters. 2021b. “Philippines Defence Chief Says Was Urged by China to Drop Review of U.S.
+Pact.” https://www.reuters.com/world/asia-paciﬁc/philippines-defence-chief-says-was-urgedby-china-drop-review-us-pact-2021-09-30/.
+Reuters. 2022. “Philippines, U.S. Hold Biggest Military Exercises in Seven Years.” https://www.
+reuters.com/world/philippines-us-hold-biggest-military-exercises-seven-years-2022-03-28/.
+Ripsman, Norrin M. 2009. “Neoclassical Realism and Domestic Interest Groups.” In Neoclassical
+Realism, the State, and Foreign Policy, edited by Steven E. Lobell, Norrin M. Ripsman, and
+Jeﬀrey W. Taliaferro, 170–193. Cambridge: Cambridge University Press.
+Ripsman, Norrin M. 2011. Neoclassical Realism. Oxford: Oxford Research Encyclopaedias,
+International Studies, Oxford University Press.
+Rose, Gideon. 1998. “Review: Neoclassical Realism and Theories of Foreign Policy.” World Politics
+51 (1): 144–172.
+Ross, Robert. 1999. “The Geography of the Peace: East Asia in the Twenty-First Century.”
+International Security 23 (4): 81–118.
+Roy, Denny. 2005. “Southeast Asia and China: Balancing or Bandwagoning?” Contemporary
+Southeast Asia: A Journal of International and Strategic Aﬀairs 27 (2): 305–322.
+Salaverria, Leila. 2012. “Aquino Continues Criticism of Arroyo in Lao People’s Democratic
+Republic.” Inquirer, November 5. https://globalnation.inquirer.net/55160/aquino-continuescriticism-of-arroyo-even-in-lao-peoples-democratic-republic.
+
+692
+
+X. WU AND J. C. VELASCO
+
+Santander Trade. 2021. “Philippine: Foreign Investment.” https://santandertrade.com/en/portal/
+establish-overseas/philippines/foreign-investment.
+Schweller, Randall L. 2004. “Unanswered Threats: A Neoclassical Realist Theory of
+Underbalancing.” International Security 29 (2): 159–201.
+SCMP. 2016. Duterte Says He’ll Set Aside South China Sea Feud Ruling Against Beijing. https://
+www.scmp.com/news/asia/southeast-asia/article/2055433/duterte-says-hell-set-aside-southchina-sea-feud-ruling.
+SCMP. 2022. “Philippines’ Marcos Jnr Wants Military Presence to ‘Defend’ South China Sea
+Waters.” https://www.scmp.com/news/world/article/3167178/philippines-marcos-jnr-wantsmilitary-presence-defend-south-china-sea?module=hard_link&pgtype=article.
+Serapio, Manolo, Jr., and Martin Petty. 2017. “Philippines’ Duterte Says Pointless Discussing South
+China Sea Woes at Summit” Reuters, April 27. https://www.reuters.com/article/us-aseansummit-idUSKBN17T11J.
+Shoji, Tomotaka, and Hideo Tomikawa. 2017. “Southeast Asia: Duterte Takes Oﬃce, South China
+Sea in Flux.” East Asian Strategic Review. http://www.nids.mod.go.jp/english/publication/eastasian/pdf/2017/east-asian_e2017_05.pdf.
+Simon, Sheldon. 2013. “US-Southeast Asia Relations: Philippines-an Exemplar of the US
+Rebalance.” Comparative Connections 15 (2): 51–59.
+Social Weather Station. 2015. “First Quarter 2015 Social Weather Survey: 49% Support
+Government Moves in the Scarborough Shaol; 84% Worry Abour Armed Conﬂict with
+China.” https://www.sws.org.ph/swsmain/artcldisppage/?artcsyscode=ART-20151211113858.
+Social Weather Station. 2021. “Second Quarter 2021 Social Weather Survey On the West PH Sea:
+47% of Adult Filipinos Say the Government is Not Doing Enough to Assert the Country’s Rights
+in the West PH Sea; 29% Undecided, 24% Disagree.” https://www.sws.org.ph/swsmain/
+artcldisppage/?artcsyscode=ART-20210728104853.
+State Department. 2021. “Joint Vision for a 21st Century Uni.” https://www.state.gov/joint-visionfor-a-21st-century-united-states-philippines-partnership/ted States-Philippines Partnership.
+Storey, Ian. 2008. “Trouble and Strife in the South China Sea Part II: The Philippines and China.”
+China Brief 8 (9). http://www.jamestown.org/single/?tx_ttnews%5Btt_news%5D=4886.
+Storey, Ian. 2016. “Assessing Responses to the Arbitral Tribunal’s Ruling on the South China Sea.”
+ISEAS Yusof Ishak Institute, July 28. https://www.iseas.edu.sg/images/pdf/ISEAS_Perspective_
+2016_43.pdf.
+Storey, Ian. 2021. “The US-Philippines Visiting Forces Agreement: The Duterte Punchbag That
+Will Probably Survive the Blows.” Fulcrum, February 19. https://fulcrum.sg/the-usphilippines-visiting-forces-agreement-the-duterte-punchbag-that-will-probably-survive-theblows/.
+Summers, Tim. 2021. “Maritime Politics as Discourse in the Indo/Asia-Paciﬁc.” Territory, Politics,
+Governance, 1–18. doi:10.1080/21622671.2021.1886977.
+Swe, Lim Kheng. 2014. “China-ASEAN Relations: Hamstrung Soft Power in South China Sea?”
+RSIS Commentary, September 3. https://www.rsis.edu.sg/wp-content/uploads/2014/09/
+CO14174.pdf.
+Taylor, Claire. 2011. “Military Balance in Southeast Asia.” UK House of Commons, December 14.
+https://www.openbrieﬁng.org/docs/seasiamilitary.pdf.
+Thayer, Carlyle. 2010. “Vietnam and Rising China: The Structural Dynamics of Mature
+Asymmetry.” Southeast Asian Aﬀairs, 2010, 392–409. doi:10.1355/9789814279833-024.
+Tolentino, Elaine, and Myungsik Ham. 2015. “The Entrapment of Asymmetry: The Philippines
+Between the US and China.” Bandung: Journal of the Global South 2 (1): 1–15.
+Tran, Thi Bich. 2018. Personalising the Philippines’ China Policy: Where Individuals Matter.
+Afrasian Research Centre. https://afrasia.ryukoku.ac.jp/phase3/4c95d5f133933809960ee1baba
+44b782628a21ed.pdf.
+Trung, Nguyen Thanh. 2021. “How China’s Coast Guard Law Has Changed the Regional Security
+Architecture.” Asia Maritime Transparency Initiative, April 12. https://amti.csis.org/howchinas-coast-guard-law-has-changed-the-regional-security-structure/.
+USAID. 2021. “Country Development Cooperation Strategy.” https://www.usaid.gov/philippines/
+cdcs.
+
+AUSTRALIAN JOURNAL OF INTERNATIONAL AFFAIRS
+
+693
+
+US Embassy in the Philippines. 2022. “U.S. and Philippines Forces Successfully Conclude 37th
+Balikatan.” https://ph.usembassy.gov/u-s-and-philippine-forces-successfully-conclude-37thbalikatan/.
+Van Ham, Peter, Francesco Saverio Montesano, and Frans Paul van der Putten. 2016. A South
+China Sea Conﬂict: Implication for European Security. The Hague: Clingendael Institute.
+Wiegand, Krista, and Erik Beuck. 2020. “Strategic Selection: Philippine Arbitration in the South
+China Sea Dispute.” Asian Security 16 (2): 141–156. doi:10.1080/14799855.2018.1540468.
+Wohlforth, William Curti. 1993. The Elusive Balance: Power and Perceptions During the Cold War.
+Ithaca, NY: Cornell University Press.
+Wu, Charles Chong-Han. 2019. “Why Do States Hedge in East Asia? An Empirical Study on
+Hedging.” Asian Perspective 43 (3): 557–584. doi:10.1353/apr.2019.0017.
+Xinhua. 2020. “Chinese Tourists Spend More Than 2.3 bln USD in Philippines in 2019.” http://
+www.xinhuanet.com/english/2020-03/02/c_138836125.htm#:~:text=DOT%20data%20showed
+%20that%20a,up%2038.58%20percent%20from%202018.&text=Meanwhile%2C%20she%20
+said%20the%20largest,at%20872.13%20million%20U.S.%20dollars.
+Yale Law School. 2008. “Mutual Defense Treaty Between the United States and the Republic of the
+Philippines; August 30, 1951.” https://avalon.law.yale.edu/20th_century/phil001.asp.
+Zakaria, Fareed. 1998. From Wealth to Power: The Unusual Origins of Americas World Role.
+Princeton: Princeton University Press.
+Zha, Wen. 2015. “Personalized Foreign Policy Decision-Making and Economic Dependence: A
+Comparative Study of Thailand and the Philippines’ China Policies.” Contemporary Southeast
+Asia 37 (2): 242–268.
+Zhao, Suisheng. 2018. “China and the South China Sea Arbitration: Geopolitics Versus
+International Law.” Journal of Contemporary China 27 (109): 1–15. doi:10.1080/10670564.
+2017.1363012.
+Zhu, Lumin, and Yan Liu. 2016. “The Inﬂuence of Philippine’s Domestic Politics on its Policy
+Towards China.” Indian Ocean Economic and Political Review 5: 49–71.
+
+

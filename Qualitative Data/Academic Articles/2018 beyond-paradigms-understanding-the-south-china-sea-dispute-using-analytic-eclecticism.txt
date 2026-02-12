@@ -1,0 +1,1108 @@
+Article
+
+Beyond Paradigms:
+Understanding the South
+China Sea Dispute Using
+Analytic Eclecticism
+
+International Studies
+55(3) 213–237
+2018 Jawaharlal Nehru University
+SAGE Publications
+sagepub.in/home.nav
+DOI: 10.1177/0020881718794527
+http://journals.sagepub.com/home/isq
+
+Salvador Santino F. Regilme Jr1
+Abstract
+Why did claimant states in the South China Sea (SCS) dispute, especially China,
+recently increase its militarization activities, in unprecedented ways that were
+relatively absent in the previous decades? Espousing an analytically eclectic
+explanation rather than using one single International Relations (IR) paradigm,
+this essay demonstrates three key exploratory arguments. First, the enduring
+Chinese military insecurity from American dominance in Southeast Asia has
+been recently amplified by the confluence of China’s economic rise, and more
+importantly, the power struggle in the current Xi Jinping-led regime. The article
+offers a domestic politics-oriented approach in explaining the strategic resolve of
+Beijing to militarize the disputed SCS region. Second, although many countries in
+the region uphold a ‘hedging foreign policy strategy’, which refers to their strategic engagement both with China and the USA, the Southeast Asian countries’
+patterns of foreign policy behaviour and identity politics suggest that their longterm aspiration still relies on the USA as their primary security guarantor. Third,
+notwithstanding such perception of Southeast Asian states towards the USA, this
+article demonstrates that Washington’s long-term commitment of upholding its
+security guarantees to its Southeast Asian partners is hindered by the US interest to strategically engage with Beijing on broader issues of global governance.
+Keywords
+United States, China, Southeast Asia, analytic eclecticism, foreign policy analysis,
+international relations theory, South China Sea
+
+Tenured University Lecturer of International Relations, History and International Studies,
+Institute for History, Leiden University, The Netherlands.
+1
+
+Corresponding author:
+Salvador Santino F. Regilme Jr, Institute for History, Leiden University, PO Box 9500 2300 RA Leiden,
+The Netherlands.
+E-mail: s.s.regilme@hum.leidenuniv.nl
+
+214
+
+International Studies 55(3)
+
+Introduction
+One of the greatest puzzles in the academic study and contemporary practice of
+international politics is whether the rise of China, as an emerging global power,
+would be peaceful amidst the expectation of a declining US-led global governance (Christensen, 2006; Mearsheimer, 2006; Monteiro, 2014, pp. 122–126;
+Regilme & Hartmann, 2018; Regilme & Parisot 2017a; Starrs, 2013). Considered
+as the ‘most important rising power’ (Hameiri & Jones, 2015, p. 3), China and its
+increasing influence in world politics will ‘undoubtedly be one of the great dramas of the twenty-first century’ (Ikenberry, 2008, p. 23). Despite the countervailing discourses from some Chinese political elites who advocate a more pacifist
+tone, some Western scholars, pundits, and policymakers warned that China’s
+political ascendancy is inevitably dangerous (Mearsheimer, 2006). This sense of
+insecurity is felt more increasingly in East Asia, most especially in the Southeast
+Asian region, where many of the smaller countries have traditionally depended
+upon the US leadership and security guarantees. Indeed, the South China Sea
+(or the SCS hereafter)1—a marginal sea area that is partially surrounded by
+Northeast (China and Taiwan) and Southeast Asian countries (Vietnam, Malaysia,
+the Philippines, Brunei, Indonesia, Singapore and Vietnam)—has become one of
+the most visible symbols of conflict in the region.
+The SCS is economically significant for the global economy primarily because
+more than 50 per cent of the annual world trade output passes through this maritime area. American interest in the dispute is largely about ‘ensuring freedom of
+navigation’, considering that ‘half the world’s commercial shipping passes
+through the SCS—$5 trillion a year—and US warships regularly transit the region
+on their way to and from the Persian Gulf, Southwest Asia and the Indian Ocean’
+(Spitzer, 2012). Indeed, the SCS dispute is a ‘regional flashpoint’ that has ‘the
+potential for political and military conflict’ (Fravel, 2014; Mastanduno, 2014).
+The significance of the SCS dispute is not only limited among political and economic elites but also among the majority of the domestic publics in the AsiaPacific region.
+This article addresses the following key puzzle: Why did claimant states, especially China, recently increase its militarization activities in the SCS region, in
+unprecedented ways that were relatively absent in the previous decades? Three
+preliminary and exploratory propositions are explored. First, the enduring Chinese
+military insecurity from American dominance in Southeast Asia has been recently
+amplified by the confluence of China’s economic rise, and more importantly, the
+power struggle in the current Xi Jinping-led regime. In other words, the article
+offers a domestic politics-oriented approach in explaining the strategic resolve of
+Beijing to militarize the disputed SCS region. Second, although many countries in
+the region uphold a ‘hedging foreign policy strategy’, which refers to their strategic engagement ‘both’ with China and the USA, the Southeast Asian countries’
+patterns of foreign policy behaviour and identity politics suggest that their longterm aspiration still relies on the USA as their primary security guarantor. Third,
+notwithstanding such a perception of Southeast Asian states towards the USA,
+this article demonstrates that Washington’s long-term commitment of upholding
+
+Regilme Jr
+
+215
+
+its security guarantees to its Southeast Asian partners is hindered by the USA’s
+need to strategically engage with Beijing. Such a motivation for engagement
+stems from the need to protect broader American interests in global governance—
+or interests that are perceived to be much more consequential to its goal of maintaining its long-term position in the international system. With the inability of the
+Trump administration to credibly issue stern commitments in defending its allies’
+interests and maritime public international law, SCS claimant states’ tenacity to
+rely on US security umbrella is likely to become weary over time. In building
+those arguments, the article underscores the explanatory power of examining the
+interactions between ‘ideas’ and ‘material interests’ in the study of international
+politics. Such interactions can be seen in two ways: (a) how the Southeast Asian
+elites’ self-reinforcing positive ‘perceptions’ of the USA push for a balancing and
+hedging strategy towards China, and (b) how the considerable limitations in the
+‘material capabilities’ and the ‘range of foreign policy concerns’ (beyond Southeast
+Asia) of the USA undermine the credibility of Washington’s commitment to its
+Southeast Asian partner states.
+The article contributes to International Relations (IR) literature and relevant
+policy debates on the SCS dispute in two ways. First, it eschews simplistic generalizations generated by paradigm-oriented debates; instead, it employs a midrange and multifactorial explanation that aims to meaningfully capture the
+domestic causes of China’s unprecedented military and civilian (construction of
+artificial islands) activities and its consequences to broader regional security
+dynamics. Second, although it utilizes a wide variety of secondary empirical evidence and analytical pieces, the article provides a fresh interpretation of the SCS
+dispute in light of the current US–China rivalry in the East Asian front—that is,
+by recognizing both domestic and transnational factors motivating stakeholder
+states.
+This article is organized as follows. The forthcoming section explains the
+theoretical assumptions of multifactorial empirical explanation for the recent
+military and political assertiveness of Beijing in asserting its claims in the SCS
+region. Next, it discusses the causes and consequences of increased military and
+construction activities in the disputed maritime region and argue that strategic
+material interests and recent changes in domestic politics in Beijing primarily
+shape the highly insecure security environment in East Asia, especially Southeast
+Asia. The third section discusses how and why the SCS dispute becomes a litmus test for the continuing rivalry for regional hegemony in the Asia-Pacific
+region between the USA and China. Finally, the article makes some remarks
+on the broader theoretical and policy implications of an analytically eclectic
+approach on the SCS dispute.
+
+Theorizing the SCS Dispute: Analytic Eclecticism
+The SCS dispute is widely seen as part of the broader policy and scholarly debates
+on the US hegemony vis-à-vis rising or re-emerging powers, including China.
+As Michael Yahuda (2013, p. 446) argues, ‘China’s new assertiveness in the South
+
+216
+
+International Studies 55(3)
+
+China Sea has arisen from the growth of its military power, its “triumphalism” in
+the wake of the Western financial crisis and its heightened nationalism’.
+Mainstream IR contributions to the SCS dispute and the rise of China debates
+have always been driven by the deliberate use or defence of a (single) paradigm—
+including realism (Christensen, 2006; Glaser, 2011a; Kirshner, 2012; Mearsheimer,
+2014; Regilme & Parisot, 2017b, pp. 5–6), liberalism (Buzan, 2010; Hughes,
+1995; Ikenberry, 2011) or even historical materialist orientation (Parisot, 2013;
+Starrs, 2013), among several dominant approaches or paradigms.
+The goal herein is not to discredit those important works; rather, this article
+distinguishes itself from those mono-paradigmatic approaches by underscoring
+the role of various domestic factors within SCS claimant states as well as the
+broader transnational dynamics involving the USA and its long-standing hegemonic influence in Pacific Asia. Recognizing the explanatory limitations of employing a singular IR paradigm, this essay employs instead analytic eclecticism, which
+constitutes a ‘middle-range causal account incorporating complex interactions
+among multiple mechanisms and logics drawn from more than one paradigm’
+(Sil & Katzenstein, 2010, p. 19; see also Cornut, 2015). In that way, I acknowledge
+the complexity and confluence of various factors that can account for the sudden
+increase in foreign policy assertiveness and militarization activities of China and
+other Southeast Asian claimant states in the SCS maritime region.
+Analytic eclecticism can be defined in terms of its key views in regard to
+IR research. Sil and Katzenstein (2010, p. 412) offer three distinctive features
+of their approach. First, it is a general approach and perspective in viewing a
+particular research problem or a given set of inquiries in IR scholarship. Inspired
+by American pragmatism, analytic eclecticism ‘combines existing research traditions in a pragmatic fashion and thus to enable the formulation and exploration
+of novel and more complex sets of problems’ (Friedrichs, 2009, p. 647). As such,
+‘it proceeds at least implicitly on the basis of a pragmatist ethos, manifested
+concretely in the search for middle-range theoretical arguments that potentially
+speak to concrete issues of policy and practice’ (Sil & Katzenstein, 2010, p. 412).
+Contrary to mainstream ‘paradigm-driven’ IR scholarship, analytic eclecticism
+is ‘problem-driven’ to the extent that the paradigms, theoretical insights and
+methods of testing are determined by the ‘logic of questions’ underpinned in a
+given research puzzle (Cornut, 2015; Sil & Katzenstein, 2010). Second, analytic
+eclecticism investigates ‘problems of wide scope that, in contrast to more narrowly parsed research puzzles designed to test theories or fill in gaps within
+research traditions, incorporate more of the complexity and messiness of particular real-world situations’ (Sil & Katzenstein, 2010, p. 412). Mapping out
+various alternative explanations (or, at a higher level of abstraction, a paradigm)
+in order to fully understand the wide-ranging scope of causes, consequences and
+background conditions of a given problem reflects our awareness of the
+complexity of real-world politics in our scholarly analysis. Third, as Sil and
+Katzenstein (2010, p. 412) argue, ‘analytic eclecticism generates complex
+causal stories that forgo parsimony in order to capture the interactions among
+different types of causal mechanisms normally analyzed in isolation from each
+other within separate research traditions.’
+
+Regilme Jr
+
+217
+
+The empirical analysis begins with characterizing the increasing militarization
+in the SCS maritime region, an outcome brought by strategic interests (material),
+yet smaller Asian states have renewed their strategic military ties to the USA as a
+response to China’s land reclamation activities, a development triggered by those
+countries long-standing affinity to the USA (ideational). The article also invokes
+how domestic politics and economics, particularly in China, as well as identity
+politics (pro-US socialization of East Asian elites) play a crucial role in the patterns of interstate diplomacy in regard to the SCS dispute. The article provides
+some preliminary arguments to an evolving dispute, but maintains that complex
+security issues, such as the SCS dispute, require a critical and skilful deployment
+of insights from various paradigms and approaches.
+The explanation for the SCS dispute does not only take into account structural
+and material factors, as most realists and liberal institutionalists do, but the article
+considers the importance of other ideational factors and regional complexities’
+influence in the over-all security dynamics in East Asian order. In the case of the
+SCS dispute, I agree with Katzenstein and Okawara (2001, p. 15), who rightly
+contend that ‘analytic eclecticism is particularly well suited to capture the complexities of the fluid security environment in Asia-Pacific’ because ‘Asian-Pacific
+security affairs more generally, rest on an arm foundation of formal and informal
+bilateral agreements, supplemented by a variety of embryonic multilateral
+arrangements.’ Indeed, an analytic eclectic approach to the SCS dispute is warranted considering the complexity and richness of crucial factors at play, and a
+serious consideration of relevant theoretical insights is indeed necessary.
+
+The Recent Militarization of South China Sea
+Many foreign policy observers and political elites in the Asia-Pacific region see
+the SCS maritime region to be in a precarious situation, compared to the last few
+decades. Whereas the territorial dispute during the last three decades or so largely
+focused only on marginal backlashes in interstate public diplomacy, China today
+has aggressively implemented ‘dredging operations for land reclamation works
+… at seven disputed reefs and shoals’, and the ‘naval and air force facilities are
+being established: new piers and wharves, extended airstrips, and military garrisons with radar installations and coastal artillery’ (Yoon, 2015, p. 1). In the Spratly
+Islands, several hundreds of miles from Chinese mainland’s coastline, ‘Chinese
+dredgers are spewing up torrents of sand from the sea bed, turning reefs into new
+islands’ (Marcus, 2015). As the US Pacific Fleet Commander Harry Harris confessed that ‘China was using dredges and bulldozers to create a “great wall of
+sand” in the South China Sea’ (Brunnstrom & Takenaka, 2015). In mid-June
+2015, the Chinese foreign ministry reported that the land reclamation activities in
+the seven reefs in the SCS region would end soon and announced that it would
+begin establishing infrastructures in those reclaimed lands ‘for defence, but also
+maritime search and rescue, disaster relief and research’ (BBC, 2015a). According
+to the Pew Research Center, based on a cross-national survey of 15,313 respondents
+
+218
+
+International Studies 55(3)
+
+from 10 Asia-Pacific countries (6 April–27 May, 2015), the majority of the
+respondents from the Philippines (91%), Japan (83%), Vietnam (83%), South
+Korea (78%), Australia (63%), Malaysia (45%) and Indonesia (41%) confirmed
+that they are ‘very/somewhat concerned’ about the territorial maritime disputes
+with China (Pew Research Center, 2015).
+Notably, on 28 July 2015, the Chinese navy ‘conducted live firing drills’ in the
+SCS, which involved ‘more than 100 naval vessels, dozens of aircrafts, several
+missile launch battalions of the Second Artillery Corps, as well as unknown number of information warfare troops’ (The Ministry of National Defense, People’s
+Republic of China, 2015). In other words, ‘China’s growing naval power’ facilitated the emergence of a perception of overwhelming ‘capability and evident willingness to enforce its claims more assertively’ (Ciorciari & Weiss, 2012, p. 63).
+Since the start of Xi Jinping’s leadership, China has demonstrated more confidently its military capabilities in the SCS region and expressed escalatory foreign
+policy rhetoric in ways that were not observable in previous years (Poh, 2017,
+p. 158; see also Chang-Liao, 2016).
+Those unilateral actions by Chinese authorities have triggered serious complaints from other Northeast (particularly Japan and Taiwan) and Southeast Asian
+(especially Vietnam and the Philippines) states, many of them hinted that the
+probability of a military confrontation in the region are much higher than in previous decades. Even a non-claimant Southeast Asian state such as Singapore
+expressed its discontent over Chinese assertiveness in the SCS region; specifically, Singaporean Prime Minister Lee Hsien Loong upheld the SCS ruling in The
+Hague in 2016 and called for freedom of navigation rather than Chinese control
+of the maritime area (Yahya, 2018). Ann Marie Murphy (2017, p. 172) clearly
+described the various remarkable ways in which Beijing has been vigorously
+undermining other Southeast Asian states’ activities in the SCS region:
+China’s maritime assertiveness not only produces disequilibrium in the system but also
+directly threatens the national interests of four states under discussion. China has ousted
+Philippine fisherman from Scarborough Shoal and taken physical control of it. Beijing
+has denied Vietnam fisherman access to traditional fishing grounds, deployed an oil
+exploration rig to waters within Vietnam’s EEZ, and used force against Vietnamese
+ships sent to protect those waters. China has physically interfered with Indonesian
+efforts to arrest Chinese ships caught fishing illegally in Indonesia’s EEZ. China has
+made numerous incursions into Malaysian waterways and planted a Chinese flag in
+Malaysia’s EEZ. These actions illustrate a willingness on the part of China to use military power to enforce its claims in the South China Sea in violation of its commitments
+under United Nations Convention on the Law of the Sea (UNCLOS) and numerous
+agreements with ASEAN to resolve disputes peacefully.
+
+In response to Chinese land reclamation projects, smaller SCS claimant states
+started to bolster their military defence capabilities and have welcomed an
+increased presence of US naval and other military forces in their own territories—a development that was markedly absent in the last twenty years since the
+end of the Cold War. The brewing anxiety among Asian states over the recent
+Chinese activities in the SCS region is reflective of a much broader trend
+
+Regilme Jr
+
+219
+
+(Cheng & Paladini, 2014, p. 187): ‘Since 2010, China has been perceived by the
+Western world as adopting an increasingly assertive posture in safeguarding its
+maritime interests.’ In fact, Zhou Fangyin (2016, pp. 869, 871), a prominent
+foreign policy strategist from the Beijing-based Chinese Academy of the Social
+Sciences, acknowledges that ‘since 2010 the situation in the South China Sea,
+which had been calm during the post-Cold War era, has become more volatile’—a transformation of Beijing’s earlier stance of ‘keeping a low profile’ to a
+‘striving for achievement’ mode (p. 871). Thus, the emergence of Chinese-made
+artificial islands in the disputed SCS region and the Chinese military build-up
+therein intensified a sense of insecurity among Southeast Asian states including
+two notable non-SCS claimant states in the broader Asia-Pacific region, particularly Japan and Australia.
+The recent Chinese militarization of the SCS dispute is a quite unprecedented
+development in a US-dominated East Asian order. Minjiang Li (2015, pp. 362–363)
+argues that, the 2000s, or the pre-Xi Jinping era, witnessed a much more multilaterally engaged Chinese foreign policy even in regard to the SCS issue. In the
+1990s, Beijing was generally ‘prepared to shelve the sovereignty issue, work
+towards a peaceful resolution of the dispute based on international law, and
+jointly develop the natural resources with other claimants’ (Storey, 1999, p. 99).
+For example, Beijing provided ‘consistent political support’ to ASEAN, by active
+participation in its various regional security dialogues (Storey, 1999). Notably,
+the Chinese government and the ASEAN member countries committed to the
+Declaration on the Conduct of Parties in the SCS (DOC), which contributed to
+the relative peace and stability in the disputed maritime territory (Li, 2015, p. 363).
+In November 2011, during the ASEAN–China Summit in Bali, Indonesia, Beijing
+committed to providing 3 billion RMB to establish the ASEAN–China Maritime
+Cooperation Fund for projects supportive of the DOC in addition to its participation in multilateral negotiations with the ASEAN claimant countries on drafting a
+Code of Conduct on the SCS (Li, 2015, p. 363). Even as early as 2002, the ASEAN
+and China ‘signed the Declaration on the Conduct of Parties in the SCS with a
+view to enhancing peace, stability, economic growth, and prosperity in the region’,
+and Beijing even ‘acceded to the Treaty of Amity and Co-operation one year later’
+(Scott, 2012; Thang, 2011, p. 63). Indeed, the pre-Xi Jinping regime witnessed a
+more diplomacy-oriented approach to the SCS dispute, an observation that is also
+shared by prominent Chinese legal scholars (Shicun & Huaifeng, 2003, p. 311),
+who enumerated various diplomatic instruments in which China and the ASEAN
+have used prior to 2010. Accordingly, all those instruments were ‘important contributions to maintenance and promotion of regional peace, security and progress’,
+and they ‘have set up a landmark in the history of Sino-ASEAN relations’ (Shicun
+& Huaifeng, 2003, p. 311).
+There are three key domestic political factors that drove Chinese foreign policy
+strategy in the SCS region to a more assertive and militaristic stance. The first key
+factor refers to the broader domestic change whereby the politicians at the top of
+the Communist Party leadership have been experiencing fundamental challenges
+to their domestic legitimacy. As Kurlantzick (2011, p. 6) describes such a
+development, the death of Deng Xiaoping (China’s top leader until the 1990s)
+
+220
+
+International Studies 55(3)
+
+witnessed the emergence of ‘successive leaders—who were younger or lacked
+military experience—did not enjoy the same wide-ranging authority’. Because of
+the increasing military capabilities of the Chinese military, the People’s Liberation
+Army (PLA) ‘has begun to view itself as the most important guarantor of China’s
+safety and national interests’—an assessment that was upheld by Jin Canrong,
+an expert based in Renmin University in Beijing (Kurlantzick, 2011, p. 7).
+In response, as early as 2010, top Communist Party officials have begun asserting
+Chinese interests beyond its territory, a strategy that could bolster their nationalist
+credentials and domestic authority. In fact, on July 2010, during an ASEAN summit in Hanoi, Chinese Foreign Minister Yang Jiechi expressed his dissatisfaction
+with US Secretary of State Hillary Clinton’s call for respecting the norm of ‘freedom of navigation’ in the SCS region. Yang reminded ASEAN leaders that ‘China
+is a big country and other countries are small countries, and that’s just a fact’,
+while he looked down the foreign affairs minister of Singapore, which is one of
+America’s closest allies in the Asia-Pacific region (Pomfret, 2010, p. 9). This
+incessant desire for the Chinese Communist Party politicians to bolster its nationalist credentials, together with the increasing economic power and military capabilities of the Chinese state, facilitated the emergence of Chinese assertiveness in
+the SCS dispute.
+The second factor pertains to a more particular political development, specifically the change in the top leadership in Beijing in 2012 and the internal political
+struggles within the Chinese state, both of which reinforced the increased military and political assertiveness of Beijing over the SCS issue. Indeed, Xi Jinping’s
+ascendancy in 2012 to the top leadership of the state marked a transformative
+episode in Chinese foreign policy, especially in regard to the SCS dispute.
+Several scholars of Chinese politics argue that Xi Jinping’s administration’s ‘has
+used China’s growing economic and military might to impose its stamp on the
+world order’ (Lam, 2014). Such a strategy was quite evident in regard to territorial disputes involving China. Although the SCS dispute has been an on-and-off
+episode, it was notably in year 2012 that many scholars and policy pundits considered the SCS issue as a critical juncture for Chinese foreign policy in regard
+to territorial disputes. In fact, the official Chinese government document called
+Study Times (released by the Central Party School, the top political academy of
+the Communist Party) specifically lauded President Xi for his policies in the
+SCS region:
+[President Xi] personally steered a series of measures to expand [China’s] strategic
+advantage and safeguard the national interests …. On the South China Sea issue, [Xi]
+personally made decisions on building islands and consolidating the reefs, and setting
+up the city of Sansha. [These decisions] fundamentally changed the strategic situation
+of the South China Sea. (Mai & Zheng, 2017)
+
+Notably, the increase in the number of military and civilian activities in the SCS
+coincided with core ideational foundations of Chinese foreign policy. For example, the Communist Party in 2012 ‘reclassified the South China Sea as a “core
+national interest”, placing it alongside such sensitive issues as Taiwan and
+
+Regilme Jr
+
+221
+
+Tibet’—which ‘means China is prepared to fight to defend it’ (Marcus, 2015, p. 6).
+Moreover, such a transformation in policy focus coincided with the naval doctrinal changes since Xi Jinping took power. According to the strategy document
+released by the Chinese navy in 2015, China ‘will shift its focus to “open seas
+protection”, rather than “offshore waters defence”’ (BBC, 2015b). According to
+US intelligence sources, Chinese authorities have built around 800 hectares of dry
+land in the disputed Spratly Island region, which many suspected could be easily
+used for naval and military purposes. In addition, China’s PLA has recently commissioned ‘regular security patrols’ in the SCS, ‘reflecting its increasing capability
+and the heightening concern of the Chinese leadership to strengthen China’s
+territorial claims in the area through a military presence’ (Cheng & Paladini,
+2014, p. 193).
+These political developments suggest that ‘the new Chinese leadership is
+widely seen to be more confident in handling major power relations and more
+inclined to assert China’s interests than its predecessors’, whereby the current
+Chinese leadership has assertively bolstered a foreign policy paradigm that
+emphasizes a ‘new type of great power relations’ (xinxing daguo guanxi), where
+the aim is to put China at the centre of global governance (Chan & Li, 2015).
+Such a foreign policy agenda coincided with the 18th Party Congress Report in
+China that emphasizes the need of making the country a ‘maritime power’ through
+several strategies:
+(1) formulating an effective control, management and protection of previously neglected
+maritime domain, particularly the ECS and SCS; (2) exerting significant influence on
+regional and international maritime regulations and practices with assertive maritime
+diplomacy; (3) becoming a powerful maritime economy through effective use of maritime
+resources within and outside of China’s sovereign space. (Chan & Li, 2015; Sun, 2014)
+
+The unprecedented framing of its assertive military strategy is motivated by Xi
+Jinping’s need for consolidating his power, especially by ‘demonstrating his
+image as a strongman, who is willing to take tough political and military action to
+protect China’s interests’ and by paying ‘more attention to the military than his
+two predecessors’ (Chan & Li, 2015, p. 43). Because of China’s very recent economic slowdown, Xi Jinping’s regime has bolstered nationalist rhetoric in its SCS
+issue-oriented public diplomacy in order to divert the public’s attention from the
+regime’s recent failure to effectively sustain a high level of equitable economic
+growth, which is a crucial source of the Communist Party’s legitimacy (Nye &
+Ramani, 2015). Consequently, the increasing militarization of the SCS and the
+intensification of public diplomacy disputes boosted Xi Jinping’s ‘prestige and
+authority for his domestic reform agenda, along with an assumption that the
+United States is extremely unlikely to intervene at this moment in time’ (Sun, 2014).
+Notably, China did not participate in the special arbitral tribunal constituted under
+Annex VII to the 1982 United Nations Convention on Law of the Sea (UNCLOS)
+proceedings in The Hague in the years 2015 and 2016, as initiated by the Philippine
+government—a policy option showing Beijing’s preference for unilateralism
+and remaking the status quo (Permanent Court of Arbitration, 2015). The ruling
+
+222
+
+International Studies 55(3)
+
+intensified the political resolve of China to defend its territorial claims, while the
+specifications of the PCA judgement motivated the Duterte-led Philippine government to abandon the ruling and restart a clean slate in its negotiations and
+deliberations with Beijing (Zhang, 2017, p. 441). When the PCA ruled in favour
+of the Philippines, Beijing openly defied and criticized the court judgement and
+responded by:
+Further, in direct contravention of the tribunal’s ruling, China has methodically begun
+to expand its regional military footprint in the region. Besides stepping up its fortification of military outposts in the Spratly Islands in open defiance of the tribunal’s ruling,
+China has constructed reinforced aircraft hangars on Subi, Mischief and Fiery Cross
+reefs. These new facilities have potential military usage and expand the PLA’s powerprojection capability in the SCS. (Shah, 2017, p. 6)
+
+The third factor refers to Beijing’s disinterest in working with the ASEAN, which
+could facilitate the resolution of disputes among member states and with external
+actors (Huan & Emmers, 2016, p. 90). There are three ways that undermine
+ASEAN’s potential for facilitating effective dispute resolution mechanisms in the
+SCS issue. First, the Chinese government has prudently preferred to deal with
+each claimant state on a bilateral basis, as such a mode of diplomacy weakens the
+bargaining position of smaller states such as the Philippines and Vietnam. Second,
+because several ASEAN members are also SCS claimant states with conflicting
+and converging interests, it is difficult for the regional body to act as a neutral
+mediator. Finally, because China is not a member of the ASEAN, any potential
+dispute mechanism emanating from the ASEAN could be seen as illegitimate to
+the extent that it is likely designed to promote the interests of ASEAN member
+states. In other words, it is very likely that China will continue to defy any form
+of institutionalized dispute resolution mechanisms, especially in the context of the
+ASEAN and the recently concluded PCA ruling in The Hague.
+China is also engaged in bolstering the rhetorical persuasiveness of its territorial claims, particularly the highly disputed ‘nine-dashed line’, which was an
+arbitrary demarcation line that Beijing refers to in its claims for big parts of the
+SCS. China’s PLA Deputy Chief of Staff General Wang Guanzhong made an
+exhaustive elaboration of the ‘nine-dashed line’ during the 2015 Shangri-La
+Dialogue (Sun, 2014). More recently, Chinese military documents and officials’
+speeches have framed China as a maritime power, although Beijing’s top diplomats have undermined the militaristic rhetoric surrounding the SCS issue.
+Ouyang Yujing, head of the Chinese foreign ministry’s department of boundary
+and ocean affairs, contended that the SCS issue and the recent construction of
+artificial islands must be seen in light of China’s role in ‘maritime search and
+rescue, disaster prevention and mitigation, marine scientific research, meteorological observation, ecological environment preservation, safety of navigation
+and fishery production’ (Graham-Harrison, 2015). Similarly, Chinese defence
+ministry spokesperson Yang Yujun argued that: ‘Looking from the angle of sovereignty, China’s development of construction on its islands is no different at all
+from all the other types of construction going on around the country’, and ‘island
+
+Regilme Jr
+
+223
+
+building’ was ‘beneficial to the whole of international society’ because of reasons pertaining to humanitarian and environmental protection purposes (BBC,
+2015b; see also BBC, 2015a). Even China-based policy scholars supported
+Beijing’s recent foreign policy changes on the SCS issue, including the Chinese
+Academy of Social Sciences’ Xu Liping, who contended that ‘it’s obviously
+unfair for the West to question China’s intentions in its reclamation projects … it
+shows that the West has wilfully misjudged the situation in the South China Sea’
+(Graham-Harrison, 2015). Yet the worrying trend about China’s claim in the SCS
+region is not only the ambitious territorial claims invoked in the nine-dashed line
+principle but also China’s strategic nuclear capabilities that could challenge
+American power in the region, especially in the control of sea lines of communications and the commercial routes in the SCS (Koda, 2016, pp. 93–96).
+Consequently, Beijing’s assertive foreign policy likely facilitated a ‘rally
+“round the flag”’ effect (Oneal & Bryan, 1995), which increased domestic nationalism in mainland China, thereby diverting the Chinese population’s focus on the
+economic and socio-economic problems at home. One likely factor for strategically increasing Chinese assertiveness in the SCS region is that the ‘the Communist
+Party of China (CPC) wants an external conflict to divert attention of the Chinese
+people from numerous domestic tensions’, a goal that is inspired by the fact that
+‘the large majority of [the] Chinese [population] are convinced that the SCS is
+indisputably part of China’ (Meyer, 2016, p. 7). To be exact, there are several
+principal domestic problems that the Communist Party is extremely concerned
+about: corruption within the government, economic slowdown, pollution in urban
+areas, economic inequality and demographic imbalance, among many others
+(Laliberte, 2016). Those problems undermine the Chinese state’s legitimacy.
+While the Communist Party appears committed to address those problems headon, diverting the population’s attention towards perceived security threats abroad
+could somehow lessen the dissatisfaction with the problems at home.
+The recent developments in the SCS facilitated the prevailing perception of
+insecurity among smaller Southeast Asian claimant states’ political elites. Indeed,
+‘in recent years, China’s ties with many regional countries have experienced a
+turn for the worse’, which ‘was largely due to the fact that Beijing has demonstrated more readiness to utilize hard power in pursuit of its security interests in
+the South China Sea’ (Li, 2015, p. 360). Consequently, the Philippine government
+has vigorously welcomed increased US military presence within its territory. As
+one of the only two Mutual Defence Treaty allies of the USA in Southeast Asia
+(the other is Thailand, a non-claimant state in the SCS dispute), the Philippines
+has reaffirmed its strategic military partnership with the USA in November 2011
+through the Manila Declaration, whereby increased ‘rotational deployment’ of US
+naval surveillance in the archipelago and its nearby maritime areas has been welcomed. Such a demand for ‘rotational deployment’ of US forces was fortified in
+the 2014 Enhanced Defense Cooperation Agreement between the USA and the
+Philippines, which is a 10-year pact that formally allows American forces to temporarily station military troops and resources within the archipelago (Agence
+France Presse, 2014). In April 2015, US Defense Secretary Ashton Carter
+announced that Manila and Washington will sponsor annual military exercises
+
+224
+
+International Studies 55(3)
+
+near the Spratly Islands in SCS, and he upheld America’s ‘desire to ensure there
+were no changes in the status quo by force or that territorial rows were militarized’
+(Brunnstrom & Takenaka, 2015).
+Because of the emergence of assertive Chinese foreign policy rhetoric and
+actions in the SCS region, the other smaller countries in the region started to
+change their approach to the SCS dispute. For instance, it was in April 2012 when
+the Philippine navy dispatched BRP Gregorio del Pilar, one of the most modern
+warships in the region and a decommissioned ship from the US Coast Guard, in
+order to reprimand several Chinese fishing vessels that were spotted in the
+Scarborough Shoal—a territory that is claimed by China, Taiwan and the
+Philippines (Chan & Li, 2015). For the Philippine navy, the goal was to arrest the
+Chinese fishermen. Yet, two powerful Chinese maritime surveillance ships eventually hindered the Philippine forces—an act that led to the Chinese state’s eventual control of the Scarborough Shoal. Since the takeover of the Shoal in 2012 by
+the Chinese authorities, the SCS region has been the source of various public
+diplomacy disputes, increasing military presence (China, the USA and other
+Southeast Asian claimant states), and the build-up by Chinese authorities of artificial islands and infrastructures in various reef regions in the SCS. As Philippine
+Foreign Affairs Secretary Albert Del Rosario maintained at that time, China’s
+activities in the disputed maritime region are ‘threats to regional peace and stability’ (Felongco, 2013).
+Other Pacific Asian states have also fostered new (or renewed) strategic military partnerships in the aim of countering China. Although a non-SCS claimant
+state but a Mutual Defence Treaty ally nonetheless of the USA, Japan has
+recently fostered closer military cooperation with the Philippines in the wake of
+China’s assertiveness in the SCS and Senkaku territorial dispute with Japan.
+Under Prime Minister Shinzo Abe, the Japanese government has been busy garnering support from other non-Asian powers in order to undermine China’s
+attempts to change the status quo in the territorial boundary make up of the
+region. Largely generated by Shinzo Abe’s lobbying during the 2015 G7 meeting
+in Germany, the G7 leaders issued a joint statement that advocated for ‘maintaining a rules-based maritime order and achieving maritime security’, and that
+the established powers ‘are committed to maintaining a rules-based order in the
+maritime domain based on the principles of international law, in particular as
+reflected in the UN Convention on the Law of the Sea [UNCLOS]’ (Panda, 2015).
+The joint statement came as a remarkable development considering that many
+of the G7 countries’ leaders have, in the past, consistently avoided directly
+addressing the SCS dispute. The Philippines and Vietnam have recently upgraded
+in January 2015 their bilateral ties in the form of a ‘strategic partnership’ and
+advocated that ‘“concerned parties” should adhere to the ASEAN-China
+Declaration on Conduct of Parties in the South China Sea, conclude a Code of
+Conduct, exercise restraint, and resolve disputes peacefully in accord with
+international law, including the United Nations Convention on the Law of the
+Sea’ (Thayer, 2015). Vietnam’s increasingly strained relationship with China
+began in June 2011, when Hanoi accused Beijing of ‘deliberately cutting the
+cables of oil exploration vessels in the western Spratly Islands, calling the second
+
+Regilme Jr
+
+225
+
+incident a “premeditated and carefully calculated” attack’ (Ciorciari, 2012, p. 61).
+The Philippines, as the longstanding US ally in the Southeast Asian region, has
+also intensified its negotiations for strategic partnership agreements with South
+Korea, Japan and Vietnam, particularly in terms of military, political and economic cooperation. Indeed, the ‘growing Chinese assertiveness in the South
+China Sea in recent years has led to a growing convergence of strategic interests
+between Manila and Hanoi’ (Thayer, 2015)—a development that emerged
+amidst the deterioration of China–Vietnam bilateral ties (Amer, 2014).
+Considering the very recent regime change in Malaysia, the new Prime Minister
+Mahathir bin Mohammad planned for the Malaysian authorities to continue
+occupying a handful of islands in the SCS. He also recommended that ‘foreign
+warships’ should be avoided in the SCS and should be replaced instead by
+smaller boats that are supposed to guard it from pirates (Jaipragas, 2018;
+The Straits Times, 2018). Although Mahathir is quite known to be an anti-China
+politician, we are likely to see a hedging strategy with Beijing under the second
+term of leadership of Mahathir, who appears to cautiously welcome Chinese
+investments in the high-technology sector, but also demonstrates a strong commitment to defending Malaysia’s claims in the SCS. Amidst the increasing unilateral assertiveness of Chinese claims in the SCS, ‘the United States has moved
+to strengthen defense ties with ASEAN states that share concerns about China’,
+a strategy that even led the Obama administration to resume military ties with
+Kopassus, or the Indonesian special forces unit (Buszynski, 2012, p. 148).
+
+The South China Sea and the Challenges to US–China
+Bilateral Relations
+What makes the current SCS dispute fundamentally different in the way previous
+claimant and other stakeholder states approached such an issue in the past?
+Agreeing with Leszek Buszynski (2012), I contend that the SCS dispute could be
+a possibly dangerous source of interstate conflict among claimant states and great
+powers—a development that only emerged in recent years. More specifically, the
+political elites within and far beyond the region perceive the current conflict ‘not’
+merely as an intra-Asian affair but as a critical issue on great power rivalry. That
+is the case because, as Buszynski (2012, pp. 139–140) maintains, the SCS dispute
+‘has started to become linked with wider strategic issues relating to China’s naval
+strategy and America’s forward presence in the area’. Similarly, arguing that the
+USA and China are ‘caught in a security dilemma’, Adam Liff and G. John
+Ikenberry (2014, p. 89) maintain that ‘self-understood defensively oriented policies are generating insecurity and military responses on the other side that make
+both countries less secure and trigger new rounds of competition’. Hence, the SCS
+dispute is a demonstrative case of this strategic military competition and rivalry
+between the USA and China; yet the increasing economic links and deeply embedded identifications and affinity of secondary states in the Asia-Pacific region
+influence the patterns of their foreign policies.
+
+226
+
+International Studies 55(3)
+
+There are several reasons for why many political elites in the region view the
+SCS dispute in the context of US–China rivalry. First, many smaller states in the
+region began viewing the increased Chinese activities in the SCS as part of
+Beijing’s unprecedented assertion of its influence in the region. For that reason,
+US Defense Secretary Ashton Carter lamented the ongoing land reclamation in
+the SCS: ‘It is unclear how much farther China will go. That is why this stretch of
+water has become the source of tension in the region and front-page news around
+the world.’ (Graham-Harrison, 2015). Carter further called on ‘China to limit its
+activities and exercise restraint to improve regional trust’ (Brunnstrom &
+Takenaka, 2015, p. 2). On May 2015, Chinese President Xi Jinping introduced his
+‘Asia for Asians’ security framework (Ford, 2015). Such a framework has been
+operationalized in two ways: (a) China has made the SCS land reclamation project
+as a way to challenge US military primacy in the region; and (b) China established
+the Asian Infrastructure Investment Bank with a 50 billion USD initial capital as
+a way of undermining US leadership in regional economic governance in the
+Asia-Pacific. Those patterns of foreign policy behaviour of Beijing demonstrate
+that its land reclamation activities in the region are just part and parcel of a broader
+strategy that seeks to undermine US leadership, and quite possibly, to demonstrate
+to its Asian neighbours that its reliance upon the USA for regional security is no
+longer tenable. That is consistent with the theoretical expectation of realists that
+‘rising powers invariably seek to dominate the regions in which they are situated’
+(Layne, 2012, p. 206).
+Second, the foreseeable future of US leadership is likely to encounter unprecedented challenges due to the increased dominance of China. Particularly because
+of China’s artificial islands, Washington DC would find it difficult to unconditionally uphold US hegemony unless it opts to be susceptible to military confrontation
+and conflict with Beijing (Burgess, 2016, p. 113). Whereas other influential scholars (Ikenberry, 2001, 2011; Nye, 2013) remain optimistic as to the continuity of
+America’s influence in Asia, rapid economic and political developments that are
+quite favourable to China are quite compelling so much so that Beijing’s eventual
+hegemonic role in the Asia-Pacific region is possible. Economically, notwithstanding their political reliance on Washington, many Asia-Pacific countries’ largest trading partner in the last few years has been China. In fact, China was the
+biggest trading partner of ASEAN countries in 2013, with 14 per cent of total
+trade within the region, while the USA ranked only fourth with a meagre 8 per
+cent (ASEAN, 2014). Having China as its largest trading partner since 2012, the
+Philippines had to momentarily tone down its criticism of Beijing in its land reclamation activities in 2012, amidst the deep setbacks in banana imports and local
+tourism (Higgins, 2012). China’s rapidly increasing economic power is likely to
+motivate Beijing to strongly pull Asian states away from Washington’s sphere of
+influence. As a result, the SCS dispute became a ‘material symbol of Southeast
+Asian uncertainties and insecurities vis-à-vis China’ (Ba, 2011, p. 279). Worried
+about US commitment in the region, Japan is forging much higher and unprecedented levels of security cooperation with two SCS claimant countries: the
+Philippines and Vietnam (Grønning, 2017). Apparently departing from the huband-spokes system of US-led security alliances in the Asia-Pacific region, the
+
+Regilme Jr
+
+227
+
+Japanese government calls this renewed cooperation with the Philippines and
+Vietnam as strategic partnership. That partnership includes the establishment of
+intensive diplomatic exchanges, regularization of strategic security dialogues,
+intensifying the frequency of interactions and meetings of high-level executive
+government officials, diplomatic assistance in regard to territorial disputes with
+Beijing, support for maritime security and intensive military training collaboration (Grønning, 2017, p. 2).
+Although I contended earlier that Southeast Asian states are still likely to
+primarily invoke US security guarantees, that form of reliance is quite tenuous.
+The inability of the Trump administration to issue credible security guarantees
+and the increasing political and military assertiveness of Beijing likely contributed to the emergence of such conditional and tentative reliance upon US leadership. Many Southeast Asian states still continue to ‘hedge’ in this broader US–China
+rivalry. Evelyn Goh (2005, p. xiii) describes the key elements of hedging in the
+region: (a) indirect or soft balancing whereby the aim is to form a coalition that
+can undermine Chinese influence; (b) complex engagement with China at various
+dimensions; and (c) general strategy of engaging several great powers for them to
+engage in the Asian regional order. Although Vietnam continues to be firm in
+asserting its territorial claims, the current Philippine government under President
+Duterte appears to be cautiously hedging by discarding the PCA ruling in The Hague
+and deescalating public criticisms of Beijing’s foreign policy. The reinvigorated
+security cooperation of the Philippine government with the US and Japanese
+governments shows how Manila is carefully reaffirming its strategic interests in
+the SCS region without publicly undermining Beijing.
+Why is it then that smaller Asian states continue to hedge in issues such as
+economic cooperation and trade but not fully rely on China for military security?
+It is likely that the entrenched pro-US norm socialization of political and military
+elites in the region might be driving hedging tendencies among states in the
+region. While states’ intentions are quite hard to discern (Glaser, 2011b, p. 3;
+Rosato, 2015), identity politics is more likely to play a substantial influence in
+reinforcing the deep-seated biases of Southeast Asian political elites ‘who appear
+to see the United States in a relatively positive light’ (Hamilton-Hart, 2012, p. 4).
+This apparently dominant pro-US sentiment among Asia-Pacific, especially
+Southeast Asian, foreign policy and political elites is prevalent despite the uncertainty of the general public on whether the demise of US dominance in the region
+is imminent.
+The second reason is that the general domestic public within those hedging
+Asian states generally have a more favourable view of the USA, most especially
+in the Philippines where 85 per cent of the total number of respondents asked in a
+2013 Pew Research survey have a positive view of the USA, but only 48 per cent
+do favour China (Pew Research Center, 2013). Notably, according to the Spring
+2015 Global Attitudes Survey of the Pew Research Center (Question 96), the
+major countries in the region—specifically Indonesia, Japan, the Philippines,
+South Korea, Thailand and Vietnam—consider the USA as its ‘greatest ally’.
+In the same survey (Question 18), the considerable majority of survey respondents from three Southeast Asian claimant states—Indonesia, the Philippines and
+
+228
+
+International Studies 55(3)
+
+Vietnam—reported that China is ‘unlikely or will never replace’ the USA as the
+dominant player in the region. In the same survey, respondents from Japan, the
+Philippines and Vietnam consider China as the ‘greatest threat’ in the Asia-Pacific
+region. Despite all the talk of US decline, it appears that the majority of the populations in the region still rely on Washington for maintaining regional security.
+Also, the most recent public opinion survey from the Manila-based Social Weather
+Station confirmed that 70 per cent of the total number of Filipino respondents
+asked in December 2016 confirmed that they had ‘much trust’ in the USA (ABSCBN News, 2017). That finding denotes that pro-American sentiments in the
+Philippines are likely to be more entrenched than fleeting, especially when one
+considers that the survey was conducted at the height of Philippine President
+Rodrigo Duterte’s anti-US rhetoric and political uncertainties triggered by election victory of Donald Trump in the USA.
+Third, the USA has enduring and formal institutional and legal ties with many
+smaller Asian states involved in territorial disputes with China. To be sure, it is
+politically costly for high-ranking US government officials to publicly abandon
+its supportive diplomacy towards its Asian allies, even though the USA seems
+unwilling to engage in a full-blown war against China very soon just because of
+the SCS dispute. As the US Secretary of State Hillary Clinton declared in July
+2010 during the ASEAN Regional Forum, ‘the United States has a national interest in freedom of navigation, open access to Asia’s maritime commons, and
+respect for international law in the South China Sea’ (Landler, 2010). US strategic
+relations with China’s neighbouring countries are even positively reinforced
+because, as Michigan-based scholar John Ciorciari (2015, pp. 245–246) notes,
+‘Beijing is encased by the spokes of the US-led alliance system and regional institutions designed partly to constrain rising powers.’ Those spokes are likely to
+persist, at least in the short term, despite US President Donald Trump’s relatively
+weak commitment in maintaining US security guarantees to its Asian allies.
+Notably, the region is currently quite divided when it comes to fully depending
+on the USA for security guarantees (Graham, 2013). The USA has remained to be
+the only great power that has formal military alliances with key Asia-Pacific
+nations (Thailand, the Philippines, South Korea, Japan, Australia and New
+Zealand), a positively unique bilateral relations with Taiwan, a beneficial security
+agreement with Singapore and a productive relationship with Malaysia, Indonesia
+and Vietnam—in conjunction with a relatively long history of joint and regular
+military training exercises with US forces in the region (The Heritage Foundation,
+2015). Although Beijing lacks enduring formal and informal military and diplomatic agreements with Southeast Asian states in ways that Washington DC has,
+China has been consistently and vigorously intensifying its trade and economic
+cooperation with Southeast Asian countries (Ratner & Kumar, 2017). It is likely
+that Southeast Asian states may see Beijing’s commitment in economic cooperation as favourable compared to the Trump administration’s lack of interest in
+regional leadership, especially with its withdrawal from the Trans-Pacific
+Partnership trade agreement.
+The need for Washington to constructively engage with Beijing, especially in
+bigger issues of global governance, undermines a full and unconditional commitment
+
+Regilme Jr
+
+229
+
+of the USA to its Asian allies. The future of the international financial system and
+global trade relations remains a core concern, which compels Beijing and
+Washington to engage with each other. As the IMF revealed in 2014, ‘for the first
+time in more than 140 years, the US has lost the title of the world’s largest
+economy—it has been stolen by China’ (Carter, 2014). As the USA became a
+debtor nation, China’s ‘enormous currency reserves potentially convert China into
+a major global governance actor in the field of international financial markets’
+(Gu, Humphrey, & Messner, 2008, p. 277). It is possible that Washington DC
+could give up its hegemony in the Asia-Pacific should Beijing strongly demand it
+as a condition for further engagement in issues of bilateral concerns as well as
+those that are global in scope. Beyond issues of global economic importance, one
+may take into account other compelling issues, including regional stability in
+West Asia, global non-state terrorism, climate change, global health, stability of
+the global financial markets—all of which are likely to divert Washington’s supposedly full and undivided attention in territorial disputes and quest for hegemony
+in the Asia-Pacific. Indeed, the sheer population and economic size of China,
+together with its ambitions for a more influential role in the global policymaking
+table, means that ‘many global problems will be insoluble without Chinese global
+engagement’ (Gu et al., 2008, p. 288). China may be a ‘partial power’ in a broad
+range of global issues (Shambaugh, 2013), and that makes it less likely that US
+security guarantees to its Asian allies are unconditional should the SCS dispute
+escalate to a military confrontation. In contrast to political elites in Washington,
+the American public, however, is quite likely to support the Philippines instead of
+China, primarily because of the former’s political identity as a democratic state;
+after all, ‘identity does play an important role in how security policy is constructed’ in the USA (Hayes, 2009, p. 977). Of course, the conditions under which
+democratic identity plays a role vis-à-vis the long-term interest in engaging with
+China are open to further empirical scrutiny.
+Although it is unlikely that China will soon overtake the USA in global military
+dominance, Washington’s hegemonic leadership in the Asia-Pacific region is quite
+likely to be increasingly contested. Notably, The Economist reported in 2014 itself
+that China’s military defence budget has increased significantly. If such trends continue, then China is likely to push out the USA from dominating the region, not
+only because of Washington’s divided foreign policy attention elsewhere beyond
+Asia but the overwhelming military capacities of China that would continue to
+dominate the Pacific Rim. To be sure, the goal for China’s People’s Liberation
+Army Navy (PLAN) is ‘to dominate in contested territorial waters and to be able
+to push any hostile forces well beyond the “first island chain”—that is, beyond the
+Philippines, Taiwan and the Japanese archipelago’ (The Economist, 2014).
+The effectiveness of Washington’s strategic ties with its Asia-Pacific allies is
+conditional upon how far China’s rise can accommodate US interests in the
+region. Assuming that China’s economic and military growth becomes a steady
+trend in the decades to come, one may contend that the SCS issue is just a foretaste, or at least a preliminary exercise, of Beijing in challenging Washington’s
+almost five-decade-long dominance in the Asia-Pacific. As Aaron Friedberg
+(2011, p. 27) argues, ‘for as long as China continues to be governed as it is today,
+
+230
+
+International Studies 55(3)
+
+its growing strength will pose a deepening challenge to American interests’. This
+aspiration of Beijing emerges from the deep-seated insecurity of China vis-à-vis
+US hegemony, as evidenced by a 2003 study of the influential Beijing-based
+Academy of Social Sciences analysts, many of whom believe that ‘China is effectively encircled by the United States’ (Shambaugh, 2004, p. 72). Despite that
+gloomy scenario, one should note two important moderating conditions: (a) that
+the US government may expect that China would eventually become a powerful
+yet cooperative stakeholder in the current US-led order (in a way that Japan and
+Germany did after the Second World War), and (b) that the domestic politics in
+both countries pose some credible incentives to avoid a full-scale military conflict, at least in the next few years.
+
+Conclusions: Theoretical and Political Implications
+The pervasive public and elite expectation in Southeast Asia for US security guarantees can be explained in two ways. First, Southeast Asian policy elites and the
+domestic public are socialized into a largely biased and deeply embedded pro-US
+orientation. Indeed, this argument is reminiscent of a constructivist explanation
+about why and how various Southeast Asian states’ foreign policy establishments
+have viewed a very favourable and biased impression of the USA (Hamilton-Hart,
+2012; see also the Pew Research Surveys cited in this article). Second, such ‘ideational’ expectations for a much firmer US role in the SCS dispute have been reinforced by ‘materialist’-oriented policies. Southeast Asian states have vigorously
+facilitated the increased American military activities in the disputed territories as
+well as a stronger public diplomacy against China.
+Washington’s abilities to defend its dominant role in East Asia are constrained
+by the overwhelming set of ‘hegemonic responsibilities’—or the expectations for
+a status quo hegemonic power to maintain and to reinforce its rule over a specific
+region. Echoing the liberalist paradigm, I argue that, whereas the USA and
+China might appear to have conflicting interests in the SCS dispute, other areas of
+bilateral cooperation remain crucial to Washington and Beijing (Cheng, 2016).
+During the time of the Obama and Xi administrations, Beijing and Washington
+vigorously cooperated in a wide range of global governance issues such as ‘bilateral trade, cross-Strait relations, the RMB exchange rate, and the Tibetan issue …
+climate change, denuclearization, cybersecurity, anti-terrorism, and poverty
+reduction’ (Cheng, 2016). That cooperation emerged notwithstanding the heated
+diplomatic rancour between the Philippines and China (pre-Trump/Duterte era),
+as well as other SCS claimant states whereby at times, the US government was
+pressured to provide some explicit security guarantees to defend the status quo—
+as that was the case especially during the SCS dispute hearings in The Hague from
+the years 2015 to 2016.
+In addition, identity politics and norm socialization compel state actors to
+firmly rely on a status quo power in which they strongly identify with; yet a status
+quo power’s commitment to weaker partner states is most likely to be undermined
+by three conditions. First, it is undermined due to status quo powers’ severe
+
+Regilme Jr
+
+231
+
+limitations in fulfilling its hegemonic responsibilities in other regions of the world
+(regions beyond the Asia-Pacific in the case of the SCS dispute). Second, commitment is constrained when the status quo power’s economic health is closely
+intertwined with the challenger power’s economy (e.g., trade imbalances between
+China and the USA). Such is the case because the status quo power is most likely
+to pursue a policy of strategic engagement, or the dualistic policy of ‘constructive
+engagement’ (via trade, economic diplomacy and political trust-building measures) and ‘defensive confrontation’ (using public diplomacy to defend the security
+interests of smaller state allies in a region where the challenger power is also
+located). In so doing, the status quo power’s commitment to its allies is conditional
+as long as long as policies of defensive confrontation do not directly (at least
+perceived as such) harm the core interests and working relationship of the status
+quo and the challenger power in regard to much bigger and more consequential
+issues of global governance. Third, commitment is also weakened when smaller
+states in a contested region are unable to coherently form (either to bandwagon
+‘or’ to balance) a region-wide strategy towards the challenger power, especially in
+highly contested issues of geostrategic importance, as it is the case in the SCS
+dispute. Such a collective action problem undermines a status quo power’s quest
+to constrain the perceived aggressive behaviour of the challenger power.
+What are the policy and political implications of a theory-guided analysis of
+the SCS dispute? The answer to that question depends on one’s positionality in
+this dispute, especially when one considers that ‘theory is always for someone and
+for some purpose’ (Cox, 1981, p. 129). Nonetheless, I provide herein some tentative recommendations on moving forward amidst rising tensions in the SCS region
+vis-a-vis the political crisis in the USA under the Trump administration. It is
+very unlikely that China would give up its territorial claims, especially that the
+continued legitimacy of the Communist Party of China primarily depends on continued economic growth—and the SCS is crucial to such growth due to its significance in world trade and the plausible natural resources that it could offer. In the
+short term, smaller SCS claimant states are likely to be better off by realizing that
+depending upon US security guarantees would be a fatal option. The political
+uncertainty in American domestic politics, especially since the start of Donald
+Trump’s presidency, suggests that the credibility of US foreign policy on the SCS
+is at best unclear. Instead of antagonizing Beijing through media tirades and military exercises in the SCS region, smaller SCS claimant states instead, at least in
+the next few years, may adopt a foreign policy hedging strategy in respect to the
+US–China rivalry and reduce its public display of antagonism against China.
+Other SCS claimant states may consider brokering a short-term agreement with
+Beijing that cedes proportional and temporary control of the SCS region depending on the size of the claimant country. That potential resolution model acknowledges two underemphasized yet important facts: (a) all claimants have legitimate
+stakes in the SCS region; and (b) that the SCS conflict is an asymmetric one,
+where it is very unlikely that other claimant states could make a credible stance
+against the growing military and economic influence of Beijing. This model is
+perhaps the most fair-minded option that could potentially and temporarily ease
+the tensions in the region. This approach could work at least in the short term,
+
+232
+
+International Studies 55(3)
+
+particularly in the absence of an effective regional organization that could overcome the collective action problems involving all the claimant parties and thirdparty actors, including the USA.
+Acknowledgments
+I thank the editor and the anonymous peer reviewers of this journal as well as Julian
+Gruin, Rainer Baumann, Shirin Saedi, and the participants of the seminar series at the Kate
+Hamburger Kolleg, Center for Global Cooperation Research, Duisburg, Germany.
+
+Declaration of Conflicting Interests
+The author declared no potential conflicts of interest with respect to the research, authorship
+and/or publication of this article.
+
+Funding
+The research for this article was made possible through a Käte Hamburger Fellowship
+conducted at the Center for Global Cooperation Research in Duisburg, funded by the
+German Federal Ministry for Education and Research (BMBF).
+
+Note
+1. I use the term ‘South China Sea’ only because this is the most widely known name for
+the region. It does not necessarily mean that I prefer China as the supposed rightful
+claimant.
+
+References
+ABS CBN News. (2017, March 2). “Very good” trust in US dips; China, Russia ratings
+now positive: SWS. Retrieved 4 December 2017, from http://news.abs-cbn.com/
+news/03/02/17/very-good-trust-in-us-dips-china-russia-ratings-now-positive-sws
+Agence France Presse. (2014). US and Philippines sign ten-year defence pact. Al Jazeera.
+Retrieved from http://www.aljazeera.com/news/asia-pacific/2014/04/us-philippinessign-ten-year-defence-pact-20144284332171232.html
+Amer, R. (2014). China, Vietnam, and the South China Sea: Disputes and dispute
+management. Ocean Development & International Law, 45(1), 17–40.
+ASEAN. (2014). ASEAN trade by selected partner country/region 2013. Retrieved from
+http://www.asean.org/images/2015/January/external_trade_statistic/table19_asof04
+Dec14.pdf
+Ba, A. D. (2011). Staking claims and making waves in the South China Sea: How troubled
+are the waters? Contemporary Southeast Asia: A Journal of International and Strategic
+Affairs, 33(3), 269–291.
+BBC. (2015a). China to ‘complete’ South China Sea land reclamation. Retrieved from
+http://www.bbc.com/news/world-asia-china-33144751
+———. (2015b). Chinese navy to focus on ‘open seas’, paper says. Retrieved from http://
+www.bbc.com/news/world-asia-china-32880477
+Brunnstrom, D., & Takenaka, K. (2015). U.S. defense chief warns against militarization
+of territorial rows in Asia. Reuters. Retrieved from http://www.reuters.com/
+article/2015/04/08/us-usa-japan-carter-idUSKBN0MZ02V20150408
+Burgess, S. F. (2016). Rising bipolarity in the South China Sea: The American rebalance to
+Asia and China’s expansion. Contemporary Security Policy, 37(1), 111–143.
+
+Regilme Jr
+
+233
+
+Buszynski, L. (2012). The South China Sea: Oil, maritime claims, and U.S.–China strategic
+rivalry. The Washington Quarterly, 35(2), 139–156.
+Buzan, B. (2010). China in international society: Is ‘peaceful rise’ possible? Chinese
+Journal of International Politics, 3(1), 5–36.
+Carter, B. (2014). Is China’s economy really the largest in the world? BBC. Retrieved from
+http://www.bbc.com/news/magazine-30483762
+Chan, I., & Li, M. (2015). New Chinese leadership, new policy in the South China Sea
+dispute? Journal of Chinese Political Science, 20(1), 35–50.
+Cheng, L. (2016, August 30). Assessing U.S.-China relations under the Obama
+administration. Retrieved 8 May 2017, from https://www.brookings.edu/opinions/
+assessing-u-s-china-relations-under-the-obama-administration/
+Chang-Liao, N.-C. (2016). China’s new foreign policy under Xi Jinping. Asian Security,
+12(2), 82–91.
+Cheng, J. Y. S., & Paladini, S. (2014). China’s ocean development strategy and its handling
+of the territorial conflicts in the South China Sea. Philippine Political Science Journal,
+35(2), 185–202.
+Christensen, T. J. (2006). Fostering stability or creating a monster? The rise of China and
+US policy toward East Asia. International Security, 31(1), 81–126.
+Ciorciari, J. D. (2012). Institutionalizing human rights in Southeast Asia. Human Rights
+Quarterly, 34(3), 695–725.
+———. (2015). A Chinese model for patron-client relations? The Sino-Cambodian
+partnership. International Relations of the Asia-Pacific, 15(2), 245–278.
+Ciorciari, J. D., & Weiss, J. C. (2012). The Sino-Vietnamese standoff in the South China
+Sea. Georgetown Journal of International Affairs, 13(1), 61–69.
+Cornut, J. (2015). Analytic eclecticism in practice: A method for combining international
+relations theories. International Studies Perspectives, 16(1), 50–66.
+Cox, R. (1981). Social forces, states and world orders: Beyond international relations
+theory. Millennium, 10(2), 126–155.
+Fangyin, Z. (2016). Between assertiveness and self-restraint: understanding China’s South
+China Sea policy. International Affairs, 92(4), 869–890.
+Felongco, G. (2013). Philippines alarmed over militarisation in South China Sea. Gulf
+News. Retrieved from http://gulfnews.com/news/asia/philippines/philippines-alarmedover-militarisation-in-south-china-sea-1.1203797
+Ford, P. (2015). A newly modest China? Official’s reassurances raise eyebrows in US. The
+Christian Science Monitor. Retrieved from http://www.csmonitor.com/World/AsiaPacific/2015/0107/A-newly-modest-China-Official-s-reassurances-raise-eyebrowsin-US
+Fravel, M. T. (2014). Territorial and maritime boundary disputes in Asia. In S. Pekkanen,
+J. Ravenhill, & R. Foot (Eds), The Oxford handbook of the international relations of
+Asia (pp. 524–546). Oxford: Oxford University Press.
+Friedberg, A. L. (2011). Hegemony with Chinese characteristics. The National Interest,
+July/August, 18–27.
+Friedrichs, J. (2009). From positivist pretense to pragmatic practice varieties of pragmatic
+methodology in IR scholarship. International Studies Review, 11(3), 645–648.
+Glaser, C. (2011a). Rational theory of international politics: The logic of competition and
+cooperation. Ithaca, NY: Princeton University Press.
+———. (2011b). Will China’s rise lead to war? Why realism does not mean
+pessimism. Foreign Affairs, March/April, 80–91.
+Goh, E. (2005). Meeting the China challenge: The U.S. in Southeast Asian regional security
+strategies. Washington DC: East-West Center.
+
+234
+
+International Studies 55(3)
+
+Graham, E. (2013). Southeast Asia in the US rebalance: Perceptions from a divided region.
+Contemporary Southeast Asia: A Journal of International and Strategic Affairs, 35(3),
+305–332.
+Graham-Harrison, E. (2015). South China Sea islands are Chinese plan to militarise zone,
+claims US. The Guardian. Retrieved from http://www.theguardian.com/world/2015/
+may/30/us-claims-south-china-sea-islands-are-beijing-plot
+Grønning, B. E. M. (2017). Japan’s security cooperation with the Philippines and Vietnam.
+The Pacific Review, 31(4), 1–20.
+Gu, J., Humphrey, J., & Messner, D. (2008). Global governance and developing countries:
+The implications of the rise of China. World Development, 36(2), 274–292.
+Hameiri, S., & Jones, L. (2015). Rising powers and state transformation: The case of
+China. European Journal of International Relations, 22(1), 72–98.
+Hamilton-Hart, N. (2012). Hard interests, soft illusions: Southeast Asia and American
+power. Ithaca, NY: Cornell University Press.
+Hayes, J. (2009). Identity and securitization in the democratic peace: The United States and
+the divergence of response to India and Iran’s nuclear programs. International Studies
+Quarterly, 53(4), 977–999.
+Higgins, A. (2012). In Philippines, banana growers feel effect of South China Sea
+Dispute. The Washington Post. Retrieved from http://www.washingtonpost.com/
+world/asia_pacific/in-philippines-banana-growers-feel-effect-of-south-china-seadispute/2012/06/10/gJQA47WVTV_story.html
+Huan, A., & Emmers, R. (2016). What explains the success of preventive diplomacy in
+Southeast Asia? Global Change, Peace & Security, 29(1), 77–93.
+Hughes, C. (1995). China and Liberalism Globalised. Millennium, 24(3), 425–445.
+Ikenberry, G. J. (2001). American power and the empire of capitalist democracy. Review of
+International Studies, 27(5), 191–212.
+———. (2008). The rise of China and the future of the West. Foreign Affairs, January/
+February, 57–72.
+———. (2011). Liberal Leviathan: The origins, crisis, and transformation of the American
+world order. Princeton, NJ: Princeton University Press.
+Jaipragas, B. (2018, June 19). Forget the warships: Malaysian PM Mahathir’s peace
+formula for South China Sea. South China Morning Post. Retrieved from https://www.
+scmp.com/week-asia/geopolitics/article/2151403/forget-warships-malaysian-pmmahathirs-peace-formula-south
+Katzenstein, P. J., & Okawara, N. (2001). Japan, Asian-Pacific security, and the case for
+analytic eclecticism. International Security, 26(3), 153–185.
+Koda, Y. (2016). Maritime Security in the Region: SCS and ECS as Key Arenas for
+Converging Political Interests. Asia-Pacific Review, 23(2), 86–108.
+Kirshner, J. (2012). The tragedy of offensive realism: Classical realism and the rise of
+China. European Journal of International Relations, 18(1), 53–75.
+Kurlantzick, J. (2011). The belligerents. The New Republic. Retrieved from https://
+newrepublic.com/article/82211/china-foreign-policy
+Lam, W. (2014, December 5). China’s Soft-Power Deficit Widens as Xi Tightens Screws
+Over Ideology. Retrieved 8 June 2015, from http://www.jamestown.org/programs/
+chinabrief/single/?tx_ttnews%5Btt_news%5D=43160&tx_ttnews%5BbackPid%5D=
+25&cHash=d5d24d2f82c5981963c0180d300e62cd#.VXa4WmCOXjR
+Laliberte, A. (2016). China’s domestic problems. Diplomat and International Canada.
+Retrieved from http://diplomatonline.com/mag/2016/10/chinas-domestic-problems/
+Landler, M. (2010). Offering to aid talks, U.S. challenges China on disputed islands.
+The New York Times. Retrieved from http://www.nytimes.com/2010/07/24/world/
+asia/24diplo.html
+
+Regilme Jr
+
+235
+
+Layne, C. (2012). This time it’s real: The end of unipolarity and the pax Americana.
+International Studies Quarterly, 56(1), 203–213.
+Li, M. (2015). The People’s Liberation Army and China’s smart power quandary in
+Southeast Asia. Journal of Strategic Studies, 38(3), 359–382.
+Liff, A. P., & Ikenberry, G. J. (2014). Racing toward tragedy? China’s rise, military
+competition in the Asia Pacific, and the security dilemma. International Security,
+39(2), 52–91. Retrieved from http://www.mitpressjournals.org/doi/pdfplus/10.1162/
+ISEC_a_00176
+Mai, J., & Zheng, S. (2017). Xi personally behind tough stance on South China Sea dispute.
+South China Morning Post. Retrieved from http://www.scmp.com/news/china/policiespolitics/article/2104547/xi-personally-behind-island-building-south-china-sea
+Marcus, J. (2015). US–China tensions rise over Beijing’s ‘Great Wall of Sand’. BBC.
+Retrieved from http://www.bbc.com/news/world-asia-32913899?OCID=fbasia
+Mastanduno, M. (2014). Realism and Asia. In S. Pekkanen, J. Ravenhill, & R. Foot (Eds),
+The Oxford handbook of the international relations of Asia (pp. 25–44). Oxford:
+Oxford University Press.
+Mearsheimer, J. J. (2006). China’s unpeaceful rise. Current History, 105(690), 160–162.
+———. (2014, October 25). Can China rise peacefully? Retrieved from http://www.
+eastlaw.net/wp-content/uploads/2016/09/Can-China-Rise-Peacefully_-_-TheNational-Interest.pdf
+Meyer, P. K. (2016). China’s discourse involving the South China Sea disputes: A nonChinese approach to international affairs. East West Institute. Retrieved from https://
+www.eastwest.ngo/idea/china%E2%80%99s-discourse-involving-south-china-seadisputes-non-chinese-approach-international-affairs
+Monteiro, N. P. (2014). Theory of unipolar politics. New York City, NY: Cambridge
+University Press.
+Murphy, A. M. (2017). Great power rivalries, domestic politics and Southeast Asian foreign
+policy: Exploring the linkages. Asian Security, 13(3), 165–182.
+Nye, J. S., Jr. (2013). Limits of American power. Political Science Quarterly, 117(4), 545–
+559.
+Nye, J., & Ramani, S. (2015). Interview: Joseph Nye. The Diplomat. Retrieved from http://
+thediplomat.com/2015/06/interview-joseph-nye/
+Oneal, J. R., & Bryan, A. L. (1995). The rally ‘round the flag effect in U.S. foreign policy
+crises, 1950–1985. Political Behavior, 17(4), 379–401.
+Panda, A. (2015). G7 leaders call for ‘rules-based’ maritime order, condemn North Korea.
+The Diplomat. Retrieved from http://thediplomat.com/2015/06/g7-leaders-call-forrules-based-maritime-order-condemn-north-korea/
+Parisot, J. (2013). American power, East Asian regionalism and emerging powers: In or
+against empire? Third World Quarterly, 34(7), 1159–1174.
+Permanent Court of Arbitration. (2015). Press release: Arbitration between the Republic of
+the Philippines and the People’s Republic of China. Retrieved from http://www.pcacpa.org/shownews.asp?nws_id=518&pag_id=1261&ac=view
+Pew Research Center. (2013). Philippines: Opinion of the United States—Global indicators
+database. Retrieved from http://www.pewglobal.org/database/indicator/1/country/173/
+———. (2015, September 2). How Asia-Pacific publics see each other and their national
+leaders. Retrieved from http://www.pewglobal.org/2015/09/02/how-asia-pacificpublics-see-each-other-and-their-national-leaders/
+Pomfret, J. (2010). U.S. takes a tougher tone with China. The Washington Post.
+Retrieved from http://www.washingtonpost.com/wp-dyn/content/article/2010/07/29/
+AR2010072906416.html
+
+236
+
+International Studies 55(3)
+
+Poh, A. (2017). The Myth of Chinese Sanctions over South China Sea Disputes. The
+Washington Quarterly, 40(1), 143–165.
+Ratner, E., & Kumar, S. (2017). The United States is losing Asia to China. Foreign Policy.
+Retrieved from https://foreignpolicy.com/2017/05/12/the-united-states-is-losing-asiato-china/
+Regilme, S. S. F., & Hartmann, H. (2018). Mutual delegitimization: American and Chinese
+development assistance in Africa. The SAIS Review of International Affairs. Retrieved
+from http://www.saisreview.org/2018/03/30/china-america-development-assistance/
+Regilme, S. S. F., & Parisot, J. (Eds). (2017a). American hegemony and the rise of emerging
+powers: Cooperation or conflict. London and New York, NY: Routledge.
+———. (2017b). Introduction: Debating American hegemony—Global cooperation and
+conflict. In J. Parisot & S. S. F. Jr. Regilme (Eds), American hegemony and the rise of
+emerging powers, cooperation or conflict (pp. 3–18). Abingdon and New York, NY.
+Rosato, S. (2015). The inscrutable intentions of great powers. International Security,
+39(3), 48–88.
+Scott, D. (2012). Conflict irresolution in the South China Sea. Asian Survey, 52(6), 1019–
+1042.
+Shah, D. P. (2017). China’s maritime security strategy: An assessment of the white paper on
+Asia-Pacific security cooperation. Maritime Affairs: Journal of the National Maritime
+Foundation of India, 13(1), 1–13.
+Shambaugh, D. (2004). China engages Asia: Reshaping the regional order. International
+Security, 29(3), 64–99.
+———. (2013). China goes global: The partial power. New York, NY: Oxford University
+Press.
+Shicun, W., & Huaifeng, R. (2003). More than a declaration: A commentary on the
+background and the significance of the declaration on the conduct of the parties in the
+South China Sea. The Chinese Journal of International Law, 2(1), 311–319.
+Sil, R., & Katzenstein, P. (2010). Analytic eclecticism in the study of world politics.
+Basingstoke: Palgrave Macmillan.
+Spitzer, K. (2012). The South China Sea: From bad to worse. Time. Retrieved from http://
+nation.time.com/2012/07/15/the-south-china-sea-from-bad-to-worse/
+Starrs, S. (2013). American economic power hasn’t declined—It globalized! Summoning
+the data and taking globalization seriously. International Studies Quarterly, 57(4),
+817–830.
+Storey, I. J. (1999). Creeping assertiveness: China, the Philippines and the South China Sea
+dispute. Contemporary Southeast Asia, 21(1), 95–118.
+Sun, Y. (2014). China’s new calculations in the South China Sea. East European Politics
+and Societies, 1–2. Retrieved from http://scholarspace.manoa.hawaii.edu/bitstream/
+handle/10125/33116/APB%20no.%20267.pdf?sequence=1
+Thang, N. D. (2011). Fisheries co-operation in the South China Sea and the (ir)relevance of
+the sovereignty question. Asian Journal of International Law, 2(1), 59–88.
+Thayer, C. (2015). The Philippines and Vietnam forge a strategic partnership. The Diplomat.
+Retrieved from http://thediplomat.com/2015/03/the-philippines-and-vietnam-forge-astrategic-partnership/
+The Economist. (2014). At the double. The Economist. Retrieved from http://www.
+economist.com/news/china/21599046-chinas-fast-growing-defence-budget-worriesits-neighbours-not-every-trend-its-favour
+The Heritage Foundation. (2015). Asia 2016 index of US military strength. Retrieved from
+http://index.heritage.org/military/2015/chapter/op-environment/asia/
+
+Regilme Jr
+
+237
+
+The Ministry of National Defense, People’s Republic of China. (2015). Chinese navy
+conducts live firing drill in South China Sea. Retrieved from http://eng.mod.gov.cn/
+TopNews/2015–07/28/content_4611603.htm
+The Straits Times. (2018, June 20). Let Malaysia continue occupying islands in South
+China Sea: PM Mahathir. Retrieved from https://www.straitstimes.com/asia/se-asia/
+pm-mahathir-let-malaysia-continue-occupying-islands-in-south-china-sea
+Yahuda, M. (2013). China’s new assertiveness in the South China Sea. Journal of
+Contemporary China, 22(81), 446–459.
+Yahya, Y. (2018). Singapore, Australia share common interests in South China Sea
+issue, says PM Lee. Retrieved from https://www.straitstimes.com/politics/singaporeaustralia-share-common-interests-in-south-china-sea-issue-says-pm-lee
+Yoon, S. (2015). Why is China militarising the South China Sea? NTU Rajaratnam School
+of International Studies. Retrieved from https://www.rsis.edu.sg/rsis-publication/rsis/
+co15113-why-is-china-militarising-the-south-china-sea/#.VWhVmWCOXjQ
+Zhang (张 锋), F. (2017). Assessing China’s response to the South China Sea arbitration
+ruling. Australian Journal of International Affairs, 71(4), 440–459.
+
+

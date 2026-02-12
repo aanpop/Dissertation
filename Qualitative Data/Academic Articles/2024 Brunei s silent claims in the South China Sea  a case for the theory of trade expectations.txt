@@ -1,0 +1,756 @@
+Cogent Social Sciences
+
+ISSN: 2331-1886 (Online) Journal homepage: www.tandfonline.com/journals/oass20
+
+Brunei’s silent claims in the South China Sea: a
+case for the theory of trade expectations
+Bama Andika Putra
+To cite this article: Bama Andika Putra (2024) Brunei’s silent claims in the South China Sea:
+a case for the theory of trade expectations, Cogent Social Sciences, 10:1, 2317533, DOI:
+10.1080/23311886.2024.2317533
+To link to this article: https://doi.org/10.1080/23311886.2024.2317533
+
+© 2024 The Author(s). Published by Informa
+UK Limited, trading as Taylor & Francis
+Group.
+Published online: 14 Feb 2024.
+
+Submit your article to this journal
+
+Article views: 6713
+
+View related articles
+
+View Crossmark data
+
+Citing articles: 5 View citing articles
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=oass20
+
+Cogent Social Sciences
+2024, VOL. 10, NO. 1, 2317533
+https://doi.org/10.1080/23311886.2024.2317533
+
+Politics & International Relations | Research Article
+
+Brunei’s silent claims in the South China Sea: a case for the theory
+of trade expectations
+Bama Andika Putraa,b
+School of Sociology, Politics, and International Studies, University of Bristol, Bristol, UK; bDepartment of International
+Relations, Universitas Hasanuddin, Makassar, Indonesia
+a
+
+ABSTRACT
+
+Although many Southeast Asian countries have asserted maritime claims in the South
+China Sea, often in conflict with China’s claims, Brunei has adopted a different stance.
+Brunei continues to display a stance of being a silent claimant to the South China Sea
+despite the growing turbulence of the disputed waters in recent years with the
+continued reclamations and use of maritime constabulary forces. In comprehending
+this irregularity, this article employs Copeland’s ‘theory of trade expectation’ and
+classifies the South China Sea as a grey zone conflict, which leads to the following
+conclusions: 1) Brunei is displaying deference to China’s South China Sea claims due to
+the growing convergence of Brunei’s long-term economic plans to China’s introduction
+of the Belt Road Initiative, and 2) A visibly apparent, growing economic interdependence
+of Brunei towards Chinese trade deals and foreign investments, as seen in the past
+decade of China’s involvement in Brunei’s infrastructural development, petrochemical
+facilities, joint oil, and gas explorations, and the establishment of the Brunei-Guangxi
+Economic Corridor. The Sultanate’s recent scramble to diversify its economy has led it
+to embrace a desperate attempt to secure opportunities from China by steadily
+neglecting its claims in the South China Sea.
+
+ARTICLE HISTORY
+
+Received 16 October 2023
+Revised 7 February 2024
+Accepted 8 February 2024
+KEYWORDS
+
+Brunei; South China Sea;
+economic dependence;
+trade expectations
+REVIEWING EDITOR
+
+Richard Meissner,
+Department of Political
+Sciences, University of
+South Africa, Muckleneuk
+Campus: University of
+South Africa, Pretoria,
+South Africa
+SUBJECTS
+
+Asian Politics;
+International Politics;
+International Relations
+
+Introduction
+China’s Nine-Dash Line is responded to in a coercive manner by Southeast Asian claimant states. Countries
+like Vietnam, the Philippines, Malaysia, and Indonesia, the latter despite being non-claimant state, collectively continue to show that China’s power projection at sea should be responded to similarly. China has
+asserted itself in the South China Sea through land reclamations, abandonment of the United Nations
+Convention on the Law of the Sea (UNCLOS), and vessels ramming one another. It has now reached
+escalatory heights as China has diversified the maritime assets utilized to achieve effective occupancy
+over the contested waters, including deploying maritime constabulary forces, coast guards, fishing militia,
+fishing surveillance vessels, and law enforcement agencies. As a result, Southeast Asian states continue
+to adapt to the new dynamics at sea by also adopting measures to crowd the seas with active non-military
+vessels of their own, including coast guards and maritime security agencies, to crowd the seas (Paleri,
+2015; Parameswaran, 2019; Phuong & Vu, 2017). However, Brunei does not share this typical Southeast
+Asian response to China’s aggression.
+Brunei falls under the minority of states showing apparent deference to China’s South China Sea
+claim. Unlike its counterparts in the Association of Southeast Asian Nations (ASEAN), Brunei seems to
+adopt a ‘silent claim’ of its Exclusive Economic Zone (EEZ) borders in the South China Sea. As of the
+current status quo, Brunei still holds a rectangle-shaped maritime border of a 200-nautical mile EEZ,
+which includes the Louisa Reef, Owen Shoal, and Rifleman Bank (Espena & Uy, 2020). Nevertheless, when
+Chinese vessels continue to intrude Brunei waters through its maritime constabulary forces, Brunei does
+CONTACT Bama Andika Putra
+bama.putra@bristol.ac.uk
+School of Sociology, Politics, and International Studies, University of Bristol,
+Bristol, UK; Department of International Relations, Universitas Hasanuddin, Makassar, Indonesia
+© 2024 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0/), which
+permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. The terms on which this article has been
+published allow the posting of the Accepted Manuscript in a repository by the author(s) or with their consent.
+
+2
+
+B. A. PUTRA
+
+not intend to pursue those vessels, let alone to showcase defiance to China post-crisis. On the contrary,
+Brunei has allowed those incursions to occur while simultaneously agreeing with China on new deals
+related to China’s Belt Road Initiative (BRI). The Sultanate’s adoption of a silent claim must be investigated. It constitutes a foreign policy anomaly for a claimant state to the South China Sea, one of the
+world’s important regional maritime trading routes and home to vast untapped oil and gas reserves.
+Indeed, Southeast Asian states have not adopted a common stance in facing China’s aggression in the
+South China Sea. ASEAN’s main point of action has been to conclude the Code of Conduct of Parties in
+the South China Sea (COC). This legally binding document would bind China and Southeast Asian states
+to abide by peaceful norms in navigating around the vast waters of the South China Sea. But after
+decades of negotiation, it is clear that the COC is facing a negotiation stalemate (Mishra, 2017). Because
+of the lack of a decisive ASEAN solution to the crisis, individual Southeast Asian states have taken different courses of action vis-à-vis China’s assertiveness at sea.
+The current literature has concluded that hedging reveals why Southeast Asian states have maintained
+a persistent posture in defending their maritime territorial claims or the contrary. As studies have argued,
+hedging is a strategy in between ‘balancing’ and ‘bandwagoning’, in which states are expected to adopt
+policies of defiance and deference vis-à-vis great power relations (Goh, 2016; Haacke, 2019; Jones &
+Jenne, 2022). In the case of Southeast Asian states, studies have discussed how some states, such as the
+Philippines and Vietnam, are willing to maintain their territorial claims against China but, at the same
+time, attempt to showcase deference to respect the importance of China for their economies (Gurung,
+2018; Hiep, 2013; Kuik, 2021). In contrast, Indonesia adopted a non-claimant status to the South China
+Sea conflicts due to the strong convergence of the BRI to Joko Widodo’s Global Maritime Fulcrum grand
+strategy (Putra, 2023c). Consequently, existing Southeast Asian studies have been inconclusive in determining what factors lead a state to maintain a claimant or a non-claimant status vis-à-vis maritime border contestation, including why states adopt coercive or cooperative policies. This empirical puzzle also
+applies to Brunei, where there is a lack of studies assessing the unique stance of being a claimant state
+to the South China Sea; however, it coincided with the posture of being a silent claimant.
+Brunei faces a significant issue: the decline of its natural oil and gas reserves. Brunei is a small yet
+wealthy monarch in Southeast Asia. The Sultanate’s GDP primarily contributes to its natural reserves,
+which have been the significant feature of Brunei’s exports since its independence. However, due to the
+declining availability of its natural resources, Sultan Hassanal Bolkiah, the current Monarch of Brunei,
+promised the Brunei citizens that it would diversify the Brunei economy to avoid being overly dependent
+upon natural resource trade. China currently acts as one of Brunei’s leading two-way trade partners, with
+clear signals of foreign investments in the upcoming years due to the convergence of Brunei’s long-term
+development plan ‘Wawasan Brunei 2035’ and China’s BRI. Coincidentally, this growing economic convergence of the future economic closeness of Brunei and China has come at a time when Brunei is adopting an apparent deference to China’s claim in the South China Sea.
+This article argues that in comprehending Brunei’s silent claimant status in the South China Sea,
+insights can be attained by adopting economic dependence literature. Specifically, this study adopts the
+theory of trade expectation, a term coined by Copeland in his 1996 article, ‘Economic Interdependence
+and War’. Copeland contends that in understanding why states go to war, despite being economically
+interdependent in trade relations, is because of a consideration for future trade prospects (Copeland,
+1996). Thus, states can have a long record of economic ties with one another but still engage in war if
+the trade expectations start to decline or are predicted to be non-existent in the near/distant future. The
+theory of trade expectation will be employed in this article to evaluate how significant discourses of
+trade expectations influenced Brunei’s non-coercive stance towards its South China Sea claim.
+Nevertheless, the theory is slightly modified to fit the context of maritime territorial disputes in the
+South China Sea (which does not necessarily conclude a situation of war or peace). Literature on grey
+zone conflicts, a situation in which the condition of peace or war is blurred, is adopted in deciphering
+Brunei’s South China Sea policy (Hoffman, 2016), with the expectation that trade expectations lead to
+Brunei adopting coercive or peaceful gestures at sea. This qualitative research is an empirical explanatory
+research, utilizing secondary data from the Observatory of Economic Complexities (2010–2020) and the
+Asian Maritime Transparency Initiative (2019–2020).
+
+Cogent Social Sciences
+
+3
+
+Brunei’s position in the South China Sea, Copeland’s theory of trade expectations, and
+grey zone conflicts: a literature review
+Existing literature concludes that the significance of the South China Sea for claimant states continues
+to rise. Academics argue that the natural resource reserve and the advantage of having hundreds of
+additional miles to include in a nation’s maritime jurisdictional area constitute a major reason a state
+projects power in the South China Sea (HUXLEY, 1998; Pham, n.d.; Yahuda, 2013). Nevertheless, most of
+the existing literature argues the power projections of states besides Brunei. Vietnam, for example, has
+been highlighted by studies focusing on analyzing Vietnam’s coercive concern marked with heightened
+tensions since China’s placement of an oil drilling rig within Vietnam’s EEZ (Blazevic, 2012; Sangtam,
+2021; Yeo, 2023). The Philippines is well-known for its position to take matters to International Arbitration,
+seeking an international law-based resolution to the decades-long tension with China (Basawantara,
+2020; Chubb, 2022; Pemmaraju, 2016; Yu, 2016). Meanwhile, despite being a non-claimant state to the
+South China Sea, Indonesia continues to build up its maritime constabulary forces and adopt grand
+strategies to exert its sovereign claims (Putra, 2022; Putra & Cangara, 2022; Putra & Darwis, 2022).
+Literature discussing Brunei’s position in the South China Sea is scarce despite decades of new dynamics
+in the turbulent seas.
+Past studies have focused on seeing what Brunei echoes as the solution to the South China Sea.
+Storey is among the first scholars to emphasize how Brunei wishes to resolve tensions in the South
+China Sea. He argues that the complexities of the South China Sea issue can only be resolved through
+multilateral approaches (Storey, 2005). In a recent study, Espen and Uy reported that Brunei is currently
+echoing the need to adopt a two-step approach to solve tensions in the South China Sea, consisting of
+bilateral measures to solve the crisis and the conclusion of the Code of Conduct in the South China Sea
+(Espena & Uy, 2020).
+Debates persist as to whether Brunei has genuinely abandoned its claims or not. Hart, in 2018, representing the conclusions of most existing studies, contended that Brunei is abandoning its claim in the
+South China Sea to secure funding (Hart, 2018). Tiezzi argued the opposite, stating that Brunei has not
+abandoned its claim but adopts a low-profile stance as it is unwilling to give up its sovereign claims in
+the Louisa Reef (Tiezzi, 2014). Existing literature has not been conclusive as to whether Brunei’s claim in
+the South China Sea continues to stand or is abandoned. A middle position thus has been formed, with
+some academics arguing that Brunei still holds a decisive stance in the South China Sea but one that
+is silent.
+Two main studies directly tackle the question of Brunei’s vanishing or silent claimant gesture in the
+South China Sea. The first is Putra’s 2020 article arguing that Brunei’s vanishing claims in the South China
+Sea are due to systemic and domestic determinants. His definition of vanishing, in this case, is the lack
+of decisive responses towards the crisis that occurred a decade ago involving Brunei. Putra argued convincingly that the relative power of Brunei compared to China had led Brunei to rethink its priorities and
+favor aligning with the growing hegemon. The issue with this study is identified in the domestic determinants of Brunei’s vanishing claims in the South China Sea. Putra contends that we can comprehend
+Brunei’s stance based on the political elites’ consensus to steer clear from a decisive and aggressive
+stance in the turbulent seas by showing how Sultan Hassanal Bolkiah, the Brunei Ministry of Foreign
+Affairs, and the Brunei Military hold a similar stance of deference to China (Putra, 2021). However, the
+issue with this literature is that, as a monarch, the intervening variable of domestic considerations cannot
+be fully utilized. It is impossible to embrace a different opinion of Brunei’s monarch due to the hierarchical nature of the decision-making process in Brunei. Thus, this study sheds light on Brunei’s growing
+fear of China in the international system. Still, the domestic transmission belt of those structural considerations could not be analyzed in the manner intended.
+A similar conclusion was also made in a 2021 study from Lawrence entitled ‘Brunei’s Response to
+China’s Belt and Road Initiative’. Lawrence argued that Brunei is projecting a silent claim in regard to its
+claims in the South China Sea. A reason for that can be associated with the BRI launched by China in
+2013. Lawrence concluded that the issue faced by Brunei is its reliance on oil reserves in the past. The
+nature of Brunei as a monarch is that the Sultanate prioritizes its domestic constituents’ demands and
+welfare. The diminishing natural resource reserve of Brunei is thus alarming, leading to possible mistrust
+
+4
+
+B. A. PUTRA
+
+of Sultan Hassanal Bolkiah’s people. As a solution, Lawrence argued that Brunei is willing to adopt a
+silent claim stance in order to align its policy to China’s BRI because only China has been able to provide
+the financial incentives required to advance Brunei’s economy, and help keep satisfactory levels of the
+Brunei people in acceptable levels (Lawrence, 2021).
+Existing studies on the topic of Brunei’s silent claims in the South China Sea can be enhanced by
+incorporating the following: 1) evaluation of Brunei’s stance amid the rising maritime assertive power
+projections in contested seas, and 2) existing importance of Brunei-China economic relations and the
+prospect in the future. This article argues that by incorporating Copeland’s theory of trade expectation,
+Brunei is willing to bypass the maritime constabulary force incursions into Brunei’s EEZ. Furthermore, the
+growing convergence between Brunei’s long-term development plan, ‘Wawasan Brunei 2035’, and China’s
+BRI has led to the greater importance of China for Brunei’s long-term development plans to diversify
+Brunei’s economy. This article thus contributes to discourses on understanding Brunei’s contemporary
+foreign policy anomaly in the South China Sea due to its divergent views and actions compared to its
+Southeast Asian counterparts.
+The theory of trade expectations is relevant to explaining the contemporary dynamics in the South
+China Sea. In the past, liberals and realists adopted different consequences to interdependence. Liberals
+argued that this situation leads to peace due to the increased value of trade. In contrast, realists argued
+that it eventually causes war due to the emergence of a state’s vulnerabilities (Copeland, 1996). Copeland
+argued that an issue faced by these two differing opinions is the lack of consideration towards future
+trading environments, which he argued impacts significantly the decision of war or peace. He further
+described two different scenarios (Copeland, 1996, p.24):
+1.
+2.
+
+‘High dependence and pessimistic expectations for future trade, creating a low or negative expected
+value for trade’ (this leads to war) or
+‘High dependence and optimistic expectations for future trade, creating a high expected value for
+trade’ (this leads to peace).
+
+However, the maritime border contestations in the South China Sea suit the descriptions of grey zone
+conflict rather than a peace or war situation. Recent studies have found that the boundaries between
+war and peace have been blurred (Azad et al., 2022). Consequently, as reported by Hoffman, terms such
+as ‘grey zone warfare’, ‘hybrid warfare’, and ‘ambiguous warfare’ have been the dominant terminologies
+adopted in assessing unique conflicts taking place such as in the South China Sea (Hoffman, 2016;
+Ormsbee, 2022). Therefore, it constitutes a conflict due to the involvement of aggressive and coercive
+actions; however, it falls below the threshold of conventional military warfare. The South China Sea is
+considered a grey zone conflict in this article. In doing so, two scenarios are predicted to be adopted by
+the claimant states: Aggressive policies (mimicking situations of war in Copeland’s analysis) or cooperative policies (mimicking peace situations). The following sections take the stance that Brunei is adopting
+cooperative policies due to its interdependence towards the future trade it expects from China.
+
+Contemporary dynamics to Brunei’s silent claims in the South China Sea
+The South China Sea continues to be a source of threat for Southeast Asian states. Recent developments
+in the past decade show that states claimant to the turbulent waters are willing to project power through
+effective occupation and reclamation of small sea islands and rocks. The claimant states of Southeast
+Asia; the Philippines, Malaysia, Brunei, and Vietnam show a mixture of different responses vis-à-vis China’s
+South China Sea aggression. For states such as the Philippines and Vietnam, the dominant course of
+action is to counter China’s assertive maneuvers at sea by showing the presence of maritime constabulary forces (coast guards and fishing surveillance vessels) to project power at sea and represent their
+decisive stance of having sovereignty to their waters (He, 2009; Parameswaran, 2017, 2018; Tarriela, 2022).
+Even Indonesia, as a non-claimant state to the South China Sea, has also developed its Indonesian
+Maritime Security Agency to project an active presence in the South China Sea and renamed its EEZ
+becoming the North Natuna Seas in areas that overlap with China and Vietnam (BAKAMLA, 2020, 2021).
+However, Brunei does not share the strategy of projecting power at sea as a dominant show of
+
+Cogent Social Sciences
+
+5
+
+discontent against China as Brunei is showing limited responses to any form of sea-based intrusions into
+their sovereignty. Such silent responses are most prominent in the case of Brunei, which hardly shows
+any discontent in responding to assertiveness.
+Brunei’s silence in the South China Sea acts as a foreign policy anomaly. Contrary to its neighboring
+Southeast Asian states, Brunei seems to have forgotten that it holds an EEZ that overlaps with China.
+Unlike Indonesia, Brunei, a member of UNCLOS since 1984, is a claimant state to the South China Sea
+due to the apparent overlap of EEZ area with China. Based on existing international law on maritime
+territorial boundaries, Brunei should hold full claim to the Louisa Reef, a feature in the Spratly Islands of
+the South China Sea (Roach, 2014). The Louisa Reef falls within Brunei’s maritime jurisdiction, and any
+form of Chinese contestation towards it would be easy to refute.
+Nevertheless, Brunei seems unwilling to showcase its power or active presence in the islands and reefs
+under its EEZ jurisdiction. China’s current strategy has deployed maritime constabulary forces into its
+claimed Nine-Dash Line (De Castro, 2022). Constabulary forces for China consist of the Chinese Coast
+Guards, maritime fishing surveillance vessels, fishing militia, and other non-military vessels that, if used,
+could represent China’s effective occupancy of the disputed waters. As can be seen in Figure 1, Chinese
+use of their maritime constabulary forces was spotted within Brunei’s EEZ between 1 December 2019
+and 12 January 2020 (AMTI, 2020). In a specific instance between 3–9 December 2019, as seen in Figure
+2, three maritime law enforcement vessels were intentionally within Brunei’s EEZ conducting assertive
+maneuvers close to Brunei’s shores (AMTI, 2020). It is difficult to comprehend China’s true intentions of
+intruding on Brunei’s waters, as patrols in Brunei’s EEZ would not benefit any law-enforcing intentions at
+sea for China. The vessels also did not broadcast their Automatic Identification System (AIS) signals,
+extending the suspicion that the maneuvers were conducted on purpose and with the intent of effective
+occupancy. A surprising turn of events during this crisis is that Brunei did not employ any vessels to
+confront the incursions. Brunei’s response thus acts as an apparent foreign policy anomaly, as it goes
+against the expected responses of Southeast Asian states in the face of Chinese intrusions. For example,
+between 2021 and 2022, Indonesia reported that the maritime constabulary forces that intruded
+Indonesian waters were on the rise. Indonesia responded by deploying its maritime constabulary forces
+to safeguard Indonesia’s sovereignty (IOJI, 2022b, 2022a). Vietnam has employed a similar strategy in the
+past years, as they also developed their coast guards and fisheries surveillance vessels to better respond
+to Chinese incursions (Parameswaran, 2018; Phuong & Vu, 2017). Brunei did not share a common strategy, raising questions about its perception of the disputed waters.
+
+Figure 1. Chinese law enforcement vessel incursions within Indonesia, Brunei, and Malaysia’s EEZ between December
+1, 2019–January 12, 2020. Source: Asian Maritime Transparency Initiative (AMTI, 2020).
+
+6
+
+B. A. PUTRA
+
+Figure 2. Incursions of the Haijing 5202, Haijing 5403, and Haijing 2169 vessels between December 3–9, 2019. Source:
+Asian Maritime Transparency Initiative (AMTI, 2020).
+
+Besides the lack of response of the Brunei government towards China’s incursions, Brunei also shows
+a lack of land occupancy in its overlapping EEZ and near-absent military presence. This goes against the
+existing Southeast Asian states’ policies of actively projecting power at sea, especially in disputed waters.
+Vietnam is a strong case for this. Since the oil rigging crisis of Hai Yang Shi You 981 in 2014, Vietnam
+has taken a coercive turn in its South China Sea policy (Storey, 2014). It now projects visible power at
+sea by deploying its coast guards and maritime constabulary forces.
+Furthermore, on certain islands in the Spratly, Vietnam has employed a strategy similar to China’s by
+conducting reclamation and undergoing construction to show effective occupancy (AMTI, 2021). Such
+power projections can also be seen in non-claimants that face China’s incursions, such as Indonesia.
+Facing a growing number of IUUF and foreign non-military vessels within its North Natuna Seas, Jokowi
+decided to conduct a cabinet meeting above an Indonesian warship, just a year before Jokowi renamed
+the overlapping EEZ area to the North Natuna Seas, further exerting Indonesia’s claims over its waters
+(Connelly, 2017; JP, 2020). Unfortunately, Brunei has not taken a similar pathway of projecting power and
+decisiveness in the South China Sea. On the contrary, Brunei has been silent about any incursions made
+by China. Brunei does not project power at sea through its maritime constabulary forces and has not
+shown any decisive postures exerting Brunei’s EEZ claims in the South China Sea as displayed by its
+neighboring states. Brunei’s South China Sea thus is justified to claim as being a ‘silent claimant’.
+Though Brunei’s claims are silent, it should not be argued that the claims completely vanished. Brunei’s
+territorial and jurisdictional maritime borders were published in 1984, showing Brunei’s proposed EEZ
+(Hart, 2018). Brunei’s EEZ, though limited, still incorporates Bombay Castle, Louisa Reef, Owen Shoal, and
+Rifleman Bank (VOA, 2022). However, surprisingly, Brunei only claims the Louisa Reef, part of the Spratly
+Islands, which is one of the center points of the South China power projection contestations. As a result
+of Brunei’s silent claims, ASEAN, being the regional organization with half of its members impacted by
+the South China Sea dispute, has become divided in the matter. Nevertheless, analyzing China’s role in
+dividing nations’ opinions concerning the South China Sea is vital.
+China’s charm offensive in ASEAN relating to the South China Sea has been to target the poorest
+countries of Southeast Asia: Laos, Cambodia, and Myanmar. China hopes to divide opinions through
+these countries as these are all non-claimant states to the South China Sea and the most economically dependent on China’s investment and trade deals (Kurlantzick, 2007). Throughout this process,
+Brunei was included in the mix, as in April 2016, Chinese Foreign Minister Wang Yi contended that it
+reached a consensus with the countries of ASEAN; Brunei, Laos, and Cambodia; agreeing that the
+South China Sea is not an issue of ASEAN and should be resolved among states facing the issues
+(Hart, 2018).
+
+Cogent Social Sciences
+
+7
+
+Brunei’s silent claims towards the South China Sea coincide with the growing bilateral economic ties
+between China and Brunei throughout the years. Brunei is different from its Southeast Asian states. It is
+a small Sultanate state, yet an oil-rich kingdom that has managed to suppress any demands for reform
+because of the highly subsidized services it provides to its people. Unfortunately, Brunei’s reliance on
+hydrocarbon resources cannot be maintained. And with that is a tremendous blow to Brunei’s economic
+security prospect in the future, as 65 percent of its GDP is from natural gas production (CIA, 2023).
+Sultan Hassanal Bolkiah decided to launch the ‘Wawasan Brunei 2035’ in 2008, consisting of Brunei’s
+long-term government priorities for the upcoming decades. The third goal of the document is to establish a dynamic and sustainable economy that focuses on diversifying its sources of economic revenues
+and is not overly reliant on natural gas production (WB, 2008). The intention to diversify its economy is
+what made China a lucrative prospect of focus for Brunei’s foreign policies due to the convergence of
+Brunei’s intentions to diversify from its reliance on hydrocarbons with what the Belt Road Initiative-related
+funding can offer.
+China announced the BRI in 2013 as an effort to excel in its maritime security for global trade. After
+that, Brunei and China continued to grow closer to one another, with several notable projects being
+discussed and constructed, which aligned with Brunei’s long-term plan of diversifying its economy. Brunei
+perceived China as a primary source of opportunities to further the power of the Sultanate and advance
+Brunei’s economy for the upcoming decades (Lawrence, 2021). Among the projects is a large oil refinery
+facility and petrochemical complex, which would become one among several mega projects between
+China and Brunei in the past decade (Hart, 2018).
+Brunei’s long-term restructuring plan coincides with its silent claims in the South China Sea. Unlike its
+counterparts, Brunei is unwilling to project its power at sea, let alone to showcase discontent with recent
+maritime incursions by Chinese officials. On the contrary, Brunei is willing to allow those conducts to
+take place due to the growing interdependence between China and Brunei in the past decade, based
+on the perception that China is the sole actor that can help Sultan Hassanal Bolkiah realize his ambitious
+‘Wawasan Brunei 2035’. Whether it be related to China’s BRI or not, Brunei and China’s growing economic
+ties have led Brunei to show deference to China and willingly allow China’s claims in the South China
+Sea to stand without objections. The following section explains how economic interdependence between
+Brunei and China has formed and its significance for Brunei.
+
+Growing economic interdependence to China: Brunei’s scramble for economic
+diversification and receptivity to china’s Belt Road Initiative
+The consequence of the convergence of Brunei and China’s economic visions allowed for greater economic interdependence. In the past decade, the bilateral relations between the two countries correspond to the process of policy adjustments to fit the preferences of the other. For Keohane, this
+adjustment process takes place due to the intention of both states to benefit from cooperation (Keohane,
+1984). Consequently, it is argued in this study that Brunei’s trade expectations have opened up a rising
+interdependence towards China, marked by an increasing trend of two-way trade, the convergence of
+long-term economic visions, mutual perception of importance, and the benefits of diversifying and specialization that China’s investments allow Brunei to implement.
+The importance of China for Brunei’s economy continues to rise. Brunei’s two-way trade with China
+surges due to the convergence of Brunei’s ‘Wawasan Brunei 2035’ and China’s BRI and how Brunei is
+willing to sideline its South China Sea claims to gain closer access to China’s investments and trade
+opportunities. Data from the Observatory of Economic Complexity in Figure 3 shows Brunei’s exports
+to China are rising, especially within these past five years (OEC, 2023). Meanwhile, Figure 4 indicates
+that despite fluctuations in several years, the past decade has shown that China also perceives Brunei
+as an essential economic ally as it continues to be receptive to its products (OEC, 2023). Brunei officials contended that in 2022 alone, between January and October, the bilateral trade with China was
+valued at USD 2.53 billion, reflecting China’s growing significance for Brunei’s economic future
+(Kon, 2020).
+Figures 3 and 4 shows a fluctuation in Brunei’s and China’s two-way trade between 2010 and 2020.
+Consultation to Copeland’s theory of trade expectation reveals that peace is still likely in situations where
+
+8
+
+B. A. PUTRA
+
+Figure 3. Export from Brunei to China (2010–2020). Source: Adapted from the Observatory of Economic Complexity
+(OEC, 2023).
+
+Figure 4. Export from China to Brunei (2010–2020). Source: Adapted from the Observatory of Economic Complexity
+(OEC, 2023).
+
+trade numbers fluctuate. He argued that ‘…expected value of trade will not be based on the level at a
+particular moment in time, but upon the stream of expected trade levels into the future’ (Copeland,
+1996, p.20). Copeland places the expected value of trade as a more impactful variable in determining
+peace situations. Therefore, returning back to Brunei’s trade figures vis-à-vis China, focusing on the export
+numbers in the last two years of Figure 3, reveals a significant trend, showing a rising importance of
+mutual perception due to the vast implementation of partnerships allowing for more significant exports
+to be maintained.
+Understanding the context and content of the two-way trade is also essential in predicting trade
+expectations. Brunei’s exports to China have been dominated by petroleum and hydrocarbons, accumulating to more than half of the total value of commodities exported in the past decade. Meanwhile,
+China’s exports to Brunei in the last ten years constituted refined petroleum, iron pipes, and other commodities. In conclusion, within the past 25 years, China’s exports to Brunei have increased by 11,7%.
+Meanwhile, Brunei’s exports to China have skyrocketed by an increase of 54% (WITS, 2023).
+Before the BRI, Zhejiang Hegnyi Group, a private Chinese company, 2011 agreed to invest in a petrochemical facility in Brunei (Xinhua, 2014). Soon after the BRI, China announced a USD 3.45 billion investment for the construction and operation of the petrochemical facility. It only took five months after the
+operationalization of the facility in September 2019 for Brunei to generate USD 1.2 Billion in exports
+(Haris, 2020). As argued by Kuncinas, the petrochemical facility for Brunei was deemed vital to diversify
+Brunei’s economy. Brunei’s overreliance on crude oil exports could not be sustained, and a refinery facility helped to surge the value of exports offered to Brunei’s export recipients (Kuncinas, 2014).
+China became a key partner for Brunei in the development of petrochemical refinement facilities, a
+sector deemed vital for the Sultanate. Copeland warned that interdependence has a possible negative
+consequence, which is the process of specializing without sufficient return (Copeland, 1996). If trade
+expectations are low, the consequence of specialization leads to encountering negative returns on
+investments. This is why Copeland argued that ‘dynamic expectations of future trade must be brought
+
+Cogent Social Sciences
+
+9
+
+in’ (Copeland, 1996, p.19). Brunei’s decision to specialize is an attempt to abandon its past policy of
+being overly dependent on raw resource exports, which has led China to become a greater source of
+trade in the present and future due to its receptivity to refined petrochemicals.
+Brunei and China converged economically before the BRI was introduced, but it was post-2013 that
+Brunei’s interdependence started to gain traction. Sultan Hassanal Bolkiah and Xi Jinping upgraded their
+economic ties to the level of a strategic cooperative relationship to indicate the growing importance that
+both viewed each other. Even prior to the upgrades, Brunei and China converged in economic ties due
+to Brunei’s abundance of hydrocarbons. Before the BRI, a number of joint ventures were initiated by
+Chinese enterprises, including projects on hybrid rice farming, the construction of the Hengyi Industrial
+Complex, and the Ulu Tutong hydropower dam. Thus, when Xi Jingping announced the BRI in 2013, it
+was natural to see projects advancing within Brunei, with some focusing on reviving delayed projects. A
+year after announcing the BRI, both announced the establishment of the Brunei-Guanxi Economic
+Corridor (CGTN, 2018).
+As noted in the previous section, as part of Brunei’s long-term economic plans to establish domestic
+stability, it wishes to diversify its economy from the previously high dependency on the oil and gas
+sectors. China’s growing prominence in Brunei’s economy can be attributed to the number of massive
+projects, Huaweri, Muara Port, Huseaton, and the Hengyi, that allowed for the projection of economic
+diversification for Brunei (Kon, 2020). Take, for example, Hengyi, which started to conduct an oil refinery
+in November 2019. As of 2022, Hengyi successfully enhanced the downstream of oil and gas by exporting USD 4.08 billion valued petrochemical commodities (Haris, 2020). With the other mega projects in
+Brunei, such as the Muara Port and Ulu Tutong Dam, the projects have assisted in advancing Brunei’s
+connectivity and led to Brunei’s growing economy throughout the years. China’s importance for Brunei
+exceeds the figures introduced earlier in this section. The two-way trade between Brunei and China is
+not the highest for Brunei, but it came at a time when Brunei sought to advance measures to diversify
+its economy. Thus, allowing the possibility of trades skyrocketing in certain years. Both China and Brunei
+are mutually advancing their economies, which is a solid priority for Sultan Hassanal Bolkiah to realize
+his long-term economic goals (Lawrence, 2021).
+The introduction of China’s BRI finalized Brunei’s interdependence with China. The Brunei Sultanate
+prioritized Chinese investments that would advance the industries in Brunei and help achieve broader
+connectivity by constructing new infrastructure within the monarch. Besides the mentioned possibilities
+of infrastructural development and the Brunei Guangxi Economic Corridor, China’s BRI would allow further progress in Brunei’s Petrochemical facilities and oil and gas explorations.
+Brunei also made it feasible for Chinese companies to take on mega infrastructural projects in Brunei,
+such as bridges and highways. For China, Brunei does not offer the same lucrative megaproject deals as
+states like Indonesia, which contains diverse opportunities for tendering mega infrastructural projects.
+However, China’s presence in Brunei’s infrastructure development has become more visible in past years.
+201, for example, the China Harbour Engineering Company constructed four bridges and service networks for Brunei (Xinhua, 2017b). The China State Construction Engineering Corporation also completed
+the bridge connecting Brunei to the Muara and Temburong districts (Wei, 2018).
+The combination of converging economic long-term plans between Brunei and China and how China’s
+facilitations have allowed diversification of economic activities taken through vast foreign investments
+have laid the foundations to an optimistic trading environment. Cooperative policies engaged by Brunei
+in the South China Sea thus is to be expected, as it fulfills what Copeland explains as ‘…positive expectations for future trade will lead dependent states to assign a high expected value to a continuation of
+peaceful trade, making war less appealing option’ (Copeland, 1996, p.17). Furthermore, recent developments have also created a favorable image of Brunei regarding China and vice versa. Brunei perceives
+China as a reasonable actor, assisting Brunei in its long-term economic vision of making major economic
+reforms. With the depletion of raw materials, this is essential for Brunei. Meanwhile, China has started to
+perceive that Brunei is a vital ally for China in Southeast Asia. The current trend is that Southeast Asian
+claimant states are starting to be cautious of China’s actions due to its assertiveness at sea (Qi, 2019).
+Therefore, closing into Brunei is a strategic decision for China to ensure that its vision to realize the
+Nine-Dash Line can continue with minimal resistance. China also perceives positive trade expectations to
+Brunei, as Brunei’s internal political system makes it unlikely to have differing opinions towards China,
+
+10
+
+B. A. PUTRA
+
+which Copeland argues as causing positive trade expectations as it is a ‘unitary actor’ (Copeland,
+1996, p.23).
+Brunei’s growing interdependence towards China’s lucrative economic deals directly affects Brunei’s
+political decisions, including its posture towards the South China Sea. As stated by Ambassador Yu Hong,
+Chinese Ambassador to Brunei Darussalam, it is the political mutual trust that emerged between the two
+countries that allowed further economic convergence to take place in a strategically cooperative manner
+(FMPRC, 2022). China is now closing in as being the largest trading partner for Brunei, and it currently
+holds the position of being Brunei’s main source of foreign investments. This has happened due to
+China’s economic engagements with Brunei, allowing Brunei to adopt a silenced claim in the South
+China Sea.
+Just years before the BRI was introduced, Brunei’s seemingly silenced claim in the South China Sea
+coincided with China’s growing economic importance for Brunei. Amid the rising tensions between
+Southeast Asian claimant states and China over China’s assertiveness, reclamation, and military build-up
+in the South China Sea, Brunei declined to attend a meeting with other South China Sea claimants from
+ASEAN (Zhida, 2013). Brunei further showed its silent claims when, in 2013, during its ASEAN chairmanship, it echoed the need to establish a hotline among Southeast Asia’s high officials to enhance dialogue
+in times of crisis (Roberts, 2011). But the true impact of Brunei’s Chinese economic interdependence
+would unravel when, in 2016, Brunei, along with China, Laos, and Cambodia, announced the ‘4-Point
+Consensus’, defending the notion that developments in the South China Sea should not impede the
+relations between ASEAN and China (Parameswaran, 2016). Not only has Brunei shown an indication to
+remain silent towards its own claims in the South China Sea, but it has also made closer defense ties
+with China, as seen by its facilitation of Chinese fleets to harbor in Brunei, including the 2017 Chinese
+naval fleet visit to the Muara Port and a 2019 Chinese training ship (Xinhua, 2016, 2017a).
+Brunei’s economic interdependence has made Brunei align with China, going against the alignment
+decision of its counterparts in Southeast Asia. Most of the Southeast Asian states’ alignment strategies
+vis-à-vis China’s assertiveness in the South China Sea are through hedging. Hedging allows states to
+offset the risks of possibly choosing the wrong side by establishing relations with multiple great powers.
+In most claimant states of the South China Sea, hedging can be seen as arguing against China in its
+assertive claims but still allowing cooperation between the countries. Thus, Brunei is abandoning this
+common Southeast Asian stance and taking the side of China due to Brunei’s growing economic interdependence towards China’s investments and trade.
+Nevertheless, limited conflict is still to be expected. As the South China Sea is a grey-zone conflict
+area, the presence of cooperation can still coincide with tensions, as shown in the previous section of
+this article. As Keohane argues, ‘…cooperation does not imply an absence of conflict. On the contrary, it
+is typically mixed with conflict…’ (Keohane, 1984, p.51). The arguments presented in this section justify
+that the trade expectations between Brunei and China are high, consequently leading to greater conditions of peace (adoption of cooperative policies vis-à-vis the South China Sea conflict).
+
+Conclusion
+South China Sea as a turbulent sea filled with disputed maritime borders is not a perception shared by
+Brunei. Brunei is a claimant state to the South China Sea, having its rectangle-shaped claim of its EEZ
+overlap with China’s Nine-Dash Line. In contrast to the strategies and posture projected by other
+Southeast Asian claimant states to the South China Sea, Brunei is starting to project a posture of being
+a ‘silent claimant’, not being provoked by China’s actions within Brunei’s EEZ.
+The contemporary dynamics of the South China Sea have worried the Southeast Asian states. China,
+of late, continues to deploy its maritime constabulary forces, consisting of coast guards, fisheries surveillance vessels, and fishing militia, to project power at sea intentionally. As a response, states such as
+Indonesia (non-claimant), Vietnam, and the Philippines have replied by projecting power at sea through
+a continuous display of effective occupancy by each respective maritime constabulary force. On the contrary, Brunei has not adopted a similar policy in its South China Sea strategy. It does not hold any power
+projections at its EEZ and refrains from showing its presence in the islands within its maritime
+
+Cogent Social Sciences
+
+11
+
+jurisdiction. In comparison to Brunei’s Southeast Asian neighbors, Brunei is currently adopting a foreign
+policy anomaly by showing deference to China in the South China Sea.
+Scholars have tried to make sense of this dynamic, but one should not see further than the economic
+importance of China for Brunei. In the 21st century, Brunei’s contemporary challenges are filled with
+energy insecurities. The Sultanate has a high dependency on exporting natural oil and gas. Unfortunately,
+this dependency will not be sustainable in the near future due to predicted shortages of its energy
+resources. In Brunei’s primary long-term planning, the ‘Wawasan Brunei 2035’, Sultan Hassanal Bolkiah is
+looking into diversifying the Brunei economy. In the past decade, China has come to answer all of those
+demands.
+This study attempts to comprehend the unique patterns of policies taken by Brunei in the South
+China Sea. Existing studies have lacked a focus on why claimant or non-claimant states in the South
+China Sea adopt coercive or cooperative policies vis-à-vis tensions at sea. In understanding Brunei’s policies, this article bridges Copeland’s theory of trade expectation. In grey zone conflicts such as the South
+China Sea, the interdependence and optimistic expectations for future trade have paved the way for
+Brunei to adopt cooperative policies amid rising tensions at sea.
+China’s importance for Brunei was immeasurable at a time when Brunei was starting to show vulnerability. Brunei’s declining natural resources have led to a steady decline in diversified foreign investments in Bandar Seri Begawan. Nevertheless, just years before the introduction of the BRI, China showed
+consistency in its economic commitments to Brunei. After BRI, the projects and investments in Brunei
+continued to rise, as China continued to assist by investing and tendering major infrastructural developments, petrochemical facilities, joint oil and gas explorations, and not to mention, the establishment
+of the Brunei-Guangxi Economic Corridor. The success of past projects and the surge of economic benefits associated with China has led Sultan Hassanal Bolkiah to see the convergence of its long-term
+development planning with China’s BRI opportunities. As the theory of trade expectation predicts, this
+situation constructs a positive trading environment between the two countries, allowing for greater
+trade expectations.
+Brunei has gifted China with deference over the South China Sea. Unlike Brunei’s counterparts in
+ASEAN, Brunei does not perceive that a decisive and aggressive posture in their EEZ in the South China
+Sea is worth dissolving China’s economic benefits for Brunei. Thus, as economic interdependence continues to be prominent, Brunei is willing to continue its stance as a silent claimant to the South
+China Sea.
+Empirical studies in the future can benefit from an investigation into other situations that may reveal
+the reasons why claimant or non-claimant states adopt deference or defiance policies vis-à-vis China in
+the South China Sea. Several studies have argued the importance of maritime diplomatic frameworks,
+which reveals reasons for deference policies taken in the form of effective occupancy of the seas as a
+potential explanation (Putra, 2023a, 2023c, 2023b). Considering existing security partnerships between
+Southeast Asian states and China or other great powers may also reveal important insights into explaining the empirical puzzles this article aims to address.
+
+Disclosure statement
+No potential conflict of interest was reported by the author(s).
+
+About the author
+Bama Andika Putra is a PhD student at the School of Sociology, Politics, and International Studies, University of
+Bristol. He is also a lecturer at the Department of International Relations, Universitas Hasanuddin. This article continues his past research articles focused on Indonesia’s foreign policy in Southeast Asia. He has previously written on
+the topics of Indonesian foreign policy in ASEAN and Indonesia’s maritime diplomacy in Southeast Asia.
+
+ORCID
+Bama Andika Putra
+
+http://orcid.org/0000-0001-5952-136X
+
+12
+
+B. A. PUTRA
+
+References
+AMTI. (2020). Gone Fishing: Tracking China’s Flotilla from Brunei to Indonesia. Asia Maritime Transparency Initiative.
+https://amti.csis.org/gone-fishing-tracking-chinas-flotilla-from-brunei-to-indonesia/
+AMTI. (2021). Vietnam Shores Up Its Spratly Defenses. Asia Maritime Transparency Initiative. https://amti.csis.org/
+vietnam-shores-up-its-spratly-defenses/
+Azad, T. M., Haider, M. W., & Sadiq, M. (2022). Understanding Gray zone warfare from multiple perspectives. World
+Affairs, 186(1), 1–14. https://doi.org/10.1177/00438200221141101
+BAKAMLA.
+(2020).
+BAKAMLA Strategic Planning 2020-2024.
+https://bakamla.go.id/uploads/static_page/
+RENSTRA_BAKAMLA_2020-2024_FINAL.pdf
+BAKAMLA. (2021). BAKAMLA Annual Report 2021.
+Basawantara, A. A. G. (2020). Countering China’s Paragunboat Diplomacy in the South China Sea: The responses of the
+Philippines, Vietnam, And Indonesia. President University. http://repository.president.ac.id/xmlui/handle/123456789/4770
+Blazevic, J. J. (2012). Navigating the security dilemma: China, Vietnam, and the South China Sea. Journal of Current
+Southeast Asian Affairs, 31(4), 79–108. https://doi.org/10.1177/186810341203100404
+CGTN. (2018). China’s Investment Surge in Brunei: China investments at right time for Sultanate - CGTN. https://news.cgtn.
+com/news/30557a4e7a494464776c6d636a4e6e62684a4856/share_p.html
+Chubb, A. (2022). Dynamics of Assertiveness in the South China Sea: China, the Philippines, and Vietnam, 1970-2015.
+https://www.nbr.org/wp-content/uploads/pdfs/publications/sr99_dynamicsofassertiveness_may2022.pdf
+CIA. (2023). Brunei - The World Factbook. CIA The World Factbook. https://www.cia.gov/the-world-factbook/countries/
+brunei/
+Connelly, A. L. (2017). Indonesia’s new North Natuna Sea: What’s in a name? The Lowy Institute. https://www.
+lowyinstitute.org/the-interpreter/indonesia-s-new-north-natuna-sea-what-s-name
+Copeland, D. C. (1996). Economic Interdependence and War: A Theory of Trade Expectations. International Security,
+20(4), 5–41. https://doi.org/10.1162/isec.20.4.5
+De Castro, R. C. (2022). The Philippines’ responses to Chinese gray zone operations triggered by the 2021 passage of
+China’s New Coast Guard Law and the Whitsun Reef standoff. Asian Affairs: An American Review, 49(4), 193–216.
+https://doi.org/10.1080/00927678.2022.2121584
+Espena, J., & Uy, A. (2020). Brunei, ASEAN and the South China Sea. Lowy Institute. https://www.lowyinstitute.org/
+the-interpreter/brunei-asean-south-china-sea
+FMPRC. (2022). Chinese Ambassador to Brunei H.E. Yu Hong Attended the Brunei-China Economic and Trade Cooperation
+Forum and Delivered a Speech. Ministry of Foreign Affairs of the People’s Republic of China. https://www.fmprc.gov.
+cn/mfa_eng/wjb_663304/zwjg_665342/zwbd_665378/202208/t20220805_10735408.html
+Goh, E. (2016). Southeast Asian Strategies toward the Great Powers: Still Hedging after All These Years?. The Asan Forum.
+https://theasanforum.org/southeast-asian-strategies-toward-the-great-powers-still-hedging-after-all-these-years/
+Gurung, A. S. B. D. (2018). China, Vietnam, and the South China Sea An Analysis of the “Three Nos” and the Hedging
+Strategy. Indian Journal of Asian Affairs, 31(1) https://www.jstor.org/stable/26608820
+Haacke, J. (2019). The concept of hedging and its application to Southeast Asia: a critique and a proposal for a
+modified conceptual and methodological framework. International Relations of the Asia-Pacific, 19(3), 375–417.
+https://doi.org/10.1093/irap/lcz010
+Haris, N. (2020). Hengyi exports $1.22 billion of petrochemical products. The Scoop, March 14. https://thescoop.
+co/2020/03/14/hengyi-exports-1-22-billion-of-petrochemical-products/
+Hart, M. (2018). Brunei Abandons South China Sea Claim for Chinese Finance. Geopolitical Monitor. https://www.
+geopoliticalmonitor.com/brunei-abandons-south-china-sea-claim-for-chinese-finance/
+He, R. (2009). Coast guards and maritime piracy: sailing past the impediments to cooperation in Asia. The Pacific
+Review, 22(5), 667–689. https://doi.org/10.1080/09512740903329756
+Hiep, L. H. (2013). Vietnam’s Hedging Strategy against China since Normalization. Contemporary Southeast Asia, 35(3),
+333–368. https://www.jstor.org/stable/43281263?seq=8 https://doi.org/10.1355/cs35-3b
+Hoffman, F. G. (2016). The Contemporary Spectrum of Conflict: Protracted, Gray Zone, Ambiguous, and Hybrid Modes of War.
+Huxley, T. (1998). A Threat in the South China Sea? Security Dialogue, 29(1), 113–118. https://doi.
+org/10.1177/0967010698029001011
+IOJI. (2022a). Ancaman Keamanan Laut dan Illegal Fishing Juli - September 2022. https://oceanjusticeinitiative.
+org/2022/11/07/ancaman-keamanan-laut-dan-illegal-fishing-juli-september-2022/
+IOJI. (2022b). Fisheries and Marine Policy 2021 and 2022 Projection: A Policy Outline. https://oceanjusticeinitiative.org/
+wp-content/uploads/2022/01/Rekam-Jejak-IOJI-2021-Updated-1.pdf
+Jones, D. M., & Jenne, N. (2022). Hedging and grand strategy in Southeast Asian foreign policy. International Relations
+of the Asia-Pacific, 22(2), 205–235. https://doi.org/10.1093/irap/lcab003
+JP. (2020). Jokowi’s visit to Natuna asserts Jakarta’s ‘serious attention’ to sovereignty: Minister - National. The Jakarta
+Post, January 8. https://www.thejakartapost.com/news/2020/01/08/jokowis-visit-to-natuna-asserts-jakartas-ser
+ious-attention-to-sovereignty-minister.html
+Keohane, R. O. (1984). After Hegemony: Cooperation and Discord in the World Political Economy. Princeton University
+Press. https://www.jstor.org/stable/j.ctt7sq9s
+
+Cogent Social Sciences
+
+13
+
+Kon, J. (2020). Celebrating Brunei-China growing bilateral trade. Borneo Bulletin, December 17. https://borneobulletin.
+com.bn/celebrating-brunei-china-growing-bilateral-trade/
+Kuik, C. C. (2021). Getting hedging right: a small-state perspective. China International Strategy Review, 3(2), 300–315.
+https://doi.org/10.1007/s42533-021-00089-5
+Kuncinas, P. (2014). Brunei Darussalam achieving petrochemicals potential. Borneo Post, February 15. https://www.
+theborneopost.com/2014/02/15/brunei-darussalam-achieving-petrochemicals-potential/
+Kurlantzick, J. (2007). Charm offensive: How China’s soft power is transforming the world. In Charm Offensive: How
+China’s Soft Power Is Transforming the World. Yale University Press. https://doi.org/10.5860/choice.45-2865
+Lawrence, I. (2021). Brunei’s Response to China’s Belt and Road Initiative: Embracing Asymmetry, Enhancing Authority.
+Asian Perspective, 45(2), 397–420. https://doi.org/10.1353/apr.2021.0006
+Mishra, R. (2017). Code of conduct in the South China sea: More discord than accord. Maritime Affairs: Journal of the
+National Maritime Foundation of India, 13(2), 62–75. https://doi.org/10.1080/09733159.2017.1412098
+OEC. (2023). China (CHN) and Brunei (BRN) Trade | OEC. The Observatory of Economic Complexity. https://oec.world/
+en/profile/bilateral-country/chn/partner/brn?dynamicBilateralTradeSelector=year2018
+Ormsbee, M. H. (2022). Gray dismay: A strategy to identify and counter Gray-Zone Threats in the South China Sea.
+Small Wars Journal, 1(1) https://smallwarsjournal.com/jrnl/art/gray-dismay-strategy-identify-and-counter-gray-zonethreats-south-china-sea
+Paleri, P. (2015). Coast guards and maritime partnerships: An over-the-horizon perspective. Maritime Affairs: Journal of
+the National Maritime Foundation of India, 11(2), 99–111. https://doi.org/10.1080/09733159.2015.1105492
+Parameswaran, P. (2016). China’s Hollow South China Sea Consensus With ASEAN Laggards. The Diplomat, April 25.
+https://thediplomat.com/2016/04/chinas-hollow-south-china-sea-consensus-with-asean-laggards/
+Parameswaran, P. (2017). Assessing Malaysia’s Coast Guard in ASEAN Perspective. The Diplomat, May 2. https://
+thediplomat.com/2017/05/assessing-malaysias-coast-guard-in-asean-perspective/
+Parameswaran, P. (2018). Why Vietnam’s New Coast Guard Law Matters – The Diplomat. The Diplomat, April 14.
+https://thediplomat.com/2018/04/vietnam-coast-guard-in-the-spotlight-with-new-law/
+Parameswaran, P. (2019). Managing the Rise of Southeast Asia’s Coast Guards. https://www.wilsoncenter.org/publication/
+managing-the-rise-southeast-asias-coast-guards
+Pemmaraju, S. R. (2016). The South China Sea arbitration (The Philippines v. China): Assessment of the award on jurisdiction and admissibility. Chinese Journal of International Law, 15(2), jmw019. https://doi.org/10.1093/chinesejil/jmw019
+Pham, D. (n.d). Gone rogue?: China’s assertiveness in the South China Sea.
+Phuong, N. T., & Vu, T. M. (2017). Vietnam Coast Guard: Challenges and Prospects of Development. Asia Maritime
+Transparency Initiative. https://amti.csis.org/vietnam-coast-guard-challenges-prospects/
+Putra, B. A. (2021). Comprehending Brunei Darussalam’s vanishing claims in the South China Sea: China’s exertion of
+economic power and the influence of elite perception. Cogent Social Sciences, 7(1), 1858563. https://doi.org/10.10
+80/23311886.2020.1858563
+Putra, B. A. (2022). Gauging contemporary maritime tensions in the North Natuna Seas: Deciphering China’s maritime
+diplomatic strategies. The International Journal of Interdisciplinary Civic and Political Studies, 17(2), 85–99. https://doi.
+org/10.18848/2327-0071/CGP/v17i02/85-99
+Putra, Bama Andika, Darwis, (2022). Construing Indonesia’s maritime diplomatic strategies against Vietnam’s illegal,
+unreported, and unregulated fishing in the North Natuna Sea., Asian Affairs: An American Review, 4, 49,172–192.
+https://doi.org/10.1080/00927678.2022.2089524
+Putra, B. A. (2023a). Rise of constabulary maritime agencies in Southeast Asia: Vietnam’s paragunboat diplomacy in
+the North Natuna Seas. Social Sciences, 12(4), 241. https://doi.org/10.3390/socsci12040241
+Putra, B. A. (2023b). The golden age of white hulls: Deciphering the Philippines’ maritime diplomatic strategies in the
+South China Sea. Social Sciences, 12(6), 337. https://doi.org/10.3390/socsci12060337
+Putra, B. A. (2023c). The rise of paragunboat diplomacy as a maritime diplomatic instrument: Indonesia’s constabulary
+forces and tensions in the North Natuna Seas. Asian Journal of Political Science, 31(2), 106–124. https://doi.org/10.
+1080/02185377.2023.2226879
+Putra, B. A., & Cangara, A. R. (2022). Deficiencies of coercive maritime diplomacy for middle powers amid Indo-Pacific
+geopolitics: An Indonesian perspective. The International Journal of Interdisciplinary Global Studies, 17(2), 9–19.
+https://doi.org/10.18848/2324-755X/CGP/v17i02/9-19
+Qi, H. (2019). Joint development in the South China sea: China’s incentives and policy choices. Journal of Contemporary
+East Asia Studies, 8(2), 220–239. https://doi.org/10.1080/24761028.2019.1685427
+Roach, J. A. (2014). Unlimited distribution Cleared for public release A CNA Occasional Paper Malaysia and Brunei: An
+Analysis of their Claims in the South China Sea.
+Roberts, C. (2011). BRUNEI DARUSSALAM: Consolidating the Foundations of its Future? In D. Singh (Ed.), Southeast
+Asian Affairs (pp. 33–50). https://www.jstor.org/stable/41418636
+Sangtam, A. (2021). Vietnam’s strategic engagement in the South China Sea. Maritime Affairs: Journal of the National
+Maritime Foundation of India, 17(1), 41–57. https://doi.org/10.1080/09733159.2021.1939868
+Storey, I. (2005). China’s Thirst for Energy Fuels Improved Relations with Brunei. China Brief, 5(24), 8–10. https://
+jamestown.org/programs/cb/volume/?_escaped_fragment_&volume_year=2005
+Storey, I. (2014). The Sino-Vietnamese Oil Rig Crisis: Implications for the South China Sea Dispute. ISEAS Perspective.
+
+14
+
+B. A. PUTRA
+
+Tarriela, J. T. (2022). The Maritime Security Roles of Coast Guards in Southeast Asia. RSIS, December 8. https://www.
+rsis.edu.sg/rsis-publication/idss/ip22076-the-maritime-security-roles-of-coast-guards-in-southeast-asia/?doing_wp_cr
+on=1676564274.2634689807891845703125#.Y-5XNOzP22o
+Tiezzi, S. (2014). China Woos Indonesia’s New President. The Diplomat, November 5. https://thediplomat.com/2014/11/
+china-woos-indonesias-new-president/
+VOA. (2022). Recent Claimants. Voice of America. https://projects.voanews.com/south-china-sea/recent/
+WB. (2008). Wawasan Brunei 2035. Government of Brunei. https://www.wawasanbrunei.gov.bn/en/SitePages/
+new-goal-3.aspx
+Wei, X. (2018). China and Brunei get down to business. China Daily, December 11. https://www.chinadaily.com.
+cn/a/201812/11/WS5c0f101aa310eff3032903b9.html
+WITS. (2023). Brunei Trade. World Bank. https://wits.worldbank.org/CountrySnapshot/en/BRN
+Xinhua. (2014). Hengyi Industries, Brunei’s Damai enter new JV - Business - Chinadaily.com.cn. China Daily, February
+26. https://www.chinadaily.com.cn/business/2014-02/26/content_17307297.htm
+Xinhua. (2016). Brunei states commitment to peace in South China Sea: official - Global Times. Global Times. http://
+www.globaltimes.cn/content/994541.shtml
+Xinhua. (2017a). Chinese navy fleet arrives in Brunei for friendly visit. People’s Daily Online, September 26. http://
+en.people.cn/n3/2017/0926/c90000-9273671.html
+Xinhua. (2017b). Main span of China-made bridge closed in Brunei. Xinhua Net, December 27. http://www.xinhuanet.
+com/english/2017-12/27/c_136855800.htm
+Yahuda, M. (2013). China’s new assertiveness in the South China Sea. Journal of Contemporary China, 22(81), 446–459.
+https://doi.org/10.1080/10670564.2012.748964
+Yeo, M. (2023). How a new Vietnam-Indonesia deal will affect South China Sea disputes. Defense Newas, February 2.
+https://www.defensenews.com/smr/defending-the-pacific/2023/02/13/how-a-new-vietnam-indonesia-deal-wi
+ll-affect-south-china-sea-disputes/
+Yu, M. (2016). The South China Sea dispute and the Philippines Arbitration Tribunal: China’s Policy Options. Australian
+Journal of International Affairs, 70(3), 215–234. https://doi.org/10.1080/10357718.2015.1135869
+Zhida, J. (2013). Brunei’s Burden. Beijing Review, April 18. http://www.bjreview.com/print/txt/2013-04/15/content_
+533383.htm
+
+

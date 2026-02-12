@@ -1,0 +1,1219 @@
+The Paciﬁc Review
+
+ISSN: 0951-2748 (Print) 1470-1332 (Online) Journal homepage: www.tandfonline.com/journals/rpre20
+
+Can ASEAN oﬀer a useful model? Chairmanship in
+decision-making by consensus
+Sanae Suzuki
+To cite this article: Sanae Suzuki (2021) Can ASEAN oﬀer a useful model?
+Chairmanship in decision-making by consensus, The Paciﬁc Review, 34:5, 697-723, DOI:
+10.1080/09512748.2020.1727553
+To link to this article: https://doi.org/10.1080/09512748.2020.1727553
+
+Published online: 20 Feb 2020.
+
+Submit your article to this journal
+
+Article views: 1438
+
+View related articles
+
+View Crossmark data
+
+Citing articles: 6 View citing articles
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=rpre20
+
+THE PACIFIC REVIEW
+2021, VOL. 34, NO. 5, 697–723
+https://doi.org/10.1080/09512748.2020.1727553
+
+Can ASEAN offer a useful model? Chairmanship
+in decision-making by consensus
+Sanae Suzuki
+Institute of Developing Economies, Japan External Trade Organization, Chiba , Japan
+ABSTRACT
+
+ASEAN has adopted decision-making by consensus. Taking ASEAN as a case
+study, this article aims to explain how competing positions are reconciled
+and international agreements reached in organisations that have adopted
+consensus, a process that risks non-agreement because each participant has
+veto power, as their sole decision-making rule. ASEAN roundtables with the
+foreign ministers of its member states have indeed generated some meaningful agreements. I argue that rules and customs associated with ASEAN chairmanship effectively comprise a reconciliation mechanism. The chair is
+empowered to play an agenda-setting role, and the combination of rotating
+chairmanship and a limited number of member states means that every state
+will enjoy the strong power, within a reasonably short period of time. Since
+each state knows that its turn will come soon, all are willing to allow the
+others to exert the power of the chair and guide consensus toward agreements that are consistent with the chair’s national interests. This article analyses the impact of a strong ASEAN chair via empirical case studies of decisions
+reached (or not) under consensus regarding issues where member states had
+conflicting interests. This analysis of ASEAN decision-making contributes to
+the ongoing debate on effectiveness of ASEAN and has theoretical implications for the understanding of international organisations that operate under
+similar institutional settings.
+
+KEYWORDS Agenda setting; ASEAN; chair; consensus rule; decision-making; international
+
+organisation
+
+1. Introduction
+Studies on decision-making in the Association of Southeast Asian Nations
+(ASEAN) have focused on its informal process of reaching agreements
+through consultation (musyawarah in Indonesian) and consensus (mufakat)
+(Nischalke, 2002, p. 93; Thambipillai & Sravanamuttu, 1985, pp. 10–13;
+CONTACT Sanae Suzuki
+suzuki.a.sanae@gmail.com
+Institute of Developing Economies, Japan
+External Trade Organization, 3-2-2, Wakaba, Mihama-ku, Chiba City, 261-8545, Japan.
+ß 2020 Informa UK Limited, trading as Taylor & Francis Group
+
+698
+
+S. SUZUKI
+
+Thambipillai, 2000, pp. 157–158). The ‘ASEAN Way’ famously characterizes
+the organisation’s informality in decision-making (Acharya, 1997, p.
+328–333). However, the informal character of negotiations under the consensus rule does not explain how outcomes nonetheless emerge in the
+face of conflicting interests. On one hand, the consensus rule is expected to
+produce ‘lowest common denominator agreements’, as it respects the preferences of members that voice objection (Kurus, 1995, p. 406; JorgensenDahl, 1976, p. 532) and can threaten a veto, both of which support the idea
+that ASEAN cannot be an effective regional organisation (Stubbs, 2019, p.
+928). And yet, a look at the empirical record reveals agreements that are
+reached. Existing studies do not clearly explain the mechanism by which
+conflicting interests are reconciled.
+This article takes ASEAN as representative of international organisations
+that have adopted consensus as their decision-making procedure. Such
+organisations are in the minority, as many contemporary international
+organisations have adopted majority rule to avoid the delays that are associated with the consensus rule. Historically, however, many resolutions in
+the United Nations (UN) General Assembly were adopted by unanimity or
+qusi-unanimity, despite the formal existence of the majority rule (Sohn,
+1974). Zartman (1994, p. 5) observes that multilateral agreements are frequently reached under the consensus rule: even where voting is provided
+for in the rules, this route tends to be saved for exceptional cases. This
+implies that ‘there should be no voting on substantive matters until all
+efforts at consensus have been exhausted’ (Zemanek, 1983, p. 865).
+Regional organisations also adapt the consensus rule. All decisions of the
+Conference on Security and Cooperation in Europe (CSCE) are reached by
+consensus, which is defined as the ‘absence of any objection expressed or
+put forward by a representative as constituting an obstacle to adopting the
+decision in question’ (M’Bow, 1978, p. 894).
+Decision-making procedures (‘prevailing practices for making and implementing collective choice’) are one component of international regimes
+(Krasner, 1983, p. 2), but as Gehring (1992, pp. 60–61) points out, regime
+analysis has not paid attention to processes that involve continuous interaction of regime members. This in turn implies that a decision-making
+mechanism reflects intersubjective expectations and normatively stabilised
+meanings shared by member states, which are the very bases of regimes
+(Kratochwil & Ruggie, 2001, p. 363). While many studies have acknowledged
+the importance of the consensus rule and process in reconciling interests,
+few have examined the specific interest-reconciling mechanisms that
+underlie this process. This article aims to fill this gap.
+Drawing on studies of international negotiations and institutionalism,
+this article presents chairmanship as an institution for reconciling interests
+
+THE PACIFIC REVIEW
+
+699
+
+under the consensus rule, and argues that agreements are more likely to be
+reached under this institution. Under chairmanship, the role of the chair is
+assumed by a member state of the international or regional organisation.
+The power of the chair to set agendas and guide discussions varies across
+organisations. This article assumes that, because ASEAN chairmanship
+includes a rotation rule and the organisation has a small number of members, the chair has relatively strong agenda-setting power. Such power has
+the side effect of enabling the chair to bias multilateral agreements in
+favour of its own state’s interests. After providing an overview of ASEAN
+chairmanship, this article examines the power of the chair in empirical
+cases. In these case studies, ASEAN member states had conflicting interests;
+agreement under consensus, without some sort of conflict reconciliation
+mechanism, would have been difficult to reach. Finally, impacts of chairmanship on decision-making will be discussed as the argument is linked to
+the ongoing debate regarding ASEAN effectiveness.
+
+2. Chairmanship in international organisations
+Multilateral negotiations in international and regional organisations often
+have collective action problems due to the nature of decentralized bargaining. In order to avoid failure in reaching agreement, organisations set a variety of rules. The most common rule is majority voting, which enables
+agreements to be reached despite conflicting interests among member
+states. However, rational choice theorists argue that even under this rule,
+the accompanying agenda-setting rule can be decisive: systems that grant
+equal agenda-setting opportunities to all actors are vulnerable to issue
+cycling, which hinders the emergence of stable majorities for the proposals
+advanced. Institutionalising agenda control to specific actors constitutes a
+functional solution to this problem (Tallberg, 2003, p. 14). The importance
+of agenda setting for reaching agreements is often pointed out by international negotiation theorists (Young, 1991; Garrett & Weingast, 1993;
+Moravcsik, 1999). Some international organisations allow for their member
+states to call for a third party – such as the UN Secretary-General, the World
+Trade Organization (WTO) Director-General, or the European Commission in
+the EU – to participate in agenda setting and structure bargaining in order
+to reach agreements.
+This article presents an institutional mechanism, chairmanship, to delineate the reconciliation process among the member states in international
+organisations where consensus rule is the main decision-making procedure
+and use of other institutional options, such as third parties, is limited.
+Chairmanship is defined as ‘an institution for reconciliation of interests
+where the chair assumed by one of the member states plays a role of
+
+700
+
+S. SUZUKI
+
+agenda setting’, which is derived from the conventional role of the chair in
+international conferences as well as domestic politics (Cox & McCubbins,
+2005). Among the rules in ‘conference diplomacy’, Kaufmann (1996, p. 7,
+27–29) points out that the chairs in international conferences have both
+procedural and substantial roles. Substantial roles include holding informal
+conferences and offering compromises. Chairs who actively play these roles
+have been described as ‘policy entrepreneurs’ (Blavoukos & Bourantonis,
+2011). Raiffa (1982, pp. 275–287) demonstrates that, in the Law of the Sea
+negotiation, the chair played a crucial role in unblocking early negotiating
+impasses by producing a single negotiating text that bundled issues
+together. These studies suggest that in order to reach agreements despite
+conflicting interests, compromise proposals via either producing a single
+negotiation text or presenting side-payments are necessary to persuade
+opposing member states not to veto proposals.1 They point out the chair’s
+agenda-setting power, but do not empirically examine what empowers the
+chair as the agenda-setter to bring out agreements or how such power
+shapes the distributive effects of outcomes. This article explores how the
+chair’s agenda setting enables member states to exchange concessions in
+the reconciliation process, and the likely consequences of this innovative
+approach to conflict resolution.
+Few studies have examined the role of the chair in regional organisations, apart from those exploring the EU. Studies on the EU presidency
+have two streams. Some describe the presidency as exclusively administrative (Wallace, 1985; Hayes-Renshaw & Wallace, 1997). Its power is constrained by the limited, six-month period of the presidential term, and by
+the normative principle that presidencies should be neutral brokers and
+refrain from using this position to further their own interests (Thomson,
+2008, p. 595). The other stream argues that a more powerful presidency can
+reflect its national interests in EU policy-making. Tallberg (2003) argues that
+the presidency structures the agenda in accordance with national preferences, prioritising its own proposals and excluding alternative ones through
+use of its procedural control. However, Tallberg is sceptical about the ability
+of the EU president to guide its own proposals to agreement in cases that
+face strong objections from member states. Thomson (2008) and Tallberg
+(2004) argue that qualified majority voting gives the presidency a more
+influential role on decision outcomes than the requirement of consensus
+due to factors including the presidents’ privileged access to information on
+preferences of the member states. Certainly, the more demanding the decision rule, the smaller the existing contract zone and, subsequently, the
+degree of manoeuvrability available to the chair. This parameter, however,
+should be examined in conjunction with others, such as political resources
+available to the chair (Blavoukos & Bourantonis, 2011, p. 657, 669). Thus,
+
+THE PACIFIC REVIEW
+
+701
+
+influence of the EU presidency is contingent on related institutional settings
+and distribution of preferences among the member states.
+Studies on the EU presidency have important implications for chairmanship of international organisations in general. Chairmanship is an intergovernmental design for agenda management. The presidency’s power as an
+agenda-setter blossomed when intergovernmental frameworks were established with organisations, inside or outside the European Community, that
+focused on issues that had not been directly within the mandate of the
+European Commission (Tallberg, 2006, pp. 43–81). This suggests that the
+chair’s agenda-setting power is more important in intergovernmental frameworks.
+This article presents chairmanship as an institutional mechanism in international organisations characterized by intergovernmental frameworks as
+dominant decision-making arenas. Giving the chair agenda-setting power
+goes well with conference diplomacy wherein member states participate
+on equal footing. In organisations with no alternative institutional setting
+for use in reconciliation of competing positions, the chair could be granted
+more responsibilities and legitimacy in terms of agenda setting. This, in
+turn, implies that chairmanship is based on the ‘logic of appropriateness’
+(March & Olsen, 1989) and legitimacy (Franck, 1988; Hurd, 1999). It functions regardless of national power of the chairing country or competence
+of its national organisations and representatives in charge. Although
+national powers and personal capabilities affect the patterns of agenda setting and decision outcomes, the chair’s legitimate role in setting the
+agenda is the source of its power. When member states recognise
+the necessity to avoid failure in reaching agreements, they agree to respect
+the legitimacy of the chair’s ability to set the agenda. This suggests that, by
+accepting the chair’s right to exert authority via agenda setting, they gradually accept a change in the criterion of appropriate decision-making
+behaviour: from exercising a veto to demanding or offering concessions.
+Under this new criterion, even powerful member states are seen to conform
+with agendas set by a weak member state that occupies the chair.
+The chair’s agenda setting starts with structuring proposals. All member
+states can make proposals. At early stages of international negotiations,
+negotiators rarely have a concept of what a final, acceptable agreement
+might look like, although they might envision a multidimensional zone that
+contains acceptable options. So, they proceed toward agreement by initially
+tabling a position that is exploratory at best (Winham, 1977, p. 99). As other
+states respond to the proposal, all begin reconciling their positions by
+exchanging compromises or concessions and in the process, gaining a
+clearer sense of the collective zone of possible agreement. The chair in general tries to avoid non-agreement by guiding discussion to areas he
+
+702
+
+S. SUZUKI
+
+understands to be within this zone, which in turn affects where, within the
+zone of possible agreement, consensus is likely to be reached.
+The agenda-setting power given to the chair determines how the chair
+deals with proposals. When the chair is empowered to prioritize proposals,
+as well as to exclude proposals from the agenda,2 it can steer discussions
+towards outcomes viewed by his or her state as favourable, or at least avoid
+disadvantage. In organisations where the chair is not empowered in these
+ways – and in particular, when the chair cannot exclude proposals running
+counter to its own preferences – the chair cannot bring a distributive outcome that favours its preferences.
+The agenda-setting power of the chair is determined by institutional features of chairmanship, membership, nature of relationship among the
+member states, number of the member states, and other shared values of
+decision-making among the member states. Institutional features of chairmanship vary among international and regional organisations. ASEAN states
+assume chairmanship in alphabetical order. The G7/G8 chair rotates on the
+basis of economic and political power of the member states, with the
+exception of France as the G7’s founder. Asia Pacific Economic Cooperation
+(APEC), the Economic Community of West African States (ECOWAS) and the
+African Union (AU) elect their chairs.
+The rotation system tends to give the chair stronger agenda-setting
+powers than the election system because it generates a logrolling dynamic,
+whereby state representatives take turns in exploiting the office for national
+purposes (Tallberg, 2010). Such logrolling dynamics tends to occur more
+with a limited number of member states and thus a shorter time between
+periods of chairmanship. However, even in organisations with a large number of the member states, a chair might have strong agenda-setting power
+if member states frequently elect powerful member states, which then lead
+negotiations. This suggests that agenda-setting power is intersubjective in
+a way that, like other decision-making rules, the member states in each
+organisation ultimately determine the extent to which the chair has
+agenda-setting power.3
+
+3. ASEAN chairmanship
+Founded in 1967, ASEAN consists of ten member states: Brunei, Cambodia,
+Indonesia, Laos, Malaysia, Myanmar, the Philippines, Singapore, Thailand,
+and Vietnam. It is a small, stand-alone organisation without a hierarchical
+relationship with any other institution, and its main decision-making bodies
+are the ministerial meetings and the summit. The Secretariat set up in 1976
+has not played any substantial role in decision-making. The ASEAN Foreign
+Ministers’ Meeting (AMM) has been ASEAN’s core decision-making arena in
+
+THE PACIFIC REVIEW
+
+703
+
+political and security fields. This article uses issues raised in the AMM decision-making arena as the empirical material for its analysis.
+The AMM chairmanship rotates annually. The 1967 ASEAN Declaration
+partly laid down the rotation rule, stating that the ‘Annual Meeting of
+Foreign Ministers, which shall be by rotation and referred to as ASEAN
+Ministerial Meeting’ (ASEAN Secretariat, 2003, p. 4). The ASEAN Charter,
+which came into effect in 2008, prescribes more clearly that ‘the
+Chairmanship of ASEAN shall rotate annually, based on the alphabetical
+order of the English names of the Member States’ (ASEAN Secretariat,
+2007). Regarding the role of the chair in reconciling competing interests,
+the Charter states only that the chair shall enhance the interests and wellbeing of ASEAN through policy initiatives, coordination, consensus, and
+cooperation (ASEAN Secretariat, 2007). This suggests that the chair’s
+agenda-setting power has an informal, customary foundation, as its authority has not been articulated in any official ASEAN document.4
+Rotation with a small number of members assures that each member
+state will have an opportunity to take the chair in the near future. In addition, the principle of sovereign equality is highly valued, meaning that all
+states should participate in decision-making and management of ASEAN on
+equal footing. From this viewpoint, this article assumes that the member
+states agree with each other to allow the chair to have a relatively strong
+agenda-setting power and to reflect its interests in the outcomes of
+reconciliation.
+Three patterns of reconciliation and its consequences emerge under
+strong agenda-setting power by the chair: (a) the chair makes a proposal
+even though some non-chair states have expressed concerns about it; (b)
+the chair opposes a proposal made by a non-chair state; and (c) a non-chair
+state brings a proposal to which the chair is indifferent, but regarding
+which other non-chair member states have conflicting interests.
+In pattern (a), the chair wants an AMM consensus on its proposal. Strong
+agenda-setting power enables the chair to prioritize this proposal and initiate an exchange of concessions that enhance the prospects of consensus.
+Pattern (b) gives the chair an incentive to exclude the non-chair’s proposal
+from the agenda, unless the non-chair presents an acceptable concession
+to the chair. In pattern (c), the chair continues to be neutral, either letting
+the non-chair states reconcile positions by themselves or stepping in to
+mediate a reconciliation.
+In all patterns, the consequences depend on whether the non-chair
+states can reconcile their state’s national interests with the substance of the
+proposal. In general, the chair’s priority is to ensure that discussions remain
+within a zone of possible agreement, that is, to avoid non-agreement. The
+chair in pattern (c) might exclude a proposal from the agenda if the
+
+704
+
+S. SUZUKI
+
+members are unlikely to reach agreement due to severely conflicting interests, that is, when it seems that no zone of possible agreement exists. The
+ability of the chair to identify the boundaries of such zones depends on its
+skills and experience as an agenda-setting chair, as well as on the extent to
+which it respects the principle of promoting ASEAN unity by avoiding
+non-agreement.
+The argument also demonstrates the impacts of chairmanship on decision-making. Chairmanship with a rotation rule and a strong agenda-setting
+power gives legitimacy to ASEAN policy-making by valuing equality among
+the member states. This contributes to maintaining commitments of the
+member states to bend towards consensus in ASEAN policy-making. On the
+other hand, agenda-setting activities by rotating chairs with different and
+sometimes conflicting preferences tend to undermine the consistency of
+ASEAN policies, which could disturb ASEAN’s effectiveness. Stubbs (2019, p.
+927) rightly points out that ‘what is viewed as legitimate by the members
+of an organisation, may not be the most effective or efficient way of conducting a particular policy.’
+The next section analyses influence of the chair on the process and outcomes of reconciliation in the AMM. Agreement reflects ASEAN official
+documents, including the AMM joint communique, whereas non-agreement
+refers to proposals made by certain member states that were not accepted
+by other member states. In order to examine the role of the chair as an
+institution regardless of the member states’ varying degrees of national
+power, this article examines reconciliation process in AMMs from 1980 to
+2012. Among issues discussed at the AMMs, it will select cases where the
+member states exhibited conflicting interests; the Vietnamese invasion of
+Cambodia in 1980–1985, the accession of Myanmar in 1997 and Cambodia
+in 1999, reform of the non-interference principle in 1998 and 2000, and territorial disputes in the South China Sea in 2011 and 2012.
+
+4. Reconciliation under strong agenda-setting power:
+case studies
+4.1. Vietnamese invasion of Cambodia
+In 1978, Vietnam invaded Cambodia and established the pro-Vietnamese
+Heng Samrin regime. ASEAN member states had conflicting positions
+towards Vietnam’s action due to their varying assessment of threats emanating from the Soviet Union and China. The Soviet Union supported Vietnam,
+whereas China supported anti-Vietnamese Cambodian movements. Arguing
+that the Soviet Union posed a greater threat than China, Singapore and
+Thailand strongly criticized Vietnam and insisted it withdraw troops from
+Cambodia. Thailand’s position was motivated by an immediate security
+
+THE PACIFIC REVIEW
+
+705
+
+threat: the occupying Vietnamese military in Cambodia was now capable of
+marching all the way to the Thai border, and possibly into Thailand itself. By
+contrast, Indonesia and Malaysia perceived China as a threat to regional stability. While they did not outright support the Vietnamese incursion into
+Cambodia, they attempted to conduct talks with Vietnamese and generally
+supported the idea of challenging China wherever possible (Leifer, 1980;
+1989; Hoang, 1996; Funston, 1998; Zainal Abidin, 1983).
+Throughout the 1980s, the fundamental ASEAN position was to request
+withdrawal of Vietnamese troops from Cambodia, support the antiVietnamese government of Cambodia, and respect Thai security concerns
+(ASEAN, 1981, 1982, 1983, 1984, 1985). However, while not contradicting this
+position as the core of a zone of possible agreement, ASEAN also arrived at a
+consensus on pro-Vietnam proposals, such as talks with Vietnam. The ASEAN
+policy towards Vietnam has undergone periodic changes as member states
+with different positions took their turn in the chair.
+In 1980, ASEAN member states started substantive negotiations over
+ASEAN policy towards Vietnam. Malaysia chaired the 1980 AMM and tried
+to persuade ASEAN to adopt the so-called ‘Kuantan principle’, which aimed
+to invite Vietnam to talks with ASEAN (Far Eastern Economic Review (FEER), 4
+April 1980: 12–13; 29 August 1980: 10–11). Over the course of several meetings with Thailand, Malaysia persuaded Thailand to agree on the principle
+by insisting that ASEAN would respect Thailand’s security. Thailand, however, disagreed with the principle because it did not require Vietnam to
+withdraw from Cambodia (Daily Report, Foreign Broadcast Information
+Service (DR), 15 May 1980: J1–J2). In the end, ASEAN failed to achieve consensus around the Kuantan principle. This case belongs to pattern (a)
+because the Kuantan agenda and related concessions were set and guided
+by the chair. However, among the cases discussed below, this is the only
+pattern (a) case where a chair-initiated proposal failed to attain agreement.
+Disagreement was mainly due to Malaysia’s miscalculation of Thailand’s
+contract zone on the issue.
+From 1981 to 1983, the Philippines, Singapore, and Thailand assumed
+the chair, in that order, and contributed to establishing an anti-Vietnam
+line. The Philippines, the 1981 AMM chair, had little interest in this issue
+and let Singapore, the 1982 AMM chair, lead negotiations. In both the
+1981 and 1982 AMMs, Singapore succeeded in prioritizing the antiVietnamese line on the agenda by supporting unification of three
+Cambodian parties who fought against Vietnam; these parties later joined
+to form the Coalition Government of Democratic Kampuchea (CGDK).
+Indonesia did not respond positively towards the anti-Vietnamese line
+because they considered it useful to have talks with Vietnam in order to
+resolve the conflict (Nair, 1984, p. 168). Faced with these objections,
+
+706
+
+S. SUZUKI
+
+Singapore asked Norodom Sihanouk, former head of state of Cambodia,
+to agree to be the leader of the CGDK, which was consistent with the
+ASEAN policy of supporting Cambodian intentions on the ground of selfdetermination (DR, 9 February 1981: H1). With the Indonesian withdrawal
+of its veto (Straits Times, 16 February 1981), the statement emerging from
+the 1981 AMM welcomed discussions on the formation of the CGDK
+(ASEAN, 1981).
+As discussion on formation of the CGDK matured, the three parties
+clashed over who represented the CGDK. Singapore, now the AMM chair,
+proposed a ‘loose coalition government’ in which leaders of the three parties had equal representation (FEER, 27 November 1981: 12), and also
+insisted that ASEAN should be ready to supply arms to the CGDK (FEER, 13
+November 1981: 9–10; DR, 25 November 1981: J1–J2, J4). Indonesia strongly
+opposed the provision of arms, and argued that it would not support the
+loose coalition government proposal unless Singapore dropped military
+hardware from its proposal (DR, 8 December 1981: J1–J2, N2). As a concession to Indonesia, Singapore agreed to limit its proposal to support for a
+loose coalition government, which led Indonesia to lift its objection. In turn,
+this led to ASEAN consensus around the idea that the organisation would
+support a three-party Cambodian coalition government (DR, 11 December
+1981: A3). The 1982 AMM statement confirmed this agreement
+(ASEAN, 1982).5
+The 1981 AMM belongs to pattern (c) as the Philippines (the actual chair)
+let Singapore (a member state involved in the dispute) manage reconciling
+members’ conflicting opinions. Singapore succeeded in winning a concession from Indonesia in supporting formation of the CGDK. The following
+year’s discussion followed the pattern and prediction of (a) as Singapore,
+now in the chair, led negotiations and succeeded in obtaining agreement
+for its own proposal at the 1982 AMM.
+In 1983, Thailand took the chair and used this authority to exclude
+Malaysia’s proposed ‘five-plus-two meeting’ from the AMM agenda.
+Malaysia’s proposal was to encourage two Indochina countries, Vietnam
+and Laos, to have talks with five ASEAN member states (FEER, 31 March
+1983: 32–33; Star, 24 March 1983). Initially, Thailand was ready to consult
+on this proposal, but Vietnam did not respond positively, which led
+Thailand to exclude the proposal from the agenda (FEER, 7 April 1983: 12;
+14 April 1983: 16–18; DR, 24 March 1983: A1–A2). On the other hand,
+Thailand proposed that it would talk with Vietnam if Vietnam withdrew to
+30 km away from Thailand’s border (FEER, 26 May 1983: 14–16). Indonesia
+and Malaysia did not support the Thai proposal because they thought that
+it did not send a conciliatory message to Vietnam. As a compromise, the
+1983 AMM statement ‘endorsed’ Thailand’s 30-km-withdrawal proposal
+
+THE PACIFIC REVIEW
+
+707
+
+(ASEAN, 1983), but the proposal was not formally accepted as an element
+of ASEAN policy. The 1983 AMM has both patterns (b) and (a). Thailand
+rejected Malaysia’s proposed five-plus-two meeting, which follows pattern
+(b), where the chair excludes a proposal from the agenda. Pattern (a)
+explains the 30-km proposal. Thailand, as chair, initiated the proposal,
+guided the dialogue and presented concessions that enabled all member
+states at least to endorse the chair’s proposal, although not to make it
+ASEAN policy.
+The pro-Vietnam line returned in 1984 and 1985, when Indonesia and
+Malaysia took the AMM chair, respectively. In September 1983, Indonesia as
+the AMM chair initiated the ‘Joint Appeal on Independence of Kampuchea’
+(the ASEAN Appeal), which was brought to the UN General Assembly for
+support (MFAT, 1985, p. 104). The ASEAN Appeal included the possibility of
+holding a ‘regional conference,’ which reflected Indonesia’s preference that
+ASEAN should initiate the solution to the Cambodian problem (Straits
+Times, 23 September 1983). It also stemmed from the proposal made by
+the Indochina countries in 1981 that they were ready to hold a regional
+conference with the ASEAN member states (Straits Times, 29 January 1981).
+Thailand disagreed with the main message of the ASEAN Appeal for a
+regional conference (DR, 6 September 1983: J4). However, it finally accepted
+the Appeal after Indonesia offered two concessions. First, Indonesia
+included the Thai 30 km withdrawal proposal in the ASEAN Appeal (FEER, 1
+December 1983: 28; DR, 9 September 1983: J1). At the 1983 AMM, the Thai
+proposal did not become an ASEAN policy. In producing the ASEAN Appeal
+as a single negotiation text, Indonesia upgraded the Thai proposal to the
+level of ASEAN policy. As a second concession, Indonesia agreed with
+Thailand that, in circulating the ASEAN Appeal to the UN members, noted
+that ASEAN had rejected an external proposal for a regional conference,
+sent jointly by Laos, Cambodia and Vietnam in 1981 (DR, 16 September
+1983: J2–J3). With these two concessions, Thailand joined the consensus
+and Indonesia secured its preference to show a conciliatory attitude
+towards Vietnam (ASEAN, 1984).
+The 1985 AMM also witnessed a pro-Vietnam line due to agenda setting
+by Malaysia. As the AMM chair, Malaysia’s agenda prioritized its own proposal, which called for direct talks between the CGDK and Vietnam (Star, 11
+February 1985; Straits Times, 7, 11 February 1985). In the proposal, Malaysia
+considered ASEAN as a mediator in the talks (DR, 7 February 1985: O1). All
+members welcomed the Malaysian proposal (MFAT, 1985, p. 111). However,
+in response to a request from Vietnam, Malaysia later changed its proposal
+from CGDK–Vietnam direct talks to ‘indirect or proximity talks’ between
+CGDK and the Heng Samrin regime (DR, 14 February 1985: K1–K2; Star, 10
+April 1985). Thailand insisted on the original version because it regarded
+
+708
+
+S. SUZUKI
+
+the Heng Samrin regime as an illegitimate government of Cambodia, and
+Vietnam as the party in dispute responsible for the talks. Thailand proposed
+a compromise wherein ASEAN would agree to proximity talks between the
+CGDK and Vietnam by allowing representatives of the Heng Samrin regime
+to attend as part of a broader Vietnamese delegation (Star, 6 July 1985; DR,
+5 July 1985: J1). Malaysia accepted the Thai amendment, which achieved
+consensus at the 1985 AMM (ASEAN, 1985; MFAT, 1985, p. 112). This outcome shows that Malaysia succeeded in maintaining the proposal’s framework on talks with Vietnam, although it showed more respect to the ASEAN
+member states than Vietnam by accepting the Thai amendment. The 1984
+and 1985 AMM cases show pattern (a). Indonesia and Malaysia led negotiations, exchanged concessions, and succeeded in obtaining support for their
+proposals from the other member states.
+As the above narrative demonstrates, the ASEAN policy on the
+Cambodian conflict swung between anti-Vietnam and pro-Vietnam lines.
+This changing and seemingly contradicting policy was a result of agenda
+setting by successive, rotating chairs with different preferences. It implies
+that chairmanship can hinder consistency of ASEAN policies.
+
+4.2. Accession of Myanmar and Cambodia to ASEAN
+After the Cambodian conflict ended, Vietnam became a member of ASEAN
+in July 1995 and, at the December 1995 Summit, Vietnam joined the consensus around accession of Myanmar, Laos, and Cambodia by 2000, which
+would realise the ideal of an ‘ASEAN 10’ that comprises all Southeast Asian
+nations (ASEAN, 1995). In the event, Myanmar and Laos joined the organisation in 1997, followed by Cambodia in 1999.
+Conflicting positions arose regarding early (before 2000) accession by
+Myanmar and Cambodia. The Myanmar government had been criticised by
+the US and Europe for resisting democratization and suppressing democratic movements. For its part, Cambodia was in political turmoil in 1997,
+including the exile of the ruling party’s leader. Thailand and the Philippines
+expressed concern with such undemocratic behaviour and insisted that
+ASEAN membership be kept off the table until Myanmar and Cambodia
+solved their domestic problems. These countries’ insistence on democratization in Myanmar is related closely to their objection to early accession by
+Myanmar. After the Philippines became democratic in 1986 and Thailand in
+1992, both countries perceived a need to emphasize democratic development globally, and especially within the Southeast Asian region, in order to
+retain domestic legitimacy. Also, Singapore was concerned that early accession of Myanmar and Cambodia might hinder regionally economic integration processes already underway, and insisted that accession should not
+
+THE PACIFIC REVIEW
+
+709
+
+occur before these two countries demonstrated their readiness to implement economic agreements such as the ASEAN Free Trade Area (AFTA). In
+contrast, Indonesia, Malaysia, and Vietnam disagreed with the use of political factors as membership criteria, and a political factor strongly shaped
+the former two countries’ decision to support early Myanmar accession:
+both Indonesia and Malaysia were worried that Myanmar’s close ties with
+China could give China an opportunity to deepen its influence on the
+region, and regarded early accession as an important strategy to pull
+Myanmar closer to ASEAN (FEER, 28 July 1994: 28).
+In July 1995, Myanmar’s political situation improved in that the government released Aung San Suu Kyi from house arrest. At the same time, Laos
+expressed its wish to join ASEAN, ideally in 1997 (Straits Times, 30 July
+1995). These developments were supportive of the interests of Malaysia,
+which would be the AMM chair in 1997 and lead ASEAN’s 30th anniversary
+celebration. Immediately upon hearing of Laos’ formal interest, Malaysia
+proposed that Laos, along with Myanmar and Cambodia, join the organisation in 1997 (Star, 31 July 1995). Celebrating the anniversary with the accession of these three countries was Malaysia’s most important objective as
+the 1997 AMM chair. Myanmar’s early accession was subject to this policy
+objective. Malaysia’s interest in early accession was buttressed by the
+Summit commitment two years earlier: to have an ‘ASEAN 10’ by 2000
+(ASEAN, 1995; ASEAN Secretariat, 1996: 79; New Straits Times, 13 August
+1996; Star, 13 August 1996). Thus, its attitude did not change even after
+Myanmar’s political situation deteriorated in 1996 as the government
+reverted to suppression of democratic movements.
+In order to realise this policy objective, Malaysia used two strategies to
+induce concessions from the member states opposing its proposal. The first
+was to request Indonesia, the chair of the 1996 informal Summit, to conduct favourable agenda setting for the Malaysian proposal. Utilizing a
+shared stance with Indonesia that Myanmar needed to be pulled away
+from China, Malaysia held a bilateral meeting with Indonesia to share its
+belief that isolating Myanmar from ASEAN did not benefit regional stability
+(New Straits Times, 8 October 1996). At the informal Summit, Indonesia supported the Malaysian proposal. As a compromise to the member states that
+objected to Myanmar’s early accession, discussion of the timing of accession was postponed (Jakarta Post, 1 December 1996). Regarding timing,
+Malaysia’s advantage lay in reaching an agreement in 1996 that they would
+admit Cambodia, Laos, and Myanmar to ASEAN ‘simultaneously’
+(ASEAN, 1996).
+The second Malaysian strategy was to collect and distribute reliable
+information that supported the idea of early Myanmar accession. This information came in the form of a report by the ASEAN Secretary-General (S-G).
+
+710
+
+S. SUZUKI
+
+Ajit Singh, a Malaysian national, was S-G from 1993 to 1997. He conducted a
+diplomatic tour of Myanmar and presented his findings in an official report.
+For our purposes, the most important finding is that Myanmar was ready to
+implement the ASEAN economic agreements because it had settled economic institutions and was a member of WTO (Straits Times, 10 November
+1996). In its role as AMM chair, Malaysia used the report to convince
+Singapore that, in fact, Myanmar was ready to implement ASEAN economic
+agreements. Under Malaysia’s agenda setting, this report was submitted to
+the special foreign ministers meeting in May 1997 as the main working document for discussion on this issue (Bangkok Post, 31 May 1997; New Straits
+Times: 1 June 1997; Jakarta Post: 1 June 1997). In this way, Malaysia, as the
+chair, utilised authority of the S-G to persuade opposing members.
+These Malaysian actions, however, were not sufficient to motivate
+Thailand and the Philippines to withdraw their veto over Myanmar’s early
+accession, because they were more concerned about the Myanmar political
+situation. To overcome these objections, Malaysia’s prime minister insisted
+that ASEAN member states would have more influence over Myanmar’s democratization process after Myanmar was a member of the organisation
+(Reuter News, 5 October 1996). Furthermore, Malaysia’s foreign minister also
+visited Myanmar and requested that it speed up democratic reforms (Asia
+Pulse, 22 October 1996). These efforts were successful and, at the special foreign minister’s meeting in May, all member states finally agreed on July 1997
+as the month when Cambodia, Laos and Myanmar would join the organisation and invited Malaysia’s foreign minister to visit the three countries to convey the result (New Straits Times: 1 June 1997; Jakarta Post: 1 June 1997).
+Malaysia’s foreign minister visited Myanmar again in June and requested
+the country establish a new constitution, hold fair elections, and hold talks
+between the government and Aung San Suu Kyi. Myanmar responded to
+these requests by saying that it recognized its responsibilities and roles as
+an ASEAN member (BBC Monitoring Service, Asia-Pacific, 14 June 1997). The
+ASEAN member states, including Thailand and the Philippines, took this as
+a positive sign for democratic reforms in Myanmar, and the 1997 AMM witnessed Myanmar’s entry into ASEAN (ASEAN, 1997).
+Analysis of the agreement on Myanmar accession in 1997 confirms that
+the case fits pattern (a). Expecting itself to be the 1997 AMM chair, Malaysia
+presented its own proposal on Myanmar’s accession in 1997 at an early
+stage. It won support from the member states by utilizing several opportunities as well as pursuing direct diplomacy with Myanmar. This agenda setting was driven by Malaysia’s primary objective: to celebrate ASEAN’s 30th
+anniversary at the 1997 AMM by accession of Cambodia, Laos, and
+Myanmar. In other words, if Malaysia was not the 1997 AMM chair, it would
+not have set this objective.
+
+THE PACIFIC REVIEW
+
+711
+
+At the 1997 AMM, however, domestic political turmoil in Cambodia led
+ASEAN to postpone this country’s accession. Hence, Malaysia fell short of
+realising its objective of celebrating ASEAN’s 30th anniversary with the
+accession of three countries. Before its political turmoil, Cambodia’s accession did not face any objections (Straits Times, 5, 9 December 1995). Even
+while in turmoil, Malaysia insisted that Cambodia should still become a
+member as scheduled (Straits Times, 8 July 1997). However, Cambodia’s
+situation did not allow Malaysia to maintain the original schedule. The
+armies of the ruling political parties engaged in conflict and a political
+leader was exiled. Following these events and a request from Indonesia,
+Malaysia had to postpone Cambodia’s accession to ASEAN (Straits Times, 8
+July 1997; Jakarta Post, 14 July 1997).
+In July 1998 Cambodia held fair elections, and in November the ruling
+parties agreed to establish a coalition government. These events imply that
+Cambodia was ready for accession, but this was not in fact the case.
+Ironically, as Cambodia had been undergoing domestic upheaval, ASEAN
+member states had been busy discussing the political criteria of Myanmar’s
+membership, which affected the conditions by which they could admit
+Cambodia as a member state.
+Again, Singapore, Thailand, and the Philippines objected to Cambodia’s
+early accession, insisting that a ‘functioning government’ with the establishment of a senate was a membership criterion (Straits Times, 18 November
+1998; 3 December 1998). Malaysia, Indonesia, and Vietnam, on the other
+hand, argued that Cambodia’s establishment of a coalition government
+would be sufficient progress to warrant admission in ASEAN.
+Singapore, the chair of the 1999 AMM, led negotiations on
+Cambodia’s accession. It de-prioritized the issue and refrained from holding a special meeting to discuss Cambodia’s accession as long as
+Cambodia failed to meet the criterion set by Singapore (Straits Times, 27
+November 1998), a position that is consistent with Singapore’s foreign
+policy. Only after establishment of Cambodia’s senate, in March 1999,
+was the country cleared for accession. During a formal accession ceremony was held in Hanoi in April 1999, where the member states welcomed Cambodia as its member state (ASEAN, 1999). Cambodia’s
+accession in 1999 partly fits pattern (b) because the member states
+agreed with the accession, but agreement was achieved not on the basis
+of concessions offered and received, but rather because political changes
+in Cambodia allowed the country to meet the criterion set by Singapore.
+Given the fact that Singapore opposed holding a meeting to discuss
+accession, it is highly possible that Singapore would have continued to
+postpone a decision on Cambodia’s accession if Cambodia had not
+established a senate prior to the 1999 AMM.
+
+712
+
+S. SUZUKI
+
+Accession of Cambodia came to be closely linked with that of Myanmar
+because political criteria applied to the latter came to be applied to the former. Malaysia’s agenda setting to realise its own policy objective brought
+intensive discussion on Myanmar accession, and some members who were
+inclined to oppose early accession expressed concerns that Malaysia’s use
+of the chair’s authority came close to an as-yet-undefined boundary. In
+response, as well as for other reasons, Singapore barred accession of
+Cambodia with its own political criterion and without any compromise.
+
+4.3. Reform of the non-interference principle
+Non-interference has been one of ASEAN’s most important principles: member states should not interfere in the domestic political affairs of other
+member states. Although it appears elsewhere, including the UN charter,
+ASEAN member states have afforded this principle extraordinary respect. In
+the late 1990s, Thailand and the Philippines, who experienced democratization, began to advocate for reform of non-interference (FEER, 17 October
+1996: 16–17). Myanmar’s accession strengthened their argument that
+ASEAN should intervene in the domestic affairs of the member states,
+implying that ASEAN should help Myanmar solve its own problems regarding delays in developing democratic processes and halting human rights
+abuses. In contrast, Indonesia, Malaysia, Singapore, and Vietnam insisted on
+maintaining non-interference as the core foundation of good relations
+among the member states. Difference on political regimes determined this
+division. Democracy and human rights were essential terms for Thailand
+and the Philippines to maintain the legitimacy of their newly democratic
+regimes, whereas these were not welcomed on the agenda by undemocratic member states. Indonesia had not clearly changed its attitude,
+because it had just started to undertake the process of democratization
+in 1998.
+At the 1997 AMM, when Myanmar acceded to ASEAN, the Philippines’
+foreign minister stated that as the twenty-first century approaches, ASEAN
+must re-tool itself, drastically if necessary, to deal more effectively with old
+and new challenges (Siazon, 1997). In June 1998, Thailand’s foreign minister
+argued that ASEAN should adopt a policy of flexible engagement, explaining that ‘ASEAN members perhaps no longer can afford to adopt a noncommittal stance and avoid passing judgement on events in a member
+country, simply on the grounds of “non-interference”‘(Haacke, 1999, p. 585).
+All ASEAN members except the Philippines strongly opposed the Thai proposal. Faced with these objections, Thailand revised its proposal and
+explained that ASEAN should take a more flexible attitude, but only when
+dealing with cross-border issues such as environment, labour movements,
+
+THE PACIFIC REVIEW
+
+713
+
+and refugees (Straits Times, 27 June 1998). This revision can be understood
+as a major concession to the objecting member states. While the revised
+proposal retained its challenge to non-interference, it limited the range of
+intervention to issues that had clear cross-border implications.
+Thailand explained its initiative to the Philippines, the chair of the 1998
+AMM. While supporting Thailand and keeping the proposal on the agenda,
+the Philippines left it to Thailand to engineer a reconciliation with other
+members. The Philippines, with skills and rich experience as an agendasetting chair and an adherence to the idea that, for the sake of unity, nonagreement should be avoided, sought to identify the zone of possible
+agreement. It fully acknowledged that this zone was narrow and possibly
+non-existent: non-agreement was a possible outcome. The Philippine foreign minister, Domingo Siazon, agreed to discuss this issue informally at
+the AMM, and optimistically stated that the discussions were a turning
+point for reconsidering non-interference (Star, 14 July 1998). On the other
+hand, he stressed that the Thai proposal would not be part of the formal
+agenda (New Straits Times, 21 July 1998).
+Thailand attempted to persuade Indonesia, Malaysia, and Singapore but
+did not receive their support. Thailand made a concession, arguing that
+flexible engagement could enhance exchanges for better management of
+bilateral issues, prevention of future conflicts, and solving cross-border
+issues, and that it does not contradict the non-interference principle (MFAT,
+1998). However, all members except the Philippines disagreed (Bangkok
+Post, 29 July 1998; Straits Times, 16 July 1998; Straits Times, 19 July 1998). At
+the 1998 AMM, Malaysia’s and Indonesia’s foreign ministers reemphasised
+the importance of ASEAN non-interference (FEER, 6 August 1998: 24–25;
+Abdullah, 1998). As a result, the Thai proposal was turned down.6
+The 1998 AMM fits pattern (c). Although supporting Thailand, the
+Philippines, for the most part, let Thailand lead the negotiations.
+Disagreement over reform of non-interference resulted from this Philippine
+decision and Thailand’s failure to persuade other member states to support
+its proposal. However, it is interesting to note that the Philippines, the 1998
+AMM chair, did place Thai proposal on the agenda, and did so because its
+attitude towards it was largely positive. It turned out that the Thai proposal
+was simply out of ASEAN’s collective zone of acceptable agreement.
+However, it is highly likely that if a different member state had held the
+chair, the proposal would have been entirely excluded from the agenda.
+Although not accepted, discussion on reform of non-interference
+affected later agreements. It led to the agreement on establishment of
+the ASEAN troika at the 2000 AMM, chaired by Thailand. As chair,
+Thailand proposed the establishment of an ASEAN troika comprised of
+the ex-, present, and incoming chairs, in order to support regional stability and peace. Although other member states agreed on the general
+
+714
+
+S. SUZUKI
+
+troika principle, the extent of its powers was the subject of vigorous
+debate, and some argued that it should exist on an ad-hoc, noninstitutionalized, basis (Jakarta Post, 25–26 July 2000; Star, 28 July 2000).
+Thailand accepted the idea of a limited role of the ASEAN troika and the
+AMM statement described the ASEAN troika as an institution designed to
+enable ASEAN to address in a timely manner important regional political
+and security issues and situations of common concern that were likely to
+disturb regional peace and harmony. It also noted that the ASEAN troika
+would carry out its work in accordance with the core principles of consensus and non-interference (ASEAN, 2003, pp. 91–93).
+Unlike the proposal of flexible engagement, the other member states
+accepted the Thai proposal on an ASEAN troika. Thus pattern (a), where the
+chair presents the agenda, explains the 2000 AMM. Thailand presented its
+own proposal on the ASEAN troika for agreement, which is in marked contrast to the handling of the proposal on reforming the non-interference
+principle in 1998.
+
+4.4. Territorial disputes in South China sea
+The territorial and related disputes in the South China Sea divided the
+ASEAN member states into several groups according to their relationship
+with China. Brunei, Malaysia, the Philippines, and Vietnam have territorial
+disputes with China over the Spratly Islands and the Paracel Islands.
+These contesting countries claim territorial rights by formulating various
+domestic measures to secure their marine interests. Among these states,
+the Philippines and Vietnam have crucial interests in this issue. Seizures
+of fishing boats and face-offs between patrol ships and navies have
+occurred between China and the Philippines and between China and
+Vietnam. Although the exclusive economic zone (EEZ) of the Natuna
+Islands, which Indonesia claims and rules over, fall within China’s ‘ninedashed line’, China has not made a claim on these areas and thus
+Indonesia is not a direct disputant in the South China Sea conflicts.
+Nonetheless, Indonesia has expressed concern about aggressive Chinese
+activities (Jakarta Post, 15 November 2011). On the other hand,
+Cambodia, Laos, Myanmar, and Thailand, which have no claims in the
+South China Sea, prioritize better economic relationships with China
+(Bangkok Post, 17 July 2012). Because of the different positions regarding
+their relationships with China, the ASEAN member states have found it
+difficult to present a united front regarding the South China Sea.
+The ASEAN member states and China jointly published the Declaration
+of the Conduct of Parties in the South China Sea (DOC) in 2002 as part of
+the effort for peaceful settlement of the issue. The DOC aims to: (1) confirm
+desire for a peaceful resolution of territorial disputes and self-restraint of
+
+THE PACIFIC REVIEW
+
+715
+
+hostile attitudes and (2) enhance confidence-building through mutual
+exchange of military personnel and cooperation in environmental research
+(ASEAN, 2002). The Philippines and Vietnam placed more importance on
+the first aspect of the DOC. That is, they insisted on incorporating dispute
+settlement procedures based on the United Nations Convention on the Law
+of the Sea (UNCLOS) into the code of conduct. In contrast, China emphasized the second aspect, insisting on confidence-building through cooperative environmental research and the joint resource development. Cambodia
+and Thailand sided with China. These divided positions among the member
+states were reflected in the negotiations in 2011 and 2012.
+The 2011 AMM was chaired by Indonesia, which took the position that
+territorial disputes should be best addressed bilaterally (Jakarta Post, 9 May
+2011), thus strengthening the second aspect of the DOC. ASEAN’s nondisputant member states supported China’s focus on confidence-building
+and joint environmental research. However, the Philippines disagreed with
+Indonesia’s agenda setting and insisted that ASEAN should focus on the
+resolution of territorial disputes. It proposed a framework to turn the West
+Philippines Sea into a Zone of Peace, Freedom, Friendship, and
+Cooperation. This framework entailed a segregation of disputed relevant
+features from the undisputed waters of the South China Sea, consistent
+with the UNCLOS (Philippine Daily Inquirer, 8 November 2011). The
+Philippines aimed to position its proposal as the base for resolution of conflicts by receiving agreement from other ASEAN member states.
+Indonesia responded negatively towards the Philippine proposal, reasoning that definitions of disputed and undisputed areas varied, and the concerned countries should use a non-controversial approach to reduce the
+tension in the area (Jakarta Post, 16 November 2011). This suggests that
+Indonesia deliberately excluded the proposal from the agenda, which led
+to the announcement of ‘the Guidelines for the Implementation of the
+DOC,’ stipulating the procedures and principles that contesting countries
+should follow when jointly engaged in environmental surveys and resource
+development (ASEAN, 2011). The agreement on the Guidelines is the case
+fitting pattern (a). Given strong agenda-setting power, Indonesia inserted
+its own preferences into the agreement.
+In 2012, China continued to engage in aggressive activities in the South
+China Sea, which the Philippines and Vietnam naturally opposed and
+sought ASEAN support for their positions. At the 2012 AMM, the Philippines
+and Vietnam wanted the AMM joint communique to mention a recent
+standoff between the Philippines and China at the Scarborough Shoal and
+express their concerns on Chinese actions, as well as reinforce ASEAN commitment to the principle of the EEZ whose extent is determined with reference to continental shelves. Most member states generally supported the
+
+716
+
+S. SUZUKI
+
+s had referred to issues
+proposals because the past AMM joint communique
+surrounding the South China Sea (Straits Times, 14 July 2012).
+However, Cambodia, the chair of the 2012 AMM, supported China, from
+whom it had received substantial amounts of development aid (Straits
+Times, 16 July 2012) and thus declined to reflect the proposals in the
+communiqu
+e. As a result, the AMM not only failed to bring out a concrete
+agreement regarding the South China Sea, but also failed to announce a
+joint communique for the first time in its history.7 Analysis of the outcome
+of the 2012 AMM indicates that it fits pattern (b). Cambodia rejected proposals from the non-chair member states because it considered having a
+discussion on the South China Sea within ASEAN itself as harmful to its
+own relationship with China. The 2012 was only the second time that
+Cambodia took the ASEAN chair. It could be argued that, with little experience and skills as the chair, Cambodia was both insensitive to the principle
+of supporting ASEAN unity by avoiding non-agreement and incapable of
+identifying the boundaries of the zone of possible agreement for this issue.
+
+5. Conclusion
+The chair of the AMM provides a crucial opportunity for its holder to influence agenda setting, which can affect both the direction and the intensity
+of subsequent ASEAN policies. Analysis of the approaches of various AMM
+chairs to using their strong agenda-setting power reveals three patterns of
+reconciliation, as shown in Table 1.
+Table 1. Patterns of the chair’s agenda setting and outcomes.
+Issues
+
+Pattern
+
+Cambodian
+conflict
+
+(a)
+
+Accession
+Non-interference
+principle
+South China Sea
+
+(b)
+(c)
+(a)
+(b)
+(c)
+(a)
+(b)
+(c)
+(a)
+(b)
+
+(c)
+Source: Author.
+
+Agreement
+
+Non-agreement
+
+loose coalition government (1982) Kuantan principle (1980)
+30 km withdrawal (1983)
+ASEAN Appeal (1984)
+proximity talks (1985)
+five-plus-two meeting (1983)
+support for CGDK (1981)
+Myanmar (1997)
+Cambodia (1999)
+ASEAN troika (2000)
+flexible engagement (1998)
+Guidelines (2011)
+Zone of Peace, Freedom,
+Friendship, and Cooperation
+(2011) references to a
+standoff, concerns on
+Chinese actions, and respect
+for the EEZ (2012)
+
+THE PACIFIC REVIEW
+
+717
+
+Pattern (a) is by far the dominant mode of decision-making at ASEAN’s
+annual AMM. The Kuantan principle, loose coalition government, 30 km
+withdrawal, ASEAN Appeal, proximity talks, accession of Myanmar, establishment of an ASEAN troika, and Guidelines for the Implementation of the
+DOC are cases in point. Following pattern (a), framing and placing an issue
+on the agenda brings with it a strong likelihood of agreement; the only
+exception is the case related to the Kuantan principle. Malaysia attempted
+to persuade Thailand to accept the Kuantan principle, insisting that it
+respected Thai security concerns. Thailand, however, was not convinced as
+the Kuantan principle did not require Vietnam’s withdrawal from Cambodia.
+In this case, the chair seems to have failed to estimate the proposal’s contract zone. In the other pattern (a) cases, the chairs successfully guided their
+proposals to acceptance. This sometimes included the provision of concessions to hesitant states, but these were managed in a way that they did not
+undermine the chair’s original preferences.
+The fate of pattern (b) cases, in which initiatives are presented by nonchair states, is expected to be strongly influenced by the intensity of the
+chair’s support. Proposals about the five-plus-two meeting proposal, accession of Cambodia, and the South China Sea issue in 2011 and 2012 are consistent with pattern (b). In the first case, Thailand objected to Malaysia’s
+proposed five-plus-two framework and used the power of the chair to
+exclude it from the AMM agenda. In the second case, all sides held firm.
+Singapore, the chair, continued to insist that Cambodia establish a senate
+before being granted ASEAN membership. Rather than compromise or concessions, the impasse was resolved when Cambodia, in compliance with
+Singapore’s condition, established a senate. It is highly likely that the member states would have postponed discussion of accession if the Cambodian
+senate had not been established before the 1999 AMM. Third, the chairs
+rejected several South China Sea proposals in 2011 and 2012. Indonesia,
+the 2011 AMM chair, interpreted the Philippine proposal as an inappropriate escalation of the territorial dispute. Cambodia, the 2012 AMM chair,
+rejected proposals from the Philippines and Vietnam because it prioritized
+its relationship with China. This consequence was due to Cambodia’s lack
+of attention to the zone of possible agreement. This shows that Cambodia
+neither had rich experience and skills as an agenda-setting chair, nor shared
+adherence to the idea of avoiding of non-agreement for the sake of
+ASEAN unity.
+Finally, pattern (c) shows how an indifferent chair affects the success of a
+proposal submitted in the context of conflicting interests of non-chair
+states. The 1981 and 1998 AMMs are cases in point. The efforts of
+Singapore – not the Philippines, the 1981 AMM chair – led to an agreement
+to support the CGDK. The Philippines, with little interest in the Cambodian
+
+718
+
+S. SUZUKI
+
+conflict, left reconciliation of interests to Singapore, and Singapore’s diplomatic efforts succeeded in convincing Indonesia to agree to ASEAN support
+of the CGDK. In contrast, consensus was not achieved on the Thai ‘flexible
+engagement’ proposal. The Philippines kept it on the informal agenda, but
+did not use the power of the chair to guide opposing member states
+toward consensus. This task was left to Thailand, which failed to convince
+the others that flexible engagement did not contradict the non-interference
+principle.
+The above analysis shows the extent and variation in the chair’s influence
+on whether proposals generate a consensus, as well as the content of such
+agreements. It is likely that the chair will successfully ensure agreement for
+its own proposals. This does not necessarily render non-chair proposals
+meaningless, but those proposals must be in line with the chair’s preferences.
+This conclusion is in line with findings from the few cases that fit pattern (c),
+which reinforce the idea that a non-chair state wishing to make a proposal
+would be well-advised to ensure active support from the chair.
+This study also shows that the source of the chair’s power does not
+emanate from the national power of its occupant. Indeed, as chair, tiny
+Singapore successfully persuaded Indonesia, one of ASEAN’s most powerful
+members, to withdraw its veto threat over the 1982 agreement on
+Cambodia. This suggests that chairmanship is an institution of reconciliation
+and that the chair has a legitimate and autonomous role in agenda setting.
+Chairmanship has impacts on policy-making. While equally rotating
+chairmanship contributes to enhancing both ASEAN unity and the commitment of member states to bend towards consensus in ASEAN policy-making, this source of institutional stability, perhaps ironically, disturbs the
+consistency of ASEAN’s policies over time. This was clearly shown in
+ASEAN’s engagement in the Cambodian conflict. It could be argued that
+this institution even blocks policy changes, as it did in the case of the Thai
+proposal on flexible engagement. However, it is more accurate to view the
+consensus rule itself as the impediment to policy changes and note that,
+on occasion, the institution of chairmanship is not sufficient to overcome
+this impediment. Analysis in this article demonstrates the possibilities for
+incremental policy changes and expanding a zone of possible agreement in
+the process of exchanging proposals and compromises, especially when the
+process occurs under the leadership of a competent chair.
+There are some limitations to the analysis presented above. The first concerns case selection. In most cases, the ASEAN member states have national
+interests, but analysis of these interests yields little insight as to how the
+chair behaves in pattern (c). The question of whether the member states
+are likely to reach an agreement if the chair is indifferent to an issue needs
+further exploration.
+
+THE PACIFIC REVIEW
+
+719
+
+A second limitation is that this study does not analyse what determines
+agreement versus non-agreement. The chair sometimes fails to grasp a
+zone of possible agreement but the reasons behind such failures should be
+further analysed. As explained earlier, how much a chair pays attention to a
+zone of possible agreement depends on its skills and experience as the
+chair, as well as the depth of its adherence to avoidance of non-agreement
+to maintain ASEAN unity. However, a zone of possible agreement is not set
+in stone, but rather is gradually created and consolidated in the process of
+consultation. The 1980 AMM experience might best be understood as a
+case in which Malaysia, as the chair, simply did not have the experience
+and had not developed the skills needed to use the power of the chair to
+generate an agreement. But this analysis might be unfair; it is also possible
+that, in 1980, no actors had a clear understanding of the boundaries of a
+zone of possible agreement on the Cambodian conflict, and that the zone
+was in the early stages of being shaped. This case contrasts with that of the
+Philippines, which as chair in 1998 seems to have understood that no zone
+agreement existed with regard to the Thai proposal and thus decided not
+to prioritize it on the agenda. The extent to which member states share the
+value of strengthening ASEAN unity by avoiding non-agreement also
+should be explored further, including special attention on Cambodia’s use
+of the chair in 2012 to sidetrack a proposal on security in the South China
+Sea. Such investigations could shed additional light on debates surrounding
+ASEAN effectiveness.
+This study has shown that rules supporting a strong chairmanship are
+likely to solve collective action problems in international organisations
+where consensus rule is the main decision-making procedure and the
+involvement of third parties is discouraged. The finding is relevant not only
+to ASEAN, but also to APEC, G7/G8, AU, ECOWAS8 and other organisations.
+Generally, due to defending sovereignty, fledgling international organisations tend to adapt this institutional structure. Whereas majority rule itself
+provides a mechanism for reconciliation of conflicting interests by taking a
+vote, consensus rule does not contain an inherent reconciliation mechanism. This implies that, under consensus rule, member states face a more
+severe collective action problem, which requires certain institutional
+enhancements to facilitate the reconciliation process. Chairmanship, based
+on conventional wisdom regarding the chair’s role, is one such institutional
+enhancement.
+Further, the tightness of the connection between the outcome and the
+chair’s preferences depends on the chair’s agenda-setting power. Shared
+preferences or values of the member states regarding decision-making
+powerfully influence the extent of this authority. This article began assuming that the AMM chair has strong agenda-setting power, and subsequent
+empirical analysis supports the assumption. How would the chair influence
+
+720
+
+S. SUZUKI
+
+the outcome if this power were weaker? Evidence presented here supports
+the conclusion that even under this condition, where for example the chair
+could behave only in patterns (b) and (c), the chair still can influence the
+outcome and that while such outcomes might not be favourable to the
+chair, they will never be contrary to the chair’s preferences. If rules and custom enable the chair to behave only in pattern (c), we may consider modelling the chair as a neutral player whose role is limited to judging whether a
+proposal lies within a zone of agreement.
+
+Notes
+1.
+
+2.
+
+3.
+4.
+5.
+
+6.
+
+7.
+
+8.
+
+Concessions are often result of political manipulation. Riker (1986) cites the importance
+of political manipulation of agendas, arguing that if the agenda is set up differently,
+there are possibly different outcomes.
+Tallberg (2003) adapts the term ‘agenda-shaping’ consisting of three forms: agenda
+setting, agenda structuring and agenda exclusion. Agenda setting involves introducing
+new issues to the agenda. Agenda structuring refers to emphasizing and/or deemphasizing issues already on the agenda. Finally, agenda exclusion refers to actively
+barring issues from the policy agenda.
+For the importance of constitutive questions in social science, see Wendt (1999).
+The EU presidency’s function as brokerage is also an informal practice, compared with
+agenda management and representation (Tallberg, 2006, pp. 57–65).
+ASEAN member states informally agreed that the issue of arms supply to the CGDK was
+left to each member state. Singapore showed the intention to supply arms (Straits
+Times, 11 December 1981; FEER, 25 December 1981: 12–13).
+According to Haacke (1999, p. 582), ASEAN member states agreed on ‘enhanced
+interaction.’ However, enhanced interaction was not stated in the AMM joint
+communique; rather, it came from the statement by Thailand’s foreign minister at the
+1998 AMM that mentioned ‘enhancing our interactions for the benefit of all’ (Surin, 1998).
+After the AMM, ASEAN member states released a statement that identified six principles
+which should guide conflict resolution in the South China Sea. It reaffirmed their
+commitment to the past relevant agreements including the 2002 DOC, the 2012
+Guidelines, full respect for the universally recognized principles of International Law, the
+continued exercise of self-restraint and non-use of force by all parties, and the peaceful
+resolution of disputes (ASEAN 2012). This statement’s release was the result of intensive
+lobbying by Indonesia, not Cambodia (Straits Times, 21 July 2012).
+The ECOWAS adapts the unanimity, consensus, or two-third majority. It suggests that it
+is desirable to ensure little objections before taking decisions, which is similar to the
+conditions under consensus rule.
+
+Acknowledgements
+I would like to thank Susumu Yamakage and Taku Yukawa for invaluable comments and useful discussions on the early stages of this work. I am grateful to
+David Stuligross for carefully proofreading the manuscript. Finally I also thank the
+anonymous reviewers for constructive comments.
+
+Disclosure statement
+No potential conflict of interest was reported by the author.
+
+THE PACIFIC REVIEW
+
+721
+
+Funding
+This work was supported by the Japan Society for the Promotion of Science [grant
+number 15K17015].
+
+Notes on contributor
+Sanae Suzuki is a research fellow of Institute of Developing Economies, Japan
+External Trade Organization, Chiba, Japan.
+
+References
+Abdullah, A. B. (1998, July 24). Opening statement of H.E. Dato’ Seri Abdullah
+Ahmad Badawi Minister of Foreign Affairs of Malaysia. The 31st ASEAN Ministerial
+Meeting, Manila, The Philippines.
+Acharya, A. (1997). Ideas, identity and institution-building from the “ASEAN way” to the
+“Asia-Pacific way. The Pacific Review, 10(3), 319–346. doi:10.1080/09512749708719226
+ASEAN. (1981, June 17–18). Joint communique of the fourteenth ASEAN Ministerial
+Meeting. Manila, the Philippines.
+ASEAN. (1982, June 14–16). Joint communique of the fifteenth ASEAN Ministerial
+Meeting. Singapore.
+ASEAN. (1983, June 24–25). Joint communique of the sixteenth ASEAN Ministerial
+Meeting. Bangkok, Thailand.
+ASEAN. (1984, July 9–10). Joint communique of the seventeenth ASEAN Ministerial
+Meeting. Jakarta, Indonesia.
+ASEAN. (1985, July 9). Joint communique of the seventeenth ASEAN Ministerial
+Meeting. Kuala Lumpur, Malaysia.
+ASEAN. (1995, December 14–15). Bangkok summit declaration of 1995. Bangkok, Thailand.
+ASEAN. (1996, November 30). Press statement: The first Informal ASEAN Heads of
+Government Meeting. Jakarta, Indonesia.
+ASEAN. (1997, July 24–25). Joint communique of the thirtieth ASEAN Ministerial
+Meeting. Subang Jaya, Malaysia.
+ASEAN. (1999, July 23–24). Joint communique of the thirty-second ASEAN Ministerial
+Meeting. Singapore.
+ASEAN. (2002, November 4). Declaration on the conduct of parties in the South China
+Sea, Phnom Penh, Cambodia.
+ASEAN. (2011, July). Guidelines for the implementation of the DOC.
+ASEAN. (2012, July 20). Statement of the ASEAN foreign ministers. Phnom Penh,
+Cambodia.
+ASEAN Secretariat (Ed.). (1996). Twenty-ninth ASEAN Ministerial Meeting (AMM), Post
+Ministerial Conferences with Dialogue Partners (PMC) and third ASEAN Regional
+Forum (ARF). Jakarta: Author.
+ASEAN Secretariat (Ed.). (2003). Handbook on selected ASEAN political documents.
+Jakarta: Author.
+ASEAN Secretariat (Ed.). (2007). The ASEAN charter. Jakarta: Author.
+Blavoukos, S., & Bourantonis, D. (2011). Chairs as policy entrepreneurs in multilateral
+negotiations. Review of International Studies, 37(2), 653–672. doi:10.1017/
+S0260210510000525
+Cox, G. W., & McCubbins, M. D. (2005). Setting the agenda: Responsible party government in the U.S. House of Representatives. Cambridge: Cambridge University Press.
+
+722
+
+S. SUZUKI
+
+Franck, T. M. (1988). Legitimacy in the international system. The American Journal of
+International Law, 82(4), 705–759. doi:10.2307/2203510
+Funston, J. (1998). Thai foreign policy: Seeking influence. In D. Da Cunha & J.
+Funston (Eds.), Southeast Asian Affairs 1998 (pp. 292–306). Singapore: Institute of
+Southeast Asian Studies.
+Garret, G., & Weingast, B. R. (1993). Ideas, interests and institutions: Constructing the
+European Community’s internal market. In J. Goldstein & R. O. Keohane (Eds.),
+Ideas and foreign policy: Beliefs, institutions, and political change (pp. 173–206).
+Ithaca, NY: Cornell University Press.
+Gehring, T. (1992). Dynamic international regimes: Institutions for international environmental governance. Frankfurt: Peter Lang.
+Haacke, J. (1999). The concept of flexible engagement and the practice of enhanced
+integration: Intramural challenges to the “ASEAN way”. The Pacific Review, 12(4),
+581–611. doi:10.1080/09512749908719307
+Hayes-Renshaw, F., & Wallace, H. (1997). The Council of Ministers. Basingstoke: Macmillan.
+Hoang, A. T. (1996). ASEAN dispute management: Implications for Vietnam and an
+expanded ASEAN. Cotemporary Southeast Asia, 18(1), 61–80.
+Hurd, I. (1999). Legitimacy and authority in international politics. International
+Organization, 53(2), 379–408. doi:10.1162/002081899550913
+Jorgensen-Dahl, A. (1976). ASEAN 1967–1976: Development or stagnation? Pacific
+Community, 7(4), 519–535.
+Kaufmann, J. (1996). Conference diplomacy. London: Macmillan Press Ltd.
+Krasner, S. D. (1983). Structural causes and regime consequences: Regimes as intervening variables. In S. K. D (Ed.), International regimes (pp. 1–21). Ithaca, NY:
+Cornel University Press.
+Kratochwil, F., & Ruggie, J. G. (2001). International organization: A state of the art on
+an art of the state. In L. L. Martin & B. A. Simmons (Eds.), International institutions
+(pp. 341–363). Cambridge, MA: The MIT Press. doi:10.1017/S0020818300027363
+Kurus, B. (1995). ASEAN triad: National interest, consensus-seeking and economic
+cooperation. Contemporary Southeast Asia, 16(4), 404–420. doi:10.1355/CS16-4C
+Leifer, M. (1980). Conflict and regional order in South-east Asia. The Adelphi Papers,
+20(162), 1–1. doi:10.1080/05679328008448571
+Leifer, M. (1989). ASEAN and the security of South-East Asia. London: Routledge.
+M’Bow, A.-M. (1978). The practice of consensus in international organizations.
+International Social Science Journal, 30(4), 893–903.
+March, J. G., & Olsen, J. P. (1989). Rediscovering institutions: The organizational basis
+of politics. New York: Free Press.
+MFAT (Ministry of Foreign Affairs, Thailand). (1985). Documents on the Kampuchean
+problem 1979–1985. Bangkok: Department of Political Affairs, Ministry of Foreign
+Affairs, Thailand.
+MFAT (Ministry of Foreign Affairs, Thailand). (1998, July 27). Thailand’s non-paper on
+the flexible engagement Approach. 743/2541. Bangkok: Author.
+Moravcsik, A. (1999). A new statecraft? Supranational entrepreneurs and international
+cooperation. International Organization, 53(2), 267–306. doi:10.1162/002081899550887
+Nair, K. K. (1984). ASEAN-Indochina relations since 1975: The politics of accommodation. Canberra: The Strategic and Defence Studies Centre, Research School of
+Pacific Studies, Australian National University.
+Nischalke, T. I. (2002). Does ASEAN measure up? Post-Cold War diplomacy and the
+idea of regional community. The Pacific Review, 15(1), 89–117. doi:10.1080/
+09512740110110873
+
+THE PACIFIC REVIEW
+
+723
+
+Raiffa, H. (1982). Art and science of negotiation. Cambridge, MA: Belknap Press of
+Harvard University Press.
+Riker, W. H. (1986). The art of political manipulation. New Heaven, CT: Yale University
+Press.
+Siazon, L. D. (1997, July 24–25). Opening statement by H.E. Domingo L. Siazon, Jr.,
+Secretary of Foreign Affairs of the Philippines. The 30th ASEAN Ministerial
+Meeting, Kuala Lumpur, Malaysia.
+Sohn, L. B. (1974). Introduction: United Nations decision-making: Confrontation and
+consensus? Harvard International Law Review, 15, 438–445.
+Stubbs, R. (2019). ASEAN sceptics versus ASEAN proponents: Evaluating regional institutions. The Pacific Review, 32(6), 923–950. doi:10.1080/09512748.2019.1611627
+Surin, P. (1998, July 24). Opening statement by H. E. Dr. Surin Pitsuwan Minister of
+Foreign Affairs of Thailand. The 31st ASEAN Ministerial Meeting, Manila, the
+Philippines.
+Tallberg, J. (2003). The agenda-shaping powers of the EU Council Presidency. Journal
+of European Public Policy, 10(1), 1–19.
+Tallberg, J. (2004). The power of the presidency: Brokerage, efficiency and distribution in EU negotiations. Journal of Common Market Studies, 42(5), 999–1022. doi:
+10.1111/j.0021-9886.2004.00538.x
+Tallberg, J. (2006). Leadership and negotiation in the European Union. Cambridge:
+Cambridge University Press.
+Tallberg, J. (2010). The power of the chair: Formal leadership in international cooperation.
+International Studies Quarterly, 54(1), 241–265. doi:10.1111/j.1468-2478.2009.00585.x
+Thambipillai, P. (2000). Challenge to the ASEAN way: Musyawarah and non-interference. Kajian Malaysia (Journal of Malaysian Studies), 18(1–2), 157–170.
+Thambipillai, P., & Saravanamuttu, J. (1985). ASEAN negotiations: Two insights.
+Singapore: Institute of Southeast Asian Studies.
+Thomson, R. (2008). The Council Presidency in the European Union: Responsibility
+with power. Jcms: Journal of Common Market Studies, 46(3), 593–617. doi:10.1111/
+j.1468-5965.2008.00793.x
+Wallace, H. (1985). The Presidency of the Council of Ministers of the European
+Community: A comparative perspective. In C. O’Nuallain and J-M. Hoscheit (Eds.), The
+Presidency of the European Council of Ministers (pp. 261–279). London: CROOM HELM.
+Wendt, A. (1999). Social theory of international politics. Cambridge: Cambridge
+University Press.
+Winham, G. R. (1977). Negotiation as a management process. World Politics, 30(1),
+87–114. doi:10.2307/2010076
+Young, O. R. (1991). Political leadership and regime formation: On the development
+of institutions in international society. International Organization, 45(3), 281–308.
+doi:10.1017/S0020818300033117
+Zainal Abidin, B. A. W. (1983). Malaysian threat perceptions and regional security. In
+C. E. Morrison (Ed.), Threats to security in East Asia-Pacific: National and regional
+perspectives (pp. 103–112). Lexington: D. C. Health and Company.
+Zartman, I. W. (1994). Two’s company and more’s a crowd: The complexities of multilateral negotiations. In I. W. Zartman (Ed.), International multilateral negotiation
+(pp. 1–10). San Francisco, CA: Jossey-Bass Publishers.
+Zemanek, K. (1983). Majority rule and consensus technique in law-making diplomacy. In R. St. J. Macdonald and D. M. Johnston (Eds.), The structure and process of
+international law: Essays in legal philosophy doctrine and theory (pp. 857–887).
+Dordrechit: Martinus Nijhoff Publishers.
+
+

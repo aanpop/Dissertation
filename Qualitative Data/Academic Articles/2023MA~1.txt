@@ -1,0 +1,1342 @@
+The Paciﬁc Review
+
+ISSN: 0951-2748 (Print) 1470-1332 (Online) Journal homepage: www.tandfonline.com/journals/rpre20
+
+Managing economic statecraft via multilateral
+agreements: the roles of ASEAN member states
+in shaping Regional Comprehensive Economic
+Partnership
+Kaewkamol Pitakdumrongkit
+To cite this article: Kaewkamol Pitakdumrongkit (2023) Managing economic statecraft
+via multilateral agreements: the roles of ASEAN member states in shaping Regional
+Comprehensive Economic Partnership, The Paciﬁc Review, 36:5, 1120-1147, DOI:
+10.1080/09512748.2023.2200022
+To link to this article: https://doi.org/10.1080/09512748.2023.2200022
+
+Published online: 10 Apr 2023.
+
+Submit your article to this journal
+
+Article views: 775
+
+View related articles
+
+View Crossmark data
+
+Citing articles: 3 View citing articles
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=rpre20
+
+The Pacific Review
+2023, VOL. 36, NO. 5, 1120–1147
+https://doi.org/10.1080/09512748.2023.2200022
+
+Managing economic statecraft via multilateral
+agreements: the roles of ASEAN member states
+in shaping Regional Comprehensive Economic
+Partnership
+Kaewkamol Pitakdumrongkit
+S. Rajaratnam School of International Studies, Nanyang Technological University, Singapore
+
+ABSTRACT
+
+Economic statecraft (ES) has been playing an increased role in affecting the
+international relations. While armed conflicts decline, states have been weaponising trade, investment, and other economic ties to gain leverage over
+their counterparts. In the contemporary world, ES is not only used to galvanise
+countries’ influence in specific issue areas but also part of their grand strategy
+to achieve broad power-maximisation goals. Despite a proliferation of ES literatures in recent years, extant research tended to focus on great powers’ ES,
+leaving small states’ ES under-examined. Also, previous studies usually looked
+into how countries unilaterally employ ES. Hence, insufficient attention has
+been paid to how regional states work together to collectively alter multilateral
+frameworks to advance their ES. Against this backdrop, this paper investigates
+small nations’ roles in the development of multilateral cooperative frameworks.
+Using the ES lens, it explores how these countries leverage these schemes to
+push forward their collective ES. The main argument is that regional states
+worked together to craft the terms of multilateral economic agreements to
+galvanise their clout over certain governance areas. I validate this argument
+by using the case of Regional Comprehensive Economic Partnership (RCEP).
+This study makes contributions to the research pertaining to ES, small states’
+strategies, and economic regionalism. It also yields practical implications for
+policymakers involved in fostering international economic governance.
+
+KEYWORDS ASEAN; economic security; economic statecraft; institutional balancing; Regional
+Comprehensive Economic Partnership; small states
+
+I. Introduction
+In East Asia, economics is one of the proxy domains for strategic competition. While there has been no inter-state conflict since 1988, this region
+has increasingly witnessed the use of Economic Statecraft (ES). In other
+CONTACT Kaewkamol Pitakdumrongkit
+iskaewkamol@ntu.edu.sg
+International Studies, Nanyang Technological University, Singapore
+© 2023 Informa UK Limited, trading as Taylor & Francis Group
+
+S. Rajaratnam School of
+
+The Pacific Review
+
+1121
+
+words, states in recent years have employed economic tools to sustain or
+galvanise their influence over others’ policy outcomes or international
+regimes.
+The existing research tends to focus on how great powers orchestrate
+their ES and depict small states as passive victims. Thanks to their superior
+national clout usually through military capabilities, more powerful nations
+are expected to shape international relations more than their small counterparts. The latter are often cast as the ones with meager capabilities,
+rendering them unable to alter outcomes and suffer from sovereignty
+infringements by bigger powers (Sutton, 2011; Tillikainen, 2018, p. 141).
+This connotes a misperception that small countries are feeble and incapable of impacting the international order (Krasner, 1983). Contrary to this
+belief, these players are in fact able to conduct their own ES against more
+powerful peers. In short, the former can work together and collectively
+affect multilateral frameworks to advance their ES to bolster their clout
+in specific issue areas.
+Given the rising importance and proliferation of ES in East Asia as well
+as the literature gaps, this paper investigates small nations’ roles in the
+development of multilateral cooperative frameworks. Using the ES lens, it
+explores how these countries leverage these schemes to push forward
+their ES. The main argument is that regional states collectively craft the
+terms of multilateral economic agreements to galvanise their clout over
+certain governance areas. I validate this argument by using the case of
+Regional Comprehensive Economic Partnership (RCEP), which is a free
+trade agreement (FTA) among the members of the Association of Southeast
+Asian Nations (ASEAN) and five ASEAN Dialogue Partners (i.e. Australia,
+China, Japan, New Zealand, and South Korea).
+RCEP was chosen to verify the article’s argument for the following
+reasons. First, the pact’s significance stems from the fact that it is the
+world’s largest FTA to date. RCEP forms the combined market of 2.3 billion
+people or 30 percent of the world’s population and contributes to 30
+percent of global GDP (Tan et al., 2020). This arrangement is estimated
+to add US$500–504 billion and US$186–209 billion to the 2030 world’s
+trade and income respectively (Petri & Plummer, 2020). Second, this bloc’s
+impact on the global economy will likely increase over time because its
+accession clause allows any state or separate customs territory to join
+after RCEP enters into force. It is also a ‘living document’ which can be
+amended or upgraded to become a key FTA setting international standards.
+Accordingly, RCEP has potentials to alter the future international trade
+and trade-related rules as well as the global trading system. Moreover,
+this FTA is a platform where the Southeast Asian nations (i.e. ‘regional
+states’) interact with powerful extra-regional stakeholders. It is also part
+of trade regionalism where inter-state contestation looms large (Solis et al.
+2009). As Ravenhill (2010) observes, the proliferation of the post-Asian
+Financial Crisis economic arrangements in East Asia was propelled more
+by strategic calculations than economic ones. In short, such burgeoning
+
+1122
+
+K. PITAKDUMRONGKIT
+
+was caused by a ‘political domino effect’, reflecting states’ deliberate use
+of these pacts to boost their ES in international economic governance.
+Thus, RCEP is a contemporary case enabling me to probe into small state’s
+employment of institutional means to execute their ES.
+The paper is organised as follows. The second part discusses the related
+literatures and identifies gaps in these previous works to exemplify how
+my study can advance the existing research. This is followed by the third
+part outlining the conceptual framework. The fourth section covers the
+methodology such as data collection and method of analysis. The fifth
+part features the development of RCEP and its components confirming
+the argument. In the nutshell, it shows how the ASEAN member states
+moulded some specific details of this scheme to perform their ES vis-à-vis
+the non-ASEAN stakeholders. The sixth and final section concludes and
+explores future research opportunities.
+
+II. Previous works on small states’ economic Statecraft
+My research extends the literatures and makes academic contributions in
+several ways. First, with respect to the works on ES, they overwhelmingly
+focus on great or middle powers (Drezner, 2019; Lim, Ferguson, & Bishop,
+2020; Thurbon and Weiss 2021). A recent example is the Trans-Pacific
+Partnership (TPP) spearheaded by the United States (US) (Parker & Sofio,
+2017). The analyses of currency internationalisation reveal that in an
+attempt to bolster their monetary power, Japan, Germany, and China
+actively propagated the use of the Yen, Deutsche Mark and Renminbi
+outside their borders (Cohen, 2018). Unlike these studies, this article seeks
+to shed light on small states’ conduct of their ES which is characteristically
+different from what executed by great or middle powers. Doing so will
+further enhance theoretical formulation and understanding of ES employed
+by different kinds of countries.
+A handful of studies on small nations’ ES deserves mentioning. For
+instance, Hoadley (2008) demonstrated that Thailand’s cross-regional FTAs
+were partly fueled by the desire to elevate its international status through
+trade diplomacy. Moreover, Singapore’s bilateral FTA policy was part of
+the city-state’s responses to the security threats posed by its close neighbors, Indonesia and Malaysia (Lee, 2012). In the realm of monetary statecraft, small nations have leeway to manage the challenges of the ‘Impossible
+Trinity’.1 Instead of giving up their monetary sovereignty by fixing its
+currency to Germany’s Deutsch Mark as Austria did, Canada imposed
+capital controls so that it could maintain its monetary policy autonomy
+(Pauly, 2006). These works’ richness notwithstanding, they tend to investigate small states’ ES through their individual actions, leaving cooperation
+among them unexplored. My paper strives to extend this research strand
+by focusing on how these stakeholders work together within international
+institutional frameworks to carry out their ES.
+
+The Pacific Review
+
+1123
+
+Most extant literatures pertaining to small countries’ use of institutional
+means to perform their ES come from the International Relations (IR) field.
+These scholars often relied on military and security cases for their analyses.
+The oft-cited strategies in this discipline are institutional hedging and
+institutional balancing (Braveboy-Wagner, 2010). Institutional hedging is an
+act of leveraging institutional tools to ‘cultivate a middle position that
+forestalls or avoids having to choose one side at the obvious expense of
+another’ (Goh, 2005, p. 2). Institutional balancing happens when states
+resort to the mechanisms to counter a threat. It can be carried out by
+including the threat in the schemes (i.e. inclusive institutional balancing)
+or excluding it from the schemes (i.e. exclusive institutional balancing) (He,
+2008). The inception of the ASEAN Regional Forum attested to the regional
+state’s inclusive institutional balancing against China (He, 2015). The
+Organization’s adoption of Zone of Peace, Freedom and Neutrality (ZOPFAN)
+could be viewed as exclusive institutional balancing as it results in equal
+exclusion of non-ASEAN players in regional security architectures (Acharya
+& Tan, 2005, p. 44). Although these studies draw valuable insights, they
+have little examined how small states’ institutional responses are in the
+economic realm. Hence, my article seeks to fill this literature gap by probing
+into how small nations leverage multilateral economic frameworks to undertake their ES. Such analysis not only augments our broad understanding
+of these countries’ roles in shaping the international economic order, but
+also cultivates inter-disciplinary research between the IR and IPE fields.
+
+III. Conceptual framework—how do small states achieve
+inclusive institutional balancing?
+One may wonder: Why do the regional states opt for institutional means?
+Thanks to the increased number of post-World War II international institutions, lesser powers have more avenues to affect the international system
+than before. Taking an institutional path permits them to perform their
+balancing act vis-à-vis their more powerful counterparts (i.e. ‘targets’) in
+the following ways. First, institutional procedures and rules constrain the
+target’s influence over small countries. These processes allow the latter to
+punch above their weight which is otherwise impossible given their scant
+capabilities. For instance, at the United Nations (UN) Climate Change
+Summit in Copenhagen, small parties leaned on the consensus decision-making rule to block the deal colluded by major powers namely
+Brazil, China, India, and the US (Monheim, 2016).
+Also, small players use multilateral frameworks to decrease transaction
+costs and collectively bargain to dampen the target’s power. These costs
+incurred on individual small states can be exorbitant. Illustratively, the costs
+of collecting and analysing the target’s information and planning to dilute
+its clout are prohibitive to these stakeholders. Therefore, joining multilateral
+institutions makes the latter ably pool together their resources. Doing so
+
+1124
+
+K. PITAKDUMRONGKIT
+
+not only reduces transaction costs but also invigorates their combined
+capacity to counter the target (Keohane, 1988). At the talks to create the
+International Trade Organization (ITO) illustrates, Latin American countries
+banded together to confront the US and press for a development approach.
+The outcome was in their favour. Washington finally gave in at the Havana
+Conference by adding protection and development quotas as well as reasons
+to limit imports (Daunton, 2010, p. 73–74). Likewise, Lee (2009) found that
+four small economies—Benin, Burkina Faso, Chad and Mali—formed the
+grouping to shape the cotton negotiation at the World Trade Organization
+(WTO). By synchronising their diplomatic capacities and strategies during
+the Doha Round, they were able to reap concessions from larger
+Western powers.
+How do the regional states leverage institutional means to advance
+their ES? In several circumstances, greater powers wield their clout or are
+perceived to exercise their influence over small nations, entailing the
+existence of an actual or perceived threat. Consequently, the latter tend
+to adopt institutional balancing (rather than institutional hedging) against
+the target (Pitakdumrongkit, 2022).
+As mentioned above, small countries may undertake inclusive institutional
+balancing which involves incorporating the target as a member of a multilateral framework and devising rules to limit its power. There exist different
+ways of crafting the institutional rules to reach this end. First, the regional
+states design rules to put them at the core or centre of cooperation. Being
+the core matters in determining outcomes. For one thing, it grants these
+nations greater say in deciding on not only the contents (e.g. focus and
+scope of collaboration) but also processes (e.g. decision-making procedures).
+It also facilitates coalition formation by the regional states within the framework, entailing resource pooling and joint mobilisation of the shared
+resources. As a result, they are able to push back on major power’s influence
+and cut better deals than they separately can (Chasek, 2005).
+Why do other powers let the regional states be the core of wider
+cooperation? The latter utilise several methods to extract buy-ins from the
+former. For instance, they resort to precedents. Previous practices are used
+to develop what Thomas Schelling (1960) calls ‘a focal point’ guiding
+players to arrive at an agreed solution to a problem. In some circumstances, a precedent serves as an anchor or benchmark for parties to
+devise the details of subsequent contracts (Castle, 2022). Consequently,
+these stakeholders relying on preceding agreement terms are found to
+tip negotiation results in their favour. For instance, Singapore effectively
+convinced the Bush Administration to sign a trade deal with it even though
+such agreement yielded little economic benefits to Washington. The citystate argued that this bilateral contract would serve as a template which
+the latter could use to expand trade liberalisation with other Asian economies (Crump, 2006). In a similar vein, Chile used its prior financial services
+arrangement with the European Union (EU) to oppose the US demands.
+By citing the treaty, the former pressed Washington to accept the term
+
+The Pacific Review
+
+1125
+
+that allows the former to require the American banks’ capital commitment
+before the entities’ establishment in Chile (Crump, 2011).
+On other occasions, the regional states lean on pre-existing principles
+or norms of an organisation to get the buy-ins (Laatikainen & Smith, 2017).
+These players act as norm entrepreneurs promoting institutional principles
+(Panke, 2012a). Their ability to affect outcomes heightens when their
+behavior converges with the principles or norms they advocate (Björkdahl,
+2008, p. 137). The study of the 20-year history of Asia-Pacific Economic
+Cooperation (APEC) culminates that the Southeast Asian governments
+effectively leveraged the pact’s pre-existing norms to push back against
+the new ones advocated by the US. To articulate, the latter sought to
+transform the APEC’s existing principles of non-legalisation and informality
+into legalisation and formalisation. Contrary to the logics of a hegemonic
+stability theory, Washington was unable to change the grouping’s norms
+as it desired. The regional economies safeguarded the continued use of
+informal and non-legal principles. As a result, APEC participation has always
+been voluntary and non-binding (Terada, 2013).
+Alternatively, the regional states utilise the concept of neutrality. They
+capitalise on other stakeholders’ perception of them being neutral players
+or honest brokers amidst tensions or rivalries among other powers. Browning
+(2006)’s analysis found that these states’ clout in international affairs increased
+when they successfully connected their smallness with terms such as ‘honest
+broker’ and ‘option for peace’. Neutrality can be earned by, among others,
+refraining from joining alliances with great powers (Almezaini & Rickli, 2016),
+taking advantage of their geographic distance from and lack of strategic
+importance to powerful nations (Berthelon & Freund, 2008; Feyrer, 2009),
+and appearing non-threatening against the backdrop of international power
+clashes (Wohlforth, De Carvalho, Leira, & Neumann, 2018). For example,
+Denmark utilised its impartiality to revise the definition of Vodka in the EU
+legislation. Unlike Finland, Sweden and Poland, the country did not possess
+a strong Vodka industry. It was thus viewed a neutral party in crafting the
+law. Capitalising on its status, Copenhagen successfully introduced the narrow definition of Vodka as drinks which ingredients are confined to cereals
+and potatoes (Panke, 2012b).
+To sum up, the regional states conduct institutional inclusive balancing
+to pursue their collective ES. They do so by altering the agreement components permitting them to be the core of cooperative frameworks.
+Therefore, the first hypothesis is:
+Hypothesis 1: To achieve inclusive intuitional balancing, the regional states make
+or amend rules to put themselves at the core of regional cooperation.
+
+Insights from the Negotiation Analysis discipline illuminates that the
+chairs of negotiations play a significant role in shaping institutional outcomes (Pitakdumrongkit, 2015a). The regional states are found to take
+advantage of their chair power to alter international agreement terms in
+several ways. First, chairs have power to set agendas or impose deadlines,
+
+1126
+
+K. PITAKDUMRONGKIT
+
+impacting final results. For example, Seychelles while chairing the UN’s
+Contact Group on Piracy off the Coast of Somalia organised two plenary
+sessions which set directions of constructing the global ocean governance
+(Bueger & Wivel, 2018). Likewise, Ireland when serving as the UN Security
+Council (UNSC)’s President in 2001 advanced issues such as peace-building
+in Burundi, Somalia, and Democratic Republic of the Congo which were
+not originally on the body’s agenda (Thorhallsson, 2012). Acting as the
+co-facilitators of the UN Rio + 20 process, Ireland and Kenya together
+drafted an elements paper to drive discussions on sustainable development
+and set deadlines to reap concessions from dissenting stakeholders. In
+the end, the latter conceded and endorsed the 2015 Addis Ababa Action
+Agenda (Dodds, Donoghue, & Roesch, 2016, chapter 3).
+Also, chairs manage bargaining dynamics by controlling the tempo of
+discussions and deciding the order of who speaks at meetings. In this
+way, they keep the debates focused and dwindle the chance of dispute
+escalation (Holmes, Schnurr, & Marra, 2007). Moreover, chairs tend to have
+greater access to information about other negotiators’ preferences than
+non-chairing participants. They then take advantage of their privileged
+access to the data to reach their own objectives (Tallberg, 2010). In other
+cases, chairs’ power lies in their authority over venue selection. Because
+different discussion fora beget dissimilar negotiation intricacies, chairs
+tend to pick the platforms that raise the probability of achieving what
+they aspire. For instance, Pitakdumrongkit (2015b) found that Thailand
+as the coordinator of ASEAN-China relations deliberately held the ASEANChina Senior Officials’ Meeting Retreat in October 2012 to revive the
+dialogues over the South China Sea. Because the Retreat was an informal
+gathering, the stakeholders were open to voice their concerns. Bangkok’s
+activism was one of the key factors contributing to the first formal negotiation of the Code of Conduct of the South China Sea between the
+ASEAN members and Beijing in September 2013.
+In addition, chairs act as a mediator when conflicts arise and settle
+clashes among disputing parties (Blavoukos & Bourantonis, 2011, p. 654).
+For instance, when the WTO was preparing for the Doha Round, its members’ interests were so divergent that the delegates failed to reach a
+common ground. The Chair of WTO General Council in 2001 intervened
+by presenting a single negotiating text reconciling their differing preferences. The WTO members ultimately arrived at the agreed agenda for the
+Doha Round (Odell, 2015). Similarly, Malta used its EU Presidency to
+address the other members’ sensitivities concerning fisheries rules and
+regulations and brokered a general approach for the bloc’s ocean governance arrangements such as the North Sea Multiannual Plan and the
+Sustainable Management of External Fishing Fleets (Politico, 2017).
+To summarise, the regional states realise their inclusive institutional
+balancing by designing rules that appoint them as chairs of the talks. This
+position’s authority enables these nations to alter the development of
+regional governance architectures. Consequently, the second hypothesis is:
+
+The Pacific Review
+
+1127
+
+Hypothesis 2: To achieve inclusive intuitional balancing, the regional states make
+or amend rules to appoint one or more regional states as the chair(s) of the
+negotiations.
+
+The regional states’ inclusive institutional balancing is sometimes accomplished by crafting rules that maintain the participation of other external
+powers or open room for the latter’s future partake. This is in line with the
+‘borrowing power’ proposition contending that in asymmetrical interactions,
+lesser powers add other nations into cooperative frameworks so that the
+former can lean on the latter’s clout to check the target (Zartman & Rubin,
+2000). Borrowing power can be realised in multiple ways. First, it can be
+done through representation. For example, Jordan as an UNSC elected member facilitated the adoption of the Resolution 2216 in 2015. To elaborate,
+the state borrowed power from Saudi Arabia by acting as the latter’s representative. Subsequently, Amman effectively pressed the UNSC to endorse
+this Resolution demanding the end of violence in Yemen and enforcement
+of sanctions on individuals undermining Yemen’s stability (Osorio, 2016).
+Borrowing power can be attained through a shelter method. Shelter is
+an alliance relationship where the regional states compensate their structural vulnerabilities by partnering with powerful nations or joining the
+latter in specific like-minded coalitions within international institutions
+(Bailes, Thayer, & Thorhallsson, 2016). For instance, Qatar and the United
+Arab Emirates banded with Saudi Arabia to manage the power interplay
+between Iran and Iraq. Doha and Abu Dhabi also fostered ties with
+Washington to evade Riyadh’s sphere of influence (Almezaini & Rickli, 2016).
+Alternatively, the regional states adopt their shelter approach within
+an organisation. This is usually driven by fear of retaliation by the target.
+It is because their alliances with another power outside institutional frameworks can trigger the target’s revenge (Gvalia, Siroky, Lebanidze, & Iashvili,
+2013). On the contrary, when they do it through international cooperative
+mechanisms, they can utilise the ‘institutional veils’ to conceal their actions
+from the target. If the target questions their moves, they can justify by
+claiming that they are outvoted by the majority. Doing so gives them
+some leeway to weaken the target without getting hit back by the latter.
+Evidence exposes that small nations forming a coalition with middle powers in the institutional settings are able to push back against the target
+(Hampson & Reid, 2003). For example, small UN members joined the LikeMinded Group with middle powers to push the discourses of creating the
+International Criminal Court amidst the objections by China, France, Russia,
+the UK, and the US. This eventually resulted in the actual establishment
+of this mechanism in 1998 (Deitelhoff, 2009). At WTO, small economies
+rode on India’s clout in the Group of 33 (G-33) and India-Brazil partnership
+in the Group of 202 to bargain against the US and EU and safeguard the
+developing world’s interests. In other words, G-33 secured the list of special
+products exempted from tariff cuts and the clause granting its parties
+power to reinstall protectionism under import surges. Similarly, the Group
+
+1128
+
+K. PITAKDUMRONGKIT
+
+of 20 established the tiered subsidy reduction scheme demanding the
+WTO members with greater subsidisation (e.g. the EU and the US) to
+execute deeper cuts than those with lesser protection (Hopewell, 2015).
+To conclude, the regional states implement inclusive institutional balancing by incorporating other nations into cooperative frameworks. The
+former thus borrow the latter’s power to push back against the target.
+Hence, the third hypothesis is:
+Hypothesis 3: To achieve inclusive intuitional balancing, the regional states make
+or amend rules to allow the participation or future participation of other powers
+that check the target’s clout.
+
+4. Methodology
+I conducted this research using process tracing as the method of analysis.
+Process tracing is ‘the technique of looking for the observable implications
+of hypothesized causal processes… within a single case’ (Bennett, 2010,
+p. 750). Relying on this approach, I was able to establish causal pathways
+and reconstruct a phenomenon to test the hypotheses (Beach & Pedersen,
+2013). In a nutshell, I used process tracing to shed light on how Southeast
+Asian nations executed their inclusive institutional balancing to advance
+their ES in trade regionalism.
+The archival examination of official documents such as joint statements,
+meetings’ reports, newspaper articles, and press releases was carried out
+to unveil how these players moulded specific RCEP terms to perform their
+inclusive institutional balancing. In-depth interviews with government
+officers, academicians, and thinktank experts involved in the talks took
+place from September 2021 to April 2022. The information extracted from
+the interviews were cross-validated with relevant archival data to buttress
+the analysis. Due to the sensitive nature of the issues discussed (e.g.
+countries’ strategic calculations, tactics wielded against other states), all
+informants were promised confidentiality.
+
+5. Analysis
+5.1. Non-ASEAN stakeholders’ policies regarding Asia-Pacific trade
+regionalism
+Before delving into how the regional states jointly shaped certain elements
+of the RCEP text to execute their inclusive institutional balancing, let us
+probe into the non-ASEAN parties views of Asia-Pacific trade regionalism.
+In this realm, two powers—China and Japan—stood out. It was mainly
+because they attempted to assume their leadership in building Asia-Pacific
+multilateral trade governance. With regard to China, FTAs are among the
+items in its toolbox deployed to exploit its ES. Beijing wanted to take a lead
+in building regional trade architectures. This was reflected by its support of
+
+The Pacific Review
+
+1129
+
+the East Asian Free Trade Agreement (EAFTA). EAFTA was envisaged to be a
+trade arrangement among ten ASEAN member states together with China,
+Japan, and South Korea. In short, this scheme is based on the ASEAN + 3
+process established after the Asian Financial Crisis and was originally introduced by the East Asia Vision Group in 2001. Beijing’s advocacy of EAFTA
+clearly manifested when it chaired the Joint Expert Group for Feasibility Study
+on EAFTA in 2005–2006. This entity conducted the feasibility examination on
+EAFTA and delivered the report containing plans to realise it to the ASEAN
++ 3 Economic Ministers in June 2009 (Rillo, Robeniol, & Buban, 2022, p. 2–2).
+In a similar vein, Japan aspired to lead the construction of regional trade
+architectures. As part of its ES from 2000s onwards, it strived to expand its
+influence in crafting trade liberalisation rules (Govella, 2021). Tokyo shepherded an alternative modality to an Asia-Pacific-wide FTA formation.
+Illustratively, it introduced the Comprehensive Economic Partnership of East
+Asia (CEPEA) in August 2006 which was subsequently presented to the 2nd
+East Asia Summit (EAS) in January 2007. The CEPEA idea is based on the
+EAS framework where ASEAN + 6 nations (i.e. ten ASEAN member states,
+Australia, China, India, Japan, New Zealand, and South Korea) convened to
+discuss cooperation on various issues ranging from health to finance. Like
+EAFTA, the study group was set up to undertake the feasibility analyses.
+This body submitted the report outlining the details of economic liberalisation via CEPEA to the ASEAN + 6 governments in July 2009. Seeing ASEAN
++ 6 as a suitable platform to deepen regional economic integration, the
+Japanese authorities ardently propagated CEPEA (Kawai & Wignaraja, 2008).
+Unlike Beijing and Tokyo, the other non-ASEAN nations did not clearly
+seek to lead in developing Asia-Pacific-wide multilateral trade governance.
+With respect to India, it rolled out the ‘Look East Policy’ (LEP) during the
+pre-RCEP time. While LEP’s first phase (1991–2002) focused solely on
+Southeast Asia, the second phase (2003 onwards) encompassed Australia
+and East Asia. Such stance was stipulated by the then-External Affairs
+Minister Yashwant Sinha’s speech at Harvard University in 2003. He stressed
+that the next step ‘of this policy is characterised by an expanded definition
+of “East”, extending from Australia to East Asia, with ASEAN at its core’
+(Ministry of External Affairs of India, 2003). One goal of LEP is economic
+integration with Australia and East Asia. Instead of going for an Asia-Pacific
+wide FTA, New Delhi pursued bilateral arrangements to reach this objective
+(Haokip, 2011). Some examples include the India-Singapore FTA in 2005,
+India-ASEAN FTA in 2009, and India-Japan Comprehensive Economic
+Partnership Agreement in 2011.
+As far as South Korea is concerned, it did not step up to drive an AsiaPacific wide FTA. Its FTA strategy during 2000s instead concentrated on
+securing bilateral deals rather than multilateral trading blocs. For instance,
+it inked trade pacts with Singapore in 2005, the US in 2007, and India and
+the EU in 2009. Strategic calculations often underpin its trade deals. The
+United States-Korea Free Trade Agreement (KORUS) is a case in point. Seoul
+leaned on KORUS to deepen cooperation with Washington on non-economic
+
+1130
+
+K. PITAKDUMRONGKIT
+
+matters especially North Korea’s nuclear proliferation (Lee & Moon, 2009).
+In addition to its bilateral arrangements, Seoul together with Beijing and
+Tokyo envisioned a trilateral China-Japan-Korea FTA (CJK FTA). At the 5th
+Trilateral Summit in May 2012, the trio pledged to begin negotiating the
+CJK FTA by the end of 2012 (Ministry of Foreign Affairs of Japan, 2012). The
+first round was launched in 2013. Seoul regarded this trilateral pact as a
+tool to enhance ties with its Northeast Asian neighbours and complement
+the EAFTA and CEPEA ideas for larger economic integration (Nicolas, 2012).
+Australia’s and New Zealand’s strategy towards Asia-Pacific trade regionalism prior to RCEP tended to focus on the US-led TPP. Australis’s main
+goal was to be involved in the rule-writing of a new generation of regional
+FTAs that are high standard. The struggling Doha Round partly accounted
+for Canberra’s desire to find alternative trade liberalisation routes. The
+government viewed that TPP enlarges the supply chains by linking production networks and markets from economies to the East with those to
+the West, yielding greater economic benefits to Australia. The country also
+recognised the ongoing debates about different modalities of an AsiaPacific wide FTA involving ASEAN but chose not to place its bets on them.
+The 2008 Report published by the Department of Foreign Affairs and Trade
+mentioned the notions of EAFTA, CEPEA, and the Free Trade Area of the
+Asia-Pacific (FTAAP). Nevertheless, it concludes that ‘the launch of formal
+negotiations for any of these possible agreements is highly unlikely in the
+short term’ (Mortimer, 2008, p. 93). Unsurprisingly, Canberra concentrated
+on TPP. It announced to join the negotiation in November 2008 (Interview 1).
+Like Australia, New Zealand focused on TPP. It was a signatory to the
+TPP predecessor named the 2006 Trans-Pacific Strategic Economic
+Agreement (TPSEC) or ‘P4’ agreement with Brunei, Chile, Singapore. Also
+similar to Canberra, Wellington saw TPP as the most promising avenue to
+propel trade liberalisation (Elms & Lim, 2012). Washington’s partake in TPP
+in September 2008 elevated the importance of this arrangement to New
+Zealand’s economy. The remarks by the then-Trade Minister Phil Goff
+embodied the state’s excitement of this development. He posited that ‘[s]
+ecuring an FTA negotiation with the U.S., the world’s largest economy,
+has been a key trade objective for more than decade’ (Gibson, 2008).
+
+5.2. Advancing ES via RCEP
+Let us now turn to the ASEAN members’ vision of an Asia-Pacific-wide
+FTA. The Organization has five separate ASEAN + 1 FTAs with the Plus-6
+countries—i.e. Australia, China, India, Japan, New Zealand, and South
+Korea. To further deepen regional economic integration, the Southeast
+Asian stakeholders could have upgraded these existing contracts. So, why
+did they decide to go for RCEP instead of the FTA upgrades?
+The analysis exemplifies that these players strived to advance their ES
+to counteract other powers’ clout in regional trade governance. Such
+concerns over comprehensive security motivated the ASEAN members to
+
+The Pacific Review
+
+1131
+
+undertake their collective ES through RCEP. The notion of comprehensive
+security focuses on the interconnectedness between security and economic
+development, and encompasses both traditional and non-traditional security. Hence, these stakeholders address non-traditional security issues which
+may undercut their survival prospects (Foot & Goh, 2019). In this way,
+comprehensive security contains economic security which refers to a condition under which states ensure ‘the integrity or robustness of the market
+to generate growth and welfare in society’ (Nesadurai, 2005, p. 14).
+Accordingly, the Southeast Asian nations’ desire to achieve comprehensive security compels them to sustain or enhance their economic security.
+One way to do so is through trade arrangements because they provide
+access to foreign markets, increasing the regional states’ exports and overall
+economic growth. Consequently, these players seek to influence the agreement details to ensure that the latter bring growth and welfare to their
+economies (Interview 4).3 As far as region-wide trade rule-writing is concerned, their ultimate goal was to work together to ‘remain the central
+hub of East Asian FTA development’ (Okano-Heijmans, 2014) and build a
+multilateral FTA that is ASEAN-led (Interview 3). In short, they aspired to
+be key players crafting the components of RCEP. The stakes were high.
+Their leadership in this trade rule-making would increase a chance that
+RCEP would boost growth and welfare to their countries, hence realising
+their economic security.
+China’s and Japan’s activism outlined above terrified the Southeast Asian
+governments. To recap, both Northeast Asian nations pushed forward their
+own ideas about Asia-Pacific trade governance. This sparked the apprehension shared by the regional states that Beijing and Tokyo would eclipse
+the former’s influence in affecting the rules. Put differently, if the rules
+were to be dominantly concocted by these two powers, the ASEAN members feared that they would lose their leadership in trade regionalism.
+This would subsequently shrink their policy sovereignty or space, crippling
+their ability to sustain or strengthen their economic security. Overall, the
+ASEAN nations identified Beijing and Tokyo as threats to their leadership
+pursuit of the region-wide FTA development (Interview 3, 4).
+Responding to the threats, the Southeast Asian governments employed
+collective ES in a form of inclusive institutional balancing against the
+targets—i.e. China and Japan (Interview 3).4 Such balancing was done via
+RCEP as manifested by its following elements: (1) counter-proposal of the
+RCEP framework based on ASEAN Centrality concept; and (2) the selection
+of the Chair of Trade Negotiation Committee (TNC) and the Chair’s power
+over Intellectual Property (IP) and Investor-State Dispute Settlement (ISDS)
+matters; and (3) Special Accession Clause for India.
+
+5.2.1. Embeddedness of the ASEAN Centrality
+The Southeast Asian governments’ push for the RCEP modality to counter
+China’s and Japan’s influence over regional trade governance corroborates
+
+1132
+
+K. PITAKDUMRONGKIT
+
+Hypothesis 1. As shown above, Beijing and Tokyo in the pre-RCEP years
+tried to impact the rule-writing of Asia-Pacific-wide trade architectures as
+part of their ES. Both powers championed their own frameworks—EAFTA
+by China and CEPEA by Japan respectively.
+While the ASEAN stakeholders perceived an Asia-Pacific-wide FTA to be
+commercially desirable, they recognised both powers’ underlying intention
+which was to take a lead in writing regional trade rules. This arrangement
+could become another means for Beijing and Tokyo to wield their ES
+against the regional states, undercutting the latter’s interests and economic
+security. Therefore, the Southeast Asian governments responded to the
+moves of China and Japan (i.e. targets) by employing inclusive intuitional
+balancing. Why did they choose this approach? It was mainly because to
+further deepen regional economic integration and supply chains, one
+cannot evade Beijing and Tokyo. They were respectively ASEAN’s single
+biggest and second single biggest trading partners at the time when RCEP
+talk was about to begin. For example, from 2011 to 2013, ASEAN’s merchandise trade with China and Japan accounted for 12.3–13.9 percent and
+9.5–10.7 percent of the former’s total trade with the world (ASEAN
+Secretariat 2020, p. 57). Such economic significance eliminated an option
+of exclusive institutional balancing. In sum, the creation of an Asia-Pacificwide FTA cannot be realised without the Chinese and Japanese partake.
+The ASEAN members therefore decided to incorporate both extra-regional
+powers into a trade governance architecture, and hence undertook inclusive institutional balancing (Interview 2, 7).
+The regional states’ deployment of inclusive institutional balancing was
+as follows. First, instead of choosing between EAFTA and CEPEA or being
+caught up in the debate, they in November 2011 counter-proposed the
+‘Initiative on Speeding up the Establishment of an East Asia Free-Trade
+Area and Comprehensive Economic Partnership in East Asia’ which was a
+RCEP predecessor. The Initiative includes both Beijing and Tokyo, reflecting
+ASEAN’s attempt to incorporate the former into the scheme to check their
+clout (Interview 5). Second, this Initiative established ASEAN as a core of
+wider regional integration. Consequently, the Southeast Asian authorities
+endorsed the ASEAN Framework for Regional Comprehensive Economic
+Partnership at the 19th ASEAN Summit in November 2011.
+The Framework serves a few functions. First, it provides a set of guidelines for consolidating the existing ASEAN + 1 FTAs, effectively ending the
+EAFTA-CEPEA parley. Second, it implants ASEAN leadership in the making
+of the Asia-Pacific-wide FTA. According to the text, the Southeast Asian
+authorities agreed to ‘establish an ASEAN-led process by setting out principles under which ASEAN will engage interested ASEAN FTA partners in
+establishing a regional comprehensive economic partnership agreement’
+(ASEAN 2011). Moreover, it gives an opportunity for the regional states
+to slot in the ASEAN Centrality concept. In other words, this Framework
+paved a way for concocting the next document, The Guiding Principles
+and Objectives for Negotiating the Regional Comprehensive Economic
+
+The Pacific Review
+
+1133
+
+Partnership, outlining the goals and practices pertaining to RCEP negotiations. Adopted at the 21st ASEAN Summit in November 2012, the Guiding
+Principles and Objectives stipulates that the talks ‘will recognize ASEAN
+Centrality in the emerging regional economic architecture’ (ASEAN, 2012).
+It should be noted that ASEAN Centrality is not a new concept. Rather,
+it has been in the ASEAN’s playbook concerning its interactions with nonASEAN players over half of the century. The post-Cold War period marked
+the time when the Organization not only underwent its membership
+expansion but also increasingly engaged non-ASEAN stakeholders. The
+notion has over time become a main approach that the Organization
+adopts to conduct its external relations until today.
+ASEAN Centrality appears in several official documents. For example,
+Article 1 of the ASEAN Charter stipulates that one of the purposes of the
+Organization is to ‘maintain the centrality and proactive role of ASEAN as
+the primary driving force in its relations and cooperation with its external
+partners in a regional architecture that is open, transparent and inclusive’
+(ASEAN Secretariat 2008, p. 5). The idea is also mentioned in the texts
+pertaining to ASEAN Economic Community 2025 (AEC 2025) which is the
+Organization’s economic integration project. The AEC 2025 Blueprint specifying a roadmap and policy actions to be undertaken to deepen the
+integration postulates that ASEAN Community-Building strives to ‘[r]einforce
+ASEAN centrality in the emerging regional economic architecture by maintaining ASEAN’s role as the centre and facilitator of economic integration
+in the East Asian region’ (ASEAN Secretariat 2015, p. 2). Despite no consensus on its definition, ASEAN Centrality could be understood as the
+Organization’s roles as both a process facilitator (e.g. supplying discussion
+platforms) and initiator of substance (e.g. designing agreement elements)
+(Fukunaga 2015). Being a process facilitator, ASEAN provides fora where
+the ASEAN members and external powers discuss international and regional
+issues and find ways to jointly address them. This is manifested by various
+ASEAN-Plus mechanisms such ASEAN Regional Forum, ASEAN Defence
+Ministers’ Meeting-Plus, and ASEAN + 3 Financial Cooperation Process.
+Speaking of ASEAN as an initiator of substance, ASEAN Centrality links to
+the notion of leadership. The Organization plays a role as the leader or
+driver of wider regionalism (Jones, 2010; Sukma, 2010). This view highlights
+the agency of the Organization in setting cooperation agendas and affecting outcomes. As Stubbs (2014, p. 524) precisely captures, in ‘East Asia,
+despite the presence of two major powers in the region, Japan and China,
+as well as the continuing influence of the United States, it has been the
+members of ASEAN that have led the way in building East Asian regional
+cooperation.’ With respect to RCEP, this idea was activated to help the
+Organization perform inclusive institutional balancing and assume leadership in pushing forward Asia-Pacific trade governance.
+Why did Beijing and Tokyo—the ones championing different Asia-Pacificwide trade liberalisation modalities—let the regional states have their
+way? Several factors explained this phenomenon. First, both countries
+
+1134
+
+K. PITAKDUMRONGKIT
+
+abided by the pre-existing principle of having the ASEAN Centrality
+ingrained in multilateral schemes. The previous precedents reinforced their
+upholding of the Centrality notion in RCEP (Interview 5). Second, the RCEP
+modality makes economic sense. The transaction costs required to realise
+an Asia-Pacific-wide FTA (e.g. resources needed to collect information and
+conduct negotiation) was deemed to be lower if it is built upon the
+existing foundations—i.e. ASEAN + 1 FTAs—than otherwise. Moreover, a
+few structural contexts provided room for the Southeast Asian governments to have more agency in the RCEP development. For instance, China
+and Japan locked horns in their endeavors to lead the construction of an
+Asia-Pacific-wide trade pact. Both rejected the model promoted by the
+other. In contrast, ASEAN was seen as a neutral player. As a result, the
+Sino-Japanese rivalry and these states’ views on the Organization entailed
+that Beijing and Tokyo eventually converged on the ASEAN-proffered idea
+of RCEP (Interview 6). Another structural context involved the US-China
+competition on the trade governance front. Because the TPP was the trade
+arm of the Obama Administration’s ‘Rebalance to Asia’, China saw it as
+Washington’s tool to encircle its ascendancy. Staying outside TPP, Beijing
+construed that its RCEP membership (even though this modality is ASEANled) could alleviate some adverse impact of the US-led trade arrangement
+on its economy. This thinking resulted that Premier Wen Jiabo declared
+the state’s support of RCEP at the 7th EAS in November 2012 (Qin, Li, &
+Li, 2012). Likewise, Japan embraced RCEP. Navigating the Sino-American
+power dynamics, the country (which is a signatory to both TPP and RCEP)
+viewed that it could pursue these two initiatives in tandem. In short, Tokyo
+can simultaneously lean on RCEP to tighten its economic ties with Beijing
+as well as utilise TPP to impede the Chinese clout (Govella, 2021).
+Consequently, both Beijing and Tokyo finally lent their support to the
+ASEAN’s idea of Asia-Pacific trade regionalism.
+To summarise, the regional states executed their inclusive institutional
+balancing by counter-proposing RCEP which is built upon the existing
+ASEAN + 1 FTA networks as well as activating the ASEAN Centrality notion
+to undergird this framework. Doing so allowed the Southeast Asian countries to be the core of Asia-Pacific-wide FTA construction and influence
+the shaping of the other agreement aspects.
+
+5.2.2. The Chair of trade negotiation Committee (TNC): appointment
+and power
+The incorporation of the ASEAN Centrality into RCEP enabled the Southeast
+Asian stakeholders to affect the other RCEP details. One example is the
+appointment of the Chair of the Trade Negotiation Committee (TNC) who
+played a key role in affecting the final outcomes, verifying Hypothesis 2.
+With the Centrality concept already invoked, the Southeast Asian authorities further capitalised on it by jointly nominating an ASEAN person, Mr.
+Iman Pambagyo of Indonesia, as the permanent TNC Chair presiding over
+
+The Pacific Review
+
+1135
+
+all RCEP talks. Although the negotiation of each chapter was co-chaired by
+two parties which were an ASEAN member state and a Plus-6 nation, the
+TNC Chair was always Mr. Pambagyo overseeing the whole negotiation
+(Elms, 2021). The Southeast Asian officers convinced their Plus-6 counterparts
+that because RCEP is an ASEAN-led scheme, it hence should have an ASEAN
+person as the TNC Chair. They also argued that Mr. Pambagyo played a
+pivotal role in formulating the ASEAN-led FTA during the pre-RCEP years.
+Due to his excellent experience and expertise on the subject matter, he
+should assume this position (Interview 5). The Plus-6 delegates finally agreed
+with ASEAN. According to the non-ASEAN negotiator, the main reasons for
+their endorsement were because they abided by the Centrality notion and
+had high trust in Mr. Pambagyo. In other words, he was widely revered as
+a trade expert who understands the ideas behind the Asia-Pacific trade
+architectures. As a result, he was chosen to be the TNC Chair (Interview 8).
+This position was crucial in propelling the talks. ‘Mr. Pambagyo patiently
+guided the negotiations and provided strong leadership for the region
+for 8 years… by ensuring that key decisions were made and bottlenecks
+were resolved, particularly in the late rounds when issues became trickier
+and political decisions more compelling’ (Rillo et al., 2022, 2–9). In a nutshell, the Chair has power to shape the meeting agendas and control the
+tempo of talks. It also possesses authority to decide who speaks first or
+even calls for an intermission to prevent disputes from escalating. At the
+RCEP negotiation, Mr. Pambagyo exercised his Chair power to manage the
+bargaining dynamics on various occasions. Illustratively, when one party’s
+remarks triggered discussions on controversial issues, he looked around
+the room to observe the other stakeholders’ non-verbal reactions and
+tended to give the floor to those deemed to have moderate reactions.
+This technique helped maintain the momentum in talks and decrease a
+chance of conflicts and deadlock. Mr. Pambagyo sometimes called for
+separate meetings with certain dissenting parties to extract their true
+preferences in order to identify common ground to move forward the
+negotiation (Interview 2).
+This Chair’s power also enabled the regional states to safeguard their
+interests and thwart China’s and Japan’s clout over the specific RCEP components. One thing that Mr. Pambagyo did was activating the ‘ASEAN Caucus’
+which is an internal discussion only among the ASEAN parties prior to,
+during (in a form of coffee/tea breaks), or after each round of negotiation.
+The Caucus undergirds the regional states’ collective ES. It is a coalition
+formation method that the ASEAN members use to obtain the contour of
+the talks, identify their shared objectives, and strategise their common
+approaches to be deployed at a bargaining table to achieve the goals in
+specific negotiation rounds. It is sometimes used to address disagreements
+and reconcile different preferences among the ASEAN members. This mechanism thus allowed the latter to haggle collectively, strengthening their
+voices and curtailing the Plus-6’s clout over the talks (Interview 5). As one
+source observes, ‘[a]cross the more than 29 official negotiating rounds in
+
+1136
+
+K. PITAKDUMRONGKIT
+
+RCEP, the ASEAN member participants would gather first. Only after a day
+(or more) spent in internal caucusing—for every round and every chapter—
+would participants meet up as an RCEP group for discussions’ (Elms, 2021).
+On some occasions, Mr. Pambagyo summoned the Southeast Asian stakeholders at a Caucus during the coffee breaks where they together settled
+their differences and planned their next moves (Interview 3). A non-ASEAN
+officer involved in the negotiation recalled that such coalescing method
+was never utilised by the Plus-6 nations (Interview 8).
+The employment of the ASEAN Caucus yielded some favourable outcomes to the Southeast Asian stakeholders. A case in point was the
+Intellectual Property (IP) Chapter. Mr. Pambagyo held the Caucus to identify
+the regional states’ common positions. What they aimed to obtain from
+the talks were to safeguard their traditional knowledge of indigenous and
+local communities, the right to activate the WTO Agreement on TradeRelated Aspects of Intellectual Property Rights (TRIPS) flexibilities, and long
+implementation periods. These elements stemmed from the Southeast Asian
+governments’ apprehension of being exploited by non-ASEAN established
+patent exporters such as Japan and South Korea and emerging IP producers
+namely China. If not well-crafted, this Chapter would beget asymmetrical
+relations whereby non-ASEAN powers take advantage of their IP supremacy
+to wield their clout over their developing Southeast Asian neighbours. For
+instance, the IP laws will dwindle a probability that the latter invent their
+homegrown technologies and gain access to medicine for their population.
+Instead, they will have to depend on innovations concocted by extra-regional powers to provide growth and welfare to their societies. As a result,
+this would permit the latter to abuse their power over the former, undermining the former’s economic security (Interview 5).
+Thanks to the ASEAN Caucus, the regional states got what they hoped
+for. For example, Article 11.53 of RCEP stipulates that ‘each Party may
+establish appropriate measures to protect genetic resources, traditional
+knowledge, and folklore’ (RCEP 2020, p. 11–27). In other words, this FTA
+protects the interests of developing or least developed nations which are
+more well-endowed in these assets than IP with industrial qualities (e.g.
+manufacturing designs, pharmaceutical patents). Also, Japan and South
+Korea initially objected the TRIPS flexibilities (Chander & Sunder, 2018)
+but finally gave in partly due to ASEAN’s insistence. As a result, RCEP
+ensures access to medicine for public health reasons. Article 11.8 of the
+agreement notes that ‘the Parties affirm the right to fully use the flexibilities as duly recognised in the Doha Declaration on the TRIPS Agreement
+and Public Health’ (RCEP 2020, p. 11–4).
+In addition, Japan, South Korea, and New Zealand pressed for more
+stringent implementation timelines. However, Cambodia, Laos, and
+Myanmar (CLM) found this term infeasible. All ASEAN members banded
+together and fought back. They cited the Guiding Principles and Objectives
+for Negotiating the Regional Comprehensive Economic Partnership. The
+document stresses that ‘[t]aking into consideration the different levels of
+
+The Pacific Review
+
+1137
+
+development of the participating countries, the RCEP will include appropriate forms of flexibility including provision for special and differential
+treatment, plus additional flexibility to the least-developed ASEAN Member
+States’. (ASEAN, 2012). This ultimately persuaded the Plus-6 parties to
+grant CLM longer transitional periods (as appeared in Annex 11 A of the
+RCEP text) and agree to provide necessary technical assistance to CLM
+for their implementation (as outlined in Annex 11B of the RCEP agreement) (Interview 5; Congressional Research Service, 2021).
+Another incident showcasing the Chair’s power was the exclusion of
+Investor-State Dispute Settlement (ISDS) from the Investment Chapter. This
+provision gives foreign investors power to sue host governments in international arbitration tribunals. At a glance, it looks puzzling why RCEP has
+no ISDS even though this component was already embedded in most ASEAN
+and ASEAN + 1 deals. In other words, it appears in the ASEAN FTA; ASEANAustralia-New Zealand FTA (AANZFTA); ASEAN-China FTA (ACFTA); and
+Agreement of Investment Under the Framework Agreement on Comprehensive
+Economic Cooperation Among the Governments of the Member Countries
+of the Association of Southeast Asian Nations and the Republic of Korea.
+Nonetheless, evidence unfolds that the elimination of ISDS was caused by
+the Southeast Asian nations’ sovereignty concerns. They believed that ISDS
+would enable the non-ASEAN stakeholders to protect the latter’s overseas
+investment made by their quasi-state actors or non-state actors at the
+expense of the regional states’ interests. Put differently, the ASEAN members
+viewed that the inclusion of ISDS would invite other powers to exploit them,
+undermining their policy sovereignty and economic security. (Interview 3).
+The discussions about ISDS began at the early rounds of RCEP negotiation. Japan proposed this clause and successfully garnered support from
+the Comprehensive and Progressive Trans-Pacific Partnership (CPTPP) signatories inside the talks. However, some ASEAN members objected. The
+disagreeing parties were embroiled in this conflict and the talks reached
+stalemate (Interview 7). Mr. Pambagyo intervened by calling the ASEAN
+Caucus to find out what made the negotiation stuck. This was when
+Indonesia, Malaysia and the Philippines openly expressed sensitivities
+towards the incorporation of ISDS into the agreement. Their stance was
+partly borne out of the previous lawsuits against them (Interview 6). The
+Southeast Asian authorities eventually arrived at a consensus that ISDS
+was a no-go. Mr. Pambagyo then presented this joint position to the Plus-6
+delegates. The outcomes were that all stakeholders agreed to drop ISDS
+from the Investment Chapter in September 2019 so that they could concluded the negotiation. They also planned to discuss this matter after two
+years of RCEP ratification (The Malaysian Reserve, 2019).
+In conclusion, the Southeast Asian governments realised inclusive institutional balancing by designing rules concerning the selection of the TNC
+Chair. As exemplified by the IP and ISDS stories, the Chair’s power was
+exercised to protect the ASEAN members’ economic security and dampen
+the prospects of the non-ASEAN nations’ influence in these areas.
+
+1138
+
+K. PITAKDUMRONGKIT
+
+5.2.3. Special accession clause for India
+Another way that the regional states used to carry out inclusive institutional balancing was roping in other powers into RCEP to provide check
+on the target, confirming Hypothesis 3. In other words, the Southeast
+Asian officers played a key role in devising the Special Accession Clause
+for India, securing a route for the country to come back on a later date.
+In November 2019, India decided to exit RCEP. Prime Minister Nerendra
+Modi remarked at the 3rd RCEP Summit that the pact ‘does not address
+satisfactorily India’s outstanding issues and concerns’ (The Economic Times,
+2019). This move was both a surprise and disappointment to the other
+RCEP participants because the negotiation was about to conclude (Interview
+6). The following factors accounted for New Delhi’s last-minute withdrawal.
+First, the government was worried that this trade pact would neither protect
+its small and medium enterprises nor grant sufficient international labour
+mobility to the Information Technology professionals which India enjoys a
+comparative advantage (Raghavan, 2020). The second factor involved the
+state’s rising trade deficits with the other RCEP economies. Another reason
+was geopolitics, especially the intensifying altercation of India-China borders
+and the hostility over the Line of Actual Control in the Kashmir region.
+Seeing Beijing as its enemy, New Delhi decided to discontinue its trade
+talks with China under the RCEP framework (Wang & Sharma, 2021).
+After India announced its departure, some Plus-6 delegates were not
+shy to exhibit their reluctance to seal the deal. For instance, Australia and
+Japan voiced that they saw no benefits of RCEP without New Delhi. Both
+Tokyo and Canberra wanted to enter the Indian market. They stressed the
+need to recalibrate their cost-benefit analysis and hence did not want to
+proceed (Interview 3). The negotiation was on the brink of collapse and
+RCEP risked not seeing the light of day.
+The Southeast Asian governments could not let the talks fail and dearly
+wanted to have India inside RCEP. Economic logics cannot fully explain
+this phenomenon. One study reveals that RCEP will be economically significant regardless of India’s involvement (Petri & Plummer, 2020). Without
+RCEP, the regional states can nevertheless further liberalise trade with the
+latter by upgrading the existing ASEAN-India FTA (AIFTA). Instead, strategic
+reasons accounted for the ASEAN members’ desire to keep intact New
+Delhi. The Special Accession Clause was ultimately aimed at diluting potential Beijing’s and Tokyo’s leverage in regional trade governance (Interview
+6). As earlier mentioned, RCEP is used by the former to undertake inclusive
+institutional balancing vis-à-vis extra-regional powers. It is also an ASEANled initiative, enabling the Southeast Asian countries to assume leadership
+in shaping regional trade governance. These players believed that by
+keeping the door open for India’s return, they could borrow the latter’s
+power to hamper China’s and Japan’s dominance (Tay, 2022, p. 26). Also,
+because RCEP is a living document which terms can be amended later,
+the regional states believed they will have to work with New Delhi to
+jointly alter some rules, further galnavising the former’s economic security.
+
+The Pacific Review
+
+1139
+
+The regional states showcased their activism in the crafting of the Clause.
+How did they do it? First, these countries discussed among themselves
+and reached their common position. They then decided that they would
+continue to push for the RCEP conclusion despite doing so risked losing
+a few non-ASEAN stakeholders. Also, they came up with the idea of furnishing the fast-track pathway facilitating India’s re-entry. The Southeast
+Asian authorities subsequently presented their views to the non-ASEAN
+delegates. Moreover, the former tapped on their diplomatic networks by
+tasking their ambassadors based in Canberra and Tokyo to convince the
+Australian and Japanese governments to stay on board (Interview 3).
+The regional states’ determination to wrap up the negotiation was a gamechanger. In brief, it successfully compelled Australia and Japan to return to a
+bargaining table. Canberra was driven by its fear of exclusion should it leave
+RCEP. It also saw both TPP and RCEP as the jigsaws of FTAAP which would
+broaden and deepen economic integration (The Australian Government, 2012,
+p. 208). Similarly, Japan re-engaged. It was fueled by its apprehension of
+potential China’s dominance over the trade pact. In short, Tokyo trust that its
+non-participation would potentially pave a way for Beijing’s supremacy in
+regional trade architectures which the former could not accept. Consequently,
+Australia and Japan altered their initial stance and were willing to work with
+the ASEAN participants to bring back India to this FTA (Interview 8).
+Concerning the writing of this Clause, the Southeast Asian authorities
+took a lead in setting up the Troika responsible for concocting the components. This grouping comprised Mr. Pambagyo (TNC Chair), Dato Lim Jock
+Hoi (ASEAN Secretary General), and the representative from the Japanese
+government (Interview 2). The roles of Dato Lim Jock Hoi deserve to be
+highlighted. He helmed the ASEAN Secretariat during the last three years
+of RCEP talks. The Secretariat under his auspices ensured the ASEAN Centrality
+in the negotiation and supported the TNC Chair. On the latter, the mechanism helped maintain the momentum in talks by preparing position papers
+and ‘ways forwards’ documents to facilitate the discussions (Rillo et al., 2022,
+p. 2–9). With respect to India’s re-admission, the Secretariat assisted the TNC
+Chair in fashioning a concept paper containing the terms permitting New
+Delhi to rejoin when it is ready. The TNC Chair and ASEAN Secretariat
+together roped in Japan to be part of the Troika. This move was underpinned
+by the thinking that Japan’s well understanding of India’s demands and
+sensitivities would bolster the Troika’s ability to effectively devise the Clause.
+Tokyo acquired the information regarding New Delhi’s preferences from the
+series of capacity-building programmes it launched for the latter while the
+RCEP negotiation was ongoing (Interview 4). The Troika drafted the Special
+Clause and pitched it to the remaining RCEP members, and then to India.
+The provision was finally accepted by all stakeholders.
+To sum up, the Southeast Asian governments’ inclusive institutional
+balancing was shown through their leadership in devising the Special
+Accession Clause for India. This term facilitates New Delhi’s re-entry,
+allowing the regional states to borrow the latter’s clout to check China’s
+and Japan’s influence over regional trade governance.
+
+1140
+
+K. PITAKDUMRONGKIT
+
+At this point, some observers may contend that the outcomes could
+be caused by the domestic groups’ actions. In short, companies in
+Southeast Asia lobbied their governments to alter the agreement details
+granting the former more access to foreign markets. While some terms
+reflected businesses’ desire (e.g. tariff reductions), this alternative explanation fails to effectively shed light on the RCEP components above.
+For example, if the Southeast Asian authorities had solely wanted greater
+market access to non-ASEAN economies, the ASEAN-led RCEP would
+not have seen the light of day. Put differently, they could have more
+easily and speedily achieved greater market access by upgrading bilateral
+FTAs with individual non-ASEAN countries. In other words, they would
+not have come up with the RCEP modality and put themselves as the
+core and chair of this FTA. With regard to penetrating India’s market, if
+economic logics had only driven the negotiation, we would not have
+witnessed the insertion of the Special Accession Clause. It is because
+gaining more access to New Delhi’s market could be more easily done
+through renegotiating AIFTA. Therefore, my line of argument focusing
+on ES fares better in terms of shedding light on these RCEP elements.
+
+6. Conclusions
+This paper’s analysis of the RCEP agreement has verified the argument
+and hypotheses regarding small countries’ use of multilateral frameworks
+to bolster their collective ES in certain governance areas. To recap, I have
+argued that that the regional states worked together to design the terms
+of multilateral economic agreements to boost their influence over regional
+economic governance architectures.
+I have divulged three pathways that small nations can leverage these
+schemes to conduct their inclusive institutional balancing. First, the
+Southeast Asian governments were able to craft the rules to make them
+the centre of cooperation. Regarding RCEP, they activated the ASEAN
+Centrality, hence turning the pact into an ASEAN-led one. Second, these
+nations made rules allowing them to be the chair of talks. Riding on the
+Centrality principle, they appointed an ASEAN person as the TNC Chair
+which subsequently shaped the IP and ISDS details to safeguard their
+interests. Finally, the Southeast Asian authorities displayed their activism
+in devising the RCEP terms engaging India after its exit, resulting in the
+Special Accession Clause for latter.
+My analysis has also pointed the roles of structural contexts in facilitating
+small countries’ collective ES. In the RCEP case, that Southeast Asian governments effectively extracted buy-ins from their non-ASEAN peers was
+partly due to the fragmented power dynamics namely the Sino-Japanese
+contestation. Such rivalry provided space for the ASEAN stakeholders to do
+what they could in tweaking the RCEP elements in their favour.
+This article has enriched research on small states’ strategies toward
+their more powerful counterparts. I have shown that collective ES is a
+strategy that these nations use to jointly respond to greater powers’
+
+The Pacific Review
+
+1141
+
+threats to their economic security. Illustratively, when other powerful
+countries’ actions are construed to threaten their economic security,
+they implement collective ES. In my study, the ES is displayed in a form
+of inclusive institutional balancing. On reflection, having the concept
+of ES enables me to string together the notions of economic security
+and institutional balancing better than without it. ES makes the causal
+mechanism explaining small states’ responses under threat clearer. Also,
+the analysis has applied the concept of institutional balancing mostly
+scrutinised by IR scholars to the IPE realm via the case study of a multilateral economic framework, RCEP. Therefore, my paper enhances our
+broad understanding of small nations’ roles in affecting the regional
+economic order as well as cultivates inter-disciplinary research.
+These valuable insights notwithstanding, the article possesses some limitations, necessitating future studies. First, the analysis has little taken into account
+the bilateral ties which individual ASEAN parties have with each of the Plus-6
+stakeholders in the RCEP negotiation as well as bilateral relations among the
+latter. These dynamics happening during the RCEP talks could impact the
+development of the agreement details. Illustratively, during the Philippines
+President Rodrigo Duterte’s trip to India in 2018, both countries concurred to
+invigorate investment facilitation collaboration. The outcomes were the new
+Memorandum of Understanding (MOU) between the Philippines’ Board of
+Investment and Invest India, and the extended MOU between India’s National
+Association of Software and Service Companies and the Philippines’s Information
+Technology and Business Processing Association. Because these MOUs could
+serve as Manila’s backup options should the RCEP becomes stillborn, the
+country might not be as passionate to pursue this FTA as before. As a result,
+future studies should factor in the bilateral interplay among the RCEP negotiating parties to further strengthen the analysis.
+Also, this study has relied on a single case which limits its generalisability. Therefore, interested scholars should test the conceptual framework
+using cases of other multilateral platforms where ASEAN members interact
+with their non-ASEAN counterparts, or small countries in other regions
+such as South America and Middle East. Doing so will reaffirm the study’s
+external validity. Moreover, future research could undertake studies comparing and contrasting different small nations’ inclusive institutional balancing in dissimilar institutional settings. Such comparative works will
+shed additional light on our understanding of small states’ roles in affecting
+regional economic governance.
+
+Notes
+1. The Impossible Trinity is an incompatibility of three policy alternatives. At a given point of
+time, a country can simultaneously maintain only two of the following three policies: free
+capital flows across borders, an independent monetary policy, and an exchange rate stability.
+2. One source notes the emerging trading blocs at that time created an impetus for their pursuit. In short, the ongoing TPP negotiation and preparation to launch the CJK FTA talks
+tempted the Southeast Asian authorities to forge forward RCEP (Suh, 2014).
+
+1142
+
+K. PITAKDUMRONGKIT
+
+3. What differentiates ES from regular foreign economic policy is that the former is a response
+to threats as demonstrated via the RCEP case study.
+4. The ASEAN members also leaned on RCEP to perform institutional hedging against uncertainties (Kuik, 2008). It should be emphasised that this strategy constituted the regional states’
+response under the condition of uncertainties where no specific threat exists. In other words,
+the intensifying US-China strategic competition has caused supply chain disruptions and uncertainties in the world economy. The regional states saw the uncertainties as undermining
+their economic security (Interview 2). Put differently, the uncertainties lessen their ability to
+plan ahead, develop and implement policies to secure growth and welfare to their societies.
+Nevertheless, neither Washington nor Beijing was seen as a threat deliberately trying to inflict
+harm on Southeast Asian economies through their bilateral spat. Due to the absence of threats,
+the ASEAN governments chose to undertake institutional hedging (instead of institutional
+balancing) to alter some RCEP terms. One outcome was that the 40 percent rule of origin
+(ROO), which is considered low as compared to other FTAs. For instance, the US-Mexico-Canada
+Agreement (USMCA) requires 75 percent of regional contents. Yet, a careful look transpires that
+the ROO rule was intentionally designed by the ASEAN authorities. With this low threshold,
+businesses can source inputs from non-RCEP economies (e.g. US, European countries) up to
+60 percent in terms of value-added of the final products and sell the latter duty-free within
+the RCEP bloc. This term makes the Southeast Asian governments able to further diversify their
+supply chains and foster trade and investment ties with external powers which are inside RCEP
+(e.g. China) and outside it (e.g. US). This hedging strategy ultimately enables the regional states
+to achieve their economic security amidst the rising uncertainties (Interview 5, 6, 7).
+
+Disclosure statement
+No potential conflict of interest was reported by the author.
+
+References
+Acharya, A., & Tan, S. S. (2005). Betwixt balance and community: America, ASEAN,
+and the security of Southeast Asia. International Relations of the Asia-Pacific, 6(1),
+37–59. doi:10.1093/irap/lci125
+Almezaini, K. S., & Rickli, J. M. (Eds.). (2016). The small gulf states: Foreign and security policies before and after the Arab Spring. Abingdon, Oxon: Routledge.
+ASEAN. (2012). Guiding Principles and Objectives for Negotiating the Regional
+Comprehensive Economic Partnership. The 21st ASEAN Summit, Phnom Penh,
+Cambodia, November 20.
+Bailes, A. J., Thayer, B. A., & Thorhallsson, B. (2016). Alliance theory and alliance
+‘Shelter’: The complexities of small state alliance behaviour. Third World Thematics:
+A TWQ Journal, 1(1), 9–26. doi:10.1080/23802014.2016.1189806
+Beach, D., & Pedersen, R. B. (2013). Process tracing methods – Foundations and
+guidelines. Ann Arbor, MI: University of Michigan Press.
+Bennett, A. (2010). Process tracing and counterfactual analysis [Powerpoint presentation]. Conference on Process Tracing, Institute for Qualitative and Multi-Method
+Research, Syracuse University, June 14–25.
+Berthelon, M., & Freund, C. (2008). On the conservation of distance in international trade.
+Journal of International Economics, 75(2), 310–320. doi:10.1016/j.jinteco.2007.12.005
+Björkdahl, A. (2008). Norm advocacy: A small state strategy to influence the EU.
+Journal of European Public Policy, 15(1), 135–154. doi:10.1080/13501760701702272
+Blavoukos, S., & Bourantonis, D. (2011). Chairs as policy entrepreneurs in multilateral negotiations. Review of International Studies, 37(2), 653–672. doi:10.1017/
+S0260210510000525
+
+The Pacific Review
+
+1143
+
+Braveboy-Wagner, J. (2010). Opportunities and limitations of the exercise of foreign
+policy power by a very small state: the case of Trinidad and Tobago. Cambridge
+Review of International Affairs, 23(3), 407–427. doi:10.1080/09557571.2010.484049.
+Browning, C. S. (2006). Small, smart and salient? Rethinking identity in the small
+states literature. Cambridge Review of International Affairs, 19(4), 669–684.
+doi:10.1080/09557570601003536
+Bueger, C., & Wivel, A. (2018). How do small island states maximize influence?
+Creole diplomacy and the smart state foreign policy of the Seychelles. Journal
+of the Indian Ocean Region, 14(2), 170–188. doi:10.1080/19480881.2018.1471122
+Castle, M. A. (2022). How do global trade rules evolve? Strategic sequencing in
+international economic law. Review of International Political Economy. doi:10.108
+0/09692290.2022.2099949
+Chander, A., & Sunder, M. (2018). The Battle to Define Asia’s intellectual property
+law: TPP to RCEP. UC Irvine Law Review, 8(3), 331–362.
+Chasek, P. S. (2005). Margins of power: Coalition building and coalition maintenance
+of the South Pacific Island states and the alliance of small Island states. Review
+of European Community and International Environmental Law, 14(2), 125–137.
+doi:10.1111/j.1467-9388.2005.00433.x
+Cohen, B. J. (2018). Currency statecraft: Monetary rivalry and geopolitical ambition.
+Chicago, IL: University of Chicago Press.
+Congressional Research Service. (2021). “Regional Comprehensive Economic Partnership
+(RCEP)”, 5 August 2021, p.2. Retrieved from https://www.everycrsreport.com/
+files/2021-08-05_IF11891_af1937448b1c4d0fc60a7107dcdc3fb25260bb23.pdf.
+Crump, L. (2006). Global trade policy development in a two-track system. Journal
+of International Economic Law, 9(2), 487–510. doi:10.1093/jiel/jgl005
+Crump, L. (2011). Negotiation process and negotiation context. International
+Negotiation, 16(2), 197–227. doi:10.1163/138234011X573011
+Daunton, M. (2010). From Bretton Woods to Havana: Multilateral deadlocks in
+historical perspective. In Deadlocks in Multilateral Negotiations: Causes and
+Solutions, 47–78. Cambridge, UK: Cambridge University Press.
+Deitelhoff, N. (2009). The discursive process of legalization: Charting islands of
+persuasion in the ICC case. International Organization, 63(1), 33–65. doi:10.1017/
+S002081830909002X
+Dodds, F., Donoghue, A. D., & Roesch, J. L. (2016). Negotiating the sustainable development goals: A transformational agenda for an insecure world. Abingdon,
+Oxon: Routledge.
+Drezner, D. (2019). Economic statecraft in the age of trump. The Washington
+Quarterly, 42(3), 7–24. doi:10.1080/0163660X.2019.1663072
+Elms, D. (2021). Getting RCEP across the line. World Trade Review, 20(3), 373–380.
+doi:10.1017/S1474745620000592
+Elms, D., & Lim, C. L. (2012). (). The Trans-Pacific Partnership agreement (TPP)
+negotiations: Overview and prospects. RSIS Working Paper No. 232, S. Rajaratnam
+School of International Studies, Singapore, February 21.
+Feyrer, J. (2009). Distance, trade, and income-the 1967 to 1975 closing of the Suez
+canal as a natural experiment (No. w15557). Cambridge, MA: National Bureau of
+Economic Research.
+Foot, R., & Goh, E. (2019). The international relations of East Asia: A new research
+prospectus. International Studies Review, 21(3), 398–423. doi:10.1093/isr/viy015
+Fukunaga, Y. (2014). ASEAN leaderhsip in the regional comprehensive economic
+partnership. Asia & the Pacific Policy Studies, 2(1), 103–115. doi:10.1002/app5.59
+
+1144
+
+K. PITAKDUMRONGKIT
+
+Gibson, N. (2008). Goff Welcomes US PTA Negotiations. National Business ReviewNew Zealand September 23.
+Goh, E. (2005). Meeting the China challenge: The US in Southeast Asian regional
+security strategies. Policy Studies Monograph No. 16. Washington D.C.: East-West
+Center.
+Govella, K. (2021). The adaptation of Japanese economic statecraft: Trade, aid, and
+technology. World Trade Review, 20(2), 186–202. doi:10.1017/S1474745620000543
+Gvalia, G., Siroky, D., Lebanidze, B., & Iashvili, Z. (2013). Thinking outside the bloc:
+Explaining the foreign policies of small states. Security Studies, 22(1), 98–131.
+doi:10.1080/09636412.2013.757463
+Hampson, F. O., & Reid, H. (2003). Coalition diversity and normative legitimacy in
+human security negotiations. International Negotiation, 8(1), 7–42.
+doi:10.1163/138234003769590659
+Haokip, T. (2011). India’s look east policy: Its evolution and approach. South Asian
+Survey, 18(2), 239–257. doi:10.1177/0971523113513368
+He, K. (2008). Institutional balancing and international relations theory: Economic
+interdependence and balance of power strategies in Southeast Asia. European
+Journal of International Relations, 14(3), 489–518.
+He, K. (2015). Contested regional orders and institutional balancing in the Asia
+Pacific. International Politics, 52(2), 208–222. doi:10.1057/ip.2014.46
+Hoadley, S. (2008). Thailand’s and Malaysia’s Cross-regional FTA Initiatives. In Katada,
+S. & Solis, M. Cross-regional trade agreements: Understanding permeated regionalism in East Asia (pp. 95–121). Berlin, Heidelberg: Springer.
+Holmes, J., Schnurr, S., & Marra, M. (2007). Leadership and communication:
+Discursive evidence of a workplace culture change. Discourse & Communication,
+1(4), 433–451. doi:10.1177/1750481307082207
+Hopewell, K. (2015). Different paths to power: The rise of Brazil, India and China
+at the World Trade Organization. Review of International Political Economy, 22(2),
+311–338. doi:10.1080/09692290.2014.927387
+Jones, L. (2010). Still in the “drivers’ seat”, but for how long? ASEAN’s capacity for
+leadership in East-Asian international relations. Journal of Current Southeast Asian
+Affairs, 29(3), 95–113. doi:10.1177/186810341002900305
+Kawai, M., & Wignaraja, G. (2008). EAFTA or CEPEA: Which way forward? Asean
+Economic Bulletin, 25(2), 113–139. doi:10.1355/AE25-2A
+Keohane, R. O. (1988). International institutions: Two approaches. International
+Studies Quarterly, 32(4), 379–396. doi:10.2307/2600589
+Krasner, S. (1983). International Regimes. Ithaca, NY: Cornell University Press.
+Kuik, C. C. (2008). The essence of hedging: Malaysia and Singapore’s response to
+a rising China. Contemporary Southeast Asia, 30(2), 159–185. http://www.jstor.
+org/stable/41220503
+Laatikainen, K. V., & Smith, K. E. (2017). The multilateral politics of UN diplomacy:
+Introduction. The Hague Journal of Diplomacy, 12(2-3), 95–112. doi:10.1163/187
+1191X-12341366
+Lee, D. (2009). Bringing an elephant into the room: Small African State diplomacy
+in the WTO. In The Diplomacies of Small States (pp. 195–206). London: Palgrave
+Macmillan.
+Lee, S. (2012). The emergence of an economic-security nexus and the diversity of
+FTA linkage strategies in East Asia. Korean Journal of Policy Studies, 27(1), 109–129.
+Lee, S., & Moon, C. I. (2009). South Korea’s regional economic cooperation policy:
+The evolution of an adaptive strategy. In V. K. Aggarwal, M. G. Koo, S. Lee, &
+
+The Pacific Review
+
+1145
+
+C. I. Moon(Eds.), Northeast Asia: Ripe for integration? (pp. 37–61). Berlin, Heidelberg:
+Springer.
+Lim, D. J., Ferguson, V. A., & Bishop, R. (2020). Chinese outbound tourism as an
+instrument of economic statecraft. Journal of Contemporary China, 29(126), 916–
+933. doi:10.1080/10670564.2020.1744390
+Ministry of External Affairs of India. (2003). Speech by External Affairs Minister
+Yashwant Sinha. Harvard University, September 29.
+Ministry of Foreign Affairs of Japan. (2012). Joint Declaration on the Enhancement
+of Trilateral Comprehensive Cooperative Partnership. The Fifth Trilateral Summit
+Meeting among The People’s Republic of China, the Republic of Korea and
+Japan, Beijing, China, May 13.
+Monheim, K. (2016). The ‘power of process:’ How negotiation management influences multilateral cooperation. International Negotiation, 21(3), 345–380.
+doi:10.1163/15718069-12341341
+Mortimer, D. (2008). Winning in World Markets: Review of Export Policies and
+Programs. Canberra: Department of Foreign Affairs and Trade, September 1.
+Retrieved from https://www.dfat.gov.au/sites/default/files/mortimer_report.pdf.
+Nesadurai, H. E. (2005). Conceptualising economic security in an era of globalisation: What does the East Asian experience reveal?: CSGR Working Paper No.
+157/05 February. Centre for the Study of Globalisation and Regionalisation
+(CSGR), University of Warwick, Coventry, The United Kingdom. Retrieved from
+http://wrap.warwick.ac.uk/1963/1/WRAP_Nesadurai_wp15705.pdf.
+Nicolas, F. (2012). Korea and economic integration in East Asia: The way forward.
+Korea’s Economy, 28, 87–93.
+Odell, J. S. (2015). How should the WTO launch and negotiate a future round?
+World Trade Review, 14(1), 117–133. doi:10.1017/S147474561400038X
+Okano-Heijmans, M. (2014). Trade diplomacy in EU-Asia relations. Clingendael Report,
+September.
+Osorio, C. G. (2016). (Beyond the structural asymmetry of the UNSC: A bargaining
+power-analysis of Resolutions 2220 and 2216). (Master’s thesis). Department of
+Political Science, University of Oslo, Norway December.
+Panke, D. (2012a). Being small in a big union: Punching above their weights? How
+small states prevailed in the vodka and the pesticides cases. Cambridge Review
+of International Affairs, 25(3), 329–344. doi:10.1080/09557571.2012.710579
+Panke, D. (2012b). Small states in multilateral negotiations. What have we learned?
+Cambridge Review of International Affairs, 25(3), 387–398. doi:10.1080/09557571
+.2012.710589
+Parker, D. A., & Sofio, D. G. (2017). US economic statecraft, homeland security, and the
+trans‐pacific partnership. Foundations of Homeland Security: Law and Policy, 437–448.
+Pauly, L. W. (2006). Monetary statecraft in follower states. In D. M. Andrews (Ed.),
+International Monetary Power (pp. 184–207). Ithaca, NY: Cornell University Press.
+Petri, P. A., & Plummer, M. G. (2020). East Asia decouples from the United States:
+Trade War, COVID-19, and East Asia’s new trade blocs. COVID-19, and East Asia’s
+New Trade Blocs (June 11, 2020).
+Pitakdumrongkit, K. (2015a). Co-chairing international negotiations: The case of
+the Chiang Mai initiative multilateralization. The Pacific Review, 28(4), 577–605.
+doi:10.1080/09512748.2015.1012540
+Pitakdumrongkit, K. (2015b). Coordinating the South China Sea Issue: Thailand’s
+roles in the code of conduct development. International Relations of the AsiaPacific, 15(3), 403–431. doi:10.1093/irap/lcv006
+
+1146
+
+K. PITAKDUMRONGKIT
+
+Pitakdumrongkit, K. (2022). What causes changes in international governance
+details?: An economic security perspective. Review of International Political
+Economy, 29(2), 399–424. doi:10.1080/09692290.2020.1819371
+Politico. (2017). “Malta’s EU presidency: How it went.” June 30. Retrieved from
+https://www.politico.eu/article/maltas-eu-presidency-how-did-it-go/#.
+Qin, J., Li, X., & Li, J. (2012). Beijing supports Asian free-trade area. China Daily
+November 20.
+Raghavan, P. (2020). Explained: The economic implications of India opting out of
+RCEP. The Indian Express. November 26. Retrieved from https://indianexpress.
+com/article/explained/india-out-of-rcep-china-economy-trade-angle-7053877/.
+Ravenhill, J. (2010). The ‘new East Asian regionalism’: A political domino effect.
+R e v i e w o f I n te r n a t i o n a l Po l i t i ca l Eco n o my , 1 7 ( 2 ) , 1 7 8 – 2 0 8 .
+doi:10.1080/09692290903070887
+Regional Comprehensive Economic Partnership Agreement (RCEP (2020)) 15 November 2020.
+Rillo, A., Robeniol, A., & Buban, A. (2022). The Story of RCEP: History, Negotiations,
+Structure, and Future Directions. In Kimura, F., Thangavelu, S., & Narjoko, D.
+(Eds.), Regional comprehensive economic partnership (RCEP): Implications, challenges, and future growth of East Asia and ASEAN (pp. 2–1–2-28). Jakarta, Indonesia:
+Economic Research Institute for ASEAN and East Asia (ERIA), March.
+Schelling, T. (1960). The strategy of conflict. Cambridge, MA: Harvard University Press.
+Solís, M., Stallings, B., & Katada, S. (Eds.). (2009). Competitive regionalism: FTA diffusion in the Pacific Rim. London: Palgrave Macmillan.
+Stubbs, R. (2014). ASEAN’s leadership in East Asian region-building: Strength in
+weakness. The Pacific Review, 27(4), 523–541. doi:10.1080/09512748.2014.924229
+Suh, J. K. (2014). Korean bridge: Balancing Asian economic regionalism between
+the United States and China. In G. Rozman (Ed.), Joint US-Korea academic studies (vol. 25, pp. 188–199). Washington D.C.: Korea Economic Institute of America.
+Sukma, R. (2010). The accidental driver: ASEAN in the ASEAN regional forum. In
+Haacke, J. & Morada, N. M. (Eds.), Cooperative security in the Asia-Pacific: The
+ASEAN regional forum (pp. 111–123). Abingdon, Oxon: Routledge.
+Sutton, P. (2011). The concept of small states in the international political economy.
+The Round Table, 100(413), 141–153. doi:10.1080/00358533.2011.565625
+Tallberg, J. (2010). The power of the chair: Formal leadership in international cooperation. International Studies Quarterly, 54(1), 241–265. doi:10.1111/j.1468-2478.2009.00585.x
+Tan, I., Hong, K., Chiang, C. Y., Wu, D., Pan, J., & Weng, K. K. (2020). “Understanding
+the Regional Comprehensive Economic Partnership Agreement (RCEP): What
+does the RCEP mean to businesses?” Baker Mckenzie, 2 December. Retrieved
+from https://www.bakermckenzie.com/-/media/files/insight/publications/2020/12/
+bakermckenzie_understandingrcep_dec2020.pdf?la=en
+Tay, S. (2022). Managing Chin’s regional economic integration. East Asia Forum
+Quarterly, Vol 14, No 1, p. 25–27. January-March 2022.
+Terada, T. (2013). The US struggles in APEC’s trade politics: Coalition-building and
+regional integration in the Asia-Pacific. International Negotiation, 18(1), 49–66.
+doi:10.1163/15718069-12341245
+The ASEAN Secretariat. (2015). ASEAN Economic Community Blueprint 2025. Jakarta,
+Indonesia: The ASEAN Secretariat.
+The ASEAN Secretariat. (2020). ASEAN Statistical Yearbook 2020. Jakarta, Indonesia:
+The ASEAN Secretariat, December.
+The ASEAN Secretariat. (2008). The ASEAN Charter. Jakarta, Indonesia: The ASEAN
+Secretariat, January.
+
+The Pacific Review
+
+1147
+
+The Association of Southeast Asian Nations (ASEAN). (2011). ASEAN Framework for
+Regional Comprehensive Economic Partnership. The 19th ASEAN Summit, Bali,
+Indonesia, November 17.
+The Australian Government. (2012). Australia in the Asian Century White Paper,
+October. Retrieved from https://apo.org.au/sites/default/files/resourcefiles/2012-10/apo-nid31647.pdf.
+The Economic Times. (2019). India decides to opt out of RCEP, says key concerns
+not addressed. November 5.
+The Malaysian Reserve. (2019). RCEP talks to proceed without ISDS. September 13.
+Thorhallsson, B. (2012). Small states in the UN security council: Means of influence?
+The Hague Journal of Diplomacy, 7(2), 135–160. doi:10.1163/187119112X628454
+Thurbon, E., & Weiss, L. (2021). Economic statecraft at the frontier: Korea’s drive
+for intelligent robotics. Review of International Political Economy, 28(1), 103–127.
+doi:10.1080/09692290.2019.1655084
+Tillikainen, T. (2018). Europe and Finland: Defining the political identity of Finland in
+Western Europe. London: Routledge.
+Wang, C., & Sharma, V. (2021). India’s RCEP dilemma with China: Beyond the legal
+texts. Pacific Focus, 36(1), 40–62. doi:10.1111/pafo.12180
+Wohlforth, W. C., De Carvalho, B., Leira, H., & Neumann, I. B. (2018). Moral authority and status in international relations: Good states and the social dimension
+of status seeking. Review of International Studies, 44(3), 526–546. doi:10.1017/
+S0260210517000560
+Zartman, I. W., & Rubin, J. Z. (eds.) (2000). Power and Negotiation. Ann Arbor, MI:
+The University of Michigan Press.
+
+Cited Interviews
+Interview 1: Interview with a former Australian trade negotiator, 21 September 2021.
+Interview 2: Interview with an Indonesian trade negotiator, 18 October 2022.
+Interview 3: Interview with an ASEAN officer, 3 November 2021.
+Interview 4: Interview with a former ASEAN trade negotiator, 24 April 2022.
+Interview 5: Interview with Laotian officers, Ministry of Commerce and Industry,
+21 September 2021.
+Interview 6: Interview with Malaysian officers, Ministry of Trade and Industry, 23
+September 2021.
+Interview 7: Interview with a Filipino trade negotiator, 17 September 2021.
+Interview 8: Interview with a New Zealander trade negotiator, 14 October 2021.
+
+

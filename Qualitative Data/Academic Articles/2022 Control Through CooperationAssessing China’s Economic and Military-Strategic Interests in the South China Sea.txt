@@ -1,0 +1,981 @@
+Vrije Universiteit Brussel
+
+Control Through Cooperation? Assessing China's Economic and Military-Strategic Interests in
+the South China Sea
+Ernst, Maximilian
+Published in:
+Journal of Territorial and Maritime Studies
+
+Publication date:
+2022
+License:
+Unspecified
+Document Version:
+Final published version
+Link to publication
+
+Citation for published version (APA):
+Ernst, M. (2022). Control Through Cooperation? Assessing China's Economic and Military-Strategic Interests in
+the South China Sea. Journal of Territorial and Maritime Studies, 9(2), 7-30.
+https://www.journalofterritorialandmaritimestudies.net/_files/ugd/36708f_7ac2a636674246239e97e169742cf89a.
+pdf
+
+Copyright
+No part of this publication may be reproduced or transmitted in any form, without the prior written permission of the author(s) or other rights
+holders to whom publication rights have been transferred, unless permitted by a license attached to the publication (a Creative Commons
+license or other), or unless exceptions to copyright law apply.
+
+Take down policy
+If you believe that this document infringes your copyright or other rights, please contact openaccess@vub.be, with details of the nature of the
+infringement. We will investigate the claim and if justified, we will take the appropriate steps.
+
+Control Through Cooperation?
+Assessing China’s Economic
+and M
+­ ilitary-Strategic Interests
+in the South China Sea
+Maximilian Ernst
+Structured Abstract
+Article Type: General Review
+Purpose—China’s assertive policy toward the South China Sea (SCS) is commonly
+explained as a function of Beijing’s objective to control shipping lanes and resources (fish,
+hydrocarbons), and to cater to nationalist sentiments. Some publications also point to the
+alternative explanation of China’s m
+­ ilitary-strategic interests. By analyzing Beijing’s SCS
+policy, including aggressive action but also offers of cooperation, this article determines
+which explanation is adequate.
+Findings—China not only coerces SCS littoral states, but also offers cooperation
+in maritime security and joint resource exploration. As the example of the Philippines demonstrates, these offers are predicated on littoral states’ unequivocal acceptance of illegal Chinese territorial claims. Beijing views joint resource exploration
+as means to the end of physical control over SCS maritime territory, supporting its
+­m ilitary-strategic interests. If the littoral state accepts China’s territorial claims, it is
+granted access to resources within its EEZ or may develop said resources jointly with
+China.
+Practical Implications—­A sia-Pacific states should reconsider their SCS policies,
+accounting for the fact that China’s ultimate objective is not control over commercial shipping lanes and resources, but the deployment of military assets on SCS maritime territory
+to support A2/AD and further ­military-strategic objectives.
+Originality/Value—The analysis of Beijing’s SCS policy demonstrates the limitations
+Vrije Universiteit Brussel: Maximilian.Ernst@vub.be
+Journal of Territorial and Maritime Studies / Volume 9, Number 2 / Summer/Fall 2022 / pp. 7–30 /
+ISSN 2288-6834 (Print) / DOI: 10.2307/JTMS.9.2.7 / © 2022 ﻿
+
+Control Through Cooperation?
+
+7
+
+of the common economic security explanation and corroborates the alternative, traditional
+security explanation in the literature.
+Keywords: Chinese foreign policy, security policy, ­Sino-American
+strategic competition, South China Sea, traditional security
+
+I. Introduction
+China’s assertive policy toward the South China Sea (SCS) is among the most salient
+challenges in contemporary security politics. Particularly China’s illegal territorial claims,
+artificial island building, and militarization of the SCS have the potential to significantly
+destabilize regional security, which is only exacerbated by the emerging ­Sino-American
+strategic competition. Against this background, it remains unclear why Beijing engages in
+such assertive, even aggressive, actions at the detriment of littoral states, risking further
+regional conflict and SCS littoral states plausibly organizing against China.1 The common
+explanation for Chinese assertive actions in the SCS relates to its economic interests, specifically control over shipping lanes and access to hydrocarbons and fish resources.2 Economic or ­so-called nontraditional security certainly informs Chinese foreign policy, but
+falls short in explaining China’s aggressive actions and violation of international law in the
+SCS. Notably, the economic security explanation omits the fact that China has repeatedly
+extended offers to cooperate on maritime security and to jointly develop SCS resources.
+If control over commercial shipping lanes and resources were so important to China—so
+important that it would risk the escalation of a regional conflict—why then does Beijing
+offer to share these resources? There is also the argument that domestic nationalism forces
+the Chinese leadership to defend territorial claims, lawful or not, and that assertive actions
+in the SCS gain the CCP legitimacy to rule.3 This explanation is often given alongside the
+­above-mentioned economic security factors as an additional contributing variable.
+Some studies point to the importance of the m
+­ ilitary-strategic component as the driving
+force behind China’s behavior in the SCS.4 This line of argument follows a traditional conceptualization of security. Although this argument also neglects China’s offers of cooperation and joint resource development, it at least does not constitute an inherent contradiction,
+as is the case for the more common economic security explanation. The present study corroborates the alternative traditional security argument by demonstrating that n
+­ on-traditional
+economic security interests and the need to cater to domestic nationalism cannot possibly be
+the main driver for Chinese actions in the SCS. After all, China has, repeatedly over the past
+two decades, offered littoral states to cooperate in maritime security and to jointly explore
+and develop resources in the SCS. But such offers to cooperate have a catch: China requires
+the littoral state to accept its illegal territorial claims. Building on the traditional security
+argument, it is proposed that Beijing’s offers of cooperation are not an end, but a means of
+incentivizing littoral states to accept China’s unlawful territorial claims, serving the end of
+China’s strategic control of the entire SCS—which is, from China’s perspective, a strategic
+necessity to prevail in the great power competition with the United States.
+The remainder of this article is structured as follows. Section II briefly introduces
+the phenomenon of China’s aggressive behavior in the context of SCS territorial disputes.
+8
+
+Journal of Territorial and Maritime Studies, Summer/Fall 2022
+
+Section III provides an overview of the common explanation for China’s actions in the
+SCS, namely its alleged desire to exclusively control shipping lanes, unilaterally explore
+hydrocarbon and fish resources, and for the CCP to cater to nationalist sentiments at
+home and gain legitimacy. Section IV presents the alternative explanation of China’s
+­m ilitary-strategic interests to be the driver for Chinese actions in the SCS, specifically its
+plans to develop A
+­ nti-Access Area Denial (A2/AD) capabilities, to provide a safe bastion
+for its n
+­ uclear-powered ballistic missile submarine (SSBN) fleet, and to develop the SCS as
+a secure perimeter for its space program operating out of Wenchang on Hainan. Section
+V corroborates the alternative argument by demonstrating, through an empirical analysis
+of Chinese policy toward the Philippines and ASEAN, that Beijing is willing to share control of the SCS and its resources. Section VI synthesizes the analytical part with the review
+of the literature in earlier sections to present the argument that China’s offers to cooperate and jointly explore resources are a means to the end of securing ­m ilitary-strategic control of the SCS. Based on this, the economic security explanation can be refuted. The article
+concludes with a summary of findings, points to limitations as well as avenues for future
+research, and discusses policy implications.
+
+II. The Phenomenon: South China Sea
+Territorial Disputes and China’s Assertive
+Actions Toward Littoral States
+The SCS has witnessed numerous territorial disputes over the past decades which
+have, on numerous occasions, erupted into hostilities between claimants.5 Especially violent examples are clashes between the Vietnamese and Chinese militaries over the Paracel Islands in January 19746 and again with Vietnam over Johnson South Reef of the Spratly
+Islands in March 1988.7 Between 1994 and 1995, China’s occupation of Mischief Reef, which
+is in the Eastern Spratlys within the Philippine Exclusive Economic Zone (EEZ), and the
+building of military observation posts on it, had also resulted in the confrontation of Philippine and Chinese ships on several occasions.8 Absent such occasional h
+­ igh-intensity
+crises, of which there are plenty, SCS disputes still complicate diplomacy and deteriorate
+regional security. The relationship between SCS littoral states and China is especially and
+profoundly impacted by these territorial disputes. It is beyond the scope of this article to
+provide a detailed review of the legal claims, pertaining laws, and court decisions.9 Hence,
+a short overview will have to suffice.
+Besides China, other claimants of SCS maritime territory are the Philippines, Vietnam, Malaysia, Indonesia, Brunei, and Taiwan. Many parties have conflicting claims, and
+some have had disputes with one another. But China’s role in these disputes is preeminent
+because it is the claimant with the most developed military capabilities, claiming almost
+the entirety of the SCS—per its 9­ -Dash Line—whereas other parties only claim parts of
+the SCS.10 ASEAN members have by now harmonized their claims with UNCLOS, so that
+there exist, in principle, no major disputes among all other SCS littoral states (see Map 1).11
+In addition, China has built artificial islands and deployed military infrastructure on natural and artificial islands inside disputed waters, thus creating facts on the ground.12 China’s artificial island building and subsequent militarization thereof has been ruled illegal
+Control Through Cooperation?
+
+9
+
+by the Permanent Court of Arbitration (PCA) in June 2016. China’s appeal to what it calls
+“historic rights” (through its 9­ -Dash Line) was judged to have no legal weight; none of China’s land holdings are considered “islands” under the United Nations Convention on the
+Law of the Sea (UNCLOS) criteria, and therefore don’t generate EEZ entitlement.13 Nevertheless, Beijing continues to disregard the PCA ruling and asserts physical control of SCS
+maritime territory.
+The year 2012 saw intense exchanges between the Philippines and China over the
+Scarborough Shoal. In April 2012, the two countries were on the brink of armed conflict,
+
+Map 1: Territorial Claims in the South China Sea. Source: Voice of America, “Territorial Claims in the
+South China Sea,” VOA, July 30, 2012, https://blogs.voanews.com/state-department-news/2012/07/31/
+challenging-beijing-in-the-south-china-sea/, accessed May 5, 2022. (Public domain; edited by author.)
+
+10
+
+Journal of Territorial and Maritime Studies, Summer/Fall 2022
+
+both dispatching naval vessels to the shoal. China was able to gain control over the shoal
+through the deployment of hundreds of ships belonging to its maritime militia and coast
+guard in addition to a few PLA Navy (PLAN) vessels. China continues to control the shoal
+to this day.14 In an attempt to compel the Aquino Benigno III administration (2010–2016)
+to accept its territorial claims, China also imposed restrictions on banana imports and
+curbed the number of Chinese tourists, resulting in considerable economic hardship to the
+Philippines.15
+It should be noted that this review article is written in the academic discipline of international security and strategic studies. The objective is not to analyze the legality of Chinese actions, but to explain why China acts the way it does. China’s actions in the SCS have
+already been ruled unlawful under UNCLOS by the PCA in the Hague in 2016 after a case was
+brought against China by the Philippines. But Beijing has made it clear from the beginning
+that it does not recognize the court’s jurisdiction over SCS territorial disputes and continues to claim maritime territory through its ­9-Dash Line, thereby violating other SCS littoral
+states’ EEZ. This article operates based on the realization that China disregards international
+law, including treaties and conventions it has ratified. The article seeks to understand what
+drives Chinese actions in the SCS, specifically whether economic or military security interests are the main drivers for Chinese actions. Importantly, this article’s analysis of China’s
+strategic considerations is not to be understood as an endorsement of China’s actions.
+
+III. Common Explanation:
+Control Over Shipping Lanes,
+Access to Resources, Nationalism
+The common explanation for Beijing’s assertive policy toward SCS littoral states is
+based on China’s economic interests.16 These economic interests can be divided into three
+subcategories, namely (1) control over commercial shipping lanes, (2) access to hydrocarbons (oil, gas), and (3) access to fish resources. There is also the argument that links Chinese assertive policy to nationalism and the CCP’s ambition to gain legitimacy at home
+through appearing strong on international politics. Notably, many scholarly and journalistic
+accounts arguing in favor of these economic and nationalist variables treat them inclusively
+and acknowledge all four dimensions, merely diverging over their hierarchy of importance.
+
+3.1 Control Over SCS Commercial Shipping Routes
+The SCS carries about 21% of global trade. Importantly, about 40% of China’s international trade in goods passes through the SCS.17 The SCS is critical also in terms of energy
+security; about 50% of global oil tanker shipments pass through it.18 Moreover, 70% of China’s electricity is generated from fossil fuels,19 80% of which pass through the SCS.20 Taken
+together, the SCS carries three times as much commercial shipping as the Suez Canal and
+five times as much as the Panama Canal.21 The problem for China inheres in the maritime
+geography of the SCS,22 which is vulnerable to ­peace-time interruptions caused by natural
+or ­man-made disasters as well as to blockage by a military adversary during regional conflict.23 The maritime chokepoints of the SCS are especially important in this regard, namely
+Control Through Cooperation?
+
+11
+
+the Sunda Strait, the Lombok Strait and, most prominently, the Malacca Strait.24 From Beijing’s perspective, the U.S. Navy and Air Force, with their ability to control and blockade
+these maritime chokepoints, hold a dagger to China’s throat, allowing them to interrupt
+China’s energy imports and trade flows at any given time. Besides being home to some of
+China’s harbors, the SCS is the main transit between the Indian and the Pacific Oceans,
+and disruption through natural disaster, blockade, or military escalation would lead to
+increased shipping costs and global supply chain interruptions.
+
+3.2 Access to Hydrocarbons (oil, gas)
+Proven and probable reserves of hydrocarbons in the SCS are estimated at around
+190 trillion cubic feet of natural gas and 11 billion barrels of oil. Additional undiscovered
+
+Map 2: Oil and Gas Exploration in the South China Sea Source: Asia Maritime Transparency Initiative, “South China Sea Energy Exploration and Development,” CSIS, n.d., https://amti.csis.org/
+south-china-sea-energy-exploration-and-development/, accessed May 5, 2022; edited by the author.
+
+12
+
+Journal of Territorial and Maritime Studies, Summer/Fall 2022
+
+resources could amount to another 160 trillion cubic feet of natural gas and 12 billion barrels of oil.25 Although this may sound like a lot, the estimated exploitable oil resources, for
+example, would merely cover one year of China’s oil consumption.26 The largest reserves of
+oil and natural gas have been discovered under the SCS floor north of Borneo (within the
+EEZs of Malaysia, Indonesia, and Brunei), east of the Malay Peninsula (within the EEZs of
+Malaysia and Indonesia), and northwest of Palawan (within the EEZ of the Philippines).27
+
+3.3 Fish Resources
+Thanks to the inflow of ­nutrient-laden waters from land, SCS marine life is rich and
+accounts for about 10% of global fish stocks. It holds at least 3,365 marine species, the most
+abundant being tuna, mackerel, croaker, anchovy, shrimp, and shellfish.28 The area is heavily fished, providing the main source of animal protein in densely populated Southeast Asia.29
+About 1.5 billion people in the region depend on SCS fisheries for nutrition, and about 3.7 million people find employment in the region’s fishing industry.30 However, due to ­over-fishing,
+the fish stocks of the SCS have been degraded by about 70–95% since 1950. Moreover, the
+destruction of coral reefs, among other environmentally destructive actions such as artificial
+island building, has exacerbated the dramatic reduction of fish stocks and marine biodiversity
+more broadly.31 If overfishing and the destruction of marine biodiversity were to continue at
+this rate, the argument of SCS fish resources informing Chinese actions will soon be obsolete.
+
+3.4 Nationalism as a Constraint on CCP D
+­ ecision-Making
+Finally, there is the argument that nationalist sentiments within the Chinese population constrain the options of the Chinese leadership in finding a multilateral solution
+to SCS disputes short of insisting on full control over the entirety of the SCS. 32 This argument is not in contradiction to the economic security explanation and is often mentioned
+as an additional factor, alongside shipping lanes and resources. Fostered by decades of
+­state-controlled political indoctrination across media, education, and academia, the Chinese public predominantly supports China’s illegal actions in the SCS and believes that the
+international maritime legal regime as well as international courts are controlled by a U.S.
+imperialist agenda and more broadly hostile foreign interests.33 Hence, defending China’s
+territorial claims in the SCS at all costs can be seen as a deliverable by the CCP to the Chinese public to gain legitimacy to rule. Whereas the CCP’s legitimacy has thus far mostly
+been secured through the provision of stable economic growth and welfare, some scholars argue that the promotion of national glory and the protection of territorial integrity can
+plausibly inform Beijing’s readiness to risk security and stability in the SCS, and even to use
+military force against regional states.34
+
+IV. Alternative Explanation:
+Military-Strategic Considerations
+Contrary to the above discussed explanations relating to economic security and
+nationalism, several scholarly articles point to the m
+­ ilitary-strategic dimension as the main
+Control Through Cooperation?
+
+13
+
+driver behind China’s aggressive and destabilizing policy toward the SCS.35 This argument must be understood against the background of the S­ ino-American strategic competition. Apart from a ­technological-industrial as well as an ­economic-ideological dimension,
+this competition also has a m
+­ ilitary-strategic dimension. China has the declared objective to assume regional hegemony in the ­A sia-Pacific, as it is stated in the Chinese Dream
+of National Rejuvenation.36 This Chinese Dream has a clear foreign policy objective, which
+is, in the words of Yoshihara and Holmes, to make “the nation prosperous and confident at
+home and abroad,” to “assume its rightful station as a pole in a multipolar world, presumably Asia’s dominant power,” and to “make good on its intent to alter the U
+­ S-led status quo
+and revise the international order to its liking.”37
+Although the United States is today and will remain for the foreseeable future the
+preeminent military power in the world, China will be able to challenge U.S. preponderance in the Western Pacific. Over the past two decades, China has invested heavily in
+the PLAN. Between 2014 and 2018 alone, China added more vessels to the PLAN than
+the number of ships in service of the navies of the UK, Spain, India, and Germany combined. By 2019, the PLAN consisted of 339 ships, compared to 296 U.S. Navy ships. Since,
+however, the PLAN’s modernization concentrates on littoral warfare capabilities based
+
+Map 3: The First and Second Island Chains. Source: U.S. Department of Defense, “Annual Report
+to Congress: Military and Security Developments Involving the People’s Republic of China 2010”
+(Washington, D.C.: Office of the Secretary of Defense, 2010), p. 23; edited by the author.
+
+14
+
+Journal of Territorial and Maritime Studies, Summer/Fall 2022
+
+on smaller vessels, the tonnage of the U.S. Navy remains more than double that of the
+PLAN.38 In the coming decades, the Western Pacific will likely emerge as a militarily contested space in which neither the United States and its regional allies nor China enjoys
+military supremacy.39
+In addition to U.S. military presence, China’s path toward regional hegemony is
+complicated by natural barriers in the Western Pacific, namely the first- and second
+island chains, of which the former is particularly important. Running down from Japan
+via Taiwan, the Philippines, and Malaysia, the first island chain presents a natural barrier that contains China’s “strategic will to the sea,” complicating its commercial and
+military sea lines of communication (SLOCs).40 The fact that China’s littoral waters are
+shallow and that the first island chain is inhabited by U.S. allies and partners makes it
+extremely difficult for the PLAN to project naval power—above and below the surface—
+beyond China’s littorals and into the Pacific proper. In this geopolitical context, the SCS
+matters profoundly in China’s ­m ilitary-strategic interest. The SCS can be understood as
+the soft underbelly of the first island chain, with the Strait of Luzon (the gap between the
+northern tip of the Philippines and Taiwan) as the most promising exit point for Chinese naval power. If China wants to prevail in a prolonged ­m ilitary-strategic competition with the United States and its allies, it must develop the SCS as strategic rear from
+which it can break out of U.S. containment and conduct naval operations across the
+­I ndo-Pacific and beyond.41
+Based on a review of relevant expert literature, three interrelated m
+­ ilitary-strategic
+dimensions—conditions of sorts—can be identified, which China needs to fulfill to break
+out of its littoral dilemma and to become a p
+­ eer-competitor to the United States in the
+­Asia-Pacific. Notably, Beijing’s desire to fulfill these three dimensions also explains China’s
+artificial island building, militarization of the SCS, illegal territorial claims, and its aggressive behavior toward SCS littoral states. It is furthermore not in contradiction to China’s
+efforts to also cooperate on maritime security and to jointly develop SCS resources with littoral states (cf. section V). These three dimensions are discussed below.
+
+4.1 Deny U.S. Power Projection into the South China Sea
+The first dimension is the physical control over territorial features in the SCS, such as
+rocks, reefs, and small islands. China’s objective is to construct on them conventional military infrastructure in support of an A2/AD perimeter covering the entire SCS.42 To fulfill this objective, the PLA must build radars and runways to deploy t­ heater-range missiles,
+air- and missile defense, fighter aircraft, and a­ ir-refueling tanker planes across SCS islands,
+including the Spratly Islands, the Paracel Islands, and Scarborough Shoal.43 With logistical support and existing capabilities based on Hainan, the PLA would acquire the ability to deny the U.S. Navy access to the SCS and complicate U.S. military supremacy in the
+wider Western Pacific, inhibiting U.S. power projection in the Taiwan Strait and onto the
+Chinese mainland.44 Chinese A2/AD over the SCS is an ambitious yet rewarding objective, since it enhances China’s national security, improves the PLA’s position in a potential T
+­ aiwan-Strait contingency or invasion of Taiwan, and reduces U.S. coercive potential
+over China. But A2/AD over the SCS is also the necessary condition for the other two
+dimensions.
+Control Through Cooperation?
+
+15
+
+4.2 ­Submarine-Based Nuclear Deterrence
+Chinese strategic thinkers have been observing with concern U.S. ambitions to
+improve ballistic missile defense (BMD) in the A
+­ sia-Pacific. In China’s perspective, particularly worrisome is the participation of U.S. allies, notably Japan, Australia, and South
+Korea, in U.S. BMD.45 Beijing believes that U.S. and allied BMD systems enhance U.S.
+national missile defense, and hence undermine China’s ­s econd-strike capability which
+has so far relied on a limited arsenal of ­land-based nuclear warheads and intercontinental ballistic missiles (ICBMs).46 The case of China’s economic retaliation in response to
+the deployment of the Terminal High Altitude Area Defense (THAAD) system in South
+Korea exemplifies that Chinese strategic thinkers consider U.S. BMD assets a threat to
+China’s security.47 Alarmed by improving U.S. BMD capabilities as well as the U.S. conventional prompt global strike (CPGS) program, China must invest in a more robust
+nuclear deterrent.48 In addition to increasing the number of the PLA Rocket Force’s
+­l and-based ICBMs and the assignment of a nuclear mission to the PLA Air Force, the
+PLAN too has become an integral part of China’s nuclear deterrent.49 The SCS is critical
+in this endeavor: since China’s other littoral seas, namely the Yellow and East China Seas,
+are shallow with water depths of no more than 200 m, the SCS is, with an average depth
+of 1,210 m and an abyssal plain of 4,300 m depth, the only space where PLAN SSBNs can
+access deeper waters without having to pass the first island chain and risk detection by
+U.S. or allied sensors.50
+Numerous analyses and specialist publications concur that China is pursuing a
+­so-called “nuclear bastion” in the SCS.51 The adoption of a nuclear bastion, a strategic concept originally used by the Soviet Union in the Okhotsk and Barents Seas, 52 solves two
+related issues. First, global patrols of ­nuclear-armed SSBNs as practiced by the United
+States, the United Kingdom, and France, are highly complex, and the PLAN may plausibly
+lack the operational skills to conduct them.53 Second, a nuclear bastion in the SCS partly
+solves the littoral dilemma, i.e., above mentioned problem of PLAN SSBNs’ potential detection when attempting to slip through the first island chain, past U.S. allies, and into the
+Pacific proper; this would then simply not be necessary.54 The development of l­ ong-range
+­submarine-launched ballistic missiles (SLBMs) that can be mounted on China’s J­ in-class
+SSBNs, 55 such as the ­C SS-N-14 (­J L-2) and more recently the ­J L-3, 56 supports the assertion
+that China pursues a nuclear bastion, enabling China to hold at risk U.S. and allied military
+and civilian targets across the ­Indo-Pacific and the continental United States.57
+Given the nuclear bastion’s strategic importance, China needs to be able to protect
+its ­nuclear-armed SSBNs in the SCS. The establishment of China’s “Underwater Great
+Wall” will do just that.58 The militarization of the SCS, notably the creation of artificial
+islands and the construction of military infrastructure on them, enables the deployment
+of ­a nti-submarine warfare (ASW) systems to deter or destroy enemy attack submarines
+that could harm PLAN’s SSBNs in the SCS.59 Such infrastructure includes helipads and
+­a ir-strips for A
+­ SW-capable helicopters and patrol planes, which both have been identified
+on China’s artificial islands.60 On Woody Island, part of the Paracels, China has furthermore constructed facilities to collect and synthesize oceanographic data from satellites
+and sonar buoys, which would provide PLAN units operating in the SCS with situational
+awareness of activities above, on, and below the SCS surface.61
+16
+
+Journal of Territorial and Maritime Studies, Summer/Fall 2022
+
+4.3 China’s Space Program and the Wenchang Space Launch Center on Hainan
+Space as a military domain implicates all other domains, namely land, air, sea, and
+cyber. In its defense white papers, China emphasizes its ambitions of force modernization
+and informationization.62 To conduct n
+­ et-centric warfare, the PLA requires independent
+systems in earth’s orbit. Furthermore, if China wants to become a regional hegemon in the
+­Asia-Pacific, as it is prescribed in the Chinese Dream, the PLA must first become a technological ­peer-competitor to U.S. forces, which it has not yet achieved.63 This requires autarky
+in global positioning and communications infrastructure. Specialist publications discuss
+the necessity of s­ pace-based systems to develop the kind of A2/AD and power projection
+capability that China’s defense white papers devise,64 but China’s space program has been
+largely absent in debates about Chinese activity in the SCS.
+An exception is the work by Kirchberger and O’Keeffe, who point to the construction
+and protection of the Wenchang Space Launch Center (WSLC) on Hainan as an important
+variable that informs China’s policy toward the SCS.65 WSLC’s geographic location on the
+southern Chinese island Hainan makes it China’s quintessential location to launch satellites into various orbits that enable different communications- and e­ arth-surface observation missions. Those are geostationary (GEO), ­low-earth (LEO), and ­sun-synchronous
+
+Map 4: Approximate Flight Corridors of WSLC-Launched Rockets Source: By author, created with
+Google Earth, based on Sarah Kirchberger and Patrick O’Keeffe, “Chinas Schleichende Annexion Im
+Südchinesischen Meer-Die Strategischen Hintergründe [China’s Creeping Annexation in the South
+China Sea],” SIRIUS—Zeitschrift Für Strategische Analysen [Journal of Strategic Analysis] 3(1) (2019),
+pp. 3–20.
+
+Control Through Cooperation?
+
+17
+
+(SSO) orbits (See Map 4).66 Thanks to Hainan’s proximity to the equator, WSLC raises the
+Chinese space program’s maximum payload by 15% compared to spaceports in Xichang,
+Taiyuan, and Jiuquan.67 The increased payload enables China to launch heavy military
+and ­dual-use systems, such as China’s orbital space station ­Tiangong-2.68 WSLC can
+launch the Long M
+­ arch-5, China’s most powerful rocket.69 It furthermore has the advantage of allowing rockets and equipment to be delivered by ship, significantly increasing
+the capacity over other spaceports that are supplied by railroad.70 WSLC has been under
+construction since 2009 and was completed in 2014.71 In June 2016, the first successful
+launch was conducted.72
+Space vessels ascending out of WSLC would take one of three potential corridors—
+depending on the orbit—all of which lead over the SCS. In the early stages of ascent, rockets are vulnerable to directed energy, kinetic, as well as electronic warfare attacks such as
+spoofing and jamming.73 Since s­ pace-based systems are of utmost importance for the PLA
+to operate modernized, informationized forces and to compete with the United States, it is
+not surprising that China is building a secure, A2/­A D-based defense perimeter across the
+SCS.74 It should also be noted that Chinese artificial island building in the SCS accelerated
+one year ahead of WSLC’s construction.75
+
+V. Corroborating the Alternative
+Explanation: China’s Conditional Offers
+of Cooperation with Littoral States
+Until the 1990s, China pursued a comparatively aggressive policy and occupied
+numerous territorial features of the SCS by force, particularly in the Paracels and Spratlys,
+leading to a number of violent exchanges between the PLA and the militaries of Vietnam
+and the Philippines.76 But China’s unlawful occupation of SCS territorial features, e.g., of
+Mischief Reef in 1994, also led to considerable diplomatic backlash, incentivizing the Chinese leadership to explore other options to safeguard its strategic interests in the SCS. By
+the mid–1990s China adapted its SCS policy in two significant ways.
+First, China harmonized territorial claims in the SCS with the evolving international
+regime on maritime law. Importantly, China ratified UNCLOS in 1996.77 In addition, China
+codified its territorial claims through the passage of domestic legislation. In the late 1990s,
+China’s National People’s Congress passed numerous laws that define China’s territorial rights to its adjacent waters.78 However, Fravel points out that China left its territorial
+claims in the SCS purposely ambiguous, and numerous claims promulgated through these
+various legal sources are contradictory. For instance, China’s EEZ claims, the invocation of
+historical rights, and UNCLOS are incompatible with each other.79
+Second, China deployed a “delaying strategy” throughout the late 1990s and 2000s,
+using lengthy legislative processes to defend its territorial gains of the early 1990s.80 Beijing
+also engaged with regional states through bilateral and multilateral agreements, such as
+the 1995 Code of Conduct (CoC) with the Philippines81 or the 2002 Declaration of Conduct
+(DoC) with ASEAN, signed at the 8th ASEAN summit in November 2002 in Phnom Penh.82
+The 2002 DoC marks the first time that China signed a multilateral agreement relating
+18
+
+Journal of Territorial and Maritime Studies, Summer/Fall 2022
+
+to the governance of the SCS. Previously, Beijing had sought to solve SCS disputes and
+disagreements on territorial questions through bilateral negotiations. China also offered
+regional states to cooperate in multilateral projects to explore the SCS seabed and locate
+fossil fuels. A prominent example is the 2005 Joint Marine Seismic Undertaking (JMSU)
+with the Philippines and Vietnam.
+The remainder of this section concentrates on the second dimension of China’s efforts
+to engage SCS littoral states in cooperation projects that would, if successful, result in
+cooperation on SCS ocean governance, shared control over shipping lanes, and joint development of SCS resources (hydrocarbons, fish). The analysis focuses on Chinese bilateral
+engagement with the Philippines as a representative case and multilateral engagement
+through ASEAN.
+
+5.1 Chinese Offers of Cooperation in the South China Sea:
+The Example of the Philippines and ASEAN
+Coinciding with improving ­China-Philippine diplomatic relations in the first decade
+of the 21st century, Beijing found ways to cooperate with Manila in the SCS. At a h
+­ igh-level
+dialogue in Beijing in September 2004, Chinese Premier Wen Jiabao offered Philippine
+President Gloria Macapagal Arroyo to join efforts in promoting SCS ocean governance and
+maritime security, including sea rescue, disaster mitigation, and joint exercises.83 They also
+agreed to find a solution, in line with UNCLOS, to their contradicting territorial claims in
+the SCS and to jointly develop natural resources.84 China and the Philippines agreed on
+the JMSU with the objective of jointly gathering and analyzing data on the SCS seabed in
+preparation for ensuing joint development of hydrocarbons.85 Through the JMSU, China
+hoped to solve the SCS disputes first bilaterally and, when Hanoi joined in March 2005,
+trilaterally.86
+During Chinese President Hu Jintao’s visit to Manila in April 2005, on the 30th anniversary of S­ ino-Philippine diplomatic relations, Manila and Beijing agreed to cooperate
+on numerous issues relating to trade, investment, infrastructure development, and agriculture. The two parties also signed an MOU on Defense Cooperation and initiated a consultation mechanism on defense and security between the Philippine and Chinese defense
+departments.87 They further expressed their mutual will to maintain peace and stability
+in the SCS, to cooperate with other ASEAN members to implement the 2002 DoC, and to
+work with Vietnam within the framework of the JMSU.88
+However, over the following years, China’s relations with the Philippines and other
+ASEAN states deteriorated. This deterioration was in no small part due to SCS littoral
+states’ opposition to Chinese illegal territorial claims in the SCS. Not surprisingly, this
+adversely affected China’s efforts to solve SCS disputes with littoral states through bi- and
+multilateral agreements in a fashion that would still guarantee China’s physical control
+over the SCS. In the case of the Philippines, controversies over Chinese Official Development Assistance (ODA) led to a graft investigation by the Philippine Senate. As a result,
+numerous C
+­ hinese-financed infrastructure and agriculture development projects were
+canceled in 2007.89 Philippine public attention also turned to the JMSU, which was suspected to undermine Philippine territorial rights in the SCS by giving Chinese and Vietnamese energy corporations access to Philippine maritime territory.90 The JMSU was then
+Control Through Cooperation?
+
+19
+
+continued by the three parties and finalized in 2009, but it was kept under the radar and the
+results were not publicized by any of the three governments.91
+In the subsequent years, the dispute between China and the Philippines over territorial rights in the SCS escalated. This dispute notably began in the late years of Arroyo’s
+second presidential term (June 2004–June 2010) and was carried into the Aquino administration (June 2010–June 2016). Initially, President Aquino sought to improve relations with
+China, especially in economic terms.92 To do so, Aquino spent considerable political capital
+and joined a 1­ 9-state coalition supporting China’s boycott of the Nobel Peace Prize award
+to Chinese dissident Liu Xiaobo in December 2010. Manila also extradited 14 Taiwanese
+nationals to China in February 2011.93 With regards to the SCS, however, Aquino insisted
+on Philippine territorial rights.94 The Aquino administration launched a Long Term Capability Development Plan to enhance Philippine defense capabilities, especially of the Navy
+and Air Force, and improved security cooperation with the United States in 2011, which
+went h
+­ and-in-glove with the Obama administration’s Pivot to Asia, further exacerbating
+discord between Manila and Beijing.95 The S­ ino-Philippine dispute, which started with the
+Scarborough Shoal incident in April 2012 and led to the arbitration case brought by the
+Philippines against China in January 2013, has been discussed in detail by previous publications.96 For this article’s purpose, it should be noted that throughout the Aquino administration and until Rodrigo Duterte’s inauguration as President of the Philippines in July
+2016, Beijing extended no meaningful offers to cooperate with Manila on SCS ocean governance and resource exploration, neither bilaterally nor through ASEAN (cf. Figure 1).
+Already during his presidential campaign, Duterte announced that he would repair
+the ­Sino-Philippine relationship and reverse his predecessor’s confrontational stance on
+China and the SCS.97 He also signaled early in his Presidency that he would engage in bilateral talks with China,98 and that joint maritime patrols with the United States would not
+continue.99 Duterte also declared that he would not give much importance to the PCA ruling and would rather seek a bilateral solution with China on the SCS issue. A bilateral solution, of course, would notably come with the exclusion of ­extra-regional players, i.e., the
+United States, and ignore international courts’ rulings, precisely reflecting China’s interest. China–ASEAN level efforts to advance and implement the 2002 DoC as well as the 2014
+Code for Unplanned Encounters at Sea (CUES) also made progress in the following months,
+notably at the 19th ­China-ASEAN summit in September 2016 in Vientiane.100 Throughout
+the prior four years, the S­ ino-Philippine territorial dispute had been an obstacle to improving SCS maritime security and resolving territorial issues, on bilateral as well as on the
+multilateral A
+­ SEAN-China level.101
+President Duterte visited Beijing on October 20–22, 2016, where he and Xi announced
+to resume talks on the SCS territorial dispute.102 On October 29, just one week later, Beijing
+granted Philippine fishers access to the Scarborough Shoal (within the Philippine EEZ),
+which is under effective Chinese control since April 2012.103 In December 2016, Beijing and
+Manila even considered the formation of a joint coast guard, 104 which, however, did not
+materialize in the end. Over the following two years, Manila and Beijing also discussed
+cooperation on issues such as marine environmental protection, fisheries, marine scientific research, hydrocarbon development, and implementation of the CoC and DoC.105 For
+instance, in July 2017, Beijing expressed support for a ­Sino-Philippine joint hydrocarbon
+development project.106 During Duterte’s presidency, PLAN ships even made port calls in
+20
+
+Journal of Territorial and Maritime Studies, Summer/Fall 2022
+
+the Philippines, all the while China’s illegal militarization of the SCS, notably in the Spratlys and Paracels, continued.107
+
+Table 1: Chinese Offers to Cooperate and Share
+SCS Resources with the Philippines and ASEAN
+August 1995
+China—Philippines; Signing of SCS CoC.
+November 2002
+China—ASEAN; Signing of DoC in the SCS.
+November 2004
+China—Philippines; Beijing offers to cooperate on SCS security (sea
+	   rescue, disaster mitigation, joint exercises), agree to find solution based
+	   on UNCLOS, JMSU.
+March 2005
+China—Philippines—Vietnam; Hanoi joins JMSU.
+April 2005
+China—Philippines; MOU on defense cooperation, agree to implement
+	   2002 DoC, work with Vietnam on JMSU.
+July–August 2016 China—ASEAN; Agree to advance and implement the DoC and CUES.
+October 2016
+China—Philippines; Beijing “grants” Philippine fishers access to
+	  Scarborough Shoal.
+May 2017
+China—Philippines; PLAN port call to Davao, Mindanao on Manila’s
+	  invitation.
+July 2017
+China—Philippines; Beijing proposes joint S­ ino-Philippine hydrocarbon
+	  development project.
+
+VI. Synthesis: Cooperation as Means to the
+End of Controlling the South China Sea
+The above analysis demonstrates through the example of the Philippines that China
+has, on numerous occasions, sought to invite SCS littoral states to cooperate in bilateral
+and multilateral frameworks to enhance maritime security, jointly police shipping routes,
+contribute to ocean governance, and to share resources (hydrocarbon, fish). The common
+explanation relating to economic, or nontraditional, security can hence be refuted. To the
+contrary, China has tried to involve individual states like the Philippines as well as ASEAN
+in efforts to jointly govern the SCS and share its resources. What needs to present, from
+Beijing’s perspective, is that the littoral state effectively gives up its EEZ and accepts that
+China, in principle, possesses territorial rights over the entire SCS, per its ­9-Dash Line.
+Notably, such acceptance of China’s demands was absent during the Aquino presidency.
+During Arroyo’s (2001–2010) and later Duterte’s (2016–2022) presidencies, on the other
+hand, Philippine insistence on territorial rights was less pronounced, enabling China to use
+cooperation projects to consolidate its illegal territorial claims.
+The above analysis demonstrates that if a littoral state accepts China’s illegal claims,
+Beijing will cooperatively grant access to SCS resources. To clarify: the littoral state will
+be granted access to maritime territory that is, under UNCLOS, already within its EEZ.
+For instance, in the early to mid–2000s, Beijing invited Manila, and later Hanoi, to jointly
+explore the SCS seabed at a time when relations were stable, and the Arroyo administration prioritized commercial exchanges with China over territorial rights. This changed in
+the final years of Arroyo’s and throughout Aquino’s presidency. Similarly, once Duterte,
+by ignoring the PCA ruling, effectively accepted China’s territorial claims in 2016, Beijing
+swiftly permitted Philippine fishers to again access the Scarborough Shoal, which is within
+Control Through Cooperation?
+
+21
+
+the Philippine EEZ but under Chinese control since 2012. In other words, once Duterte gave
+in to China’s Realpolitik and ignored his country’s legally assured territorial rights under
+UNCLOS, Philippine marine industry workers were able to return to C
+­ hinese-controlled
+territory within the Philippine EEZ.
+Indeed, Chinese scholars concur that the Chinese government is willing to share
+resources with littoral states, as long as China’s territorial claims are accepted. Xu and Cao,
+for instance, assert that China’s approach to maritime disputes in the SCS, and engagement
+with littoral states, is guided by four principles:
+1. The prerequisite is that the SCS is China’s sovereign maritime territory.
+2. Disputes over sovereignty should be shelved until conditions improve and the eventual
+settlement is possible, but the claim of sovereignty cannot be given up.
+3. China may conduct joint resource development with regional states in disputed
+maritime territory.
+4. The purpose of joint development with regional states is to create conditions for the
+eventual consensual settlement of disputes through cooperation and promotion of mutual
+understanding.108
+Especially principles (3) and (4) are instructive to understand the role that SCS
+resources have in Chinese strategy, and how China utilizes joint development for its strategic interests. China seeks to bind regional states into mutually lucrative cooperation
+projects, thus incentivizing regional states to eventually accept China’s territorial claims
+to secure continued access to SCS resources. This is supported by the previous section’s
+analysis. China’s leveraging of economic interdependence in this context is reminiscent
+of its economic statecraft in other contingencies like the South Korean THAAD case or
+more recently Chinese import restrictions of a wide range of Australian goods.109 Cha and
+Lim refer to this practice as China’s “Predatory Liberalism” whereby China “engages in the
+global trading order up until the point when it chooses not to […]. Instead, China leverages
+the vulnerability that interdependence creates in a predatory fashion.”110
+It can be concluded that the driver behind China’s SCS policy—which is sometimes
+aggressive/coercive and sometimes cooperative—cannot be the securing of control over
+commercial SLOCs and maritime resources. Rather, China employs offers of cooperation in ocean governance and in developing SCS resources to garner regional states’ acquiescence on the question of territoriality, and eventual acceptance of effective Chinese
+control. The example of China’s engagement toward the Philippines and ASEAN demonstrates this. China demands undisputed sovereignty over the SCS, not merely exclusive
+access to resources. The objective of undisputed control over the SCS is to realize China’s
+­m ilitary-strategic objectives, namely the development of A2/AD, establishing the SCS as a
+nuclear bastion, and securing the airspace above the SCS for rocket launches from WSLC
+on Hainan. These ­m ilitary-strategic objectives require undisputed access to the entire SCS
+and all its territorial features on which military installations such as radars, missiles, runways, harbors, etc., can be deployed. In Beijing’s calculation, the best way to achieve this is
+to leverage joint cooperative relationships with regional states. If this is not reciprocated,
+as was the case with the Philippines between 2012 and 2016, China will instead use military
+and economic coercive power to assume control of SCS territory, even within the EEZ of
+other littoral states.
+22
+
+Journal of Territorial and Maritime Studies, Summer/Fall 2022
+
+The above analysis hence supports the alternative explanation of China’s militarystrategic interests to be the driver of Chinese actions. This explanation already exists in specialist publications but has been ignored by many academic and most journalistic accounts.
+By demonstrating that China—absent littoral states’ strong opposition—in fact readily
+offers cooperation on ocean governance and joint resource exploration as means to eventually gain undisputed control over the SCS, the common explanation relating to economic
+security can be refuted. The alternative explanation relating to China’s ­m ilitary-strategic
+interests, however, holds up against the above analysis. The explanation of nationalism can
+neither be refuted nor corroborated. It can hence be accepted as another contributing variable until it is either verified or falsified by future empirical analyses.
+
+VII. Conclusion
+Disputes in the SCS are well researched subject matter within the discipline of international security- and strategic studies. China’s role in these disputes is preeminent due to
+its relative economic size and military power on the one hand, and its aggressive courses
+of action, illegal island building, and disregard for international law on the other. Beijing’s
+aggressive approach and illegal island building are commonly explained as a function of
+economic security considerations, namely the control of SLOCs and access to fish and
+hydrocarbon resources. The alternative explanation posits that China’s m
+­ ilitary-strategic
+interests are the driver behind its actions in the SCS. As this article demonstrates, the alternative explanation is reconcilable with the fact that China also offers cooperation in ocean
+governance and joint resource exploration to littoral states. The m
+­ ilitary-strategic explanation is hence corroborated, whereas the common explanation relating to control over
+SLOCs and resources can be refuted.
+It is demonstrated that China’s SCS policy, specifically its offers of cooperation with
+littoral states, can be explained as means to consolidate China’s physical control over the
+SCS, further underwriting its m
+­ ilitary-strategic objectives. Chinese scholars concur that
+joint exploration of SCS resources serves as a coercive tool to incentivize littoral states to
+cooperate and to effectively accept China’s illegal claims. Once cooperation yields lucrative results, the littoral state’s costs of disputing Chinese illegal territorial claims, and thus
+losing out on the exploration business, would be significantly higher. Of course, economic
+factors will also inform Chinese foreign policy, but China’s willingness to share resources
+demonstrates that this cannot explain its aggressive behavior toward littoral states. While
+the Philippines and ASEAN are useful case studies, SCS disputes are ­multi-faceted, and
+this article’s analysis is only partly representative of China’s engagement with other SCS littoral states. Future research may explore Beijing’s assertive as well as cooperative coercive
+policies toward further regional states to improve our understanding of China’s strategic
+ambitions toward the SCS.
+Last but not least, the findings of this article have policy implications for SCS littoral
+states, ASEAN, and states from the wider A
+­ sia-Pacific region, including the United States.
+It has been known that China disregards UNCLOS since it denied the PCA jurisdiction
+over SCS disputes and announced that it will not accept the ruling. So far, territorial disputes between SCS littoral states and China were understood to be driven by considerations
+Control Through Cooperation?
+
+23
+
+relating to resources and shipping lanes. If that were the case, bilateral and multilateral
+cooperation projects such as the JSMU or the CoC and DoC would seem like a solution.
+However, it appears that China merely uses offers of cooperation as a means, a policy tool
+so to say, to control littoral states with economic inducements. The end of China’s actions in
+the SCS, however, is to secure m
+­ ilitary-strategic objectives and to establish A2/AD, operate
+a nuclear bastion, and protect rockets launched from its spaceport on Hainan. Understanding China’s true objectives in the SCS as well as the limited impact that UNCLOS and international law more generally have on China’s foreign policy will be crucial in finding a more
+robust solution to the ongoing territorial disputes.
+
+Acknowledgments
+Maximilian Ernst would like to thank the editors of the Journal of Territorial and
+Maritime Studies for the competent management of the ­peer-review and publication process and two anonymous reviewers for useful comments and edits. An earlier version of
+this article was presented at the Dreizack Maritime Security Conference organized by the
+Institute for Security Policy Kiel (ISPK) in November 2021. Comments and suggestions by
+conference participants contributed to the present research. Special thanks go to Tongfi
+Kim, Jon Dannemann, and Da Hee Jeon for detailed comments and suggestions on the
+manuscript.
+
+Notes
+1. For a discussion of this dilemma, see also: Maximilian Ernst, “Costs of Coercion: Predicaments
+of Chinese Statecraft in the ­A sia-Pacific,” Global Politics Review 7(1) (2021), pp. 6–17.
+2. Swaran Singh, “Continuity and Change in China’s Maritime Strategy,” Strategic Analysis 23(9)
+(December 1999), pp. 1493–1508, https://doi.org/10.1080/09700169908455139; Ross Babbage, “Countering China’s Adventurism in the South China Sea” (Washington, D.C.: Center for Strategic and Budgetary
+Assessments, 2017), pp. 11–12.
+3. Kheng Swe Lim, “China’s Nationalist Narrative of the South China Sea: A Preliminary Analysis,”
+in Power Politics in Asia’s Contested Waters, ed. Enrico Fels and T
+­ ruong-Minh Huy Vu (Berlin: Springer,
+2016), pp. 159–172, https://doi.org/10.1007/­978-3-319-26152-2_8; Bill Hayton, “The Modern Origins of
+China’s South China Sea Claims: Maps, Misunderstandings, and the Maritime Geology,” Modern China
+45(2) (March 2019), pp. 127–170, https://doi.org/10.1177/0097700418771678.
+4. Sarah Kirchberger and Patrick O’Keeffe, “Chinas Schleichende Annexion im Südchinesischen
+­Meer-die Strategischen Hintergründe [China’s Creeping Annexation in the South China Sea],” SIRIUS—Zeitschrift Für Strategische Analysen [Journal of Strategic Analysis] 3(1) (2019), pp. 3–20, https://doi.
+org/10.1515/­sirius-2019-1002.
+5. Chen Guang Ang, “The South China Sea Dispute ­Re-Visited,” IDSS Working Paper Series (Singapore: Institute for Defence and Strategic Studies, 1999).
+6. Toshi Yoshihara, “The 1974 Paracels Sea Battle,” Naval War College Review 69(2) (2016), pp.
+41–65.
+7. Koh Swee Lean Collin and Minh Tri Ngo, “Learning from the Battle of the Spratly Islands,” The
+Diplomat, March 20, 2018, https://thediplomat.com/2018/03/­learning-from-the-battle-of-the-spratlyislands/, accessed May 5, 2022.
+8. Greg Austin, “Unwanted Entanglement: The Philippines’ Spratly Policy as a Case Study in Conflict
+Enhancement?,” Security Dialogue 34(1) (2003), pp. 41–54, https://doi.org/10.1177/09670106030341005.
+9. A useful overview is provided by: Christine Elizabeth Macaraig and Adam James Fenton, “Analyzing the Causes and Effects of the South China Sea Dispute,” Journal of Territorial and Maritime Studies 8(2) (2021), pp. 42–58.
+
+24
+
+Journal of Territorial and Maritime Studies, Summer/Fall 2022
+
+10. Except for Taiwan, which at least officially claims portions of the SCS similar to those of the
+PRC. Still, Taiwan does not assert its claims through naval presence or violations of other claimants’ EEZ.
+Kimberly L. Wilson, “Party Politics and National Identity in Taiwan’s South China Sea Claims,” Asian
+Survey 57(2) (April 2017), pp. 271–296, https://doi.org/10.1525/as.2017.57.2.271.
+11. Viet Hoang, “The Code of Conduct for the South China Sea: A Long and Bumpy Road,” The Diplomat, September 8, 2020, https://thediplomat.com/2020/09/­t he-code-of-conduct-for-the-south-chinasea-a-long-and-bumpy-road/, accessed May 5, 2022.
+12. Tom Miller, China’s Asian Dream: Empire Building along the New Silk Road (London: Zed
+Books, 2019), p. 199.
+13. Permanent Court of Arbitration, “The South China Sea Arbitration (The Republic of Philippines v. The People’s Republic of China),” ­P CA-CPA, January 22, 2013, https://­p ca-cpa.org/en/
+cases/7/#:~:text=On%2022%20January%202013%2C%20the, accessed May 5, 2022.
+14. Ryan D. Martinson, “Echelon Defense: The Role of Sea Power in Chinese Maritime Dispute
+Strategy,” CMSI Red Books (New Port, RI: U.S. Naval War College, 2018), pp. 1–3.
+15. Christina Lai, “Acting One Way and Talking Another: China’s Coercive Economic Diplomacy
+in East Asia and Beyond,” The Pacific Review 31(2) (2018), pp. 169–187, https://doi.org/10.1080/09512748
+.2017.1357652; Ketian Zhang, “Cautious Bully: Reputation, Resolve, and Beijing’s Use of Coercion in the
+South China Sea,” International Security 44(1) (2019), pp. 117–159, https://doi.org/10.1162/isec_a_00354.
+16. Bernard D. Cole, The Great Wall at Sea: China’s Navy in the T
+­ wenty-First Century, 2nd ed.
+(Annapolis, MD: Naval Institute Press, 2010), p. 49; Michael Lelyveld, “Mideast Oil Drives China Disputes,” Radio Free Asia, July 18, 2011, https://www.rfa.org/english/commentaries/energy_watch/­
+oil-07182011103202.html, accessed May 5, 2022.
+17. China Power Project, “How Much Trade Transits the South China Sea?,” CSIS, n.d., https://
+chinapower.csis.org/­much-trade-transits-south-china-sea/, accessed May 5, 2022.
+18. Global Security, “South China Sea Oil Shipping Lanes,” n.d., https://www.globalsecurity.org/
+military/world/war/­spratly-ship.htm, accessed May 5, 2022.
+19. Cesare M. Scartozzi et al., “Connecting Northeast Asia: Renewable Energy and Prospects for
+Cooperation,” Asian Perspective 45(4) (2021), pp. 761–783, https://doi.org/10.1353/apr.2021.0040.
+20. China Power Project, “How Much Trade Transits the South China Sea?”
+21. Beina Xu, “South China Sea Tensions,” Council on Foreign Relations, May 14, 2014, https://www.
+cfr.org/backgrounder/­south-china-sea-tensions, accessed May 5, 2022.
+22. Toshi Yoshihara, “Chinese Maritime Geography,” in Strategy in Asia: The Past, Present, and
+Future of Regional Security, eds. Thomas G. Mahnken and Dan Blumenthal (Stanford: Stanford University Press, 2014), pp. 43–60.
+23. Evan Braden Montgomery, “Reinforcing the Front Line: U.S. Defense Strategy and the Rise of
+China,” (Washington, D.C.: Center for Strategic and Budgetary Assessments, 2017), p. 32.
+24. Marc Lanteigne, “China’s Maritime Security and the ‘Malacca Dilemma,’” Asian Security 4(2)
+(2009), pp. 143–161, https://doi.org/10.1080/14799850802006555.
+25. AMTI, “South China Sea Energy Exploration and Development,” Asia Maritime Transparency
+Initiative, n.d., https://amti.csis.org/­s outh-china-sea-energy-exploration-and-development/, accessed
+May 5, 2022.
+26. Ethen Kim Lieser, “How Much Oil and Gas Is Contained in the South China Sea?,” National
+Interest, February 22, 2021, https://nationalinterest.org/blog/buzz/­how-much-oil-and-gas-containedsouth-china-sea-178587, accessed May 5, 2022.
+27. Eugene C. LaFond, “South China Sea: Economic Aspects,” Britannica, April 16, 2020, https://
+www.britannica.com/place/­South-China-Sea/­E conomic-aspects, accessed May 5, 2022.
+28. Clive Schofield, “Fish, Not Oil, at the Heart of the South China Sea Conflict,” Fridtjof Nansens
+Institutt, October 24, 2017, https://www.fni.no/news/­fi sh-not-oil-at-the-heart-of-the-south-china-seaconflict-article1556-330.html, accessed May 5, 2022.
+29. LaFond 2020.
+30. Xu 2014.
+31. Ben Dolven et al., “Chinese Land Reclamation in the South China Sea: Implications and Policy
+Options” (Washington, D.C.: Congressional Research Service, June 2015), p. 19.
+32. See for example: Robert S. Ross, “The Problem with the Pivot,” Foreign Affairs, December 2012,
+https://www.foreignaffairs.com/articles/asia/­2 012-11-01/­problem-pivot, accessed May 5, 2022; Aileen
+Baviera, “Domestic Interests and Foreign Policy in China and the Philippines Implications for the South
+China Sea Disputes,” Philippine Studies: Historical & Ethnographic Viewpoints 62(1) (2014), pp. 133–143,
+
+Control Through Cooperation?
+
+25
+
+https://doi.org/10.1353/phs.2014.0005; Suisheng Zhao, “Foreign Policy Implications of Chinese Nationalism Revisited: The Strident Turn,” Journal of Contemporary China 22(82) (July 2013), pp. 535–553, https://
+doi.org/10.1080/10670564.2013.766379.
+33. Masayuki Masuda, “China: Quest for a G
+­ reat-Power Role,” in East Asian Strategic Review, ed.
+Shinji Hyodo (Tokyo: National Institute for Defense Studies, 2017), pp. 73–102.
+34. Stein Ringen, The Perfect Dictatorship: China in the 21st Century (Hong Kong: Hong Kong University Press, 2016), pp. 10–11, https://doi.org/10.5790/hongkong/9789888208937.001.0001.
+35. Mathieu Duchâtel and Eugenia Kazakova, “Tensions in the South China Sea: The Nuclear
+Dimension,” SIPRI, August 27, 2015, https://www.sipri.org/commentary/essay/2015/­t ensions-southchina-sea-nuclear-dimension, accessed May 5, 2022; Rex Li, “China’s Sea Power Aspirations and Strategic
+Behaviour in the South China Sea from the Theoretical Perspective of Identity Construction,” in Power
+Politics in Asia’s Contested Waters, ed. Enrico Fels and T
+­ ruong-Minh Huy Vu (Berlin: Springer, 2016), pp.
+117–137, https://doi.org/10.1007/­978-3-319-26152-2_6; Toshi Yoshihara and James R. Holmes, Red Star
+Over the Pacific: China’s Rise and the Challenge to U.S. Maritime Strategy, 2nd ed. (Annapolis, MD: Naval
+Institute Press, 2018), pp. 199–203.
+36. Jinping Xi, The Governance of China (Beijing: Foreign Languages Press Co. Ltd., 2014), p. 53.
+37. Yoshihara and Holmes, Red Star Over the Pacific, pp. 1–2.
+38. China Power Project, “How Is China Modernizing Its Navy?,” CSIS, n.d., https://chinapower.
+csis.org/­china-naval-modernization/, accessed May 5, 2022.
+39. Stephen Biddle and Ivan Oelrich, “Future Warfare in the Western Pacific: Chinese Antiaccess/
+Area Denial, U.S. AirSea Battle, and Command of the Commons in East Asia,” International Security
+41(1) (July 2016), pp. 7–48, https://doi.org/10.1162/ISEC_a_00249.
+40. Yoshihara and Holmes 2018, pp. 71–94.
+41. Ibid., p. 202.
+42. Vengalil Venugopal, “How Effective Is China’s A2/AD in the South China Sea,” 9dashline, June
+9, 2020, https://www.9dashline.com/article/­how-effective-is-chinas-a2/­ad-in-the-south-china-sea?s=08,
+accessed May 5, 2022; Thomas G. Mahnken, “China’s ­A nti-Access Strategy in Historical and Theoretical
+Perspective,” Journal of Strategic Studies 34(3) (2011), pp. 299–323, https://doi.org/10.1080/01402390.201
+1.574971.
+43. Minh Tri Ngo, “China’s A2/AD Challenge in the South China Sea: Securing the Air from the
+Ground,” The Diplomat, May 19, 2017, https://thediplomat.com/2017/05/­chinas-a2ad-challenge-in-thesouth-china-sea-securing-the-air-from-the-ground/, accessed May 5, 2022.
+44. Eric Heginbotham et al., The U.S.–China Military Scorecard: Forces, Geography, and the Evolving Balance of Power 1996–2007 (Santa Monica, CA: RAND Corporation, 2015), p. 93; Kirchberger and
+O’Keeffe 2019, p. 10, https://doi.org/10.7249/RR392.
+45. Kingston Reif, “U.S. and Allied Ballistic Missile Defenses in the ­A sia-Pacific Region,” Arms
+Control Association, January 2019, https://www.armscontrol.org/factsheets/­u s-allied-ballistic-missiledefenses-asia-pacific-region, accessed May 5, 2022.
+46. Riqiang Wu, “China’s Anxiety About U.S. Missile Defence: A Solution,” Survival 55(5) (October
+2013), pp. 29–52, https://doi.org/10.1080/00396338.2013.841803.
+47. Maximilian Ernst, “When Coercion Fails, Then What? An Analysis of Chinese Balancing
+Responses to THAAD Deployment in the Republic of Korea,” in Next Generation Perspectives on Korean
+Peninsula Security, ed. Susan A. Thornton and Juliet Lee (New York: National Committee on American
+Foreign Policy, 2021), pp. 113–129.
+48. Thomas G. Mahnken et al., “Understanding Strategic Interaction in the Second Nuclear Age”
+(Washington, D.C.: Center for Strategic and Budgetary Assessments, 2019), pp. 72–75.
+49. U.S. Department of Defense, “Military and Security Developments Involving the People’s
+Republic of China 2020,” Annual Report to Congress (Washington, D.C.: Office of the Secretary of
+Defense, 2020), pp. 49, 55–56, 60–62, 90–94.
+50. Sarah Kirchberger, Assessing China’s Naval Power (Berlin: Springer, 2015), pp. 47–49, https://
+doi.org/10.1007/­978-3-662-47127-2.
+51. Duchâtel and Kazakova, 2015; Brittney Washington, “The South China Sea and Nuclear Deterrence in the Asia Pacific,” in Project on Nuclear Issues, ed. Mark Cancian (Center for Strategic and International Studies (CSIS), 2017), pp. 115–125; Tong Zhao, “Tides of Change: China’s Nuclear Ballistic
+Missile Submarines and Strategic Stability” (Washington, D.C.: Carnegie Endowment for International
+Peace, 2018), p. 28; Michael Paul, “Maritime Nuclear Deterrence: S­ ubmarine-Launched Ballistic Missiles
+in the South China Sea,” SWP Comment (Berlin: SWP, October 2018); Kirchberger and O’Keeffe, 2019.
+
+26
+
+Journal of Territorial and Maritime Studies, Summer/Fall 2022
+
+52. Gjert Lage Dyndal, “50 Years Ago: The Origins of NATO Concerns About the Threat of Russian Strategic Nuclear Submarines,” NATO Review, March 24, 2017, https://www.nato.int/docu/review/
+articles/2017/03/24/­5 0-years-ago-the-origins-of-nato-concerns-about-the-threat-of-russian-strategicnuclear-submarines/index.html, accessed May 5, 2022.
+53. Robert G. Loewenthal, “Cold War Insights into China’s New ­Ballistic-Missile Submarine Fleet,”
+in China’s Future Nuclear Submarine Force, eds. Andrew S. Erickson et al. (Annapolis, MD: Naval Institute Press, 2007), pp. 286–303; Kirchberger and O’Keeffe, 2019, p. 12.
+54. China Power Project, “Does China Have an Effective S­ ea-Based Nuclear Deterrent?,” CSIS,
+December 28, 2015, https://chinapower.csis.org/ssbn/, accessed May 5, 2022; Duchâtel and Kazakova
+2015.
+55. Matthew P. Funaiole, Joseph S. Bermudez, Jr., and Brian Hart, “A Glimpse of Chinese Ballistic Missile Submarines,” CSIS, August 4, 2021, https://www.csis.org/analysis/­g limpse-chinese-ballisticmissile-submarines, accessed May 5, 2022.
+56. U.S. Department of Defense 2020, p. 86; Shaan Shaikh, “China Flight Tests New ­J L-3 SLBM”
+(Washington, D.C.: CSIS Missile Defense Project, December 21, 2018); CSIS Missile Defense Project, “­J L2,” CSIS, July 31, 2021, https://missilethreat.csis.org/missile/­jl-2/, accessed May 5, 2022.
+57. Minnie Chan, “China’s New Nuclear Submarine Missiles Expand Range in U.S.: Analysts,”
+South China Morning Post, May 2, 2021, https://www.scmp.com/news/china/military/article/3131873/­
+chinas-new-nuclear-submarine-missiles-expand-range-us-analysts, accessed May 5, 2022.
+58. Catherine Wong, “‘Underwater Great Wall’: Chinese Firm Proposes Building Network of Submarine Detectors to Boost Nation’s Defense,” South China Morning Post, May 19, 2016, https://www.
+scmp.com/news/china/­d iplomacy-defence/article/1947212/­u nderwater-great-wall-chinese-firmproposes-building, accessed May 5, 2022; Ewen Levick, “China’s ‘Underwater Great Wall,’” Maritime
+Executive, June 18, 2018, https://www.­m aritime-executive.com/editorials/­c hina-s-underwater-greatwall, accessed May 5, 2022.
+59. Sam LaGrone, “China Reclaimed Land for South China Sea ­A nti-Submarine Helicopter Base
+Near Vietnam,” USNI News, February 15, 2016, https://news.usni.org/2016/02/15/­china-reclaimed-landfor-south-china-sea-anti-submarine-helicopter-base-near-vietnam, accessed May 5, 2022.
+60. Gregory B. Poling, “The Conventional Wisdom on China’s Island Bases Is Dangerously Wrong,”
+War on the Rocks, January 10, 2020, https://warontherocks.com/2020/01/­t he-conventional-wisdom-onchinas-island-bases-is-dangerously-wrong/, accessed May 5, 2022.
+61. Kirchberger and O’Keeffe 2019, p. 13.
+62. “2019 Defense White Paper: China’s National Defense in the New Era,” 中华人民共和国国防
+部 [Ministry of National Defense of the People’s Republic of China], July 24, 2019, http://eng.mod.gov.cn/
+news/­2019-07/24/content_4846443.htm, accessed May 5, 2022.
+63. Andrea Gilli and Mauro Gilli, “Why China Has Not Caught Up Yet,” International Security
+43(3) (2019), pp. 141–189, https://doi.org/10.1162/isec_a_00337.
+64. Anthony H. Cordesman and Joseph Kendall, “How China Plans to Utilize Space for A2/AD
+in the Pacific,” National Interest, August 17, 2016, https://nationalinterest.org/blog/­t he-buzz/­how-chinaplans-utilize-space-a2-ad-the-pacific-17383, accessed May 5, 2022; Mike Yeo, “China’s Missile and Space
+Tech Is Creating a Defensive Bubble Difficult to Penetrate,” Defense News, June 2, 2020, https://www.
+defensenews.com/global/­a sia-pacific/2020/06/01/­chinas-missile-and-space-tech-is-creating-a-defensivebubble-difficult-to-penetrate/, accessed May 5, 2022.
+65. Kirchberger and O’Keeffe 2019, p. 14.
+66. Ibid., p. 15.
+67. Shuang Cheng Tzu, “China’s Numerous Active Spaceports,” Space Today, n.d., http://www.
+spacetoday.org/Rockets/Spaceports/China.html, accessed May 5, 2022.
+68. Kevin Pollpeter et al., “China Dream, Space Dream: China’s Progress in Space Technologies and
+Implications for the United States” (U.S.–China Economic and Security Review Commission, February
+2015), p. 98; “­Shijian-18 Satellite & D
+­ FH-5 Platform,” Spaceflight101, January 2021, https://spaceflight101.
+com/­long-march-5-shijian-18/­shijian-18/, accessed May 5, 2022.
+69. 王辛莉 Wang Xinli, “海南首次展出文昌航天发射场设计模型图 [Hainan Exhibits for the
+First Time Design of Wenchang Space Launch Site],” 中国新闻图片网 [CNS Photo], April 29, 2008,
+https://web.archive.org/web/20110723124004/http://www.cnsphoto.com/trssearch/ShowLibDetailTrs.
+asp?RecID=11795527, accessed May 5, 2022.
+70. Leonard David, “China’s New Spaceport to Launch Country’s Largest Rocket Yet,” Space.Com,
+April 2, 2014, https://www.space.com/­25323-china-new-spaceport-rocket-launches.html, accessed May
+
+Control Through Cooperation?
+
+27
+
+5, 2022; 李厦 Li Sha et al., “长征五号遥三运载火箭运抵海南文昌 [­CZ-5 Launch Vehicle Yaosan Arrived
+in Wenchang, Hainan],” 观察者 [The Observer], October 27, 2019, https://www.guancha.cn/­i ndustryscience/2019_10_27_522891.shtml, accessed May 5, 2022.
+71. Gang Li, “China Begins Space Center Construction in Southern Island of Hainan,” People’s
+Daily, September 14, 2009, http://en.people.cn/90001/90781/90876/6756756.html, accessed May 5, 2022;
+“China Begins New Space Center Construction,” Space War, September 15, 2009, https://www.spacewar.
+com/reports/China_Begins_New_Space_Center_Construction_999.html, accessed May 5, 2022.
+72. “Wenchang Space Launch Centre,” China Space Report, n.d., https://chinaspacereport.
+wordpress.com/facilities/wenchang/, accessed May 5, 2022.
+73. U.S. Defense Intelligence Agency, “Challenges to Security in Space,” (DIA, February 2019), pp.
+8–10.
+74. Pollpeter et al. 2015, p. 14; See also: Chinese National Space Administration, “China’s Space
+Activities in 2016,” Information Office of the State Council of the PRC, December 2016, http://www.china.
+org.cn/government/whitepaper/node_7245058.htm, accessed May 5, 2022.
+75. Kirchberger and O’Keeffe 2019, p. 17.
+76. M. Taylor Fravel, “China’s Strategy in the South China Sea,” Contemporary Southeast Asia 33(3)
+(2011), pp. 292–319, https://doi.org/10.1355/­c s33-3b.
+77. Ibid., p. 294.
+78. For a full list of Chinese national legislation that is contingent on UNCLOS, see: UN Office of
+Legal Affairs, Division for Ocean Affairs and the Law of the Sea, “China,” United Nations, 2020, https://
+www.un.org/Depts/los/LEGISLATIONANDTREATIES/STATEFILES/CHN.htm, accessed May 5, 2022.
+79. Fravel 2011, p. 294.
+80. Ibid., pp. 298–299.
+81. International Crisis Group, “The Philippines’ Dilemma: How to Manage Tensions in the South
+China Sea,” Crisis Group, December 2, 2021, https://www.crisisgroup.org/asia/­north-east-asia/china/­316philippines-dilemma-how-manage-tensions-south-china-sea, accessed May 5, 2022.
+82. ISN ETH Zurich, “Declaration on the Conduct of Parties in the South China Sea,” PRIA,
+November 4, 2002, https://www.files.ethz.ch/isn/125380/5066_South_China_Sea.pdf, accessed May 5,
+2022.
+83. Renato Cruz De Castro, “­Twenty-First Century Philippines’ Policy Toward an Emergent China:
+From E
+­ qui-Balancing to Strategic Balancing,” Asian Politics & Policy 8(2) (April 2016), pp. 305–328,
+https://doi.org/10.1111/aspp.12249.
+84. Republic of the Philippines, “Memorial of the Philippines Volume 1,” Arbitration under Annex
+VII of the United Nations Convention on the Law of the Sea (Manila, March 2014), p. 50.
+85. Ian Storey, “China and the Philippines: Moving Beyond the South China Sea Dispute,” China
+Brief 6(17) (2007).
+86. Ernest Z. Bower, “The JMSU: A Tale of Bilateralism and Secrecy in the South China Sea,” Southeast Asia Program (Washington, D.C.: CSIS, July 27, 2010).
+87. Embassy of the PRC in the Philippines, “Joint Statement of the People’s Republic of China and
+the Republic of the Philippines,” Ministry of Foreign Affairs of the PRC, April 28, 2005, http://ph.­chinaembassy.org/eng/zfgx/zzgx/t199778.htm, accessed May 5, 2022.
+88. De Castro 2016, p. 306.
+89. Philippine Daily Inquirer, “Arroyo Couple Can Post Bail,” AsiaOne, December 30, 2011, https://
+www.asiaone.com/News/AsiaOne%2BNews/Asia/Story/­A1Story20111230-319035.html, accessed May 5,
+2022.
+90. Ian Storey, “Trouble and Strife in the South China Sea Part II: The Philippines and China,”
+China Brief 8(9) (2008).
+91. Marites Danguilan Vitug, “Rock Solid: Standing Up to China,” Minda News, August 6, 2018,
+https://www.mindanews.com/mindaviews/2018/08/­rock-solid-standing-up-to-china/, accessed May 5,
+2022.
+92. “Hu Jintao Holds Talks with Philippine President,” Ministry of Foreign Affairs of the PRC,
+August 31, 2011, https://www.mfa.gov.cn/ce/cedk/eng/TourChina/t855400.htm, accessed May 5, 2022.
+93. “Philippines ‘Interests Above Nobel,’” Aljazeera, December 12, 2010, https://www.aljazeera.
+com/news/2010/12/12/­philippines-interests-above-nobel, accessed May 5, 2022; “Philippine Government Must Respect Taiwan Sovereignty,” Taiwan Today, February 11, 2011, https://taiwantoday.tw/news.
+php?unit=2&post=1666, accessed May 5, 2022.
+94. International Crisis Group, “Stirring Up the South China Sea (II): Regional Responses,” Crisis
+
+28
+
+Journal of Territorial and Maritime Studies, Summer/Fall 2022
+
+Group, July 24, 2012, https://www.crisisgroup.org/asia/­s outh-east-asia/­s outh-china-sea/­stirring-southchina-sea-ii-regional-responses, accessed May 5, 2022.
+ 	95. Renato Cruz De Castro, “Philippine Strategic Culture: Continuity in the Face of Changing
+Regional Dynamics,” Contemporary Security Policy 35(2) (2014), pp. 249–269, https://doi.org/10.1080/13
+523260.2014.927673.
+ 	96. See for example: Renato Cruz De Castro, “The Aquino Administration’s Balancing Policy
+Against an Emergent China: Its Domestic and External Dimensions,” Pacific Affairs 87(1) (2014), pp. 5–27,
+https://doi.org/10.5509/2014871005.
+ 	97. Sebastian Strangio, In the Dragon’s Shadow: Southeast Asia in the Chinese Century (New
+Haven: Yale University Press, 2020), p. 253, https://doi.org/10.12987/9780300256253.
+ 	98. Manuel Mogato, “Philippines’ Duterte Says Talks with China on Sea Dispute ‘Within the
+Year,’” Reuters, August 23, 2016, https://www.reuters.com/article/­u s-southchinasea-ruling-philippines/­
+philippines-duterte-says-talks-with-china-on-sea-dispute-within-the-year-idUSKCN10Y19E, accessed
+May 5, 2022.
+ 	99. Richard Javad Heydarian, “Assessing Duterte’s Diplomacy,” Council on Foreign Relations, September 15, 2016, https://www.cfr.org/blog/­a ssessing-dutertes-diplomacy, accessed May 5, 2022.
+100. “Joint Statement on the Application of the Code for Unplanned Encounters at Sea in the South
+China Sea,” ASEAN, September 7, 2016, https://asean.org/­joint-statement-on-the-application-of-thecode-for-unplanned-encounters-at-sea-in-the-south-china-sea/, accessed May 5, 2022.
+101. Michael Peel, “Divided Asean Nations Issue Mild Statement on South China Sea,” Financial Times, September 8, 2016, https://www.ft.com/content/­e e78dad2-75a6-11e6-b60a-de4532d5ea35,
+accessed May 5, 2022.
+102. Ankit Panda, “Philippine President Rodrigo Duterte Meets Xi Jinping: First Takeaways,” The
+Diplomat, October 21, 2016, https://thediplomat.com/2016/10/­philippine-president-rodrigo-dutertemeets-xi-jinping-first-takeaways/, accessed May 5, 2022.
+103. Emily Rauhala, “South China Sea Dispute: China Has Quietly Stopped Chasing Fishermen
+from Contested Shoal,” Sydney Morning Post, October 29, 2016, https://www.smh.com.au/world/­s outhchina-sea-dispute-china-has-quietly-stopped-chasing-fishermen-from-contested-shoal-20161029gsdlbs.html, accessed May 5, 2022.
+104. Prashanth Parameswaran, “China, Philippines Mull New Coast Guard Cooperation,” The Diplomat, December 17, 2016, https://thediplomat.com/2016/12/­c hina-philippines-mull-new-coast-guardcooperation/, accessed May 5, 2022.
+105. Kristin Huang, “China, Philippines Talks Silent on Militarization of South China Sea,”
+South China Morning Post, February 14, 2018, https://www.scmp.com/news/china/­d iplomacy-defence/
+article/2133327/­china-philippines-talks-silent-militarisation-south, accessed May 5, 2022.
+106. Kristin Huang, “Beijing Sees Joint Energy Venture with Manila as a ‘Model’ for Resolving
+South China Sea Disputes,” South China Morning Post, July 26, 2017, https://www.scmp.com/news/china/­
+diplomacy-defence/article/2104097/­b eijing-sees-joint-energy-venture-manila-model, accessed May 5,
+2022.
+107. “Duterte Visits Chinese Warships in Hometown Davao in First Philippines Port Call Since 2010,”
+South China Morning Post, May 1, 2017, https://www.scmp.com/news/asia/diplomacy/article/2092036/­
+duterte-visits-chinese-warships-hometown-davao-first-philippines, accessed May 5, 2022.
+108. Hui Xu and Xianyu Cao, “A Perspective on China’s Maritime Strategy,” in Handbook of Naval
+Strategy and Security, ed. Joachim Krause and Sebastian Bruns (Abingdon: Routledge, 2016), pp. 339–350.
+109. Jeffrey Wilson, “Australia Shows the World What Decoupling from China Looks Like,” Foreign Policy, November 9, 2021, https://foreignpolicy.com/2021/11/09/­australia-china-decoupling-tradesanctions-coronavirus-geopolitics/, accessed May 5, 2022; Ernst, 2021.
+110. Victor Cha and Andy Lim, “Flagrant Foul: China’s Predatory Liberalism and the NBA,”
+The Washington Quarterly 42(4) (October 2, 2019), pp. 23–42, https://doi.org/10.1080/0163660X.2019.
+1694265.
+
+Biographical Statement
+Maximilian Ernst is a researcher with the Centre for Security, Diplomacy, and Strategy
+(CSDS) at the Brussels School of Governance and a PhD candidate at the Vrije Universiteit
+Control Through Cooperation?
+
+29
+
+Brussels. His research focuses on A
+­ sia-Pacific security, particularly Chinese foreign policy
+towards regional states. He received a B.A from the J­ ohannes-Gutenberg University Mainz
+and an M.A. from Yonsei University. In 2020, Maximilian was a transatlantic fellow at the
+AICGS at Johns Hopkins University. His research has been published in journals such as
+North Korean Review, Asian Journal of Peacebuilding, Asian Perspective, and Journal for
+Intelligence, Propaganda and Security Studies.
+
+Submitted: 01-25-2022 • Sent for Review: 02-02-2022 • Decision: 03-03-2022
+
+30
+
+Journal of Territorial and Maritime Studies, Summer/Fall 2022
+
+
