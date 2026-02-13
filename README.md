@@ -1,4 +1,4 @@
-This Python script performs advanced data extraction and web scraping tasks. Using a list of websites, the script extracts text content from each site and saves it into individual .txt files for further analysis or processing.
+This Python script performs advanced data extraction and web scraping tasks (especially to collect texts for qualitative analysis). Using a list of websites, the script extracts text content from each site and saves it into individual .txt files for further analysis or processing.
 
 
 **Features:**
