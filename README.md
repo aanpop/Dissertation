@@ -23,7 +23,7 @@ The script utilizes the following Python libraries:
 
 **Usage**
 
--Prepare an excel file containing a list of website URLs. In this case I use this file as already prepared ([link](https://unicorvinus-my.sharepoint.com/:x:/g/personal/ahmad_anwar_stud_uni-corvinus_hu/Ebj9lew58YRJm_Hq9_JBZcgBJgtlucB8bJj6AkFTOhH78Q?e=tKxksl)).
+-Prepare an excel file containing a list of website URLs. In this case I use the excel called 'Summary of all.xlsx' file located in 'Qualitative_Data' directory.
 
 -Run the Python script by providing the file as input.
 
