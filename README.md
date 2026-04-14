@@ -23,20 +23,15 @@ It has two main 'slots' of data: Qualitative data, stored in the 'Qualitative_Da
       
       The script utilizes the following Python libraries:
       
-      -pandas: for handling and processing data.
-      
-      -requests: for making HTTP requests to retrieve webpage content.
-      
+      -pandas: for handling and processing data.      
+      -requests: for making HTTP requests to retrieve webpage content.      
       -BeautifulSoup4: for parsing and extracting data from HTML and XML documents.
       
       
       **Usage**
       
       -Prepare an excel file containing a list of website URLs.
-      
-      
-      -Run the Python script by providing the file as input.
-      
+      -Run the Python script by providing the file as input.      
       -Extracted text from each website will be saved in a .txt file.
 
 
@@ -68,7 +63,6 @@ It has two main 'slots' of data: Qualitative data, stored in the 'Qualitative_Da
       **Requirements:**
       
       -Input Data: A .zip file containing the text documents (e.g., /content/text data.zip) must be available and its path correctly specified in the zip_path variable.
-      
       -Python Libraries: The code relies on os, zipfile, re, json, traceback, collections, and pandas. These are standard libraries, but pandas might need installation (pip install pandas).
       
       **Usages:**
